@@ -29,10 +29,16 @@
 
                   buildInputs = with pkgs; [
                     dotnetCorePackages.dotnet_8.sdk
+                    dotnetCorePackages.dotnet_8.runtime
+                    dotnetCorePackages.dotnet_8.aspnetcore
+                    roslyn-ls
+                    csharp-ls
                   ];
 
                   nativeBuildInputs = with pkgs;
                     [
+                      msbuild
+                      roslyn
                     ];
                 };
           });
