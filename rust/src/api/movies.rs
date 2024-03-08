@@ -1,6 +1,6 @@
 use crate::model::movie::Movie;
 use crate::model::openai::{OAIRequest, OAIResponse, UserMessage};
-use actix_web::http::{header::ContentType, StatusCode};
+use actix_web::http::header::ContentType;
 use actix_web::{get, web, HttpResponse, Result};
 use serde::{Deserialize, Serialize};
 use serde_json::{from_str, to_string};
