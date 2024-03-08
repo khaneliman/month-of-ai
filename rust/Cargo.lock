@@ -1065,6 +1065,7 @@ dependencies = [
  "actix-web",
  "env_logger",
  "log",
+ "mime",
  "openai-api-rs",
  "reqwest",
  "serde",

@@ -1,5 +1,6 @@
 use crate::model::movie::Movie;
 use crate::model::openai::{OAIRequest, OAIResponse, UserMessage};
+use actix_web::http::{header::ContentType, StatusCode};
 use actix_web::{get, web, HttpResponse, Result};
 use serde::{Deserialize, Serialize};
 use serde_json::{from_str, to_string};
@@ -64,5 +65,11 @@ async fn ask_question(
 
     let json: OAIResponse = from_str(&response_body)?;
 
-    return Ok(HttpResponse::Ok().json(json.choices[0].message.content.as_str()));
+    let message = json.choices[0].message.content.to_string();
+
+    let response = HttpResponse::Ok()
+        .insert_header(ContentType(mime::TEXT_PLAIN))
+        .body(message);
+
+    return Ok(response);
 }
