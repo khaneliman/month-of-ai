@@ -1,15 +1,10 @@
 use crate::model::movie::Movie;
 use crate::model::openai::{OAIRequest, OAIResponse, UserMessage};
+use crate::model::query::QueryObject;
 use actix_web::http::header::ContentType;
 use actix_web::{get, web, HttpResponse, Result};
-use serde::{Deserialize, Serialize};
 use serde_json::{from_str, to_string};
 use spinners::{Spinner, Spinners};
-
-#[derive(Serialize, Deserialize, Debug)]
-struct QueryObject {
-    question: String,
-}
 
 #[get("/api/movies/{movie_id}/askQuestion")]
 async fn ask_question(
@@ -17,7 +12,7 @@ async fn ask_question(
     query_object: web::Query<QueryObject>, // Extract question from query string
 ) -> Result<HttpResponse, Box<dyn std::error::Error>> {
     println!("Movie ID: {}", movie_id);
-    println!("Question: {}", query_object.question);
+    println!("Question: {}", query_object.question());
 
     let client = reqwest::Client::new();
 
@@ -39,7 +34,8 @@ async fn ask_question(
         content: format!(
             "Please answer the question using the provided context.
             Context: {:?}, Question: {}",
-            movie, query_object.question
+            movie,
+            query_object.question()
         ),
     };
 
