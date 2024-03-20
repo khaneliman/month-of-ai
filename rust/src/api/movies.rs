@@ -12,6 +12,7 @@ use spinners::{Spinner, Spinners};
 async fn fetch_movie_details(movie_id: &str) -> Result<Movie, Box<dyn std::error::Error>> {
     let client = reqwest::Client::new();
 
+    // Fetch movie details for movie_id
     let movie_details_response = client
         .get(format!(
             "https://srch-ai-demo.search.windows.net/indexes/idx-movies/docs/{}?api-version=2023-11-01",
@@ -70,6 +71,7 @@ async fn ask_question(
     let body = to_string(&oai_request).unwrap();
     // println!("{}", body);
 
+    // Call API with prompt and parse response
     let prompt_response = client
         .post(format!(
             "{}openai/deployments/{}/chat/completions?api-version={}",
@@ -91,6 +93,7 @@ async fn ask_question(
     let message = json.choices[0].message.content.to_string();
     println!("{}", message);
 
+    // Return the response as plain text
     let response = HttpResponse::Ok()
         .insert_header(ContentType(mime::TEXT_PLAIN))
         .body(message);

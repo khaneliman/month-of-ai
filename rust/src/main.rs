@@ -32,7 +32,7 @@ async fn main() -> std::io::Result<()> {
                 header::ACCEPT,
                 header::CONTENT_TYPE,
             ])
-            .max_age(3600); // Set preflight request cache duration (optional)
+            .max_age(3600);
 
         let logger = Logger::default();
         App::new()
