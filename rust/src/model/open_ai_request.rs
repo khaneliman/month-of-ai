@@ -43,10 +43,17 @@ impl MessageBuilder {
     }
 }
 
+#[derive(Debug, Serialize, Deserialize)]
+#[serde(rename_all = "snake_case")]
+pub enum ResponseType {
+    Text,
+    JsonObject,
+}
+
 #[derive(Serialize, Deserialize, Debug)]
 pub struct ResponseFormat {
     #[serde(rename = "type")]
-    pub type_: String,
+    pub type_: ResponseType,
 }
 
 #[derive(Serialize, Deserialize, Debug)]
