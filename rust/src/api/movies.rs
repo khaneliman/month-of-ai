@@ -32,8 +32,8 @@ async fn ask_question(
     movie_id: web::Path<String>,              // Extract movieID from path
     query_object: web::Query<QuestionObject>, // Extract question from query string
 ) -> Result<HttpResponse, Box<dyn std::error::Error>> {
-    println!("Movie ID: {}", movie_id);
-    println!("Question: {}", query_object.question);
+    // println!("Movie ID: {}", movie_id);
+    // println!("Question: {}", query_object.question);
 
     let client = reqwest::Client::new();
 
@@ -93,7 +93,7 @@ async fn ask_question(
 async fn get_movie_criteria(
     input_object: web::Query<InputObject>, // Extract question from query string
 ) -> Result<String, Box<dyn std::error::Error>> {
-    println!("Question: {}", input_object.input);
+    // println!("Question: {}", input_object.input);
 
     let client = reqwest::Client::new();
 
@@ -142,20 +142,11 @@ async fn get_movie_criteria(
     sp.stop();
 
     let response_body = prompt_response.text().await?;
-    println!("{}", response_body);
+    // println!("{}", response_body);
 
     let json: OAIResponse = from_str(&response_body)?;
-    // let json: MovieCriteria = from_str(&response_body)?;
-    // println!("{:?}", json);
 
     let message = json.choices[0].message.content.to_string();
-    // println!("{}", message);
-
-    // let response = HttpResponse::Ok()
-    // .insert_header(ContentType(mime::APPLICATION_JSON))
-    // .body(response_body);
-
-    // println!("Response: {:?}", response);
 
     return Ok(message);
 }
