@@ -146,6 +146,10 @@ async fn get_movie_criteria(
 
     let json: OAIResponse = from_str(&response_body)?;
 
+    let movie_criteria_response: MovieCriteria =
+        from_str(&json.choices[0].message.content.to_string())?;
+    println!("{:?}", movie_criteria_response);
+
     let message = json.choices[0].message.content.to_string();
 
     return Ok(message);
