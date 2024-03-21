@@ -1,6 +1,8 @@
 mod api;
 mod model;
 
+use std::{fs::File, io::Read};
+
 use actix_cors::Cors;
 use actix_web::{http::header, middleware::Logger, web, App, HttpServer};
 use api::movies::{ask_question, get_movie_criteria};
@@ -11,6 +13,15 @@ async fn main() -> std::io::Result<()> {
     std::env::set_var("RUST_BACKTRACE", "1");
 
     env_logger::init();
+
+    let mut config_file = File::open("config.yaml")?;
+    let mut config_str = String::new();
+    config_file.read_to_string(&mut config_str)?;
+
+    let config: crate::model::config::Config =
+        serde_yaml::from_str(&config_str).expect("error getting config");
+
+    println!("{:?}", config);
 
     HttpServer::new(move || {
         let cors = Cors::default()
@@ -28,6 +39,7 @@ async fn main() -> std::io::Result<()> {
             .wrap(logger)
             .wrap(cors)
             .app_data(web::JsonConfig::default().limit(4096)) // <- limit size of the payload (global configuration)
+            .app_data(web::Data::new(config.clone()))
             .service(ask_question)
             .service(get_movie_criteria)
     })
