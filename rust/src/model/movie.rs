@@ -18,7 +18,7 @@ pub struct Movie {
     runtime: u32,
     tagline: String,
     genres: Vec<String>,
-    credits: Option<Credits>,
+    cast: Vec<Cast>,
     keywords: Vec<String>,
     mpaa: String,
     summaries: Vec<String>,
@@ -27,22 +27,8 @@ pub struct Movie {
 }
 
 #[derive(Deserialize, Debug)]
-struct Credits {
-    cast: Vec<Cast>,
-    crew: Vec<Crew>,
-}
-
-#[derive(Deserialize, Debug)]
 struct Cast {
     name: String,
     character: String,
-    profile_path: String,
-}
-
-#[derive(Deserialize, Debug)]
-struct Crew {
-    name: String,
-    department: String,
-    job: String,
     profile_path: String,
 }
