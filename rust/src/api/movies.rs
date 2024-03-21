@@ -1,5 +1,6 @@
 use crate::model::movie::Movie;
-use crate::model::openai::{Message, OAIRequest, OAIResponse};
+use crate::model::open_ai_request::{Message, OAIRequest};
+use crate::model::open_ai_response::OAIResponse;
 use crate::model::query::QueryObject;
 use actix_web::http::header::ContentType;
 use actix_web::{get, web, HttpResponse, Result};
@@ -27,7 +28,7 @@ async fn ask_question(
 
     let movie_details = &movie_details_response.text().await?;
     let movie: Movie = from_str(movie_details)?;
-    println!("{:?}", movie);
+    // println!("{:?}", movie);
 
     let system_message = Message::builder()
         .role(String::from("system"))
@@ -49,7 +50,7 @@ async fn ask_question(
         .build();
 
     let body = to_string(&oai_request).unwrap();
-    println!("{}", body);
+    // println!("{}", body);
 
     let prompt_response = client
         .post("https://oai-ai-demo-east.openai.azure.com/openai/deployments/gpt-4-turbo-preview/chat/completions?api-version=2024-02-15-preview")
@@ -62,7 +63,7 @@ async fn ask_question(
     sp.stop();
 
     let response_body = prompt_response.text().await?;
-    println!("{}", response_body);
+    // println!("{}", response_body);
 
     let json: OAIResponse = from_str(&response_body)?;
 
