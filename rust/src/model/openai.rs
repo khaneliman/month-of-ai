@@ -65,6 +65,35 @@ pub struct OAIRequest {
     pub messages: Vec<Message>,
 }
 
+impl OAIRequest {
+    pub fn builder() -> OAIRequestBuilder {
+        OAIRequestBuilder::new()
+    }
+}
+
+pub struct OAIRequestBuilder {
+    messages: Vec<Message>,
+}
+
+impl OAIRequestBuilder {
+    pub fn new() -> Self {
+        OAIRequestBuilder {
+            messages: Vec::new(),
+        }
+    }
+
+    pub fn message(mut self, message: Message) -> Self {
+        self.messages.push(message);
+        self
+    }
+
+    pub fn build(self) -> OAIRequest {
+        OAIRequest {
+            messages: self.messages,
+        }
+    }
+}
+
 #[derive(Serialize, Deserialize, Debug)]
 pub struct OAIChoiceResponse {
     pub message: Message,
