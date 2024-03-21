@@ -29,15 +29,15 @@ async fn ask_question(
     let movie: Movie = from_str(movie_details)?;
     println!("{:?}", movie);
 
-    let message = UserMessage {
-        role: "user".to_string(),
-        content: format!(
-            "Please answer the question using the provided context.
-            Context: {:?}, Question: {}",
+    let message = UserMessage::builder()
+        .role(String::from("user"))
+        .content(format!(
+            "please answer the question using the provided context.
+            context: {:?}, question: {}",
             movie,
             query_object.question()
-        ),
-    };
+        ))
+        .build();
 
     let oai_request = OAIRequest {
         messages: vec![message],
