@@ -3,7 +3,7 @@ mod model;
 
 use actix_cors::Cors;
 use actix_web::{http::header, middleware::Logger, web, App, HttpServer};
-use api::movies::ask_question;
+use api::movies::{ask_question, get_movie_criteria};
 
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
@@ -29,6 +29,7 @@ async fn main() -> std::io::Result<()> {
             .wrap(cors)
             .app_data(web::JsonConfig::default().limit(4096)) // <- limit size of the payload (global configuration)
             .service(ask_question)
+            .service(get_movie_criteria)
     })
     .bind(("127.0.0.1", 8080))?
     .run()
