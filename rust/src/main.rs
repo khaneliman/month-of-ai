@@ -25,7 +25,7 @@ async fn main() -> std::io::Result<()> {
 
     HttpServer::new(move || {
         let cors = Cors::default()
-            .allowed_origin("http://localhost:4001") // For development
+            .allowed_origin(&config.front_end_url) // For development
             .allowed_methods(vec!["GET", "POST"])
             .allowed_headers(vec![
                 header::AUTHORIZATION,
