@@ -7,6 +7,25 @@ use actix_web::{get, web, HttpResponse, Result};
 use serde_json::{from_str, to_string};
 use spinners::{Spinner, Spinners};
 
+async fn fetch_movie_details(movie_id: &str) -> Result<Movie, Box<dyn std::error::Error>> {
+    let client = reqwest::Client::new();
+
+    let movie_details_response = client
+        .get(format!(
+            "https://srch-ai-demo.search.windows.net/indexes/idx-movies/docs/{}?api-version=2023-11-01",
+            movie_id
+        ))
+        .header("Content-Type", "application/json")
+        .header("api-key", "***REMOVED***")
+        .send()
+        .await?;
+
+    let movie_details = movie_details_response.text().await?;
+    let movie: Movie = from_str(&movie_details)?;
+
+    Ok(movie)
+}
+
 #[get("/api/movies/{movie_id}/askQuestion")]
 async fn ask_question(
     movie_id: web::Path<String>,           // Extract movieID from path
@@ -19,15 +38,7 @@ async fn ask_question(
 
     let mut sp = Spinner::new(Spinners::Dots9, "\t\tOpenAI is thinking...".into());
 
-    let movie_details_response = client
-        .get(format!("https://srch-ai-demo.search.windows.net/indexes/idx-movies/docs/{}?api-version=2023-11-01", movie_id))
-        .header("Content-Type", "application/json")
-        .header("api-key", "***REMOVED***")
-        .send()
-        .await?;
-
-    let movie_details = &movie_details_response.text().await?;
-    let movie: Movie = from_str(movie_details)?;
+    let movie = fetch_movie_details(&movie_id).await?;
     // println!("{:?}", movie);
 
     let system_message = Message::builder()
