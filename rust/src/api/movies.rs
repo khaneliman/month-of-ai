@@ -1,5 +1,5 @@
 use crate::model::movie::Movie;
-use crate::model::openai::{OAIRequest, OAIResponse, UserMessage};
+use crate::model::openai::{Message, OAIRequest, OAIResponse};
 use crate::model::query::QueryObject;
 use actix_web::http::header::ContentType;
 use actix_web::{get, web, HttpResponse, Result};
@@ -29,7 +29,7 @@ async fn ask_question(
     let movie: Movie = from_str(movie_details)?;
     println!("{:?}", movie);
 
-    let message = UserMessage::builder()
+    let message = Message::builder()
         .role(String::from("user"))
         .content(format!(
             "please answer the question using the provided context.

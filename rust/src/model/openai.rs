@@ -17,32 +17,26 @@ pub struct OAIResponse {
     pub choices: Vec<OAIChoiceResponse>,
 }
 
-// #[derive(Serialize, Debug)]
-// pub struct OAIRequest {
-//     pub prompt: String,
-//     pub max_tokens: u32,
-// }
-
 #[derive(Serialize, Deserialize, Debug)]
-pub struct UserMessage {
+pub struct Message {
     pub role: String,
     pub content: String,
 }
 
-impl UserMessage {
-    pub fn builder() -> UserMessageBuilder {
-        UserMessageBuilder::new()
+impl Message {
+    pub fn builder() -> MessageBuilder {
+        MessageBuilder::new()
     }
 }
 
-pub struct UserMessageBuilder {
+pub struct MessageBuilder {
     role: Option<String>,
     content: Option<String>,
 }
 
-impl UserMessageBuilder {
+impl MessageBuilder {
     pub fn new() -> Self {
-        UserMessageBuilder {
+        MessageBuilder {
             role: None,
             content: None,
         }
@@ -58,8 +52,8 @@ impl UserMessageBuilder {
         self
     }
 
-    pub fn build(self) -> UserMessage {
-        UserMessage {
+    pub fn build(self) -> Message {
+        Message {
             role: self.role.expect("Role is required for UserMessage"),
             content: self.content.expect("Content is required for UserMessage"),
         }
@@ -68,10 +62,10 @@ impl UserMessageBuilder {
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct OAIRequest {
-    pub messages: Vec<UserMessage>,
+    pub messages: Vec<Message>,
 }
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct OAIChoiceResponse {
-    pub message: UserMessage,
+    pub message: Message,
 }
