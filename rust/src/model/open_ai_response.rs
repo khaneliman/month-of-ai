@@ -1,5 +1,5 @@
 use super::open_ai_request::Message;
-use serde_derive::{Deserialize, Serialize};
+use serde::{Deserialize, Serialize};
 
 #[derive(Deserialize, Debug)]
 pub struct OAIChoices {

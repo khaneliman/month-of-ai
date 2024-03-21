@@ -1,4 +1,4 @@
-use serde_derive::Deserialize;
+use serde::{Deserialize, Serialize};
 
 #[derive(Deserialize, Debug)]
 pub struct Movie {

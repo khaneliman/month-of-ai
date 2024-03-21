@@ -1079,7 +1079,6 @@ dependencies = [
  "openai-api-rs",
  "reqwest",
  "serde",
- "serde_derive",
  "serde_json",
  "spinners",
  "strum 0.26.1",
