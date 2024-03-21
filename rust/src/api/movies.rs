@@ -1,3 +1,4 @@
+use crate::model::config::Config;
 use crate::model::movie::{Movie, MovieCriteria};
 use crate::model::open_ai_request::ResponseType::JsonObject;
 use crate::model::open_ai_request::{Message, OAIRequest, ResponseFormat};
@@ -31,9 +32,13 @@ async fn fetch_movie_details(movie_id: &str) -> Result<Movie, Box<dyn std::error
 async fn ask_question(
     movie_id: web::Path<String>,              // Extract movieID from path
     query_object: web::Query<QuestionObject>, // Extract question from query string
+    config: web::Data<Config>,
 ) -> Result<HttpResponse, Box<dyn std::error::Error>> {
     // println!("Movie ID: {}", movie_id);
     // println!("Question: {}", query_object.question);
+    // println!("Parsed config: {:?}", config);
+
+    let config_data = config.clone();
 
     let client = reqwest::Client::new();
 
@@ -57,7 +62,7 @@ async fn ask_question(
         .build();
 
     let oai_request = OAIRequest::builder()
-        .model(String::from("gpt-4-turbo-preview"))
+        .model(String::from(config_data.open_ai.model.clone()))
         .message(system_message)
         .message(user_message)
         .build();
@@ -66,9 +71,12 @@ async fn ask_question(
     // println!("{}", body);
 
     let prompt_response = client
-        .post("https://oai-ai-demo-east.openai.azure.com/openai/deployments/gpt-4-turbo-preview/chat/completions?api-version=2024-02-15-preview")
+        .post(format!(
+            "{}openai/deployments/{}/chat/completions?api-version={}",
+            config_data.open_ai.url, config_data.open_ai.model, config_data.open_ai.api_version
+        ))
         .header("Content-Type", "application/json")
-        .header("api-key", "***REMOVED***")
+        .header("api-key", config_data.open_ai.key.clone())
         .body(body)
         .send()
         .await?;
@@ -81,6 +89,7 @@ async fn ask_question(
     let json: OAIResponse = from_str(&response_body)?;
 
     let message = json.choices[0].message.content.to_string();
+    println!("{}", message);
 
     let response = HttpResponse::Ok()
         .insert_header(ContentType(mime::TEXT_PLAIN))
@@ -92,8 +101,10 @@ async fn ask_question(
 #[get("/api/movieCriteria")]
 async fn get_movie_criteria(
     input_object: web::Query<InputObject>, // Extract question from query string
+    config: web::Data<Config>,
 ) -> Result<String, Box<dyn std::error::Error>> {
     // println!("Question: {}", input_object.input);
+    let config_data = config.clone();
 
     let client = reqwest::Client::new();
 
@@ -122,7 +133,7 @@ async fn get_movie_criteria(
         .build();
 
     let oai_request = OAIRequest::builder()
-        .model(String::from("gpt-4-turbo-preview"))
+        .model(String::from(config_data.open_ai.model.clone()))
         .message(system_message)
         .message(user_message)
         .response_format(ResponseFormat { type_: JsonObject })
@@ -132,9 +143,12 @@ async fn get_movie_criteria(
     // println!("Movie Criteria Request: {}", body);
 
     let prompt_response = client
-        .post("https://oai-ai-demo-east.openai.azure.com/openai/deployments/gpt-4-turbo-preview/chat/completions?api-version=2024-02-15-preview")
+        .post(format!(
+            "{}openai/deployments/{}/chat/completions?api-version={}",
+            config_data.open_ai.url, config_data.open_ai.model, config_data.open_ai.api_version
+        ))
         .header("Content-Type", "application/json")
-        .header("api-key", "***REMOVED***")
+        .header("api-key", config_data.open_ai.key.clone())
         .body(body)
         .send()
         .await?;
