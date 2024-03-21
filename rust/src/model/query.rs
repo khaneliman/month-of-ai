@@ -1,6 +1,7 @@
 use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Debug)]
-pub struct QueryObject {
+pub struct QuestionObject {
     pub question: String,
 }
+

@@ -1,7 +1,7 @@
 use crate::model::movie::Movie;
 use crate::model::open_ai_request::{Message, OAIRequest};
 use crate::model::open_ai_response::OAIResponse;
-use crate::model::query::QueryObject;
+use crate::model::query::QuestionObject;
 use actix_web::http::header::ContentType;
 use actix_web::{get, web, HttpResponse, Result};
 use serde_json::{from_str, to_string};
@@ -28,8 +28,8 @@ async fn fetch_movie_details(movie_id: &str) -> Result<Movie, Box<dyn std::error
 
 #[get("/api/movies/{movie_id}/askQuestion")]
 async fn ask_question(
-    movie_id: web::Path<String>,           // Extract movieID from path
-    query_object: web::Query<QueryObject>, // Extract question from query string
+    movie_id: web::Path<String>,              // Extract movieID from path
+    query_object: web::Query<QuestionObject>, // Extract question from query string
 ) -> Result<HttpResponse, Box<dyn std::error::Error>> {
     println!("Movie ID: {}", movie_id);
     println!("Question: {}", query_object.question);
