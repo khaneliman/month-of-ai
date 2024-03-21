@@ -13,7 +13,7 @@ async fn ask_question(
     query_object: web::Query<QueryObject>, // Extract question from query string
 ) -> Result<HttpResponse, Box<dyn std::error::Error>> {
     println!("Movie ID: {}", movie_id);
-    println!("Question: {}", query_object.question());
+    println!("Question: {}", query_object.question);
 
     let client = reqwest::Client::new();
 
@@ -41,7 +41,7 @@ async fn ask_question(
 
     let user_message = Message::builder()
         .role(String::from("user"))
-        .content(format!("{}", query_object.question()))
+        .content(format!("{}", query_object.question))
         .build();
 
     let oai_request = OAIRequest::builder()
