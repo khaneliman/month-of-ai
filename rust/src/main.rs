@@ -6,6 +6,7 @@ use std::{fs::File, io::Read};
 use actix_cors::Cors;
 use actix_web::{http::header, middleware::Logger, web, App, HttpServer};
 use api::movies::{ask_question, get_movie_criteria};
+use api::scraper::embed_movie_json;
 
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
@@ -42,6 +43,7 @@ async fn main() -> std::io::Result<()> {
             .app_data(web::Data::new(config.clone()))
             .service(ask_question)
             .service(get_movie_criteria)
+            .service(embed_movie_json)
     })
     .bind(("127.0.0.1", 8080))?
     .run()

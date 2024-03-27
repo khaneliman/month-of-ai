@@ -1,26 +1,31 @@
 use crate::model::config::Config;
-use actix_web::{get, web};
+use actix_web::http::header::ContentType;
+use actix_web::{get, web, HttpResponse, Result};
 use openai_api_rs::v1::api::Client;
 use openai_api_rs::v1::common::TEXT_EMBEDDING_3_LARGE;
-use openai_api_rs::v1::embedding::{EmbeddingRequest, EmbeddingResponse};
+use openai_api_rs::v1::embedding::EmbeddingRequest;
 use spinners::{Spinner, Spinners};
 use std::fs::File;
 use std::fs::OpenOptions;
 use std::io::Write;
 
+#[get("/api/embed_movie_json")]
 async fn embed_movie_json(
     config: web::Data<Config>,
-) -> Result<EmbeddingResponse, Box<dyn std::error::Error>> {
+) -> Result<HttpResponse, Box<dyn std::error::Error>> {
     let config_data = config.clone();
 
-    let client = Client::new(config_data.open_ai.key.to_string());
+    let client = Client::new_with_endpoint(
+        config_data.open_ai.url.to_string(),
+        config_data.open_ai.key.to_string(),
+    );
 
     // TODO: fetch movie json from data folder
 
     // TODO: replace dummy string with json data from files
     let mut req =
         EmbeddingRequest::new(TEXT_EMBEDDING_3_LARGE.to_string(), "story time".to_string());
-    req.dimensions = Some(1056);
+    req.dimensions = Some(1024);
 
     let mut sp = Spinner::new(Spinners::Dots9, "\t\tOpenAI is thinking...".into());
 
@@ -42,6 +47,9 @@ async fn embed_movie_json(
     }
 
     sp.stop();
+    let response = HttpResponse::Ok()
+        .insert_header(ContentType(mime::TEXT_PLAIN))
+        .body(json_str);
 
-    Ok(result)
+    return Ok(response);
 }
