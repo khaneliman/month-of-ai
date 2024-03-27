@@ -1,0 +1,590 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+  "id": 299534,
+  "title": "Avengers: Endgame",
+  "poster_path": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+  "release_date": "2019-04-24",
+  "vote_average": 8.258,
+  "vote_count": 24416,
+  "popularity": 144.798,
+  "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+  "imdb_id": "tt4154796",
+  "budget": 356000000,
+  "homepage": "https://www.marvel.com/movies/avengers-endgame",
+  "revenue": 2800000000,
+  "runtime": 181,
+  "tagline": "Avenge the fallen.",
+  "genres": [
+    "Adventure",
+    "Science Fiction",
+    "Action"
+  ],
+  "production_companies": [
+    "Marvel Studios"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Robert Downey Jr.",
+        "character": "Tony Stark / Iron Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/im9SAqJPZKEbVZGmjXuLI4O7RvM.jpg"
+      },
+      {
+        "name": "Chris Evans",
+        "character": "Steve Rogers / Captain America",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+      },
+      {
+        "name": "Mark Ruffalo",
+        "character": "Bruce Banner / Hulk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+      },
+      {
+        "name": "Chris Hemsworth",
+        "character": "Thor Odinson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xkHHiJXraaMFXgRYspN6KVrFn17.jpg"
+      },
+      {
+        "name": "Scarlett Johansson",
+        "character": "Natasha Romanoff / Black Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6NsMbJXRlDZuDzatN2akFdGuTvx.jpg"
+      },
+      {
+        "name": "Jeremy Renner",
+        "character": "Clint Barton / Hawkeye",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+      },
+      {
+        "name": "Don Cheadle",
+        "character": "James Rhodes / War Machine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vPzvP0Qik5yHNf6dF2uqLH9HrX1.jpg"
+      },
+      {
+        "name": "Paul Rudd",
+        "character": "Scott Lang / Ant-Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9iBLPdj6AVnfBI1B2c0vTnGRR24.jpg"
+      },
+      {
+        "name": "Benedict Cumberbatch",
+        "character": "Stephen Strange / Doctor Strange",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fBEucxECxGLKVHBznO0qHtCGiMO.jpg"
+      },
+      {
+        "name": "Chadwick Boseman",
+        "character": "T'Challa / Black Panther",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nL16SKfyP1b7Hk6LsuWiqMfbdb8.jpg"
+      },
+      {
+        "name": "Brie Larson",
+        "character": "Carol Danvers / Captain Marvel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8MvIsqatZIXyepKgqyjsOKgsPaI.jpg"
+      },
+      {
+        "name": "Tom Holland",
+        "character": "Peter Parker / Spider-Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yxYOaalFh8SUwNE5C0wzOwF89Ny.jpg"
+      },
+      {
+        "name": "Karen Gillan",
+        "character": "Nebula",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6WgDVH5OiR0gZ6WlQZSWgv3Wl1U.jpg"
+      },
+      {
+        "name": "Zoe Saldaña",
+        "character": "Gamora",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+      },
+      {
+        "name": "Evangeline Lilly",
+        "character": "Hope Van Dyne / Wasp",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4wWBoEWUkdsE8dp46zvDLf9jefC.jpg"
+      },
+      {
+        "name": "Tessa Thompson",
+        "character": "Valkyrie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cJ64yI9OiQN8Edp4FgAHiLuoWiQ.jpg"
+      },
+      {
+        "name": "Rene Russo",
+        "character": "Frigga",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yWPSqrv3nfPPKC6I2S0sRTWZ5Yi.jpg"
+      },
+      {
+        "name": "Elizabeth Olsen",
+        "character": "Wanda Maximoff / Scarlet Witch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wIU675y4dofIDVuhaNWPizJNtep.jpg"
+      },
+      {
+        "name": "Anthony Mackie",
+        "character": "Sam Wilson / Falcon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kfTwOYr3iUucmYz8kPjhYy07G2Z.jpg"
+      },
+      {
+        "name": "Sebastian Stan",
+        "character": "Bucky Barnes / Winter Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg"
+      },
+      {
+        "name": "Tom Hiddleston",
+        "character": "Loki",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+      },
+      {
+        "name": "Danai Gurira",
+        "character": "Okoye",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z7H7QeQvr24vskGlANQhG43vozQ.jpg"
+      },
+      {
+        "name": "Benedict Wong",
+        "character": "Wong",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+      },
+      {
+        "name": "Pom Klementieff",
+        "character": "Mantis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hfUKAI2kXTMMWjno0i4sLPJud5N.jpg"
+      },
+      {
+        "name": "Dave Bautista",
+        "character": "Drax",
+        "profile_path": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+      },
+      {
+        "name": "Letitia Wright",
+        "character": "Shuri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f7PevpEeBqwzACPhoZ8K3ktrKvE.jpg"
+      },
+      {
+        "name": "John Slattery",
+        "character": "Howard Stark",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t1mhOQR8XwCqp7xArTy8FCENTsR.jpg"
+      },
+      {
+        "name": "Tilda Swinton",
+        "character": "The Ancient One",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gWbX3a7V2MgRMRzekfITNcb27xV.jpg"
+      },
+      {
+        "name": "Jon Favreau",
+        "character": "Harold 'Happy' Hogan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+      },
+      {
+        "name": "Hayley Atwell",
+        "character": "Peggy Carter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zM53P3iVyEnRNEeotU4vCCv13II.jpg"
+      },
+      {
+        "name": "Natalie Portman",
+        "character": "Jane Foster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+      },
+      {
+        "name": "Marisa Tomei",
+        "character": "Aunt May",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5w6qM8FWsl5SutKSpx6Va64eCTE.jpg"
+      },
+      {
+        "name": "Taika Waititi",
+        "character": "Korg (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aH6MgwFhomAPNBRPyO2fhpU5kbk.jpg"
+      },
+      {
+        "name": "Angela Bassett",
+        "character": "Ramonda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+      },
+      {
+        "name": "Michael Douglas",
+        "character": "Dr. Hank Pym",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kVYGPIZowzXLEQfAGUNOqKjAbBb.jpg"
+      },
+      {
+        "name": "Michelle Pfeiffer",
+        "character": "Janet Van Dyne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oGUmQBU87QXAsnaGleYaAjAXSlj.jpg"
+      },
+      {
+        "name": "William Hurt",
+        "character": "Secretary of State Thaddeus 'Thunderbolt' Ross",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j3mjmuHLBW4XQSw53C8Sh0Lh3ZQ.jpg"
+      },
+      {
+        "name": "Cobie Smulders",
+        "character": "Maria Hill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2CSgHUIrEi57pwtzdAY3HAxrp31.jpg"
+      },
+      {
+        "name": "Sean Gunn",
+        "character": "On-Set Rocket / Kraglin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/72EeniY2lnlXLRvL34LnU0skfe5.jpg"
+      },
+      {
+        "name": "Winston Duke",
+        "character": "M'Baku",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pqwok07EgGGTCa80kmGQmb8ut8M.jpg"
+      },
+      {
+        "name": "Linda Cardellini",
+        "character": "Laura Barton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bcycvynDprC1rrhBNrnBjn5uOUd.jpg"
+      },
+      {
+        "name": "Maximiliano Hernández",
+        "character": "Agent Sitwell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yZYUmF4t7Wu3CWjAcSANvTlSop9.jpg"
+      },
+      {
+        "name": "Frank Grillo",
+        "character": "Brock Rumlow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/br2nPzelch2Tb3pZHnYAbXng7cz.jpg"
+      },
+      {
+        "name": "Hiroyuki Sanada",
+        "character": "Akihiko",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x6QHfdTvuuOclypoPqtdqQmlaGW.jpg"
+      },
+      {
+        "name": "Tom Vaughan-Lawlor",
+        "character": "Ebony Maw",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yArj06agLlBH9LCAp7gxphLkyqV.jpg"
+      },
+      {
+        "name": "James D'Arcy",
+        "character": "Jarvis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6CInTvBeLwXLx2id9TgaULaVEO4.jpg"
+      },
+      {
+        "name": "Jacob Batalon",
+        "character": "Ned",
+        "profile_path": "https://image.tmdb.org/t/p/w185/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+      },
+      {
+        "name": "Vin Diesel",
+        "character": "Groot (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+      },
+      {
+        "name": "Bradley Cooper",
+        "character": "Rocket (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lq68RaE8zK4lNaB49RWOukyorgn.jpg"
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "character": "Pepper Potts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/slPWN0VvYJtNOEuxlFSsXSNQMaF.jpg"
+      },
+      {
+        "name": "Robert Redford",
+        "character": "Alexander Pierce",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vNUABwck6CdDFtuZUxYIBA8VY83.jpg"
+      },
+      {
+        "name": "Josh Brolin",
+        "character": "Thanos",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+      },
+      {
+        "name": "Chris Pratt",
+        "character": "Peter Quill / Star-Lord",
+        "profile_path": "https://image.tmdb.org/t/p/w185/83o3koL82jt30EJ0rz4Bnzrt2dd.jpg"
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "character": "Nick Fury",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nCJJ3NVksYNxIzEHcyC1XziwPVj.jpg"
+      },
+      {
+        "name": "Lexi Rabe",
+        "character": "Morgan Stark",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o7AO3YXAFrtQgmP4qG4TGyTlMa6.jpg"
+      },
+      {
+        "name": "Ross Marquand",
+        "character": "Johann Schmidt / Red Skull (Stonekeeper)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2CxkVPimin0c2v7fUK3MGjgEnLt.jpg"
+      },
+      {
+        "name": "Joe Russo",
+        "character": "Grieving Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/679Os4tbY1YsU01KdLhM1NPXNWu.jpg"
+      },
+      {
+        "name": "Emma Fuhrmann",
+        "character": "Cassie Lang",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g65GKrbFaAVI1i0m10hjJm0JyD1.jpg"
+      },
+      {
+        "name": "Michael James Shaw",
+        "character": "Corvus Glaive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/djaWcSCBpXBV2wirtH4YX6t0YqT.jpg"
+      },
+      {
+        "name": "Terry Notary",
+        "character": "On-Set Groot / Cull Obsidian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nYs1Sd11czZNwcDyUYdHPwHHIRO.jpg"
+      },
+      {
+        "name": "Kerry Condon",
+        "character": "Friday (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8RO25vJxQSoNdhsVbiAHOsiGfvl.jpg"
+      },
+      {
+        "name": "Ben Sakamoto",
+        "character": "Cooper Barton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4hklkWgX9tvZoLVg8YYpMd2B1Pu.jpg"
+      },
+      {
+        "name": "Ava Russo",
+        "character": "Lila Barton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Qha8nYcqtjAJJPuh6fcNV5EDJG.jpg"
+      },
+      {
+        "name": "Cade Woodward",
+        "character": "Nathaniel Barton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6tXfrNe9ilHeAby6Eg5tNvq5MGY.jpg"
+      },
+      {
+        "name": "Stan Lee",
+        "character": "Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+      },
+      {
+        "name": "Yvette Nicole Brown",
+        "character": "S.H.I.E.L.D. Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tKCNqEQPynScG384Oj80vL6aDQQ.jpg"
+      },
+      {
+        "name": "Callan Mulvey",
+        "character": "Jack Rollins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wJ8P1yNVmkx1PS1mc6Pi48tphfG.jpg"
+      },
+      {
+        "name": "Lia Russo",
+        "character": "Lia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mQrsppQ2Tk83AQ31svVa3dNaZRA.jpg"
+      },
+      {
+        "name": "Julian Russo",
+        "character": "Julian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gamqqALWSExq0g7Rb49sclfsPNC.jpg"
+      },
+      {
+        "name": "Taylor Patterson",
+        "character": "Taylor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4VmF0hnLNHcOhvZvwitBV8fFxrR.jpg"
+      },
+      {
+        "name": "Agostino Rosalina",
+        "character": "Augie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xrOlnZfTXz9ok7L2fhOtQhYfQeh.jpg"
+      },
+      {
+        "name": "Ken Jeong",
+        "character": "Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9OAUwY25yPxItnkcnnJdtpNwMSp.jpg"
+      },
+      {
+        "name": "Ty Simpkins",
+        "character": "Harley Keener",
+        "profile_path": "https://image.tmdb.org/t/p/w185/38QMrTUxckeZLRoaYu1hiHjvs1o.jpg"
+      },
+      {
+        "name": "Jackson A. Dunn",
+        "character": "Scott Lang (12 Y.O.)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fHUH3GjxwO8yZgeoYKAL4b7b8X4.jpg"
+      },
+      {
+        "name": "Lee Moore",
+        "character": "Scott Lang (93 Y.O.)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uj7NTG4EyHrabyi3kxVvAst1l2X.jpg"
+      },
+      {
+        "name": "Bazlo LeClair",
+        "character": "Scott Lang (Baby)",
+        "profile_path": ""
+      },
+      {
+        "name": "Loen LeClair",
+        "character": "Scott Lang (Baby)",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew Berry",
+        "character": "S.H.I.E.L.D. Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oXUvMtJAFGwqSrUdlzMNRSN6uyI.jpg"
+      },
+      {
+        "name": "Joy McAvoy",
+        "character": "Asgardian Maiden",
+        "profile_path": "https://image.tmdb.org/t/p/w185/laHAwcM4U7alaRLSU8ulfEcmMIi.jpg"
+      },
+      {
+        "name": "John Michael Morris",
+        "character": "Young Hank Pym",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nSXqbe6DDQ8Y5HybqkGvtyJH2Sd.jpg"
+      },
+      {
+        "name": "Michael A. Cook",
+        "character": "Male S.H.I.E.L.D. Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yaCLLcmNKlfunpcJ3oBNKBPpaaH.jpg"
+      },
+      {
+        "name": "Brent McGee",
+        "character": "Camp Lehigh Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xGZjnWTIf5UXLZ0Ru1301MoTrva.jpg"
+      },
+      {
+        "name": "Brian Schaeffer",
+        "character": "Military Police",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jY25MFVciYg6pv576QbY9XqalCd.jpg"
+      },
+      {
+        "name": "Jamie Wedel",
+        "character": "Drill Sergeant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wkrcffIQEVF97C0qzRMO8adQwIL.jpg"
+      },
+      {
+        "name": "Anthony G Breed",
+        "character": "Young Stan Lee Double",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Lo88U26y65B40QBvKVyD2bSve.jpg"
+      },
+      {
+        "name": "Erica Ribley",
+        "character": "Car Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ocYlBiHFWZahrx6oYxkp13b7Dft.jpg"
+      },
+      {
+        "name": "Monique Ganderton",
+        "character": "On-Set Proxima Midnight",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kBhk7VQr42ge3g5iuLXsbpgWeIa.jpg"
+      },
+      {
+        "name": "Jim Starlin",
+        "character": "Support Group Man #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r92EWrlL4EI1aMpEjWN9xjfrJ40.jpg"
+      },
+      {
+        "name": "Jimmy Ray Pickens",
+        "character": "Support Group Man #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3PlKbLyhv9CEobL2oVxwS7gBpzJ.jpg"
+      },
+      {
+        "name": "Hye Jin Jang",
+        "character": "Japanese Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k4avZ76dgmPuc8vvK3O8pPsyYyr.jpg"
+      },
+      {
+        "name": "Russell Bobbitt",
+        "character": "Diner Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5KW97eHDacxWlBkhtyasBUETJcR.jpg"
+      },
+      {
+        "name": "James Lin",
+        "character": "Diner Cook",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Champion",
+        "character": "Kid on Bike",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8PXFKzhjFJ0oYP60Bj1kA44XBjY.jpg"
+      },
+      {
+        "name": "Sam Hargrave",
+        "character": "New Asgard Truck Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mq7KgHiyuwFOvxuEg8p0Z30pybY.jpg"
+      },
+      {
+        "name": "Patrick Gorman",
+        "character": "Old Steve Rogers Double",
+        "profile_path": "https://image.tmdb.org/t/p/w185/emmEX5N1ckdPKMSjpDCqtSG6AQE.jpg"
+      },
+      {
+        "name": "Aaron Lazar",
+        "character": "Doctor Strange Double",
+        "profile_path": "https://image.tmdb.org/t/p/w185/87xfF3QmQtYtlENybOvFL3bfMcr.jpg"
+      },
+      {
+        "name": "Robert Pralgo",
+        "character": "Thanos Reader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lF2UcQemojihJM4XlLGkWEEsJuJ.jpg"
+      },
+      {
+        "name": "Tom Wisdom",
+        "character": "Loki Reader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/69KhHucGYC0AYx92HuDCLS2y0n6.jpg"
+      },
+      {
+        "name": "John Posey",
+        "character": "Alexander Pierce Reader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sUk2tKOWTAkYAxMZ0QfhxdzboJf.jpg"
+      },
+      {
+        "name": "Ameenah Kaplan",
+        "character": "Gamora Reader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kECeBrZmUeuo2vbMY86ars99WvV.jpg"
+      },
+      {
+        "name": "Olaniyan Thurmon",
+        "character": "Teenage Groot Reader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tdn6j7JOEAVQwy3TF2xuyDulflT.jpg"
+      },
+      {
+        "name": "Jennifer Elmore",
+        "character": "On Set Reader #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Lutz",
+        "character": "On Set Reader #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bgFYBFips9NX3gyZqAUksv3b4jM.jpg"
+      },
+      {
+        "name": "Eric Patrick Cameron",
+        "character": "Midtown High Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u5w0wUVEBXS38hjZ4xyxcn4SGMe.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Anthony Russo",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xbINBnWn28YygYWUJ1aSAw0xPRv.jpg"
+      },
+      {
+        "name": "Joe Russo",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/679Os4tbY1YsU01KdLhM1NPXNWu.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "superhero",
+    "time travel",
+    "space travel",
+    "time machine",
+    "based on comic",
+    "sequel",
+    "alien invasion",
+    "superhero team",
+    "marvel cinematic universe (mcu)",
+    "alternate timeline",
+    "father daughter relationship",
+    "sister sister relationship"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos's actions and undo the chaos to the universe, no matter what consequences may be in store, and no matter who they face...",
+    "The grave course of events set in motion by Thanos, that wiped out half the universe and fractured the Avengers ranks, compels the remaining Avengers to take one final stand in Marvel Studios' grand conclusion to twenty-two films - Avengers: Endgame.",
+    "After half of all life is snapped away by Thanos, the Avengers are left scattered and divided. Now with a way to reverse the damage, the Avengers and their allies must assemble once more and learn to put differences aside in order to work together and set things right. Along the way, the Avengers realize that sacrifices must be made as they prepare for the ultimate final showdown with Thanos, which will result in the heroes fighting the biggest battle they have ever faced.—Blazer346",
+    "Catastrophe. Confusion. Loss. The overwhelming devastation caused by the mad Titan Thanos has left what remains of the Avengers reeling. For a while, all hope seems lost...until an opportunity to reverse the damage is presented. Now, the team must assemble once more and do whatever it takes to restore the universe and bring those they lost back."
+  ],
+  "synopsis": "In the opening, Clint Barton is teaching his daughter archery on his secluded farm while his wife prepares a picnic lunch for them. Suddenly, Clint's daughter vanishes and the rest of Clint's family disintegrates, along with half of all life across the universe, the result of Thanos' snapping his fingers after acquiring all six Infinity Stones. Nebula and Tony Stark are stranded in space following their defeat by Thanos on Titan, but are returned to Earth by Carol Danvers and reunited with Natasha Romanoff, Bruce Banner, Steve Rogers, Rocket, Thor, and James Rhodes. The team formulates a plan to steal the Infinity Stones back from Thanos and use them to reverse his actions, but learn upon finding him that he had used the stones a second time to destroy them, preventing their further use. He tells the remaining Avengers that he did so to avoid using the Stones for further nefarious purposes. Enraged, Thor beheads Thanos, saying it's what he should have done in Wakanda.Five years later, Scott Lang escapes from the quantum realm to discover that his daughter Cassie is now a teenager and that Hope van Dyne, along with half of the population, has disappeared in the snap. Rogers has been leading grief counseling sessions for survivors still struggling with the effects of the snap, while Romanoff is tirelessly keeping watch over both Earth and the rest of the universe with the help of Rhodes, Danvers, Okoye, Rocket, and Nebula. Lang goes to Romanoff and Rogers, and explains that while five years had passed for them, only five hours had passed for him in the quantum realm and that time stretches much differently there.The three go to Stark, who is now raising a child with Pepper Potts, and explain their theory that the quantum realm can be used to go back in time and steal the Infinity Stones before Thanos is able to collect them. Stark initially rejects their proposal with concern about risking his family and the peace he has found, but after reflecting upon the loss of Peter Parker decides to test theoretical models that would work with Lang's quantum tunnel, eventually finding one that works.With Stark now on board the remaining Avengers set out to reassemble their team. Bruce Banner has now embraced the Hulk as a part of him, and has melded his own consciousness and the Hulk's together into one. Romanoff, after hearing reports from Rhodes of an assassin that operates with similar methods to Barton, leaves to find him. Barton, consumed with grief after the loss of his family, has been operating under the mantle \"Ronin\" while brutally massacring criminal cartels and gangs around the world in order to try and improve the world that's still left. Natasha finds him in Japan and after some convincing, he agrees to rejoin the team in order to try and bring his family back.Banner and Rocket go to the small town of New Asgard, where Valkyrie and the last survivors of Asgard have settled. They there find Thor, who has become overwhelmed by guilt over failing to kill Thanos in Wakanda. Thor has become overweight, his hair and beard are overgrown, and he spends his free time eating junk food, getting drunk, and playing Fortnite with his friends Korg and Miek. Thor begrudgingly agrees to return to the Avengers after some convincing from Rocket and Banner.After testing the quantum time machine on Barton, who confirms that it works, The Avengers are reunited with a plan - Banner, Rogers, Lang, and Stark embark to retrieve the Time, Mind, and Space stones during the battle of New York in 2012. Banner goes to the Sanctum Sanctorum, where he is informed by the Ancient One that taking the Time Stone from her time line would prevent Stephen Strange's future efforts to stop Kaecilius from destroying the laws of nature. However, when Banner tells her that Strange gave up the Time Stone willingly to Thanos, she allows Banner to have it, implying Strange had intended for a specific sequence of events to occur for Thanos to be defeated. Banner also promises the stones' return to their proper time lines in order to prevent any ill effects. Lang and Stark attempt to steal the Space Stone after the Avengers confiscate it from Loki.Lang gives Stark's past self a mild cardiac arrest by pulling a circuit in his artificial heart, while Stark steals the briefcase housing the Tesseract when nobody is looking. Their plan is thwarted when Stark drops the briefcase after he is accidentally hit by the Hulk. Loki then steals the Space Stone and uses it to escape custody. Rogers succeeds in stealing the Mind Stone from undercover Hydra agents, but stumbles across his past self, who mistakes him for a disguised Loki.After defeating past-Steve, Rogers meets back up with Stark and Lang, who now must figure out another way to get the Space Stone without running out of the limited supply of Pym Particles that allow them to travel through the quantum realm. Lang returns to the present with the Mind Stone while Rogers and Stark devise a plan to steal the Space Stone from a U.S. Army installation in the 1970s, while also stealing further vials of Pym Particles in order to make the journey back home. While there, Rogers sights Peggy Carter and Stark has an meaningful conversation with his father Howard.Rocket and Thor travel to Asgard to retrieve the Reality Stone before Malekith uses it against the Nine Realms. While in Asgard, Thor is reminded that his mother, Frigga, would die soon and has a chance encounter with her while Rocket steals the Aether, the vaporized version of the Reality Stone, from Jane Foster. The two return to Earth after Frigga counsels Thor and he retrieves his hammer Mjolnor, elated to discover that he is still worthy of it.Nebula and Rhodes travel to Morag to steal the Power Stone before Peter Quill does. As Rhodes returns to the present with the Power Stone, Nebula malfunctions and remains on Morag. With two consciousnesses operating on Nebula's systems, Thanos and Ebony Maw discover the presence of future Nebula and go to kidnap her. Nebula realizes what has happened and tries to warn the others, but is too late. Thanos scans her memories and discovers the Avengers' plan, and sends the more loyal past Nebula back to the present as a spy.Barton and Romanoff travel to Vormir to retrieve the Soul Stone, though are conflicted when Red Skull, keeper of the stone, informs them that it can only be retrieved by sacrificing someone they love. The two fight over which will make the sacrifice, with Romanoff ultimately taking the fall, while a distraught Barton returns to Earth with the Soul Stone.After everyone has returned to the present on Earth, Stark, Rocket, and Banner set out to craft a gauntlet to wield the stones, one constructed from the same nanotech of Stark's latest Iron Man suit. Banner volunteers himself to wield the gauntlet and bring back everyone that disappeared in Thanos' snap, reasoning that he can withstand both the gamma radiation and the immense pain and injury brought on by using the stones. He succeeds, though they are almost immediately attacked by Thanos, who has been brought to Earth by the impostor Nebula, destroying the quantum portal in the process.Thanos reduces the Avengers headquarters to rubble, splitting the team up and causing the gauntlet to fall into Barton's protection. The past Nebula is killed by her future self as she attempts to take the Infinity Stones from Barton, while Rogers, Thor, and Stark confront Thanos, who decides he will instead use the Infinity Stones to destroy the universe and create one in his vision. The three fight Thanos one on one, with Rogers confirming Thor's theory that he is worthy of wielding Mjolnor, but are each bested by Thanos.Soon after Thanos' army lands on Earth, T'Challa appears before Rogers, along with all of the Avengers and other allies revived by Banner, before launching an assault on Thanos and his army. After a lengthy battle during which Stark is reunited with Parker and Quill is reunited with past Gamora, Thanos wrestles with numerous Avengers for the Infinity Stones.When he's bound by Wanda Maximoff's energy, Thanos orders Glaive to have his ship fire multiple energy blasts, nearly devastating the Avengers' efforts. Captain Marvel reappears, taking out Thanos' ship while fighting for control of the gauntlet. Using the nanotech from the new gauntlet, Stark maneuvers the Infinity Stones from Thanos' hand to his own and uses them to turn Thanos and his entire army into ash, triumphantly stating \"I am Iron Man.\" Parker and Potts console Stark as he dies from exposure to the Stones' radiation.Following the battle, The Avengers hold a funeral for Stark, whose Mark I arc reactor is floated out on the lake next to his house. Barton and Wanda Maximoff take solace in the fact that Romanoff and Vision, who did not return in the snap, would be proud of their victory over Thanos. Thor makes Valkyrie the Queen of Asgard and joins the Guardians of the Galaxy in order to find his true purpose, free of the burden of royalty and leadership for the first time in his life. Barton returns home to his family and Parker returns to school, where he is reunited with his best friend Ned.Meanwhile, Rogers is tasked to go into the past to return the stones and Thor's hammer to their original time-lines, but decides not to return to the present and to instead live the rest of his life in the past with Carter. He reappears before Sam Wilson and Bucky Barnes as an old man, and passes his shield and the mantle of Captain America on to Wilson.A brief flashback shows Rogers and Carter in an ordinary-looking house, finally sharing the dance they never got to have in their living room, truly happy at last.",
+  "imdb_score": 8.4
+}

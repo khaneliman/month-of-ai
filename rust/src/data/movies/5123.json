@@ -1,0 +1,336 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/3hU0tavXwvqydaoV728O6NbNiLP.jpg",
+  "id": 5123,
+  "title": "August Rush",
+  "poster_path": "https://image.tmdb.org/t/p/w500/oA6ZeICPINiS6YtD5WZeBaGVmuT.jpg",
+  "release_date": "2007-11-21",
+  "vote_average": 7.394,
+  "vote_count": 2566,
+  "popularity": 26.802,
+  "overview": "Lyla and Louis, a singer and a musician, fall in love, but are soon compelled to separate. Lyla is forced to give up her newborn but unknown to her, he grows up to become a musical genius.",
+  "imdb_id": "tt0426931",
+  "budget": 25000000,
+  "homepage": "http://augustrushmovie.warnerbros.com/",
+  "revenue": 66122026,
+  "runtime": 114,
+  "tagline": "An incredible journey moving at the speed of sound.",
+  "genres": [
+    "Family",
+    "Drama",
+    "Music"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "Odyssey Entertainment",
+    "Southpaw Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Freddie Highmore",
+        "character": "August Rush",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9larfGVg8ALIVFkr7cZzv4Emh1F.jpg"
+      },
+      {
+        "name": "Keri Russell",
+        "character": "Lyla Novacek",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u81mC6vZwliDRfnX1DpdGmmex61.jpg"
+      },
+      {
+        "name": "Jonathan Rhys Meyers",
+        "character": "Louis Connelly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3MvT0B15nt5JLp1dUcxmbqmjHUc.jpg"
+      },
+      {
+        "name": "Terrence Howard",
+        "character": "Richard Jeffries",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wXWt2NSY23v7DHe2yZQ1C8TikBp.jpg"
+      },
+      {
+        "name": "Robin Williams",
+        "character": "Maxwell \"Wizard\" Wallace",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+      },
+      {
+        "name": "William Sadler",
+        "character": "Thomas Novacek",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rWeb2kjYCA7V9MC9kRwRpm57YoY.jpg"
+      },
+      {
+        "name": "Marian Seldes",
+        "character": "The Dean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/farpPf0NJrZfdYJNnAmDlmhTURn.jpg"
+      },
+      {
+        "name": "Mykelti Williamson",
+        "character": "Reverend James",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e5f7XCZAUEQ55rVhdphqzdMMI8b.jpg"
+      },
+      {
+        "name": "Leon G. Thomas III",
+        "character": "Arthur",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cOCmcRg4o0lKkysVwIgIXUKEiOD.jpg"
+      },
+      {
+        "name": "Aaron Staton",
+        "character": "Nick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/arYrQ4vj598Rtdgl5miYZOg4RT4.jpg"
+      },
+      {
+        "name": "Alex O'Loughlin",
+        "character": "Marshall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l3Cd7jD3r3TLkqWaDijmK7GgWxo.jpg"
+      },
+      {
+        "name": "Jamia Simone Nash",
+        "character": "Hope",
+        "profile_path": "https://image.tmdb.org/t/p/w185/elxSccsDroJg2saVOGZLeiRgFYg.jpg"
+      },
+      {
+        "name": "Ronald Guttman",
+        "character": "Professor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n3F5Azj2fJ5XUVGcarunAyrNCQo.jpg"
+      },
+      {
+        "name": "Bonnie McKee",
+        "character": "Lizzy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kzbahCz11cIKsJddnZHOEmJ2RUj.jpg"
+      },
+      {
+        "name": "Michael Drayer",
+        "character": "Mannix",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9B1ViAnSTSmeG40H7o1KvNWoAsP.jpg"
+      },
+      {
+        "name": "Jamie O'Keeffe",
+        "character": "Steve",
+        "profile_path": ""
+      },
+      {
+        "name": "Becki Newton",
+        "character": "Jennifer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zHz9UTFISg3U7gs3BsELijbB0sA.jpg"
+      },
+      {
+        "name": "Tyler McGuckin",
+        "character": "Peter",
+        "profile_path": ""
+      },
+      {
+        "name": "Megan Gallagher",
+        "character": "Megan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vheq1bzsVczM2L3pVv1Lca2CKMc.jpg"
+      },
+      {
+        "name": "Anais Martinez",
+        "character": "Backbeat",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ruw9OQ1MoH0BlLPncpEvB9gdLSl.jpg"
+      },
+      {
+        "name": "Bilal Bishop",
+        "character": "Roller Bull",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael R. Hammonds II",
+        "character": "Feedback",
+        "profile_path": ""
+      },
+      {
+        "name": "Timmy Mitchum",
+        "character": "Joey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uz29ZhK3a6AV8csYZBPbvCoyfZF.jpg"
+      },
+      {
+        "name": "Henry Caplan",
+        "character": "Bill",
+        "profile_path": ""
+      },
+      {
+        "name": "John Knox",
+        "character": "Club Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7UIF1PfByVGQjb6AeLCcbOCmfms.jpg"
+      },
+      {
+        "name": "Amy V. Dewhurst",
+        "character": "Receptionist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vRZVN7AfwI4i4mRDURBP2xbPTxh.jpg"
+      },
+      {
+        "name": "Victor Verhaeghe",
+        "character": "Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dWQM3gr2ri92NZUI8zHttxQ5P3m.jpg"
+      },
+      {
+        "name": "Darrie Lawrence",
+        "character": "Old Neighbor",
+        "profile_path": ""
+      },
+      {
+        "name": "Sean Haberle",
+        "character": "Frank",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5RNTGrLoiHbNU8ytDGhoFXOLuPw.jpg"
+      },
+      {
+        "name": "Jamal Joseph",
+        "character": "Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Aberdeen",
+        "character": "Record Executive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6yr4Xy4iYRynHK2qHccNwPfYAIu.jpg"
+      },
+      {
+        "name": "Georgia Creighton",
+        "character": "Apartment Owner",
+        "profile_path": ""
+      },
+      {
+        "name": "Joshua Jaymz Doss",
+        "character": "Orphanage Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Craig Johnson",
+        "character": "Orphanage Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Dominic Colón",
+        "character": "Policeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oPVHR7goTVKdBQFZ9PnBRrSLl1n.jpg"
+      },
+      {
+        "name": "Zach Page",
+        "character": "Child Guitar Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cTNpdHYYntojcrspsTkX5WAa2D0.jpg"
+      },
+      {
+        "name": "Charles Mack",
+        "character": "Gospel Soloist",
+        "profile_path": ""
+      },
+      {
+        "name": "Amma Agyapon",
+        "character": "Gospel Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Adia Beckford",
+        "character": "Gospel Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Dietrice A. Bolden",
+        "character": "Gospel Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Dina Gardener",
+        "character": "Gospel Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Luther Isler",
+        "character": "Gospel Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Raymond Johnson",
+        "character": "Gospel Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Joyce Walker Joseph",
+        "character": "Gospel Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Willana Mack",
+        "character": "Gospel Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lamar Antwon Robinson",
+        "character": "Gospel Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Talif Showers",
+        "character": "Gospel Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Carlton Taylor",
+        "character": "Gospel Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Yvette Bodrick",
+        "character": "Street Sound Circle",
+        "profile_path": ""
+      },
+      {
+        "name": "Crystal A. Elliott",
+        "character": "Street Sound Circle",
+        "profile_path": ""
+      },
+      {
+        "name": "Jindai Joseph",
+        "character": "Street Sound Circle",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacquelen Singleton",
+        "character": "Street Sound Circle",
+        "profile_path": ""
+      },
+      {
+        "name": "Travis Veada",
+        "character": "Street Sound Circle",
+        "profile_path": ""
+      },
+      {
+        "name": "Jasmine Pauline Wigfall",
+        "character": "Street Sound Circle",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Kirsten Sheridan",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tgxwvotewbTyj18Eb2DAH2BkKcE.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "love of one's life",
+    "guitar",
+    "composer",
+    "loss of loved one",
+    "love at first sight",
+    "orphanage",
+    "lie",
+    "forbidden love",
+    "child prodigy",
+    "motherly love",
+    "woman director",
+    "rhapsody",
+    "music movie"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "A musically gifted orphan, Evan, runs away from his orphanage and searches New York City for his birth parents. On his journey, he's taken under the wing of the Wizard, a homeless man who lives in an abandoned theater.",
+    "12 years ago, on a moonlit rooftop above Washington Square, sheltered young cellist Lyla Novacek (Keri Russell) and charismatic Irish singer/songwriter Louis Connelly (Jonathan Rhys Meyers) were drawn together by a street musician's rendition of ''Moondance'' and fell in love. After the most romantic night of her life, Lyla promised to meet Louis again, but despite her protests, her father rushed her to her next concert--leaving Louis to believe that she didn't care. Disheartened, he found it impossible to continue playing and eventually abandoned his music while Lyla, her own hopes for love lost, was led to believe months later that she had also lost their unborn child in a car accident. Their orphaned son (Freddie Highmore) uses his musical talent as a clue to find his birth parents.",
+    "The story of a charismatic young Irish guitarist and a sheltered young cellist who have a chance encounter one magical night above New York's Washington Square, but are soon torn apart, leaving in their wake an infant, August Rush, orphaned by circumstance. Now performing on the streets of New York and cared for by a mysterious stranger, August uses his remarkable musical talent to seek the parents from whom he was separated at birth.—DeathtoGlitter"
+  ],
+  "synopsis": "In 1995, Lyla Novacek (Keri Russell) is a cellist studying at the Juilliard School and living under the strict rule of her father. Louis Connelly (Jonathan Rhys Meyers) is the lead singer of an Irish rock band (with Marshall Connelly (Alex O'Loughlin), Louis' older brother). They meet (Lyla is a shy type and gets away from a party by hiding away on the roof, where she meets Louis, who was just hanging out there) and have a one-night stand, but are unable to maintain contact, as Lyla's father stops her from pursuing the relationship.Lyla discovers that she is pregnant. Following an argument with her overbearing father over her unborn baby, she is struck by a car, forcing her to give birth prematurely. While Lyla is unconscious, her father Thomas Novacek (William Sadler) secretly puts the baby boy up for adoption, telling Lyla that her son died.Eleven years later, the baby is living in a boys' orphanage under the name Evan Taylor (Freddie Highmore), where he is assigned to a social worker named Richard Jeffries (Terrence Howard). Evan is a musical genius and displays savant-like abilities and perfect pitch, which often causes him to be bullied. Convinced that his parents will find him, Evan runs away to New York City, \"following the music\" in the hope it will lead him to his family. Evan tries to contact Jeffries (who had given Evan his number), but is not able to contact him. He later loses Jeffries contact number when he drops it in a drain by accident.He finds a boy named Arthur (Leon Thomas III) busking in Washington Square Park and follows Arthur to his home in a condemned theatre, where Evan is introduced to \"Wizard\" Wallace (Robin Williams), an arrogant and aggressive vagrant and musician who teaches homeless, orphaned, and runaway children to be street performers. The children earn money by performing on the streets and come back and give a percentage of the earnings to Wizard.Evan tries playing Wizard's prize guitar, Roxanne (a Gibson J150ec), Evan is so good that Wizard gives him his old spot in Washington Square Park, along with the guitar, which was also Arthur's. He gives Evan the stage name \"August Rush\" and tries to market him to clubs. Seeing the posters that Jeffries has placed for the runaway Evan, Wizard destroys all the ones he finds, hoping to keep Evan for his own gain.Louis now lives in San Francisco as a talent agent, while Lyla is a music teacher in Chicago. Louis reconnects with his brothers and decides to try to find Lyla (dumping his girlfriend Jennifer (Becki Newton)). Lyla is called to her father's deathbed, where he confesses that her son is alive, causing Lyla to abandon her dying father and immediately start looking for her son.On arriving at Lyla's apartment in Chicago (after looking her up on the internet), Louis talks to one of her neighbors, who mistakenly tells Louis she is on her honeymoon. Despairing, he ends up in New York, where he gets his band back together. After Jeffries meets Wizard and Arthur on the street and becomes suspicious, the police raid the derelict theatre in which Wizard and his \"children\" are living. Evan manages to evade the police and remembers Wizard's advice to never reveal his real name to anyone. Evan (now \"August\") takes refuge in a church, where he befriends a little girl named Hope (Jamia Simone Nash), who introduces him to the piano and written music. Hope brings August and his abilities to the attention of the parish pastor Reverend James (Mykelti Williamson), who takes August to Juilliard, where he once again impresses the faculty. A rhapsody takes shape from August's notes and homework.In New York, Lyla goes to Jeffries' office (after Jeffries notices her arguing with the case officers that she cant wait 6 months to re-establish contact with her son), and Jeffries identifies Evan/August as her son (using the birthday and hospital as identifiers). While looking for him, she takes up the cello again and accepts an offer to perform with the Philharmonic at a series of concerts in Central Park. August is selected to perform the rhapsody he has been composing at the same concert. However, Wizard interrupts the rehearsal and claiming to be his father, manages to pull August out of the school.On the day of the concert, August is back in his spot in Washington Square, while Wizard makes plans to smuggle him around the country to play. He meets Louis, and unaware of their blood relationship, they have an impromptu guitar duet. August tells him of his dilemma (of wanting to play at the concert), and Louis encourages him to go. That evening, with help from Arthur, August escapes from Wizard through the subway and heads for his concert. Louis, after his own performance with his reunited band, sees Lyla's name on one of the banners and also heads for the park. Jeffries finds a misplaced flyer for \"August Rush\" with a picture, and also heads for the concert.August arrives in time to conduct his rhapsody, which attracts both Lyla and Louis to the audience, where they are reunited. August finishes his rhapsody and as he turns to discover his parents, he smiles knowing that he has been right all along.",
+  "imdb_score": 7.4
+}

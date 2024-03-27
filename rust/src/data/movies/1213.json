@@ -1,0 +1,401 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/51UDa3IuGyiKGe2MgMcLGvJE2Fm.jpg",
+  "id": 1213,
+  "title": "The Talented Mr. Ripley",
+  "poster_path": "https://image.tmdb.org/t/p/w500/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+  "release_date": "1999-12-25",
+  "vote_average": 7.186,
+  "vote_count": 3380,
+  "popularity": 26.228,
+  "overview": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder.",
+  "imdb_id": "tt0134119",
+  "budget": 40000000,
+  "homepage": "http://www.miramax.com/movie/the-talented-mr-ripley/",
+  "revenue": 128798265,
+  "runtime": 139,
+  "tagline": "How far would you go to become someone else?",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    "Miramax",
+    "Paramount",
+    "Mirage Enterprises",
+    "Timnick Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Matt Damon",
+        "character": "Tom Ripley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
+      },
+      {
+        "name": "Jude Law",
+        "character": "Dickie Greenleaf",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pj75cHQ3oLSFPJ0IyB6Bkg6ytHu.jpg"
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "character": "Marge Sherwood",
+        "profile_path": "https://image.tmdb.org/t/p/w185/slPWN0VvYJtNOEuxlFSsXSNQMaF.jpg"
+      },
+      {
+        "name": "Cate Blanchett",
+        "character": "Meredith Logue",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A3nZcGx0qUhbb9fpNK65oPgCJtC.jpg"
+      },
+      {
+        "name": "Jack Davenport",
+        "character": "Peter Smith-Kingsley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/shGH0YWJBfiJznidS0f2ZfN056c.jpg"
+      },
+      {
+        "name": "Philip Seymour Hoffman",
+        "character": "Freddie Miles",
+        "profile_path": "https://image.tmdb.org/t/p/w185/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+      },
+      {
+        "name": "James Rebhorn",
+        "character": "Herbert Greenleaf",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jRdR3q28gTPQU6eWRgiIqzGuMKU.jpg"
+      },
+      {
+        "name": "Sergio Rubini",
+        "character": "Inspector Roverini",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gck410u7xOJWI0SjArY6vJb3cGw.jpg"
+      },
+      {
+        "name": "Philip Baker Hall",
+        "character": "Alvin MacCarron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mC1wmuGSCyIQ7ABkfRe1jJV1FGV.jpg"
+      },
+      {
+        "name": "Celia Weston",
+        "character": "Aunt Joan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pQYygvqfmKnK4weuUCLUX45q5AJ.jpg"
+      },
+      {
+        "name": "Fiorello",
+        "character": "Fausto",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jaIZkXtBeAINjSi3r33D0pQzEUZ.jpg"
+      },
+      {
+        "name": "Stefania Rocca",
+        "character": "Silvana",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dRHhHfeu9OKIEwU84nTeGLZC06h.jpg"
+      },
+      {
+        "name": "Ivano Marescotti",
+        "character": "Colonnello Verrecchia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/shwCKrpofKBMvgrHZqgRzDZEOF5.jpg"
+      },
+      {
+        "name": "Anna Longhi",
+        "character": "Signora Buffi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5LlM38HBCM0ydwOaqx6qp0K6EYs.jpg"
+      },
+      {
+        "name": "Alessandro Fabrizi",
+        "character": "Sergeant Baggio",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wv8vlgNwRAIKML2ScB5Csng3Zci.jpg"
+      },
+      {
+        "name": "Lisa Eichhorn",
+        "character": "Emily Greenleaf",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gMKTeKne8A3E8p5HxwOCX5Wts1A.jpg"
+      },
+      {
+        "name": "Gretchen Egolf",
+        "character": "Fran",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q5Uu9b3RavVcoJJcZoYvZb0CTaH.jpg"
+      },
+      {
+        "name": "Jack Willis",
+        "character": "Greenleaf Chaffeur",
+        "profile_path": ""
+      },
+      {
+        "name": "Frederick Alexander Bosche",
+        "character": "Fran's Boyfriend",
+        "profile_path": ""
+      },
+      {
+        "name": "Dario Bergesio",
+        "character": "Police Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry Kaplan",
+        "character": "Uncle Ted",
+        "profile_path": ""
+      },
+      {
+        "name": "Claire Hardwick",
+        "character": "Gucci Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jPQoQdY4Or34WRprvae8R2fUoVY.jpg"
+      },
+      {
+        "name": "Antonio Prester",
+        "character": "American Express Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z8wGJL9bCiHrXi31zvmcngZP5S5.jpg"
+      },
+      {
+        "name": "Lorenzo Mancuso",
+        "character": "Bus Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Onofrio Mancuso",
+        "character": "Priest",
+        "profile_path": ""
+      },
+      {
+        "name": "Massimo Reale",
+        "character": "Immigration Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aVBeEg1v4OOhn1Op2A8X6lkmnCb.jpg"
+      },
+      {
+        "name": "Emanuele Carucci Viterbi",
+        "character": "American Express Clerk",
+        "profile_path": ""
+      },
+      {
+        "name": "Caterina Deregibus",
+        "character": "Dahlia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ilAqwG6wOfo5Kg9Mwnqd16D6qyV.jpg"
+      },
+      {
+        "name": "Silvana Bosi",
+        "character": "Ermelinda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gtHa9e6Z83riX9SVg3RK17aX0pi.jpg"
+      },
+      {
+        "name": "Gianfranco Barra",
+        "character": "Desk Manager Aldo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a6Bms9jyF8drPdhP8vEh3YjCtgi.jpg"
+      },
+      {
+        "name": "Renato Scarpa",
+        "character": "Tailor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wVWEERHioQVxnB4jFeDDZIzdSPX.jpg"
+      },
+      {
+        "name": "Deirdre Lovejoy",
+        "character": "Fighting Neighbor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Iv7NcwLcxen5ql8PAkCy9VpsTf.jpg"
+      },
+      {
+        "name": "Brian Tarantina",
+        "character": "Fighting Neighbor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1EysTrCLtGQ0rQBg6EqZkOWoamR.jpg"
+      },
+      {
+        "name": "Guy Barker",
+        "character": "Trumpet (Napoli Jazz Septet)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bernardo Sassetti",
+        "character": "Piano (Napoli Jazz Septet)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r3NzvllQTNpWj83jHhLi2a1Z9Xg.jpg"
+      },
+      {
+        "name": "Perico Sambeat",
+        "character": "Alto Sax (Napoli Jazz Septet)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n1hqYzhnD02kr4VBbOxpEFdnvjz.jpg"
+      },
+      {
+        "name": "Gene Calderazzo",
+        "character": "Drums (Napoli Jazz Septet) mer",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Lepore",
+        "character": "Double Bass (Napoli Jazz Septet)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rosario Giuliuni",
+        "character": "Tenor Sax (Napoli Jazz Septet)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eddy Palerno",
+        "character": "Electric Guitar (Napoli Jazz Septet)",
+        "profile_path": ""
+      },
+      {
+        "name": "Byron Wallen",
+        "character": "Cornet (San Remo Jazz Sextet)",
+        "profile_path": ""
+      },
+      {
+        "name": "Pete King",
+        "character": "Alto Sax (San Remo Jazz Sextet)",
+        "profile_path": ""
+      },
+      {
+        "name": "Clark Tracey",
+        "character": "Drums (San Remo Jazz Sextet)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean Toussaint",
+        "character": "Tenor Sax (San Remo Jazz Sextet)",
+        "profile_path": ""
+      },
+      {
+        "name": "Geoff Gascoyne",
+        "character": "Bass (San Remo Jazz Sextet)",
+        "profile_path": ""
+      },
+      {
+        "name": "Carlo Negroni",
+        "character": "Piano (San Remo Jazz Sextet)",
+        "profile_path": ""
+      },
+      {
+        "name": "Giuseppe Fiorello",
+        "character": "Silvana's Fiancé",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xAoJWBNXdATMEtRmXeiYobPdy1f.jpg"
+      },
+      {
+        "name": "Marco Quaglia",
+        "character": "Silvana's Brother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w2oRqYtVa8B3ALOrBqajwp72YQf.jpg"
+      },
+      {
+        "name": "Alessandra Vanzi",
+        "character": "Silvana's Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dqLIO9071mudiYFjKzIUaSaIeMY.jpg"
+      },
+      {
+        "name": "Marco Rossi",
+        "character": "Photographer",
+        "profile_path": ""
+      },
+      {
+        "name": "Roberto Valentini",
+        "character": "Onegin (Eugene Onegin Player)",
+        "profile_path": ""
+      },
+      {
+        "name": "Francesco Bovino",
+        "character": "Lensky (Eugene Onegin Player)",
+        "profile_path": ""
+      },
+      {
+        "name": "Stefano Canettieri",
+        "character": "Zaretsky (Eugene Onegin Player)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marco Foti",
+        "character": "Guillot (Eugene Onegin Player)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ludovica Tinghi",
+        "character": "Fausto's Fiancée",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3m0kJ7Mocgiptqw7QfUiwXeO0mw.jpg"
+      },
+      {
+        "name": "Nicola Pannelli",
+        "character": "Dinelli's Cafe Waiter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c7NFpbxvJy7KnlPQwJ9TcaO3O14.jpg"
+      },
+      {
+        "name": "Paolo Calabresi",
+        "character": "Customs Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/flx99TjnqZvvJrTjG1CG93YTWJT.jpg"
+      },
+      {
+        "name": "Pietro Ragusa",
+        "character": "Record Store Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3vuTW5ErxDFk1Ur1HcI5u9hEo2u.jpg"
+      },
+      {
+        "name": "Simone Empler",
+        "character": "Boy Singer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b8Imyw1cwpJ9MclgXIQEStBhONr.jpg"
+      },
+      {
+        "name": "Gianluca Secci",
+        "character": "Policeman",
+        "profile_path": ""
+      },
+      {
+        "name": "Manuel Ruffini",
+        "character": "Policeman",
+        "profile_path": ""
+      },
+      {
+        "name": "Pierpaolo Lovino",
+        "character": "Policeman",
+        "profile_path": ""
+      },
+      {
+        "name": "Roberto Di Palma",
+        "character": "San Remo Hotel Desk Clerk",
+        "profile_path": ""
+      },
+      {
+        "name": "Dominic Fumusa",
+        "character": "Italian Boy in Rome (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cggOfZTrfQTRfmLJURaPQfk6jdS.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Anthony Minghella",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3zNlCjH6Ddh5pn2UrNWd6SAKGKg.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "friendship",
+    "ship",
+    "new love",
+    "lovesickness",
+    "jealousy",
+    "dual identity",
+    "double life",
+    "based on novel or book",
+    "venice, italy",
+    "beguilement",
+    "italy",
+    "homicide",
+    "yacht",
+    "secret identity",
+    "atlantic ocean",
+    "new identity",
+    "prosecution",
+    "fake identity",
+    "rejection",
+    "inferiority",
+    "inferiority complex",
+    "ocean liner",
+    "wealth",
+    "male homosexuality",
+    "cowardliness",
+    "envy",
+    "identity theft",
+    "gay theme"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "In late 1950s New York, a young underachiever named Tom Ripley is sent to Italy to retrieve Dickie Greenleaf, a rich and spoiled millionaire playboy. But when the errand fails, Ripley takes extreme measures.",
+    "The 1950s. Manhattan lavatory attendant, Tom Ripley, borrows a Princeton jacket to play piano at a garden party. When the wealthy father of a recent Princeton grad chats Tom up, Tom pretends to know the son and is soon offered $1,000 to go to Italy to convince Dickie Greenleaf to return home. In Italy, Tom attaches himself to Dickie and to Marge, Dickie's cultured fiancée, pretending to love jazz and harboring homoerotic hopes as he soaks in luxury. Besides lying, Tom's talents include impressions and forgery, so when the handsome and confident Dickie tires of Tom, dismissing him as a bore, Tom goes to extreme lengths to make Greenleaf's privileges his own.—<jhailey@hotmail.com>"
+  ],
+  "synopsis": "Tom Ripley (Matt Damon) is a young man struggling to make a living in late 1950s New York City using his \"talents\"; forgery, lying and impersonation. One day, while working as a restroom attendant at a fancy Manhattan hotel, he meets a Princeton graduate who bribes him to work at an alumni party at playing the piano because the Princeton guy just broke his hand and cannot play. Ripley accepts.While playing piano at a cocktail party, Ripley is approached by wealthy shipbuilder Herbert Greenleaf (James Rebhorn), who mistakenly believes that Ripley went to Princeton with his son, Dickie, because Ripley is wearing the borrowed Princeton blazer. Greenleaf recruits Ripley to travel to Italy and persuade Dickie to return to the United States, for which he will pay Ripley $1,000. Ripley accepts the proposal, even though he did not attend Princeton and has never met Dickie.Ripley's personal life is soon revealed after the party where he lives in a small, two-room apartment in a rundown part of the city. His home town and origins are unknown. It is implied that several years earlier, Ripley came out as a homosexual to his parents who reacted by throwing him out of their house and severing all ties with him. Now alone, Ripley struggles to get by without family support as well as search for his one true love as an outlet for his loneliness.Upon arriving by ship in Europe, Ripley meets a young and wealthy textile heiress named Meredith Logue (Cate Blanchett). During their brief conversation he impulsively pretends to be Dickie, later commenting in voice-over that \"it is better to be a fake somebody than a real nobody.\"Shortly after his arrival in Italy, Ripley fakes a chance encounter on the beach with Dickie (Jude Law) and his fiancee, Marge Sherwood (Gwyneth Paltrow), and attempts to convince Dickie that the two met at Princeton. Ripley later visits Dickie and Marge and discloses that Dickie's father paid him to travel to Europe and persuade Dickie to return home. This revelation infuriates Dickie; he declines the invitation and suggests Ripley go back to America and inform his father that he has no intention of ever returning. Ripley instead insinuates himself into Dickie's life under the pretext of being a fellow jazz lover. The two concoct a scheme for Ripley to wring additional funds from Herbert Greenleaf by regularly mailing letters suggesting Dickie is wavering and will likely return to America if Ripley can remain in Italy and continue applying pressure.On a jaunt to Rome, Ripley meets Dickie's friend Freddie Miles (Philip Seymour Hoffman), who treats Ripley with barely concealed contempt. A local girl, whom Dickie had impregnated, drowns herself after he refuses to help her financially; this sends Dickie into a downward spiral. He begins getting tired of Ripley, resenting his constant presence and suffocating dependence. Ripley's own feelings are complicated by his desire to maintain the opulent lifestyle Dickie has afforded him, and his growing sexual obsession with his new friend. As a good-will gesture before Ripley returns to America, Dickie invites Ripley to sail with him for a last trip to San Remo, where Dickie is shopping for a new residence. While at sea, Ripley suggests he return to Italy the following year and the two become housemates. Dickie dismisses Ripley's plan, informs him that he intends to marry Marge and admits he has grown weary of Tom. Upset by this news, Ripley confronts Dickie about his behavior and lashes out in rage, repeatedly hitting Dickie with an oar, killing him. Ripley holds Dickie's dead body as the boat slowly drifts to shore. To conceal the murder, Ripley scuttles the boat with Dickie's body aboard before swimming ashore.When the hotel concierge mistakes him for Dickie, Ripley realizes he can assume Dickie's identity. He forges Dickie's signature, modifies his passport and begins living off Dickie's trust fund. He uses Dickie's typewriter to communicate with Marge, making her believe that Dickie has left her and has decided to stay in Rome. He checks into two separate hotels as himself and as Dickie, passing messages via the hotel staff to create the illusion that Dickie is still alive. His situation is complicated by the reappearance of Meredith, who still believes that he is Dickie.Ripley rents a large apartment and spends a lonely Christmas buying himself expensive presents. Freddie tracks Ripley to his apartment in Rome through the American Express office, expecting to find Dickie. Freddie is immediately suspicious of Ripley as the apartment is not furnished in Dickie's style, while Ripley appears to have adopted Dickie's hair-style and mannerisms. On his way out, Freddie encounters the building's landlady who refers to Ripley as \"Signor Dickie\" and remarks on the piano music constantly emanating from the apartment. Freddie notes that Dickie does not play piano and goes back to confront Ripley who attacks Freddie, hitting him over the head with a heavy statue, murdering him. Ripley carries the heavy body to Freddie's car, drives to the woods, abandoning the vehicle and leaving Freddie's corpse lying on the ground in a creek, where it is quickly discovered.Ripley's existence then becomes a cat-and-mouse game with the Italian police and Dickie's friends. Ripley eludes imminent capture and clears himself by forging a suicide note addressed to Ripley in Dickie's name. He then moves to Venice and rents an apartment under his real name.Though trusted by Dickie's father, Ripley is disquieted when Mr. Greenleaf hires American private detective Alvin MacCarron to investigate Dickie's disappearance. Marge suspects Ripley's involvement in Dickie's death and confronts him after finding Dickie's rings in Ripley's bathroom. Ripley appears poised to murder Marge but is interrupted when Peter Smith-Kingsley (Jack Davenport), a mutual friend, enters the apartment with a key Ripley had given him.At the climax, Marge, Dickie's father, and MacCarron all confront Ripley at his apartment in Venice, but luck seems to stay with Ripley; MacCarron, after uncovering certain sordid details about Dickie's past, reveals to Ripley that Mr. Greenleaf has requested the investigation be dropped. MacCarron will not share his revelations with the Italian police and asks Ripley to promise to do the same. In exchange for his candor, and implications made in Dickie's suicide note, Herbert Greenleaf intends to transfer a substantial portion of Dickie's trust fund income to Ripley. Marge is dismayed at the resolution, furiously accusing Ripley of involvement in Dickie's disappearance before Greenleaf and MacCarron drag her away. Alienated with them and Ripley, Marge leaves to return to America.Now lovers, Ripley and Peter go on a cruise together, only to discover that Meredith is also on board. Ripley realizes that he cannot prevent Peter from communicating with Meredith and discovering that he has been passing himself off as Dickie. Peter and Meredith know each other and would certainly meet at some point on the voyage. He cannot solve this dilemma by murdering Meredith, because she is accompanied by her family. Ripley enters Peter's room and suggests the two remain below deck for the duration of the cruise, but quickly dismisses this idea as he cannot offer Peter a legitimate reason for doing so. Ripley sobs as he strangles Peter to death, throws his body overboard, then returns to his own cabin, where he sits alone. Although Tom Ripley knows that he has gotten away with his crimes and will never be brought to justice, he has sadly resigned himself to a solitary life without love or acceptance.",
+  "imdb_score": 7.4
+}

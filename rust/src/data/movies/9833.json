@@ -1,0 +1,770 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/yWIjNZpQSVGD2YgpGorFVf1MJb0.jpg",
+  "id": 9833,
+  "title": "The Phantom of the Opera",
+  "poster_path": "https://image.tmdb.org/t/p/w500/aTsp2VTaCBiGs8w05OTXfD97FRZ.jpg",
+  "release_date": "2004-12-08",
+  "vote_average": 7.246,
+  "vote_count": 1512,
+  "popularity": 26.047,
+  "overview": "Deformed since birth, a bitter man known only as the Phantom lives in the sewers underneath the Paris Opera House. He falls in love with the obscure chorus singer Christine, and privately tutors her while terrorizing the rest of the opera house and demanding Christine be given lead roles.",
+  "imdb_id": "tt0293508",
+  "budget": 70000000,
+  "homepage": "",
+  "revenue": 154700000,
+  "runtime": 143,
+  "tagline": "The classic musical comes to the big screen for the first time.",
+  "genres": [
+    "Thriller",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "Odyssey Entertainment",
+    "Scion Films",
+    "The Really Useful Group"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Gerard Butler",
+        "character": "The Phantom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hAKPWWvUyvcfqPcoBG45c8NRr6e.jpg"
+      },
+      {
+        "name": "Emmy Rossum",
+        "character": "Christine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rkvOaAeF807wta6zL1qCSqBgP0U.jpg"
+      },
+      {
+        "name": "Patrick Wilson",
+        "character": "Raoul",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tc1ezEfIY8BhCy85svOUDtpBFPt.jpg"
+      },
+      {
+        "name": "Miranda Richardson",
+        "character": "Madame Giry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2IEW3fxqHb4AHBl5xU8JuipJbNK.jpg"
+      },
+      {
+        "name": "Minnie Driver",
+        "character": "Carlotta",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pROqdpF9tTCA2giYB50dMwhCJvC.jpg"
+      },
+      {
+        "name": "Ciarán Hinds",
+        "character": "Firmin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+      },
+      {
+        "name": "Simon Callow",
+        "character": "Andre",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kvYGyshDFDpO1hFcwuUOAtKKaRA.jpg"
+      },
+      {
+        "name": "Victor McGuire",
+        "character": "Piangi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tJBZU4NrQWYFxtPs0ltqOuQgW9K.jpg"
+      },
+      {
+        "name": "Jennifer Ellison",
+        "character": "Meg Giry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xQk3xG3oHHXrHmTg4EwNSzWuOiI.jpg"
+      },
+      {
+        "name": "Murray Melvin",
+        "character": "Reyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/coG9ZUSmHqJ6o6ATGS38BW9FevW.jpg"
+      },
+      {
+        "name": "Kevin McNally",
+        "character": "Buquet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1QvG7MbfeWxb4LlZrlR4OtwvB8v.jpg"
+      },
+      {
+        "name": "James Fleet",
+        "character": "Lefevre",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ngJVm5yUhlASVzbl70taLMPfvkV.jpg"
+      },
+      {
+        "name": "Imogen Bain",
+        "character": "Carlotta's Maid",
+        "profile_path": ""
+      },
+      {
+        "name": "Miles Western",
+        "character": "Carlotta's Wigmaker",
+        "profile_path": ""
+      },
+      {
+        "name": "Judith Paris",
+        "character": "Carlotta's Seamstress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gOPbYQzEABuzwNPkpeMIuYXEcU5.jpg"
+      },
+      {
+        "name": "Halcro Johnston",
+        "character": "Passirino",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Brooke",
+        "character": "Auctioneer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2NYNzLYcHKD6EnucEPj2Sh1GTVJ.jpg"
+      },
+      {
+        "name": "Oliver Chopping",
+        "character": "Porter",
+        "profile_path": ""
+      },
+      {
+        "name": "Alison Skilbeck",
+        "character": "Nun / Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gDkvsyUsycKZR43Y1FOTLffpyG8.jpg"
+      },
+      {
+        "name": "Lee Sellers",
+        "character": "Chauffeur",
+        "profile_path": "https://image.tmdb.org/t/p/w185/txYcGQq4XPPMvkXVbfMzmYkcTvR.jpg"
+      },
+      {
+        "name": "Ramin Karimloo",
+        "character": "Christine's Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lqCXOvk3PPygTxer4ZFQ3ET15o7.jpg"
+      },
+      {
+        "name": "Chris Overton",
+        "character": "Young Phantom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gsJk5QCZNXqu7FtM9UZ1X8nyraG.jpg"
+      },
+      {
+        "name": "Jesika Cannon",
+        "character": "Young Christine",
+        "profile_path": ""
+      },
+      {
+        "name": "Annabel Porter",
+        "character": "Young Meg",
+        "profile_path": ""
+      },
+      {
+        "name": "Laura Hounsom",
+        "character": "Young Madame Giry",
+        "profile_path": ""
+      },
+      {
+        "name": "Lorraine Stewart",
+        "character": "Ballet Tart",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucy Casson",
+        "character": "Ballet Tart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1ipmWFZTkqhzwq2mRK1sRDAykpK.jpg"
+      },
+      {
+        "name": "Jonathan D. Ellis",
+        "character": "Fop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/to7mwOlFiVkfFqg5duZoOtCk80K.jpg"
+      },
+      {
+        "name": "Jose Tirado",
+        "character": "Lead Male Dancer / Flamenco Dancer / Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "David Langham",
+        "character": "Fop #1 / Male Ensemble",
+        "profile_path": "https://image.tmdb.org/t/p/w185/40ruCwMB3aoZoORXUOBacQuPw6W.jpg"
+      },
+      {
+        "name": "Sebastien Torkia",
+        "character": "Ballet Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1OmdjNi5gdeOuugJ1j7Rn6K7yAh.jpg"
+      },
+      {
+        "name": "Chris Jarvis",
+        "character": "Ballet Boy / Flamenco Dancer / Masquerade Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nWs0ofnvxxCdbDE33fIrnPKAdT8.jpg"
+      },
+      {
+        "name": "Liesl Dowsett",
+        "character": "Ballet Girl / Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Greet Botterman",
+        "character": "Ballet Girl / Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kirsty Tapp",
+        "character": "Ballet Girl / Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Amy Lawson",
+        "character": "Ballet Girl / Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tess Cunningham",
+        "character": "Ballet Girl / Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kathryn Dunn",
+        "character": "Ballet Girl / Flamenco Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Pia Driver",
+        "character": "Ballet Girl / Flamenco Dancer / Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sophia Hurdley",
+        "character": "Ballet Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Elena Buda",
+        "character": "Ballet Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/buMnKgA0I9ISzevGVMaZpth1aSS.jpg"
+      },
+      {
+        "name": "Mark Carroll",
+        "character": "Male Ensemble",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nkUr4VuUnLGk2KbeWinH3M9RM53.jpg"
+      },
+      {
+        "name": "Brian Wheeler",
+        "character": "Opera Chorus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nMTRb2hCEs73GUJ47Cpy4248gcR.jpg"
+      },
+      {
+        "name": "Terry Kelly",
+        "character": "Male Ensemble",
+        "profile_path": ""
+      },
+      {
+        "name": "David Arneil",
+        "character": "Male Ensemble",
+        "profile_path": ""
+      },
+      {
+        "name": "John Griffiths",
+        "character": "Male Ensemble",
+        "profile_path": ""
+      },
+      {
+        "name": "Graham McDuff",
+        "character": "Male Ensemble",
+        "profile_path": ""
+      },
+      {
+        "name": "Tricia Deighton",
+        "character": "Female Ensemble",
+        "profile_path": ""
+      },
+      {
+        "name": "Mandy Holliday",
+        "character": "Female Ensemble",
+        "profile_path": ""
+      },
+      {
+        "name": "Jackie Marks",
+        "character": "Female Ensemble",
+        "profile_path": ""
+      },
+      {
+        "name": "Sophie-Louise Dann",
+        "character": "Female Ensemble",
+        "profile_path": ""
+      },
+      {
+        "name": "Valerie Cutko",
+        "character": "Female Ensemble",
+        "profile_path": ""
+      },
+      {
+        "name": "Julia Worsley",
+        "character": "Female Ensemble",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aD7ogVoPnEHVNvVzz5gMsHNJHjO.jpg"
+      },
+      {
+        "name": "Margaret Preece",
+        "character": "Female Ensemble",
+        "profile_path": ""
+      },
+      {
+        "name": "Annalene Beechey",
+        "character": "Female Ensemble",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucy Potter",
+        "character": "Ballet Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Remy Martyn",
+        "character": "Flamenco Dancer / Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Bayliss",
+        "character": "Opera Populaire Orchestra",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Charles Corbett",
+        "character": "Flamenco Dancer / Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ralph Broadbent",
+        "character": "Opera Populaire Orchestra",
+        "profile_path": ""
+      },
+      {
+        "name": "Damien Lee Stirk",
+        "character": "Flamenco Dancer / Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexander Cameron",
+        "character": "Opera Populaire Orchestra",
+        "profile_path": ""
+      },
+      {
+        "name": "Pascal Langdale",
+        "character": "Flamenco Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iT1l04QNIUrCeEvBlSCGWcmOt79.jpg"
+      },
+      {
+        "name": "Paul Costin",
+        "character": "Opera Populaire Orchestra",
+        "profile_path": ""
+      },
+      {
+        "name": "Carlos Otera",
+        "character": "Flamenco Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew Draper",
+        "character": "Opera Populaire Orchestra",
+        "profile_path": ""
+      },
+      {
+        "name": "Annika Strandberg",
+        "character": "Flamenco Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ben Gant",
+        "character": "Opera Populaire Orchestra",
+        "profile_path": ""
+      },
+      {
+        "name": "Beth Sheather",
+        "character": "Flamenco Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mu9TiFmMq41Vl6t2Y8Ukm3PsCO0.jpg"
+      },
+      {
+        "name": "Jonathon Hill",
+        "character": "Opera Populaire Orchestra",
+        "profile_path": ""
+      },
+      {
+        "name": "Isabel Lesto",
+        "character": "Flamenco Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah Frasca",
+        "character": "Flamenco Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Timothy Kipling",
+        "character": "Opera Populaire Orchestra",
+        "profile_path": ""
+      },
+      {
+        "name": "Sandra Eloani",
+        "character": "Flamenco Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q6IwjnKsZllpja3bOtJZfRvbExF.jpg"
+      },
+      {
+        "name": "Jonathon Kitchen",
+        "character": "Opera Populaire Orchestra",
+        "profile_path": ""
+      },
+      {
+        "name": "Ruben Halse",
+        "character": "Candelabra Holder",
+        "profile_path": ""
+      },
+      {
+        "name": "Tristan Keyte",
+        "character": "Opera Populaire Orchestra",
+        "profile_path": ""
+      },
+      {
+        "name": "Damian Jones",
+        "character": "Candelabra Holder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gwmtrMfwqoKBhwMgIJdTXCPzcnt.jpg"
+      },
+      {
+        "name": "Michael Mansbridge",
+        "character": "Opera Populaire Orchestra",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff Moore",
+        "character": "Opera Populaire Orchestra",
+        "profile_path": ""
+      },
+      {
+        "name": "Vanessa Perroncel",
+        "character": "Candelabra Holder",
+        "profile_path": ""
+      },
+      {
+        "name": "Lea Jerova",
+        "character": "Candelabra Holder",
+        "profile_path": ""
+      },
+      {
+        "name": "Julian Poole",
+        "character": "Opera Populaire Orchestra",
+        "profile_path": ""
+      },
+      {
+        "name": "Rebekah Dobbins",
+        "character": "Candelabra Holder",
+        "profile_path": ""
+      },
+      {
+        "name": "James Pullman",
+        "character": "Opera Populaire Orchestra",
+        "profile_path": ""
+      },
+      {
+        "name": "Lee Chapman",
+        "character": "Candelabra Holder",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Purvis",
+        "character": "Opera Populaire Orchestra",
+        "profile_path": ""
+      },
+      {
+        "name": "Gavin Lee",
+        "character": "Male Masquerade Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/axnkER0MZvQeh8DWJyrBgwTlILG.jpg"
+      },
+      {
+        "name": "Dave Tosh",
+        "character": "Opera Populaire Orchestra",
+        "profile_path": ""
+      },
+      {
+        "name": "Rod Buchanan",
+        "character": "Male Masquerade Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4ajjowhyRAw8DkltSKxL5A06clk.jpg"
+      },
+      {
+        "name": "Chris Worsey",
+        "character": "Opera Populaire Orchestra",
+        "profile_path": ""
+      },
+      {
+        "name": "Ashley Wallen",
+        "character": "Male Masquerade Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qipM6bYnvPOppHVocj1NEtWrZ4d.jpg"
+      },
+      {
+        "name": "Adam Pudney",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ben Garner",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Blake Clayfield",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Damien Delaney",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcus Tesch",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Small",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Milo Miles",
+        "character": "Male Masquerade Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1XKtQLQQsWlzsHAE74xtjvxXtT3.jpg"
+      },
+      {
+        "name": "Nathan Clark",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen B. White",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen Berkeley",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kasper Cornish",
+        "character": "Male Masquerade Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h4b2Qn1DZ3Fmjjh0Fxv7IW83OP2.jpg"
+      },
+      {
+        "name": "Philip Catchpole",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryan Jenkins",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Gavin Wilkinson",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Alec Mann",
+        "character": "Male Masquerade Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qfJMeq0pIRCiAOGuoG4iQqhb98p.jpg"
+      },
+      {
+        "name": "Scott Wyer",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Micha",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Clinton Goldsmith",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Corbett",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Luis Gallo Mudarra",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Damien Jackson",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Tanscy",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Luke Jackson",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Aaron Sillis",
+        "character": "Male Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Melanie Perks",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lorena Randi",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Stevens",
+        "character": "Female Masquerade Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w9zS0rKgadasOYXUjt3OjXKNF78.jpg"
+      },
+      {
+        "name": "Rachael Crocker",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Julia Florimo",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Caroline Lynn",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Joanna Woodliffe",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Marilena Nicolaou",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Joanna Ernest",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Georgina Hagerty",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Simone De La Rue",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Claire Goodman",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Gem Collingwood",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Maddy G. Harris",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Juliet Gough",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Deborah Bundy",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Pippa Raine",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Leigh Daniels",
+        "character": "Female Masquerade Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qU5ikH1jhQ3d2ZWzKUEuWLYOgbn.jpg"
+      },
+      {
+        "name": "Gabriel Noble",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Maryam Pourian",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Candice Evans",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Janine Davis",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Bethany Elliot",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Dawn Collins",
+        "character": "Female Masquerade Dancer",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Joel Schumacher",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ttXniaNjekrOBjLQpZqTv89AakA.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "mask",
+    "dancing",
+    "paris, france",
+    "based on novel or book",
+    "love triangle",
+    "obsession",
+    "musical",
+    "based on play or musical",
+    "remake",
+    "tragic villain",
+    "rooftop",
+    "disfigured face",
+    "opera singer",
+    "1910s",
+    "phantom of the opera"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A young soprano becomes the obsession of a disfigured and murderous musical genius who lives beneath the Paris Opéra House.",
+    "Begins when an opera ghost terrorizes the cast and crew of the French Opera House while tutoring a chorus girl. He finally drives the lead soprano crazy so she and her friend leave. The girl is able to sing lead one night but the soprano doesn't want her show stolen so she comes back. The ghost demands they keep giving his protégé lead roles. Meanwhile, His pupil falls in love with the Vicomte de Chagny, but the Phantom is in love with Christine, his student. The Phantom is outraged by their love and kidnaps Christine to be his eternal bride. Will Raoul, the Vicomte, be able to stop this dastardly plan?—Niki",
+    "Our story begins with Opera Populaire's manager, Lefevre, leaving. His successors, Andre and Firmin, take over the opera, and bring with them their new patron, le Vicomte Raoul de Changy. To celebrate their new managers, the opera throws a gala, at which the leading diva refuses to perform, due to the mysterious 'Opera Ghost' who seems determined to have the screeching diva leave. Without a diva, Andre and Firmin are strong-minded to find a new leading lady, so they invoke the talents of a young, chorus-singer named Christine Daae, who has been taking lessons from a mysterious tutor. Raoul, Christine's old childhood sweetheart, who recognizes her at her triumphant gala performance, wants to bring Christine back into his life. But, suddenly, Christine's mysterious tutor reveals himself to her... Now, will Christine ask everything of Raoul or listen to the Music of the Night?—phan007",
+    "Deformed since birth, a bitter man known only as the Phantom lives in the sewers underneath the Paris Opera House. He falls in love with the obscure chorus singer Christine, and privately tutors her while terrorizing the rest of the opera house and demanding Christine be given lead roles. Things get worse when Christine meets back up with her childhood acquaintance Raoul and the two fall in love. The Phantom decides to kidnap her and imprison her with him in his lair. Raoul is now the only one who can stop him.—rmlohner",
+    "The story of a young chorus girl, Christine - a young talented singer who, with the right training, could become world famous. While rehearsing at the Opera Populaire, where weird and unexplainable things happen, she captures the attention and the heart of The Phantom, or as the Opera Populaire call him...The Opera Ghost. But he is no ghost - he is a disfigured musical genius who has hidden away for years to avoid the cruel stares of strangers. With the Phantoms help, Christine becomes the venue's leading lady, but tragedy awaits as the young soprano has fallen for the charms of handsome noble Viscount Raoul De Chagny, not realizing her Angel of Music is deeply in love with her. Insane with jealousy and unable to see the object of his affection, and ultimately is obsession, in the arms of another man, The Phantom kidnaps Christine - unaware of the lengths Raoul is prepared to go to get her back.—Shinyhappypeoples"
+  ],
+  "synopsis": "The movie starts with an auction being held in the Paris Opera House. The Opera has been shut down and they are auctioning off props to make some money. One of the items is a stuffed monkey dressed in Persian robes and playing the cymbals sitting on top of a music box. An older gentleman in a wheelchair buys the monkey and holds on to it tightly. The next item is a chandelier that was broken but has been repaired. When the chandelier is revealed, we are whisked back to 1870 (\"Overture\") where we see the opera house in full swing for it's performance of Hannibal by Chalemau. Rehearsals are under way when the Opera manager informs the cast and crew that he is leaving for Australia and that the Opera House is now under the command of Gilles Andre and Richard Firmin (Simon Callow and Cirian Hinds).When they resume rehearsal, a stage prop falls on the lead diva, Carlotta (Minnie Driver). After she storms out refusing to sing, Madame Giry (Miranda Richardson), the ballet instructor, convinces the new owners to let Christine Daaé (Emmy Rossum), one of the dancers, to take Carlotta's part. After a stunning performance (\"Think of Me\"), Christine goes down to the small chapel under the Opera House to pray for her father who died long ago. Meg (Jennifer Ellison) one of the ballet dancers and Christine's best friend comes to find her inquiring of her singing prowess (\"Angel of Music\").Later, Christine's childhood friend Raoul, the Vicomte de Changy and patron of the Opera House, comes to visit her in her dressing room. He had been in the audience and had recognized her. After inviting her to a party and leaving to prepare for the ride, Christine is locked in her room and hears singing. The Phantom (Gerard Butler) is mad at Raoul for taking credit in his work in training Christine to sing. He then lures Christine to a mirror where she sees him then follows him to his lair under the Opera House (\"The Phantom of the Opera\"). Once there the Phantom expresses his feelings for Christine and tries to convince her to stay with him (\"Music of the Night\"). Later she unmasks him and the Phantom is furious with her. Although he is raging and angry, he becomes vunerable and begins crying. He wishes he didn't have a loathsome gargoyle face (\"I Remember/Stranger Than You Dreamt It\"). He then returns her to the surface.While Christine is gone, Andre and Firmin are upset because Christine has disappeared and they no longer have a lead to play in the operas. After receiving a series of notes all signed O.G. (Opera Ghost) they find out that Christine has returned and they have been instructed by the Phantom to put Christine in the lead role of the upcoming opera II Muto. They refuse and put Carlotta in the lead part after convincing her to return (\"Prima Donna\") and give Christine a silent role, which infuriates the Phantom. He then disables Carlotta's voice giving her the voice of a toad, which forces the Opera managers to put Christine in the lead role. While Christine is getting ready, Joseph Buquet (Kevin McNally) finds the Phantom in the rafters and after trying to escape is caught and hung from the rafters on stage in full view of everyone. This frightens Christine and she runs to the roof with Raoul pursuing her where he comforts her telling her that he loves her and will never leave her (\"All I Ask of You\") The Phantom overhears and is now in a state of shock because Christine loves Raoul and not him.3 months later, we see that the Opera House is in full swing without any appearance from the Phantom since he disabled Carlotta's voice. The Opera House is holding a Masquerade to celebrate (\"Masquerade\"). During the Masquerade the Phantom interrupts and presents the managers with a new Opera he has written called Don Juan. He then gives them an ultimatum. Follow his instructions or bad things will happen. Christine visits the graveyard where her father is buried (\"Wishing You Were Somehow Here Again\"). The Phantom is also there and tries to lure her to him but Raoul arrives and fights off the Phantom in a sword battle. They then leave the Phantom there and he swears to get revenge.The performance of Don Juan has finally come and everyone is nervous. Raoul, Andre, and Firmin are positive the Phantom will make an appearance so they set a trap. Christine is torn. She explains that she can't be a part of the trap without the Phantom taking her back. The play starts and Christine comes on stage singing. Backstage, Piangi (Victor McGuire) is getting ready for his next scene when the Phantom kills him and takes his place on stage. Christine sings with the Phantom, expressing her love for him. Raoul, who is in the audience, sadly realizes that Christine loves the Phantom (\"The Point of No Return\"). The Phantom then sings passionately to Christine who takes his mask off, revealing to the audience the distortion of his face. He takes her once again down to his lair, causing the opera theatre to catch on fire in the progress after bringing down the chandelier (\"Down Once More/Track Down This Murderer\"). The Phantom gives Christine the ring that he took from her at the masquerade ball, and asks her to stay with him. Meanwhile, Raoul gets Madame Giry to take him to the Phantom's lair. She leaves Raoul halfway through their journey, and Raoul goes the rest of the way alone. After nearly drowning, he shows up in the Phantom's lair to save Christine. The Phantom then gives Christine the difficult desicion: she can either stay with the Phantom and Raoul (who has been tied up by the Phantom) goes free, or she refuses the Phantom and Raoul dies but Christine goes free. Christine decides to stay with the Phantom and tells him that he is not alone. She kisses him passionately. At this the Phantom realizes that Christine truly loves him, but his horrible actions have ruined any chance they have together. In an act of selflessness, he frees both Christine and Raoul. Christine gives the ring back to the Phantom who sadly tells Christine that he loves her. Christine forces herself to leave with Raoul in the boat. She looks back at the Phantom sadly, knowing that she loves him. Heartbroken, the Phantom destroys the mirrors and escapes through a secret passage just before the mob shows up. Meg Giry finds only his mask.The scene then switches back to 1919. The elderly gentleman now known to be Raoul leaves the monkey music box on Christine's grave. He looks down and sees that the Phantom has left a rose tied with a black ribbon (his trademark) and the ring that he gave to Christine: the Phantom still loves her. Raoul sadly looks at it knowing that Christine truly loved the Phantom.",
+  "imdb_score": 7.2
+}

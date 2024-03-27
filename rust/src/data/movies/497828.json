@@ -1,0 +1,819 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/jENycYiYGr5NvMs789zj06JkW5l.jpg",
+  "id": 497828,
+  "title": "Triangle of Sadness",
+  "poster_path": "https://image.tmdb.org/t/p/w500/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+  "release_date": "2022-09-18",
+  "vote_average": 7.11,
+  "vote_count": 1841,
+  "popularity": 49.431,
+  "overview": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged, alcoholic captain. What first appears Instagrammable ends catastrophically, leaving the survivors stranded on a desert island in a struggle of hierarchy.",
+  "imdb_id": "tt7322224",
+  "budget": 15600000,
+  "homepage": "https://www.triangleofsadness.film",
+  "revenue": 24733572,
+  "runtime": 147,
+  "tagline": "",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    "30WEST",
+    "BBC Film",
+    "Bord Cadre Films",
+    "Coproduction Office",
+    "Film i Väst",
+    "Heretic",
+    "Imperative Entertainment",
+    "Sovereign Films",
+    "Plattform Produktion",
+    "SVT",
+    "BFI",
+    "Piano",
+    "ARTE France Cinéma",
+    "ZDF/Arte",
+    "Essential Filmproduktion",
+    "TRT Sinema"
+  ],
+  "production_countries": [
+    "DK",
+    "FR",
+    "DE",
+    "GR",
+    "MX",
+    "SE",
+    "CH",
+    "TR",
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Harris Dickinson",
+        "character": "Carl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pqqnYWWHa3Va80EXofXrVlRqIDM.jpg"
+      },
+      {
+        "name": "Charlbi Dean",
+        "character": "Yaya",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bdWguLfrKPfRVIFvEOsVNMdeqw9.jpg"
+      },
+      {
+        "name": "Woody Harrelson",
+        "character": "Thomas, The Captain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+      },
+      {
+        "name": "Zlatko Burić",
+        "character": "Dimitry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lLQd6DgW8XGjWVRVw9KvAMue9i4.jpg"
+      },
+      {
+        "name": "Vicki Berlin",
+        "character": "Paula",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vGxpg6jPttqBRe459wULWNFCuuG.jpg"
+      },
+      {
+        "name": "Dolly de Leon",
+        "character": "Abigail",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yFEIcqvenemCBwTcfpNwxGTInSF.jpg"
+      },
+      {
+        "name": "Henrik Dorsin",
+        "character": "Jarmo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xCy1BDKAeGNCV6V1ntyYvo3kBB0.jpg"
+      },
+      {
+        "name": "Iris Berben",
+        "character": "Therese",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pInPB6vJDaGlVQZn06pKoOCRhCN.jpg"
+      },
+      {
+        "name": "Jean-Christophe Folly",
+        "character": "Nelson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z7BnkThx3Et0ByplxDQWqFdHHH4.jpg"
+      },
+      {
+        "name": "Amanda Walker",
+        "character": "Clementine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g24boQMXNvZzWDKMPZFFs4x4h5f.jpg"
+      },
+      {
+        "name": "Oliver Ford Davies",
+        "character": "Winston",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hDdpoEWtNd0c46PcuORomdEI5j0.jpg"
+      },
+      {
+        "name": "Sunnyi Melles",
+        "character": "Vera",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ro6nr4EAYKSrXyuKpACUs0BpMgc.jpg"
+      },
+      {
+        "name": "Thobias Thorwid",
+        "character": "Lewis",
+        "profile_path": ""
+      },
+      {
+        "name": "Jiannis Moustos",
+        "character": "Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Timoleon Gketsos",
+        "character": "Handsome Crewman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8i4cNwvS7C5gF6zlilZWFq9nlzl.jpg"
+      },
+      {
+        "name": "Alicia Eriksson",
+        "character": "Alicia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bv18dcMKqC2spMA0vcuY0GbTCXq.jpg"
+      },
+      {
+        "name": "Carolina Gynning",
+        "character": "Ludmilla",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bsHrTUgxPy3MMPItHDavH1kYcQi.jpg"
+      },
+      {
+        "name": "Ralph Schicha",
+        "character": "Uli",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dGEBGiaXu31IpVNqrK5Pah7paEn.jpg"
+      },
+      {
+        "name": "Arvin Kananian",
+        "character": "Darius",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hcjxh1ouEnWgDGiiW7ihcEXE8ba.jpg"
+      },
+      {
+        "name": "Mia Benson",
+        "character": "Dirty Sails Lady",
+        "profile_path": "https://image.tmdb.org/t/p/w185/72IWNlRxewngwZNUDt7gP7A3RAt.jpg"
+      },
+      {
+        "name": "Stefan Gödicke",
+        "character": "Yacht Chef",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c2U5DyipIlzvcCf3rJsTx0qmPQ1.jpg"
+      },
+      {
+        "name": "Nana Manu",
+        "character": "Beach Vendor",
+        "profile_path": ""
+      },
+      {
+        "name": "Fredrik Quinones",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Filip Roséen",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Chidiegwu Chidi",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlie Westerberg",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Erik Andersson",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Hamlet Talje Willoughby",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Köhler",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Estehghari",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Alfons Miari",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Isak Barrow",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexander Virenhem",
+        "character": "Male Model",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nzxzckmyJaObOdSesUkPjgSKgVw.jpg"
+      },
+      {
+        "name": "Malte Gårdinger",
+        "character": "Male Model",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vDtILRvipBzF2bVqZBiqMQ1HehP.jpg"
+      },
+      {
+        "name": "Alfred Lindström",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Augustine Kajue",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "William-Patrik Molvén",
+        "character": "Male Model",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yA1m8DYtzYWqyErEmPWce0xqb8K.jpg"
+      },
+      {
+        "name": "Florand Kaufeldt",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Theodor Öhrn",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Jin Zou",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "David Alexanderson",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Olof Källström",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Julian Redaelli",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Egil Ahlenius",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Carl Jood",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Chand Smith",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Malick Afocozi",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Ludvig Fast",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Norlander",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Anton Isaksson",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Kamara",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Svirins",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Hugo Palm",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Simon Bredenberg",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Noa Del Castillo Hallberg",
+        "character": "Male Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Ann-Sofi Back",
+        "character": "Casting Jury",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Rydberg",
+        "character": "Casting Jury",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Nordberg",
+        "character": "Casting Jury",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlotte Brattin",
+        "character": "Casting Jury",
+        "profile_path": ""
+      },
+      {
+        "name": "Mira Uszkureit",
+        "character": "Casting Jury",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6W2NMKjcJ38t3zGv3uijuqpWNuK.jpg"
+      },
+      {
+        "name": "Alex Schulman",
+        "character": "Front Row",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wtTt3RvgRQ3AGQhspl2Je4l8DJd.jpg"
+      },
+      {
+        "name": "Amanda Schulman",
+        "character": "Front Row",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2ciV69hvsaowueSzPLHybF79rdW.jpg"
+      },
+      {
+        "name": "Emma Warg",
+        "character": "Front Row",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rJZbWPlYIzwzl5AEWTQUnM9trH1.jpg"
+      },
+      {
+        "name": "Camilla Läckberg",
+        "character": "Front Row",
+        "profile_path": "https://image.tmdb.org/t/p/w185/38E5VifLZ6MdTrIiKqYkm6RRAbL.jpg"
+      },
+      {
+        "name": "Christina Saliba",
+        "character": "Front Row",
+        "profile_path": "https://image.tmdb.org/t/p/w185/495tXwxAiZpuG6Bh0hgFZTB3sm9.jpg"
+      },
+      {
+        "name": "Karin Myrenberg",
+        "character": "Front Row",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5GxqUGOIf7WMpv4nK0hJ0JeYgsy.jpg"
+      },
+      {
+        "name": "Linnea Olsson",
+        "character": "Cello Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tGUM3ngEyX4mQjPZcNsJimGebuT.jpg"
+      },
+      {
+        "name": "Asta Stensson",
+        "character": "Model at Runway",
+        "profile_path": ""
+      },
+      {
+        "name": "Elsa Sjökvist",
+        "character": "Model at Runway",
+        "profile_path": ""
+      },
+      {
+        "name": "Johanna Ovelius",
+        "character": "Model at Runway",
+        "profile_path": ""
+      },
+      {
+        "name": "Shaniaz Hama Ali",
+        "character": "Advanced Extra",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tUeSusBlV5KRHqt4jT524pPFzy1.jpg"
+      },
+      {
+        "name": "Catrin Nilsson",
+        "character": "Advanced Extra",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacob Papinniemi",
+        "character": "Advanced Extra",
+        "profile_path": ""
+      },
+      {
+        "name": "Mimmi Brundin",
+        "character": "Advanced Extra",
+        "profile_path": ""
+      },
+      {
+        "name": "Melodie Von Sass",
+        "character": "Advanced Extra",
+        "profile_path": ""
+      },
+      {
+        "name": "Ellen Dixdotter",
+        "character": "Advanced Extra",
+        "profile_path": ""
+      },
+      {
+        "name": "Sofia Lücke",
+        "character": "Advanced Extra",
+        "profile_path": ""
+      },
+      {
+        "name": "Ronja Kruus",
+        "character": "Advanced Extra",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Westerstrom",
+        "character": "Advanced Extra",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rdGgZJ2udWTyiPK4WV8XvV14Wpr.jpg"
+      },
+      {
+        "name": "Hedda Rehnberg",
+        "character": "Advanced Extra",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9TNdPwbjvJKdFxlQ8QSRTcI0gKi.jpg"
+      },
+      {
+        "name": "Robert Martufi",
+        "character": "Advanced Extra",
+        "profile_path": ""
+      },
+      {
+        "name": "Hanna Oldenburg",
+        "character": "Yacht Steward",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3sUqXV14Q7tLgMz2hEfrcc8QqyE.jpg"
+      },
+      {
+        "name": "Arnella Zetterström",
+        "character": "Yacht Steward",
+        "profile_path": ""
+      },
+      {
+        "name": "Sepideh Mazloom",
+        "character": "Yacht Steward",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Dernsjö",
+        "character": "Yacht Steward",
+        "profile_path": ""
+      },
+      {
+        "name": "Nikolas Drosopoulos",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Chrysanthi Theodosi",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Maria Alexiou",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Marilena Lampropoulou",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Christos Ntoulas",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Nikolas Chalkiadakis",
+        "character": "Yacht Crew",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qlKZqmuWaxHvvFUYxvUfUdmstu7.jpg"
+      },
+      {
+        "name": "Grace Milaszewski",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Melina Marksaitis",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Theresa Johannesson",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Leocilyn Capanas",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Nanette Lipponen",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Maria Danica Herrera",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Maria Grace Concepcion",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Kristin Delfinado",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Shanilou Del Mundo",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "John Michael Yadao",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Freedom Ziad Ahmed",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Jomar",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Garry Villador Deveratturda",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Janiola",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Mario Rowen Bugtai",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Mohamed Lachras",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Taye Nathanail",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Athanasios Papaioannou",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexandros Sargologos",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Allen Bandiola",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicolas Refin",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Lontoc Rolyn",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "John Paul Paugio",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "John Paulo",
+        "character": "Yacht Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Anne Brocklin Bergman",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Johnny Bergman",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Fredrik Wikingsson",
+        "character": "Yacht Passenger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qwuhGpdtl7W2lugHErntPwIKqTn.jpg"
+      },
+      {
+        "name": "Henrik Thott",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Peteus",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Magnus Jeansson",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Stefan Martikainen",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Britt-Marie Svensson",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Arash Raoufi",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Nafiseh Hadizadeh",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Inga Hahn",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Lennart Hahn",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Linda Anborg",
+        "character": "Yacht Passenger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gW6jcL4ibdFum4BUdUJpm0X1Ytg.jpg"
+      },
+      {
+        "name": "Karina Baldock Wiking",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Olof Myhrman",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Rebecca Fager",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Hilde Fager",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Emmylou Saguindel-Holmé",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Ann-Marie Eriksson",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Pål Svensson",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Giorgos Kyriakopoulos",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Pavlos Laoutaris",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Eva Koroli",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexia Mpogdanou",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Giannis Papathymios",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Achilles Vatrikas",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Gianna Andritsaki",
+        "character": "Yacht Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Dauda Coneth",
+        "character": "Pirate",
+        "profile_path": ""
+      },
+      {
+        "name": "Beh Solo Kone",
+        "character": "Pirate",
+        "profile_path": ""
+      },
+      {
+        "name": "Yussif Zakaria",
+        "character": "Pirate",
+        "profile_path": ""
+      },
+      {
+        "name": "Papa Cheik Jade",
+        "character": "Pirate",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Ruben Östlund",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o4SdiMI5CyF1BrYL9aUhRQl58Xw.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "dark comedy",
+    "satire",
+    "survival",
+    "stranded",
+    "cruise ship",
+    "class differences",
+    "gender roles",
+    "sinking ship",
+    "food rationing",
+    "power struggle",
+    "luxury yacht",
+    "open ended",
+    "social media influencer",
+    "social climber",
+    "wealth inequality"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A fashion model celebrity couple join an eventful cruise for the super-rich.",
+    "In Ruben Östlund's wickedly funny Palme d'Or winner, social hierarchy is turned upside down, revealing the tawdry relationship between power and beauty. Celebrity model couple, Carl (Harris Dickinson) and Yaya (Charlbi Dean), are invited on a luxury cruise for the uber-rich, helmed by an unhinged boat captain (Woody Harrelson). What first appeared instagrammable ends catastrophically, leaving the survivors stranded on a desert island and fighting for survival.—Official Synopsis",
+    "A male model and his girlfriend are caught in an amusingly weird situation while on a cruise with an assortment of around dozen co passengers. Things don't go smooth at all with a raging storm making things difficult, they get shipwrecked and all now need to make compromises to survive.—madanmarwah",
+    "Having to learn to live with his bruised male pride after a disastrous career-defining audition, young fashion model Carl has an all-night row with his successful influencer model/girlfriend, Yaya. But with money remaining a touchy subject, Carl is fighting a losing battle. As a result, insecurities, fragile egos, artful manipulation, and silent gender expectations shed light on every nook and cranny of their modern relationship. Then, politeness eventually prevails, and Yaya takes Carl on a sun-kissed luxury cruise to rub shoulders with the ultra-rich. But life isn't Instagram. And before long, a raging tempest violently rocks the multimillion-dollar yacht back and forth like a see-saw, getting the best of plutocrats and workers alike. Now, let's see who has the upper hand. Will the dazed passengers ever escape the triangle of sadness?—Nick Riganas"
+  ],
+  "synopsis": "",
+  "imdb_score": 7.3
+}

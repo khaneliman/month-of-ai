@@ -1,0 +1,656 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/rBuhUIHnDKRDpnyVwgr5eS2alw0.jpg",
+  "id": 298,
+  "title": "Ocean's Thirteen",
+  "poster_path": "https://image.tmdb.org/t/p/w500/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
+  "release_date": "2007-06-05",
+  "vote_average": 6.724,
+  "vote_count": 6016,
+  "popularity": 29.145,
+  "overview": "Danny Ocean's team of criminals are back and composing a plan more personal than ever. When ruthless casino owner Willy Bank doublecrosses Reuben Tishkoff, causing a heart attack, Danny Ocean vows that he and his team will do anything to bring down Willy Bank along with everything he's got. Even if it means asking for help from an enemy.",
+  "imdb_id": "tt0496806",
+  "budget": 85000000,
+  "homepage": "http://oceans13.warnerbros.com/",
+  "revenue": 311312624,
+  "runtime": 122,
+  "tagline": "What are the odds of getting even? 13 to one.",
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Village Roadshow Pictures",
+    "Warner Bros. Pictures",
+    "Section Eight",
+    "Jerry Weintraub Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "George Clooney",
+        "character": "Danny Ocean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4s3wI0bqOP7K3hhcmKqV6m3GYiQ.jpg"
+      },
+      {
+        "name": "Brad Pitt",
+        "character": "Rusty Ryan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+      },
+      {
+        "name": "Matt Damon",
+        "character": "Linus Caldwell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
+      },
+      {
+        "name": "Andy García",
+        "character": "Terry Benedict",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aRooE4lECWf0YXd2NefeM4Wu4rn.jpg"
+      },
+      {
+        "name": "Don Cheadle",
+        "character": "Basher Tarr",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vPzvP0Qik5yHNf6dF2uqLH9HrX1.jpg"
+      },
+      {
+        "name": "Bernie Mac",
+        "character": "Frank Catton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bwMmpeu3whjhhaxt1UTCk7S5jmv.jpg"
+      },
+      {
+        "name": "Ellen Barkin",
+        "character": "Abigail Sponder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k8L89k5xEk7hN3TUKkEFUcPzSxh.jpg"
+      },
+      {
+        "name": "Al Pacino",
+        "character": "Willy Bank",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2dGBb1fOcNdZjtQToVPFxXjm4ke.jpg"
+      },
+      {
+        "name": "Casey Affleck",
+        "character": "Virgil Malloy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vD5MtCjHPHpmU9XNn74EPGMHT7o.jpg"
+      },
+      {
+        "name": "Scott Caan",
+        "character": "Turk Malloy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/67V8YrMglGzvuTOZGpqygDhNK1z.jpg"
+      },
+      {
+        "name": "Eddie Jemison",
+        "character": "Livingston Dell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zGnEYsiIm4FUrujbDvMfQEivvnj.jpg"
+      },
+      {
+        "name": "Shaobo Qin",
+        "character": "Yen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lACyYvn3U1CfDWoT4Ft0qI5CJA7.jpg"
+      },
+      {
+        "name": "Carl Reiner",
+        "character": "Saul Bloom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hNZNrwU2qysa2ijndIgkd6yjSCt.jpg"
+      },
+      {
+        "name": "Elliott Gould",
+        "character": "Reuben Tishkoff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ismZMvs8QxRR33OAVp9AKr3TokP.jpg"
+      },
+      {
+        "name": "Eddie Izzard",
+        "character": "Roman Nagel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/H8zar1LxJu5jgThl33z59g2iqO.jpg"
+      },
+      {
+        "name": "Vincent Cassel",
+        "character": "François Toulour",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ykBEiVh6YQ9UmMAYUiQkZBH3VV4.jpg"
+      },
+      {
+        "name": "Bob Einstein",
+        "character": "Agent Robert \"Robby\" Caldwell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pRwCorfg2X4NiQfgneN2iqhShsf.jpg"
+      },
+      {
+        "name": "Olga Sosnovska",
+        "character": "Debbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pUpjvTRWOXRv9QfpFrGuEdkDk1P.jpg"
+      },
+      {
+        "name": "David Paymer",
+        "character": "V.U.P.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rrI6LgFb1la4PCIYuTB7pjIGgut.jpg"
+      },
+      {
+        "name": "Angel Oquendo",
+        "character": "Guard Ortega",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mrl08Pej3SlkSHgtljuVJWkAVr7.jpg"
+      },
+      {
+        "name": "Jerry Weintraub",
+        "character": "Denny Shields",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4CXByDT1Zc4jicCwwqU01Qbs3WX.jpg"
+      },
+      {
+        "name": "Julian Sands",
+        "character": "Greco Montgomery",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8TYtEyKZle2B3cUYT7FBM9HJRtZ.jpg"
+      },
+      {
+        "name": "Michael Mantell",
+        "character": "Dr. Stan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wZ8XkAkpok05jQthvy0H8iGoXrz.jpg"
+      },
+      {
+        "name": "Ray Xifo",
+        "character": "Reuben's Butler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ydcoKJFff0yoa41Bw5XjyMuZTiH.jpg"
+      },
+      {
+        "name": "Soledad St. Hilaire",
+        "character": "Chamber Maid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qxq4LryJ1eAsgT49v1KaOEb5qpn.jpg"
+      },
+      {
+        "name": "Adam Lazarre-White",
+        "character": "Bank's Junior Executive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p63rzBpX50N94k81febrIwxUeQD.jpg"
+      },
+      {
+        "name": "Maggie Rowe",
+        "character": "Florist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oMLI9pOONkmMIxCYWcrYL2tYnhf.jpg"
+      },
+      {
+        "name": "Kris Kane",
+        "character": "Fired Waitress",
+        "profile_path": ""
+      },
+      {
+        "name": "Luis Chávez",
+        "character": "Nestor / Nestor's Brother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aYIUIGtivXGkRyFmzTRK7GRM8Id.jpg"
+      },
+      {
+        "name": "Ivar Brogger",
+        "character": "Shuffle Royale VP",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g5SGHvfGKvNhCRBfjBXcaP9RKAO.jpg"
+      },
+      {
+        "name": "Alex Procopio",
+        "character": "Polygrapher",
+        "profile_path": ""
+      },
+      {
+        "name": "Armen Weitzman",
+        "character": "Eugene",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nQZHlyNPGjs7Gc2Mev41auQrD16.jpg"
+      },
+      {
+        "name": "Steven Lambert",
+        "character": "Roulette Scam Artist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4xXQXJHECq50ea7C8VeBY0uN3ms.jpg"
+      },
+      {
+        "name": "Noureen DeWulf",
+        "character": "'Nuff Said Expo Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rYnQJDuIsyHUPhJh2AotMwAT7bx.jpg"
+      },
+      {
+        "name": "Don McManus",
+        "character": "Neil",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rGdpdQ0DDVDX4FlQzrdFGcOlRGB.jpg"
+      },
+      {
+        "name": "Jon Wellner",
+        "character": "Bellman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kIX1mef4re6MJs8nX0BHdRZyvXg.jpg"
+      },
+      {
+        "name": "Mesan Richardson",
+        "character": "Hotel Staff",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrian Neil",
+        "character": "Maitre D'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u39v3AfleR4umSZXJegjHeUJ8P5.jpg"
+      },
+      {
+        "name": "Michael Miranda",
+        "character": "Randall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hvuoQ0Bc2eSPKbpHLsLNYYkb8T6.jpg"
+      },
+      {
+        "name": "Oprah Winfrey",
+        "character": "Oprah Winfrey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nNpYieaDLxKZWw2FY9wsDkjwURu.jpg"
+      },
+      {
+        "name": "Bernie Yuman",
+        "character": "Bernie Yuman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pfd8INXoexbnReJcniAcbx7cSAD.jpg"
+      },
+      {
+        "name": "Wayne Pére",
+        "character": "Fireworks Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lwXHBf6Iy627B7wLgzIy43NKzRi.jpg"
+      },
+      {
+        "name": "Joe Chrest",
+        "character": "Fender Roads' Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7mcsJGnqRoVPTtxAUZEKt2dZnlw.jpg"
+      },
+      {
+        "name": "Tim Conlon",
+        "character": "Agent Caldwell's Deputy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2spxhPR3kozQQNLXbr5ITTomDHc.jpg"
+      },
+      {
+        "name": "Moira Squier",
+        "character": "Agent Caldwell's Deputy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qHw9D6EXxZEF3QcU2ZlQHIAtEd1.jpg"
+      },
+      {
+        "name": "Steve Hai",
+        "character": "Mr. Weng's Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Michi Yamato",
+        "character": "Singing Referee",
+        "profile_path": ""
+      },
+      {
+        "name": "Bayanbat Davaadalai",
+        "character": "Bayanbat Davaadalai",
+        "profile_path": ""
+      },
+      {
+        "name": "Byambajav Ulambayar",
+        "character": "Byambajav Ulambayar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lnXSWXSFPot3wCXHoDC91hL2Fz5.jpg"
+      },
+      {
+        "name": "Ren Urano",
+        "character": "Sumo Referee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zlO49F1Z69XDI2E1t1BX50coWb6.jpg"
+      },
+      {
+        "name": "Musashimaru",
+        "character": "Musashimaru",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uxpEfvSPxziFEy0BH8wWgTh0tIy.jpg"
+      },
+      {
+        "name": "Tarô Akebono",
+        "character": "Tarô Akebono",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7LlFxrOtXxO5BDWsQ9IHklDMr1w.jpg"
+      },
+      {
+        "name": "Michael Harney",
+        "character": "Blackjack Pit Boss",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j64sglNnGc5fAHPEkJ1TmKOITQP.jpg"
+      },
+      {
+        "name": "James DuMont",
+        "character": "Security Supervisor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8DLNFj3a4SJWdtw5daPBQm0qrOO.jpg"
+      },
+      {
+        "name": "Doug Purcell",
+        "character": "Slot Machine Pit Boss",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eKJV3hBTFxLrDAN36Y544ZdOPBC.jpg"
+      },
+      {
+        "name": "Ashlee Vingle",
+        "character": "Cartwheel Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrea Tiede",
+        "character": "Cartwheel Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Austin Priester",
+        "character": "The Real Fender Roads",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tmz5Rcui8wQESrXKYJlxCH969Uj.jpg"
+      },
+      {
+        "name": "Margaret Travolta",
+        "character": "Bank's Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r9bQhcoB7iBbUu4NF5JWLopjSnj.jpg"
+      },
+      {
+        "name": "Jacquie Barnbrook",
+        "character": "Slot Machine Winner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qyNGOhlREezRo6G31Vr6wguq4PJ.jpg"
+      },
+      {
+        "name": "Tommy Hinkley",
+        "character": "Roulette Dealer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lNN8KIup3A4y06sl5gJKApYHmQZ.jpg"
+      },
+      {
+        "name": "Matt Duggan",
+        "character": "Security Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/97GFIzloFAXHPNo8ERuTtrroZtO.jpg"
+      },
+      {
+        "name": "Adam Kaiz",
+        "character": "Security Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oBXURNuneygRLYOA8Eo2xlECK5Z.jpg"
+      },
+      {
+        "name": "Kasey Mahaffy",
+        "character": "Security Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cRfpCD2UTrl4l9xt46lz2F0j6n1.jpg"
+      },
+      {
+        "name": "Nick Puga",
+        "character": "Security Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rNnadicJOGmtcpzGUeV9MOhUKiy.jpg"
+      },
+      {
+        "name": "Paull Walia",
+        "character": "Security Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5fU2EgX3zVpZembR2X9bQHqhYSn.jpg"
+      },
+      {
+        "name": "Mike Meldman",
+        "character": "Mike Meldman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/glRQL4Y8QUcZuEwc4xgXLuOSiS5.jpg"
+      },
+      {
+        "name": "Scott L. Schwartz",
+        "character": "Bruiser",
+        "profile_path": "https://image.tmdb.org/t/p/w185/osZ4griKNjwe7zSee2xcV89qBcU.jpg"
+      },
+      {
+        "name": "Jorge Luis Abreu",
+        "character": "Floor Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dJkKhSQUJXuAKMtwVKm3PLN1cBk.jpg"
+      },
+      {
+        "name": "Diana Donaldson",
+        "character": "Benedict's Secretary",
+        "profile_path": ""
+      },
+      {
+        "name": "Shae Wilson",
+        "character": "Ticket Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Kari Hawker-Diaz",
+        "character": "High Roller (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uSyvb5wgavNKwE5NC5al73abio6.jpg"
+      },
+      {
+        "name": "Amber Hay",
+        "character": "Cocktail Waitress (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lLka2Jxre2vaZyiBEWglblZPpX1.jpg"
+      },
+      {
+        "name": "Nancy Stelle",
+        "character": "Cocktail Waitress (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/29H6uvQVGLy84wr9R7ClDqGT7rK.jpg"
+      },
+      {
+        "name": "Bonnie Joy Ashley",
+        "character": "High Roller (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Yuki Bird",
+        "character": "Casino Gambler (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul X. Campanella",
+        "character": "Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicole Chauvet",
+        "character": "Upscale Gambler (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j9GK12ylE3LZxmzCIjYf2EV39rg.jpg"
+      },
+      {
+        "name": "Jaden Christopher",
+        "character": "High Roller (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Natalie Cohen",
+        "character": "Cocktail Waitress (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rTfSr81R9QxybPL7SPjgIivRowk.jpg"
+      },
+      {
+        "name": "Gregor Collins",
+        "character": "Stickman (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7JUXdg4hz6FnF5Kg9cdDII5Ot8p.jpg"
+      },
+      {
+        "name": "Rachel Ann Courtney",
+        "character": "Gambler at Roulette Table (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeffrey Crisp",
+        "character": "Casino Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Casimir Dyniewicz Jr.",
+        "character": "Willie Bank's Hotel Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Anthony Fisher",
+        "character": "Casino Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gillian Foreman",
+        "character": "Cocktail Waitress (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Leslie Garza",
+        "character": "Casino Winner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7u9Zz8UBZKrCIzHl9ueDAoFi7SF.jpg"
+      },
+      {
+        "name": "James Markham Hall Jr.",
+        "character": "High Roller (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sHW8oJpLmaaR66d1aCfE6DilAIC.jpg"
+      },
+      {
+        "name": "Lanette Fugit Hannah",
+        "character": "High Roller (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ty Izquierdo",
+        "character": "Bartender (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Shane Warren Jones",
+        "character": "Casino Valet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/62MJ2tuMu1lOKR5nlG8NApsiEPA.jpg"
+      },
+      {
+        "name": "Christopher Jude",
+        "character": "Conventioneer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Kalbfleisch",
+        "character": "Sumo Wrestler (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "James Martin Kelly",
+        "character": "Craps Pit Boss (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tEzKhyEa5SO3bUyvwV9yO521kKj.jpg"
+      },
+      {
+        "name": "Matt Kohler",
+        "character": "High Roller (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sean R. Lake",
+        "character": "Bellman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Lane",
+        "character": "Gambler (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7ojhjXFYSWLYrIBmmFcUwP4Pzh4.jpg"
+      },
+      {
+        "name": "Julio Leal",
+        "character": "High Roller (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Pui Fan Lee",
+        "character": "Las Vegas Showgirl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n4ksa166ElT5VMZurJE8eu9qdbO.jpg"
+      },
+      {
+        "name": "Lauchlin MacDonald",
+        "character": "High Roller (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tucker Maloney",
+        "character": "High Roller (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eddie Mariano",
+        "character": "High Roller (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xrIklhfEI5E7iucvxAbMMDbpdKW.jpg"
+      },
+      {
+        "name": "John C. McDonnell",
+        "character": "Stickman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jenny Morgan",
+        "character": "Gambler (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Cristina Nardozzi",
+        "character": "Cocktail Waitress (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Neilson",
+        "character": "Chaffeur at Airport (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dalila Orozco",
+        "character": "Gambler (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah Ospina",
+        "character": "Restaurant Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Evelina Pereira",
+        "character": "Informer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hA80viXgNfU1MEDSw4KPvbrpEYt.jpg"
+      },
+      {
+        "name": "Maury Rogow",
+        "character": "High Roller (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ankit Shah",
+        "character": "Casino Gambler (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lina So",
+        "character": "Gambler (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gwMmXTBA0lM6iX3G9txoY2OMYDu.jpg"
+      },
+      {
+        "name": "Johnny Soto",
+        "character": "Gambler (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rose Day Stuart",
+        "character": "Yen's Entourage (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Sun",
+        "character": "High Roller (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexana Thomas",
+        "character": "Pit Boss (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tyler Tuione",
+        "character": "Sumo (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uTTLzRByV6K6sW4ivp8xmzThVGh.jpg"
+      },
+      {
+        "name": "Maria Zambrana",
+        "character": "Sumo Wrestling Audience (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zzSCCJfojkw7HXXMjPcfBnPiSSp.jpg"
+      },
+      {
+        "name": "Mike Zent",
+        "character": "High Roller (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Steven Soderbergh",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2eJL4Eb9hyLwlgHX9IHRf5peIDm.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "casino",
+    "heist",
+    "thief",
+    "revenge",
+    "las vegas",
+    "pretending to be rich",
+    "labor strike"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Danny Ocean rounds up the boys for a third heist after casino owner Willy Bank double-crosses one of the original eleven, Reuben Tishkoff.",
+    "The last time we saw Danny Ocean's crew, they were paying back ruthless casino mogul Terry Benedict after stealing millions from him. However, it's been a while since they've come back together, which is all about to change. When one of their own, Reuben Tishkoff, builds a hotel with another casino owner, Willy Bank, the last thing he ever wanted was to get cut out of the deal personally by the loathsome Bank. Bank's attitude even goes so far as to finding the amusement in Tishkoff's misfortune when the double crossing lands Reuben in the hospital because of a heart attack. However, Danny and his crew won't stand for Bank and what he's done to a friend. Uniting with their old enemy Benedict, who himself has a vendetta against Bank, the crew is out to pull off a major plan; one that will unfold on the night Bank's newest hot spot opens up. They're not in this for the money, but for the revenge.—mystic80",
+    "Danny Ocean's team of criminals are back and are composing a plan more personal than ever. When ruthless casino owner Willy Bank double-crosses Reuben Tishkoff, causing a heart attack, Danny Ocean vows that he and his team will do anything to bring Willy Bank and everything he's got down. Even if it includes hiring help from one of their own enemies, Terry Benedict.—Film_Fan",
+    "Danny Ocean's friend Reuben goes into business with Willy Bank, a ruthless casino owner, who then cuts Reuben out. Reuben then suffers a heart attack. Danny and the rest of his crew go to him. Danny gives Bank the opportunity to do what is right but when he refuses, Danny sets out to get him back by taking him down. He plans to make sure his new casino flops. He brings in tech wiz Roman Nagel to help crack the system at Bank's hotel. Eventually they discover that they need more money to pull it off, so Ocean turns to Terry Benedict, the casino owner, he once robbed, who agrees on the condition that he steal something important to Bank.—rcs0411@yahoo.com",
+    "With Terry Benedict's millions safe from harm, Danny Ocean and his band of thieves walk away scot-free after the daring European mission in Ocean's Twelve (2004). However, when devious double-crossing Las Vegas casino magnate Willie Banks enters the picture, bent on destroying one of Danny's men, Ocean and his hand-picked crew decide to pull off one last job to save an old friend. Now the boys are officially back in the game, and with the help of an unexpected ally, Ocean's team is about to hit Banks where it hurts most: in his bank account and pride. But can Danny do the impossible for the third time?—Nick Riganas"
+  ],
+  "synopsis": "Reuben Tishkoff (Elliott Gould), in an attempt to legitimize himself in his later years, is conned by Willy Bank (Al Pacino), his former business partner. When Bank forces Reuben to sign over the ownership rights of the new hotel-casino they were building together, Reuben suffers a heart attack and becomes bedridden. Daniel Ocean (George Clooney), after attempting to negotiate with Bank, gathers his partners-in-crime and plans to ruin Bank on the opening night of his hotel-casino, \"The Bank\", to get revenge for Reuben.The first of two plans are to prevent \"The Bank\" from winning the prestigious Five Diamond Award, which all of Bank's previous hotels have won. Saul Bloom (Carl Reiner) poses as the reviewer of the board, while the real reviewer (David Paymer) is treated horribly during his stay through Ocean's associates and the staff on their payroll.The second plan is to rig the casino's slot machines and other games to force a payout more than $500 million in winnings across the casino; this will force Bank to cede control of the casino to his board. Rigging of the games would require the group to defeat \"The Greco Player Tracker,\" a state-of-the-art artificial intelligence system that monitors the games and ensures that all winnings are legitimate by measuring the players' bio-metric responses, such as pupil dilation and body temperature, for authenticity. They plan to trick Bank into carrying a cell phone with a Magnetron, created by technical expert Roman Nagel (Eddie Izzard), to disrupt the Greco. To ensure that the Greco shuts down and players cash out, Ocean's team acquires one of the giant drills used to bore the Channel Tunnel to simulate an earthquake under the hotel on opening night.While the group prepares the rigged games, the drill breaks, forcing them to approach Terry Benedict (Andy García), the antagonist of Ocean's Eleven, to fund the purchase of the second drill. As Benedict has a grudge against Bank and is willing to help, he offers Ocean the funds only if they also steal the four necklaces Bank bought for his wife in representation of the four Five Diamond Awards, now on display in a secured case at the top of the hotel. Linus Caldwell (Matt Damon) offers to seduce Bank's assistant, Abigail Sponder (Ellen Barkin), to gain access to the display and switch the diamonds with fakes, and the group accepts.As Ocean's plan proceeds on opening night, agents from the FBI have been informed that machines have been rigged by Livingston Dell (Eddie Jemison) and have identified him, which may reveal the rest of Ocean's gang to Bank. In reality this allows Livingston to have the card-shuffling machines replaced by Roman Nagel (Eddie Izzard), as he himself was unable to effectively rig them. Basher (Don Cheadle) distracts Bank long enough to allow Virgil (Casey Affleck) and Turk Malloy (Scott Caan) to change the group's FBI records, including their names and appearances.Linus, in the process of seducing Sponder in the secure room with the diamonds, is interrupted by the lead FBI agent. The agent explains the diamond theft plan to Sponder, and Linus is arrested, but as they exit in the elevator, the lead agent is revealed to be his father, Robert 'Bobby' Caldwell (Bob Einstein), once a master robber and con artist, who is in on Ocean's plan and there to help Linus swap the diamonds. As they exit to the roof of the hotel for extraction of the diamonds via helicopter, they are caught by François \"The Night Fox\" Toulour (Vincent Cassel), whom Benedict had ordered to intercept the diamonds. Linus gives the diamonds to Toulour, who leaves but after departing discovers that he holds only the fakes; Ocean, who had been aware of Toulour's presence, had arranged to extract the entire display case from the hotel.The remainder of Ocean's plan continues as expected, with \"The Greco\" disrupted, and guests leaving the hotel with their massive winnings. As Bank realizes his ruin, Ocean lets him know that they did everything for Reuben, taunting him about the fact that Bank cannot even arrange for revenge as he cannot prove that Ocean did anything illegal. The group uses the money they made off with to buy property north of the Las Vegas Strip for Reuben. As punishment for Benedict's treachery, Ocean donates his portion of the take to charity, all $72 million, forcing Benedict to publicly admit his philanthropy via television appearances.As the group disperses on their own and considers settling down, Rusty (Brad Pitt) ensures that the real Five Diamond reviewer, who suffered numerous discomforts during his stay at the hotel, is compensated by allowing him to win the jackpot on a rigged slot machine at the airport.",
+  "imdb_score": 6.9
+}

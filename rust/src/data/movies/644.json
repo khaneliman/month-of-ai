@@ -1,0 +1,454 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+  "id": 644,
+  "title": "A.I. Artificial Intelligence",
+  "poster_path": "https://image.tmdb.org/t/p/w500/zxUhHQxKRbVLsaHR1V81SWYADOl.jpg",
+  "release_date": "2001-06-29",
+  "vote_average": 7.041,
+  "vote_count": 5837,
+  "popularity": 28.353,
+  "overview": "David, a robotic boy—the first of his kind programmed to love—is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.",
+  "imdb_id": "tt0212720",
+  "budget": 100000000,
+  "homepage": "",
+  "revenue": 235926552,
+  "runtime": 146,
+  "tagline": "David is 11 years old. He weighs 60 pounds. He is 4 feet, 6 inches tall. He has brown hair. His love is real. But he is not.",
+  "genres": [
+    "Drama",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "DreamWorks Pictures",
+    "Amblin Entertainment",
+    "Stanley Kubrick Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Haley Joel Osment",
+        "character": "David",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2rnMTQB9Q3vLtmRyyUaenVwSgfY.jpg"
+      },
+      {
+        "name": "Jude Law",
+        "character": "Gigolo Joe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pj75cHQ3oLSFPJ0IyB6Bkg6ytHu.jpg"
+      },
+      {
+        "name": "Frances O'Connor",
+        "character": "Monica Swinton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tWGMS7DciV43tlxA6UEc2UqxrhL.jpg"
+      },
+      {
+        "name": "Sam Robards",
+        "character": "Henry Swinton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AqYRpRgNqQopOU5YGfSFVSuIyl9.jpg"
+      },
+      {
+        "name": "Jake Thomas",
+        "character": "Martin Swinton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rM0IbCQcaCJe37YDu44uIhv6xJX.jpg"
+      },
+      {
+        "name": "William Hurt",
+        "character": "Prof. Hobby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j3mjmuHLBW4XQSw53C8Sh0Lh3ZQ.jpg"
+      },
+      {
+        "name": "Robin Williams",
+        "character": "Dr. Know (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+      },
+      {
+        "name": "Ben Kingsley",
+        "character": "Specialist (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vQtBqpF2HDdzbfXHDzR4u37i1Ac.jpg"
+      },
+      {
+        "name": "Meryl Streep",
+        "character": "Blue Mecha (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/emAAzyK1rJ6aiMi0wsWYp51EC3h.jpg"
+      },
+      {
+        "name": "Chris Rock",
+        "character": "Comedian (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cqI8yQ00GNDV3PAAz5UeLj7vOX0.jpg"
+      },
+      {
+        "name": "Ken Leung",
+        "character": "Syatyoo-Sama",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hpatUP6u74gkpDRmn9voNY9V43O.jpg"
+      },
+      {
+        "name": "Clark Gregg",
+        "character": "Supernerd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nbxFbr2SaF4Sdc6HdsF193GInvJ.jpg"
+      },
+      {
+        "name": "Kevin Sussman",
+        "character": "Supernerd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tLqrE9uz6GKoeoDC7LU7cE6oF2Q.jpg"
+      },
+      {
+        "name": "Tom Gallop",
+        "character": "Supernerd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jqbrDxorFinlo6Ae39SL17AvKaf.jpg"
+      },
+      {
+        "name": "Eugene Osment",
+        "character": "Supernerd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3y7IDD8EmpUudkKU5yQsFGXaGq3.jpg"
+      },
+      {
+        "name": "April Grace",
+        "character": "Female Colleague",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nV8nnymN0ClT3xppwhlAtUnjSxa.jpg"
+      },
+      {
+        "name": "Matt Winston",
+        "character": "Executive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/et38vhCb9y8yGleMRNY2j4nDDyr.jpg"
+      },
+      {
+        "name": "Sabrina Grdevich",
+        "character": "Sheila",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pcTeiiMSRUbgqQ60v0TuiDHvBze.jpg"
+      },
+      {
+        "name": "Theo Greenly",
+        "character": "Todd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dc6CBtEtD5guZp6nCRnDaOz6u79.jpg"
+      },
+      {
+        "name": "Michael Mantell",
+        "character": "Dr. Frazier at Cryogenic Institute",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wZ8XkAkpok05jQthvy0H8iGoXrz.jpg"
+      },
+      {
+        "name": "Keith Campbell",
+        "character": "Roadworker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oPAqYzvsm2m3HtnxKTuzglgFxum.jpg"
+      },
+      {
+        "name": "Brian Turk",
+        "character": "Backstage Bull",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lcLaFJe1Z6IVtEEx0foo3xQsJ6D.jpg"
+      },
+      {
+        "name": "Brendan Gleeson",
+        "character": "Lord Johnson-Johnson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/379TXtBPRrkBDrEBWPQ5v3up7kT.jpg"
+      },
+      {
+        "name": "Christopher Dye",
+        "character": "Flesh Fair Participant",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Angel",
+        "character": "Teddy (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5MsVwIULYJotUSbDs61uSJff7ei.jpg"
+      },
+      {
+        "name": "Tim Rigby",
+        "character": "Yeoman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5ckhBJzA3MNxGPDSWytTKrdm26M.jpg"
+      },
+      {
+        "name": "Enrico Colantoni",
+        "character": "The Murderer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yxxy8IrGRwnRPbLmgyfwF26Feve.jpg"
+      },
+      {
+        "name": "Adrian Grenier",
+        "character": "Teen in Van",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2ILiQq6Sr8vfZqaL7JR5PIdiL6l.jpg"
+      },
+      {
+        "name": "Matt Malloy",
+        "character": "Robot Repairman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/csNVv2jlw6QLoNCcifGnvT9hN2O.jpg"
+      },
+      {
+        "name": "Brent Sexton",
+        "character": "Russell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wjxWvYZZIWIKb7rQnJXRoXPRqwh.jpg"
+      },
+      {
+        "name": "Erik Bauersfeld",
+        "character": "Gardener (Voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zJU29NfYKBhvSO1QHdsgpBLhK79.jpg"
+      },
+      {
+        "name": "Michael Fishman",
+        "character": "Teen in Van",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8zPCl7uFbRu4TJTYOKZqGWSzfzJ.jpg"
+      },
+      {
+        "name": "Diane Fletcher",
+        "character": "Sentient Machine Security",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iN7HYJsGBosOOFA8MKdfje0pwVn.jpg"
+      },
+      {
+        "name": "Al Jourgensen",
+        "character": "Flesh Fair Band Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sdYye6r8rEXC0HDbyaXGBJ05jpE.jpg"
+      },
+      {
+        "name": "Paul Barker",
+        "character": "Flesh Fair Band Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Vito Carenzo",
+        "character": "Big Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Adam Grossman",
+        "character": "Flesh Fair Band Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Rena Owen",
+        "character": "Ticket Taker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8s0ePZ1ifvE7NlvtLOAWNXLjdx4.jpg"
+      },
+      {
+        "name": "Adam Alexi-Malle",
+        "character": "Crowd Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vA72gPPSNk51uo5u18Z2iJpM9Fw.jpg"
+      },
+      {
+        "name": "Laurence Mason",
+        "character": "Tech Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9QCYSKak0Zw6G5yAgGQPOnlOc7I.jpg"
+      },
+      {
+        "name": "Ashley Scott",
+        "character": "Gigolo Jane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2T1DVLgFqDdhKnj0qkOEX31BHXh.jpg"
+      },
+      {
+        "name": "Ty Coon",
+        "character": "Flesh Fair Band Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Duane Buford",
+        "character": "Flesh Fair Band Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Max Brody",
+        "character": "Flesh Fair Band Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Red King",
+        "character": "Covert Information Retrieval",
+        "profile_path": ""
+      },
+      {
+        "name": "Claude Gilbert",
+        "character": "Cybertronics - Room 93056",
+        "profile_path": ""
+      },
+      {
+        "name": "Kate Nei",
+        "character": "Toe Bell Ringing",
+        "profile_path": ""
+      },
+      {
+        "name": "Laia Salla",
+        "character": "Mr. Chan's Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeanine Salla",
+        "character": "Sentient Machine Therapist",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Allan Staubach",
+        "character": "Teen in Van",
+        "profile_path": ""
+      },
+      {
+        "name": "Miguel Pérez",
+        "character": "Robot Repairman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/laGQcrfJ6bAHxLmdLjfCghmuRUH.jpg"
+      },
+      {
+        "name": "Billy Scudder",
+        "character": "Mechanic",
+        "profile_path": ""
+      },
+      {
+        "name": "Bobby Harwell",
+        "character": "TV Face",
+        "profile_path": ""
+      },
+      {
+        "name": "Wayne Wilderson",
+        "character": "Comedian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wxGjX5fqMaw9pey8ysFZbetpKGD.jpg"
+      },
+      {
+        "name": "R. David Smith",
+        "character": "Welder",
+        "profile_path": ""
+      },
+      {
+        "name": "Eliza Coleman",
+        "character": "General Circuita",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wb7sr5O0WVADFsOUiC8hzekhDmd.jpg"
+      },
+      {
+        "name": "Jim Jansen",
+        "character": "Chef",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mMzX4hyysmZ5i8N0EGuwNq9tVfJ.jpg"
+      },
+      {
+        "name": "Tim Rhoze",
+        "character": "Laboratory Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/88LiZdy8qYK81Q8VMBCgm6RseyC.jpg"
+      },
+      {
+        "name": "Clara Bellar",
+        "character": "FemMecha Nanny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ahfyLH2B0sVMNTaSZ0zgrezJrOY.jpg"
+      },
+      {
+        "name": "Kelly McCool",
+        "character": "Kate the Holographic Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Shamus Wiles",
+        "character": "Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/niY4gYqAUjmnU4KRiguxpsKliWA.jpg"
+      },
+      {
+        "name": "Jason Sutter",
+        "character": "Percussionist",
+        "profile_path": ""
+      },
+      {
+        "name": "Ken Palmer",
+        "character": "Percussionist",
+        "profile_path": ""
+      },
+      {
+        "name": "J. Alan Scott",
+        "character": "Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Lily Knight",
+        "character": "Voice in the Crowd (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mc4RlYfBJt82tOq6IAK6zsFejFu.jpg"
+      },
+      {
+        "name": "Justina Milagros Machado",
+        "character": "Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wAEFYr8rQEoSRm99tLPDiwzuIwU.jpg"
+      },
+      {
+        "name": "Daveigh Chase",
+        "character": "Child Singer (scenes deleted)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3PVQPEc6nXNX2eoW2UbsfVikc7H.jpg"
+      },
+      {
+        "name": "Kathryn Morris",
+        "character": "Teenage Honey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q189KhrMoKyQJsvwOE7x2nWAeEi.jpg"
+      },
+      {
+        "name": "Hunter King",
+        "character": "Amanda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q9EubdXKzDVO6mfwiRZaRgMb5wu.jpg"
+      },
+      {
+        "name": "Michael Berresse",
+        "character": "Stage Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eXubUxdlWyBTA7RjpKGNguWl72Z.jpg"
+      },
+      {
+        "name": "Paula Malcomson",
+        "character": "Patricia in Mirrored Room",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9lJy6ze86ZfVcBcyBK9UZq8FJiC.jpg"
+      },
+      {
+        "name": "John Prosky",
+        "character": "Mr. Williamson, the Bellman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zinfZ6InYtlnXnwl4UwKEITP1xf.jpg"
+      },
+      {
+        "name": "Curt Youngberg",
+        "character": "Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Andy Morrow",
+        "character": "Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Dillon McEwin",
+        "character": "Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeremy James Kissner",
+        "character": "Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/90J5NBmaWi35nHebYDFcXNEsNNy.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Steven Spielberg",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "android",
+    "prostitute",
+    "artificial intelligence (a.i.)",
+    "prophecy",
+    "loss of loved one",
+    "extraterrestrial technology",
+    "fairy tale",
+    "dystopia",
+    "adoption",
+    "ice age",
+    "prosecution",
+    "gigolo",
+    "hologram",
+    "alien",
+    "robot",
+    "destiny",
+    "capture",
+    "doppelgänger",
+    "robot boy"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A highly advanced robotic boy longs to become \"real\" so that he can regain the love of his human mother.",
+    "In the not-so-far future the polar ice caps have melted and the resulting rise of the ocean waters has drowned all the coastal cities of the world. Withdrawn to the interior of the continents, the human race keeps advancing, reaching the point of creating realistic robots (called mechas) to serve them. One of the mecha-producing companies builds David, an artificial kid which is the first to have real feelings, especially a never-ending love for his \"mother\", Monica. Monica is the woman who adopted him as a substitute for her real son, who remains in cryo-stasis, stricken by an incurable disease. David is living happily with Monica and her husband, but when their real son returns home after a cure is discovered, his life changes dramatically.—Chris Makrozahopoulos <makzax@hotmail.com>",
+    "Haley Joel Osment stars as David, a \"Mecha\" or robot of the future, when the polar ice caps have melted and submerged many coastal cities, causing worldwide starvation and human dependence upon robotic assistance. The first Mecha designed to experience love, David is the \"son\" of Henry (Sam Robards), an employee of the company that built the boy, and the grief-stricken Monica (Frances O'Connor). David is meant to replace the couple's hopelessly comatose son, but when their natural child recovers, David is abandoned and sets out to become \"a real boy\" worthy of his mother's affection. Along the way, David is mentored by a pleasure-providing Mecha named Gigolo Joe (Jude Law) and a talking \"super toy\" bear named Teddy. His adventures take him to the Roman Circus-style \"Flesh Fair,\" where Mechas are destroyed for the amusement of humans; Rouge City, where Gigolo Joe narrowly avoids capture by police; and finally a submerged New York City, where David's creator, Professor Hobby (William Hurt) reveals the secrets of the boy's creation.",
+    "In the futuristic tale, a highly advanced robotic boy named David is 11 years old. He weighs 60 pounds. He is 4 feet, 6 inches tall. He has brown hair. His love is real. But he is not. He is a marvel of cybernetic progress who really only wants to be a real boy, loved by his mother and his father in that happy place called home. But David journeys out into the forests to find a way to become a real boy.—Anthony Pereyra {hypersonic91@yahoo.com}",
+    "In this futuristic fairy tale, \"David\", a highly-advanced robotic boy, hopes to become a real boy so that he can win back the affection of the human mother who abandoned him. Like Pinocchio, he goes on a long journey hoping to find his \"Blue Fairy,\" who can make his dreams come true.—jgp3553@excite.com"
+  ],
+  "synopsis": "The story takes place in the future where the greenhouse gases have caused the polar icecaps to melt, flooding coastal cities. To combat over-population, people wishing to have children must apply for a license.The film starts in the offices of a company called Cybertronics, where its owner, Professor Allen Hobby (William Hurt), wishes to push mecha (aka robotic) technology, to make a creation that can love. When his colleagues mention their 'love units' Hobby corrects them: he is not talking physical love, but emotional love, such as that of a child for its mother.The narrative then moves 18 months into the future where the Swintons, whose son Martin (Jake Thomas) is currently in cryostasis until a cure can be found for a debilitating disease he is stricken with. His mother Monica (Frances O'Connor) has not held up well emotionally under the conditions that have taken her son from her. Hoping to help her cope, her husband Henry (Sam Robards), a Cybertronics employee, takes part in a test wherein they would be able to be a family to the company's newest mecha: David (Haley Joel Osment), the culmination of Hobby's research to make a robot that can 'love.'At first, Monica is angry, believing her husband is trying to 'replace' Martin. However, Monica tries to adapt to David. Henry also informs her that if they choose to keep David that she must 'imprint' herself upon him. However, if there was ever to come a time that she chose not to want him, due to the imprinting being permanent, David would need to be sent back to Cybertronics to be destroyed. After some time, Monica decides to perform the imprinting process; she reads a list of words that will activate David's emotional simulation. When she does, David calls her \"mommy\" and begins to act like a real child. To provide David with another form of companionship, she gives him a robotic teddy bear called Teddy, which once belonged to Martin.Things appear to be going well for the Swintons until a cure brings Martin back to health. Martin looks upon David not as a human, but more as a 'supertoy' or a 'doll.' One day, Martin asks their mother to read them 'Pinocchio.' David becomes enamored of the tale in which the wooden puppet becomes a real boy thanks to the story's Blue Fairy.A jealous Martin then tries to get David into trouble in several different ways: first, he cajoles David into eating spinach, which causes David to malfunction and need cleaning. Another time, he tells David to cut off some of Monica's hair while she sleeps as a gesture of love, but the incident makes Henry think that David was trying to attack his wife.At Martin's birthday party, one of his friends decides to test David, to see if he can sense pain. The 'test' causes David to grab onto Martin, crying 'keep me safe.' The two fall into the Swinton's swimming pool, where it appears that David was attempting to drown Martin.Henry decides that David is no longer safe, and convinces Monica to return David to be destroyed. Monica tries to take David to Cybertronics under the cover story of going on a picnic. However, she cannot bring herself to take David directly to Cybertronics and abandons him in a forest, along with Teddy. David becomes frightened and confused and he questions why he is being forced to leave his mother.Meanwhile, a male-prostitute mecha, Gigolo Joe, arrives at the apartment of a woman he sees regularly. He changes his appearance to suit her and, entering the bedroom, finds her dead. Her husband appears and kisses his wife, saying \"I might have killed you but you killed me first\". Joe retreats, realizing that the woman's husband is framing him for the murder. Joe rushes out of the apartment building and cuts off his registration tag to avoid detection by the police.Still in the forest, David concludes that his abandonment was because he is not real like Martin, and that if he were to find the Blue Fairy like in the story 'Pinocchio,' she could make him real, and he would then be able to go home. Journeying through the woods, he comes across a number of abandoned, obsolete and broken-down mechas searching through Cybertronics' junk piles for spare parts to repair themselves -- among them is Gigolo Joe. The mechas are rounded up by a man named Lord Johnson-Johnson (Brendan Gleeson), and taken to a 'Flesh Fair' where mechas are destroyed for the amusement of anti-mecha fanatics. When the Flesh Fair staff study David, they find that he's a more advanced mecha than they've yet encountered and propose to keep him from being destroyed. Johnson-Johnson is unmoved and grabs David, taking him to the destruction ring. When a few buckets of acid are to be dropped on both himself and Joe, David cries out, showing fear like a real boy. The crowd revolts against Johnson-Johnson and amid the resulting riot, David and Joe are set free and leave.Escaping into the nearby woods, David tells Joe of his search for the Blue Fairy. Joe is confident that they'll find her in a place called Rouge City. Hitching a ride with some teenagers, they make it to the city, a mecca of adult entertainment that rivals Las Vegas and Disneyland. Their journey takes them to a place where a knowledgeable computer representation of Einstein, called Dr Know (voiced by Robin Williams), tells them that the Blue Fairy can be found \"at the end of the world where the lions weep\". Joe explains to David that Dr Know must mean a place called 'Man-hattan,' as many mechas have gone to the end of the world and have never come back.David is all for going to 'Man-hattan' despite the danger. However, Joe tries to deter him, saying that it could be a trap. As David and Joe leave the building, Joe is accosted by officers, who have come to arrest him for murder, a fact David is unaware of. Seeing a vehicle sitting nearby called an Amphibicopter,' David takes the controls, and manages to release Joe from the clutches of the officers. Joe gets in and takes the controls, guiding them to 'Man-hattan.'Their journey leads them to the flooded New York City where they find the Cybertronics building, on which sit statues of lions weeping water from their eyes. David enters a room, where he finds another mecha that looks just like him. However, feeling this duplicate could be planning to take his mother away from him, David destroys it in a jealous rage. It is then that Professor Hobby reveals his presence, telling David that he used Dr. Know to lead him 'home,' telling David that the Blue Fairy is only a myth. Hobby leaves David alone, to fetch the team members who designed him. David wanders around Hobby's office, finding the different mechanical items that were instrumental in his creation, as well as fully-boxed 'David' and 'Darlene' units for consumer purchase. The sight of them makes David feel even worse, in that his journey to become human has yielded no way for him to become human to regain his mother's love.David makes his way outside the Cybertronics building, and then jumps off into the waters below. As he floats in the water he suddenly sees something glowing in the distance. Before he can move further, a claw from the Amphibicopter snares him, dragging him out of the water. Above the water, David tells Joe that he saw the Blue Fairy, and that she is down below. However, before Joe can help David, another Amphibicopter appears and captures Joe. Before he is pulled skyward, Joe activates the functions to submerge the copter, allowing David to go underwater.David and Teddy pilot the vehicle deep into the submerged city, finding themselves in the remnants of the Coney Island amusement park. David guides the craft to the park's Fairytale Land, and within a 'Pinocchio-themed' area, finds a statue of the Blue Fairy. However, maneuvering the craft causes a nearby Ferris wheel to collapse, trapping the Amphibicopter near the statue. David is not at all concerned, but is elated that he has finally found the Blue Fairy. He then begins to 'pray' to her, wishing to become a real boy.Two thousand years pass in which the world has become blanketed in a new ice age, and humans have all but died out. Excavating the ice are evolved mechas of the future, trying to unearth and study the remnants of the culture and species that created them. An excavation team working amid the Coney Island amusement park comes across David and Teddy, frozen in the Amphibicopter.Searching through David and Teddy's memories, they are amazed to find that he had once lived among humans. Using David and Teddy's memories, they concoct a fabricated reality of the Swinton's house, in which David meets a creation resembling the Blue Fairy. David wishes to be a real boy, and to see Monica again. The blue fairy explains that she cannot make him real, and that since 2,000 years have passed, Monica is long since dead. The blue fairy tells David they can bring back other humans, but David only wants Monica. Explaining that they need a hair sample or other human tissue, Teddy reveals the strands of hair that David had snipped from Monica's head. David demands that since he has Monica's hair, the blue fairy should now be able to bring her back. The Blue Fairy says that she can make this so, and David is taken to his room.After some time, one of the future mechas comes to talk with David concerning his 'wish' to have Monica brought back to life. The mecha explains that in the past the resurrection of humans have proven to be non-lasting, that any such 'resurrectees' would only live for one day. Even with this revelation, David still wishes to meet Monica again.The future mechas grant him his wish, and the resurrected Monica and David, along with Teddy, spend an entire day together, doing all sorts of things. When it finally comes time for them to go to sleep, the resurrected Monica tells David that she loves him. With this knowledge, David himself also goes to sleep, content and happy at last.",
+  "imdb_score": 7.2
+}

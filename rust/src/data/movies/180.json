@@ -1,0 +1,621 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/qq4H9JfBKQ5DarMLI6lhUQjn9D7.jpg",
+  "id": 180,
+  "title": "Minority Report",
+  "poster_path": "https://image.tmdb.org/t/p/w500/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
+  "release_date": "2002-06-20",
+  "vote_average": 7.343,
+  "vote_count": 8251,
+  "popularity": 32.728,
+  "overview": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
+  "imdb_id": "tt0181689",
+  "budget": 102000000,
+  "homepage": "",
+  "revenue": 358372926,
+  "runtime": 145,
+  "tagline": "Everybody runs.",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Digital Image Associates",
+    "Cruise/Wagner Productions",
+    "Blue Tulip Productions",
+    "Ronald Shusett/Gary Goldman Productions",
+    "Amblin Entertainment",
+    "20th Century Fox",
+    "DreamWorks Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Cruise",
+        "character": "Chief John Anderton [Pre-Crime]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eOh4ubpOm2Igdg0QH2ghj0mFtC.jpg"
+      },
+      {
+        "name": "Samantha Morton",
+        "character": "Agatha [Pre-Cog Chamber]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kHSfnDFbfeKah823y0Gr14lbt31.jpg"
+      },
+      {
+        "name": "Max von Sydow",
+        "character": "Director Lamar Burgess [Pre-Crime]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fOzSDFqMx84NR7PSv36P7j0Qf1q.jpg"
+      },
+      {
+        "name": "Colin Farrell",
+        "character": "Agent Danny Witwer [FBI]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hnTaxy9UKnPsMEBUm94PngnRfge.jpg"
+      },
+      {
+        "name": "Kathryn Morris",
+        "character": "Lara Clarke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q189KhrMoKyQJsvwOE7x2nWAeEi.jpg"
+      },
+      {
+        "name": "Steve Harris",
+        "character": "Jad  [Pre-Crime]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6qD0I3RPe2ivV5GdXgW3tJHSu1e.jpg"
+      },
+      {
+        "name": "Neal McDonough",
+        "character": "Fletcher  [Pre-Crime]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3mI3i1CpjATSCta1Tb2qsyl1KCh.jpg"
+      },
+      {
+        "name": "Patrick Kilpatrick",
+        "character": "Knott [Pre-Crime]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yhujborr3HMC9ALvuOPu25ffAhN.jpg"
+      },
+      {
+        "name": "Jessica Capshaw",
+        "character": "Evanna [Pre-Crime]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ePpM2GPe5OXjtyesq06J3S1WCB.jpg"
+      },
+      {
+        "name": "Daniel London",
+        "character": "Wally the Caretaker [Pre-Cog Chamber]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/feRkUWfs2LpVzULMdkpBHN5JYdM.jpg"
+      },
+      {
+        "name": "Lois Smith",
+        "character": "Dr. Iris Hineman [The Greenhouse]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/unvPSZshdNoj7c5wl6D30gPwKtS.jpg"
+      },
+      {
+        "name": "Tim Blake Nelson",
+        "character": "Gideon [Department of Containment]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dcfdSmVmklb1HXHbB9kySdrl9Nq.jpg"
+      },
+      {
+        "name": "Peter Stormare",
+        "character": "Dr. Solomon Eddie [Operating Room]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5muzSVt66Qxc8KuVbq0phZIN9tj.jpg"
+      },
+      {
+        "name": "Caroline Lagerfelt",
+        "character": "Greta van Eyck [Operating Room]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uwGV7lrKPKJKftUcL99Rh6i6DPA.jpg"
+      },
+      {
+        "name": "Jason Antoon",
+        "character": "Rufus Riley at Cyber Parlor [The Mall]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5HjnhrKz8y7mNwojQvTgGTuN1C6.jpg"
+      },
+      {
+        "name": "Mike Binder",
+        "character": "Leo Crow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zTVFt28MPx7BlnDD5ofaLOd7f6R.jpg"
+      },
+      {
+        "name": "Arye Gross",
+        "character": "Howard Marks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7pNNrW5JGpHt2tJeXPOSB3BLzeX.jpg"
+      },
+      {
+        "name": "Ashley Crow",
+        "character": "Sarah Marks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eWuoTl1WRyF45g2UPqDLPZxQsOt.jpg"
+      },
+      {
+        "name": "Joel Gretsch",
+        "character": "Donald Doobin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8sTiI294vfMpli7hBEi8bDAVZ1t.jpg"
+      },
+      {
+        "name": "Anna Maria Horsford",
+        "character": "Casey  [Pre-Crime]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fVA25hLtwmrVsIVrcWOojaPoYEq.jpg"
+      },
+      {
+        "name": "Sarah Simmons",
+        "character": "Lamar Burgess' Secretary  [Pre-Crime]",
+        "profile_path": ""
+      },
+      {
+        "name": "George D. Wallace",
+        "character": "Chief Justice Pollard [Pre-Crime Witness]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vLVtDTFm2ol7Tw7oOAH0dquhlPy.jpg"
+      },
+      {
+        "name": "Ann Ryerson",
+        "character": "Dr. Katherine James [Pre-Crime Witness]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A1PlH6dw01Eb5xkbqjtv4Wc6e7x.jpg"
+      },
+      {
+        "name": "Tyler Patrick Jones",
+        "character": "Older Sean Anderton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rxImwJ1GnxNXllJ8VswNHJzh695.jpg"
+      },
+      {
+        "name": "Dominic Scott Kay",
+        "character": "Younger Sean Anderton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uPg5MQ6QhPKI8SrHclMLWYpmf76.jpg"
+      },
+      {
+        "name": "Jessica Harper",
+        "character": "Anne Lively",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sSTbKuf4bY83cSRx9lmVdGobcsg.jpg"
+      },
+      {
+        "name": "Bertell Lawrence",
+        "character": "John Doe",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Coca",
+        "character": "Pre-Crime Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qevgolgHKGKOHxvns3BvAvLV5c1.jpg"
+      },
+      {
+        "name": "Keith Campbell",
+        "character": "Pre-Crime Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oPAqYzvsm2m3HtnxKTuzglgFxum.jpg"
+      },
+      {
+        "name": "Kirk B.R. Woller",
+        "character": "Pre-Crime Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gpgNGpjja5gRowL1wmCPqSIRSVz.jpg"
+      },
+      {
+        "name": "Frank Grillo",
+        "character": "Pre-Crime Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/br2nPzelch2Tb3pZHnYAbXng7cz.jpg"
+      },
+      {
+        "name": "Klea Scott",
+        "character": "Pre-Crime Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/HdChlo9bawU9MgKHC11YNOSNAj.jpg"
+      },
+      {
+        "name": "Eugene Osment",
+        "character": "Jad's Technician [Pre-Crime]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3y7IDD8EmpUudkKU5yQsFGXaGq3.jpg"
+      },
+      {
+        "name": "James Henderson",
+        "character": "Office Worker  [Pre-Crime]",
+        "profile_path": ""
+      },
+      {
+        "name": "Vené L. Arcoraci",
+        "character": "Office Worker [Pre-Crime]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oTzPjXFuYNdGGW4q4FOzZXTr2zG.jpg"
+      },
+      {
+        "name": "Erica Ford",
+        "character": "Employee [Pre-Crime]",
+        "profile_path": ""
+      },
+      {
+        "name": "Keith Flippen",
+        "character": "Tour Guide [Pre-Crime]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cs9aNyWHNRYlnizulq0oST4EUJO.jpg"
+      },
+      {
+        "name": "Nathan Taylor",
+        "character": "Kid Tourist [Pre-Crime]",
+        "profile_path": ""
+      },
+      {
+        "name": "Radmar Agana Jao",
+        "character": "Technician [Pre-Crime]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/69kJGuRRKbPkYmdCk88wkSR52fu.jpg"
+      },
+      {
+        "name": "Karina Logue",
+        "character": "Technician [Pre-Crime]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vDfbqhRUqB7xDDbZ3yhUbAhjiiB.jpg"
+      },
+      {
+        "name": "Elizabeth Anne Smith",
+        "character": "Technician [Pre-Crime]",
+        "profile_path": ""
+      },
+      {
+        "name": "Victoria Garcia-Kelleher",
+        "character": "Technician [Pre-Crime]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5sAbw0szNDqIzQQJQXnDCsXK43j.jpg"
+      },
+      {
+        "name": "Jim Rash",
+        "character": "Technician [Pre-Crime]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cXat9HZ5ajQZsrAZ8xE4zIEVEcb.jpg"
+      },
+      {
+        "name": "Stephen Ramsey",
+        "character": "Jucket - Agent #1 [FBI]",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Choi",
+        "character": "Paymen - Agent #2 [FBI]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/48uNKlsPufa5NMcaFGYv01ZbGXA.jpg"
+      },
+      {
+        "name": "Tom Whitenight",
+        "character": "Price - Agent #3 [FBI]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ncLgcHNUul1HYsiqZK50vx06G1X.jpg"
+      },
+      {
+        "name": "William Morts",
+        "character": "Foley - Agent #4 [FBI]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Ujyn7KAacbzRHbIQP5uawffgFh.jpg"
+      },
+      {
+        "name": "Michael Dickman",
+        "character": "Arthur [Pre-Cog Chamber]",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew Dickman",
+        "character": "Dashiell [Pre-Cog Chamber]",
+        "profile_path": ""
+      },
+      {
+        "name": "William Mesnik",
+        "character": "Cyber Parlor Customer [The Mall]",
+        "profile_path": ""
+      },
+      {
+        "name": "Franklin Scott",
+        "character": "Conceited Customer [The Mall]",
+        "profile_path": ""
+      },
+      {
+        "name": "Severin Wunderman",
+        "character": "Skiing Customer [The Mall]",
+        "profile_path": ""
+      },
+      {
+        "name": "Max Trumpower",
+        "character": "Homeless Person [The Mall]",
+        "profile_path": ""
+      },
+      {
+        "name": "Allie Raye",
+        "character": "Hamburger Mom [The Chase]",
+        "profile_path": ""
+      },
+      {
+        "name": "Rocael Leiva",
+        "character": "Hamburger Dad [The Chase]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uf5edkwdi0sVr9BDeQtlJ8uYbQY.jpg"
+      },
+      {
+        "name": "Nicholas Edwin Barb",
+        "character": "Homework Boy [The Chase]",
+        "profile_path": ""
+      },
+      {
+        "name": "Catfish Bates",
+        "character": "Tenement Snitch [The Chase]",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Parker-Lopes",
+        "character": "Man [Tenement Bldg.]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1fBS7uXVEhE27aO2zwoEv8spuGb.jpg"
+      },
+      {
+        "name": "Vanessa Cedotal",
+        "character": "Woman [Tenement Bldg.]",
+        "profile_path": ""
+      },
+      {
+        "name": "Katy Boyer",
+        "character": "Mother [Tenement Bldg.]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eDweWQfRAWIvAmPJPbCeF90ripH.jpg"
+      },
+      {
+        "name": "Adrianna Kamosa",
+        "character": "Child [Tenement Bldg.]",
+        "profile_path": ""
+      },
+      {
+        "name": "Kari Gordon",
+        "character": "Child [Tenement Bldg.]",
+        "profile_path": ""
+      },
+      {
+        "name": "Elizabeth Kamosa",
+        "character": "Child [Tenement Bldg.]",
+        "profile_path": ""
+      },
+      {
+        "name": "Raquel Gordon",
+        "character": "Child [Tenement Bldg.]",
+        "profile_path": ""
+      },
+      {
+        "name": "Laurel Kamosa",
+        "character": "Child [Tenement Bldg.]",
+        "profile_path": ""
+      },
+      {
+        "name": "Fiona Hale",
+        "character": "Old Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t7VSSHqUa7CX0qypzprrZpOW3ua.jpg"
+      },
+      {
+        "name": "Pamela Roberts",
+        "character": "Violent Wife [Tenement Bldg.]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q86HRpSZKor2Wo5WAw77oyENxIr.jpg"
+      },
+      {
+        "name": "Clement Blake",
+        "character": "Husband [Tenement Bldg.]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ueUSkeygA6qmgfwQRSsPc2yNDZg.jpg"
+      },
+      {
+        "name": "Jerry Perchesky",
+        "character": "Grandfather [Tenement Bldg.]",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Raider-Wexler",
+        "character": "Attorney General Nash [The Ballroom]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A0GHKqatHaLOJCEXXuTJhwHphV1.jpg"
+      },
+      {
+        "name": "Nancy Linehan Charles",
+        "character": "Celeste Burgess [The Ballroom]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v6VF5CPLzcLBzmEFZbZOpA4fb1D.jpg"
+      },
+      {
+        "name": "Nadia Axakowsky",
+        "character": "Reporter [The Ballroom]",
+        "profile_path": ""
+      },
+      {
+        "name": "Dude Walker",
+        "character": "Reporter [The Ballroom]",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Hill",
+        "character": "Reporter [The Ballroom]",
+        "profile_path": ""
+      },
+      {
+        "name": "Drakeel Burns",
+        "character": "Reporter [The Ballroom]",
+        "profile_path": ""
+      },
+      {
+        "name": "William Mapother",
+        "character": "Hotel Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k4TqA37bSoMz1VTyw9wPh3ptGch.jpg"
+      },
+      {
+        "name": "Morgan Hasson",
+        "character": "Paperboy",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Sandler",
+        "character": "Marks' Son",
+        "profile_path": ""
+      },
+      {
+        "name": "Bonnie Morgan",
+        "character": "Contortionist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qei8xuAPtJlZzY3hfRN81fxndUR.jpg"
+      },
+      {
+        "name": "Kathi Copeland",
+        "character": "Murder Bystander",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uoVmFNf70vIkCAFVzDzYWt8pJpx.jpg"
+      },
+      {
+        "name": "Ana Maria Quintana",
+        "character": "Murder Bystander",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kOwMpvilYZUIstFGiPWmjqLcdIx.jpg"
+      },
+      {
+        "name": "Lucille M. Oliver",
+        "character": "Murder Bystander",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mzelb7RjPO3RlckHeduHlSeGWRY.jpg"
+      },
+      {
+        "name": "Gene Wheeler",
+        "character": "Murder Bystander",
+        "profile_path": ""
+      },
+      {
+        "name": "Tonya Ivey",
+        "character": "Gap Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "David Stifel",
+        "character": "Lycon - Seller of Black Inhalers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lvG8TW03Eq4Ez2hazhSQCes8ooe.jpg"
+      },
+      {
+        "name": "Kurt Sinclair",
+        "character": "Adulation #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Rebecca Ritz",
+        "character": "Adulation #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Beverly Morgan",
+        "character": "Adulation #3",
+        "profile_path": ""
+      },
+      {
+        "name": "John Bennett",
+        "character": "Adulation #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/arSkPpoGcRyqSdx4iAE9DtBc2Z8.jpg"
+      },
+      {
+        "name": "Maureen Dunn",
+        "character": "Adulation #5",
+        "profile_path": ""
+      },
+      {
+        "name": "Ron Ulstad",
+        "character": "Adulation #6",
+        "profile_path": ""
+      },
+      {
+        "name": "Blake Bashoff",
+        "character": "Pre-Crime Public Service Announcer",
+        "profile_path": ""
+      },
+      {
+        "name": "David Doty",
+        "character": "Pre-Crime Public Service Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j3FyXx1vRcOa0QQseClIxpAA78r.jpg"
+      },
+      {
+        "name": "Gina Gallego",
+        "character": "Pre-Crime Public Service Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3utf2dtzJ7IrN1unKP8b4sOMPbe.jpg"
+      },
+      {
+        "name": "David Hornsby",
+        "character": "Pre-Crime Public Service Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wL20daMDqsa9ALA7EQrzgFyIMvz.jpg"
+      },
+      {
+        "name": "Anne Judson-Yager",
+        "character": "Pre-Crime Public Service Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w0BGDBhI9LUAXaE0D8it706oq4A.jpg"
+      },
+      {
+        "name": "Meredith Monroe",
+        "character": "Pre-Crime Public Service Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vAHFDnh0h902i4ZyH69EqlJA5Ut.jpg"
+      },
+      {
+        "name": "Benita Krista Nall",
+        "character": "Pre-Crime Public Service Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bpVr1n0Bq0VihscSmxGLNwR0RES.jpg"
+      },
+      {
+        "name": "Shannon O'Hurley",
+        "character": "Pre-Crime Public Service Announcer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jorge-Luis Pallo",
+        "character": "Pre-Crime Public Service Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9cw97jnvm7SvnCTNBWZHXt4clfu.jpg"
+      },
+      {
+        "name": "Elizabeth Payne",
+        "character": "Pre-Crime Public Service Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cgy3VfH6Urr7bYXjEtV76wNnyAM.jpg"
+      },
+      {
+        "name": "Ethan Sherman",
+        "character": "Revo Sunglass Model [Commercial]",
+        "profile_path": ""
+      },
+      {
+        "name": "Jarah Mariano",
+        "character": "AMEX Polynesian Woman [Commercial]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6cToNPSLuT5JLg1QeoumGYEDSjF.jpg"
+      },
+      {
+        "name": "Miles Dinsmoor",
+        "character": "Guinness Man [Commercial]",
+        "profile_path": ""
+      },
+      {
+        "name": "Vanessa Asbert",
+        "character": "Bulgari Model [Commercial]",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mbHN3754JXf5vJ9j7D4XjmT8I4W.jpg"
+      },
+      {
+        "name": "Paul Thomas Anderson",
+        "character": "Bus Passenger (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wKAs2LtLYSUzt3ZZ8pnxMwuEWuR.jpg"
+      },
+      {
+        "name": "Cameron Crowe",
+        "character": "Bus Passenger (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iBCN51wrmnSUr2mkQBuN9E2AZK.jpg"
+      },
+      {
+        "name": "Cameron Diaz",
+        "character": "Bus Passenger (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Steven Spielberg",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "washington dc, usa",
+    "police chief",
+    "precognition",
+    "hologram",
+    "futuristic",
+    "murder",
+    "conspiracy",
+    "police chase",
+    "drugs",
+    "home video",
+    "based on short story",
+    "ex-husband ex-wife relationship",
+    "mentor protégé relationship",
+    "tech noir",
+    "stasis",
+    "prevention",
+    "missing son",
+    "future noir",
+    "loss of child",
+    "surveillance state",
+    "psychic vision",
+    "conspiracy thriller",
+    "2050s"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "John works with the PreCrime police which stop crimes before they take place, with the help of three 'PreCogs' who can foresee crimes. Events ensue when John finds himself framed for a future murder.",
+    "In the year 2054 A.D. crime is virtually eliminated from Washington D.C. thanks to an elite law enforcing squad \"Precrime\". They use three gifted humans (called \"Pre-Cogs\") with special powers to see into the future and predict crimes beforehand. John Anderton heads Precrime and believes the system's flawlessness steadfastly. However one day the Pre-Cogs predict that Anderton will commit a murder himself in the next 36 hours. Worse, Anderton doesn't even know the victim. He decides to get to the mystery's core by finding out the 'minority report' which means the prediction of the female Pre-Cog Agatha that \"might\" tell a different story and prove Anderton innocent.—Soumitra",
+    "It is the near future, a future where murders have become so common, that a system had to be established. This system is called \"Precrime\", where 3 psychics can predict murders before they happen. Allowing police to stop the murders. This system is in production in Washington D.C. Where police officer John Anderton (who lost his son to a murder 6 years previous) has stopped numerous murders in his career. One day, he found out that he is the next person to commit a murder. Now, he is running away from a system he helped become successful, and trying to find out why he was set up to commit murder.—John Wiggins",
+    "With the extraordinary ability to foresee and, therefore, stop crimes before they can take place, founder Lamar Burgess' experimental but highly effective Pre-Crime Division has managed to push the murder rate to zero. Indeed, with the aid of the indispensable Pre-cognitives, a trio of humans with acute extrasensory abilities under government custody, there hasn't been a single crime in 2054 Washington DC for the past six years; however, of all people, Burgess' right-hand man, Captain John Anderton, seems to be a pre-criminal. Now, on the run from the law for a homicide he is yet to commit in less than thirty-six hours, Detective Anderton has to use every trick in the book to prove his innocence, and clear his name. But, in Burgess' state-of-the-art system, there is no such thing as a mistake. Nevertheless, could the psychic triad be wrong?—Nick Riganas",
+    "In 2054, the PreCrime Police Department commanded by Chief John Anderton reduces the crime rates in the violent Washington to zero, using a system based on three humans called Precogs designed by Dr. Iris Hineman to the company owned by Director Lamar Burgess. Anderton is addicted in drugs since her lost his son in a swimming pool and separated from his wife Lara Lara Clarke and was recruited by Burgess to run the department. The Precogs are mutants led by Agatha and capable to foresee crimes in the near future. The agent from the Department of Justice Danny Witwer comes to PreCrime to audit the system and out of the blue, the PreCogs predict that Anderton will commit a murder. He flees and becomes a fugitive while he tries to prove that he is innocent. But is the system fallible?—Claudio Carvalho, Rio de Janeiro, Brazil"
+  ],
+  "synopsis": "In the year 2054, crime in the United States (and murder in particular) is at an all-time high. In an effort to contain the violence, the Metropolitan Police Department of Washington DC have founded a new task force called PreCrime, allowing a specially-assigned unit to proactively stop murders before they can even be committed. Their means of doing so is through \"PreCogs\" (short for \"pre-cognitives\"), three mentally-altered humans who are capable of seeing the future. When the PreCogs sense that a murder is going to be committed, an automated system processes two painted wooden balls: one with the name of the perpetrator(s) engraved into it, and one with the name of the victim(s) engraved into it (the shape and grain of each ball is unique, rendering the system fully tamper-proof). The color of the ball is indicative of what kind of murder is going to happen: a brown ball indicates a premeditated murder, which the PreCogs can predict up to four days before it is committed. A red ball indicates a crime of passion, which, due to the lack of premeditation, cannot be seen until often no less than an hour before it will be committed.The only three things that the PreCogs can predict are the victim or victims, the perpetrator, the exact date and time of the crime, and the exact sequence of events that lead up to the crime. As they cannot pinpoint the location of the crime, the PreCrime task force led by John Anderton (Tom Cruise), must perform a meticulous process called \"scrubbing\", where they process the images produced from the PreCogs' visions in order to locate telltale clues and thus narrow down the location. Once they are certain of the location, the team flies off in a special aircraft to thwart the crime. They then secure the culprit by \"haloing\" them (a device placed around his head that renders them fully incapacitated).The movie opens with Anderton's team catching an early morning Red Ball case. The perpetrator is going to be a male in his 40s named Howard Marks, who in exactly 24 minutes is going to catch his wife Sarah in bed with another man named Donald Dubin. Upon finding them together, Howard will stab them both to death with a pair of scissors.Anderton scrubs through the images, while also having to deal with the arrival of Danny Witwer (Colin Farrell), a Justice Department official who's been sent to audit the PreCrime system before a Congressional vote on whether or not to take the system nationwide. One of Anderton's colleagues named Fletcher, explains to Witwer the basic workings of the system as Anderton continues analyzing the vision. John soon narrows down the location, and joins a number of PreCrime officers going to the location, leaving Witwer back at PreCrime headquarters.With mere seconds to go, Anderton and his colleagues find the residence, and stop Howard before the PreCog's vision can come to pass. Howard is identified by iris scan, and is promptly arrested and \"haloed\", while his wife and her lover are immediately given counseling by a trauma response unit.After the suspect has been apprehended, the murder reappears on the displays back at headquarters. Witwer sees these and questions one of the technicians about this, and is informed that sometimes after a crime that has been stopped, the PreCogs have these \"echo\" images pass through their minds, before they are deleted from the system.That evening, Anderton reminisces over home movies of his ex-wife Lara (Kathryn Morris) and the couple's missing six-year-old son, who disappeared several years before at a public swimming pool. Anderton is also shown to have an addiction to an illegal inhaled hallucinogen called Neuroin (New Heroin).The next morning, Witwer's official tour of the PreCrime headquarters begins. Throughout the tour, Witwer points out there are potential questions about the ethics of the PreCogs. Anderton and his colleagues explain that the system is designed in a way to be practically foolproof, due to the nature of premeditation and the fact that the PreCogs see what the killer will do, not what they intend to do (this is why they don't get false alarms caused by people who contemplate murdering someone but will never actually go through with it).At Witwer's insistence, Anderton takes him into the chamber in which the PreCogs are kept semiconscious in a pool of fluid similar to amniotic fluid and are wired to the PreCrime computer system. Though he is somewhat impressed by what he has seen, and even with the absence of murders in D.C. since the program started, Witwer is still convinced that the program is not flawless.After Witwer has gone, the PreCog Agatha (Samantha Morton) snaps fully awake, and images of a woman being murdered play across the chambers video screens.Curious as to these images, Anderton goes down to Containment, where numerous other haloed Precrime assailants are kept. With the aid of a supervisor named Gideon (Tim Blake Nelson), Anderton finds the assailant who was in Agatha's Previs, though he is classified as a John Doe, due to him having swapped out his eyes for someone else's, to fool the identification sensors.Gideon attempts to pull up more information on the case, but finds that of the three precogs, Agatha's Previs is missing. As well, information on where the supposed victim named Ann Lively is, is also missing. The only information that the computer has on her, is that she was a single mother, who was also a Neuroin addict, but records indicate she went to a rehabilitation clinic to treat her habit.Anderton reports his findings to Precrime Director Lamar Burgess (Max von Sydow), who suggests that he let the matter drop. Turning his attention towards the thought that when Precrime goes nationwide, they need to find a way to protect it from larger interests. Anderton assures his mentor that he won't let that happen.Upon returning to his office, Anderton is alerted to a premeditated murder that is to take place in 36 hours. The victim has already been identified as Leo Crow, but the perpetrator's identity is still a mystery. As he begins to review the information, Anderton is shaken when he soon finds out that he is the perpetrator! Anderton attempts to get out of the building before this revelation reaches his colleagues, but encounters Witwer in the elevator, leading John to think that Witwer is setting him up. However, an alarm in the building sounds, and Anderton rushes from the elevator, and out of the building.It isn't long before PreCrime officers find John. He manages to escape from them, but then is found by Witwer and some officers. The chase leads the group into an automated auto assembly plant, where Anderton survives, and escapes in a newly-built car.He makes his way to the residence of Dr. Iris Hineman (Lois Smith), whose research laid the groundwork for the Precrime program, upon finding out that some children of Neuroin addicts, soon developed the ability to see future murders. Quite eccentric but still coherent, Hineman explains that the three precogs do not always agree on their visions of the future; when this happens, the one that deviates the most from the others is typically ignored. In order to establish his innocence, Anderton must determine if he has a \"minority report\" that will clear his name. Anderton is puzzled as to which of the precogs would generate a minority report, and Hineman tells him its the \"most talented\" of the three: Agatha.Since everyone is subjected to iris scans wherever they go, Anderton undergoes an eye transplant at the hands of a shady doctor. The doctor is actually one of John's past cases, whom he busted for performing questionable surgery, however, the doctor performs the procedure anyway, leaving John alone to recover.While recovering after the surgery, he dreams about the day his son was abducted from a swimming pool, and awakens to find the Precrime team searching the building for him. Small robotic eye scanners known as \"spiders\" are sent into the rooms; one of them finds Anderton and scans his iris, but the surgery has succeeded and he is not recognized. Returning to the Precrime offices in disguise, Anderton removes Agatha from the precogs chamber, disrupting the trio's hive mind that makes the system work.He takes her to a hacker friend of his, who successfully extracts her vision of Crow's murder for Anderton to see. However, the vision does not deviate from what he saw previously, and Anderton realizes that he doesn't have a minority report.Suddenly, Agatha begins to have a seizure, and the image of Ann Lively being drowned is seen again. As Anderton watches the vision, his friend alerts him to Precrime officers in their vicinity. Agatha and Anderton narrowly escape Anderton's team, by making use of strategic information provided by Agatha, who is able to predict the immediate future.Anderton tracks down Crow's address and gains entry to his apartment. Crow is not present, but he finds a pile of photographs of children, including his missing son. Anderton realizes that there is no minority report in his case and he is now going to kill Crow, whom he now blames for the kidnapping. When Crow enters, Anderton assaults him to extract a confession as Agatha pleads with Anderton not to commit this murder. Anderton is blind to her pleas and is intending to kill Crow, until the timer on his watch goes off... the time when the murder is supposed to take place. Anderton relents, and begins to read Crow his Miranda rights. Crow reveals that the photographs are doctored and were given to him to leave in the apartment in order to set up this very confrontation. His family has been promised a cash payoff only if Anderton kills him; to force this outcome, Crow grabs Anderton's gun hand, aims the weapon at himself, and pulls the trigger.After Anderton and Agatha flee, Witwer and the Precrime team arrive to investigate the crime scene. Witwer is skeptical about the \"orgy of evidence\" that was left behind and later discusses his misgiving with Burgess, bringing up the Lively case as well. He now has all three precogs records of that murder, but slight differences between them lead him to deduce what really happened that day.Witwer shows Burgess the previsions from containment, but then reveals Agatha's which was not on file. Agatha's vision shows a very big difference, leading Witwer to postulate that the crime against Anne Lively took place at two different times. When Burgess questions Witwer, the young man posits his theory: Ann Lively's potential killer was arrested based on the matching visions of Arthur and Dashiell, but after Precrime had taken the man away, a second person (dressed to look identical the potential killer), arrived and killed her in exactly the same manner. The similarity of the incidents would simply lead the precog techs to assume the act Agatha witnessed was an 'echo' vision, and therefore, disregard it. Witwer suggests that only a member of Precrime could have the skill to manipulate the system in this way, whereupon Burgess, revealing himself as the true architect of John's framing, shoots and kills Witwer, knowing that the other precogs are unable to foresee this murder with Agatha gone. Shortly after the murder, Lara calls Burgess to tell him that John and Agatha are staying with her.As she relaxes in the calm surroundings of Lara's home, Agatha shares with John and Lara a vision of what might have been had their son lived. During this time, John has been thinking about Anne Lively, and deduces that she is Agatha's mother. However, PreCrime soon swarms the house, and John is halo'ed and Agatha is returned to the PreCogs chamber.Burgess later meets with Lara to comfort her, before he is to attend a ceremony in anticipation of the nationwide PreCrime roll-out. During this time, Lara brings up Ann Lively, which Burgess claims he has no knowledge of. However, he claims he'll go to the containment chamber and inquire to Gideon if anyone drowned a woman by that name. His mentioning of the cause of death (which she didn't reveal to Burgess), then makes Lara suspicious.Realizing Burgess is lying, Lara rushes back to precog headquarters and forces Gideon to release Anderton. Once he's out, Anderton calls Burgess to reveal he's figured out his whole murderous modus operandi.Of the three PreCogs, Agatha was the strongest, and enabled much of the program to continue. However, her mother Ann Lively, got over her Neuroin addiction, and wanted her daughter back. Knowing this would sideline the program, Lamarr arranged for the John Doe Anderton saw in containment, to attempt the murder. Once PreCrime had apprehended the 'suspect,' Burgess appeared to Ann, and donning a disguise similar to the suspect's, killed Ann in the way the PreCogs saw. But, given that PreCrime had apprehended a suspect, it was assumed Agatha's vision of her mother's death was little more than an 'echo.' Thus, the vision was deleted, and Ann Lively just became another 'missing person.'As Lamarr and John continue to talk, a new red ball murder is detected by the precogs, with Anderton as victim and Burgess as perpetrator. Realizing that Anderton must be somewhere nearby, Burgess takes an antique revolver given to him as a gift and searches for him. When the two men come face to face, Anderton points out that Lamarr is in a Catch-22: if Burgess kills him, he will prove that Precrime works, but will go to prison for life. If he doesn't shoot, the Precrime system is proven to be unreliable. Burgess resolves the dilemma with a third option: killing himself.With the Precrime program having been found to be subject to manipulation and thus flawed, it is quickly abandoned. All criminals imprisoned under it are granted immediate pardons and are released from prison, though local police departments keep watch on many of them for years. Anderton reconciles with Lara, now pregnant with their second child, and the precogs are moved to an unnamed remote location where they can live in peace.",
+  "imdb_score": 7.6
+}

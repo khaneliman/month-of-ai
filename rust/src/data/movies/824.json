@@ -1,0 +1,761 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+  "id": 824,
+  "title": "Moulin Rouge!",
+  "poster_path": "https://image.tmdb.org/t/p/w500/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
+  "release_date": "2001-05-24",
+  "vote_average": 7.6,
+  "vote_count": 4320,
+  "popularity": 21.252,
+  "overview": "A celebration of love and creative inspiration takes place in the infamous, gaudy and glamorous Parisian nightclub, at the cusp of the 20th century. A young poet, who is plunged into the heady world of Moulin Rouge, begins a passionate affair with the club's most notorious and beautiful star.",
+  "imdb_id": "tt0203009",
+  "budget": 52500000,
+  "homepage": "https://www.20thcenturystudios.com/movies/moulin-rouge",
+  "revenue": 179213434,
+  "runtime": 128,
+  "tagline": "No laws. No limits. One rule. Never fall in love.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Music"
+  ],
+  "production_companies": [
+    "20th Century Fox",
+    "Bazmark"
+  ],
+  "production_countries": [
+    "AU",
+    "US",
+    "GB"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Nicole Kidman",
+        "character": "Satine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg"
+      },
+      {
+        "name": "Ewan McGregor",
+        "character": "Christian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qYRGu6NIqkUYIO7ftso110WNQ6P.jpg"
+      },
+      {
+        "name": "John Leguizamo",
+        "character": "Toulouse-Lautrec",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+      },
+      {
+        "name": "Jim Broadbent",
+        "character": "Harold Zidler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jTyvGwwR1NFpvgDhcmuWZCM241w.jpg"
+      },
+      {
+        "name": "Richard Roxburgh",
+        "character": "The Duke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/de1XpxnOuW4v4fFWFEjmBqmHaRf.jpg"
+      },
+      {
+        "name": "Garry McDonald",
+        "character": "The Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h5cMwoi2OK0BWhqX5tBHKlC348k.jpg"
+      },
+      {
+        "name": "Jacek Koman",
+        "character": "The Unconscious Argentinean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fajWa6UPn9eLne6TjT8zs4VOd7c.jpg"
+      },
+      {
+        "name": "Matthew Whittet",
+        "character": "Satie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ji9JDJUWBc60NJcXhPU3WpBnGjk.jpg"
+      },
+      {
+        "name": "Kerry Walker",
+        "character": "Marie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nIvYnyp2Ti2dzqFEhCcrNN4K1uS.jpg"
+      },
+      {
+        "name": "Caroline O'Connor",
+        "character": "Nini Legs in the Air",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bTt8g6vjV5ynJIoBmjTY4Vh6Aoe.jpg"
+      },
+      {
+        "name": "Christine Anu",
+        "character": "Arabia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mZ0C11IokZbJYLJhoAx97TToBXi.jpg"
+      },
+      {
+        "name": "Natalie Mendoza",
+        "character": "China Doll",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d4W8MXN1DESMfYFLUpaWKCxArLO.jpg"
+      },
+      {
+        "name": "Lara Mulcahy",
+        "character": "Môme Fromage",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5FUTUXgU3Jx0QQaDhjyAA5NCiRE.jpg"
+      },
+      {
+        "name": "David Wenham",
+        "character": "Audrey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/F7CWSqUE75HtrcdqIQ7UMZ9aTX.jpg"
+      },
+      {
+        "name": "Kylie Minogue",
+        "character": "The Green Fairy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t1TqktzXlJNWhHYuqNnWOuOO7D5.jpg"
+      },
+      {
+        "name": "Ozzy Osbourne",
+        "character": "Voice of the Green Fairy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wu5vrd2dQzXaxqZw2LOeFlhjSkT.jpg"
+      },
+      {
+        "name": "Deobia Oparei",
+        "character": "Le Chocolat",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kcw8vNMlYgK8peuN80zhX6TqeNk.jpg"
+      },
+      {
+        "name": "Linal Haft",
+        "character": "Warner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eYgjk7JR75F1hV7OA7LSZUN4ZKw.jpg"
+      },
+      {
+        "name": "Keith Robinson",
+        "character": "Le Petomane",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Whitford",
+        "character": "Stage Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Norman Kaye",
+        "character": "Satine's Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iwVZinCQWqYAgPRZQBGGSr4La1b.jpg"
+      },
+      {
+        "name": "Arthur Dignam",
+        "character": "Christian's Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mbyvgu8UdngfZJR2DwjD9wViKgc.jpg"
+      },
+      {
+        "name": "Carole Skinner",
+        "character": "Landlady",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Hardy",
+        "character": "Man in the Moon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dX7MfaOB07DmQ7CE1bRRPb0nJOl.jpg"
+      },
+      {
+        "name": "Plácido Domingo",
+        "character": "Voice of Man in the Moon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gUspbJ0L4ZPmzaCeH9QLmt4mZHJ.jpg"
+      },
+      {
+        "name": "Kiruna Stamell",
+        "character": "La Petite Princesse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iRswnqf9MlNMBahEWkT4iGBexe3.jpg"
+      },
+      {
+        "name": "Anthony Young",
+        "character": "Orchestra Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Dee Donavan",
+        "character": "Character Rake",
+        "profile_path": ""
+      },
+      {
+        "name": "Johnny Lockwood",
+        "character": "Character Rake",
+        "profile_path": ""
+      },
+      {
+        "name": "Don Reid",
+        "character": "Character Rake",
+        "profile_path": ""
+      },
+      {
+        "name": "Tara Morice",
+        "character": "Prostitute",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6sEe9SGNFhDmCg83La8gWfd84Wf.jpg"
+      },
+      {
+        "name": "Daniel Scott",
+        "character": "Absinthe Drinker / Guitarist",
+        "profile_path": ""
+      },
+      {
+        "name": "Veronica Beattie",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Callingham",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Rosetta Cook",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Fleur Denny",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Kelly Grauer",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Jaclyn Hanson",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Michelle Hopper",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Fallon King",
+        "character": "Montmartre Dance Team",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rCvEsL2kdA3fUV6Ub4C9LssbR2o.jpg"
+      },
+      {
+        "name": "Wendy McMahon",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Tracie Morley",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Sue-Ellen Shook",
+        "character": "Montmartre Dance Team",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yEpXnkCr65mzjV8MN2lg1xzDYFV.jpg"
+      },
+      {
+        "name": "Jenny Wilson",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Luke Alleva",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Aroustian",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen Colyer",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Grace",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Hodge",
+        "character": "Montmartre Dance Team",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tMZM2T7TyDdzCEzo9e3tRtgh5PV.jpg"
+      },
+      {
+        "name": "Cameron Mitchell",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Deon Nuku",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Shaun Parker",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Troy Phillips",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Rodney Syaranamual",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Ashley Wallen",
+        "character": "Montmartre Dance Team",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qipM6bYnvPOppHVocj1NEtWrZ4d.jpg"
+      },
+      {
+        "name": "Nathan Wright",
+        "character": "Montmartre Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Susan Black",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicole Brooks",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Danielle Brown",
+        "character": "Paris Dance Team",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dRCIvf5Lv2UV0AVVpPSLoXEga0u.jpg"
+      },
+      {
+        "name": "Anastacia Flewin",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Fiona Gage",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Harrington",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Camilla Jakimowicz",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Rochelle Jones",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Caroline Kaspar",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Mandy Liddell",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Melanie Mackay",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Elise Mann",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Charmaine Martin",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Michelle Wriggles",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Boyd",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Lorry D'Ercole",
+        "character": "Paris Dance Team",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rJEGMxSsGu5shZ73p4S6H7PtCtW.jpg"
+      },
+      {
+        "name": "Michael Edge",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Glyn Gray",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Craig Haines",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen Holford",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Jamie Jewell",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason King",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryan Males",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Harlin Martin",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Micallef",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Schmölzer",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Bradley Spargo",
+        "character": "Paris Dance Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph 'Pepe' Ashton",
+        "character": "Tabasco Brother",
+        "profile_path": ""
+      },
+      {
+        "name": "Jordan Ashton",
+        "character": "Tabasco Brother",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcos Falagan",
+        "character": "Tabasco Brother",
+        "profile_path": ""
+      },
+      {
+        "name": "Mitchel Falagan",
+        "character": "Tabasco Brother",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Mayhew",
+        "character": "Tabasco Brother",
+        "profile_path": ""
+      },
+      {
+        "name": "Hamish McCann",
+        "character": "Tabasco Brother",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrien Janssen",
+        "character": "Tabasco Brother",
+        "profile_path": ""
+      },
+      {
+        "name": "Shaun Holloway",
+        "character": "Tabasco Brother",
+        "profile_path": ""
+      },
+      {
+        "name": "Darren Dowlut",
+        "character": "Cocoliscious Brother",
+        "profile_path": ""
+      },
+      {
+        "name": "Dennis Dowlut",
+        "character": "Cocoliscious Brother",
+        "profile_path": ""
+      },
+      {
+        "name": "Pina Conti",
+        "character": "La Ko Ka Chau",
+        "profile_path": ""
+      },
+      {
+        "name": "Nandy McClean",
+        "character": "Twin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pkLMdsyH5HXR7NX8vl0sVG3MsIx.jpg"
+      },
+      {
+        "name": "Maya McClean",
+        "character": "Twin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rOt7VGC3pybUkk03nz5PAbIHUcG.jpg"
+      },
+      {
+        "name": "Patrick Harding-Irmer",
+        "character": "Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Albin Pahernik",
+        "character": "Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Aurel Verne",
+        "character": "Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Kip Gamblin",
+        "character": "Latin Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jPEKz2GpOYWfnEF0Xv4siGvGWxC.jpg"
+      },
+      {
+        "name": "Wilson Alcorn",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kerry Casey",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Collingwood",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Cass Cumerford",
+        "character": "Audience Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/booCg51LxJ4KFRluGZhRZRSA5j1.jpg"
+      },
+      {
+        "name": "Matthew Dale",
+        "character": "The Hand (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tQw6g7PGJVhv8mMjvZCkE8F0aJn.jpg"
+      },
+      {
+        "name": "Brenda De Lacy",
+        "character": "Courtesan / Seamstress (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eliana Dona",
+        "character": "Prostitute (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nash Edgerton",
+        "character": "Stagehand (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4APzupXhj00RkLJyjzYTkvk47Dw.jpg"
+      },
+      {
+        "name": "Coralie Eichholtz",
+        "character": "Hooker #1 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zXYsCZPsffnLVmAW6hHHs2JKQO4.jpg"
+      },
+      {
+        "name": "Tim Elliott",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Pat Evans",
+        "character": "Seamstress (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicole Fantl",
+        "character": "Audience Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hcfe0jdH6VI6986qbjgCwnhzkWw.jpg"
+      },
+      {
+        "name": "Sandi Finlay",
+        "character": "Eccentric Wealthy Lesbian Club Attendee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Waldo Garrido",
+        "character": "Musician (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Gregory",
+        "character": "Stagehand (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kahlia Greksa",
+        "character": "Street Urchin (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Karinna Greksa",
+        "character": "Street Urchin (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Trent Harlow",
+        "character": "Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Troy Harrison",
+        "character": "Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Geoffrey Kiem",
+        "character": "Stagehand (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Harold Kissin",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ian Lind",
+        "character": "Stagehand (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Lynch",
+        "character": "Stagehand (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Angus Martin",
+        "character": "Pawnbroker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Liliya May",
+        "character": "Mermaid (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jEawXq6hzRlkYB2JvH0hQ0Noa48.jpg"
+      },
+      {
+        "name": "Paul Maybury",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Peters",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Pickard",
+        "character": "Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Greg Poppleton",
+        "character": "Nervous Nellie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lanmTJ0vJEkW0se7wSfGWhOFuyu.jpg"
+      },
+      {
+        "name": "Brett Praed",
+        "character": "Stagehand (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pz1lgVP2VeMnNJ672TVR83L8Rky.jpg"
+      },
+      {
+        "name": "Thern Reynolds",
+        "character": "Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Greg Robinson",
+        "character": "Stagehand (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "David Scotchford",
+        "character": "Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Neeraj Singh",
+        "character": "Oscar Wilde boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sotiri Sotiropoulos",
+        "character": "Stagehand (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "David Whitford",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Wilson",
+        "character": "Slave Trader (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Baz Luhrmann",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Dqs2hmcj2UtTON5FfjlRvKdbuF.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "paris, france",
+    "nightclub",
+    "fairy",
+    "courtesan",
+    "duke",
+    "musical",
+    "poet",
+    "terminal illness",
+    "love",
+    "writer",
+    "prostitution",
+    "death",
+    "illness",
+    "tuberculosis",
+    "bohemian",
+    "dance hall",
+    "19th century",
+    "1900s",
+    "belle epoque",
+    "dying in arms",
+    "jukebox musical"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A poor Bohemian poet in 1890s Paris falls for a beautiful courtesan and nightclub star coveted by a jealous duke.",
+    "The year is 1899, and Christian, a young English writer, has come to Paris to follow the Bohemian revolution taking hold of the city's drug and prostitute infested underworld. And nowhere is the thrill of the underworld more alive than at the Moulin Rouge, a night club where the rich and poor men alike come to be entertained by the dancers, but things take a wicked turn for Christian as he starts a deadly love affair with the star courtesan of the club, Satine. But her affections are also coveted by the club's patron: the Duke. A dangerous love triangle ensues as Satine and Christian attempt to fight all odds to stay together but a force that not even love can conquer is taking its toll on Satine...—O.G.",
+    "Paris, France, 1899. In pursuit of the unconventional ideals of European bohemianism--Truth, Beauty, Freedom, and Love--impecunious, grieving young writer Christian leaves London and sets foot in the heartland of the Bohemian world, the charming hilltop Montmartre district. There, the wide-eyed newcomer meets Henri de Toulouse Lautrec, and just like that, Christian joins the Children of the Revolution and starts writing a spectacular show for the infamous Moulin Rouge nightclub. But when a fortunate misunderstanding leads Christian to the sweet-smelling boudoir of Satine, the cabaret's statuesque star performer and courtesan, something unexpected happens: he falls in love. However, Duke, the show's jealous patron, is not prepared to take the unforeseen complication lying down. And as a dangerous love triangle unfolds, a shocking, well-hidden secret threatens to ruin everything.—Nick Riganas",
+    "Christian, a young wannabe Bohemian poet living in 1899 Paris, defies his father by joining the colorfully diverse clique inhabiting the dark, fantastical underworld of Paris' now legendary Moulin Rouge. In this seedy but glamorous haven of sex, drugs and newly-discovered electricity, the poet-innocent finds himself plunged into a passionate but ultimately tragic love affair with Satine, the club's highest paid star and the city's most famous courtesan. Their romance is played out against the infamous club - a meeting place of high life and low, where slumming aristocrats and the fashionably rich mingled with workers, artists, Bohemians, actresses and courtesans.—Sujit R. Varma",
+    "In 1900, Christian, an impoverished writer who has come from England the year before, types his story: he arrived in Montmartre and fell in with Toulouse-Lautrec and Bohemians who believe in freedom, truth, beauty, and love. They want to sell a show to the Moulin Rouge, and its impresario wants a backer so he can build a proper theatre. Christian's playing a duke, who wants exclusive access to the favors of Satine, the Moulin Rouge's consumptive star. She wants to be a proper actress, so the duke's offer is fine - except that she and Christian fall in love. Can Satine keep the Duke at bay without losing his patronage, will he discover the lovers and kill Christian, and can love trump jealousy?—<jhailey@hotmail.com>"
+  ],
+  "synopsis": "The film opens in the year 1900, where a suffering and depressed writer named Christian sits at his desk and begins to write on his typewriter.In 1899, one year before, Christian (Ewan McGregor) moves to the Montmartre district of Paris to become a writer among the Bohemian culture. He encounters performers led by Toulouse-Lautrec; his writing skills allow them to finish their proposed show, \"Spectacular Spectacular\", that they wish to sell to Harold Zidler, owner of the Moulin Rouge. The group arrives at the Moulin Rouge as Zidler and his \"Diamond Dog Dancers\" perform for the audience (Lady Marmalade/Zidler's Rap (Can Can)/Smells Like Teen Spirit). Toulouse-Lautrec arranges for Christian to see Satine (Nicole Kidman), the star courtesan, in her private quarters to present the work, unaware that Zidler is promising Satine to the wealthy and unscrupulous Duke of Monroth, a potential investor in the cabaret (\"Sparkling Diamonds\" medley). Early in the movie, it is made obvious that Satine suffers from tuberculosis.Satine mistakes Christian for the Duke, and dances with him before retiring to her private chamber with him in order to discuss things \"privately\" (Rhythm of the Night) but soon learns that he is just a writer; by this time Christian has fallen in love with her (\"Your Song\"). The Duke interrupts them; Christian and Satine claim they were practicing the lines for the Moulin Rouge's new show, \"Spectacular Spectacular\". With the help of Zidler, Toulouse-Lautrec and the rest of the troupe pitch the show to the Duke with an improvised plot about an evil maharajah attempting to woo an Indian courtesan who is in love with a poor sitar player (\"The Pitch (Spectacular Spectacular)\").The Duke agrees to back the show on the condition that only he is allowed to see Satine. Meanwhile, Satine contemplates on Christian and her longing to leave the Moulin Rouge to become \"a real actress\" (One Day I'll Fly Away). Christian later goes back to Satine to convince her that she loves him (\"Elephant Love Medley\"). As the cabaret is converted to a theater, Christian and Satine continue seeing each other under the pretense of rehearsing Satine's lines.The Duke becomes jealous and warns Zidler that he may stop financing the show; Zidler arranges for Satine to dine with the Duke that evening, but during practice she falls ill (Gorecki). That night, Zidler makes excuses to the Duke, claiming that Satine has gone to confession (\"Like a Virgin\"). Zidler learns that Satine's tuberculosis has worsened, and that she does not have long to live. Satine tries to convince Christian that their relationship endangers the show, but he counters by writing a secret love song into the show to affirm their love (\"Come What May\").As the Duke watches Christian rehearse lines with Satine, Nini, a jealous performer, points out that the play is a metaphor for Christian, Satine and the Duke. Enraged, the Duke demands that the play ending be changed so that the courtesan ends up with the Maharajah.Satine offers to spend the night with the Duke to keep the original ending. While at the Duke's quarters, Satine sees Christian on the streets below, and realizes she cannot go through with this (\"El Tango De Roxanne\"). The Duke tries to sexually assault her, but she is saved by Le Chocolat, one of the cabaret dancers, and reunited with Christian, who urges her to run away with him.The Duke tells Zidler that he will have Christian killed if Satine is not his. Zidler reiterates this warning to Satine, but when she refuses to return, he finally informs her that she is dying (A Fool to Believe). Acting on the threat to Christian's life, Satine tells Christian they can no longer see each other as she will be staying with the Duke (The Show Must Go On). Christian tries following her, but is denied entry to the Moulin Rouge, and falls into a deep depression, even though Toulouse-Lautrec insists that Satine loves him.On the night of the show, Christian sneaks into the Moulin Rouge, ready to pay Satine to return his love just as the Duke has paid for her (Hindi Sad Diamonds). He catches Satine before she steps on stage, and he demands she tells him that she does not love him. Suddenly they find themselves in the spotlight; Zidler convinces the audience that Christian is the disguised sitar player. Christian angrily denounces Satine and walks off the stage. From the rafters, Toulouse-Lautrec, cries out, \"The greatest thing you'll ever learn is just to love and be loved in return\", spurring Satine to sing the secret love song Christian wrote to express their love.Christian returns to the stage, joining her in the song. The Duke's bodyguard tries to kill Christian, but is thwarted by Toulouse-Lautrec and La Petite Princesse (a dancer in the Moulin Rouge), while the Duke's own attempt is stopped by Zidler. The Duke storms out of the cabaret as Christian and Satine complete their song (\"Come What May (Reprise)\", \"Coup D'État (Finale)\").After the curtain closes, however, Satine succumbs to tuberculosis. She and Christian affirm their love before she dies. A year later the Moulin Rouge has closed down, and Christian is writing the tale of his love for Satine, a \"love that will live forever\" (Nature Boy (Reprise)).",
+  "imdb_score": 7.6
+}

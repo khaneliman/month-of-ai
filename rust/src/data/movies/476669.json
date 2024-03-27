@@ -1,0 +1,551 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/4OTYefcAlaShn6TGVK33UxLW9R7.jpg",
+  "id": 476669,
+  "title": "The King's Man",
+  "poster_path": "https://image.tmdb.org/t/p/w500/aq4Pwv5Xeuvj6HZKtxyd23e6bE9.jpg",
+  "release_date": "2021-12-22",
+  "vote_average": 6.78,
+  "vote_count": 4117,
+  "popularity": 79.653,
+  "overview": "As a collection of history's worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.",
+  "imdb_id": "tt6856242",
+  "budget": 100000000,
+  "homepage": "https://www.20thcenturystudios.com/movies/the-kings-man",
+  "revenue": 125900000,
+  "runtime": 131,
+  "tagline": "Witness the bloody origin.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Adventure",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Marv",
+    "Cloudy Productions",
+    "20th Century Studios"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Ralph Fiennes",
+        "character": "Orlando Oxford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pCnVXH1Uo2ODoOit4UXni8OD9VB.jpg"
+      },
+      {
+        "name": "Gemma Arterton",
+        "character": "Polly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Alfm28oyHNiYweNCUaMmrVjVMAT.jpg"
+      },
+      {
+        "name": "Rhys Ifans",
+        "character": "Grigori Rasputin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g8EUs8r1ECh9plKtrxBparsxlZ1.jpg"
+      },
+      {
+        "name": "Matthew Goode",
+        "character": "Morton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3XaKKl0bKswTWbJ0Lh9nZ4UdAQo.jpg"
+      },
+      {
+        "name": "Tom Hollander",
+        "character": "King George / Kaiser Wilhelm / Tsar Nicholas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cqZiJsImFZ6TaeShRRg49AZ9TyT.jpg"
+      },
+      {
+        "name": "Harris Dickinson",
+        "character": "Conrad Oxford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pqqnYWWHa3Va80EXofXrVlRqIDM.jpg"
+      },
+      {
+        "name": "Daniel Brühl",
+        "character": "Erik Jan Hanussen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3YlmTfiy5qZXkrdKGjaM1uMjGKP.jpg"
+      },
+      {
+        "name": "Djimon Hounsou",
+        "character": "Shola",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8BpM0SSdRJdMMl3vRqrk2LUICxH.jpg"
+      },
+      {
+        "name": "Charles Dance",
+        "character": "Kitchener",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2T2tH6EJjgP8aGevWogwfYr26QQ.jpg"
+      },
+      {
+        "name": "Shaun McKee",
+        "character": "Camp Guard #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/LkQGGvQ1SM3mQxCmPr1mNmrppl.jpg"
+      },
+      {
+        "name": "Peter York",
+        "character": "Camp Guard #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexandra Maria Lara",
+        "character": "Emily Oxford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/whFI0dPAyXdUvGfnXcKf8W40mgk.jpg"
+      },
+      {
+        "name": "Alexander Shaw",
+        "character": "Young Conrad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g4GlmEhjVxgaZK6AujcZ2VKlFX0.jpg"
+      },
+      {
+        "name": "Bevan Viljoen",
+        "character": "Boer Sniper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p2hYn7n066MlvKmJpmIT1fPWDwl.jpg"
+      },
+      {
+        "name": "Shaun Scott",
+        "character": "Kingsman Tailor #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yA3zXU2UM0xIRtCx6tugiMb5Ahw.jpg"
+      },
+      {
+        "name": "Andrew Bridgmont",
+        "character": "Kingsman Tailor #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h7RaUzUnaJxkz7dsK47MRJIue3b.jpg"
+      },
+      {
+        "name": "Olivier Richters",
+        "character": "Huge Machinery Shack Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Zz5WYE1Muc3AX9daxCxgNTRE5.jpg"
+      },
+      {
+        "name": "Valerie Pachner",
+        "character": "Mata Hari",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vnBh34dxhXIpGPtlI7hZS57qAnc.jpg"
+      },
+      {
+        "name": "Joel Basman",
+        "character": "Gavrilo Princip",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uaBcyvAe8t5x5OuRiX50rPkTda6.jpg"
+      },
+      {
+        "name": "Todd Boyce",
+        "character": "Dupont",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kM5syx6Xry0q23Dh1MP3NBJLKvr.jpg"
+      },
+      {
+        "name": "Richard Stephenson Winter",
+        "character": "Shepherd's Flock Member #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Takako Akashi",
+        "character": "Shepherd's Flock Member #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/podGk9VJFXhIu5eEP62p3CECFJ6.jpg"
+      },
+      {
+        "name": "Thorston Manderlay",
+        "character": "Shepherd's Flock Member #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2VHGWiwsWtV3st16pj088KVtDzS.jpg"
+      },
+      {
+        "name": "Terence Anderson",
+        "character": "Shepherd's Flock Member #5",
+        "profile_path": ""
+      },
+      {
+        "name": "Andy Cheung",
+        "character": "Shepherd's Flock Member #6",
+        "profile_path": ""
+      },
+      {
+        "name": "Ron Cook",
+        "character": "Archduke Franz Ferdinand of Austria",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bYJ2x9FfQobon2Iai5CvoLgv1U5.jpg"
+      },
+      {
+        "name": "Barbara Drennan",
+        "character": "Sophie, Duchess of Hohenberg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4TqLlu9GQIdZos6eLASkcwXOi3S.jpg"
+      },
+      {
+        "name": "Maja Simonsen",
+        "character": "Pretty Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lKb4gMF4zq3mpUf21r5DkaOxk1.jpg"
+      },
+      {
+        "name": "Benedick Blythe",
+        "character": "Saravejo General",
+        "profile_path": ""
+      },
+      {
+        "name": "Max Count",
+        "character": "Young King George",
+        "profile_path": ""
+      },
+      {
+        "name": "Emil Oksanen",
+        "character": "Young Kaiser Wilhelm",
+        "profile_path": ""
+      },
+      {
+        "name": "George Gooderham",
+        "character": "Young Tsar Nicholas",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexa Povah",
+        "character": "Queen Victoria",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cxW1H1NVMCM5fTAfX4lFwHNrDyP.jpg"
+      },
+      {
+        "name": "Branka Katić",
+        "character": "Tsarina Alix",
+        "profile_path": "https://image.tmdb.org/t/p/w185/18EiJTZpt7KtvUoYPm38dmgXfHD.jpg"
+      },
+      {
+        "name": "Alexander Shefler",
+        "character": "Tsarevich Alexei",
+        "profile_path": ""
+      },
+      {
+        "name": "Rosie Goddard",
+        "character": "Grand Duchess Anastasia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kaFzKObpQTwRnfJSNUKfsWaIpfb.jpg"
+      },
+      {
+        "name": "Dora Davis",
+        "character": "Grand Duchess Maria",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5g2hgZsuEX2xlZEc5Hlc37RXb1q.jpg"
+      },
+      {
+        "name": "Lucia Jade Barker",
+        "character": "Grand Duchess Olga",
+        "profile_path": ""
+      },
+      {
+        "name": "Molly McGeachin",
+        "character": "Grand Duchess Tatiana",
+        "profile_path": ""
+      },
+      {
+        "name": "Angus Castle-Doughty",
+        "character": "British Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aEYs00qhM3m9YcknhpFHYngP8Zp.jpg"
+      },
+      {
+        "name": "Jed O'Hagan",
+        "character": "British Soldier #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Mahy",
+        "character": "British Soldier #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Connor Calland",
+        "character": "British Soldier #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oJe5BZ0qDYQnozKBJrDA2j29iDy.jpg"
+      },
+      {
+        "name": "James Musgrave",
+        "character": "Lieutenant",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Razpopov",
+        "character": "Sarajevo Prison Warden",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2DW6vLwnBEgfQpiXSgYRDrDU6sY.jpg"
+      },
+      {
+        "name": "Aaron Vodovoz",
+        "character": "Felix Yusupov",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AsIHh9g0tLnn57Ktk2c5nQIuOVj.jpg"
+      },
+      {
+        "name": "Gabriela Całun",
+        "character": "Russian Maid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8KfIJeoWjakcfClZTsJySFjPG1t.jpg"
+      },
+      {
+        "name": "Gabriel Constantin",
+        "character": "Russian Master of Ceremonies",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zwTHzcYGoho4gbVdYVfMqF5Wxq3.jpg"
+      },
+      {
+        "name": "Vår Haugholt",
+        "character": "Russian Prostitute #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Ronja Haugholt",
+        "character": "Russian Prostitute #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Alyona Kazarova",
+        "character": "Yusupov Guest #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Fiz Marcus",
+        "character": "Yusupov Guest #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Nina Novich",
+        "character": "Yusupov Guest #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrey Andreev",
+        "character": "Yusupov Guest #4",
+        "profile_path": ""
+      },
+      {
+        "name": "August Diehl",
+        "character": "Vladimir Lenin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ihfZxWkxFH1FZG98aM9g9icf1gJ.jpg"
+      },
+      {
+        "name": "Nigel Lister",
+        "character": "Arthur Zimmermann",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Vernan",
+        "character": "German Foreign Office Worker #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Nigel Pilkington",
+        "character": "German Foreign Office Worker #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x7RkFby4eQuSpyYKkT3zwPRY6o7.jpg"
+      },
+      {
+        "name": "Ed Cooper Clarke",
+        "character": "Admiralty Military Intel Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2KkgFZ9kzYWt5HRFqLaQSlnTKkO.jpg"
+      },
+      {
+        "name": "Stevee Davies",
+        "character": "Young Codebreaker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Wck1WgvZzU8WmTRHMdY6pU5Vpp.jpg"
+      },
+      {
+        "name": "Alison Steadman",
+        "character": "Rita",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lPthoSzhSr8KDgFKOmILAYUkJ2l.jpg"
+      },
+      {
+        "name": "Russell Balogh",
+        "character": "Sandhurst PT",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fMQ4y0ebqBfrOuKj3Y0RKEjEi63.jpg"
+      },
+      {
+        "name": "Kristian Wanzl Nekrasov",
+        "character": "General Ludendorff",
+        "profile_path": ""
+      },
+      {
+        "name": "Stefan Schiffer",
+        "character": "Ludendorff Butler",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Bruce",
+        "character": "Sandhurst Chaplain",
+        "profile_path": ""
+      },
+      {
+        "name": "Hal Hillman",
+        "character": "Sandhurst Cadet",
+        "profile_path": ""
+      },
+      {
+        "name": "Ian Kelly",
+        "character": "President Woodrow Wilson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lRmhSuLLNjrXCK1OhuQfAl8V4q.jpg"
+      },
+      {
+        "name": "David Calvitto",
+        "character": "Vice President",
+        "profile_path": ""
+      },
+      {
+        "name": "Ian Porter",
+        "character": "General",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qmTTaWGp5OO5rTFey9EFfo0dH5n.jpg"
+      },
+      {
+        "name": "Simon Connolly",
+        "character": "White House Butler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/izjjkm0MdaObxkP8t7Cb3gqUZX7.jpg"
+      },
+      {
+        "name": "Alexander Cobb",
+        "character": "British Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cptHEuoWuroWeMGVrq0BB3shaAU.jpg"
+      },
+      {
+        "name": "Aaron Taylor-Johnson",
+        "character": "Archie Reid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vJDTkV3pWU7CKqzQTp01ui7SlWO.jpg"
+      },
+      {
+        "name": "Emun Elliott",
+        "character": "Sergeant Major",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A0PGkWHpgbus4t76hKSTqoey8HP.jpg"
+      },
+      {
+        "name": "James Backway",
+        "character": "Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "Cassidy Little",
+        "character": "British Spy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1HOWJWl3Q6IZ0OkFakU1Bv9grJk.jpg"
+      },
+      {
+        "name": "Neil Jackson",
+        "character": "Captain Forrest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gzRKy6Q4lU2euuBh1bXXQMFDyRk.jpg"
+      },
+      {
+        "name": "Ben Ayers",
+        "character": "Black Watch Soldier #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Gwithian Evans",
+        "character": "Black Watch Soldier #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Cory Stuckey",
+        "character": "Black Watch Soldier #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Timon Staehler",
+        "character": "Storm Trooper",
+        "profile_path": ""
+      },
+      {
+        "name": "Timothy Blore",
+        "character": "German Soldier #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Ross Anderson",
+        "character": "Corporal Johnstone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/918MEQzDshopEdGBvotRNmp39c2.jpg"
+      },
+      {
+        "name": "Robert Aramayo",
+        "character": "Sergeant Major Atkins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5CNx6hV7buItL1Icsc2AorP9AqE.jpg"
+      },
+      {
+        "name": "Remus Brooks",
+        "character": "Kings Liverpool Soldier #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Felix Mosse",
+        "character": "Kings Liverpool Soldier #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Will Pattle",
+        "character": "Kings Liverpool Soldier #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Amy Leeson",
+        "character": "Pub Girl #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Dolores Carbonari",
+        "character": "Pub Girl #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5RHzizKFX7SZmCTVg0g7MsD1UtW.jpg"
+      },
+      {
+        "name": "Stanley Tucci",
+        "character": "United States Ambassador",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ffKQpQvYczWKFxmbxgaoj68NN4W.jpg"
+      },
+      {
+        "name": "Pippa Winslow",
+        "character": "United States Embassy Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zPfG57Mc1zAnUwWwCf63kKNvjf9.jpg"
+      },
+      {
+        "name": "David Kross",
+        "character": "Moustached Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jRFxrLwiroTbGedG9uyXZghgxlX.jpg"
+      },
+      {
+        "name": "Katarina Martin",
+        "character": "Housekeeper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qzhNNhdgKWgdpnFLoOMqgcoR5tv.jpg"
+      },
+      {
+        "name": "Kya Garwood",
+        "character": "Maid (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/386H09whUSfo01p6WaXl9u5qSuz.jpg"
+      },
+      {
+        "name": "Constantine Gregory",
+        "character": "Mayor of Sarajevo (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Wu1DUqLi8ZclEcdLGgYgnNcPmw.jpg"
+      },
+      {
+        "name": "Hal Fowler",
+        "character": "Russian General (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aEYBjBnKWcaWE1s3KdAhWLHwd25.jpg"
+      },
+      {
+        "name": "Renars Latkovskis",
+        "character": "Russian Sheppard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2pNeLg1VIXFtr9b2lwwBIPvkHAp.jpg"
+      },
+      {
+        "name": "Jack Cunningham-Nuttall",
+        "character": "Bath Boy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cUusBhc34zHPvE0KNCdHudRYdhE.jpg"
+      },
+      {
+        "name": "Chloé Booyens",
+        "character": "Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dFRvUwsXb1G5Crff6yeVCaKfCqH.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Matthew Vaughn",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Dnbz3B7yy4u0abixuD5LakZgsy.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "london, england",
+    "world war i",
+    "spy",
+    "based on comic",
+    "prequel",
+    "rasputin",
+    "world domination",
+    "duringcreditsstinger",
+    "1910s"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "In the early years of the 20th century, the Kingsman agency is formed to stand against a cabal plotting a war to wipe out millions."
+  ],
+  "synopsis": "In 1902, British aristocrat Orlando (Ralph Fiennes) (Arthur), Duke of Oxford, his wife Emily (Alexandra Maria Lara), and their young son Conrad (Harris Dickinson) visit a concentration camp (led by General Kitchener and his deputy Captain Maximilian \"Max\" Morton) in South Africa during the Second Boer War while working for the Red Cross. Emily is mortally wounded during a Boer sniper attack on the camp. Before she dies, Emily makes Orlando promise never to let their son see war again.Twelve years later, Orlando has formed a private spy network consisting of domestic servants employed by the world's most powerful dignitaries and has recruited his own servants Shola (Djimon Hounsou) (Merlin) and Polly (Gemma Arterton) (Gallahad) into it. The network's primary objective is to protect the United Kingdom and the British Empire from the approaching Great War. Conrad is eager to fight, but Orlando forbids him to join the British Army and persuades Lord Kitchener (Charles Dance), Secretary of State for War, not to let him do so.At the behest of Kitchener, Conrad and Orlando ride with Orlando's friend Archduke Franz Ferdinand (Ron Cook) through Sarajevo. Conrad saves the Archduke from a bomb thrown by Gavrilo Princip (Joel Basman), a rebel intent on sparking a war. Princip later encounters the Archduke's entourage again by chance and succeeds in fatally shooting him and his wife Sophie.King George of England, Tsar Nicholas of Russia and Kaiser Wilhem of Germany were cousins, kept in check by Queen Victoria. The death of Archduke Ferdinand will allow Kaiser Wilhem to move his armies against Austria and disturb a fragile peace. On Shepherd's orders, Erik, an advisor to Kaiser, goads him to ignore King George and attack Austria.\nThis quickly escalates into WW I and weakens Europe.Orlando visits the prison in Sarajevo and learns that Princip is part of \"The Flock\": a group plotting to pit the German, Russian, and British empires against each other. The Flock has its headquarters on an isolated clifftop and is led by \"The Shepherd\" Captain Maximilian \"Max\" Morton (Matthew Goode) (who is still working under Kitchener at the British War ministry), whose ultimate goal is to achieve independence for Scotland; among its operatives is Russian mystic Grigori Rasputin (Rhys Ifans), trusted adviser (The Tsar's personal physician) to Tsar Nicholas of Russia.On the Shepherd's orders, Rasputin poisons Tsar Nicholas's young son Alexei, only to cure him when Nicholas promises to stay out of the war. Conrad is notified of Rasputin's manipulation by his cousin, Prince Felix Yusupov (Aaron Vodovoz). Knowing the Western Front will be left vulnerable if Russia leaves the war, Conrad delivers this information to Kitchener and his aide-De-camp Major Max Morton, who set sail for Russia. Their ship is torpedoed by a submarine and sunk.Word of Kitchener's death reaches Orlando, spurring him (to first induct Conrad into his secret spy organization) to travel to Russia with Shola, Polly, and Conrad to deal with Rasputin once and for all. After a grueling close fight, Orlando, Shola, Conrad, and Polly successfully kill Rasputin during a Christmas party hosted by Prince Felix. Later that night, after celebrating his 19th birthday, Conrad expresses his determination to join the army, much to Orlando's dismay.At the Shepherd's orders, Erik Jan Hanussen (Daniel Bruhl) (An occultist and the Shepherd's second-in-command), an adviser to Kaiser Wilhelm II, sends the Zimmermann Telegram (German Foreign Minister Arthur Zimmermann to the German Minister to Mexico, Heinrich Von Eckhardt, offering United States territory to Mexico in return for joining the German cause), hoping to distract Britain and the United States. Although the message is intercepted by British intelligence and deciphered by Polly, President Woodrow Wilson refuses to join the war, citing a lack of concrete proof. The Shepherd recruits Vladimir Lenin and orders his Bolsheviks to overthrow the Tsar and remove Russia from the war, sending an assassin to kill the Romanovs.Now of age, Conrad is commissioned into the Grenadier Guards against his father's wishes, but Orlando persuades King George V (Tom Hollander) (Percival) to have him assigned to London. Determined to fight in the war, Conrad swaps places with a soldier named Archie Reid (Aaron Taylor-Johnson), giving him the nickname \"Lancelot\" to send his father a message. Disguised as Archie, a member of the Black Watch, Conrad volunteers for a mission into No-Man's Land to retrieve information from a British agent wounded there. He is mistaken for a German spy (he gives his name as Archie Ried, but Archie mates say that they know Archie, and he ain't him) upon his return and executed at gunpoint, devastating Orlando, but the information he has recovered verifies the authenticity of the Zimmermann Telegram.After Wilson again refuses to enter the war despite Conrad's proof, Orlando learns that Wilson is being blackmailed with film footage showing him being seduced by the Shepherd's agent, Mata Hari (Valerie Pachner), and resolves to recover it. Upon defeating Hari at the American embassy, Orlando has her cashmere scarf identified as being made from rare wool only found in a specific mountainous region. Pinpointing this location as the Shepherd's base of operations, Orlando, Shola, and Polly head there and fight their way inside. The Shepherd is revealed to be Morton, who had faked his own death and killed Kitchener himself. Orlando and Shola fight and kill Morton while Polly recovers the film; it is delivered to Wilson, who burns it and prepares to mobilize American troops.A year after the war, Orlando purchases the Kingsman Tailor Shop as a front for his organization. Orlando, Shola, Polly, King George, Archie (Lancelot), and the U.S. Ambassador to the U.K. (Bedivere form the original Kingsman, each assuming code-names from the King Arthur legend to honor Conrad. In a mid-credit scene, Hanussen, having taken on the Shepherd identity, introduces Lenin to the Romanovs' killer: a young Adolf Hitler.",
+  "imdb_score": 6.3
+}

@@ -1,0 +1,351 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/8wI0M7HDHhDsoxMCkcAVUx7O6DX.jpg",
+  "id": 395991,
+  "title": "Only the Brave",
+  "poster_path": "https://image.tmdb.org/t/p/w500/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg",
+  "release_date": "2017-09-22",
+  "vote_average": 7.4,
+  "vote_count": 1457,
+  "popularity": 37.353,
+  "overview": "Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.",
+  "imdb_id": "tt3829920",
+  "budget": 38000000,
+  "homepage": "http://www.onlythebrave-movie.com",
+  "revenue": 25754775,
+  "runtime": 133,
+  "tagline": "It’s not what stands in front of you, it’s who stands beside you",
+  "genres": [
+    "Drama",
+    "Action"
+  ],
+  "production_companies": [
+    "di Bonaventura Pictures",
+    "Black Label Media",
+    "Condé Nast Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Josh Brolin",
+        "character": "Eric Marsh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+      },
+      {
+        "name": "Miles Teller",
+        "character": "Brendan \"Donut\" McDonough",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cg3LW0xX6RKr8dmescxq1bepcb5.jpg"
+      },
+      {
+        "name": "Jeff Bridges",
+        "character": "Duane Steinbrink",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
+      },
+      {
+        "name": "Jennifer Connelly",
+        "character": "Amanda Marsh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/opBts8lC3ZhK4BQwl8ztczehsFQ.jpg"
+      },
+      {
+        "name": "James Badge Dale",
+        "character": "Jesse Steed",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xODHrgxKPNWYATKgZWQJLNhImlZ.jpg"
+      },
+      {
+        "name": "Taylor Kitsch",
+        "character": "Christopher MacKenzie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m39IoFjaJWiCoFYv0DfYCklOeOS.jpg"
+      },
+      {
+        "name": "Alex Russell",
+        "character": "Andrew Ashcraft",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ICuiVBMCCY2phrHXpXftoKHqM2.jpg"
+      },
+      {
+        "name": "Andie MacDowell",
+        "character": "Marvel Steinbrink",
+        "profile_path": "https://image.tmdb.org/t/p/w185/akeheO4i3cR1HpSU8yu9HrLcsKm.jpg"
+      },
+      {
+        "name": "Geoff Stults",
+        "character": "Travis Turbyfill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/815Unu0MUnwsmeAbjR2qNh9toSU.jpg"
+      },
+      {
+        "name": "Thad Luckinbill",
+        "character": "Scott Norris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n7eqiq10dCFZwgzwaiUjqFzMwhI.jpg"
+      },
+      {
+        "name": "Ben Hardy",
+        "character": "Wade Parker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b20ijbr2tbqlGvqZgkCpNZ5AYvS.jpg"
+      },
+      {
+        "name": "Scott Haze",
+        "character": "Clayton Whitted",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6cd3Jt8Vo52j8cRKbNf1j7cERhs.jpg"
+      },
+      {
+        "name": "Jake Picking",
+        "character": "Anthony Rose",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w37BIVKf7d64AtmFkBbviMNNDsX.jpg"
+      },
+      {
+        "name": "Scott Foxx",
+        "character": "Travis Carter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oM1q9jlUyYFu9qWkDvUihbPvkJQ.jpg"
+      },
+      {
+        "name": "Dylan Kenin",
+        "character": "Robert Caldwell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yGq7PooU34xeRWFORF96fmJmvl9.jpg"
+      },
+      {
+        "name": "Ryan Michael Busch",
+        "character": "Dustin DeFord",
+        "profile_path": ""
+      },
+      {
+        "name": "Kenneth Miller",
+        "character": "Sean Misner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2iSAuMNf0nczFjQyZe4Qdy9Pg14.jpg"
+      },
+      {
+        "name": "Ryan Jason Cook",
+        "character": "William Warneke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kPmz7t9z9h7lhCCsPZj9jOgnjOQ.jpg"
+      },
+      {
+        "name": "Brandon Bunch",
+        "character": "Garret Zuppiger",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael L. McNulty",
+        "character": "Kevin Woyjeck",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicholas Jenks",
+        "character": "John Percin Jr.",
+        "profile_path": ""
+      },
+      {
+        "name": "Sam Quinn",
+        "character": "Grant McKee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aF51TwJxnGSbEb8TD9lzduticro.jpg"
+      },
+      {
+        "name": "Natalie Hall",
+        "character": "Natalie Johnson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9CFwxWceTBgsLxkYsaHdejLnDie.jpg"
+      },
+      {
+        "name": "Howard Ferguson Jr.",
+        "character": "Brian Ferguson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3LMQaP5OqrjTEyTsuEfLfcmveOO.jpg"
+      },
+      {
+        "name": "Rachel Singer",
+        "character": "Brendan's Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o4Hzvy1VRa3IILMrI45Ia08pstK.jpg"
+      },
+      {
+        "name": "Ralph Alderman",
+        "character": "Evaluator Hayes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cwhyblIX4r8V5Mmrm6u4r9v4Etw.jpg"
+      },
+      {
+        "name": "Jenny Gabrielle",
+        "character": "Desiree Steed",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9pYUoRiCiJbT04JDXvLo4XXJ2P6.jpg"
+      },
+      {
+        "name": "Brytnee Ratledge",
+        "character": "Juliann Ashcraft",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wvvbY3yLlEc6uCfhzJnE819wUrq.jpg"
+      },
+      {
+        "name": "Pell James",
+        "character": "Claire Caldwell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jbf5oxKx8Hiow59wZXJpDLam7rG.jpg"
+      },
+      {
+        "name": "Lora Martinez-Cunningham",
+        "character": "Dr. Ochoa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gjbnJZCzNkshj2bKEe51sEcnPOV.jpg"
+      },
+      {
+        "name": "Jade Kammerman",
+        "character": "Stephanie Turbyfill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ehOPtzFvzAnoQJrA3ukJ1xTJdOw.jpg"
+      },
+      {
+        "name": "Raleigh Cain",
+        "character": "Nurse Nora",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Nolan",
+        "character": "Medic in Helicopter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cph12yf1h82tucawsqo8wIIlivb.jpg"
+      },
+      {
+        "name": "Lulu Jovovich",
+        "character": "Kristi Whitted (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ebPpwNuR2AMIQpi0GsONBP0UMnJ.jpg"
+      },
+      {
+        "name": "Matthew Van Wettering",
+        "character": "Joe Thurston",
+        "profile_path": "https://image.tmdb.org/t/p/w185/19KWXW7EmsWtG6wcVErsapu7pRr.jpg"
+      },
+      {
+        "name": "Forrest Fyre",
+        "character": "Mayor Worthington",
+        "profile_path": ""
+      },
+      {
+        "name": "Josh Hopkins",
+        "character": "California Hot Shot Supervisor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xIEkPhswuWngGc0UY35AqGPG7JV.jpg"
+      },
+      {
+        "name": "Nicholas Liam King",
+        "character": "Caden Steed",
+        "profile_path": ""
+      },
+      {
+        "name": "Orion Pontes",
+        "character": "Cambria Steed",
+        "profile_path": ""
+      },
+      {
+        "name": "Barbie Robertson",
+        "character": "Marsena Thurston",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gHYCdWtEvCOEcVDp2E7FdViWHip.jpg"
+      },
+      {
+        "name": "Staci Robbins",
+        "character": "Hot Shot Mom #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Lauren Chavez-Myers",
+        "character": "Nurse #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/IY6lzif2ht7mJ4vK7KOOh45xgr.jpg"
+      },
+      {
+        "name": "Michael Menchel",
+        "character": "Old Bald Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Wiggins",
+        "character": "Yarnell Commander",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9wVPnBSwCYEZXS6gWGxaYwxUIVv.jpg"
+      },
+      {
+        "name": "John Trejo",
+        "character": "Chiricahua IC",
+        "profile_path": ""
+      },
+      {
+        "name": "Travis Armstrong",
+        "character": "Deputy Sturgill Banks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tFdOyk7NY4nJ8NrNxzn0hPIRPGX.jpg"
+      },
+      {
+        "name": "Austin Dennis",
+        "character": "Dusty",
+        "profile_path": ""
+      },
+      {
+        "name": "Jermaine Washington",
+        "character": "Bouncer #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lyKuxmbnOm8JkrK8EwaI9j0QCyk.jpg"
+      },
+      {
+        "name": "Keith Jardine",
+        "character": "Bouncer #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/emN5dXAoqW9Naab4g3yOwxSfkvh.jpg"
+      },
+      {
+        "name": "Andres Segura",
+        "character": "Male Nurse",
+        "profile_path": ""
+      },
+      {
+        "name": "Casey Messer",
+        "character": "Local Hottie #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aMdVeY6tu92Kdj2UU9AMM1fSOil.jpg"
+      },
+      {
+        "name": "Sarah Minnich",
+        "character": "Local Hottie #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b9HKZ5Q4RmMKhiDfIGHzADmZ45c.jpg"
+      },
+      {
+        "name": "Duane Steinbrink",
+        "character": "Rusty Pistols #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Donn Pease",
+        "character": "Rusty Pistols #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Dunham",
+        "character": "Rusty Pistols #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob Wood",
+        "character": "Rusty Pistols #4",
+        "profile_path": ""
+      },
+      {
+        "name": "Jesus Cris Acosta",
+        "character": "Wildland Firefighter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7G9mFl4ckcw6fxhzPyw7EDjb6mz.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Joseph Kosinski",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oWLUXWY0j8TYzwnf2wETYWO181S.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "fire",
+    "bravery",
+    "arizona",
+    "natural disaster",
+    "heroism",
+    "addiction",
+    "based on true story",
+    "tragedy",
+    "firefighting",
+    "test by fire",
+    "forest fire",
+    "firefighter",
+    "based on magazine, newspaper or article",
+    "wildfire",
+    "proving oneself"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Based on the true story of the Granite Mountain Hotshots, a group of elite firefighters who risk everything to protect a town from a historic wildfire.",
+    "In 2007 Prescott, Arizona, Eric Marsh of the Prescott Fire Department is frustrated fighting forest fires when the Type 1 or \"Hotshot\" front line forest fire fighting crews from afar overrule his operational suggestions to his area's sorrow. To change that, Marsh gets approval from the Mayor to attempt to organize an unprecedented certified municipal-based Hotshot crew for Prescott. To that end, Marsh needs new recruits, which includes the young wastrel, Brendan McDonough, to undergo the rigorous training and qualification testing for the most dangerous of fire fighting duty. Along the way, the new team meets the challenge and the hailed Granite Mountain Hotshots are born. In doing so, all the men, especially McDonough, are changed as new experience and maturity is achieved in fire-forged camaraderie. All this is put to the test in 2013 with the notorious Yarnell Hill Fire that will demand efforts and sacrifices no one can ignore.—Kenneth Chisholm (kchishol@rogers.com)",
+    "Knowing that his highly trained, Type-2 municipal fire-fighting team won't be the one in the front line if a fire threatens their town, the committed supervisor, Eric Marsh, pushes his crew to their limits. With determination, self-sacrifice, and the aid of Division Chief, Duane Steinbrink, Marsh's brotherhood of dedicated young men become the elite Granite Mountain Hotshots: a fully certified, Type-1 team of firefighters for the city of Prescott, Arizona. Before long, as the men yearn to prove their mettle, a bolt of dry lightning ignites a seemingly controllable wildfire near Yarnell, Arizona; but, Eric already knows that all fires are unpredictable. Now, a heroic group of nineteen selfless men rush in the mouth of the raging inferno, to protect the lives and homes that stand in the way of the rampaging, all-consuming flames, only to find themselves trapped in the heart of the exitless Yarnell Hill Fire. Will the world ever forget that fateful June of 2013?—Nick Riganas"
+  ],
+  "synopsis": "This movie opens up with what feels like a dream sequence in a forest with a wildfire going. Out of the forest, we see the outline of a bear on fire running towards the camera. After the bear runs by it flashes to the house of Eric Marsh (Josh Brolin) who is the superintendent of the local wildfire crew in Prescott, Arizona. He's getting all his supplies ready after being called to join in on stopping a wildfire near Phoenix. Eric's wife Amanda (Jennifer Connelly) is already in the kitchen and reminds him of a fight they had last night, and he apologizes before heading to the fire.Eric's crew is a second level crew also called \"Deucers\" which means they can't go to the front lines of a wildfire. The crew is shown digging a line and burning up vegetation in an area so that if the fire gets there, it won't have more dry vegetation to fuel the fire further. Eric is greeted by a \"Hotshot\" crew which he offers some strategy to, and they tell him to \"do what Deucers do best, which is nothing.\" The hotshot crew doesn't listen to Eric's advice and the small town they were trying to protect ends up in flames with everyone trying to escape.Eric calls his friend Duane (Jeff Bridges) who was a former fire chief to help them get certified as a Hotshot crew. They are trying to become the first municipal hotshot crew in the US as most are at a state or federal level. At this point, we're introduced to Brendan \"Donut\" McDonough (Miles Teller) who is sitting on the couch with his friend smoking what I believe is methamphetamine or crack or something out of a glass pipe. While he's high, he gets a text that a girl he used to date is pregnant. Brendan goes to the restaurant she works at, and she tells him that it is his baby. He appears still high and says he wants to help out and she says she doesn't want him to be a part of their lives. After finishing talking to her, Brendan sees a car stereo in a jeep and tries to steal it. The cops are right across the street and arrest him. He gets bailed out by his mother who when they get home tells him she doesn't want him at the house.Brendan goes to the wildfire crews house with his resume to apply. One of the guys there knows him from EMT class and knows he's a screw-up, so he tells Brendan to go away. But Eric the Superintendent asks him to come into his office to apply anyways. Brendan tells him that he has a record and that he's now been clean for three months. Eric tells him they're going to take a run in a few minutes, and he should see if he can keep up. The crew starts running up a mountain and Brendan is trailing behind. At the top of the mountain, Eric gives an impassioned speech telling new applicants what they're getting into. Meanwhile, Brendan still hasn't made it up the mountain. Back at the station, Eric asks another firefighter if Brendan is dead on the hill somewhere. But Brendan finally comes out of the woods dead tired and shows picture proof he made it to the top of the mountain. They hire him then.Duane gets Eric and the crew an audition to become a hotshot crew, and while they're out fighting a fire, Eric decides to stop a fire that the auditor questions. They get into an argument, and Eric sticks to his guns, and it works. But he's worried he upset the auditor and might not pass their audition. But Duane informs them the next day that they did pass, and the crew all celebrates. They call themselves the Granite Mountain Hotshots.\nNext, there's a series of fighting fire scenes mixed in with Brendan taking groceries over to his baby mama's house for their baby. After a few times dropping groceries off, she lets him meet the baby, and he apologizes for being a dirt-bag.While the boys are out fighting a fire, Eric's wife Amanda is driving late at night and gets into a car wreck where her truck rolls over after she fell asleep at the wheel. The next morning Eric gets home to see the truck totaled and Amanda giving a horse care lesson to some clients. After the clients leave Eric gets upset at her and yells at her, and she yells back about him not being around enough. She says she wants to start a family and he said that their deal was no kids. During this conversation, we find out that Eric and Amanda are both recovering addicts and we realize that's part of why Eric took a chance on Brendan.The hotshots continue to stop fires and Brendan is becoming more involved with his daughter and decides to ask Eric one night at the bar if he wouldn't mind giving a recommendation so Brendan could work as a structure firefighter and be home more. Eric yells at him and reminds him nobody would ever give him a chance as he did. They argue, and Eric leaves mad. On the drive home, Eric is fighting with Amanda who tells him he's being mean to Brendan because of his own issues. Eric gets mad and gets out of the car and walks away from Amanda who screams that she's losing him to the fires and that she wants to start a family with him, but he's obsessed with his work. Eric goes to Duane's house and tells him he's in a bad spot with Amanda. Eric returns home and tells Amanda \"I'm Yours\" and that he's going to be home more.The next morning they're called to a wildfire in Yarnell. Eric tells his assistant on the drive there that he's going to quit being superintendent so he can be home more and start a family As the crew arrives at the Yarnell fire they realize it's a bigger fire than they thought. They go on the far side of the fire and start to do a burn, and the water plane drops water on their burn, screwing up their tactics. As the fire grows, Brendan is sent down by Eric to be their weather watch out. The rest of the team starts to dig another line while Brendan warns them that the fire is moving fast towards them. Brendan has to get away from his spot and is helped out by one of the other teams who drive him out of the dangers of the fire. Eric and his team walk around the back of the mountain.Brendan gets back to camp safely and can hear the Hotshots crew on the radio talk about how they're trying to get back. But the fire catches up to them too fast, and they're stuck in its path. The guys all begin to burn a circle and try and create an area with no brush around them, so when the fire comes, it won't pick up when it gets to them. They all deploy their safety covers and all lay down as the fire gets ready to sweep over them. As they're under their covers, Eric remembers the bear on fire running towards him. The fire sweeps over them. Brendan is listening on the radio and finds out that all 19 of his crew members are burned to death. They pan back to Eric's house where Amanda is in a barn and begins to scream after hearing the news.She and all the other wives and families gather at a Junior high school cafeteria waiting to get official news about the guys. They are told there's one survivor, but they don't know who. Brendan walks in the gym, and when the wives see him, they all start crying because they know their husbands are dead. Brendan walks out, and Amanda chases him and tells him she's happy he survived, and he shouldn't feel guilty.The ending credits show all the pictures of the 19 who died, and we're told it was the largest single loss of firefighter life in the US since 9/11.",
+  "imdb_score": 7.6
+}

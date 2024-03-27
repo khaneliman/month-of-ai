@@ -1,0 +1,656 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/q4ISn9yyC5OnLT9ESkExHjBuK8d.jpg",
+  "id": 68734,
+  "title": "Argo",
+  "poster_path": "https://image.tmdb.org/t/p/w500/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+  "release_date": "2012-10-11",
+  "vote_average": 7.277,
+  "vote_count": 7927,
+  "popularity": 31.149,
+  "overview": "As the Iranian revolution reaches a boiling point, a CIA 'exfiltration' specialist concocts a risky plan to free six Americans who have found shelter at the home of the Canadian ambassador.",
+  "imdb_id": "tt1024648",
+  "budget": 44500000,
+  "homepage": "http://argothemovie.warnerbros.com/",
+  "revenue": 232300000,
+  "runtime": 120,
+  "tagline": "The movie was fake. The mission was real.",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    "GK Films",
+    "Warner Bros. Pictures",
+    "Smoke House Pictures"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Ben Affleck",
+        "character": "Tony Mendez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+      },
+      {
+        "name": "Bryan Cranston",
+        "character": "Jack O'Donnell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg"
+      },
+      {
+        "name": "Alan Arkin",
+        "character": "Lester Siegel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lTMMpkqL0G3WeFNfbtdP5COZEiX.jpg"
+      },
+      {
+        "name": "Scoot McNairy",
+        "character": "Joe Stafford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oP2LJEqupxVZ2XdEW1lN5Q5LF3M.jpg"
+      },
+      {
+        "name": "John Goodman",
+        "character": "John Chambers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+      },
+      {
+        "name": "Victor Garber",
+        "character": "Ken Taylor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v0xcGF04VgjX0LxQFUyAH8hY9l.jpg"
+      },
+      {
+        "name": "Tate Donovan",
+        "character": "Bob Anders",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uYgYbd842mtRY66Ehw441aKkOC5.jpg"
+      },
+      {
+        "name": "Christopher Denham",
+        "character": "Mark Lijek",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ffPY0KrV5KP9Nuv27m3JQU6j3Tq.jpg"
+      },
+      {
+        "name": "Clea DuVall",
+        "character": "Cora Lijek",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yueygn1Lmmni7EaMQD9LslexDlu.jpg"
+      },
+      {
+        "name": "Kerry Bishé",
+        "character": "Kathy Stafford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2bUBBFrTgHxAhLS5OxutSrrTPja.jpg"
+      },
+      {
+        "name": "Rory Cochrane",
+        "character": "Lee Schatz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yBwm1RI4QCRXM0vkkDGVqdoiZLH.jpg"
+      },
+      {
+        "name": "Farshad Farahat",
+        "character": "Azizi Checkpoint #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mgDjX6vMaVTgYqyGH5Ge78YGiIv.jpg"
+      },
+      {
+        "name": "Kyle Chandler",
+        "character": "Hamilton Jordan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ogmGlJKxRs1nZ8BD2bH4sAP4ws6.jpg"
+      },
+      {
+        "name": "Chris Messina",
+        "character": "Malinov",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l9DbQTK5pI6SOGpmfbADGLhdOYS.jpg"
+      },
+      {
+        "name": "Zeljko Ivanek",
+        "character": "Robert Pender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xLv19n8UvGJLxI7Z6RIv9eNXGmf.jpg"
+      },
+      {
+        "name": "Titus Welliver",
+        "character": "Bates",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3hTwn7Maktr6ONq1VvfqyRacjiv.jpg"
+      },
+      {
+        "name": "Keith Szarabajka",
+        "character": "Adam Engell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/drXhJoVUmm352h4G1QWnvHZgudT.jpg"
+      },
+      {
+        "name": "Bob Gunton",
+        "character": "Cyrus Vance",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rr2KDCKK4t0f5YhZibCpLCAsJxc.jpg"
+      },
+      {
+        "name": "Richard Kind",
+        "character": "Max Klein",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qg60uiHnDP4b2pVgdFtRhGlxtq.jpg"
+      },
+      {
+        "name": "Richard Dillane",
+        "character": "OSS Officer Nicholls",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4DVdlTFkhPlERFyFoeH6UoXb2un.jpg"
+      },
+      {
+        "name": "Omid Abtahi",
+        "character": "Reza Borhani",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d4Itot5Khq2tIU2KKL3jFGBBACL.jpg"
+      },
+      {
+        "name": "Page Leong",
+        "character": "Pat Taylor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wmlArVTEyC8v2SN24I1pNMtELpn.jpg"
+      },
+      {
+        "name": "Sheila Vand",
+        "character": "Sahar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zJ527qgVYG8pJ7JEUmTPq57ueYD.jpg"
+      },
+      {
+        "name": "Karina Logue",
+        "character": "Elizabeth Ann Swift",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vDfbqhRUqB7xDDbZ3yhUbAhjiiB.jpg"
+      },
+      {
+        "name": "Ryan Ahern",
+        "character": "Sgt. Sickmann",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3ggSi62hsL42iBSlUyLHsDr6F8K.jpg"
+      },
+      {
+        "name": "Bill Tangradi",
+        "character": "Alan B. Golacinski",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2LVS3gD5iAFqe2O6HvGojevQxmO.jpg"
+      },
+      {
+        "name": "Jamie McShane",
+        "character": "William J. Daugherty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wojvRZMpAwytyoFTMFOpvZ26qJq.jpg"
+      },
+      {
+        "name": "Matthew Glave",
+        "character": "Col. Charles W. Scott",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eOKxqa7tMNpehJarcLEgen0rwvA.jpg"
+      },
+      {
+        "name": "Roberto Garcia",
+        "character": "Sgt. William Gallegos",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fmLOhQuCI2qxmfCDAw0F7DRAtiv.jpg"
+      },
+      {
+        "name": "Christopher Stanley",
+        "character": "Thomas L. Ahern, Jr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wlxO1LFX092dzV1WbeZy1ChHTrY.jpg"
+      },
+      {
+        "name": "Jon Woodward Kirby",
+        "character": "Fred Kupke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rrvuOg7zwbQInxQIjidWhYmnmti.jpg"
+      },
+      {
+        "name": "Alborz Basiratmand",
+        "character": "Student with Poster",
+        "profile_path": ""
+      },
+      {
+        "name": "Ruty Rutenberg",
+        "character": "Marine #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/62n9lBi86hsX7ZAXA0cCQM6nx3l.jpg"
+      },
+      {
+        "name": "Michael Woolston",
+        "character": "Marine #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Sharareh Sedghi",
+        "character": "Lady with Radio",
+        "profile_path": ""
+      },
+      {
+        "name": "Bobby Zegar",
+        "character": "Tear Gas Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8BjW3yjg2nQq3JhJVtbnCSYax4F.jpg"
+      },
+      {
+        "name": "Victor McCay",
+        "character": "Malick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5K8BfMu5WFZ64slood7Pia5t1QS.jpg"
+      },
+      {
+        "name": "Matt Nolan",
+        "character": "Peter Genco",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cph12yf1h82tucawsqo8wIIlivb.jpg"
+      },
+      {
+        "name": "J.R. Cacia",
+        "character": "Brice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6GgUgsHfg1uzJu2VyA7k8rKrZNe.jpg"
+      },
+      {
+        "name": "Bill Kalmenson",
+        "character": "Hal Saunders",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oxiwLtPqMle4wgNmgVvst7hXNVu.jpg"
+      },
+      {
+        "name": "Rob Brownstein",
+        "character": "Landon Butler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sk9VcGhw7XenZMJTNi9l8nI1v6o.jpg"
+      },
+      {
+        "name": "David Sullivan",
+        "character": "Jon Titterton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vUdSFwbtQJnmvdXgUKq7O6M1FoU.jpg"
+      },
+      {
+        "name": "Jean Carol",
+        "character": "Jordan's Secretary",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Cassidy",
+        "character": "Jordan's Analyst",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fZCDSWnHabiv2eP05cvpahYejCb.jpg"
+      },
+      {
+        "name": "John Boyd",
+        "character": "Lamont",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oHgkm4VtuG1kFNqRCqPd5pKKMd0.jpg"
+      },
+      {
+        "name": "Yuriy Sardarov",
+        "character": "Rossi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uz2rEOGImoLa4WWroGTHpNriuoZ.jpg"
+      },
+      {
+        "name": "Nikka Far",
+        "character": "Tehran Mary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yI4niGcjyhghFqxjOlAJyA4dDL8.jpg"
+      },
+      {
+        "name": "Aidan Sussman",
+        "character": "Ian Mendez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pjkV1S0eHQuy6kPB0Fx2VXUjLXd.jpg"
+      },
+      {
+        "name": "Barry Livingston",
+        "character": "David Marmor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6EIVcfvEUv4LLItoIrGzCM2QQnS.jpg"
+      },
+      {
+        "name": "Ali Saam",
+        "character": "Ali Khalkhali",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wD8tgwwqVsz4Q9pWZqZGJYptXJp.jpg"
+      },
+      {
+        "name": "Araz Vahid Ebrahim Nia",
+        "character": "Moradi",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Anthony Leet",
+        "character": "The Minotaur",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2k8FvaDHJ6xgcDJlBeMOJdPXbpL.jpg"
+      },
+      {
+        "name": "Ashley Wood",
+        "character": "Space Lab Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7uZkfAhxHEctwH0vnDU24kGisSR.jpg"
+      },
+      {
+        "name": "Rob Tepper",
+        "character": "Film Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2f2LzAmRUvhWESM1EoBKLpMv2Vu.jpg"
+      },
+      {
+        "name": "Ray Porter",
+        "character": "First A.D.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AsTrRNAZzYYF0nYkZzGiO0kAGbr.jpg"
+      },
+      {
+        "name": "Stephen J. Lattanzi",
+        "character": "PA",
+        "profile_path": ""
+      },
+      {
+        "name": "Danielle Barbosa",
+        "character": "Lester's Housekeeper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xBOD1njLMY5IzriMpHQgxbZyHwe.jpg"
+      },
+      {
+        "name": "Michael Parks",
+        "character": "Jack Kirby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sXK8vnVNyYzJl2oE6lxKLtxG9px.jpg"
+      },
+      {
+        "name": "Eric Scott Cooper",
+        "character": "Publicist",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrienne Barbeau",
+        "character": "Nina / Serksi the Gallactic Witch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8uQqjG63SFCkmgdFB4SG8wRQmfp.jpg"
+      },
+      {
+        "name": "Tom Lenk",
+        "character": "Variety Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/59lM9QlilTu6Rq8pnh8IWsZjYlg.jpg"
+      },
+      {
+        "name": "Nelson Franklin",
+        "character": "LA Times Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2YYnTxpFmS5i9qRkb6H4Nxky2px.jpg"
+      },
+      {
+        "name": "Kelly Curran",
+        "character": "Princess Aleppa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uNDMS6M8Onjq9VkN7NwtbMzqt8p.jpg"
+      },
+      {
+        "name": "Mark Rhino Smith",
+        "character": "Evil Villain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cp06Vtw9yNgexpQVoHsoMJkTRlL.jpg"
+      },
+      {
+        "name": "Scott Elrod",
+        "character": "Achilles Crux",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3HakFxicl5jTNB9BPPQdfkQQO1O.jpg"
+      },
+      {
+        "name": "Bill Blair",
+        "character": "Humanoid Robot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5nkrXXt1ip7c9GXNXB9ITcSFot8.jpg"
+      },
+      {
+        "name": "Daston Kalili",
+        "character": "Green Jacket",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kPcyffHZuJ3whGGwDjWmVz7JNNg.jpg"
+      },
+      {
+        "name": "Joseph S. Griffo",
+        "character": "Nestor the Android",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ftQygyjVyzgDYbgj19b1TFfAuNG.jpg"
+      },
+      {
+        "name": "Andrew Varenhorst",
+        "character": "Blue Monster",
+        "profile_path": ""
+      },
+      {
+        "name": "Amitis Frances Ariano",
+        "character": "Persian Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ali Fiori",
+        "character": "Sci Fi Body Suit Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Taies Farzan",
+        "character": "Middle Class Iranian Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ko5Akpxtr08h78ijBERvgSBtiMN.jpg"
+      },
+      {
+        "name": "Florans Atlantis",
+        "character": "Middle Class Iranian Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Rafi Pitts",
+        "character": "Iranian Consulate Official",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bYpJRupTo0sSqkaXbkAr7nqSmKg.jpg"
+      },
+      {
+        "name": "Allegra Carpenter",
+        "character": "British Airways Flight Attendant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8qQVmMmy9IR5mVIiaswj4guULE.jpg"
+      },
+      {
+        "name": "Bobby Naderi",
+        "character": "Airport Husband",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kl8UjAeoj2ET20Udt8u9tgr5FAp.jpg"
+      },
+      {
+        "name": "Ray Haratian",
+        "character": "Immigration Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1DcOx50pdS1xgybHBiDNBpkRFkz.jpg"
+      },
+      {
+        "name": "Mehrdad Sarlak",
+        "character": "Immigration Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zggekZObxLVfHobW42t3vwN1kqF.jpg"
+      },
+      {
+        "name": "Soheil Tasbihchi",
+        "character": "Immigration Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Hovik Gharibian",
+        "character": "Immigration Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Dorianne Pahlavan",
+        "character": "Airport Hysterical Wife",
+        "profile_path": ""
+      },
+      {
+        "name": "Houshang Touzie",
+        "character": "Deputy Minister of Islamic Guidance",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lwN70IobyX02IspS4qITEwg6Gl9.jpg"
+      },
+      {
+        "name": "Peter Henry Schroeder",
+        "character": "Producer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eO31jV6XiV7ZTl1Kd8dbUtLEduN.jpg"
+      },
+      {
+        "name": "Ali Farkhonde",
+        "character": "Tehran Car Rental Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Sahm McGlynn",
+        "character": "Bearded Fundamentalist in Bazaar",
+        "profile_path": ""
+      },
+      {
+        "name": "Muhammed Cangören",
+        "character": "Bazaar Shopkeeper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pK9PVlpAGQyBRx1VTC42okBYiEx.jpg"
+      },
+      {
+        "name": "Asghar Allah Veirdi Zadeh",
+        "character": "Bazaar Angry Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Leyla Beysulen",
+        "character": "Angry Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Lindsey Ginter",
+        "character": "Hedley Donovan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wktPUBjRcOCTXZzXL4Rt9c1d9t7.jpg"
+      },
+      {
+        "name": "Tim Quill",
+        "character": "Alan Sosa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Sk5lE9QbJJPd1BY71LEUr7Ma7J.jpg"
+      },
+      {
+        "name": "Larry Sullivan",
+        "character": "Engell's Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oNYTlrHyNEF9Ls2BnwQ0cKSWpUJ.jpg"
+      },
+      {
+        "name": "Danilo Di Julio",
+        "character": "Sgt. Gauthier",
+        "profile_path": ""
+      },
+      {
+        "name": "Fanshen Cox",
+        "character": "White House Operator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ukJodtuRBp32B1qJmDPc6ElFZSy.jpg"
+      },
+      {
+        "name": "Tehmina Sunny",
+        "character": "Swissair Ticketing Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7VJetNzz5Sx5j2EDEjHqWHTUIdV.jpg"
+      },
+      {
+        "name": "Amir K",
+        "character": "Passport Official",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k6mXNpVsk77QsfGOCiBlUUuSlUV.jpg"
+      },
+      {
+        "name": "Baris Deli",
+        "character": "Carpet Factory Komiteh",
+        "profile_path": ""
+      },
+      {
+        "name": "Cas Anvar",
+        "character": "Revolutionary Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ohEulMvF1Ji2osI3aSBVGb5FFUb.jpg"
+      },
+      {
+        "name": "Bahram Khosraviani",
+        "character": "Revolutionary Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ovB4frVAzqkGm7QZvMAVIkTUmlj.jpg"
+      },
+      {
+        "name": "Sam Sheikholeslami",
+        "character": "Revolutionary Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Saba Sarem",
+        "character": "Revolutionary Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Puya Abbassi",
+        "character": "Revolutionary Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Reza Mir",
+        "character": "Komiteh Reza",
+        "profile_path": ""
+      },
+      {
+        "name": "Jozef Fahey",
+        "character": "Lock Up PA",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5rMKg5r8h7a9PzAMmErDb63sssT.jpg"
+      },
+      {
+        "name": "Annie Little",
+        "character": "Swissair Gate Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cDOOOMjGBONHVdJCQAdGr8f8cEt.jpg"
+      },
+      {
+        "name": "Fahim Fazli",
+        "character": "Komiteh Subordinate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hNjSzr3quACIMwotRaRM2yKi9fU.jpg"
+      },
+      {
+        "name": "Brandon Tabassi",
+        "character": "Young Komiteh at Airport",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cuR3Q9RPzRtel1zntNz3gKuvFJm.jpg"
+      },
+      {
+        "name": "John Hans Tester",
+        "character": "Swissair Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pxObIGG5w4kfxr9uV7NT4Rau3zb.jpg"
+      },
+      {
+        "name": "Alex Schemmer",
+        "character": "Swissair Co-Pilot",
+        "profile_path": ""
+      },
+      {
+        "name": "Yan Feldman",
+        "character": "Air Traffic Controller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3TYYAhygdfsoCOx1TEqYCuAg4G2.jpg"
+      },
+      {
+        "name": "Nancy Stelle",
+        "character": "Swissair Flight Attendant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/29H6uvQVGLy84wr9R7ClDqGT7rK.jpg"
+      },
+      {
+        "name": "Maz Siam",
+        "character": "Iraqi Border Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kCqVsaa6NvfIiHgUmhb3M74TB3n.jpg"
+      },
+      {
+        "name": "Ken Edling",
+        "character": "Assistant Secretary of State",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g8JAXalEHsaZQ8r8hGyFkBIYXH8.jpg"
+      },
+      {
+        "name": "Deborah Deimel Bean",
+        "character": "State Department Official",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Chieffo",
+        "character": "CIA Archives Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zKRG5CKvP861Gec5jDfmfBkGNfV.jpg"
+      },
+      {
+        "name": "Taylor Schilling",
+        "character": "Christine Mendez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lu34rpFsQcd901Cv9nRSrU5thvo.jpg"
+      },
+      {
+        "name": "Philip Baker Hall",
+        "character": "CIA Director Stansfield Turner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mC1wmuGSCyIQ7ABkfRe1jJV1FGV.jpg"
+      },
+      {
+        "name": "Eli Jane",
+        "character": "Swissair Stewardess (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/93ucpvgTM54djKCJcGuRXLbFzDM.jpg"
+      },
+      {
+        "name": "Lucas N. Hall",
+        "character": "Protestor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h5nm3zQHAzQRTQQPFos7K7dCCDd.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Ben Affleck",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "cia",
+    "husband wife relationship",
+    "revolution",
+    "press conference",
+    "biography",
+    "american abroad",
+    "extraction",
+    "iran hostage crisis",
+    "intelligence agent",
+    "langley virginia",
+    "1980s",
+    "political thriller"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1979.",
+    "After Iranian militants stormed and took control of the U.S. Embassy in Tehran in November 1979 taking 56 Americans as hostages, six Americans managed to get away and took refuge in the home of Canadian Ambassador Ken Taylor. After two months of the Canadians putting their lives on the line everyday, the CIA and the US State Department try to come up with a plan to get their people out. Tony Mendez is an \"ex filtration\" specialist who proposes that they pose as a Canadian film crew scouting locations for a science fiction movie called Argo. Using Hollywood connections, Mendez creates a back story for the movie - ads in Variety, casting calls, inviting he media to a production launch - and then heads off to Iran to lead the six Americans out.—garykmcd",
+    "In late 1979, anti-American sentiments are running high in Iran due to the US harboring the ailing former Shah of Iran, who the US put into place in the 1950s, and who many Iranians saw as causing much hardship and death for residents over his close to thirty year reign, solely for his and his family's own benefit. In November, Iranian militants, working under the name of its new leader, the Ayatollah Khomeini, are able to break through the secured perimeter of the US Embassy in Tehran. The fifty plus embassy staff are able to burn or shred most of their documents before they are taken hostage. What the Iranians are unaware of is that six embassy staff members escaped just prior to the raid, and managed to take refuge in the home of the Canadian ambassador, Ken Taylor, and his wife, Pat. Fast forward two months... The situation has not changed, and the State Department has brought in the services of the CIA, both to free the hostages and extricate the six in hiding. Tony Mendez with the CIA is the lead consultant on the six. Although many, in his mind, implausible plans are hatched to extricate the six, Tony eventually comes up with what some others believe is an implausible plan: have the six, under Canadian passports, pretend to be a film crew in Iran scouting for locations, with Tony part of that film crew to lead the six out himself. On the advice of Tony's Hollywood advisors, make-up artist John Chambers and producer Lester Siegel, Tony's plan not only has to fool the Iranians to work, it has to fool the entire world, who need to believe that this film is actually in pre-production. Beyond the need to get past the militants, especially at Tehran Airport where they are vigilant about capturing any Americans trying to escape, the plan has many obstacles to success, including: the six, who need to get up to speed basically overnight on their cover stories, some who predetermine certain failure, which if does happen means torturous death; competing priorities in Washington between the six and the fifty plus hostages; the Taylors' Iranian housekeeper, Sahar, who comes to the realization that the Taylors' supposed Canadian house guests are not who they say they are; and a mug shot book of embassy staff among the shredded materials, which Iranian sweat shop workers are tasked with putting back together, and which if achieved would identify the fact that the militants are minus six people from among their hostages.—Huggo",
+    "In 1979, the Islamic Revolution overthrows the dictator Shah Mohammad Reza Pahlavi, who came to power sponsored by the United States government, and the leader of the revolution, Ayatollah Ruhollah Khomeini, assumes the power. The Iranian revolutionaries invade the American Embassy in Tehran and the American officials are taken hostages. However, six officials flee from the Embassy and are secretly hosted by the Canadian Ambassador at his residence in Tehran and the CIA directors summon the agent Tony Mendez, who is an expert in bringing American citizens back to their country, to plot a rescue plan to save the group. Tony Mendez plots the most incredible plan to bring the six officials: to create a fake Canadian film to be shot in Iran and include the officials in the production crew. Without other alternative, Tony Mendez receives green light from his superiors and travels to Hollywood to set in motion his almost impossible mission to rescue the group.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "November 4, 1979. In retaliation for Jimmy Carter granting Shah Mohammad Reza Pahlavi asylum in the United States, an angry mob of Iranian militants, supporters of the new leader Ayatollah Khomeini, stormed the U.S. embassy in Tehran, taking 52 Americans hostage. As six escapees get trapped in the home of Canadian ambassador Ken Taylor, ex-filtration expert Tony Mendez devises an impossible plan: pose as members of a Canadian film crew scouting for shooting locations for Argo, their latest science-fiction movie. With the aid of Hollywood veterans, make-up artist John Chambers and producer Lester Siegel, Mendez embarks on a dangerous mission to create the perfect illusion and sneak the team out in broad daylight. But there's no such thing as a foolproof plan. Can they do the impossible in Operation Argo?—Nick Riganas"
+  ],
+  "synopsis": "Iran was earlier the kingdom of Persia. In early 20th century democracy came in the form of a reformist prime minister who nationalized Iran's oil assets & gave the wealth back to the people. The CIA engineered a coup & installed the Shah of Iran in power. The Shah was known for opulence & waste. His wife would bathe in milk & his lunches would be flown in from Paris in Concorde. IN 1979 the people of Iran up-rose in retaliation & deposed the Shah. The country was taken over by the Iranian religious leader Ayatollah Khamenei, who had just returned from exile.Militants storm the United States embassy in Tehran on November 4, 1979, in retaliation for the US sheltering the recently deposed Shah. More than 50 of the embassy staff are taken as hostages, but six escape and hide in the home of the Canadian ambassador Ken Taylor (Victor Garber). With the escapees' situation kept secret, the US State Department begins to explore options for \"exfiltrating\" them from Iran. Tony Mendez (Ben Affleck), a CIA ex-filtration specialist brought in for consultation, criticizes the proposals. He too is at a loss for an alternative until, inspired by watching Battle for the Planet of the Apes on the phone with his son, he plans to create a cover story that the escapees are Canadian filmmakers, scouting \"exotic\" locations in Iran for a similar sci-fi film.Mendez and his supervisor Jack O'Donnell (Bryan Cranston) contact John Chambers (John Goodman), a Hollywood make-up artist who has previously crafted disguises for the CIA. Chambers puts them in touch with film producer Lester Siegel (Alan Arkin). Together they set up a phony film studio, publicize their plans, and successfully establish the pretense of developing Argo, a \"science fantasy\" in the style of Star Wars, to lend credibility to the cover story. Meanwhile, the escapees grow frantic inside the ambassador's residence. The revolutionaries reassemble embassy papers shredded before the takeover and learn that some personnel have escaped.Posing as a producer for Argo, Mendez enters Iran and links up with the six escapees. He provides them with Canadian passports and fake identities to prepare them to get through security at the airport. Although afraid to trust Mendez's scheme, they reluctantly go along with it, knowing that he is risking his own life too. A \"scouting\" visits to the bazaar to maintain their cover story takes a bad turn, but their Iranian culture contact gets them away from the hostile crowd.Mendez is told that the operation has been canceled to avoid conflicting with a planned military rescue of the hostages. He pushes ahead, forcing O'Donnell to hastily re-obtain authorization for the mission to get tickets on a Swissair flight. Tension rises at the airport, where the escapees' flight reservations are confirmed at the last minute, and a guard's call to the supposed studio in Hollywood is answered at the last second. The group boards the plane just as the Iranian guards uncover the ruse and try to stop their plane from getting off the runway, but they are too late, as Mendez and the six successfully leave Iran.To protect the hostages remaining in Tehran from retaliation, all US involvement in the rescue is suppressed, giving full credit to the Canadian government and its ambassador (who left Iran with his wife under their own credentials as the operation was underway; their Iranian housekeeper, who had known about the Americans and lied to the revolutionaries to protect them, escaped to Iraq). Mendez is awarded the Intelligence Star, but due to the classified nature of the mission, he would not be able to keep the medal until the details were made public in 1997. All the hostages were freed on January 20, 1981. The film ends with President Jimmy Carter's speech about the Crisis and the Canadian Caper.",
+  "imdb_score": 7.7
+}

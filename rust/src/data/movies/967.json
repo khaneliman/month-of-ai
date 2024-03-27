@@ -1,0 +1,654 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/9caD0fGCrp96JTFFeGyI0CGNj7.jpg",
+  "id": 967,
+  "title": "Spartacus",
+  "poster_path": "https://image.tmdb.org/t/p/w500/xLPpQlFWE12cbqNJQ5Vf4eJU8ij.jpg",
+  "release_date": "1960-10-13",
+  "vote_average": 7.546,
+  "vote_count": 2008,
+  "popularity": 51.078,
+  "overview": "The rebellious Thracian Spartacus, born and raised a slave, is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes.",
+  "imdb_id": "tt0054331",
+  "budget": 12000000,
+  "homepage": "",
+  "revenue": 60000000,
+  "runtime": 197,
+  "tagline": "They trained him to kill for their pleasure ... but they trained him a little too well",
+  "genres": [
+    "History",
+    "War",
+    "Drama",
+    "Adventure"
+  ],
+  "production_companies": [
+    "Bryna Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Kirk Douglas",
+        "character": "Spartacus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yvunzQgnILw6uNBFMyld5nhkBCX.jpg"
+      },
+      {
+        "name": "Laurence Olivier",
+        "character": "Marcus Licinius Crassus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kziWbtgEJB0dFZA6kPyzoaYEyQ5.jpg"
+      },
+      {
+        "name": "Jean Simmons",
+        "character": "Varinia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iCF8imUDR2jzQtg8SlD7ca9wOu3.jpg"
+      },
+      {
+        "name": "Charles Laughton",
+        "character": "Sempronius Gracchus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lhk6flmWDZMOLwq8VILMD6jH71F.jpg"
+      },
+      {
+        "name": "Peter Ustinov",
+        "character": "Lentulus Batiatus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lt80nl9di0t2E1G5JcGN32kbyzn.jpg"
+      },
+      {
+        "name": "John Gavin",
+        "character": "Julius Caesar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n8vlG1PRtNzv6vlwjTNK7UnoKr0.jpg"
+      },
+      {
+        "name": "Tony Curtis",
+        "character": "Antoninus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Pj1XkYdI5Wc40Jl0UxJk8PPwlY.jpg"
+      },
+      {
+        "name": "Nina Foch",
+        "character": "Helena Glabrus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zkSVQYtUBFKpoBXCyIA0dW8N5Tj.jpg"
+      },
+      {
+        "name": "John Ireland",
+        "character": "Crixus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bvwphkKbqBzAYopNBTdzrbkPRmF.jpg"
+      },
+      {
+        "name": "Herbert Lom",
+        "character": "Tigranes Levantus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1sqfpn8EzsCgQdwmB8NP4bLWYlP.jpg"
+      },
+      {
+        "name": "John Dall",
+        "character": "Marcus Publius Glabrus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p3oAurWYeiIvfgA2xfcIpUdPIdJ.jpg"
+      },
+      {
+        "name": "Woody Strode",
+        "character": "Draba",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bQODvxboGerJXrl7ypgM5UqjhZt.jpg"
+      },
+      {
+        "name": "Harold J. Stone",
+        "character": "David",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uMigCHh4dNbXvMsj6ZWfQS89TEL.jpg"
+      },
+      {
+        "name": "Charles McGraw",
+        "character": "Marcellus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ufUi3tG67j3WWWnMvbl2x8cDryU.jpg"
+      },
+      {
+        "name": "Joanna Barnes",
+        "character": "Claudia Marius",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9wGu4Dg1L5dDFPAjjk8CoA8xjN4.jpg"
+      },
+      {
+        "name": "Peter Brocco",
+        "character": "Ramon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bccBYzoHqh9lpgWNbsUenbQSBQT.jpg"
+      },
+      {
+        "name": "Paul Lambert",
+        "character": "Gannicus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9hME9blSiEFNylgWa3YorFMAixx.jpg"
+      },
+      {
+        "name": "Robert J. Wilke",
+        "character": "Guard captain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/voEW3MGhV6wLjWSGO3TsWqYSMdi.jpg"
+      },
+      {
+        "name": "Nick Dennis",
+        "character": "Dionysius",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mcNrNUkrdqQWjPR5pXIZknDekR9.jpg"
+      },
+      {
+        "name": "John Hoyt",
+        "character": "Caius",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rtm0wKVwtsn8dyBHPQB9jWlSIcT.jpg"
+      },
+      {
+        "name": "Frederick Worlock",
+        "character": "Laelius",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8i21iKKMvqDxxqzYT1MW06FOAJ4.jpg"
+      },
+      {
+        "name": "Paul Baxley",
+        "character": "Gladiator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kC8hQ9WQLCstzO2dhWzDLx0Ce7e.jpg"
+      },
+      {
+        "name": "Louie Elias",
+        "character": "Gladiator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tpSqJ1rUde9WY4qMQHxWukdizxT.jpg"
+      },
+      {
+        "name": "Brad Harris",
+        "character": "Gladiator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e0Y3MPTs6vGDld8VxQ4mZ7LyFJG.jpg"
+      },
+      {
+        "name": "Hubie Kerns",
+        "character": "Gladiator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gordon Mitchell",
+        "character": "Gladiator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6rwemb9GbwdUOXqH3yrkgWVykS7.jpg"
+      },
+      {
+        "name": "Regis Parton",
+        "character": "Gladiator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Paul",
+        "character": "Gladiator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Perkins",
+        "character": "Gladiator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jR5u6nXZeTVUdvY4p5Q9qbXiufm.jpg"
+      },
+      {
+        "name": "Wally Rose",
+        "character": "Gladiator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Aaron Saxon",
+        "character": "Gladiator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Steele",
+        "character": "Gladiator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ktXhsIRkyQoXPDylPsNj65iAYFr.jpg"
+      },
+      {
+        "name": "Jerry Summers",
+        "character": "Gladiator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Shari Lee Bernath",
+        "character": "Little Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8EFJiHLwdEJ1XAW3fDOjRhb5rSW.jpg"
+      },
+      {
+        "name": "Bill Blackburn",
+        "character": "Prisoner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cyhZXGIBNAeaMCd45iquiLVLoSC.jpg"
+      },
+      {
+        "name": "David Bond",
+        "character": "Slave (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qezMZXV8X5286gQJa88gzWO7xmL.jpg"
+      },
+      {
+        "name": "Polly Burson",
+        "character": "Slave (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/twMBIpUrPD1btes3vb4RcSRGG1q.jpg"
+      },
+      {
+        "name": "Carol Daniels",
+        "character": "Slave Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lila Finn",
+        "character": "Slave (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Harold Goodwin",
+        "character": "Slave (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iBjhsEdnsSs9Ll14rgKrSl33iff.jpg"
+      },
+      {
+        "name": "Sol Gorss",
+        "character": "Slave Leader (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Betty Harford",
+        "character": "Slave (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i3QIAncboTTNt59CZNqJ2mYJA8E.jpg"
+      },
+      {
+        "name": "Harry Harvey Jr.",
+        "character": "Slave (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Wayne Heffley",
+        "character": "Slave Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eXWvzMnxdxUVKNjmRmkZks2mW4O.jpg"
+      },
+      {
+        "name": "Lars Hensen",
+        "character": "Slave (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Horvath",
+        "character": "Slave Leader (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4RvtjCJa4v7TZl2k8te50csqttw.jpg"
+      },
+      {
+        "name": "Shep Houghton",
+        "character": "Slave (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ecu2vbnOuM9WQfc2HtijJe1vxEZ.jpg"
+      },
+      {
+        "name": "Pete Kellett",
+        "character": "Slave (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joan McKellen",
+        "character": "Slave (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eddie Parker",
+        "character": "Slave (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3bYBqTSjA1P1VayVMF2a90FmD8T.jpg"
+      },
+      {
+        "name": "Gil Perkins",
+        "character": "Slave Leader (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chuck Roberson",
+        "character": "Slave (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d61PgertplWQ4oi5eEFDE4dOX5T.jpg"
+      },
+      {
+        "name": "Frosty Royce",
+        "character": "Slave (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Autumn Russell",
+        "character": "Slave Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kay Stewart",
+        "character": "Slave (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bQvRplIryTHfXS3T9PIw37yZRFt.jpg"
+      },
+      {
+        "name": "Kay Stewart",
+        "character": "Slave Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bQvRplIryTHfXS3T9PIw37yZRFt.jpg"
+      },
+      {
+        "name": "Helen Thurston",
+        "character": "Slave (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Louise Vincent",
+        "character": "Slave at Gracchus' Home (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ghMHfoWSQKyez7JzpgSiWriByKx.jpg"
+      },
+      {
+        "name": "Joe Canutt",
+        "character": "Soldier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Catching",
+        "character": "Soldier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chuck Courtney",
+        "character": "Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4mmxmvYqke9EXxiRuV2TJn2QJGd.jpg"
+      },
+      {
+        "name": "Chuck Hayward",
+        "character": "Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Akk0i7GTJi7ViWAqt00sMZQfGo.jpg"
+      },
+      {
+        "name": "Robert F. Hoy",
+        "character": "Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/68cWWfghRMCbqTbOPr3R5kf2SZr.jpg"
+      },
+      {
+        "name": "Valley Keene",
+        "character": "Soldier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Cliff Lyons",
+        "character": "Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pIY0P7eeSGtPcsdRM4YAqT4VEvj.jpg"
+      },
+      {
+        "name": "Bill Raisch",
+        "character": "Soldier Whose Arm is Hacked Off (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Buddy Van Horn",
+        "character": "Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Amf7mRVil2BCthpPJevFNgeLOg0.jpg"
+      },
+      {
+        "name": "Jack Williams",
+        "character": "Soldier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul E. Burns",
+        "character": "Fimbria (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7jd7ECKYKGrINqSrhM3u1mD8xaT.jpg"
+      },
+      {
+        "name": "Wayne Burson",
+        "character": "Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dick Crockett",
+        "character": "Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Daheim",
+        "character": "Capua Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Carey Loftin",
+        "character": "Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wpQnSduMm2iCtVrNT9kHo8c8aMH.jpg"
+      },
+      {
+        "name": "Harvey Parry",
+        "character": "Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ISf5pLiUZmL4TTm7LiTpnpToy0.jpg"
+      },
+      {
+        "name": "Ronnie Rondell Jr.",
+        "character": "Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Don Turner",
+        "character": "Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Virgo",
+        "character": "Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ucbaA3ETsdZvDOmkF85WPfQXeX.jpg"
+      },
+      {
+        "name": "Fred Zendar",
+        "character": "Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ted de Corsia",
+        "character": "Legionnaire (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o3gh6BOXOjrRDXBND1mmeif9nlo.jpg"
+      },
+      {
+        "name": "Terence de Marney",
+        "character": "Majordomo (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nNNrfvm22nbAizT0hodwW5J8O4a.jpg"
+      },
+      {
+        "name": "Johnny Duncan",
+        "character": "Beheaded Man (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qiIHMG2rIzSshPFvVgLwXaRQ1nw.jpg"
+      },
+      {
+        "name": "Roy Engel",
+        "character": "Roman Businessman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i5AvkOVO5LhU8JNjWO6BAg9CowG.jpg"
+      },
+      {
+        "name": "Paul Keast",
+        "character": "Roman Businessman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kenner G. Kemp",
+        "character": "Roman Senator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mz41FbZ3IlzpcLBI0IxjS3Jr1lB.jpg"
+      },
+      {
+        "name": "Paul Kruger",
+        "character": "Roman Senator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kWlFmR3LemW3NWe2Lt06EDZSFwy.jpg"
+      },
+      {
+        "name": "Otto Malde",
+        "character": "Roman General (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Seaton",
+        "character": "Roman Senator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/17szXtRhSUmdYCivNTtlFPNwQh6.jpg"
+      },
+      {
+        "name": "Richard Farnsworth",
+        "character": "Salt Mine Slave / Gladiator / Slave General (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b2seGvGkNgjU2ki2kN6HQ8nNqgS.jpg"
+      },
+      {
+        "name": "Logan Field",
+        "character": "Centurion (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Stephenson",
+        "character": "Centurion (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2WWZ5IAdGNlsCAcw8CefvsBeo9i.jpg"
+      },
+      {
+        "name": "Robert Fuller",
+        "character": "Extra (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pDrDechryrHA4nBXBYgOlJoq4S3.jpg"
+      },
+      {
+        "name": "Jeanne Gerson",
+        "character": "Woman Selling Chestnuts (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p4Zjmpv9myxvTYjZVRVjnjHX4cx.jpg"
+      },
+      {
+        "name": "Seamon Glass",
+        "character": "Pirate (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yt1rPrkUwqI45BljCsY9oshWlUi.jpg"
+      },
+      {
+        "name": "Preston Peterson",
+        "character": "Pirate (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "George Robotham",
+        "character": "Pirate (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "James Griffith",
+        "character": "Otho (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4PGoicMB1RwwHNezl3049PWUgl0.jpg"
+      },
+      {
+        "name": "Jack Grinnage",
+        "character": "Petitioner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s2iMLwqgz717VQQTb46hF6GO21j.jpg"
+      },
+      {
+        "name": "Anthony Jochim",
+        "character": "Petitioner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kOQjP0t42izw471R6vPep4EwwNe.jpg"
+      },
+      {
+        "name": "Joe Haworth",
+        "character": "Marius (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p1khkDcEnfAxJebs3G8efnHUJVN.jpg"
+      },
+      {
+        "name": "Vinton Hayworth",
+        "character": "Metallius (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mx3JgPmQQeK8hcCc6LtuFYQGiaB.jpg"
+      },
+      {
+        "name": "Loren Janes",
+        "character": "Salt Mine Slave / Gladiator / Slave General (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vEZ5Wt10rP9culxXjXUBagIfNGU.jpg"
+      },
+      {
+        "name": "Jil Jarmyn",
+        "character": "Julia (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1tELh5Q6Jrlo8BWQGrMlyUqwtUT.jpg"
+      },
+      {
+        "name": "Aron Kincaid",
+        "character": "Crassus' Standard-Bearer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fJvauDDRkbaRlchLqZp4JOFag1T.jpg"
+      },
+      {
+        "name": "Dayton Lummis",
+        "character": "Symmachus (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob Morgan",
+        "character": "Galeno (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s2DdFhfiwXaW91jcIWp2FVY7Pxc.jpg"
+      },
+      {
+        "name": "Tracy Olsen",
+        "character": "Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/okMGDKXx0e354JSSRD5sBoF9lnS.jpg"
+      },
+      {
+        "name": "Leonard Penn",
+        "character": "Garrison Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5JwasLwIiLZIIw64a65v8JkOZiI.jpg"
+      },
+      {
+        "name": "Vic Perrin",
+        "character": "Narrator (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mPUVJVcoGcO59gwPTxeIl76AAFZ.jpg"
+      },
+      {
+        "name": "Larry Thor",
+        "character": "Staff Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5FOhbhfAZklSb5o2Ghe0cz9Cm7Q.jpg"
+      },
+      {
+        "name": "Dale Van Sickel",
+        "character": "Trainer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/diCCqzyD7RcMWgCnQYjtwE5ORcs.jpg"
+      },
+      {
+        "name": "Carleton Young",
+        "character": "Herald (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9J6Ab8fV0UDH04mMCfDeVEfgpJA.jpg"
+      },
+      {
+        "name": "Duke Fishman",
+        "character": "Roman Senator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Stevenson",
+        "character": "Legionnaire (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Barton",
+        "character": "Slave (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jerry Brown",
+        "character": "Soldier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Benson",
+        "character": "Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5SzKxo6vJPGafmpngRbDJo5zccR.jpg"
+      },
+      {
+        "name": "Arthur Batanides",
+        "character": "Legionnaire (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a6TbuQQ6wRr9Huh7FUaKC1MLgGn.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Stanley Kubrick",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "epic",
+    "gladiator",
+    "roman empire",
+    "gladiator fight",
+    "slavery",
+    "insurgence",
+    "ancient rome",
+    "gay interest",
+    "historical fiction",
+    "torture",
+    "ancient world",
+    "slave",
+    "technicolor",
+    "criterion",
+    "escaped slave",
+    "1st century"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "The slave Spartacus survives brutal training as a gladiator and leads a violent revolt against the decadent Roman Republic, as the ambitious Crassus seeks to gain power by crushing the uprising.",
+    "In 73 B.C., a Thracian slave leads a revolt at a gladiatorial school run by Lentulus Batiatus (Sir Peter Ustinov). The uprising soon spreads across the Italian Peninsula involving thousand of slaves. The plan is to acquire sufficient funds to acquire ships from Silesian pirates who could then transport them to other lands from Brandisium in the south. The Roman Senator Gracchus (Charles Laughton) schemes to have Marcus Publius Glabrus (John Dall), Commander of the garrison of Rome, lead an army against the slaves who are living on Vesuvius. When Glabrus is defeated his mentor, Senator and General Marcus Licinius Crassus (Sir Laurence Olivier) is greatly embarrassed and leads his own army against the slaves. Spartacus and the thousands of freed slaves successfully make their way to Brandisium only to find that the Silesians have abandoned them. They then turn north and must face the might of Rome.—garykmcd",
+    "Spartacus (Kirk Douglas) is a rebellious slave purchased by Lentulus Batiatus (Sir Peter Ustinov), owner of a school for gladiators. For the entertainment of corrupt Roman Senator Marcus Licinius Crassus (Sir Laurence Olivier), Batiatus' gladiators are to stage a fight to the death. On the night before the event, the enslaved trainees are rewarded with female companionship. Spartacus' companion for the evening is Varinia (Jean Simmons), a slave from Britannia. When Spartacus later learns that Varinia has been sold to Crassus, he leads seventy-eight fellow gladiators in revolt. Word of the rebellion spreads like wildfire, and soon Spartacus' army numbers in the hundreds. Escaping to join his cause is Varinia, who has fallen in love with Spartacus, and another of Crassus' house slaves, the sensitive Antoninus (Tony Curtis). The revolt becomes the principal cog in the wheel of a political struggle between Crassus and a more temperate Senator named Gracchus (Charles Laughton).—Jwelch5742",
+    "In the last century before Christ, Spartacus (Kirk Douglas), a Thracian, is born into slavery, and thus being a slave is the only life he has ever known. Within his lot in life, he is a proud and principled man. He is among those slaves doing hard labor for the decaying Roman empire, before he is purchased by Lentulus Batiatus (Sir Peter Ustinov), a slave trader. At Batiatus' school, Spartacus and Batiatus' other slaves are brutally taught to fight as gladiators, purely for show, before they will be sold for a higher price. It is within this environment that Spartacus witnesses the potential kill or be killed situation of the school, those he is asked to kill or be killed by being other slaves, some like Crixus (John Ireland), who he considers friends. He vows that he will never kill a slave if he ever gets out of this situation. There, he also witnesses the depravity of those at the higher echelons of the Roman empire. Within the Roman Senate, there is a battle of philosophies between Marcus Licinius Crassus (Sir Laurence Olivier), who wants ultimate control, and more populist Gracchus (Charles Laughton). Spartacus' ultimate drive is to free all the slaves and be able to return to their respective homelands. Spartacus, as the de facto albeit reluctant leader of the slaves, is able to enact a plan to get within seventy days to the southern coast of Italy, where they can hire pirate ships to take them home. The slaves will have to fight any Roman armies along the way. Both Crassus and Gracchus know they must defeat Spartacus solely as a symbolic measure. What ultimately happens is affected by the philosophical differences between the two Senators, and Crassus' infatuation with a slave girl named Varinia (Jean Simmons), who is mutually in love with Spartacus.—Huggo",
+    "With the mighty Roman Republic still standing at the very centre of the civilised world, before the birth of Jesus and the new faith called Christianity, somewhere in the conquered Greek province of Thrace, an illiterate slave woman gives birth to a proud, rebellious son: Spartacus. Sold before his thirteenth birthday, young Spartacus finds himself condemned to a lifetime of back-breaking labour in the inhuman mines of Libya, under whip and chain and scorching sun. Dreaming of freedom and the death of slavery, instead, fiercely independent Spartacus ends up in the gladiatorial school of the Roman businessman, Lentulus Batiatus, only to form a formidable revolutionary army. As Spartacus leads a slave revolt in 73 BC with his unstoppable army of former gladiators and slaves, marching straight to the Italian port of Brundisium, the ambitious and belligerent Roman senator, General Marcus Licinius Crassus, is assigned to crush the insurgents. Now, as Crassus uses the armed uprising to gain political power, more and more, cornered Spartacus and his army are caught in an inescapable trap, trapped between two armies with their backs to the sea.—Nick Riganas"
+  ],
+  "synopsis": "In 73 B.C. during the last century of the Roman Republic, thousands of people are born enslaved to either the privileged class known as patricians or the wealthiest of the commoners, known as plebeians. One exceptionally strong slave in the rock mines of Libya, a Thracian named Spartacus (Kirk Douglas), is regularly whipped for displaying his intelligence and pride. In his latest act of defiance, Spartacus viciously bites the ankle of a Roman centurion when he tries to stop Spartacus from helping another slave who fell carrying a load of rocks. Spartacus is tied down, seemingly until he dies and rots. One day, Batiatus (Peter Ustinov), who trains slaves to become gladiators, purchases Spartacus and several other slaves for his ludus (training camp) in Capua. There, Batiatus announces that each man will be taught to fight to the death strategically, for the pleasure of patricians who enjoy the \"sport.\"Training proves as dehumanizing as the mines; each slave is branded, mercilessly instructed by head trainer Marcellus (Charles McGraw), and kept in cells. Spartacus tries to befriend Ethiopian gladiator Draba (Woody Strode), but soon learns that the men refuse to ally, knowing that they may be forced to kill each other in the gladiatorial arena.One night, Spartacus is presented the slave woman Varinia (Jean Simmons). Batiatus and Marcellus, knowing that Spartacus has never had a woman, watch from a grate above his cell as Varinia stoically undresses. Their laughter disgusts Spartacus, and after he refuses to mistreat the young woman, Batiatus takes her away as punishment for not acting as \"a man.\"Over the next several weeks, Spartacus excels at gladiatorial skills and falls further in love with Varinia. Marcellus attempts to derail their attraction, but the couple manages to exchange furtive touches. One day, Marcus Licinius Crassus (Laurence Olivier), a patrician in competition with the plebeian Gracchus (Charles Laughton) for control of the Roman Senate, arrives at Capua along with his wife Lady Helena (Nina Foch), sister-in-law Claudia (Joanna Barnes) and her fiance, Marcus Glabrus (John Dall). To celebrate the betrothal, Crassus insists that a gladiatorial match be arranged, ignoring Batiatus' concern that forcing the slaves to fight to the death in their own camp could cause an uprising. Helena and Claudia choose four slaves, including Spartacus and Draba, to fight, and order them to be scantily clad in loincloths rather than armor. As the matches begin, the patricians banter happily, undisturbed by the desperation of the fighting men. Spartacus listens from the holding cell as a friend is killed, then enters into battle against Draba. Draba overcomes Spartacus, but, unwilling to kill his compatriot, instead attacks Crassus and is immediately speared by a guard and cruelly finished off by Crassus himself.Another day or two later, during meal time in the eatery area, Spartacus later hears that Crassus has bought Varinia. Marcellus smacks Spartacus across the mouth with his whip for breaking the no-talking rule. Spartacus can no longer control his rage, and attacks Marcellus, shoving his face in a pot of stew, drowning him. Emboldened, the other slaves follow suit starting a huge riot at the ludus and escape. They steal various brass and steel weapons from a nearby cart and form an \"army\" that travels across the countryside, looting landowners and freeing slaves, who then join the swelling ranks.Word soon spreads to Rome of the slave rebellion, causing outrage in the senate. While Crassus is away on business, Gracchus cannily challenges Glabrus, now head of the Roman garrison, to lead some of the troops against the slaves, leaving Julius Caesar (John Gavin) as temporary chief of the remaining garrison. When Crassus returns, he comprehends immediately that Gracchus plots to keep Glabrus out of Rome, leaving Crassus more vulnerable to attack.Meanwhile, back at Batiatus' home, a crowd of gladiators force two local patricians to fight in the arena, using torches to spur them into combat. Spartacus makes them stop, telling them they're not meant to be as cruel as the Romans. He instead inspires his troops to form a united front that can sweep across the country, freeing other slaves and eventually escape over the sea to their homelands. In one town, Spartacus is elated to find Varinia, who has escaped and now confesses her love.Back in Rome, while Crassus admires his new \"body slave,\" Antoninus (Tony Curtis), Gracchus schemes with Batiatus, who blames Crassus for Spartacus' rebellion. Soon, Spartacus' army settles at Mt. Vesuvius, where an escaped Antoninus impresses Spartacus, who longs for an education, with his talent for both music and poetry.One day, Tigranes (Herbert Lom), a representative of Salician pirates, visits to offer the slaves support. Spartacus trades the army's riches for 500 ships, to await the army on the east coast of Italy. Tigranes agrees to the trade, and when he wonders aloud why Spartacus believes he can defeat the mighty Roman garrison, the former slave replies that, unlike soldiers, his men are not afraid to die, since even death is preferable to a life in chains. Soon after, Glabrus arrives at the rebels base camp at Vesuvius and, underestimating the intelligence of the slaves, fails to prepare his troops adequately. Spartacus is able to destroy the garrison and capture Glabrus, whom he sends back to the senate with the message that the army will not be stopped. Crassus is forced to banish Glabrus and retire in shame, never to be seen or heard of again.Throughout the winter, Spartacus' ever-growing group crosses the country, many dying along the way. In the spring, Spartacus is overjoyed to learn that Varinia is pregnant. Meanwhile, Gracchus convinces the senate to name Caesar as commander of the garrison and to send two legions to destroy Spartacus. When no one volunteers to lead the legions against Spartacus, Gracchus is forced to ask Crassus, who is delighted to head the campaign to \"restore order\" to Rome. Later, Gracchus reveals to Caesar that he has maneuvered the sale of the Salician ships to Spartacus, knowing that Spartacus' triumph will spell defeat for Crassus.Although Spartacus celebrates upon reaching an encampment a mere twenty miles away from the Salician ships, Tigranes soon arrives, with the news that Pompey and Crassus have conspired to surround Spartacus' army, necessitating the withdrawal of the ships. Spartacus realizes that Crassus is forcing him to attack Rome, which will allow the patrician to use all the troops at his disposal against them. Dismissing Tigranes' offer to smuggle Spartacus and Antoninus, now his closest aide, to freedom, Spartacus instead stirs his troops to march against Rome.At the same time in Rome, the Roman Senate elects Crassus as head consul and leader of the legions, and he vows to destroy Spartacus and restore order to the empire. The armies soon come within fighting distance of each other, and Crassus, single-minded in his fear of and hatred for Spartacus, pays Batiatus to identify the former slave on the battleground. Just before the battle, Spartacus tells Varinia that his only prayer is for his son to be born free and to learn about his father's cause.During the final battle, within a few hours, Crassus' trained troops have overcome the slave army, and Crassus announces to the survivors that they will be spared crucifixion if they identify Spartacus. Spartacus stands to speak, but before he can sacrifice himself, Antoninus stands and declares, \"I am Spartacus.\" One by one, each slave follows suit, choosing death over betraying the man who brought him freedom. Enraged, Crassus orders them all to be crucified during a long march, lining the Appian Way road from Brindusia to Rome with their bodies. He also finds Varinia, clutching Spartacus' newborn son, and sends her to his estate.Along the march, Crassus recognizes Antoninus and then, upon spotting Spartacus, guesses he may be his enemy, and orders the two men be kept alive until they reach his estate. There, he banishes Gracchus to the country, intending to use him in the future for his popularity with the \"rabble.\" Soon after, Batiatus experiences what Gracchus terms \"a bad case of dignity\" and refuses to identify Spartacus, and instead plots with Gracchus to steal Varinia from the estate in order to irritate Crassus. Crassus dotes on Varinia, whose love he believes will prove his superiority over Spartacus but she vows never to stop loving Spartacus.Meanwhile, Spartacus mourns Varinia and his son, who he assumes have died. When Crassus confronts Spartacus, the slave spits in his face, spurring the dictator to order him to fight Antoninus to death, with the victor to be crucified. Spartacus and Antoninus fight valiantly, each trying to save the other from a more painful death, and Spartacus soon triumphs. After murmuring that he loved Spartacus like a father, Antoninus dies, and Spartacus proclaims that \"he will come back, and he will be millions.\" Crassus, fearful even in his victory, orders Spartacus crucified at the gates to Rome. Meanwhile, Batiatus brings Varinia and the boy to Gracchus, who presents them with falsified papers that will allow them freedom, then kills himself.In the final scene, as Varinia leaves Rome, she catches sight of Spartacus on the cross. In his last moments of life, Spartacus sees Varinia lift his son and hears her declare that the boy, now free, will never forget his father.",
+  "imdb_score": 7.9
+}

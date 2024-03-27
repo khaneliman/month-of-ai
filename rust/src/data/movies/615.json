@@ -1,0 +1,443 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/pulJ1iY7GVeppMRipiR7ZGDW7EW.jpg",
+  "id": 615,
+  "title": "The Passion of the Christ",
+  "poster_path": "https://image.tmdb.org/t/p/w500/v9f9MMrq2nGQrN7cHnQRmEq9lSE.jpg",
+  "release_date": "2004-02-25",
+  "vote_average": 7.467,
+  "vote_count": 4115,
+  "popularity": 50.771,
+  "overview": "A graphic portrayal of the last twelve hours of Jesus of Nazareth's life.",
+  "imdb_id": "tt0335345",
+  "budget": 30000000,
+  "homepage": "https://www.foxmovies.com/movies/the-passion-of-the-christ",
+  "revenue": 611900000,
+  "runtime": 127,
+  "tagline": "By his wounds, we were healed.",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Icon Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jim Caviezel",
+        "character": "Jesus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wDf6ukCaGMEnH94GzLP2NGjKeNL.jpg"
+      },
+      {
+        "name": "Maia Morgenstern",
+        "character": "Maria",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zmqKMZcT5z0QKwTTmmb9O0rekbt.jpg"
+      },
+      {
+        "name": "Christo Jivkov",
+        "character": "Juan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iv8gzmS4gswtk5KZBwgITKtzpzm.jpg"
+      },
+      {
+        "name": "Francesco De Vito",
+        "character": "Pedro",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s8uOepBCIS6dpZ0OnLjnjXjE6z2.jpg"
+      },
+      {
+        "name": "Monica Bellucci",
+        "character": "Magdalena",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k0GJCAfBNCFKamJ56pBPk9gqhLy.jpg"
+      },
+      {
+        "name": "Mattia Sbragia",
+        "character": "Caifás",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uQYa5QiHBMLZ0nAtnWEDMUwrTZa.jpg"
+      },
+      {
+        "name": "Toni Bertorelli",
+        "character": "Anás",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4qhYeIKRHTJXqLAbqXTiFrRVOpL.jpg"
+      },
+      {
+        "name": "Luca Lionello",
+        "character": "Judas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tBjJS35BSvbPc0m5ApqTWq8St66.jpg"
+      },
+      {
+        "name": "Hristo Shopov",
+        "character": "Poncio Pilato",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5b3xNLQwZK15eUiy8QiTGQjJVCA.jpg"
+      },
+      {
+        "name": "Claudia Gerini",
+        "character": "Claudia Procles",
+        "profile_path": "https://image.tmdb.org/t/p/w185/QFBen9LPrKuSr9awe0Go3gl6sG.jpg"
+      },
+      {
+        "name": "Fabio Sartor",
+        "character": "Abenader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4jlz8QcVZJDiNqds93u2rmypCpA.jpg"
+      },
+      {
+        "name": "Giacinto Ferro",
+        "character": "Joseph of Arimathea",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A6vASkgBD88fKOikJt0Ib2cnlc.jpg"
+      },
+      {
+        "name": "Aleksander Mincer",
+        "character": "Nicodemus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8mYowzMiu7PqE6QiXX0iSFn1RnL.jpg"
+      },
+      {
+        "name": "Sheila Mokhtari",
+        "character": "Mother in audience",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucio Allocca",
+        "character": "Old Temple Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dmD9dNcPfUt57mGoFoWnyB2uk0R.jpg"
+      },
+      {
+        "name": "Paco Reconti",
+        "character": "Whipping Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/87r8ULlNOdoqgrJonbrsGFCImqV.jpg"
+      },
+      {
+        "name": "Adel Bakri",
+        "character": "Temple Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Luciano Dragone",
+        "character": "Second Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Adel Ben Ayed",
+        "character": "Thomas",
+        "profile_path": ""
+      },
+      {
+        "name": "Franco Costanzo",
+        "character": "Accuser",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Tpr7j9nOZNH9jS3ncBdjMXEvMO.jpg"
+      },
+      {
+        "name": "Lino Salemme",
+        "character": "Accuser",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fyf6k9wdtXLCER2HWRw4IYcwt8u.jpg"
+      },
+      {
+        "name": "Emanuele Gullotto",
+        "character": "Accuser",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wmNBaTf5uk3zDaVCEdTs48Wcydj.jpg"
+      },
+      {
+        "name": "Francesco De Rosa",
+        "character": "Accuser",
+        "profile_path": ""
+      },
+      {
+        "name": "Maurizio Di Carmine",
+        "character": "Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/F5gU9xPVfsmwHEkvkAb8COFTpF.jpg"
+      },
+      {
+        "name": "Francesco Gabriele",
+        "character": "Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Ru5OYzSmKBtOKvMHQqBg7X10rq.jpg"
+      },
+      {
+        "name": "Angelo Di Loreta",
+        "character": "Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sGxcHlMbNRrTCtP6w1Cn1SeTnEr.jpg"
+      },
+      {
+        "name": "Federico Pacifici",
+        "character": "Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uploG1tffA4jdbbQxAL9XKLeJOO.jpg"
+      },
+      {
+        "name": "Roberto Santi",
+        "character": "Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dXHw5wXky8qSkxmzWu47OHcjWbD.jpg"
+      },
+      {
+        "name": "Giovanni Vettorazzo",
+        "character": "Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nnKbDyx9obxgE9ACkVOhfxKyvTQ.jpg"
+      },
+      {
+        "name": "Ted Rusoff",
+        "character": "Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xxYvCAmU0JI1yUJ7q8lbpYPjS6q.jpg"
+      },
+      {
+        "name": "Tom Shaker",
+        "character": "Eyepatch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mCopumFmcniHDZ825fwYNubSXSB.jpg"
+      },
+      {
+        "name": "Andrea Coppola",
+        "character": "Grizzled Beard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6p3IvpjDRnsctxy1fWthFruKpS2.jpg"
+      },
+      {
+        "name": "Romuald Kłos",
+        "character": "Roman Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pOm7vdGN68ClfPtvxiTf7inTvmX.jpg"
+      },
+      {
+        "name": "Giuseppe Lo Console",
+        "character": "Roman Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2E3gHYwj1EdylschwshqkjT6HhD.jpg"
+      },
+      {
+        "name": "Dario D'Ambrosi",
+        "character": "Roman Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4ZYZdYTHUxtTiIkzVo2nIh2TdKd.jpg"
+      },
+      {
+        "name": "Luciano Federico",
+        "character": "Man in Audience",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tkZN8uWDtnoMkjaJ1GCQoBKc7eo.jpg"
+      },
+      {
+        "name": "Domenico Capalbo",
+        "character": "Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Valerio Esposito",
+        "character": "Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2AywC16ei5x0VCB9VarMHKo7qev.jpg"
+      },
+      {
+        "name": "Antonello Iacovone",
+        "character": "Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicola Tagarelli",
+        "character": "Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Ivan Gaudiano",
+        "character": "Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Chokri Ben Zagden",
+        "character": "James",
+        "profile_path": ""
+      },
+      {
+        "name": "Roberto Bestazzoni",
+        "character": "Malchus",
+        "profile_path": ""
+      },
+      {
+        "name": "Luca De Dominicis",
+        "character": "King Herod Antipas",
+        "profile_path": ""
+      },
+      {
+        "name": "Pietro Sarubbi",
+        "character": "Barabbas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wTBez9bp1cE0KqDoKlsU1ujzBDA.jpg"
+      },
+      {
+        "name": "Abel Jafri",
+        "character": "2nd Temple Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nZ476kQTZZMjb7sDJZCV9otlWM6.jpg"
+      },
+      {
+        "name": "Lello Giulivo",
+        "character": "Brutish Roman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kMzZ4y6y9gQ8Ip9goCiKbB01GNo.jpg"
+      },
+      {
+        "name": "Emilio De Marchi",
+        "character": "Scornful Roman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vQNSeUK4eEh5WeHyLxandvSvtvW.jpg"
+      },
+      {
+        "name": "Roberto Visconti",
+        "character": "Scornful Roman",
+        "profile_path": ""
+      },
+      {
+        "name": "Sergio Rubini",
+        "character": "Disma",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gck410u7xOJWI0SjArY6vJb3cGw.jpg"
+      },
+      {
+        "name": "Francesco Cabras",
+        "character": "Gesmas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3m73NLKaN1wPY0iKHSQIyq2dD4F.jpg"
+      },
+      {
+        "name": "Andrea Refuto",
+        "character": "Young Jesus",
+        "profile_path": ""
+      },
+      {
+        "name": "Giovanni Capalbo",
+        "character": "Cassius",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Zv5CO033TkFRTctaDZcKdC7dr4.jpg"
+      },
+      {
+        "name": "Matt Patresi",
+        "character": "Janus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cywuOTI8rzZjcFaq7Kobldhu8cX.jpg"
+      },
+      {
+        "name": "Sabrina Impacciatore",
+        "character": "Seraphia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kO4BvALzufGCallJeRLkMMu6ZQw.jpg"
+      },
+      {
+        "name": "Daniela Poti",
+        "character": "Young Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Jarreth J. Merz",
+        "character": "Simon of Cyrene",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ze8WDEujZmTXdCLcUy0IaymwlcS.jpg"
+      },
+      {
+        "name": "Noemi Marotta",
+        "character": "Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Rossella Longo",
+        "character": "Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Davide Marotta",
+        "character": "Baby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uUZGOU77bw0KYbgHHVzJusMBmxM.jpg"
+      },
+      {
+        "name": "Rosalinda Celentano",
+        "character": "Satan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3rNTkYVSUlgAkUvk5nazkiQI20u.jpg"
+      },
+      {
+        "name": "Danilo Di Ruzza",
+        "character": "Pilate's Servant",
+        "profile_path": ""
+      },
+      {
+        "name": "Vincenzo Monti",
+        "character": "Herod's Courtier",
+        "profile_path": ""
+      },
+      {
+        "name": "Danilo Maria Valli",
+        "character": "Herod's Courtier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x7Ju4hTpHlyovGTTifMxKMlus6y.jpg"
+      },
+      {
+        "name": "Nuot Arquint",
+        "character": "Herod's Courtier",
+        "profile_path": ""
+      },
+      {
+        "name": "Abraam Fontana",
+        "character": "Herod's Courtier",
+        "profile_path": ""
+      },
+      {
+        "name": "Valerio Isidori",
+        "character": "Herod's Courtier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5tH9tinbTGCVHrhIi9I38PLed3.jpg"
+      },
+      {
+        "name": "Paulo dos Santos",
+        "character": "Herod's Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jH8MeNP1UBXicZWuFLWtaEA70wT.jpg"
+      },
+      {
+        "name": "Arianna Vitolo",
+        "character": "Herod's Court Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Gabriella Barbuti",
+        "character": "Herod's Court Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2DIyGM89pL0PgerOiJa20blC2ad.jpg"
+      },
+      {
+        "name": "Ornella Giusto",
+        "character": "Herod's Court Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fJX6QytKLy42oWAMHp2ohhFh0pU.jpg"
+      },
+      {
+        "name": "Michelle Bonev",
+        "character": "Herod's Court Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cQEUXFFeQuOy0JZJ0ci6P3xJraE.jpg"
+      },
+      {
+        "name": "Lucia Stara",
+        "character": "Herod's Court Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6g3qu4ylharnrhBhU1d1CcQMgFe.jpg"
+      },
+      {
+        "name": "Evelina Meghnagi",
+        "character": "Herod's Court Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zr6aeh8En73Qs9D7xM2eChLLWHK.jpg"
+      },
+      {
+        "name": "Francis Dokyi",
+        "character": "Herod's Servant",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Mel Gibson",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zLwlFBS90QtZNQI2yteHcQSZVmc.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "mission",
+    "suffering",
+    "roman empire",
+    "christianity",
+    "jewry",
+    "roman",
+    "crucifixion",
+    "apostle",
+    "last supper",
+    "bible",
+    "satan",
+    "easter",
+    "torture",
+    "brutality",
+    "jesus christ",
+    "christian film",
+    "aramaic",
+    "ancient language film"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Depicts the final twelve hours in the life of Jesus of Nazareth, on the day of his crucifixion in Jerusalem.",
+    "A depiction of the last twelve hours in the life of Jesus of Nazareth, on the day of his crucifixion in Jerusalem. The story opens in the Garden of Olives where Jesus has gone to pray after the Last Supper. Betrayed by Judas Iscariot, the controversial Jesus--who has performed 'miracles' and has publicly announced that he is 'the Son of God'--is arrested and taken back within the city walls of Jerusalem. There, the leaders of the Pharisees confront him with accusations of blasphemy; subsequently, his trial results with the leaders condemning him to his death. Jesus is brought before Pontius Pilate, the prefect of the Roman province of Judaea, for his sentencing. Pilate listens to the accusations leveled at Jesus by the Pharisees. Realizing that his own decision will cause him to become embroiled in a political conflict, Pilate defers to King Herod in deciding the matter of how to persecute Jesus. However, Herod returns Jesus to Pilate who, in turn, gives the crowd a choice between which prisoner they would rather to see set free--Jesus, or Barrabas. The crowd chooses to have Barrabas set free. Thus, Jesus is handed over to the Roman soldiers and is brutally flagellated. Bloody and unrecognizable, he is brought back before Pilate who, once again, presents him to the thirsty crowd--assuming they will see that Jesus has been punished enough. The crowd, however, is not satisfied. Thus, Pilate washes his hands of the entire dilemma, ordering his men to do as the crowd wishes. Whipped and weakened, Jesus is presented with the cross and is ordered to carry it through the streets of Jerusalem, all the way up to Golgotha. There, more corporal cruelty takes place as Jesus is nailed to the cross--suffering, he hangs there, left to die. Initially, in his dazed suffering, Jesus is alarmed that he has been abandoned by God his father. He then beseeches God. At the moment of his death, nature itself over-turns.—Anthony Pereyra {hypersonic91@yahoo.com}",
+    "Garden of Gethsemane, Jerusalem, circa 33 A.D. Amid unresolved turmoil, Roman soldiers capture Jesus of Nazareth, a supposedly seditious local, after His duplicitous disciple Judas Iscariot's betrayal. And accused of blasphemy by the Pharisees, the Nazarene is turned over to the high priests and the angry mob. After all, the doubtful Roman governor Pontius Pilate had already washed his hands of Jesus' freedom. As a result, sentenced to death by crucifixion, the Son of God must carry His cross to Golgotha. During His final twelve hours on Earth, Jesus Christ endured extreme suffering and torture in reparation for our sins. But He rose from the dead on the third day.—Nick Riganas",
+    "Mel Gibson's well-publicized production The Passion of the Christ concerns the last 12 hours in the life of Jesus of Nazareth. The dialogue is spoken in the ancient Aramaic language, along with Latin and Hebrew. In the Garden of Gethsemane near the Mount of Olives, Jesus (James Caviezel) is betrayed by Judas Iscariot (Luca Lionello). Jesus is condemned to death for blasphemy and brought before Pontius Pilate (Hristo Naumov Shopov), the Roman governor of Judea, for sentencing. The roaring crowd demand his death, so Pilate orders his crucifixion. Jesus is severely beaten and made to carry his cross up to Golgotha, the hill outside Jerusalem, where he is nailed to the cross. Romanian theatrical actress Maia Morgenstern plays Mary, Mother of God, and Italian superstar Monica Bellucci plays Mary Magdalene.",
+    "The Passion of The Christ focusses on the last twelve hours of Jesus of Nazareth's life. The film begins in the Garden of Gethsemane where Jesus has gone to pray after sitting the Last Supper. Jesus must resist the temptations of Satan. Betrayed by Judas Iscariot, Jesus is then arrested and taken within the city walls of Jerusalem where leaders of the Pharisees confront him with accusations of blasphemy and his trial results in a condemnation to death.—Adam Ward"
+  ],
+  "synopsis": "The film opens in Gethsemane in 'medias res as' in the dead of night some hours after the last supper. Jesus prays and is tempted by Satan, while his apostles, Peter, James, and John sleep. After receiving thirty pieces of silver from the highly feared Jewish priests of the Temple in Jerusalem, one of Jesus' other apostles, Judas Iscariot, tells them the location where his teacher is and the priests send a contingent of guards to arrest Jesus for heresy.In the woods outside Gethsemane, Judas approaches with the temple guards and betrays Jesus with a kiss on his cheek. As the guards move in to arrest Jesus, Peter intervenes and attacks them, cutting off the ear of Malchus, one of the guards, but Jesus tells Peter to stop with the violence and magically heals Malchus' ear. The temple guards arrest Jesus and the rest of the apostles flee.John runs and tells Jesus' mother, Mary, as well as Mary Magdalene of the arrest, and Peter follows Jesus at a distance who is severely beaten by the Temple guards on their way back to Jerusalem. At the Jewish Temple, the head priest, Caiaphas, holds a trial of Jesus over the objection of some of the other priests, who are expelled from the court. When questioned by Caiaphas whether he is the son of God, Jesus replies \"I am\". Caiaphas is horrified and tears his robes, and Jesus is condemned to death for blasphemy. Upon entering the Temple, Peter is confronted by a mob of Jewish spectators who recognize him being one of Jesus followers and confront him. Three times Peter denies knowing Jesus, but then runs away sobbing at his cowardice.Meanwhile, the remorseful Judas attempts to return the money in order have Jesus freed, but he is refused by the priests. Tormented by demons and his guilt, he flees the city and hangs himself with a rope from a dead donkey at dawn.Caiaphas brings Jesus before Pontius Pilate, the local Roman governor of Judea, to be condemned to death. But after questioning Jesus, the Latin-speaking Pilate (who is fluent in Jesus' native Aramaic language) finds no reason to convict him after he is told by his wife, Claudia, about a bad dream she had the night before about condemning a holy man to death. So instead, Pilate sends Jesus to the court of King Herod Antipas, as Jesus is from Herod's ruling town of Nazareth. After Jesus is returned, Pilate offers the crowd that he will chastise Jesus for heresy and then will set him free. Pilate attempts to have Jesus freed by giving the people an option of freeing Jesus or the violent criminal Barabbas. To Pilate's dismay, the hostile and religious crowd demands to have Barabbas freed and Jesus killed. In an attempt to appease the crowd, Pilate has Jesus brutally scourged and mocked with a crown of thorns, yet the crowd continues to demand that Jesus be crucified. Faced with a citywide riot, Pilate is left with no choice but to reluctantly order Jesus' crucifixion.As Jesus carries the cross along the Via Dolorosa to Calvary, Veronica wipes Jesus' bloodied face with her veil until the Roman guards grab her and shove her on her way. Simon of Cyrene is unwillingly pressed into carrying the cross for Jesus, who by this time is too weak to carry the large wooden cross by himself.On a hill outside Jerusalem called Golgotha (Aramaic for 'Hill of Skulls'), Jesus is then crucified with his wrists and feet nailed to the cross. One criminal that is crucified next to him mock him for being now helpless and unable to do anything. At mid afternoon, as he hangs from the cross, Jesus prays forgiveness for those who did this to him, and redeems one of the criminals crucified next to him. After Jesus gives up his spirit and dies, a single drop of rain falls from the sky, triggering an earthquake which destroys the Temple and rips the cloth covering the Holy of Holies in two, to the horror of Caiaphas and the other priests. Satan is then shown screaming in defeat. The Roman soldiers then kill the two criminals by breaking their legs, while one of them thrusts a spear into Jesus' chest to make sure that he is dead. Jesus is brought down from the cross as Mary and Mary Magdalene weep for him.In the final scene, Jesus then rises from the dead as he leaves his tomb where his is buried with the wounds in his hands, feet, and side still visible.",
+  "imdb_score": 7.2
+}

@@ -1,0 +1,413 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/4LrL40XecjGLRpX5I2gzMTUt04l.jpg",
+  "id": 617653,
+  "title": "The Last Duel",
+  "poster_path": "https://image.tmdb.org/t/p/w500/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+  "release_date": "2021-10-13",
+  "vote_average": 7.452,
+  "vote_count": 3104,
+  "popularity": 35.659,
+  "overview": "King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire, Jacques Le Gris, by challenging him to a duel.",
+  "imdb_id": "tt4244994",
+  "budget": 100000000,
+  "homepage": "https://www.20thcenturystudios.com/movies/the-last-duel",
+  "revenue": 30500000,
+  "runtime": 153,
+  "tagline": "The true story of a woman who defied a nation and made history.",
+  "genres": [
+    "History",
+    "Drama",
+    "Action"
+  ],
+  "production_companies": [
+    "20th Century Studios",
+    "Scott Free Productions",
+    "Pearl Street Films",
+    "TSG Entertainment"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Matt Damon",
+        "character": "Sir Jean de Carrouges",
+        "profile_path": "https://image.tmdb.org/t/p/w185/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
+      },
+      {
+        "name": "Adam Driver",
+        "character": "Jacques Le Gris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mG2vwd6hJHTiCh8zIxPFND3ibAj.jpg"
+      },
+      {
+        "name": "Jodie Comer",
+        "character": "Marguerite de Carrouges",
+        "profile_path": "https://image.tmdb.org/t/p/w185/va8pcuzXodVLYUQLjB1USZVB6gz.jpg"
+      },
+      {
+        "name": "Ben Affleck",
+        "character": "Pierre d'Alençon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+      },
+      {
+        "name": "Harriet Walter",
+        "character": "Nicole de Carrouges",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vH8JrqdHaoFeGos44XeKTNuQMKE.jpg"
+      },
+      {
+        "name": "Marton Csokas",
+        "character": "Crespin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jKtjjwf8MHnUsQ3YA56LH9pJjee.jpg"
+      },
+      {
+        "name": "Alex Lawther",
+        "character": "King Charles VI",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg"
+      },
+      {
+        "name": "William Houston",
+        "character": "Herald at the Duel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4J4TG1dbyJcSs78hP9fU2x8jrJs.jpg"
+      },
+      {
+        "name": "Oliver Cotton",
+        "character": "Jean de Carrouges III",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2I2W2hpNPRWpidKyRDGJ3p0hSRc.jpg"
+      },
+      {
+        "name": "Zeljko Ivanek",
+        "character": "Le Coq",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xLv19n8UvGJLxI7Z6RIv9eNXGmf.jpg"
+      },
+      {
+        "name": "Nathaniel Parker",
+        "character": "Sir Robert de Thibouville",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mtJ0EXQ7rJaRb3DiAAOPGlFLOzi.jpg"
+      },
+      {
+        "name": "Tallulah Haddon",
+        "character": "Marie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hjr2yU4mFCWlZZ9XUOQZkXkuMU4.jpg"
+      },
+      {
+        "name": "Aurélien Lorgnier",
+        "character": "Carrouges' Priest",
+        "profile_path": ""
+      },
+      {
+        "name": "Bryony Hannah",
+        "character": "Alice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v47jr8GFBvWPs9SinMxKMWVEqDp.jpg"
+      },
+      {
+        "name": "Thomas Silberstein",
+        "character": "Palace of Justice Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/icePr9iyo3IaLYu5FUUOXGfBXtj.jpg"
+      },
+      {
+        "name": "Adam Goodwin",
+        "character": "Rider",
+        "profile_path": ""
+      },
+      {
+        "name": "Ian Pirie",
+        "character": "Henri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/63VIC2jPUgrhSLvwAcbn3NeCFF5.jpg"
+      },
+      {
+        "name": "Daniel Horn",
+        "character": "Argentan Herald",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dSbMHQdQuOfM2TzzKYRu23tv7fO.jpg"
+      },
+      {
+        "name": "Michael McElhatton",
+        "character": "Bernard de Latour",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aPjuV6N10zAJMr55lAIvnpdsNgE.jpg"
+      },
+      {
+        "name": "Sam Hazeldine",
+        "character": "Thomin Dubois",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zyt5yR8hXMA9ZcwtL0yDadwvi4m.jpg"
+      },
+      {
+        "name": "Clive Russell",
+        "character": "King's Uncle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eC37Kmdo5YKNG2MyirCG4tWDxCS.jpg"
+      },
+      {
+        "name": "Julian Firth",
+        "character": "King's Uncle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3PrG3eOAXFRvzZm5jLHwYwCs8RT.jpg"
+      },
+      {
+        "name": "Sylvain Lablée",
+        "character": "Palace of Justice Bailiff",
+        "profile_path": ""
+      },
+      {
+        "name": "Zoé Bruneau",
+        "character": "Lady Marie Chamaillart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jXu8VhOtKqsYnqlW64nlrkYFoWn.jpg"
+      },
+      {
+        "name": "Chloé Lindau",
+        "character": "Pierre's Mistress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ixn82g8tunqw1w53vvswBnnis5l.jpg"
+      },
+      {
+        "name": "Adam Nagaitis",
+        "character": "Adam Louvel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e05YxtScfLCI723ZFU6WOzLiJ6u.jpg"
+      },
+      {
+        "name": "Elise Caprice",
+        "character": "Woman at Orgy",
+        "profile_path": ""
+      },
+      {
+        "name": "Fiona Maherault Valinski",
+        "character": "Woman at Orgy",
+        "profile_path": ""
+      },
+      {
+        "name": "Tassia Martin",
+        "character": "Woman at Orgy",
+        "profile_path": ""
+      },
+      {
+        "name": "Camille Mutin",
+        "character": "Woman at Orgy",
+        "profile_path": ""
+      },
+      {
+        "name": "Caoimhe O'Malley",
+        "character": "Elizabeth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yHWwthBBEMnD7ZB7tnbjiO9Isct.jpg"
+      },
+      {
+        "name": "John Kavanagh",
+        "character": "Le Gris' Priest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wG5dUlNS4b7eUof6m32MaVFWdla.jpg"
+      },
+      {
+        "name": "Simone Collins",
+        "character": "Agatha",
+        "profile_path": "https://image.tmdb.org/t/p/w185/si3IwVpE2j0etls6bwyS5BzJQPA.jpg"
+      },
+      {
+        "name": "Clare Dunne",
+        "character": "Celia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2OL6i4ahFHrbJHt1uLCCWfr7VPn.jpg"
+      },
+      {
+        "name": "Christian Erickson",
+        "character": "Louis the Old Farmer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cpEzQNW1EsRmK8SMj4y5xwevXwM.jpg"
+      },
+      {
+        "name": "Alex Blanchard",
+        "character": "Tailor",
+        "profile_path": ""
+      },
+      {
+        "name": "Gin Minelli",
+        "character": "Noble Lady",
+        "profile_path": ""
+      },
+      {
+        "name": "Cécilia Steiner",
+        "character": "Noble Lady",
+        "profile_path": ""
+      },
+      {
+        "name": "Serena Kennedy",
+        "character": "Queen Isabeau",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9oqsvyQFeovD3fjyqGJNNm2Jhhz.jpg"
+      },
+      {
+        "name": "Quentin Ogier",
+        "character": "Clergy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p1x1kpxeUHelaPWwgQzWcVYgYNy.jpg"
+      },
+      {
+        "name": "Paul Bandey",
+        "character": "Clergy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t8pqtJlNJ2oScgyiRH3OPP0Ozte.jpg"
+      },
+      {
+        "name": "Martin Vaughan Lewis",
+        "character": "Clergy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i1wIBgjAlhG6y2HxxsAr0mtHk3R.jpg"
+      },
+      {
+        "name": "Brontis Jodorowsky",
+        "character": "Magistrate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/slgotPPxOycH80huLLVhZ4fpp8R.jpg"
+      },
+      {
+        "name": "Peter Hudson",
+        "character": "Magistrate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gTiHdNw4siCuQlEhfnserILryOz.jpg"
+      },
+      {
+        "name": "Alexander Pattie",
+        "character": "Sergeant at Arms",
+        "profile_path": ""
+      },
+      {
+        "name": "Dimitri Michelsen",
+        "character": "Treasury Bureaucrat",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ceJhvchTvxdZA8BZ6Lps3XgfzKH.jpg"
+      },
+      {
+        "name": "Stephen Brennan",
+        "character": "Physician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xNZ8mV3tnuBb9XJ81X1Aqod0VKB.jpg"
+      },
+      {
+        "name": "Colin David Reese",
+        "character": "Carrouges' Gate Keeper",
+        "profile_path": ""
+      },
+      {
+        "name": "Bosco Hogan",
+        "character": "Priest at Duel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sMa4b3F9KoHqReJ84pVybL0atQ2.jpg"
+      },
+      {
+        "name": "Kyle Hixon",
+        "character": "Pierre's Tailor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jtAaYjNrqdvtXoXSpTuz9gDmEV.jpg"
+      },
+      {
+        "name": "Florian Hutter",
+        "character": "Dowry Lawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k1U0MONnvfefEJC7PYiJmJPsitS.jpg"
+      },
+      {
+        "name": "Sam Chemoul",
+        "character": "Teenager Carrouges' Estate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7C6rF15OX7XcEaAlFPAunYvasuY.jpg"
+      },
+      {
+        "name": "Jim Roche",
+        "character": "Orgy Spectator",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Gogarty",
+        "character": "Orgy Spectator",
+        "profile_path": ""
+      },
+      {
+        "name": "Ronan Leonard",
+        "character": "Orgy Spectator",
+        "profile_path": ""
+      },
+      {
+        "name": "Shane Lynch",
+        "character": "Orgy Spectator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cc36zbgj1W95VDx3o2i1YVhfKzv.jpg"
+      },
+      {
+        "name": "Peter Kirkby",
+        "character": "Orgy Spectator",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin McGahern",
+        "character": "Orgy Spectator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/keBH7o6sK1tEc5kUYnmCfS5CODN.jpg"
+      },
+      {
+        "name": "Lorris Chevalier",
+        "character": "Singing Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Atkin",
+        "character": "English Soldier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Janet Grene",
+        "character": "Nobility (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chloe Harris",
+        "character": "Peasant Woman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xHM2WNnIrXSHYsS4wvIeIqD3Kbx.jpg"
+      },
+      {
+        "name": "Karl Hogan",
+        "character": "Crespin Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tyrone Kearns",
+        "character": "Male Peasant (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Manning",
+        "character": "Male Peasant (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian F. Mulvey",
+        "character": "Phillippe (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3kTIHuKdqloFkHSnoQLobiq7zbH.jpg"
+      },
+      {
+        "name": "Fady Naguib",
+        "character": "Scottley (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Ridley Scott",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "based on novel or book",
+    "castle",
+    "male friendship",
+    "normandy, france",
+    "based on true story",
+    "trial",
+    "battlefield",
+    "knight",
+    "duel",
+    "battle",
+    "historical",
+    "catholic",
+    "sword duel",
+    "rape and revenge",
+    "historical drama",
+    "trial by combat",
+    "nobleman",
+    "squire",
+    "14th century",
+    "knighthood",
+    "medieval france",
+    "medieval times",
+    "noble"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "The Knight Jean de Carrouges must settle the dispute over his wife Marguerite by challenging his former friend to a duel to the death.",
+    "Based on the true story of France's last trial by combat in the Middle Ages. Knight Jean de Carrouges challenges his former friend Jacques Le Gris to a duel after Jean's wife Marguerite accuses Le Gris of rape. Told in multiple \"Rashomon-style\" points of view.",
+    "In medieval France, Jean de Carrouges, a knight, challenges his friend, Squire Jacques Le Gris, to a lawful duel after Jean's wife, Marguerite, accuses Jacques of raping her. The movie shows the events leading up to the duel from three different truth versions. The truth according to Jean, the truth according to Jacques and the truth according to Lady Marguerite.—Wiki",
+    "14th-century France. After saving his life in the Battle of Poitiers, Sir Jean de Carrouges, a veteran knight, falls out with his brother-in-arms and former friend, Squire Jacques Le Gris. Then, as Jean gradually loses favour with Count Pierre d'Alençon, Marguerite de Thibouville, Carrouges' beautiful wife, accuses Le Gris of raping her. And to defend her honour, Jean requests a duel, an outlawed custom. However, the truth is in the eye of the beholder. As a result, the interpretation of three distinct realities and three conflicting points of view culminates in a gruelling death match. But who will win the last duel?—Nick Riganas"
+  ],
+  "synopsis": "Chapter One: The truth according to Jean de Carrouges. After serving in the Caroline War, Jean de Carrouges and his friend, squire Jacques Le Gris swear fealty to Count Pierre d'Alençon, who has been named Jean's overlord by his cousin, King Charles VI. Jacques later informs Jean that Pierre has ordered his new vassals to pay war levies, agreeing to ask for leniency on Jean's behalf when de Carrouges explains he lacks the funds. To restore his finances, Jean marries Marguerite de Thibouville, receiving a large dowry and the rights to many valuable estates. Pierre, however, has already gifted one piece of land to Jacques. When Jean sues for the land to be given to him, King Charles dismisses the suit. Pierre retaliates by appointing Jacques to the captaincy of a fort that Jean's family had held for generations. A military campaign in Scotland leaves Jean knighted for bravery but bankrupt. When he comes home from a visit to Paris, Marguerite tells him that Jacques raped her while she was home alone. Knowing that Pierre protects Jacques, Jean resolves to challenge him to a duel to the death, a request which Charles VI grants.\nChapter Two: The truth according to Jacques Le Gris. Jacques wins Pierre's trust by using his knowledge of accounting to organize the count's finances, earning him a position at court. Upon meeting Marguerite, Jacques falls in love with her and becomes convinced that she loves him after she shows him kindness. While Jean is away, his mother takes the servants to help her with errands, leaving Marguerite alone. Jacques has his servant knock on the door, claiming his horse has thrown a shoe. She allows the man in, but he is followed quickly by Jacques, who sincerely declares his love for Marguerite. She insists she is married and orders them to leave. Instead, Jacques chases Marguerite up to her bedchamber and has rough sex with her, which he believes to be consensual. Before leaving, he advises her not to tell her husband. Sometime later, Pierre informs Jacques that Jean is accusing him of raping Marguerite. Despite the count's attempt to exert his authority, Jean appeals his case directly to King Charles and requests a duel to the death. Jacques accepts Jean's challenge.\nChapter Three: The truth according to Lady Marguerite de Thibouville. Marguerite and Jean's marriage becomes strained by her failure to become pregnant. After meeting Jacques, Marguerite informs her friends she showed him kindness only to try and win court favor. When Jean leaves for Scotland, he orders her not to leave the castle or let anyone inside. Jean's mother takes all the servants with her on an errand despite Jean's order. Jacques shows up with a servant who tricks Marguerite into letting them enter. Jacques haughtily declares his love for Marguerite; He forces his way into their bedroom where he violently rapes Marguerite. When Marguerite's husband returns, she tells him what happened. Jean's mother later insists Marguerite drop her accusations (and abide any consequences), so her son might be spared court's judgment. At Jacques' trial, a now-pregnant Marguerite remains resolute that she is telling the truth. Charles VI grants Jean's request for a duel to the death. Marguerite confronts Jean for not telling her she would be burned alive if he failed. Marguerite gives birth to her son days before the duel is set to take place. The duel begins with Jean and Jacques jousting until both men lose their mounts and fight hand-to-hand. Jean is stabbed but eventually manages to pin down Jacques. He demands that Jacques confess or face damnation, but Jacques claims his innocence; Jean kills him. Jean basks in the glory of his victory while Marguerite follows quietly behind.\nA textual epilogue reveals that Jean died fighting in the Crusades a few years later while Marguerite continued managing his estate and lived in peace for the remaining thirty years of her life, never marrying again.",
+  "imdb_score": 7.4
+}

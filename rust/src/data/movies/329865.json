@@ -1,0 +1,426 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/iTyh3hqTUjiRqQo8Uz1w1KtQti9.jpg",
+  "id": 329865,
+  "title": "Arrival",
+  "poster_path": "https://image.tmdb.org/t/p/w500/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+  "release_date": "2016-11-10",
+  "vote_average": 7.595,
+  "vote_count": 16917,
+  "popularity": 76.555,
+  "overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+  "imdb_id": "tt2543164",
+  "budget": 47000000,
+  "homepage": "http://www.arrivalmovie.com/",
+  "revenue": 203388186,
+  "runtime": 116,
+  "tagline": "Why are they here?",
+  "genres": [
+    "Drama",
+    "Science Fiction",
+    "Mystery"
+  ],
+  "production_companies": [
+    "FilmNation Entertainment",
+    "Lava Bear",
+    "21 Laps Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Amy Adams",
+        "character": "Dr. Louise Banks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1bJUW9KPefhBfAS0UxbM05OL3lG.jpg"
+      },
+      {
+        "name": "Jeremy Renner",
+        "character": "Ian Donnelly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+      },
+      {
+        "name": "Forest Whitaker",
+        "character": "Colonel G. T. Weber",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1GbfuDitXDBmNmXEKk2rGEXiEXE.jpg"
+      },
+      {
+        "name": "Michael Stuhlbarg",
+        "character": "Agent Halpern",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+      },
+      {
+        "name": "Tzi Ma",
+        "character": "General Shang",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x4fz0LCIiBNGdil3nBYO22W7QJ0.jpg"
+      },
+      {
+        "name": "Mark O'Brien",
+        "character": "Captain Marks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aIWyiQ5F7fSVjxrUJ624NypXYUF.jpg"
+      },
+      {
+        "name": "Julia Scarlett Dan",
+        "character": "Hannah (12 yrs. old)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5keIOToJhdil2uaTOXq5JX4e3OR.jpg"
+      },
+      {
+        "name": "Abigail Pniowsky",
+        "character": "Hannah (8 yrs. old)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7eJr5zQzD0YUKBKWY0tMoliqUVg.jpg"
+      },
+      {
+        "name": "Jadyn Malone",
+        "character": "Hannah (6 yrs. old)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pVcseEB0gNjmkGRbvmnV8XAsPae.jpg"
+      },
+      {
+        "name": "Carmela Nozza Guizzo",
+        "character": "Hannah (4 yrs. old)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n3fS5xyxkphqe1KjUx6ru8XMjKh.jpg"
+      },
+      {
+        "name": "Andrew Shaver",
+        "character": "Environmental Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6W89t1kbnI9dWUVUT0fwTotufsd.jpg"
+      },
+      {
+        "name": "Shawn Campbell",
+        "character": "News Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Ig2HrGgaDIGGICjgZ7vwcYUH0H.jpg"
+      },
+      {
+        "name": "Larry Day",
+        "character": "Deputy Director of the CIA Dan Ryder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zMQdq90V0lVWrcKYUZUzlacLEyX.jpg"
+      },
+      {
+        "name": "Pat Kiely",
+        "character": "Environmental Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2kAUcHI2WZqHUQ7Jqf6FtBTY4tK.jpg"
+      },
+      {
+        "name": "Frank Schorpion",
+        "character": "Dr. Kettler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aYHpKplVgIeuN8VoJq5R1Im9QKi.jpg"
+      },
+      {
+        "name": "Lucas Chartier-Dessert",
+        "character": "Private Lasky",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucy Van Oldenbarneveld",
+        "character": "CNAC Anchor",
+        "profile_path": ""
+      },
+      {
+        "name": "Sonia Vigneault",
+        "character": "Dr. J. Bydwell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d5J2biQHKW9y1c3fbDNu0mJf8jv.jpg"
+      },
+      {
+        "name": "Mark Camacho",
+        "character": "Richard Riley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AruZfSgqYW23yTMlIdt0pu6iBf8.jpg"
+      },
+      {
+        "name": "Sabrina Reeves",
+        "character": "Press Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2clqh6Iw5rzvYtQrkGHh3cbCdbO.jpg"
+      },
+      {
+        "name": "Russell Yuen",
+        "character": "Chinese Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yFYpcN2YxJLCFr9p7kaOwunN1Cb.jpg"
+      },
+      {
+        "name": "Julian Casey",
+        "character": "Australian Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wnOWoj4ar0YH6ztGgZMqKWtQ4TJ.jpg"
+      },
+      {
+        "name": "Tony Robinow",
+        "character": "British Scientist",
+        "profile_path": ""
+      },
+      {
+        "name": "Anana Rydvald",
+        "character": "Danish Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1xWKz3AuJEUMRcZs4cbGFW6vTGi.jpg"
+      },
+      {
+        "name": "Ruth Chiang",
+        "character": "Chinese Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/icRmDLVEzjw4vYyL2UhLWuyUTaB.jpg"
+      },
+      {
+        "name": "Sergiy Marchenko",
+        "character": "Russian Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Brittany Teo",
+        "character": "Student with Smartphone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kvx5SXYvUKaXlj3Egh9vSh6Ursc.jpg"
+      },
+      {
+        "name": "Christian Jadah",
+        "character": "Private Combs",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4rUY53erA4BC9qap5OPL8hvSEV5.jpg"
+      },
+      {
+        "name": "Joe Cobden",
+        "character": "Cryptographer #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g7EsYXdEoNv9s73ZI10SC2gL8MD.jpg"
+      },
+      {
+        "name": "Lorne Brass",
+        "character": "Cryptographer #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rW5Z2bZzOGAfRlfnsvtKcWKEuHK.jpg"
+      },
+      {
+        "name": "Genevieve Sirois",
+        "character": "Cryptographer #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8UHnQSCniuteQRa1aHcWd3v1hgW.jpg"
+      },
+      {
+        "name": "Abdul Ayoola",
+        "character": "Sierra Leone Representative",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tAVzqyPPImvaCdzE5lcRq2rHDRH.jpg"
+      },
+      {
+        "name": "Bineyam Girma",
+        "character": "Sudanese representative",
+        "profile_path": ""
+      },
+      {
+        "name": "Abdelghafour Elaaziz",
+        "character": "African Representative",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o1dFWUcAuEuuf2lTEeQtxn8vkrB.jpg"
+      },
+      {
+        "name": "Daniel Esteban",
+        "character": "Venezuelan Representative",
+        "profile_path": ""
+      },
+      {
+        "name": "Hal Roberts",
+        "character": "American TV News Anchor",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew Willson",
+        "character": "Preacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Andres Trelles Turgeon",
+        "character": "Science Team Member #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/da54ECcQiSVdsViJVxJ7Uk3NLE4.jpg"
+      },
+      {
+        "name": "Michael Nangreaves",
+        "character": "Science Team Member #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9X0zkN25EfJr8NhwRKOqn1Ixl7Y.jpg"
+      },
+      {
+        "name": "Robert D. Morais",
+        "character": "Master Sergeant Douglas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/26oLtUguTM2IAaxnddY5AXBcbOE.jpg"
+      },
+      {
+        "name": "Mustafa Haidari",
+        "character": "Foreign Correspondent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ya9C139lPT5rOBLWSi1PVa9Ian3.jpg"
+      },
+      {
+        "name": "Albert Kwan",
+        "character": "Chinese Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5k2i7ZmMFGuqKHtV5glHr1KLj5I.jpg"
+      },
+      {
+        "name": "Reda Guerinik",
+        "character": "Communications Operator #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/66QwHuyRIT7OHzukyWTaN9sjQKG.jpg"
+      },
+      {
+        "name": "Adrien Benn",
+        "character": "Communications Operator #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Sasha Samar",
+        "character": "Communications Operator #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aOOFD8XslanOLf0ghZNbKTJ60PO.jpg"
+      },
+      {
+        "name": "Kathleen Stavert",
+        "character": "Communications Operator #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nbcZ2CDfwZWJGhG2DNf2BRurkWe.jpg"
+      },
+      {
+        "name": "Kattia Thony",
+        "character": "Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7GVrLkRSwk6bVqtu9eMlI9lNKcH.jpg"
+      },
+      {
+        "name": "Leisa Reid",
+        "character": "Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9ozcrzlHIYF9aAzqwvMdXKUBDz7.jpg"
+      },
+      {
+        "name": "Brent Skagford",
+        "character": "Lieutenant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zyqBiHqsd7JnrHTPw3vCWHipIff.jpg"
+      },
+      {
+        "name": "Gurdeep Ahluwalia",
+        "character": "Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yMwMmHxRSQgJeEaoRaYVeiooPo.jpg"
+      },
+      {
+        "name": "Brian Dunstan",
+        "character": "TV Anchor",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Duran",
+        "character": "TV Anchor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vCWv4gSo1QQfjzpymcub0lLkYgD.jpg"
+      },
+      {
+        "name": "Lori Graham",
+        "character": "TV Anchor",
+        "profile_path": ""
+      },
+      {
+        "name": "Orla Johannes",
+        "character": "TV Anchor",
+        "profile_path": ""
+      },
+      {
+        "name": "Sangita Patel",
+        "character": "TV Anchor",
+        "profile_path": ""
+      },
+      {
+        "name": "Tammie Sutherland",
+        "character": "TV Anchor",
+        "profile_path": ""
+      },
+      {
+        "name": "Max Walker",
+        "character": "TV Anchor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nsB05Tt8724mPi5ZfU2VqOEvwhN.jpg"
+      },
+      {
+        "name": "John Sanford Moore",
+        "character": "TV Anchor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m132FidhwxpN2Re4c1yWsh32y0N.jpg"
+      },
+      {
+        "name": "Camille Ross",
+        "character": "TV Anchor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6OAcwC8d07xkOBhPnw11nQSvxtz.jpg"
+      },
+      {
+        "name": "Ola Sturik",
+        "character": "TV Anchor",
+        "profile_path": ""
+      },
+      {
+        "name": "Karen Belfo",
+        "character": "Skype CIA Agent (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/84gCoWnwHhyxOFVOGk2bDe5hnX5.jpg"
+      },
+      {
+        "name": "Chloë Bellande",
+        "character": "MIT College girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Philippe Hartmann",
+        "character": "Halpern's Deputy Director (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hwCmJIZIXHgXna30qLmzuFQOBAr.jpg"
+      },
+      {
+        "name": "Laurean Adrian Parau",
+        "character": "US Army Major (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nathaly Thibault",
+        "character": "Gala Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Leslie Baker",
+        "character": "Middle Aged Woman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tf6X6g0SmIcZZjh9HBRBA7bsUVQ.jpg"
+      },
+      {
+        "name": "Alex M. Yeuh",
+        "character": "Japanese Minister",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave Campbell",
+        "character": "Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yLoKRiuKHyhweLUxUD56AsnNdgj.jpg"
+      },
+      {
+        "name": "Alexander Da Mota",
+        "character": "Venezuelan Military",
+        "profile_path": ""
+      },
+      {
+        "name": "Akul Dang",
+        "character": "Pakistani Scientist",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Fiola",
+        "character": "Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dd1gCE203xnhO6sz9TeJGq5vv63.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Denis Villeneuve",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zdDx9Xs93UIrJFWYApYR28J8M6b.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "spacecraft",
+    "loss",
+    "time",
+    "alien",
+    "language",
+    "female protagonist",
+    "scientist",
+    "heartbreak",
+    "based on short story",
+    "military",
+    "alien language",
+    "linguist",
+    "first contact",
+    "communication",
+    "linguistics",
+    "time-manipulation",
+    "time manipulation"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.",
+    "Linguistics professor Louise Banks leads an elite team of investigators when gigantic spaceships touchdown in 12 locations around the world. As nations teeter on the verge of global war, Banks and her crew must race against time to find a way to communicate with the extraterrestrial visitors. Hoping to unravel the mystery, she takes a chance that could threaten her life and quite possibly all of mankind.—Jwelch5742",
+    "Aliens have landed on Earth, in 12 different locations. Language professor Louise Banks joins a US army team at one of the locations, in Montana. Her job is to try to learn the aliens' language and enable communication with them. Through regular meetings with two of the aliens she starts to compile a record of the aliens' \"language\" - a series of drawn symbols. The important question is - are they friend or foe? Other nations with alien landings are starting to view them as a threat, making it a race against time as war with the aliens could erupt at any moment.—grantss",
+    "Twelve bizarre and mysterious alien crafts situate themselves around the world, an expert linguist, Dr. Louise Banks (Amy Adams) is recruited by the military to construct a means of conversing with the aliens to discover whether they arrived with peaceful or threatening intentions. The nations of this world always think things that occur unexpectedly have destructive tendencies. Time is non-linear for the aliens, and they have different means of communication.—Michael of lillym_325@yahoo.com",
+    "In the clear skies of Montana, during an unprecedented worldwide incident of simultaneous first contact with extraterrestrial life forms, an ominous alien pod, out of twelve in total, comes to a standstill, hovering only a few feet over the green prairies. Inevitably, as panic ensues, Colonel G.T. Weber recruits a team of various experts, including the esteemed linguistics and dialectology, Professor Dr Louise Banks, and the theoretical physicist, Dr Ian Donnelly, burdening them with the impossible task to decipher a coded conversation with the intergalactic visitors. But, when all attempts to communicate prove fruitless, a practical, yet very important question will arise: does humanity have enough vocabulary to understand the aliens' answer before a new global war sparks?—Nick Riganas"
+  ],
+  "synopsis": "Linguist Louise Banks (Amy Adams) is caring for her adolescent daughter, who dies of cancer. While she is lecturing at a university, twelve extraterrestrial spacecraft appear. U.S. Army Colonel Weber (Forest Whitaker) asks Louise to join physicist Ian Donnelly (Jeremy Renner) (an experimental physicist) to decipher their language and find out why they have come to Earth.The team is brought to a U.S. military camp in Montana near one of the spacecrafts and makes contact with two seven-limb aliens on board. They call the extraterrestrials \"Heptapods\", and Ian nicknames them Abbott and Costello. Louise discovers that they have a written language of complicated circular symbols and begins to learn the symbols that correspond to a basic vocabulary. As she becomes more proficient, she starts to see and dream vivid images of herself with a little girl whom she doesn't recognize.When Louise asks what the aliens want, they answer: \"offer weapon\". A similar translation \"use weapon\" is made by one of the other sites. Fear of a potential threat from the aliens leads other nations to close down communications on the project, and some prepare their military for attack. However, Louise thinks that the symbol interpreted as \"weapon\" might have an alternative translation, such as \"tool\" or \"technology\".Rogue U.S. soldiers plant explosives in the spacecraft. Unaware, Louise and Ian re-enter. The aliens give them a much larger and more complex message. Abbott ejects Ian and Louise from the craft as the explosion occurs, which leaves them unconscious. Louise and Ian come round in the camp as the military prepares to evacuate, and the spacecraft moves higher above the ground. Ian works out that the symbols relate to the concept of time, and that it is one-twelfth of the whole \"gift\"; they conclude that the aliens must want nations to cooperate.Meanwhile, China notifies the world that its military is planning to attack the spacecraft off its coast. Louise rushes back to the spacecraft, which sends down a shuttle to take her inside. She meets Costello, who communicates that Abbott is dying. Louise asks about her visions of a daughter (whom she doesn't recognize), and Costello explains that she is seeing the future, revealing that her \"visions\" were not flashbacks but flash-forwards. Costello also communicates that they have come to help humanity by sharing their language, which is the \"weapon\" or \"tool\" because it changes the mind's perception of time. The aliens know that 3000 years into the future they will need humanity's help in return. They ask her to use her \"weapon\"-her ability to see into the future.Louise returns as the camp is being evacuated. She has a vision of herself at a future United Nations reception, being thanked by the Chinese General Shang (Tzi Ma) for convincing him to suspend the military attack. He explains that she had called his private mobile telephone. He shows her its number, which he says he knows he must do without understanding why. In the present, Louise steals a satellite phone and calls Shang, but realizes she does not know what to say. Her vision continues with Shang explaining that she had convinced him by repeating his wife's last words in Mandarin, which he tells Louise. This convinces Shang in present time, and the Chinese attack is called off and the other nations resume contact with each other, as the spacecraft disappear from Earth.When packing to leave the camp, Ian admits his love for Louise. They discuss life choices, and whether they would change them if they knew the future. Louise foresees that Ian will father her daughter Hannah, whose name is an intentional palindrome, and leave her after discovering that she knew their daughter would die before adulthood. Despite seeing that Ian will leave her after revealing their daughter's future, when Louise is asked if she wants to have a baby, she agrees.",
+  "imdb_score": 7.9
+}

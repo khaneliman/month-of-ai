@@ -1,0 +1,681 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/tHnHTp50qDx7br1i9ulh74MUW0A.jpg",
+  "id": 511809,
+  "title": "West Side Story",
+  "poster_path": "https://image.tmdb.org/t/p/w500/myAX5qoD6YVLNGiWpk2wcU66Vfq.jpg",
+  "release_date": "2021-12-08",
+  "vote_average": 7.014,
+  "vote_count": 1420,
+  "popularity": 27.439,
+  "overview": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+  "imdb_id": "tt3581652",
+  "budget": 100000000,
+  "homepage": "https://www.20thcenturystudios.com/movies/west-side-story",
+  "revenue": 74500000,
+  "runtime": 156,
+  "tagline": "",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Crime"
+  ],
+  "production_companies": [
+    "20th Century Studios",
+    "Amblin Entertainment",
+    "TSG Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Ansel Elgort",
+        "character": "Tony",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pbU6qz8eudly20UE6u9T7jUXTgT.jpg"
+      },
+      {
+        "name": "Rachel Zegler",
+        "character": "María",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a1RxUQd3HExVgt8laH4VaUytdz.jpg"
+      },
+      {
+        "name": "Ariana DeBose",
+        "character": "Anita",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8HTSA2iVTsDN83OncAvFTcqxsAr.jpg"
+      },
+      {
+        "name": "David Alvarez",
+        "character": "Bernardo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gQ9VIVXq6N11LMhVaEEGmRD5uqA.jpg"
+      },
+      {
+        "name": "Mike Faist",
+        "character": "Riff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fk7zMd0PAPyhUbEMVH0zzyzzDM7.jpg"
+      },
+      {
+        "name": "Brian d'Arcy James",
+        "character": "Officer Krupke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Gz3b0A20Vrq7aadGfjZekdgGFK.jpg"
+      },
+      {
+        "name": "Corey Stoll",
+        "character": "Lieutenant Schrank",
+        "profile_path": "https://image.tmdb.org/t/p/w185/etqmosIyf1xePKpi3i6rHJCm9GE.jpg"
+      },
+      {
+        "name": "Rita Moreno",
+        "character": "Valentina",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zB0M77jr7tmsmWHEr2bWO2Xq66L.jpg"
+      },
+      {
+        "name": "Josh Andrés Rivera",
+        "character": "Chino",
+        "profile_path": "https://image.tmdb.org/t/p/w185/YKPq9GKl4ffoEeat7DZmlsOlxx.jpg"
+      },
+      {
+        "name": "Ana Isabelle",
+        "character": "Rosalía",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Nxp17PyLleWns6iiKfD1bEk7Ei.jpg"
+      },
+      {
+        "name": "Ilda Mason",
+        "character": "Luz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AqtJokCzeoLcRAiR1pKVMtbdba8.jpg"
+      },
+      {
+        "name": "iris menas",
+        "character": "Anybodys",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yfocqogbTG6MHmL7bPz7qAIxLnf.jpg"
+      },
+      {
+        "name": "Julius Anthony Rubio",
+        "character": "Quique",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pCtkixRuXdnxkiWcVWRE7DimSRQ.jpg"
+      },
+      {
+        "name": "Tanairi Sade Vazquez",
+        "character": "Charita",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AvZ1DjSXCNT4Bvi0SzPftS1swnx.jpg"
+      },
+      {
+        "name": "David Aviles Morales",
+        "character": "Aníbal",
+        "profile_path": ""
+      },
+      {
+        "name": "Sebastian Serra",
+        "character": "Braulio",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gvCHOFdJNw92ROmhDnY5E6ZoHc8.jpg"
+      },
+      {
+        "name": "Ricardo Zayas",
+        "character": "Chago",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d7uMLeKQpmpKbkD5uazOEUqQuIP.jpg"
+      },
+      {
+        "name": "Ricky Ubeda",
+        "character": "Flaco",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gFvnqLuvOESe74JZf0CalOtDmUR.jpg"
+      },
+      {
+        "name": "Andrei Chagas",
+        "character": "Jochi",
+        "profile_path": ""
+      },
+      {
+        "name": "Adriel Flete",
+        "character": "Julito",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacob Guzman",
+        "character": "Junior",
+        "profile_path": "https://image.tmdb.org/t/p/w185/txlapNGTMbHcYfpa6hcNTeEpcBQ.jpg"
+      },
+      {
+        "name": "Kelvin Delgado",
+        "character": "Manolo",
+        "profile_path": ""
+      },
+      {
+        "name": "Carlos Sánchez Falú",
+        "character": "Pipo",
+        "profile_path": ""
+      },
+      {
+        "name": "Yurel Echezarreta",
+        "character": "Sebas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wE6v02IvH1ZMVNlmRq4icde7WFc.jpg"
+      },
+      {
+        "name": "David Guzman",
+        "character": "Tino",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cH2AtrrMfSczfRGU3XwUjZzkfQ2.jpg"
+      },
+      {
+        "name": "Sean Harrison Jones",
+        "character": "Action",
+        "profile_path": ""
+      },
+      {
+        "name": "Jess LeProtto",
+        "character": "A-Rab",
+        "profile_path": "https://image.tmdb.org/t/p/w185/adlxX3VA8HUuz4eNbPhpEWI6QOq.jpg"
+      },
+      {
+        "name": "Patrick Higgins",
+        "character": "Baby John",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3juPdAI6GpK0x6wLOHxZc7K6eVz.jpg"
+      },
+      {
+        "name": "Kyle Allen",
+        "character": "Balkan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/utHUARepKhbw4JyDVZLhcJyKYxj.jpg"
+      },
+      {
+        "name": "John Michael Fiumara",
+        "character": "Big Deal",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Csolak",
+        "character": "Diesel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qw1ZHpLfDV5DcLt2w0Uba3eUzVo.jpg"
+      },
+      {
+        "name": "Kyle Coffman",
+        "character": "Ice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4kGxPfwCOGjU5aKGVUK6YicNvQ0.jpg"
+      },
+      {
+        "name": "Ben Cook",
+        "character": "Mouthpiece",
+        "profile_path": "https://image.tmdb.org/t/p/w185/siFE5F4ReT1krbu3kPseVx0OO6T.jpg"
+      },
+      {
+        "name": "Harrison Coll",
+        "character": "Numbers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2j3v1QX6TL8fvIcCrT71L9fquzr.jpg"
+      },
+      {
+        "name": "Garett Hawe",
+        "character": "Skink",
+        "profile_path": ""
+      },
+      {
+        "name": "Myles Erlick",
+        "character": "Snowboy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tF5z54JpnMpLaRpTHfuEQuPfOy2.jpg"
+      },
+      {
+        "name": "Julian Elia",
+        "character": "Tiger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o71SOx6NFtb6XTOW7VJpeOBWzHA.jpg"
+      },
+      {
+        "name": "Carlos E. Gonzalez",
+        "character": "Chucho",
+        "profile_path": "https://image.tmdb.org/t/p/w185/snF3wY5gRSpILtiaPmhiNLSZvwh.jpg"
+      },
+      {
+        "name": "Daniel Patrick Russell",
+        "character": "Little Moly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2N4labZCeHvFZMSxj6OAsrBSscf.jpg"
+      },
+      {
+        "name": "Yesenia Ayala",
+        "character": "Clary",
+        "profile_path": ""
+      },
+      {
+        "name": "Gabriela M. Soto",
+        "character": "Conchi",
+        "profile_path": ""
+      },
+      {
+        "name": "Juliette Feliciano Ortiz",
+        "character": "Cuca",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeanette Delgado",
+        "character": "Ili",
+        "profile_path": ""
+      },
+      {
+        "name": "Maria Alexis Rodriguez",
+        "character": "Isa",
+        "profile_path": ""
+      },
+      {
+        "name": "Edriz E. Rosa Pérez",
+        "character": "Jacinta",
+        "profile_path": ""
+      },
+      {
+        "name": "Jennifer Florentino",
+        "character": "Montse",
+        "profile_path": ""
+      },
+      {
+        "name": "Melody Martí",
+        "character": "Pili",
+        "profile_path": ""
+      },
+      {
+        "name": "Gaby Diaz",
+        "character": "Tati",
+        "profile_path": ""
+      },
+      {
+        "name": "Isabella Ward",
+        "character": "Tere",
+        "profile_path": ""
+      },
+      {
+        "name": "Eloise Kropp",
+        "character": "Jet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Q6nPMxO4OiB2I05GWr4sUod7WI.jpg"
+      },
+      {
+        "name": "Paloma Garcia-Lee",
+        "character": "Graziella",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i9bAJ4zpikvXvwjjXxCvSXTvAsq.jpg"
+      },
+      {
+        "name": "Leigh-Ann Esty",
+        "character": "Gussie",
+        "profile_path": ""
+      },
+      {
+        "name": "Lauren Leach",
+        "character": "Karen",
+        "profile_path": ""
+      },
+      {
+        "name": "Brittany Pollack",
+        "character": "Mack",
+        "profile_path": ""
+      },
+      {
+        "name": "Kellie Drobnick",
+        "character": "Mamie",
+        "profile_path": ""
+      },
+      {
+        "name": "Skye Mattox",
+        "character": "Maxie",
+        "profile_path": ""
+      },
+      {
+        "name": "Adriana Pierce",
+        "character": "Natalie",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonalyn Saxer",
+        "character": "Rhonda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bBxXlnLwTD85ecMtG2wezoPX3dY.jpg"
+      },
+      {
+        "name": "Brianna Abruzzo",
+        "character": "Sorella",
+        "profile_path": ""
+      },
+      {
+        "name": "Halli Toland",
+        "character": "Sweden",
+        "profile_path": ""
+      },
+      {
+        "name": "Sara Esty",
+        "character": "Tat",
+        "profile_path": ""
+      },
+      {
+        "name": "Talia Ryder",
+        "character": "Tessa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dq7nhIjhIFynugVdw3SmKaSY46B.jpg"
+      },
+      {
+        "name": "Maddie Ziegler",
+        "character": "Velma",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zMY7VuUUvJjzi52bERurbe8vKsR.jpg"
+      },
+      {
+        "name": "Andréa Burns",
+        "character": "Fausta",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1I8H50hOWMs5XpfaK92Mttr9m0y.jpg"
+      },
+      {
+        "name": "Mike Iveson",
+        "character": "Glad Hand",
+        "profile_path": ""
+      },
+      {
+        "name": "Jamila Velazquez",
+        "character": "Meche",
+        "profile_path": ""
+      },
+      {
+        "name": "Annelise Cepero",
+        "character": "Provi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vxtWQFZF70gsaDyHA6y2uQnEWgO.jpg"
+      },
+      {
+        "name": "Yassmin Alers",
+        "character": "Lluvia",
+        "profile_path": ""
+      },
+      {
+        "name": "Jamie Harris",
+        "character": "Rory",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w4RhAUrejInGkOYc0T4B6Wxpncd.jpg"
+      },
+      {
+        "name": "Curtiss Cook",
+        "character": "Abe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3mk5CZBzdjYUzmrfMDSnGJL4QIb.jpg"
+      },
+      {
+        "name": "Nadia Quinn",
+        "character": "Streetwalker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ehUgDenC6dPe3wYmnum4REVur86.jpg"
+      },
+      {
+        "name": "Arianna Rosario",
+        "character": "Puertorriqueña #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Natalie Toro",
+        "character": "Puertorriqueña #2",
+        "profile_path": ""
+      },
+      {
+        "name": "María Alejandra Castillo",
+        "character": "Pachanga Shark Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Mannelly Gonzalez Abreu",
+        "character": "Pachanga Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Maya Haghighi Guliani",
+        "character": "Pachanga Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tyler Myers",
+        "character": "Pachanga Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jesseudi Marcelino",
+        "character": "Pachanga Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "German M. Castillo",
+        "character": "Pachanga Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ciara Calderon",
+        "character": "Pachanga Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Aubrey Mills",
+        "character": "Pachanga Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Leonardo Ro",
+        "character": "Pachanga Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrian Castillo",
+        "character": "Pachanga Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Luke Joseph Fuentes Duculan",
+        "character": "Pachanga Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Abigail R. Valdez",
+        "character": "Pachanga Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Navio Lopez",
+        "character": "Pachanga Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Cruz",
+        "character": "Restaurant Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qPjjedetherS1O4W0Uv4A2usfOo.jpg"
+      },
+      {
+        "name": "Erik Charlston",
+        "character": "Gym Band (Band Leader)",
+        "profile_path": ""
+      },
+      {
+        "name": "Clint de Ganon",
+        "character": "Gym Band (Drums)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave Phillips",
+        "character": "Gym Band (Bass)",
+        "profile_path": ""
+      },
+      {
+        "name": "Silvano Monasterios",
+        "character": "Gym Band (Piano)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ric Molina",
+        "character": "Gym Band (Guitar)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Pearson",
+        "character": "Gym Band (Sax)",
+        "profile_path": ""
+      },
+      {
+        "name": "Hommy Ramos",
+        "character": "Gym Band (Trombone)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jose Ruiz",
+        "character": "Gym Band (Trumpet 1)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jumaane Smith",
+        "character": "Gym Band (Trumpet 2)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave Noland",
+        "character": "Gym Band (Reed Player)",
+        "profile_path": ""
+      },
+      {
+        "name": "Roland Morales",
+        "character": "Gym Band (Percussionist 1)",
+        "profile_path": ""
+      },
+      {
+        "name": "Javier Diaz",
+        "character": "Gym Band (Percussionist 2)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chryssie Whitehead",
+        "character": "Female Social Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9kUVzfjtq77tPeSKMUaMrLNEJRK.jpg"
+      },
+      {
+        "name": "Ron Stroman",
+        "character": "Custodian",
+        "profile_path": ""
+      },
+      {
+        "name": "Rene Ojeda",
+        "character": "Elderly Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Feiga Martinez",
+        "character": "Elderly Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Massimino",
+        "character": "Cop #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/954LJsI9Wic8lcS9H3A6llmznry.jpg"
+      },
+      {
+        "name": "Ryan Woodle",
+        "character": "Cop #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1WqsEXVQqsP00Ih68tjMtLDvNwT.jpg"
+      },
+      {
+        "name": "David Bean",
+        "character": "Fabric Store Owner",
+        "profile_path": ""
+      },
+      {
+        "name": "Bert Michaels",
+        "character": "Gimbels Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2DWHmoXAw7naIH00Y4evQpiX8ac.jpg"
+      },
+      {
+        "name": "Joe Lanza",
+        "character": "Detective in Morgue",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hSAgzc6sKwGa6FeO5oCJtpbtVBr.jpg"
+      },
+      {
+        "name": "Savannah Renée Rodriguez",
+        "character": "Young Girl María",
+        "profile_path": ""
+      },
+      {
+        "name": "Denia Brache",
+        "character": "Old Lady María",
+        "profile_path": ""
+      },
+      {
+        "name": "Lesley Bilingslea",
+        "character": "Boxing Promoter",
+        "profile_path": ""
+      },
+      {
+        "name": "Andy Powers",
+        "character": "Cop in Salt Shed",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nUJlEbMB1CB3JwSGzMUXJSKbEla.jpg"
+      },
+      {
+        "name": "Reginald L. Barnes",
+        "character": "Detective #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rSP1ceuVk5g54jkOpxC9s1mX5PH.jpg"
+      },
+      {
+        "name": "Patrick Noonan",
+        "character": "Detective #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kJENW5zGcvbQiASqFs6rpyfjtlS.jpg"
+      },
+      {
+        "name": "Jeff Ward",
+        "character": "Grizzled Trainer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mgFudU2FAOHUcYJDccPQipjAoQK.jpg"
+      },
+      {
+        "name": "Pablo Thomas",
+        "character": "Hardware Store Owner",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Niebanck",
+        "character": "Taxi Passenger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4LnKx8XEIPaP9YOQNd2NqrIkBAu.jpg"
+      },
+      {
+        "name": "Ixchel Cuellar",
+        "character": "Demonstrator",
+        "profile_path": ""
+      },
+      {
+        "name": "Ricky Garcia",
+        "character": "Demonstrator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hWAo9W7sxSYHm9VbnsTP3VMlnsC.jpg"
+      },
+      {
+        "name": "Oscar Antonio Rodriguez",
+        "character": "Demonstrator",
+        "profile_path": ""
+      },
+      {
+        "name": "José Ramón Rosario",
+        "character": "Demonstrator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hR9hr1OPrxEMVpYoljkma954mQo.jpg"
+      },
+      {
+        "name": "Doreen Montalvo",
+        "character": "Demonstrator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vMZEIOUDfEwPZCodfeMlEQ337d3.jpg"
+      },
+      {
+        "name": "Shade Rupe",
+        "character": "Construction Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/69dc66AU0CYKVS6OKJro704gZEE.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Steven Spielberg",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "dancing",
+    "dance",
+    "street gang",
+    "love at first sight",
+    "forbidden love",
+    "musical",
+    "based on play or musical",
+    "interracial relationship",
+    "racism",
+    "young love",
+    "broadway musical",
+    "1950s",
+    "romeo & juliet",
+    "latino"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "An adaptation of the 1957 musical, West Side Story explores forbidden love and the rivalry between the Jets and the Sharks, two teenage street gangs of different ethnic backgrounds.",
+    "Manhattan, Upper West Side, 1957. Against the backdrop of the decaying tenements in the San Juan Hill neighbourhood and the constant threat of the wrecking ball, two warring gangs--tough Riff's Jets and swaggering Bernardo's Puerto Rican Sharks--fight for supremacy. Now, with a once-and-for-all, winner-takes-all rumble on the cards, an unexpected whirlwind romance at the high-school dance between former Jet brawler Tony and Bernardo's delicate little sister María sets the stage for an all-out turf war. But what's a gang without its territory? Above all, when the future is uncertain, what's hope without love?—Nick Riganas"
+  ],
+  "synopsis": "In 1957, the Jets are a gang of white youths that fight the Puerto Rican Sharks for control of San Juan Hill on Manhattan's Upper West Side. Officer Krupke (Brian d'Arcy James) and Lieutenant Schrank (Corey Stoll) break up the brief skirmish, telling the gangs that their conflict is pointless since the neighborhood will be imminently demolished to make way for Lincoln Center.\nThe gangs are too proud to care, and Jet leader Riff (Mike Faist) proposes a \"rumble\" (fight) between the two gangs. He approaches his friend Tony (Ansel Elgort), who is on parole, for help. Tony refuses, wishing to turn over a new leaf with the help of Valentina (Rita Moreno), the Puerto Rican owner of Doc's general store.Meanwhile, Maria (Rachel Zegler), Shark leader Bernardo's (David Alvarez) sister, is betrothed to his friend Chino (Josh Andrés Rivera) but yearns for independence. At a local dance, Tony and Maria meet and fall in love. The school organizer wanted a social experiment with whites and Puerto Ricans dancing with each other. But Riff and Bernardo were adamant to stick to racial lines. Tony comes in and finds Maria standing alone on the side, as Chico cant dance (he is a boxer). TOny and Maria find each other on the dance floor. They share a private dance behind the stadium seats.This angers Bernardo, who agrees to Riff's terms for a rumble if Tony attends. The date is the following day, midnight. no weapons likes knives or guns are allowed. Tony voices his love for Maria and the couple meets on Maria's fire escape, promising to see each other the next day.Bernardo and his girlfriend Anita (Ariana DeBose) feud over life in New York compared to Puerto Rico, with Anita believing in the American Dream in spite of the pessimistic Bernardo (Anita wants to have a career and a life in the US, while Bernardo wants 6 kids and wants to return to Puerto Rico). The police interrogate the Jets about the rumble, but they deny any knowledge. Tony takes Maria on a date to the Cloisters in Upper Manhattan. He reveals he was imprisoned for a year after he nearly beat a rival gang member to death, which scared him into reforming. Maria makes Tony promise to stop the rumble, and they pledge their love to one another. Tony knows they cant be together till the rumbles continue. Tony tries to convince Riff to call off the rumble by stealing his newly-bought gun, but the Jets steal it back. Schrank orders Krupke and the police to stop the rumble.Despite their and Tony's efforts (Tony tells Bernardo that he apologizes for offending him and he has nothing to worry about with regards to Maria. Bernardo attacks Tony and the rumble starts between the assembled gangs), the rumble continues and Bernardo fatally stabs Riff. Tony, in a fit of rage, stabs Bernardo and kills him. The gangs flee when the police arrive, while Chino finds Riff's gun.Maria gushes about her love for Tony at work (she works as a janitor at a department store, cleaning the store at night, when it is empty), but Chino arrives and reveals Tony killed Bernardo. Maria is distraught, but meeting Tony later she refuses to let him turn himself in as it would mean losing him as well, and they plot to run away together. Valentina (Tony's employer and a maternal figure in his life. Valentina is herself a Puetro Rican and the runs a pharmacy after the Doc's death) learns of Bernardo's death and reflects on her interracial relationship with the late Doc. Meanwhile, Chino plots to kill Tony against the Sharks' protests (as this will only increase the cycle of violence).After identifying Bernardo's body at the morgue, Anita returns home to see Maria with Tony as he leaves the apartment. Anita argues with Maria but accepts that she and Tony are in love. While Schrank interrogates Maria about Tony's whereabouts, she sends Anita to warn TOny about Chino. However, Anita encounters the Jets (who know that Chino has Riff's gun and is hunting for Tony), who shout racial slurs and attempt to sexually assault her, but Valentina intervenes. Traumatized, Anita spitefully claims Chino killed Maria and vows to return to Puerto Rico, giving up all hope on her American dream. Valentina condemns the Jets, who disperse in shame.Valentina informs Tony of Anita's claims, and he runs into the streets begging for Chino to kill him. Maria arrives to his relief, but Chino emerges and shoots Tony; he dies in Maria's arms. Maria takes the gun and aims it at the gathered Jets and Sharks, berating them for the senseless deaths their conflict caused, before tearfully dropping the gun. As the police arrive to arrest Chino, the gangs assemble together to take Tony's body and carry it into Doc's with Maria following.",
+  "imdb_score": 7.1
+}

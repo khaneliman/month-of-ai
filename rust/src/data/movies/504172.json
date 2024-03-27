@@ -1,0 +1,421 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/mrgPeVDJEexgQ0UyqVyeJGvbefJ.jpg",
+  "id": 504172,
+  "title": "The Mule",
+  "poster_path": "https://image.tmdb.org/t/p/w500/vkOfx5meJvFb4qmAJU7j6v8IIpZ.jpg",
+  "release_date": "2018-12-14",
+  "vote_average": 6.836,
+  "vote_count": 4699,
+  "popularity": 27.649,
+  "overview": "Earl Stone, a man in his eighties, is broke, alone, and facing foreclosure of his business when he is offered a job that simply requires him to drive. Easy enough, but, unbeknownst to Earl, he's just signed on as a drug courier for a Mexican cartel. He does so well that his cargo increases exponentially, and Earl hit the radar of hard-charging DEA agent Colin Bates.",
+  "imdb_id": "tt7959026",
+  "budget": 50000000,
+  "homepage": "http://www.themulefilm.com",
+  "revenue": 174800000,
+  "runtime": 116,
+  "tagline": "Nobody Runs Forever",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    "Imperative Entertainment",
+    "Bron Studios",
+    "Malpaso Productions",
+    "Warner Bros. Pictures",
+    "Creative Wealth Media Finance"
+  ],
+  "production_countries": [
+    "CA",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Clint Eastwood",
+        "character": "Earl Stone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dU35NnjZ4aGw5abIJe3WXVf3Eey.jpg"
+      },
+      {
+        "name": "Bradley Cooper",
+        "character": "Agent Colin Bates",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lq68RaE8zK4lNaB49RWOukyorgn.jpg"
+      },
+      {
+        "name": "Laurence Fishburne",
+        "character": "Special Agent in Charge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iwx7h0AfWMm9K4sMmhru3ShSra.jpg"
+      },
+      {
+        "name": "Michael Peña",
+        "character": "Agent Treviño",
+        "profile_path": "https://image.tmdb.org/t/p/w185/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+      },
+      {
+        "name": "Dianne Wiest",
+        "character": "Mary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p9mfzY68FtEbedOMNB5X4eBShhx.jpg"
+      },
+      {
+        "name": "Andy García",
+        "character": "Latón",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aRooE4lECWf0YXd2NefeM4Wu4rn.jpg"
+      },
+      {
+        "name": "Ignacio Serricchio",
+        "character": "Julio",
+        "profile_path": "https://image.tmdb.org/t/p/w185/12De80bakY7dgxrGxw9fuu7b4eR.jpg"
+      },
+      {
+        "name": "Taissa Farmiga",
+        "character": "Ginny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kC2Movbs6uEF8DdDhvyHizQHuru.jpg"
+      },
+      {
+        "name": "Alison Eastwood",
+        "character": "Iris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j9TgJtfZ2uSx2C6WM0WYtRmBOyG.jpg"
+      },
+      {
+        "name": "Richard Herd",
+        "character": "Tim Kennedy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f0ujcKr8PiR6ZrkQikUQno4yeHl.jpg"
+      },
+      {
+        "name": "Lobo Sebastian",
+        "character": "Bug",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jY11dhfqwvh5BTx0cVU5ZooHcpU.jpg"
+      },
+      {
+        "name": "Manny Montana",
+        "character": "Axl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/EUoD5EalyUDHZtRZCnosRqhMi.jpg"
+      },
+      {
+        "name": "Noel Gugliemi",
+        "character": "Bald Rob",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8jujXofjpSroMQ1R2JLB0GWIPor.jpg"
+      },
+      {
+        "name": "Gustavo Muñoz",
+        "character": "Farmhand #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick L. Reyes",
+        "character": "Farmhand #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Cesar de León",
+        "character": "José",
+        "profile_path": "https://image.tmdb.org/t/p/w185/brfB3o6LSdmPNQSnoLcPrKp0VeH.jpg"
+      },
+      {
+        "name": "Jackie Prucha",
+        "character": "Helen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/63dasFOuvycFrmCuRCv9TqqCoiW.jpg"
+      },
+      {
+        "name": "Adam Drescher",
+        "character": "Computer Daylily Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4XxvgYMkKdWVwokFW3zt9Wpgsd1.jpg"
+      },
+      {
+        "name": "Christi McClintock",
+        "character": "Daylily Fan",
+        "profile_path": ""
+      },
+      {
+        "name": "Keith Flippen",
+        "character": "MC",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cs9aNyWHNRYlnizulq0oST4EUJO.jpg"
+      },
+      {
+        "name": "Kinsley Isla Dillon",
+        "character": "Younger Ginny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gmTH9ETxVysbVx1CBi1FwwKt1kX.jpg"
+      },
+      {
+        "name": "Joe Knezevich",
+        "character": "Dave",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hw7loMaFeJqfxjyk4pRRGngAfbL.jpg"
+      },
+      {
+        "name": "Megan Leahy",
+        "character": "Bartender",
+        "profile_path": ""
+      },
+      {
+        "name": "Austin Freeman",
+        "character": "Mike",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ayMPH1a0QKAeiCVk77L5i5IZdlc.jpg"
+      },
+      {
+        "name": "Victor Rasuk",
+        "character": "Rico",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1vh2Yzp9bhmaxLfpNCrO7DVoURd.jpg"
+      },
+      {
+        "name": "Robert LaSardo",
+        "character": "Emilio",
+        "profile_path": "https://image.tmdb.org/t/p/w185/maezwGo8JUbjECLB6VZJPtGvn1B.jpg"
+      },
+      {
+        "name": "Saul Huezo",
+        "character": "Andrés",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5QAXCafC2wAOFTpE2jFdbUsb8re.jpg"
+      },
+      {
+        "name": "Lee Coc",
+        "character": "Assault Rifle Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bO2zc8Ofc8n9N6hs3orBsMWSrQ7.jpg"
+      },
+      {
+        "name": "Eugene Cordero",
+        "character": "Luis Rocha",
+        "profile_path": "https://image.tmdb.org/t/p/w185/waruLSR8lXBjhAFL0J6ihuVY62d.jpg"
+      },
+      {
+        "name": "Felicia Dee",
+        "character": "Biker #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Jessica B. Wellington",
+        "character": "Biker #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael H. Cole",
+        "character": "Banker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pRtWHzyBgJ4a1qfDMaktIoTF3b2.jpg"
+      },
+      {
+        "name": "Charles Lawlor",
+        "character": "Phil",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yui3L3ugmNd8sYn9fJxGmzkTCxp.jpg"
+      },
+      {
+        "name": "Alan Heckner",
+        "character": "Texas State Trooper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qCJrv2gRqXZZmTVfztZXeinxKK8.jpg"
+      },
+      {
+        "name": "Mollie Busta",
+        "character": "Mollie-B",
+        "profile_path": ""
+      },
+      {
+        "name": "James DeForest Parker",
+        "character": "Old Vet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t2p6hIKcZXvl4O2LlLNROrUhThg.jpg"
+      },
+      {
+        "name": "Clifton Collins Jr.",
+        "character": "Gustavo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ceryVVubF74pgu13Y0KUqIzxOae.jpg"
+      },
+      {
+        "name": "Daniel Moncada",
+        "character": "Eduardo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pfR9dEo0RWq62rNqzclqx0zUQmp.jpg"
+      },
+      {
+        "name": "Paul Alayo",
+        "character": "Sal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aA8kQYrDUoF6jxInaoE8pVZy2Tf.jpg"
+      },
+      {
+        "name": "Travina Springer",
+        "character": "Young Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gHAEPKuH0X8G6FAdk2CI5dsIL1Z.jpg"
+      },
+      {
+        "name": "Kareem J. Grimes",
+        "character": "Nerdy Husband",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h6sHresOI4GXlhWCGI2lmnzjBRC.jpg"
+      },
+      {
+        "name": "Caroline Avery Granger",
+        "character": "Hot 45-Year-Old",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6rYykTbjQXZle5e0Wiv2DNrRjUP.jpg"
+      },
+      {
+        "name": "Diego Cataño",
+        "character": "Weasel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pB6Cn91Gl6g0eojAv2NC9Yko1Ye.jpg"
+      },
+      {
+        "name": "Kiana N. Paz",
+        "character": "Cartel Girl #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Ashley V. Yanez",
+        "character": "Cartel Girl #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicole M. Gomez",
+        "character": "Cartel Girl #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Dylan Kussman",
+        "character": "Sheriff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/33V8NdkLrpSCEVeIiKk5DoGRthx.jpg"
+      },
+      {
+        "name": "Grant Roberts",
+        "character": "DEA Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7eSEW858jbnQaeTtqmM0wV3G9k.jpg"
+      },
+      {
+        "name": "Pete Burris",
+        "character": "DEA Regional Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9FfIl5oggZOkQNzXakbBqAHXSam.jpg"
+      },
+      {
+        "name": "Loren Dean",
+        "character": "Agent Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zCYDwYJjrY4lpeueZYSzAXKLD5h.jpg"
+      },
+      {
+        "name": "Kenny Barr",
+        "character": "SWAT Captain",
+        "profile_path": ""
+      },
+      {
+        "name": "Jan Hartsell",
+        "character": "Beauty School Admin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kDqzhKKqbCJNKg99wSbeHSykppu.jpg"
+      },
+      {
+        "name": "Javier Vazquez Jr.",
+        "character": "Driver Pulled Over",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cJhIiKGTppDK3zSbQxq7e03iP0o.jpg"
+      },
+      {
+        "name": "Derek Russo",
+        "character": "Big Dude",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5x5b61WVyydJV9qHPVIBzefCsMf.jpg"
+      },
+      {
+        "name": "Megan Mieduch",
+        "character": "24-Hour Waitress",
+        "profile_path": ""
+      },
+      {
+        "name": "Leonard Hennessy",
+        "character": "Pastor",
+        "profile_path": ""
+      },
+      {
+        "name": "Dayna Beilenson",
+        "character": "Judge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nZmhNCTE8kgqCWHmpMNSxrKCd0I.jpg"
+      },
+      {
+        "name": "Tess Malis Kincaid",
+        "character": "Attorney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vzZH2WrWNPmOywT3TX2DSCVzeuy.jpg"
+      },
+      {
+        "name": "Antwan Mills",
+        "character": "Translator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p2lxODyPALThRUzdiqnhJy58lKN.jpg"
+      },
+      {
+        "name": "Sparrow Nicole",
+        "character": "Ashlyn Bates (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5xvwLcWljbLmP5ByNynBMdRJ8eY.jpg"
+      },
+      {
+        "name": "Almendra Fuentes",
+        "character": "Chola (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mia Rio",
+        "character": "Chola Girlfriend (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jill Flint",
+        "character": "Pam (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b0AFsIRG0R07lrlGEeyOUAwFbD7.jpg"
+      },
+      {
+        "name": "Ashani Roberts",
+        "character": "Pretty Nurse (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vLI0ISWhwlGom2gFzGs7kruRpTx.jpg"
+      },
+      {
+        "name": "Devon Ogden",
+        "character": "Pretty Woman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gsAX6mzrj6inqXSe4jOfSObysU3.jpg"
+      },
+      {
+        "name": "Katie Gill",
+        "character": "Sarah (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bHJOVQNGoHUvWOhjxfq8OSkgSPL.jpg"
+      },
+      {
+        "name": "Scott Dale",
+        "character": "The Clown (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Artemis",
+        "character": "Asian Bride (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nRtzQDo126237f2OEFeRl38mUW5.jpg"
+      },
+      {
+        "name": "Milton Saul",
+        "character": "U.S. Marshal (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2hwSDWQd1O1vIPeFxTrhW0gzkjq.jpg"
+      },
+      {
+        "name": "Timothy Carr",
+        "character": "Prisoner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hVcWRcR8SLGIlmdhYILkC3q116a.jpg"
+      },
+      {
+        "name": "Marco Schittone",
+        "character": "LJ Bates",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mVSA1YjdcBNgEzi9vMYWRJjhar3.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Clint Eastwood",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dU35NnjZ4aGw5abIJe3WXVf3Eey.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "mexico",
+    "drug crime",
+    "drug mule",
+    "based on true story",
+    "drug cartel",
+    "dea agent",
+    "korean war veteran",
+    "based on magazine, newspaper or article",
+    "2000s",
+    "sinaloa"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A ninety-year-old horticulturist and Korean War veteran turns drug mule for a Mexican cartel.",
+    "Clint Eastwood stars as Earl Stone, a man who is ninety years old, broke, alone, and facing foreclosure of his business when he is offered a job that simply requires him to drive. Easy enough, but, unbeknownst to Earl, he's just signed on as a drug courier for a Mexican cartel. He does well, so well, in fact, that his cargo increases exponentially, and Earl is assigned a handler. But he isn't the only one keeping tabs on Earl. The mysterious new drug mule has also hit the radar of hard-charging D.E.A. Agent Colin Bates (Bradley Cooper). And even as his money problems become a thing of the past, Earl's past mistakes start to weigh heavily on him, and it's uncertain if he'll have time to right those wrongs before law enforcement, or the cartel's enforcers, catch up to him.",
+    "In Peoria, Illinois, Korean War veteran Earl Stone (Clint Eastwood) is a ninety-year-old horticulturist that has always prioritized his work and friends over his family. He is estranged by his ex-wife Mary (Dianne Wiest) and his daughter Iris (Alison Eastwood). When his granddaughter Ginny (Taissa Farmiga) is celebrating her engagement with her fiancé, Earl is completely broke, and agrees to become a mule above any suspicion for the Mexican cartel, transporting drugs under the alias of \"Tata\". He makes money and resolves many financial issues of his family and friends. Meanwhile, efficient D.E.A. Agent Colin Bates (Bradley Cooper) is in charge of investigating the notorious cartel and the mysterious Tata with his partner Agent Treviño (Michael Peña).—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "Due to financial problems, an 80-something-year-old man, Earl Stone, takes a job as a drug mule, driving shipments between Texas and Illinois for a Mexican cartel. Unbeknownst to him, the DEA are targeting the cartel, resulting in Earl being the central figure in their investigations.—grantss",
+    "Illinois celebrated lily grower Earl Stone (73) wins horticulture prizes, but is too broke to afford a nice gift for his daughter Iris's wedding, where he even arrives late, grimly scolded by mother Mary who divorced him. 13 years of Internet competition later, he's so broke he can't keep his home. So a vague family friend's offer to earn a pack of banknotes by transporting a closed bag from Texas to Illinois in his trusted rickety truck and home is irresistible, so becomes his lucrative job, and he starts spreading the proceeds to family and veteran buddies. The DEA, using blackmail, and rivalry within the Mexican drug cartel that exploits the mule draw him and kin into a dirty game with many losers.—KGF Vissers"
+  ],
+  "synopsis": "This movie is based on a true story of a World War II vet named Leo Sharp.The film opens with Earl Stone (Clint Eastwood), an elderly man who grows daylilies, winning another award for his flowers. At the same time, his daughter Iris (Alison Eastwood) is getting re-married elsewhere. Granddaughter Ginny is initially optimistic that Earl will show up but grandma Mary Stone - Earl's ex-wife (Dianne Wiest) knows he will ultimately disappoint everyone. In fact, Earl stands up his family once more.10 years later.The internet flower businesses have driven Earl into foreclosure. He shows up at Ginny's birthday party and Iris causes a scene. Mary realizes that Earl is there looking for a place to live, when she sees all the possessions in his beat-up old truck.One of Ginny's shady friends gives Earl a business card and tells him he knows someone who is hiring drivers. Good money, no questions asked. Earl finally calls and goes to a garage where Mexican goons put a duffel bag in the back of his truck as well as a cell phone. He is told to never use the phone but to answer it \"night or day.\" He is to never look in the bag, park the truck and come back in an hour. He does as told and finds an envelope stuffed with cash in the glove compartment.Meanwhile, the DEA has brought a new hot shot agent, Colin Bates (Bradley Cooper) to try and catch drug dealers and traffic into the US. He and his partner (Michael Pena) recruit an informer and get to work.Earl buys himself a new truck and gets his home out of foreclosure. A Korean war vet, he visits the VFW and finds it has been gutted by a fire. \"If only someone would donate some money to repair it,\" says a volunteer, eyeing Earl's new truck.Earl attends Ginny's wedding but Mary and Iris are distant. Mary tells Earl that if has truly changed, it will take some time and effort. It won't be instant acceptance.Earl does another run, impressing the Mexican hoods with his new truck. The cartel boss, Laton, is also amazed that a 90-year-old man nicknamed \"El Tata\" (Earl) is the most successful new mule for his organization.The VA holds a big reopening celebration. Earl is a hero. He also pays for granddaughter Ginny's education and attends her graduation ceremony. Iris is still distant but Mary is starting to come around. But she also has developed a bad cough.The DEA has learned of the existence of \"El Tata\" and is beginning to gather clues to his identity. All they know is that he has carried more drugs than any other carrier and he has a black truck. Earl has many several more drug runs and has gained the respect of the Mexican gangsters.Earl does a run and bumps into DEA agent Colin Bates at a coffee shop, the night after the DEA stakes out a motel looking for El Tata. Earl gives him advice about his family, telling him \"Don't be like me.\"Laton brings Earl to Mexico to meet him and throws a big party in his honor. Unfortunately, his underlings feel they can do a better job and murder Laton. The new boss tells the Mexican hoods that they must crack down on Earl, and not give him the leniency to meander on his drug runs, because there's too much money at stake.Mary is brought home for hospice care to die. Earl has just started his first run for the new boss but knows this is his last chance to make things right, so he disappears. The DEA and the Mexican cartel is frantic that he's gone off the grid for the first time.Iris comes around as Earl stays by his ex-wife's bedside until she dies, then attends the funeral. She invites him to spend Thanksgiving dinner with the family. He then resumes his drug delivery.The hoods who were supposed to be following Earl see his truck and follow him to a truck stop, where they beat him up. They take the flier from the memorial service and realize he has a legitimate reason to have vanished, but their new boss sees things differently. At first, he wants Earl killed. But they plead his case. He tells them it will be their heads if Earl doesn't complete the delivery.However Bates now has ID'd Earl's truck and he is finally stopped and arrested. At trial, Earl's lawyer attempts to paint him as a broke, desperate war hero trying to provide for his family. But Earl stops her and pleads guilty to all charges. His daughter and granddaughter kiss him. Iris says \"At least we'll know where to find you.\"The film ends with Earl growing daylilies in the prison garden.",
+  "imdb_score": 7
+}

@@ -1,0 +1,971 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/psYeKwKclG4XaIop5suj1J0Kg2C.jpg",
+  "id": 1892,
+  "title": "Return of the Jedi",
+  "poster_path": "https://image.tmdb.org/t/p/w500/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+  "release_date": "1983-05-25",
+  "vote_average": 7.895,
+  "vote_count": 14925,
+  "popularity": 36.695,
+  "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+  "imdb_id": "tt0086190",
+  "budget": 32350000,
+  "homepage": "http://www.starwars.com/films/star-wars-episode-vi-return-of-the-jedi",
+  "revenue": 572700000,
+  "runtime": 132,
+  "tagline": "Return to a galaxy far, far away.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Lucasfilm Ltd."
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Mark Hamill",
+        "character": "Luke Skywalker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2ZulC2Ccq1yv3pemusks6Zlfy2s.jpg"
+      },
+      {
+        "name": "Harrison Ford",
+        "character": "Han Solo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zVnHagUvXkR2StdOtquEwsiwSVt.jpg"
+      },
+      {
+        "name": "Carrie Fisher",
+        "character": "Princess Leia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d60ZwPUoizvw1gdU6dXvKUOeoDK.jpg"
+      },
+      {
+        "name": "Billy Dee Williams",
+        "character": "Lando Calrissian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dCiHLiCapPuRwKkM1ytVZ7PwYQY.jpg"
+      },
+      {
+        "name": "Anthony Daniels",
+        "character": "C-3PO",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c876ZM5ObwYgXksrRWNNrL9KeZg.jpg"
+      },
+      {
+        "name": "Peter Mayhew",
+        "character": "Chewbacca",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bWv4RHLhjH6Ujrfhzm6ZC8ms3f2.jpg"
+      },
+      {
+        "name": "Sebastian Shaw",
+        "character": "Anakin Skywalker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qPvJe2N1VL0dGWtsfT4aVkljByU.jpg"
+      },
+      {
+        "name": "Ian McDiarmid",
+        "character": "The Emperor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jeoA2UQdKoz5rp4xLv0O32gzJ38.jpg"
+      },
+      {
+        "name": "Frank Oz",
+        "character": "Yoda (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg"
+      },
+      {
+        "name": "James Earl Jones",
+        "character": "Darth Vader (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg"
+      },
+      {
+        "name": "David Prowse",
+        "character": "Darth Vader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xTocYiKHlRYN8tfh8vyQFsRXC0K.jpg"
+      },
+      {
+        "name": "Alec Guinness",
+        "character": "Ben 'Obi-Wan' Kenobi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gplGgl6XERpvYdluiwY8GlxSdpi.jpg"
+      },
+      {
+        "name": "Kenny Baker",
+        "character": "R2-D2 / Paploo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uo3RorCoGDWHecLtqjviwzFExxR.jpg"
+      },
+      {
+        "name": "Michael Pennington",
+        "character": "Moff Jerjerrod",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vNhw2KX9qaNJCYMNEwkSeo3EWMY.jpg"
+      },
+      {
+        "name": "Kenneth Colley",
+        "character": "Admiral Piett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5eH380TIBWnjyCDCq3o7DUeZOsX.jpg"
+      },
+      {
+        "name": "Michael Carter",
+        "character": "Bib Fortuna",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h4NwptYAANy0v1OEuPceANPPFhs.jpg"
+      },
+      {
+        "name": "Denis Lawson",
+        "character": "Wedge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b4BcP3UGtpgK1LYgpgFeYx7bD8V.jpg"
+      },
+      {
+        "name": "Tim Rose",
+        "character": "Admiral Ackbar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vGFjjuzEvh6BPBauSn2IhpAz6a.jpg"
+      },
+      {
+        "name": "Dermot Crowley",
+        "character": "General Madine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wQN9dvOXdecRtUAgOx8xSMC1gyh.jpg"
+      },
+      {
+        "name": "Caroline Blakiston",
+        "character": "Mon Mothma",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8vV1pBe94JHwG8BfSlDnjgjjRcF.jpg"
+      },
+      {
+        "name": "Warwick Davis",
+        "character": "Wicket",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nGorSpUIQWAEErxq8KdDcIF6Q00.jpg"
+      },
+      {
+        "name": "Jeremy Bulloch",
+        "character": "Boba Fett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sioJ1UcQPgHktGgUXrb5FKBjiYp.jpg"
+      },
+      {
+        "name": "Femi Taylor",
+        "character": "Oola",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Qxf5WIQDSF96hNvPv6f2T67kW5.jpg"
+      },
+      {
+        "name": "Annie Arbogast",
+        "character": "Sy Snootles",
+        "profile_path": ""
+      },
+      {
+        "name": "Claire Davenport",
+        "character": "Fat Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Purvis",
+        "character": "Teebo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cvrq0WtEi4NWbiqjr2oevG2ye3C.jpg"
+      },
+      {
+        "name": "Mike Edmonds",
+        "character": "Logray",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vLOB9mTZ15CS0oTgEteTEio8RC2.jpg"
+      },
+      {
+        "name": "Jane Busby",
+        "character": "Chief Chirpa",
+        "profile_path": ""
+      },
+      {
+        "name": "Malcolm Dixon",
+        "character": "Ewok Warrior",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9yKRE6Oc4p1M7LbXKldAkrKyChD.jpg"
+      },
+      {
+        "name": "Mike Cottrell",
+        "character": "Ewok Warrior",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicki Reade",
+        "character": "Nicki",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t3ffzGmbyZyXLjzlDt6YcqNmgJm.jpg"
+      },
+      {
+        "name": "Adam Bareham",
+        "character": "Jhoff, a traffic control officer on the Executor",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Oliver",
+        "character": "Stardestroyer Controller #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2iCyXHNSK17ubvG2SEi87EV7qj.jpg"
+      },
+      {
+        "name": "Pip Miller",
+        "character": "Stardestroyer Captain #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n0vuCSby4Y62qL6h4y5XR9btyOZ.jpg"
+      },
+      {
+        "name": "Tom Mannion",
+        "character": "Stardestroyer Captain #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A0OO0MxwhNWJGlLYq3o10scokEc.jpg"
+      },
+      {
+        "name": "Margo Apostolos",
+        "character": "Ewok Tokkat",
+        "profile_path": ""
+      },
+      {
+        "name": "Ray Armstrong",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Eileen Baker",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Henbury Ballan",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Bobby Bell",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Patty Bell",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Alan Bennett",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah Bennett",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Pamela Betts",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Blackner",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Linda Bowley",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Burroughs",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Debbie Lee Carrington",
+        "character": "Romba an Ewok",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zcNAFlhFIVMaaNQjv2qS9pS112s.jpg"
+      },
+      {
+        "name": "Maureen Charlton",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Willie Coppen",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Sadie Corre",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Cox",
+        "character": "Ewok Wicket's younger brother Widdle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sbZS0gxvRsAIgHxIEL8STINpn7u.jpg"
+      },
+      {
+        "name": "John Cumming",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean D'Agostino",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Luis De Jesus",
+        "character": "Ewok",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4k2ZdiMg12v2xTt7hqqQhdN7dzc.jpg"
+      },
+      {
+        "name": "Debbie Dixon",
+        "character": "Ewok Wijunkee",
+        "profile_path": ""
+      },
+      {
+        "name": "Margarita Fernández",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Phil Fondacaro",
+        "character": "Ewok",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vJbPx90IzOdE6L1maYu1HIJayjG.jpg"
+      },
+      {
+        "name": "Sal Fondacaro",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Friel",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Frishman",
+        "character": "Ewok",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wbz8f9fMV3O5QutlY7fSXDFYJ5Q.jpg"
+      },
+      {
+        "name": "John Ghavan",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Gilden",
+        "character": "Ewok",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rZk317gtqOAF6MgImnJ6l5j9RQL.jpg"
+      },
+      {
+        "name": "Paul Grant",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Lydia Green",
+        "character": "Ewok",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x35cu8xbqOICTeagaPnIcxPW2ua.jpg"
+      },
+      {
+        "name": "Lars Green",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Pam Grizz",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Herd",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "J.J. Jackson",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Jones",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Trevor Jones",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Glynn Jones",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Karen Lay",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "John Lummiss",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Nancy MacLean",
+        "character": "Ewok",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mPk6saIJwAyjzhjMAe3VX7CtRZH.jpg"
+      },
+      {
+        "name": "Peter Mandell",
+        "character": "Ewok",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qa2FpKTRKRjewJM3bRIPsWIyC8y.jpg"
+      },
+      {
+        "name": "Carole Morris",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Stacie Nichols",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Nunn",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Barbara O'Laughlin",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Orenstein",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Harrell Parker Jr.",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "John Pedrick",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "April Perkins",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Ronnie Phillips",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Katie Purvis",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Carol Read",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicholas Read",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Diana Reynolds",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Danielle Rodgers",
+        "character": "Ewok Graak",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Romano",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Dean Shackelford",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Kiran Shah",
+        "character": "Ewok",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cBE8YAZeCMVUu4eAxr6PNUmNjCh.jpg"
+      },
+      {
+        "name": "Felix Silla",
+        "character": "Ewok",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bfbGYUWNSNShe582wfKNBNEB313.jpg"
+      },
+      {
+        "name": "Linda Spriggs",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Gerald Staddon",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Josephine Staddon",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Thompson",
+        "character": "Ewok",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hhJNd4If3wWmhlKV1MLkDpWA6E5.jpg"
+      },
+      {
+        "name": "Kendra Wall",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Wheeler",
+        "character": "Ewok",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nMTRb2hCEs73GUJ47Cpy4248gcR.jpg"
+      },
+      {
+        "name": "Butch Wilhelm",
+        "character": "Ewok",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Dodson",
+        "character": "Salacious B. Crumb",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9sbyYUMqs2Xe62b3Dd57mvVcTFF.jpg"
+      },
+      {
+        "name": "Simon J. Williamson",
+        "character": "Max Rebo",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Bonehill",
+        "character": "Nien Nunb",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8vy6zkI2JM8qyxMetFnVHP0Mv4J.jpg"
+      },
+      {
+        "name": "David Gonzales",
+        "character": "Ak-rev",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Roy",
+        "character": "Major Olander Brit - Rebel (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Erik Bauersfeld",
+        "character": "Bib Fortuna (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zJU29NfYKBhvSO1QHdsgpBLhK79.jpg"
+      },
+      {
+        "name": "Mike Quinn",
+        "character": "Nein Nunb",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tRrg4imvBuv1EOJnaGcFPYUu4EM.jpg"
+      },
+      {
+        "name": "Bill Kipsang Rotich",
+        "character": "Nein Numb (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hX4FMfTs3jGznEwFbXflNSnZsFL.jpg"
+      },
+      {
+        "name": "Deep Roy",
+        "character": "Droopy McCool",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hXq63dj4WjwcKann7h9Wy7z7Ac7.jpg"
+      },
+      {
+        "name": "Alisa Berk",
+        "character": "Amanaman",
+        "profile_path": ""
+      },
+      {
+        "name": "Hugh Spight",
+        "character": "Gameorrean Guard/Elom/Mon Calamari",
+        "profile_path": ""
+      },
+      {
+        "name": "Swee Lim",
+        "character": "Attark the Hoover",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Robinson",
+        "character": "Yuzzum",
+        "profile_path": ""
+      },
+      {
+        "name": "Gerald Home",
+        "character": "Tessek",
+        "profile_path": "https://image.tmdb.org/t/p/w185/piqNOYpxYJR07Vh4zeUj4AxJvlp.jpg"
+      },
+      {
+        "name": "Phil Herbert",
+        "character": "Hermi Odle",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Dry",
+        "character": "Whiphid",
+        "profile_path": ""
+      },
+      {
+        "name": "Sean Crawford",
+        "character": "Whiphid",
+        "profile_path": ""
+      },
+      {
+        "name": "Phil Tippett",
+        "character": "Rancor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qIjrlRrM6MwNkbCYwRbPYbvq9P7.jpg"
+      },
+      {
+        "name": "Toby Philpott",
+        "character": "Jabba the Hutt",
+        "profile_path": ""
+      },
+      {
+        "name": "David Alan Barclay",
+        "character": "Jabba the Hutt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9DK6LQv6V7Y53uh1wAzZt0zZ7IZ.jpg"
+      },
+      {
+        "name": "Jasper Jacob",
+        "character": "Captain Yorr - Imperial Pilot of ST321",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uoP1vfoN6YEQ3BOMSHVcgWDkEpk.jpg"
+      },
+      {
+        "name": "Peter Allen",
+        "character": "Geezum - Member of Jabba's Gang (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tN2G5sPmPzMKZZypwwbr90yeZyT.jpg"
+      },
+      {
+        "name": "John Altman",
+        "character": "Rebel Pilot (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jAdEEmNKiKWS0TsexpXXirjTRie.jpg"
+      },
+      {
+        "name": "Glyn Baker",
+        "character": "Lieutenant Endicott - Imperial Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ruajPK6pq1kiTvEMHoXfIqGxGsW.jpg"
+      },
+      {
+        "name": "Dickey Beer",
+        "character": "Barada / Stormtrooper / Biker Scout (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dwdp6ycU2eXcwdIfJlgU1ZOsmcs.jpg"
+      },
+      {
+        "name": "Ailsa Berk",
+        "character": "Amanaman - Jabba's Bounty Hunter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Don Bies",
+        "character": "Barquin D'an / Boba Fett (special edition) (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Brooke",
+        "character": "Malakili - Rancor Keeper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2NYNzLYcHKD6EnucEPj2Sh1GTVJ.jpg"
+      },
+      {
+        "name": "Ben Burtt",
+        "character": "'Freeze' Officer in Endor Bunker / Tortured Power Droid (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/16OhOb7WngOi4WOnGpRpbDSzYnd.jpg"
+      },
+      {
+        "name": "Maurice Bush",
+        "character": "Dengar - The Bounty Hunter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eltC0iQqjb3WMKaxXp4qvO4XRpU.jpg"
+      },
+      {
+        "name": "Trevor Butterfield",
+        "character": "Lieutenant Blount - Rebel Soldier / Trandoshan - Member of Jabba's Gang / Stormtrooper / Calamari Warrior / Giran - Malakili's Assistant (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Vivienne Chandler",
+        "character": "Female X-Wing Fighter Pilot (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rFoDdUMCA7uu5mqayu1Deb8A0Od.jpg"
+      },
+      {
+        "name": "Tony Clarkin",
+        "character": "Storm Trooper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aKlsJqkhfFp8TN9eZn4jHxj6seH.jpg"
+      },
+      {
+        "name": "Kenneth Coombs",
+        "character": "Imperial Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eZV8Y1MaAF7aYEfQ4fGBIl36Q9U.jpg"
+      },
+      {
+        "name": "Andy Cunningham",
+        "character": "Ephant Mon (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Diamond",
+        "character": "Biker Scout Pushed Off Bike (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nVb4nFvWloTdzopD42aNV5osYKU.jpg"
+      },
+      {
+        "name": "Richard Driscoll",
+        "character": "X-Wing Fighter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Douglas Farrell",
+        "character": "Ewok (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zSFkysHQS7Gc2DfSb0K62vZqg3z.jpg"
+      },
+      {
+        "name": "Alan Flyng",
+        "character": "Imperial Officer - Executor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ernie Fosselius",
+        "character": "Giran - Rancor Keeper (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lL4S5A6r6pZ8mqKQKYIe6SJfFA4.jpg"
+      },
+      {
+        "name": "Stuart Fox",
+        "character": "Death Star Trooper Jad Bean (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Isaac Grand",
+        "character": "Gamorrean Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gordon Hann",
+        "character": "Captain Yutani - Rebel Soldier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Alan Harris",
+        "character": "Stormtrooper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nc83B1SJ7xVJjx8Op7HolOM70uc.jpg"
+      },
+      {
+        "name": "Walter Henry",
+        "character": "Council Member in Briefing Room (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Philip Herbert",
+        "character": "Hermi Odle - Jabba's 2nd Servant (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry Holt",
+        "character": "Taym Dren-garen / Biker Scout / Sergeant Bruckman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "William Hoyland",
+        "character": "Imperial Commander (uncredited) (unconfirmed)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hWUqIfZoErW1y1ubkz5vKo01gVQ.jpg"
+      },
+      {
+        "name": "Colin Hunt",
+        "character": "Rancor Guard / Rebel Ranger (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Monty Jordan",
+        "character": "Weequay Skiff Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Josephs",
+        "character": "Janus Greejatus - Emperor Palpatine's Advisor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eiji Kusuhara",
+        "character": "Lieutenant Telsij - Grey Squadron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hEl9QCduKTgqps0iC6ie40nwNDu.jpg"
+      },
+      {
+        "name": "Anthony Lang",
+        "character": "Sim Aloo - Emperor Palpatine's Advisor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Arnold Lee",
+        "character": "Rayc Ryjerd - Jabba's Smuggler (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Julius LeFlore",
+        "character": "Skiff Master / Yotts Orren / Stormtrooper / Biker Scout (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wzDWstuY7MSB0rvnfSpYX8m9ZZ0.jpg"
+      },
+      {
+        "name": "John Maloney",
+        "character": "Rancor Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Markham",
+        "character": "Imperial Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Marquand",
+        "character": "Maj. Marquand - AT-ST Driver / EV-9D9 (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eEalDQpLsXJqejPDQ3MWGe95UHT.jpg"
+      },
+      {
+        "name": "Hilton McRae",
+        "character": "Arvel Crynyd (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3MxRMfjiox5xcYtirhbylfIVKKZ.jpg"
+      },
+      {
+        "name": "Billy J. Mitchell",
+        "character": "Keir Santage (Red Seven) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1AoXhTz9DvGNrrdqEV9oeHsl2HU.jpg"
+      },
+      {
+        "name": "Amanda Noar",
+        "character": "Jess - Female Musician flirting with Bib Fortuna (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Terry Sach",
+        "character": "A-Wing Pilot (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Errol Shaker",
+        "character": "Y-Wing Pilot (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bZXQHwfueI3uE0zZlTrLeoKZUMZ.jpg"
+      },
+      {
+        "name": "Guy Standeven",
+        "character": "Rebel Council Member in Briefing Room (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/66sDmA4KxiW6vMV1WgLIzwJhYUP.jpg"
+      },
+      {
+        "name": "Jules Walters",
+        "character": "Rennek (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Watts",
+        "character": "Lt. Watts - AT-ST Driver (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/28BlqdvRGNAdbWuzdXAIYissbgZ.jpg"
+      },
+      {
+        "name": "Paul Weston",
+        "character": "Vedain - Sand Skiff Pilot (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9eNrtUeWeDudwB3OzSQBbNXQWlP.jpg"
+      },
+      {
+        "name": "Corey Dee Williams",
+        "character": "Klaatu (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Stevens",
+        "character": "Colonel Airen Cracken - Rebel Soldier on Millennium Falcon (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael McCormick",
+        "character": "Rancor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4JsEn7M5eC5XDxuiBn6Izq86ERj.jpg"
+      },
+      {
+        "name": "David Stone",
+        "character": "B-Wing Pilot (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lynne Hazelden",
+        "character": "Karie Neth - Y Wing Pilot, Grey Squadron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lKJ7HHxzqThamCx1UgsjmCKxqrF.jpg"
+      },
+      {
+        "name": "Paul Springer",
+        "character": "Rey Yees (Uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ronny Cush",
+        "character": "X-Wing Pilot (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry Ward",
+        "character": "Jabba the Hunt (voice) (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Cannon",
+        "character": "Stormtrooper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/efj4laUmLcw4nP4E1izHN57fQCH.jpg"
+      },
+      {
+        "name": "Dalyn Chew",
+        "character": "Jedi Rocks Dancer (special edition)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wPZlEyzGWHHbc0xwFWg5ffw9JZu.jpg"
+      },
+      {
+        "name": "Celia Fushille-Burke",
+        "character": "Jedi Rocks Dancer (special edition)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mercedes Ngoh",
+        "character": "Jedi Rocks Dancer (special edition)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jennifer Jaffe",
+        "character": "Jedi Rocks Dancer (special edition)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tina Simmons",
+        "character": "Rebel Technician (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Richard Marquand",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eEalDQpLsXJqejPDQ3MWGe95UHT.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "spacecraft",
+    "sibling relationship",
+    "rebel",
+    "emperor",
+    "space battle",
+    "matter of life and death",
+    "forest",
+    "desert",
+    "space opera"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "After rescuing Han Solo from Jabba the Hutt, the Rebels attempt to destroy the second Death Star, while Luke struggles to help Darth Vader back from the dark side.",
+    "The original trilogy concludes with a climactic resolution to the ongoing conflict between the Rebel Alliance and the tyrannical Galactic Empire. As the Rebellion gains momentum, the fate of key characters hangs in the balance. The Rebels launch a daring mission to rescue their comrade Han Solo from the clutches of the crime lord Jabba the Hutt. Luke Skywalker continues his training as a Jedi Knight, grappling with the complexities of the Force and his connection to Darth Vader, the Empire's enforcer. Meanwhile, Princess Leia, Han Solo, and their allies must rally their forces to face an even greater threat posed by the Empire's latest weapon. As the narrative unfolds, the characters confront their pasts and make decisions that shape their destinies. The Emperor, a formidable figure behind the Empire's machinations, seeks to crush the Rebellion once and for all. The story delves into the inner struggles of key characters and explores themes of redemption, sacrifice, and the enduring fight for freedom.—Evan Almindo",
+    "Emperor Palpatine, Darth Vader, and the Empire are building a new Death Star. Meanwhile, Han Solo has been imprisoned, and Luke Skywalker has sent R2-D2 and C-3PO to try and free him. Princess Leia, disguised as a bounty hunter, and Chewbacca go along as well. The final battle takes place on the Forest Moon of Endor, with its natural inhabitants, the Ewoks, lending a hand to the rebels.—Colin Tinto <cst@imdb.com>",
+    "As the evil Emperor Palpatine oversees the construction of the new Death Star by Darth Vader and the Galactic Empire, smuggler Han Solo is rescued from the clutches of the vile gangster Jabba the Hutt by his friends, Luke Skywalker, Princess Leia, Lando Calrissian, and Chewbacca. Leaving Luke Skywalker Jedi training with Master Yoda, Solo returns to the Rebel fleet to prepare to complete his battle with the Empire. During the ensuing fighting, the newly returned Luke Skywalker is captured by Darth Vader.—James Pearce <james.pearce@cs.man.ac.uk>",
+    "Light-sabers sparkle, the Millennium Falcon flashes through hyperspace, and creatures from all over the galaxy defy the Galactic Empire, in this stunning third chapter of the \"Star Wars\" saga. As the Rebels prepare to attack Emperor Palpatine's awesome new Death Star, Han Solo remains imprisoned by the loathsome outlaw Jabba the Hutt, who has also captured Princess Leia. Luke Skywalker rescues his friends, but he will not be a true Jedi Knight until he confronts Darth Vader again, who has sworn to win him over to the Dark Side of the Force. With old favorites like Chewbacca, Yoda, R2-D2, C-3PO, and Lando Calrissian, plus the small, but stalwart Ewoks.—Robert Lynch <docrlynch@yahoo.com>"
+  ],
+  "synopsis": "The opening crawl reveals that Han Solo's friends are engaged in a mission to rescue the smuggler from Jabba the Hutt and that the Galactic Empire is building a new armored space station which is even larger and more powerful than the first Death Star.Near the forest moon of Endor the new Death Star is being constructed in orbit, and a command star destroyer arrives and launches a shuttle with a fighter escort -- a shuttle bearing the Dark Lord of the Sith. Fearing his arrival, the commander of the new Death Star informs Darth Vader (David Prowse, voice: James Earl Jones) that the station will be operational on schedule, but when Vader challenges this \"optimistic\" appraisal of the situation, the commander admits that he needs more men to accelerate construction. Darth Vader, however, informs the commander that the Emperor (Ian McDiarmid) will be arriving soon, and that he is most displeased with the commander's progress. Shaken, the commander commits to redoubling construction efforts. Vader, pleased, remarks, \"the Emperor is not as forgiving as I am.\"Jedi Knight Luke Skywalker (Mark Hamill), Chewbacca (Peter Mayhew), Lando Calrissian (Billy Dee Williams), Princess Leia Organa (Carrie Fisher), C-3PO (Anthony Daniels), and R2-D2 (Kenny Baker) return to Tatooine to rescue Han Solo (who was encased in carbonite at the end of Star Wars: Episode V - The Empire Strikes Back (1980)) from the gangster Jabba the Hutt (voice: Larry Ward). Luke sends C-3PO and R2-D2 to Jabba's desert palace to deliver a message: In a hologram projected by R2, Luke offers to bargain with Jabba for Solo himself -- if Jabba does not, he will be destroyed. Jabba laughs at the message and refuses to give up his \"favorite decoration:\" Han, frozen in carbonite, hangs on a wall in Jabba's court. The two droids are sent to EV-9D9's workshop where C-3P0 is given the job of Jabba's translator and R2 will be a drink-server on Jabba's sail barge.Disguised as a bounty hunter named Boushh, Leia arrives in Jabba's court with Chewbacca in cuffs. She offers him to Jabba for a sizable bounty. After Leia dickers with Jabba over the amount and threatens him with a small thermal detonator, Jabba happily agrees to pay, impressed with the bounty hunter's nerve, and Chewbacca is imprisoned.That night, Leia sneaks into Jabba's court and frees Han from the carbonite. However, she and Solo are both captured by Jabba. Solo is imprisoned with Chewbacca and Jabba keeps Leia on display in a metal bikini and chains. Luke arrives with a final ultimatum to release Solo. Jabba again refuses and drops Luke through a trap door into a pit below his throne that houses the rancor, a fearsome beast that Jabba keeps for executions. As Leia watches in horror, she sees Lando Calrissian disguised as a palace guard. After a brief battle, Luke defeats the rancor, enraging Jabba, who declares that Luke, Solo and Chewbacca will be slowly consumed by the sarlacc -- a huge, shark-toothed, tentacled maw at the bottom of the Great Pit of Carkoon.The group is taken to the pit on Jabba's sail barge fleet, and Jabba sadistically attempts to draw out the spectacle by inviting them to grovel for their lives. Han and Chewbacca refuse, but Luke calmly notes to the gangster that he is about to pay dearly for his arrogance to Jabba's scoffing amusement. The group is prepared for execution: Luke is the first, pushed out onto a thin plank over the pit. Luke gives R2 a short salute and drops off the plank, only to spin and grab the plank to launch himself back on board. At that moment, R2 catapults a small object, Luke's new lightsaber, to the Jedi's hand. A battle erupts, with Luke steadily taking the fight to Jabba's men. During the battle, Leia strangles Jabba with the chain around her neck and with R2-D2's help escapes from her bonds. Solo accidentally knocks Boba Fett (Jeremy Bulloch) into the sarlacc pit. Lando is also thrown off one of the skiffs, hanging by a few cables until he's rescued from the sarlacc itself by Han and Chewbacca. Luke, having fought his way onto Jabba's sail barge, has the escaping Leia aim the deck cannon at the vehicle and sets it on automatic fire; the sail barge soon blows apart. Our heroes manage to escape before it explodes, retrieve R2 and C-3PO and zip off into the desert. Luke flies off Tatooine in his X-Wing fighter and the rest of the band fly away in the Millennium Falcon to rendezvous with the Rebel fleet near Sullust.A massive fleet of fighters completely surrounds the boarding bays of the Death Star at the arrival of the Emperor. As Red Guards slowly descend from the Imperial shuttle and flank its ramp, Vader and the Death Star commander kneel to their master, the last to enter the hangar. He insists that Lord Vader will soon capture Luke Skywalker, and Luke will learn of the dark side of the Force when brought before Palpatine himself.Luke returns to Dagobah to complete his Jedi training, but he finds Yoda (voice: Frank Oz) is ill. He tells Luke that no further training is required and all that remains to be done is to confront Darth Vader. Luke attempts to get independent confirmation of Darth Vader's claim to be Luke's father, but Yoda is evasive. Finally, Luke begs Yoda to tell him the truth, and Yoda, emotional torture clearly evident on his normally serene features, confirms Luke's darkest fears. He correctly infers that Vader has used this information as an emotional weapon against Luke, and criticizes Luke for having faced Vader prematurely, with nearly disastrous consequences. He reminds Luke of the true nature of the Force, and of the soul-corrupting nature of the dark side. Yoda then issues a dark warning, telling Luke how his father fell to the shadow: he was corrupted by the powers and influence of the Emperor. If Luke allows himself to be manipulated by this dark mind, then he too shall become what he most fears.Finally, Yoda charges Luke with keeping alive the teachings and knowledge of the Jedi and the Force, urging him to start with his own family, with whom the Force is unusually strong. With his final breath, Yoda tells Luke that there is \"another Skywalker.\" Yoda dies at peace, and before Luke's astonished eyes, his body vanishes, passing with his spirit into the Force. The spirit of Obi-Wan Kenobi (Alec Guinness) confronts a distraught Luke, confirming that Vader was once Anakin Skywalker, a Jedi who was turned to the dark side of the Force. Obi-Wan confesses to Luke that he made mistakes in Anakin's training, especially by not deferring to Yoda, and takes responsibility for indirectly creating the evil Darth Vader. Luke counters that even now, all is not lost, that some part of Anakin remains, if only someone can reach it. When Luke asks about the other Skywalker, Obi-Wan tells him that Luke has a twin sister, hidden from Anakin and separated from Luke at birth to protect them both from the Emperor. Luke intuits that his sister is Princess Leia. Obi-Wan confirms it, but warns Luke that in the eyes of the Empire, all bonds of love and caring are potential weaknesses to be exploited.Meanwhile, the entire Rebel Alliance fleet is massing their near Sullust, meeting to devise an attack strategy on the uncompleted Death Star. As part of the attack, Han and his companions must land on the forest moon of Endor and deactivate the generator that projects a protective shield up to the orbiting Death Star. The team, led by Han, will use a stolen Imperial shuttle and confirmation code to infiltrate the heavy security measures protecting the construction site before the rest of the Rebel fleet arrives. Luke arrives at the meeting and tells Han and Leia that he'll join them on the dangerous commando mission. The fleet's assault on the Death Star will be lead by Lando Calrissian, piloting the Millennium Falcon, which will fly into the core of the space station and destroy the main power generator.The team arrives at Endor in the stolen shuttle and uses the confirmation code to sneak past the Imperial fleet. Luke senses that Vader is aboard the Imperial fleet's largest ship, the super-star destroyer Executor, and believes he's endangering the mission. Han tells him not to worry.When they arrive on the moon, the team happens across a small unit of Imperial biker scouts. Han tries to sneak up on the scouts to disarm them but draws their attention when he steps on a branch. Leia and Luke jump on speeder bikes and pursue two more scouts through the forest at high speed. They overtake them both but are separated; Leia's bike crashes into a tree after she jumps off and she falls unconscious. Luke jumps off his own bike and battles with the the scout he'd been pursuing, forcing him to crash using his lightsaber. When Luke rejoins the team, he finds that Leia hasn't returned. The team looks for her but is captured by indigenous creatures called Ewoks -- short, furry, intelligent forest dwellers. An Ewok called Wicket (Warwick Davis) befriends Leia, but the other Ewoks who captured the rest of the Rebel party decide to sacrifice them to C-3P0, who they believe is a god. Luke, having mastered the Force, levitates C-3P0 to impress the Ewoks with the droid's power and scare them into giving up the sacrifice. With the help of C-3PO, Luke and his party form an alliance with the Ewoks, whose stone-age technology has unexpectedly effective military applications.Later, Luke decides that the time has come for him to face Vader. He confesses to Leia that he is her brother, and that he has to try to save the man who was once their father. She tells him to ignore his feelings and leave but Luke tells her that he must face his destiny and if necessary in the event that he falls, she must learn the ways of the Jedi to help oppose the Emperor. Luke surrenders peacefully to Vader but fails to convince his father to abandon the dark side even though Vader is left subtly shaken by his matured son's own mind games.They go to the Death Star to meet the Emperor, who reveals that the Rebel Alliance is walking into a trap. On the forest moon, the Rebels led by Solo and Leia enter the shield generator control facility only to be taken prisoner by a large legion of Imperial troops. Once they are led out of the bunker, however, the Ewoks spring a surprise counterattack. In a desperate ground battle, the Rebels and Ewoks fight the Imperial forces. Aboard the Death Star, the Emperor attempts to seduce Luke with the powers of the dark side. The Emperor reveals his plan: the information that Rebel spies had stolen was part of an elaborate plan to draw out the Rebel fleet and command so they could be eliminated in one battle. As Luke's anger builds he attacks the Emperor with his lightsaber, only to be stopped by Vader's crimson blade.During the strike team's assault, the Rebel fleet emerges from hyperspace for the battle over Endor, only to discover that the shield of the Death Star is still functioning. An intense space battle takes place as the Imperial fleet, in the second phase of the Emperor's plan, appears and attacks the Rebel fleet. During the battle, the Death Star is revealed to be operational; its superlaser, revealed to be relatively rapid-fire on a low setting compared to its predecessor, is fired at the Rebel fleet and obliterates a Rebel star cruiser. Though Admiral Ackbar wants to abandon the attack, Lando convinces him that they must give Han and his party more time on Endor. The fleet regroups and begins to engage the Imperial fleet of star destroyers directly.On the Death Star, the Emperor taunts Luke to give in to his anger. A ferocious lightsaber duel has erupted between Luke and his father. In the midst of combat, Vader reads Luke's feelings and learns that Luke has a twin sister. When Vader toys with the notion of turning Leia to the dark side, Luke gives in to his rage and furiously gains the upper hand in the battle, slicing off Vader's right robotic hand in a rage in one swift cut, and makes his father succumb to defeat at the mercy of his son's blade. Despite the Emperor's goading Luke refuses to kill his father, realizing that he is traveling down his father's path towards the dark side, and declares himself a Jedi. Realizing that Luke cannot be turned, the Emperor uses Force lightning against him to torture and attempt to kill him. Deeply affected by the sight of his son dying before him, Vader repents and turns on the Emperor, throwing him down a reactor shaft to his death. At the same time, however, the Emperor's Force lightning causes fatal injuries to Vader (Anakin) and short-circuits his breathing system. Stopping momentarily in a landing bay, Anakin asks Luke to take his mask off, knowing that he'll die, but desiring to look at his son's face with his human eyes. Luke removes the helmet, revealing the pale and scarred face of his father (Sebastian Shaw). Anakin says that Luke was right about him, and asks Luke to tell his sister. With those final words, Anakin dies.Back on Endor, the strike team finally destroys the shield generator. The Rebel fleet seizes the opportunity to launch a final assault on the Death Star in space. Meanwhile to by the attackers more time, Admiral Ackbar orders a concentrated attack on the Imperial fleet's flagship, the Executor. With a crashing rebel pilot ramming into the ship's bridge, not only is Admiral Piett killed, but the ship goes out of control and collides with the Death Star. Lando leads Wedge Antilles (Denis Lawson) and his fighter group into the bowels of the Death Star, where they fire at the main reactor, causing its collapse. Luke, with the body and armor of Anakin, escapes the Death Star in an Imperial shuttle. Moments later, Wedge in his X-Wing and Lando in the Millennium Falcon emerge from the Death Star just as the space station explodes.On Endor, Han tries to reassure Leia that Luke was likely not on the destroyed station, but Leia already senses that is true. Guessing Leia's feelings for Luke, Han offers to step aside for him to court her. However, Leia reassures Han Solo of her love and reveals to him that Luke is actually her brother, who obviously will support their own romance to Han's astonished relief. That evening, Luke cremates the remains of his father in a funeral pyre on Endor. The entire galaxy celebrates the fall of the Emperor and the Rebel victory over the Empire. Luke, Leia, Han, Lando, and the rest of the rebels, along with the Ewoks, celebrate the victory as well. During the celebration, Luke catches sight of the spirit figures of Obi-Wan Kenobi, Yoda, and the redeemed Anakin Skywalker, who look proudly upon him.",
+  "imdb_score": 8.3
+}

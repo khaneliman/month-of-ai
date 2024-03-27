@@ -1,0 +1,578 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/vBnXMNsQA4DMWli2GR5oiAse7Qk.jpg",
+  "id": 9798,
+  "title": "Enemy of the State",
+  "poster_path": "https://image.tmdb.org/t/p/w500/x9pXrMKLsBGGOFyyZ0Gwt9YpVub.jpg",
+  "release_date": "1998-11-20",
+  "vote_average": 7.028,
+  "vote_count": 3596,
+  "popularity": 23.211,
+  "overview": "When the videotape of the murder of a congressman unknowingly ends up in the hands of labor lawyer and dedicated family man Robert Clayton Dean, he is framed for the murder. With the help of the mysterious Brill, Dean attempts to throw the NSA off his trail and prove his innocence.",
+  "imdb_id": "tt0120660",
+  "budget": 90000000,
+  "homepage": "",
+  "revenue": 250649836,
+  "runtime": 132,
+  "tagline": "It's not paranoia if they're really after you.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Touchstone Pictures",
+    "Jerry Bruckheimer Films",
+    "Don Simpson/Jerry Bruckheimer Films",
+    "Scott Free Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Will Smith",
+        "character": "Robert Clayton Dean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1QqaRZ8neYlqLx7ODZC4as47wUV.jpg"
+      },
+      {
+        "name": "Gene Hackman",
+        "character": "Brill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xPmETCv0APDoIK5CvIIJwbTcjPA.jpg"
+      },
+      {
+        "name": "Jon Voight",
+        "character": "Reynolds",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nuiTfACxhKRE2D2FWbK93m5MgSS.jpg"
+      },
+      {
+        "name": "Regina King",
+        "character": "Carla Dean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fEIz0ljk9CBrp3AitM5nwjfoGVu.jpg"
+      },
+      {
+        "name": "Loren Dean",
+        "character": "Hicks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zCYDwYJjrY4lpeueZYSzAXKLD5h.jpg"
+      },
+      {
+        "name": "Jake Busey",
+        "character": "Krug",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3WknfRePAvwFJfrbYVvfYXTQCh9.jpg"
+      },
+      {
+        "name": "Barry Pepper",
+        "character": "Pratt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pmdNUqrpsoozh7QYqUgEgZQ69cA.jpg"
+      },
+      {
+        "name": "Jason Lee",
+        "character": "Daniel Zavitz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3VLXHK2OVUzYkEVZliiaxT9lX0J.jpg"
+      },
+      {
+        "name": "Gabriel Byrne",
+        "character": "'Brill'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ahomlg2OS7jKn95udlKNvc3wUnp.jpg"
+      },
+      {
+        "name": "Lisa Bonet",
+        "character": "Rachel Banks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gzvRPbJxnDarHEa3YltnN35aYRx.jpg"
+      },
+      {
+        "name": "Stuart Wilson",
+        "character": "Congressman Albert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ghP4hkVaNc4upspxsLQCwkOBhy6.jpg"
+      },
+      {
+        "name": "Laura Cayouette",
+        "character": "Christa Hawkins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i9G6af64mD9vOtcJjuenu2cZ3lX.jpg"
+      },
+      {
+        "name": "Ian Hart",
+        "character": "Bingham",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xMC8aPDwhEZcjRHEFcgytSr3BzM.jpg"
+      },
+      {
+        "name": "Scott Caan",
+        "character": "Jones",
+        "profile_path": "https://image.tmdb.org/t/p/w185/67V8YrMglGzvuTOZGpqygDhNK1z.jpg"
+      },
+      {
+        "name": "James Le Gros",
+        "character": "Jerry Miller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rI6wK1WHBTYF9dYC04kUO0kr8oX.jpg"
+      },
+      {
+        "name": "Dan Butler",
+        "character": "Shaffer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Black",
+        "character": "Fiedler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
+      },
+      {
+        "name": "Jamie Kennedy",
+        "character": "Jamie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ipfv0IU3VYGOz5OBmi9WJi5autF.jpg"
+      },
+      {
+        "name": "Bodhi Elfman",
+        "character": "Van",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jQSJxARZYfznOKIDvBdYhXeFMvP.jpg"
+      },
+      {
+        "name": "Jacob Chambers",
+        "character": "Davis",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexandra Balahoutis",
+        "character": "Martha",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wpTfZyWnalztlsJLqPc6685wP20.jpg"
+      },
+      {
+        "name": "Anna Gunn",
+        "character": "Emily Reynolds",
+        "profile_path": "https://image.tmdb.org/t/p/w185/adppyeu1a4REN3khtgmXusrapFi.jpg"
+      },
+      {
+        "name": "Jascha Washington",
+        "character": "Eric Dean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mzU3uK5ga1t2YqBB9jzLTBmjuwd.jpg"
+      },
+      {
+        "name": "Rebeca Silva",
+        "character": "Marie the Nanny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e9ovbthHN2DON2MWJERTDpl2rot.jpg"
+      },
+      {
+        "name": "Bobby Boriello",
+        "character": "Dylan",
+        "profile_path": ""
+      },
+      {
+        "name": "Carl Mergenthaler",
+        "character": "Mike (Law Firm)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mattias Kraemer",
+        "character": "Gas Station Cashier",
+        "profile_path": ""
+      },
+      {
+        "name": "Lillo Brancato",
+        "character": "Young Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vUIga1je7MRsPSeJJvmtIpxfyRo.jpg"
+      },
+      {
+        "name": "John Capodice",
+        "character": "Older Worker #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lN5VuGKFqfOFH5F8zso34I77sy2.jpg"
+      },
+      {
+        "name": "Vic Manni",
+        "character": "Vic (Old Mobster)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2WeoKBA4Xjoxww8AKBlG2Tr2OO6.jpg"
+      },
+      {
+        "name": "T.R. Richards",
+        "character": "Cook",
+        "profile_path": ""
+      },
+      {
+        "name": "Ivana Miličević",
+        "character": "Ruby's Sales Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nADYJLuKzgCSNgIHI5owYMrWlR3.jpg"
+      },
+      {
+        "name": "Patsy Grady Abrams",
+        "character": "Accident Bystander",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e5JHYzv2DKu6G9b8BPfMmT0XioM.jpg"
+      },
+      {
+        "name": "Beatriz Mayoral",
+        "character": "Reynold's Nanny",
+        "profile_path": ""
+      },
+      {
+        "name": "Kasey Lynn Quinn",
+        "character": "Reynold's Daughter",
+        "profile_path": ""
+      },
+      {
+        "name": "Elizabeth Berman",
+        "character": "Ruthie",
+        "profile_path": ""
+      },
+      {
+        "name": "Donna W. Scott",
+        "character": "Jenny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xtEANo11DpHXto51mtHuirCe6Ay.jpg"
+      },
+      {
+        "name": "Allison Sie",
+        "character": "Hotel Desk Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hTTGW5mo919sjAKgrguJrLmRIA8.jpg"
+      },
+      {
+        "name": "Michael Andolini",
+        "character": "Sal",
+        "profile_path": ""
+      },
+      {
+        "name": "Arthur J. Nascarella",
+        "character": "Frankie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/76LAigu7y50aPIhkAJbJZIC8p70.jpg"
+      },
+      {
+        "name": "Grant Heslov",
+        "character": "Lenny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xNkGkkRN2I2Ly57PqDNk9QgAPJs.jpg"
+      },
+      {
+        "name": "John Cenatiempo",
+        "character": "Young Mobster #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6cEyUFyS5Tw2LGY0HkjpMjMZDmG.jpg"
+      },
+      {
+        "name": "Joyce Flick Wendl",
+        "character": "Waitress",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Medrano",
+        "character": "Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ps427z5PMzVcwxipZptxLxx2Hbe.jpg"
+      },
+      {
+        "name": "Dennis Sean Fahey",
+        "character": "Cop with Ambulance",
+        "profile_path": ""
+      },
+      {
+        "name": "Albert Wong",
+        "character": "Mr. Wu",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Lawrence",
+        "character": "Paramedic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2eDUycxF9kDnfZGl5x4bNgf5nG6.jpg"
+      },
+      {
+        "name": "John Haynes Walker",
+        "character": "Fireman #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Patrick Kelly",
+        "character": "Fireman #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wvUpGz4QG18czmQkFqx91KbD7Ha.jpg"
+      },
+      {
+        "name": "Lennox Brown",
+        "character": "Tunnel Maintenance Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pq9OoYnLvCjrxGkA59jJTpOscoK.jpg"
+      },
+      {
+        "name": "Martin Bosworth",
+        "character": "Bike Messenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Nancy Yee",
+        "character": "Mrs. Wu",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dJyTDcpqXzzq0i5pJ9v1L0phYD3.jpg"
+      },
+      {
+        "name": "Troy A. Cephers",
+        "character": "ANA Hotel Security",
+        "profile_path": ""
+      },
+      {
+        "name": "Carlos Gómez",
+        "character": "FBI Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4uCM3Y4QS2uaRJBYf7Yi67VvPHl.jpg"
+      },
+      {
+        "name": "Robert Gersicoff",
+        "character": "FBI Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Arnie Alpert",
+        "character": "FBI Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Greg Collins",
+        "character": "FBI Supervisor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/42p7hsOck2OzIkr4b9Wtp0HckkG.jpg"
+      },
+      {
+        "name": "Doug Roberts",
+        "character": "Hijacked Car Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry King",
+        "character": "Larry King",
+        "profile_path": "https://image.tmdb.org/t/p/w185/afNrrwBSbeFLrh0dVHvlMRRyont.jpg"
+      },
+      {
+        "name": "Warren Olney",
+        "character": "TV Anchor #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Penny Griego",
+        "character": "TV Anchor #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Keung",
+        "character": "Mambo Kitchen Worker #1",
+        "profile_path": ""
+      },
+      {
+        "name": "David Han",
+        "character": "Mambo Kitchen Worker #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Mandy Kriss",
+        "character": "Reporter #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Noel Werking",
+        "character": "Reporter #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Sam De Crispino",
+        "character": "Reporter #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Wayne A. Larrivey",
+        "character": "Doorman",
+        "profile_path": ""
+      },
+      {
+        "name": "Rhonda Overby",
+        "character": "Field Reporter #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ribWbzgdoZezQhl1jw2Qs1hJqjd.jpg"
+      },
+      {
+        "name": "Lillie Shaw Hamer",
+        "character": "Field Reporter #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Brenna McDonough",
+        "character": "Field Reporter #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qK8Bwa8zTsxIB285pcaLkCMOmnH.jpg"
+      },
+      {
+        "name": "Callison Slater",
+        "character": "Child #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Colin Brodie",
+        "character": "Child #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Cano",
+        "character": "Hallway Lawyer",
+        "profile_path": ""
+      },
+      {
+        "name": "Joy Ehrlich",
+        "character": "Mom In Diner",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Olson",
+        "character": "Aide #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcus Troy",
+        "character": "Aide #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wSYCBGTnMxu3KZicbG37cBQwrvy.jpg"
+      },
+      {
+        "name": "Adam Karkowsky",
+        "character": "Aide #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Uhrig",
+        "character": "Electronics Store Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Robyn Killian",
+        "character": "Model #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Laura Eizenia Wood",
+        "character": "Model #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Angelica Pamintuan",
+        "character": "Model #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Vené L. Arcoraci",
+        "character": "Model #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oTzPjXFuYNdGGW4q4FOzZXTr2zG.jpg"
+      },
+      {
+        "name": "Charlie Curtis",
+        "character": "Model #5",
+        "profile_path": ""
+      },
+      {
+        "name": "Raichle Watt",
+        "character": "Becky",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael James Walker",
+        "character": "Union Official",
+        "profile_path": ""
+      },
+      {
+        "name": "Jackilyn Ward",
+        "character": "Pintero's Sister",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Welch",
+        "character": "Pintero Kid #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Joshua Ward",
+        "character": "Pintero Kid #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Pete Sutton",
+        "character": "Dean House Cop",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Quinn",
+        "character": "Tunnel Technician",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert O'Rourke",
+        "character": "FBI Observer #1",
+        "profile_path": ""
+      },
+      {
+        "name": "John Allendorfer",
+        "character": "FBI Observer #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Henry Sandler",
+        "character": "FBI Observer #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Holt",
+        "character": "Chris Holt",
+        "profile_path": ""
+      },
+      {
+        "name": "Andre Blair",
+        "character": "Stand-In for Mr. Smith",
+        "profile_path": ""
+      },
+      {
+        "name": "Greg Goossen",
+        "character": "Stand-In for Mr. Hackman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wY6lfXHFSV2iSlnY97oln2m2V92.jpg"
+      },
+      {
+        "name": "Seth Green",
+        "character": "Selby (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg"
+      },
+      {
+        "name": "Tom Sizemore",
+        "character": "Boss Paulie Pintero (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cXikL7I0e2geGVvcM2RT8gQq3Nb.jpg"
+      },
+      {
+        "name": "Brian Markinson",
+        "character": "Brian Blake (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/26fa857UrEU4aCMHVQbpvNOGuKv.jpg"
+      },
+      {
+        "name": "Philip Baker Hall",
+        "character": "Mark Silverberg (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mC1wmuGSCyIQ7ABkfRe1jJV1FGV.jpg"
+      },
+      {
+        "name": "Jason Robards",
+        "character": "Congressman Phillip Hammersley (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9y0HAtWWBkB02gVzh8QDdz6UYZH.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Tony Scott",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zEEbiNa8Pqw3U6pZ8Z2y3dlJJnC.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "helicopter",
+    "washington dc, usa",
+    "corruption",
+    "espionage",
+    "politics",
+    "identity",
+    "falsely accused",
+    "mexican standoff",
+    "baltimore, usa",
+    "wiretap",
+    "satellite",
+    "national security agency (nsa)",
+    "exploding building",
+    "mafia",
+    "conspiracy",
+    "lawyer",
+    "privacy",
+    "surveillance",
+    "voyeur",
+    "secret hideout"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A lawyer becomes targeted by a corrupt politician and his N.S.A. goons when he accidentally receives key evidence to a politically motivated crime.",
+    "Robert Clayton Dean (Will Smith) is a mild-mannered lawyer who works in Washington, D.C. He is on the trail of a kingpin named Paulie Pintero (Tom Sizemore). Meanwhile, a politician named Thomas Brian Reynolds (Jon Voight) is negotiating with Representative Phillip Hammersley (Jason Robards, Jr.) about a new surveillance system with satellites. But, Hammersley declines; Reynolds has Hammersley killed, but the murder is caught on tape, and the taper is chased by Reynolds' team of N.S.A. Agents. The guy must ditch the tape, so he plants it on Dean (unbeknownst to Dean). Then, the N.S.A. decides to get into Dean's life. That is when Dean's life began to fall apart all around him, with his wife and job both gone. Dean wants to find out what is going on. Then, he meets a man named \"Brill\" (Gene Hackman), who tells him that Dean has something that the government wants. Dean and Brill formulate a plan to get Dean's life back and turn the tables on Reynolds.—John Wiggins",
+    "Robert Clayton Dean (Will Smith) is just a successful and gutsy labor lawyer when he runs into an old college friend who was a big hurry. Unbeknownst to him, that friend secretly drops a disc and viewer containing footage of a political assassination overseen by the senior advisor to the National Security Agency. Unfortunately, that politician soon learns what Dean has in his possession and secretly uses the vast resources of the N.S.A. to find, investigate and stop him before he goes public. Soon, Dean finds himself on the run, with his assests frozen, his loved ones watched and actively hunted by N.S.A. Agents using all the survellience technology they have available. Not knowing what is going, Dean must stay one step ahead while trying to figure out the cause of this mess.—Kenneth Chisholm <kchishol@execulink.com>"
+  ],
+  "synopsis": "As the U.S. Congress moves to pass new legislation that dramatically expands the surveillance powers of intelligence agencies, Congressman Phil Hammersley remains firmly opposed to its passage. To ensure the bill's passage, National Security Agency official Thomas Reynolds (Jon Voight) kills Hammersley, but he is unaware of a video camera set up by wildlife researcher Daniel Zavitz that has captured the entire incident.Zavitz discovers the murder, and alerts an underground journalist, at the same time transferring the video to an innocuous computer disc. Reynolds learns of Zavitz's footage and sends a team to recover the video. While fleeing, Zavitz runs into an old college friend, labor lawyer Robert Clayton Dean (Will Smith). Zavitz secretly passes the computer disc into Dean's shopping bag without his knowledge. Zavitz flees and is killed when hit by a fire truck. Reynolds soon has the underground journalist killed.When the NSA discovers that Dean may have the video, a team raids his house and plants surveillance devices. Unable to find the video, the NSA proceeds to falsely implicate Dean of passing classified information to Rachel Banks, a former girlfriend. The subterfuge destroys Dean's life: he is dismissed from his job, his bank accounts are frozen, and his wife throws him out of the house. Trailed by the NSA, Dean meets with Banks, who sets up a meeting with \"Brill\", one of her secret contacts. After meeting an NSA agent posing as Brill, Dean realizes his error, only to have the real Brill, retired NSA agent Edward Lyle (Gene Hackman), ferry him to temporary safety and help rid Dean of most of the tracking devices he is unwittingly carrying. Dean ultimately rids himself of the final device and, fleeing his pursuers, escapes.With Dean and Lyle in hiding, the NSA agents kill Banks and frame Dean for the murder. Lyle is able to find evidence that the NSA executed Hammersley's murder, but it is destroyed during an escape from an NSA raid.It is then revealed that Lyle was an expert in communications for the NSA; he was stationed in Iran before the Iranian Revolution. When the revolution occurred, Lyle made it out of the country, but his partner, Rachel's father, was killed. Since then, he has been in hiding. Lyle tries to coax Dean into trying to run away, but Dean is adamant about clearing his name.Dean and Lyle blackmail another supporter of the surveillance bill, Congressman Sam Albert, by videotaping him having an affair with his aide. Dean and Lyle \"hide\" bugs that Reynolds had used on Dean in Albert's room so Albert will find them and have the NSA start an investigation. Lyle also deposits $140,000 into Reynolds' bank account to make it appear that he is taking bribes.Lyle contacts Reynolds to tell him he has the video of the Hammersley murder and asks to meet. Dean tells them that the Hammersley murder footage is in the hands of Mafia boss Paulie Pintero, whose office is under FBI surveillance. Dean, Reynolds, and the NSA team head into Pintero's restaurant, precipitating a gunfight that kills the mobsters, Reynolds, and several of his NSA team.Dean and Lyle escape, with Lyle quickly disappearing from the authorities. The FBI discovers the plot behind the legislation, causing it to fail, though they cover up the NSA's involvement. Dean is cleared of all charges and is reunited with his wife. Lyle escapes to a tropical location but sends a \"goodbye\" message to Dean.",
+  "imdb_score": 7.3
+}

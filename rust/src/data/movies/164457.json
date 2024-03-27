@@ -1,0 +1,256 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/knK1NdE8fezJsOv3ZPzZdLnndla.jpg",
+  "id": 164457,
+  "title": "Out of the Furnace",
+  "poster_path": "https://image.tmdb.org/t/p/w500/cOuQQ4eRpSBxb0G9OXzWE1pHPeq.jpg",
+  "release_date": "2013-11-09",
+  "vote_average": 6.578,
+  "vote_count": 1838,
+  "popularity": 17.873,
+  "overview": "Two brothers live in the economically-depressed Rust Belt, when a cruel twist of fate lands one in prison. His brother is then lured into one of the most violent crime rings in the Northeast.",
+  "imdb_id": "tt1206543",
+  "budget": 22000000,
+  "homepage": "",
+  "revenue": 15400000,
+  "runtime": 116,
+  "tagline": "Sometimes your battles choose you.",
+  "genres": [
+    "Thriller",
+    "Drama",
+    "Crime"
+  ],
+  "production_companies": [
+    "Energy Entertainment",
+    "Appian Way",
+    "Relativity Media",
+    "Scott Free Productions",
+    "Red Granite Pictures"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Christian Bale",
+        "character": "Russell Baze",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b7fTC9WFkgqGOv77mLQtmD4Bwjx.jpg"
+      },
+      {
+        "name": "Zoe Saldaña",
+        "character": "Lena Taylor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+      },
+      {
+        "name": "Woody Harrelson",
+        "character": "Harlan DeGroat",
+        "profile_path": "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+      },
+      {
+        "name": "Sam Shepard",
+        "character": "Gerald 'Red' Baze",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mVR3Le1rSGIbQmld3Ve42RVFcyI.jpg"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "John Petty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+      },
+      {
+        "name": "Forest Whitaker",
+        "character": "Chief Wesley Barnes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1GbfuDitXDBmNmXEKk2rGEXiEXE.jpg"
+      },
+      {
+        "name": "Casey Affleck",
+        "character": "Rodney Baze Jr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vD5MtCjHPHpmU9XNn74EPGMHT7o.jpg"
+      },
+      {
+        "name": "Boyd Holbrook",
+        "character": "Tattooed Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b4mf5nxOaLHjzNEWziz77CqzQ4A.jpg"
+      },
+      {
+        "name": "Tom Bower",
+        "character": "Dan Dugan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q26z6T3QZfpirZV3Ex885zUgUR4.jpg"
+      },
+      {
+        "name": "Gordon Michaels",
+        "character": "Bergen County Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vxJkLs7vxxw3Yx6ZmJMeqWbfHNZ.jpg"
+      },
+      {
+        "name": "Jack Erdie",
+        "character": "Meth Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bp0JIIzmqONe845vB7ozLMrFZMt.jpg"
+      },
+      {
+        "name": "Charles David Richards",
+        "character": "Chaplain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nzydSQdymLHzLAMpnKonqdYNFdx.jpg"
+      },
+      {
+        "name": "Bingo O'Malley",
+        "character": "Rodney Baze Sr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iGuSef1ooo6wlcfzbLIa60kzjDv.jpg"
+      },
+      {
+        "name": "Dendrie Taylor",
+        "character": "DeGroat's Date",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z6qjMoQzx1dtzu5a386XGAlC0aE.jpg"
+      },
+      {
+        "name": "Nancy Mosser",
+        "character": "Woman at Drive In",
+        "profile_path": ""
+      },
+      {
+        "name": "Carl Ciarfalio",
+        "character": "Man at Drive In",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yADROfK7uJkmd8p3GyjxH8WZqRL.jpg"
+      },
+      {
+        "name": "Bobby Wolfe",
+        "character": "Dwight Van Dunk",
+        "profile_path": ""
+      },
+      {
+        "name": "Corey Rieger",
+        "character": "Skinny Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Greear",
+        "character": "Undercover Cop",
+        "profile_path": ""
+      },
+      {
+        "name": "Tommy Lafitte",
+        "character": "Priest",
+        "profile_path": ""
+      },
+      {
+        "name": "Georin Aquila",
+        "character": "Prisoner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Baker",
+        "character": "Cletus (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Todd Bobenrieth",
+        "character": "Steel Worker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryan C. Bogdewic",
+        "character": "Steven Jones - Prisoner 2011756 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lonell R. Childred",
+        "character": "Prisoner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Carl Clemons",
+        "character": "Cooch (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m4XuR2dG2HRCVjPvYQRJspxcx0J.jpg"
+      },
+      {
+        "name": "Julian Curi",
+        "character": "Inmate (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dicky Eklund Jr.",
+        "character": "Dealer Friend (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vBlxMLd1qHjOZG6qm6gmFT7dTKA.jpg"
+      },
+      {
+        "name": "Joe Fishel",
+        "character": "Prison Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Aapim9EAy3vY8eeS4n4tnF4iHsY.jpg"
+      },
+      {
+        "name": "Vito Grassi",
+        "character": "Gang Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John W. Iwanonkiw",
+        "character": "Steelworker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v2PmLZJAt2CrEMyN7yNVvYkrc2f.jpg"
+      },
+      {
+        "name": "Mark Kubr",
+        "character": "SWAT Team (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Efka Kvaraciejus",
+        "character": "Brady (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xC12DoEHB9h3jJQ5YrJ1WSoLEWs.jpg"
+      },
+      {
+        "name": "James Quinn",
+        "character": "Lewis Doty - Prisoner 4732P1946B (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bR46FAkEgtBJwAshZGZS4zaTxTs.jpg"
+      },
+      {
+        "name": "Brenna Roth",
+        "character": "Meth Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Aaron Toney",
+        "character": "Jerome (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u3Rf8YRUxVZ6qxrWCN0wiO45sqO.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Scott Cooper",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zuT4LxFrGq2fCHYD8R6441OmRym.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "prison",
+    "drug dealer",
+    "sibling relationship",
+    "post-traumatic stress disorder (ptsd)",
+    "bare knuckle boxing",
+    "brother",
+    "psychopath",
+    "iraq war veteran",
+    "drug use",
+    "revenge",
+    "car accident",
+    "justice",
+    "family",
+    "steel mill",
+    "rust belt",
+    "neo-noir",
+    "manslaughter",
+    "social decay",
+    "violence"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "When Rodney Baze mysteriously disappears and law enforcement doesn't follow through fast enough, his older brother Russell takes matters into his own hands to find justice.",
+    "Russell and his younger brother Rodney live in the economically depressed Rust Belt and have always dreamed of escaping and finding better lives. But when a cruel twist of fate lands Russell in prison, Rodney becomes involved with one of the most violent and ruthless crime rings in the Northeast - a mistake that will cost him everything. Once released, Russell must choose between his own freedom or risking it all to seek justice for his brother.—Production",
+    "It seems like everything is coming apart around the earnest steel mill worker, Russell Baze, who sees his father slowly dying, and his hometown Braddock in Pennsylvania's Rust Belt disintegrate little by little. Furthermore, Russell's combat veteran brother, Rodney, who struggles to readjust to the civilian life and to pay off a gambling bet that keeps getting bigger, gets sucked into a cruel world of bare-knuckle fighting, exploited by the psychotic drug dealer, Harlan DeGroat. And then, Rodney disappears inexplicably. Can big brother Russell face DeGroat in his own territory?—Nick Riganas",
+    "With the dream of a better life always just out of reach, Russell (Christian Bale) and his younger brother Rodney (Casey Affleck) find their futures taking a grim turn when Russell ends up in jail. Meanwhile, on the outside, Rodney falls in with a notorious group of criminals who threaten to destroy any hope for a better tomorrow. Later, when Russell is released from prison the temptation to cut his ties with the past clashes with his sense of duty to his brother, who is headed down the road to ruin..",
+    "After being released from prison, Russell Baze (Bale) returns home to discover that his brother Rodney (Affleck) joined a dangerous crime syndicate while he was away and has since disappeared. With the police search lacking the necessary urgency to find to him, Russell puts his own freedom in jeopardy to find and punish those responsible."
+  ],
+  "synopsis": "After getting off work at a North Braddock, Pennsylvania, steel mill, Russell Baze (Christian Bale) catches his brother Rodney (Casey Affleck) at a horse racing simulcast, where Rodney had just bet on a losing horse. Rodney reveals John Petty (Willem Dafoe) loaned the money to him. Petty owns a bar and runs several illegal games. Russell visits Petty pays off some of Rodney's debt and promises to pay Petty the rest with his next paycheck if Rodney has not yet paid it off.Driving home intoxicated, Russell hits another car, killing its occupants, including a little boy. He is incarcerated for vehicular manslaughter. While in prison he is informed that his ailing father has died and his girlfriend Lena (Zoe Saldana) has left him for the small-town police chief, Wesley Barnes (Forest Whitaker). Upon his release from prison, Russell returns home and resumes his job at the mill.The same day, Rodney participates in a bare-knuckle fight. Rodney was supposed to take a dive as a way to repay some of the gambling debt he owes Petty but wins the match as he enters a state of rage from his war experiences. The next morning, Russell finds Rodney's bloodied wrist tapes in the trash and confronts him about it. Russell wants him to work in the mill, but Rodney, a four-tour Iraq veteran, is too proud and mentally scarred.Rodney tells Petty the \"nickel and dime\" fights will never earn him enough money to pay Petty back. Rodney then insists that Petty call and organize a more lucrative fight. Petty reluctantly arranges a fight with Harlan DeGroat (Woody Harrelson), a sociopath drug dealer from New Jersey to whom Petty owes a lot of money. Russell wants Lena back, but she is pregnant with Wesley's baby. Russell unsuccessfully feigns happiness to Lena, saying she will be a great mom, but both know that her pregnancy makes their getting back together an impossibility.Rodney is told he must lose the fight in New Jersey. When DeGroat seeks assurances Rodney will lose, Petty promises he will. Rodney briefly knocks out his opponent, but when hearing Petty pleading with him, Rodney helps the fighter get up, takes a dive, and lets the man pummel his face. After the fight, Petty reminds DeGroat they had agreed in advance that this fight made them even, and DeGroat drops the subject. While driving back home, DeGroat and his men ambush Petty and Rodney. DeGroat first shoots and kills Petty, has Rodney dragged into the woods, and kills him, too. Unknown to anyone, Petty accidentally dialed his cell phone, and it fell onto the car seat. The call connected to his bartender Dan's (Tom Bower) voice mail and provided proof that DeGroat was the killer.That night, Russell finds a letter from Rodney, stating this will be his last fight and he wants to work with Russell at the mill. Wesley informs Russell about Rodney's disappearance, and Russell and his uncle \"Red\" (Sam Shepard) set off to find him. In DeGroat's town, Russell and Red are stopped by the sheriff, who informs them that DeGroat's followers would kill them if they knew why the two were in town, and, as a favor to Sheriff Wesley, he will escort them to the state line rather than searching and arresting them for illegally carrying concealed weapons.Upon returning to the mill, Wesley visits Russell and confirms Rodney's death. Russell goes to Petty's office, finds a phone number for DeGroat, and calls him without identifying himself, enticing him to come collect Petty's debt. At the bar, Russell sabotages DeGroat's van to prevent escape and confronts him. DeGroat escapes to a nearby, shutdown mill, where Russell shoots him in the thigh. Russell then follows DeGroat as he hobbles off and shoots him in the back. Russell informs DeGroat that he is Rodney's brother, as Wesley approaches the mill. Wesley pleads for Russell to put down his gun, but Russell proceeds to carefully aim his hunting rifle and shoots DeGroat in the head. The film cuts to Russell sitting at home at the dining table and fades to black.",
+  "imdb_score": 6.7
+}

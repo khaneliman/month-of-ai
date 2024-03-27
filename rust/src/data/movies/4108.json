@@ -1,0 +1,196 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/kWt1OcPgwO1ssu57wgTKmq38JYw.jpg",
+  "id": 4108,
+  "title": "The Transporter",
+  "poster_path": "https://image.tmdb.org/t/p/w500/v3QIFUWgtVN4wejVuDZowuyJ20W.jpg",
+  "release_date": "2002-10-02",
+  "vote_average": 6.699,
+  "vote_count": 5042,
+  "popularity": 37.518,
+  "overview": "Former Special Forces officer, Frank Martin will deliver anything to anyone for the right price, and his no-questions-asked policy puts him in high demand. But when he realizes his latest cargo is alive, it sets in motion a dangerous chain of events. The bound and gagged Lai is being smuggled to France by a shady American businessman, and Frank works to save her as his own illegal activities are uncovered by a French detective.",
+  "imdb_id": "tt0293662",
+  "budget": 21000000,
+  "homepage": "",
+  "revenue": 43900000,
+  "runtime": 92,
+  "tagline": "Rules are made to be broken.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    "TF1 Films Production",
+    "EuropaCorp",
+    "Current Entertainment",
+    "Canal+"
+  ],
+  "production_countries": [
+    "US",
+    "FR"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jason Statham",
+        "character": "Frank Martin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lldeQ91GwIVff43JBrpdbAAeYWj.jpg"
+      },
+      {
+        "name": "Shu Qi",
+        "character": "Lai",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ycuwRV9fEKieAAZN81rC3xcuxaE.jpg"
+      },
+      {
+        "name": "François Berléand",
+        "character": "Inspector Tarconi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5TDYSUfCj8vaG5sqJXUU06Cvafa.jpg"
+      },
+      {
+        "name": "Matt Schulze",
+        "character": "Wall Street",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wFOVJr3dxEs5kC2rtS5iV3XbU0C.jpg"
+      },
+      {
+        "name": "Ric Young",
+        "character": "Mr. Kwai",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2XxcV8eGeyAXOofsXmEsN2hSx45.jpg"
+      },
+      {
+        "name": "Doug Rand",
+        "character": "Leader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kBDawasRQXDvZThX75bMEgl1xcd.jpg"
+      },
+      {
+        "name": "Didier Saint Melin",
+        "character": "Boss",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ldIUxncHyhKqNDBhNLFQwBcAowT.jpg"
+      },
+      {
+        "name": "Tonio Descanvelle",
+        "character": "Thug 1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l5xgE93R5bjwenULIItboKYVmve.jpg"
+      },
+      {
+        "name": "Laurent Desponds",
+        "character": "Thug 2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/snfoa7HCzNtSYyI1k2GENBwpx9R.jpg"
+      },
+      {
+        "name": "Matthieu Albertini",
+        "character": "Thug 3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vIvjzW8JhUDaCrRrN22Ur2lyCbv.jpg"
+      },
+      {
+        "name": "Vincent Nemeth",
+        "character": "Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1WSY8PXbrWt1hCFKNyAwH7HcNHU.jpg"
+      },
+      {
+        "name": "Jean-Yves Bilien",
+        "character": "Little Thug",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vwrN1Wq2FiWvkIKcvePy3eK6d28.jpg"
+      },
+      {
+        "name": "Jean-Marie Paris",
+        "character": "Giant Thug",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5zi9mvf3H58v2aoQjYhkFN3WXYO.jpg"
+      },
+      {
+        "name": "Adrian Dearnell",
+        "character": "Newscaster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vepuzqGgBowAHklpmba0EI2pJuY.jpg"
+      },
+      {
+        "name": "Alfred Lot",
+        "character": "Cop 1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7LTFTf98oNjCeOEv1PD6edmmzET.jpg"
+      },
+      {
+        "name": "Audrey Hamm",
+        "character": "Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h3R2jZpcch5UIuOCNFate8qs0n3.jpg"
+      },
+      {
+        "name": "Sebastien Migneau",
+        "character": "Wheel Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Laurent Jumeaucourt",
+        "character": "Young Thug",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pkJjUK3unTPfYRP8TIYdnkIwWkw.jpg"
+      },
+      {
+        "name": "Christian Gazio",
+        "character": "Cop 2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dsAEs0p2RE7k8hen3VOXjV4rzhM.jpg"
+      },
+      {
+        "name": "Frédéric Vallet",
+        "character": "Tractor Trailer Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Stefan Gudju",
+        "character": "Thug 1 Wall Street",
+        "profile_path": ""
+      },
+      {
+        "name": "Sandrine Rigaux",
+        "character": "Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pmiH5e78jc621fmHKFwJ3MkDbyh.jpg"
+      },
+      {
+        "name": "Cameron Watson",
+        "character": "Official",
+        "profile_path": ""
+      },
+      {
+        "name": "Vincent Tulli",
+        "character": "Thug (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/soxde8kSCh0R3ed65UDNOYYrhiU.jpg"
+      },
+      {
+        "name": "Cyril Raffaelli",
+        "character": "Thug",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lgD5pUltRnirh6WsyQ6Du1jmi7w.jpg"
+      },
+      {
+        "name": "Marc Hoang",
+        "character": "Thug",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o5ahH1ZqIEYzyl4oz6ofvs3Q6hv.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Corey Yuen",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d4doL1fc0TCcQqgFvkB8fRRpa1F.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "martial arts",
+    "police",
+    "car journey",
+    "human trafficking",
+    "transportation",
+    "organized crime",
+    "police chase",
+    "gunfight",
+    "action hero",
+    "enemies"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Frank Martin, who \"transports\" packages for unknown clients, is asked to move a package that soon begins moving, and complications arise.",
+    "Ex-Special Forces operator Frank Martin lives what seems to be a quiet life along the French Mediterranean, hiring himself out as a mercenary \"transporter\" who moves goods--human or otherwise--from one place to another. No questions asked. Carrying out mysterious and sometimes dangerous tasks in his tricked-out BMW, Frank adheres to a strict set of rules, which he never breaks. Rule One: Never change the deal. Rule Two: No names--Frank doesn't want to know whom he's working for, or what he's transporting. Rule Three: never look in the package. Frank's newest transport seems no different from the countless ones he's done in the past. He's been hired by an American known only as \"Wall Street\" to make a delivery; but when Frank stops along the route, he notices his package is moving. Violating Rule Three, Frank looks inside the bag, finding its contents to be a beautiful, gagged woman. Frank's steadfast adherence to his other two rules--which make up his basic code of survival--also quickly fails, hurtling him and his new companion on a road leading to shocking secrets, deadly complications, and the last thing that Frank ever expected to come to believe: that rules are made to be broken.—Anthony Pereyra {hypersonic91@yahoo.com}",
+    "Hiring out his exceptional skills to the highest bidder, Frank Martin, a retired SAS soldier, now works as a courier for the underworld. Abiding by three simple yet invariable rules, Frank has managed to make a name for himself as an impartial and highly effective professional--above all, the deal never changes. Then, while commissioned to deliver a 50-kilo parcel to a dangerous client, Frank realises that the package starts squirming in the boot of his high-powered BMW E38 735i. And, as curiosity gets the best of the conflicted driver, Frank decides to stir up a hornets' nest by breaking all his rules. Now, there's no turning back. Can the Transporter escape from the trap and live to tell the tale?—Nick Riganas",
+    "Ex-Special Forces operator Frank Martin lives what seems to be a quiet life along the French Mediterranean, hiring himself out as a mercenary \"transporter\" who moves goods - human or otherwise - from one place to another. No questions asked. Frank's newest transport seems no different from the countless ones he's done in the past. He has been hired by an American known only as \"Wall Street\" (see Rule Two) to make a delivery, but when Frank stops along route, he notices his \"package\" is moving. Violating his own personal rules, Frank looks inside the bag, finding its contents to be a beautiful, gagged woman.—Anonymous",
+    "Frank Martin is a former soldier now living a solitary existence in France, Frank runs a private business as a \"Transporter\" a hired criminal whose job is to transport cargo, packages and passengers without question. Playing by the rules, Frank is the best in the business and he has never broken the rules. Until, Frank is hired by an American criminal known as \"Wall Street\" to deliver a package. Frank's curiosity leads him to break the rules, and he discovers the package he is delivering to Wall Street is a Chinese woman named Lai. Learning that Frank broke the rules and learn about Lai, Wall Street sends his mercenaries to assassinate him. With his own life in danger, Frank takes it upon himself to protect not only himself, but Lai, as he agrees to help Lai rescue enslaved people from China, who are being smuggled into France by Wall Street helped by Lai's father.—Daniel Williamson"
+  ],
+  "synopsis": "Frank Martin (Jason Statham) is a highly skilled driver known only as \"The Transporter.\" The titular character is a former Special Forces officer who, disillusioned with his former leadership and tortured by the memories of his past, now lives on the French Mediterranean coastline with a lucrative \"backup\" career. He will transport anything, no questions asked, from Point A to Point B, always on time, and he is known as the best in the business. He strictly follows three rules when transporting: Rule #1: \"No new deals, when it's a deal, it's a deal\", Rule #2: \"No names\", and Rule #3: \"Don't open the package\".\nFrank has been hired to transport \"Three men, 254 kilos.\" When not three but four men get into his car, fresh from a bank heist, Frank refuses to move, holding fast to Rule #1. After one gang member is killed by the others, Frank leaves with the remaining robbers. On delivery to their destination, they foist new money on Frank to drive further from the city. He refuses the deal, again adhering to Rule #1. The robbers escape in another car, and Frank leaves.\nFrank returns to his mansion in the south of France, and he finds out via the news that the gang was caught after crashing their getaway car in a pursuit. Later, local police Inspector Tarconi (François Berléand), who happens to be a close acquaintance, arrives to question Frank about the robbery, since his make and model of car was the same used in the robbery. However, despite his suspicions about Frank's involvement, Tarconi has no concrete proof about the heist (due to Frank cleaning up the car and changing the license plate) and leaves his Villa.\nFrank is then hired to deliver a package to an American gangster (Matt Schulze) known only as \"Wall Street.\". During the way, he notices that something is moving in the package, but he refuses to open the bag due to Rule #3. While changing a flat tire on the road in France, he breaks one of his rules and opens the package that was placed into the trunk at Point A. He finds the package is really a woman, and he makes a small hole and gives her a bottle of juice to drink. He delivers the package as promised to Point B.\nWall Street suggest Frank to transport a briefcase to the new position. Frank reluctantly accepts the job. He takes the briefcase and leaves. On the way, he stops at a gas station to eat and rest for a little while, but the briefcase turns out to be a bomb that destroys Frank's car in the parking lot but leaves him unharmed. Frank snaps and returns to Wall Street's residence with a vengeance, dispatching several of his henchmen and then stealing a car to get away, only to find \"the package\" tied to a chair in the back seat.\nLater on, he returns to his house, and unties the package who tells him that her name is Lai (Shu Qi). The next day, Tarconi arrives again and makes the usual inquires, producing a scorched license plate, and the suspicion that a house maid drives a Mercedes. Lai supports Frank's alibi, leaving Tarconi with no proof again (who didn't notice that the front light on the car was broken). However, after he leaves, missiles rain down on Frank's house, and Frank and Lai are barely able to escape the house into the sewer, swimming away from the house before it completely explodes. They hide in an apartment in the city, but Tarconi finds them and takes them to the police station for questioning about the destruction of Frank's house.\nAt the police station, Frank and Lai are able deflect Tarconi's questions, and Lai manages to sneak onto Tarconi's computer to access information on Wall Street. She tells Frank that Wall Street is trafficking two shipping containers full of Chinese people including her own father and family, and is planning to sell them into slavery. Lai and Frank go to Wall Street's office to find the shipping docket identifying the containers. However, Wall Street reveals that Lai's family is not in the containers. In fact, her father is the man responsible for the human trafficking. Tarconi, who was following Frank, then arrives at the office. Wall Street and Lai's father accuse Frank of kidnapping Lai and attempting to blackmail them. Unable to prove otherwise, Tarconi has Frank arrested and locked up in the station.\nAt the station, Frank does his best to explain the situation to Tarconi. Tarconi agrees to abet Frank's escape as his faux hostage. Frank then tracks the criminals to the docks, where they load the containers onto trucks. However, Frank is spotted and is forced to fight his way through the guards, failing to stop the trucks. He then steals a small airplane and parachutes onto one of the trucks, killing Wall Street and a number of his henchmen. After getting out of the truck, Frank is then ambushed by Lai's father. However, Frank is saved when Lai shoots her own father. Afterwards, Tarconi arrives with the police and they rescue the people trapped inside the containers, and Frank and Lai help to load them in the ambulances as the film ends.\nThe Transporter drives a BMW in the first film and an Audi A8 (12 cylinder W12) in the 2nd and 3rd films.",
+  "imdb_score": 6.8
+}

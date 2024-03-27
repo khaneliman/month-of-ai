@@ -1,0 +1,440 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/wNBLjvDpvTS3wyOZCecf3Jas7la.jpg",
+  "id": 2567,
+  "title": "The Aviator",
+  "poster_path": "https://image.tmdb.org/t/p/w500/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg",
+  "release_date": "2004-12-17",
+  "vote_average": 7.225,
+  "vote_count": 5036,
+  "popularity": 28.814,
+  "overview": "A biopic depicting the life of filmmaker and aviation pioneer Howard Hughes from 1927 to 1947, during which time he became a successful film producer and an aviation magnate, while simultaneously growing more unstable due to severe obsessive-compulsive disorder.",
+  "imdb_id": "tt0338751",
+  "budget": 110000000,
+  "homepage": "",
+  "revenue": 213700000,
+  "runtime": 170,
+  "tagline": "Some men dream the future. He built it.",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "Miramax",
+    "Initial Entertainment Group",
+    "Forward Pass",
+    "Appian Way",
+    "IMF Internationale Medien und Film GmbH & Co. Produktions KG"
+  ],
+  "production_countries": [
+    "DE",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Howard Hughes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+      },
+      {
+        "name": "Cate Blanchett",
+        "character": "Katharine Hepburn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A3nZcGx0qUhbb9fpNK65oPgCJtC.jpg"
+      },
+      {
+        "name": "Kate Beckinsale",
+        "character": "Ava Gardner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j8AX8zHixgntJ7FgIQWwI7NJ7p4.jpg"
+      },
+      {
+        "name": "John C. Reilly",
+        "character": "Noah Dietrich",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+      },
+      {
+        "name": "Alec Baldwin",
+        "character": "Juan Trippe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg"
+      },
+      {
+        "name": "Alan Alda",
+        "character": "Senator Ralph Owen Brewster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dJBtCXUwWnAxhveiPdXQS6e71pw.jpg"
+      },
+      {
+        "name": "Ian Holm",
+        "character": "Professor Fitz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tz81JSiPdcLM7b624W1BcYdxd4D.jpg"
+      },
+      {
+        "name": "Danny Huston",
+        "character": "Jack Frye",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iiVgafHitV0IbJYbaSNtHcWHF7P.jpg"
+      },
+      {
+        "name": "Gwen Stefani",
+        "character": "Jean Harlow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/54LDspO5MmvvBYGQMGQEacTl0qZ.jpg"
+      },
+      {
+        "name": "Jude Law",
+        "character": "Errol Flynn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pj75cHQ3oLSFPJ0IyB6Bkg6ytHu.jpg"
+      },
+      {
+        "name": "Adam Scott",
+        "character": "Johnny Meyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+      },
+      {
+        "name": "Matt Ross",
+        "character": "Glenn Odekirk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qqPMm2lrjajJ1EpJ1jXEayz5oqP.jpg"
+      },
+      {
+        "name": "Kelli Garner",
+        "character": "Faith Domergue",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6EDL2MXZigqpjUWmRclMfqIdIXp.jpg"
+      },
+      {
+        "name": "Frances Conroy",
+        "character": "Mrs. Hepburn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
+      },
+      {
+        "name": "Brent Spiner",
+        "character": "Robert Gross",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wHaOTfxOEKOPssDYaSSB5zenml4.jpg"
+      },
+      {
+        "name": "Stanley DeSantis",
+        "character": "Louis B. Mayer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4pdkgjIGI5gW7Mf39tBXe7yaOg5.jpg"
+      },
+      {
+        "name": "Edward Herrmann",
+        "character": "Joseph Breen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sO9IoAlw3CLJZT6UF35cZBcTYRV.jpg"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "Roland Sweet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+      },
+      {
+        "name": "Kenneth Welsh",
+        "character": "Dr. Hepburn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hsmY2HaIdOEoTBtwFPxQLyLymYw.jpg"
+      },
+      {
+        "name": "J.C. MacKenzie",
+        "character": "Ludlow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aAy2hzMku50aM2lUYg7yNQYdpMW.jpg"
+      },
+      {
+        "name": "Jacob Davich",
+        "character": "Howard Hughes (9 yrs old)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A2RY8NBfQaDY5PApXb8HYDfpHja.jpg"
+      },
+      {
+        "name": "Amy Sloan",
+        "character": "Howard Hughes' Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kA3tB47pBkS76DRKMrBBWkE9QP0.jpg"
+      },
+      {
+        "name": "Sam Hennings",
+        "character": "HELL'S ANGELS Stunt Coordinator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wVw51UxN2q68F3bXEVm2P5v4HkC.jpg"
+      },
+      {
+        "name": "Joe Chrest",
+        "character": "HELL'S ANGELS Director of Photography",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7mcsJGnqRoVPTtxAUZEKt2dZnlw.jpg"
+      },
+      {
+        "name": "Rufus Wainwright",
+        "character": "Cocoanut Grove Vocalist #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6JKOGgb0UowE0Ad81Urjpn5BPRT.jpg"
+      },
+      {
+        "name": "Harry Strandjofski",
+        "character": "Crony of Louis B. Mayer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iotIZoLu8sk2nvhyY3mytFvPkgf.jpg"
+      },
+      {
+        "name": "Vince Giordano",
+        "character": "Cocoanut Grove Band Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w2yEYZvKzYYLz0FiwjqQBKJolK5.jpg"
+      },
+      {
+        "name": "Josie Maran",
+        "character": "Cigarette Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tnkLlB1hQMsk0mgXzmQs7c7p1zV.jpg"
+      },
+      {
+        "name": "Justin Shilton",
+        "character": "HELL'S ANGELS Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tnTYL9RBxuZsgMebfNVeGSZjcIg.jpg"
+      },
+      {
+        "name": "Arthur Holden",
+        "character": "Radio Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c8FXyHhiVXCsjvwxXOzuVi28z3i.jpg"
+      },
+      {
+        "name": "Raymond Ducasse",
+        "character": "Roscoe Turner",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph P. Reidy",
+        "character": "Aide to Howard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bJ8UYZeu9kKVj2MIP1sfPt0kGWZ.jpg"
+      },
+      {
+        "name": "Stéphane Demers",
+        "character": "Maitre d'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2v9QG0p2etSzCj44D23PPkbjIfO.jpg"
+      },
+      {
+        "name": "Yves Jacques",
+        "character": "Waiter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n0fdKFIH2tZd11z9bSbqdN5X3x8.jpg"
+      },
+      {
+        "name": "Loudon Wainwright III",
+        "character": "Cocoanut Grove Vocalist #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/82gDYbjomHMG7ENgsTuU30pG1Rk.jpg"
+      },
+      {
+        "name": "Jason Cavalier",
+        "character": "Cocoanut Grove Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tBiNgNX2gbj06mQg0Lm4ElNCjt4.jpg"
+      },
+      {
+        "name": "Chris Ufland",
+        "character": "Engineer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2P7A4hTpCiOU50xl5poyDUTzGjb.jpg"
+      },
+      {
+        "name": "Al Dubois",
+        "character": "Pan Am Executive #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Alan Toy",
+        "character": "Man on Crutches",
+        "profile_path": "https://image.tmdb.org/t/p/w185/okj4wDau7kfMmDViuPs58BxkiN2.jpg"
+      },
+      {
+        "name": "Sebastian Tillinger",
+        "character": "Timer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rZoiU9fkUYjI7valGlhCuRw29LS.jpg"
+      },
+      {
+        "name": "Francesca Scorsese",
+        "character": "Little Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o7MhEoM6PLavRxHUVOiaAhlN61R.jpg"
+      },
+      {
+        "name": "Charlotte Scott",
+        "character": "Little Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "James Bradford",
+        "character": "Uncle Willy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eY4jfjviQUsa97Uc5Kp9UGSkWuW.jpg"
+      },
+      {
+        "name": "Joe Cobden",
+        "character": "Another Guest #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g7EsYXdEoNv9s73ZI10SC2gL8MD.jpg"
+      },
+      {
+        "name": "Linda E. Smith",
+        "character": "Another Guest #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7yP1WuLqAJUodzPfAKPPK1ZuW1h.jpg"
+      },
+      {
+        "name": "Alan Fawcett",
+        "character": "Chairman MPA",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xWfbQTpiOqgrY5dJ52Sx4WO4A66.jpg"
+      },
+      {
+        "name": "Jordan St. James",
+        "character": "Hughes' Aide at Censor Hearing",
+        "profile_path": ""
+      },
+      {
+        "name": "David Purdham",
+        "character": "Emcee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wH8Ni8PrSnL0EqPM5DBggGuXEf2.jpg"
+      },
+      {
+        "name": "Kevin O'Rourke",
+        "character": "Spencer Tracy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j0U6bGKY08fdfIRejRZiXJG1sBf.jpg"
+      },
+      {
+        "name": "Lisa Bronwyn Moore",
+        "character": "Noah's Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p7vd8VOIjVLd3i2wNL8XmrwcEGx.jpg"
+      },
+      {
+        "name": "Emma Campbell",
+        "character": "Jack Frye's Wife, Helen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6bmE3BddsgZVdCFsyBCGlgUAtPR.jpg"
+      },
+      {
+        "name": "Martha Wainwright",
+        "character": "Cocoanut Grove Vocalist #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Vincent Laresca",
+        "character": "Jorge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nO1HrEcjXzot40qDJkTcI4CFqTf.jpg"
+      },
+      {
+        "name": "Matt Holland",
+        "character": "Hughes' Staff Person",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ic37ED27NTrKm5FnJS2tTts1vVG.jpg"
+      },
+      {
+        "name": "Dennis St John",
+        "character": "Custodian",
+        "profile_path": ""
+      },
+      {
+        "name": "Keith Campbell",
+        "character": "Marine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oPAqYzvsm2m3HtnxKTuzglgFxum.jpg"
+      },
+      {
+        "name": "Al Vandecruys",
+        "character": "Doctor",
+        "profile_path": ""
+      },
+      {
+        "name": "James Rae",
+        "character": "FBI Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hVMuelTiTsy7vScuAir2sEuvtSx.jpg"
+      },
+      {
+        "name": "Kathleen McAuliffe",
+        "character": "Brewster's Maid",
+        "profile_path": ""
+      },
+      {
+        "name": "Nellie Sciutto",
+        "character": "Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ncYzjwMzadea4vOZ72MXJSk7Wcm.jpg"
+      },
+      {
+        "name": "Terry Haig",
+        "character": "Another Senator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6gGKrJS28lry3RP2bGAtTimdLXZ.jpg"
+      },
+      {
+        "name": "James McNamara",
+        "character": "James McNamara (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Koensgen",
+        "character": "Pan Am Executive #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s2BQozISU7ZoCfZl7LdYvtWSN8B.jpg"
+      },
+      {
+        "name": "Vladimir Kuznetsov Smith",
+        "character": "Caretaker",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Akeson",
+        "character": "Caretaker",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Pollard",
+        "character": "Caretaker",
+        "profile_path": ""
+      },
+      {
+        "name": "Heather Petrone",
+        "character": "Vivien Leigh (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/trMf9TLabLWiZi8OhqXraDB24mp.jpg"
+      },
+      {
+        "name": "Danielle Franke",
+        "character": "Esquire Starlet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m4H8rdTTaUdkKiuIiV5Hy934v7B.jpg"
+      },
+      {
+        "name": "Meghan Elizabeth",
+        "character": "Starlet (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Elizabeth DeCicco",
+        "character": "Starlet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aYZacUv8ULbffcl3cHZFW3ef0B3.jpg"
+      },
+      {
+        "name": "Elisa Dyann",
+        "character": "Coat Check Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Isabelle Champeau",
+        "character": "Editor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xltupoxog8FwuASxf2YHeb1SbDc.jpg"
+      },
+      {
+        "name": "Al Coronel",
+        "character": "Bi-Plane Mechanic (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AqpiJNwIOgqULzpoTYWjKTY4plV.jpg"
+      },
+      {
+        "name": "Gerardo Lo Dico",
+        "character": "Military Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Anne V. Coates",
+        "character": "Howard Hughes' Film Editor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eLlodjzLRsJc4I4g7fIju3WVPW0.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Martin Scorsese",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "ladykiller",
+    "pilot",
+    "biography",
+    "womanizer",
+    "phobia",
+    "aviation",
+    "u.s. congress",
+    "flying boat",
+    "test flight"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A biopic depicting the early years of legendary director and aviator Howard Hughes' career from the late 1920s to the mid 1940s.",
+    "Biopic of billionaire Howard Hughes, starting with his early filmmaking years as owner of R.K.O. Pictures, but mostly focusing on his role in designing and promoting new aircraft. Hughes was a risk-taker spending several fortunes on designing experimental aircraft and eventually founding TWA as a rival to Pan Am airlines owned by his great rival Juan Trippe. When Trippe's politico Senator Ralph Owen Brewster accuses Hughes of being a war profiteer, it's Hughes who gains the upper hand. Hughes also had many women in his life including a long relationship with Katharine Hepburn. From an early age, however, Hughes was also germophobic and would have severe bouts of mental illness.—garykmcd",
+    "Billionaire and aviation tycoon Howard Hughes is a successful public figure: a director of big-budget Hollywood movies such as \"Hell's Angels (1930)\", a passionate lover of Hollywood's leading ladies Katharine Hepburn and Ava Gardner, and an aviation pioneer who helps build TWA into a major airline. But in private, Hughes remains tormented, suffering from paralyzing phobias and depression. The higher he rises, the farther has to fall.—Jwelch5742",
+    "Texan oil fortune heir Howard Hughes refuses to wisely invest and enjoy his millions, preferring to riskily spend on his passions: airplanes and Hollywood, so in the 1930s he produces an unprecedented air combat blockbuster Hell Angels which he keeps improving to staff's despair, with Katherine Hepburn as bonus lover. He moves on to improving airplane design and running airline TWA, the sole US-overseas challenger for PanAm. His germophobia gets utterly out of hand and test-piloting himself nearly breaks every bone is his body, but the worst challenge comes from senator Ralph Owen Brewster, who uses the FBI to threaten Hughes with ruin and public exposure as 'war profiteer' unless he accepts personal friend Juan Trippe's company PanAm being given a virtual monopoly on international flights.—KGF Vissers",
+    "Spanning nearly two decades in the life of billionaire entrepreneur, aeronautics visionary, bold Hollywood producer, and fearless pilot, Howard Hughes, Martin Scorsese's \"Aviator\" opens with the independent-minded tycoon investing large sums of money in Hell's Angels (1930), the most expensive silent film ever. Eccentric, charismatic, but also a chronic sufferer of obsessive-compulsive disorder, Howard Hughes became notorious for his romantic affairs with Hollywood iconic actresses Katharine Hepburn, Ava Gardner, Ginger Rogers, and Jean Harlow. As an intrepid pilot, Howard Hughes broke every flying record, created TWA, had a near-death experience while test-piloting the XF-11 military reconnaissance aircraft, and locked horns with Maine Senator Owen Brewster and Pan Am in a legal battle over exclusivity on international air travel. However, Hughes' inner demons and aggressive phobias threatened his entire fortune, putting his life at risk.—Nick Riganas"
+  ],
+  "synopsis": "In 1914, nine-year-old Howard Hughes is being bathed by his mother. She warns him of disease, afraid that he will succumb to a flu outbreak: \"You are not safe.\"\nBy 1927, Hughes has inherited his family's fortune, is living in California and is directing the film Hell's Angels at the age of 22. He hires Noah Dietrich to run the Hughes Tool Company.Hughes (Leonardo Di Caprio) becomes obsessed with shooting the film realistically. As a result, it takes several years and an enormous amount of money to finish. When the film is completed, The Jazz Singer, the first partially talking film, premieres. Hughes re-shoots Hell's Angels with sound, taking another year and $1.7 million. Despite press skepticism, Hell's Angels is a hit. Hughes is unsatisfied with the end result, and orders the film re-cut after its Hollywood premiere. He later produces Scarface (1932) and The Outlaw (1943).Hughes becomes romantically involved with actress Katharine Hepburn (Kate Blanchett). They live together and she helps alleviate the symptoms of his worsening obsessive-compulsive disorder (OCD). As Hughes' fame grows, he is linked to various starlets, inciting Hepburn's jealousy.\nHughes' greatest passion remains the same: aviation. He purchases majority interest in Transcontinental & Western Air (TWA), the predecessor to Trans World Airlines. In 1935, he test flies the H-1 Racer, pushing it to a new speed record, but crashes in a beet field; \"Fastest man on the planet,\" he boasts to Hepburn.Three years later, he flies around the world in four days, shattering the previous record by three days. Juan Trippe, chairman of the board of rival Pan American World Airways, is determined not to let Hughes challenge his company's success. Trippe gets his crony, Senator Owen Brewster, to introduce the Commercial Airline Bill, which would give Pan Am a monopoly on international air travel.\nHepburn and Hughes break up when she announces that she has fallen in love with fellow actor Spencer Tracy. Hughes soon has new love interests: first 15-year-old Faith Domergue, then actress Ava Gardner (Kate Beckinsale).\nHughes secures contracts with the Army Air Forces for two projects: a spy plane and a huge troop transport designed to circumvent the U-boat menace. By 1946, Hughes has only finished the XF-11 reconnaissance aircraft and is still building the H-4 Hercules (\"Spruce Goose\") flying boat.Hughes' OCD worsens, characterized by the repetition of phrases and a phobia of dust and germs. He takes the XF-11 for a test flight. One of the engines malfunctions, causing the aircraft to crash in Beverly Hills; he is severely injured and takes months to recover. Though the H-4 Hercules flying boat order is canceled, he continues development of the aircraft with his own money. When he is discharged, he is told that he has to choose between funding a foundering TWA or his flying boat. Hughes orders Dietrich to mortgage the TWA assets so he can continue developing the Hercules prototype.Hughes grows increasingly paranoid, planting microphones and tapping Gardner's phone lines to keep track of her. His house is searched by the FBI for incriminating evidence of war profiteering. The incident creates a powerful psychological trauma for Hughes, with investigators handling his possessions and tracking dirt everywhere. Brewster privately offers to drop the charges if Hughes will sell TWA to Trippe, an offer Hughes rejects. Hughes sinks into a deep depression, shuts himself away in his screening room and grows detached from reality. Hepburn tries unsuccessfully to help him. Trippe has Brewster subpoena Hughes for a Senate investigation, confident that the reclusive Hughes will not show up.After Hughes has shut himself away for nearly three months, Ava Gardner visits him and personally grooms and dresses him in preparation for the hearing. Reinvigorated, Hughes defends himself against Brewster's charges and accuses Trippe of essentially bribing the senator. Hughes concludes by announcing that he is committed to completing the H-4 aircraft, and that he will leave the country if he cannot get it to fly.Hughes successfully test flies the flying boat. After the flight, he talks to Dietrich and his engineer, Glenn Odekirk, about a new jetliner for TWA. He seems free of his inner demons, but relapses after seeing strange men in germ-resistant suits who may not be real. Hughes begins repeating the phrase \"the way of the future\" over and over again, until Dietrich and Odekirk hide him in a restroom while Dietrich fetches a doctor. Hughes has a flashback to his boyhood, being washed by his mother, and resolving he would fly the fastest aircraft ever built, make the biggest movies ever and become the richest man in the world. He continues repeating the phrase as the screen cuts to black.",
+  "imdb_score": 7.5
+}

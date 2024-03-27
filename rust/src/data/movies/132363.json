@@ -1,0 +1,326 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/8gmCPziq1DqjkZJEB9pYwr5Tzr5.jpg",
+  "id": 132363,
+  "title": "The Butler",
+  "poster_path": "https://image.tmdb.org/t/p/w500/TTtg1JzS8OJjbmiKTyCSlfYw0M.jpg",
+  "release_date": "2013-08-16",
+  "vote_average": 7.345,
+  "vote_count": 2761,
+  "popularity": 18.955,
+  "overview": "A look at the life of Cecil Gaines who served eight presidents as the White House's head butler from 1952 to 1986, and had a unique front-row seat as political and racial history was made.",
+  "imdb_id": "tt1327773",
+  "budget": 25000000,
+  "homepage": "",
+  "revenue": 115900000,
+  "runtime": 132,
+  "tagline": "One quiet voice can ignite a revolution.",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Follow Through Productions",
+    "Salamander Pictures",
+    "Laura Ziskin Productions",
+    "Lee Daniels Entertainment",
+    "Pam Williams Productions",
+    "Windy Hill Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Forest Whitaker",
+        "character": "Cecil Gaines",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1GbfuDitXDBmNmXEKk2rGEXiEXE.jpg"
+      },
+      {
+        "name": "Oprah Winfrey",
+        "character": "Gloria Gaines",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nNpYieaDLxKZWw2FY9wsDkjwURu.jpg"
+      },
+      {
+        "name": "David Oyelowo",
+        "character": "Louis Gaines",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7UZHRwOKe2cYxj8SeNUklyPYkns.jpg"
+      },
+      {
+        "name": "John Cusack",
+        "character": "Richard Nixon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
+      },
+      {
+        "name": "Jane Fonda",
+        "character": "Nancy Reagan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5Yb3nmRWXXZAxNhfhEuOMdfyVNN.jpg"
+      },
+      {
+        "name": "Cuba Gooding Jr.",
+        "character": "Carter Wilson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j4gPj92SP3Rj5xxSUe1CIkFCXhB.jpg"
+      },
+      {
+        "name": "Mariah Carey",
+        "character": "Hattie Pearl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4UTWlEIwShF1084p8zMuAAqMplV.jpg"
+      },
+      {
+        "name": "Terrence Howard",
+        "character": "Howard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wXWt2NSY23v7DHe2yZQ1C8TikBp.jpg"
+      },
+      {
+        "name": "Lenny Kravitz",
+        "character": "James Holloway",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pIoGuEUax5aeH3PKuaYK9wKEeoj.jpg"
+      },
+      {
+        "name": "Aml Ameen",
+        "character": "Cecil Gaines (15)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wQ5zWlzmhvp2wG6gJiqoocEYHPJ.jpg"
+      },
+      {
+        "name": "Michael Rainey Jr.",
+        "character": "Cecil Gaines (8)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5U6wNx2LAggfwK6gi6OYL3rGOvl.jpg"
+      },
+      {
+        "name": "James Marsden",
+        "character": "John F. Kennedy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q5IesBSEarW1COJ298pyYa9EPxx.jpg"
+      },
+      {
+        "name": "Alex Pettyfer",
+        "character": "Thomas Westfall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x7YhNkf7mMq2tUGpzhPJuuq4b0i.jpg"
+      },
+      {
+        "name": "Vanessa Redgrave",
+        "character": "Annabeth Westfall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pVTYKE0J6XfgNLcPpCIK8bLee86.jpg"
+      },
+      {
+        "name": "Alan Rickman",
+        "character": "Ronald Reagan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+      },
+      {
+        "name": "Liev Schreiber",
+        "character": "Lyndon B. Johnson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3wFnwxs1LIZOh1FtWjZWuS2mm8z.jpg"
+      },
+      {
+        "name": "Robin Williams",
+        "character": "Dwight Eisenhower",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iYdeP6K0qz44Wg2Nw9LPJGMBkQ5.jpg"
+      },
+      {
+        "name": "Yaya DaCosta",
+        "character": "Carol Hammie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9diTHV1EIUNbXIYsTeDM5M3oQU9.jpg"
+      },
+      {
+        "name": "David Banner",
+        "character": "Earl Gaines",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jm4BDJT11uHt60VWdadqSb65sdv.jpg"
+      },
+      {
+        "name": "Colman Domingo",
+        "character": "Freddie Fallows",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2tu6T9ugnf82qIMGVKWSb0dvvq5.jpg"
+      },
+      {
+        "name": "Nelsan Ellis",
+        "character": "Martin Luther King Jr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1oxqYxlZERsLT1rssot3Wfa88FX.jpg"
+      },
+      {
+        "name": "Nealla Gordon",
+        "character": "Senator Kassebaum",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3TpK3kxculu7qUpCkw1UMlqqeqR.jpg"
+      },
+      {
+        "name": "Elijah Kelley",
+        "character": "Charlie Gaines (15-18)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nFNWzhCM7QiFEnx95dAlYFgIMlV.jpg"
+      },
+      {
+        "name": "Minka Kelly",
+        "character": "Jackie Kennedy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A7k2z1JGuJwcrqMgCBqcPjzbLAL.jpg"
+      },
+      {
+        "name": "Adriane Lenox",
+        "character": "Gina",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6uwcIdXFMCZntOxpEjiNOZfYbDv.jpg"
+      },
+      {
+        "name": "Mo McRae",
+        "character": "Eldridge Huggins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yU3VD12vMbG94xEvSBASWsFsL1B.jpg"
+      },
+      {
+        "name": "Pernell Walker",
+        "character": "Lorraine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tsDE5WnuLRtowhnd9arFbLTbLp4.jpg"
+      },
+      {
+        "name": "Jesse Williams",
+        "character": "Rev. James Lawson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hygNTzn3Ml92ear4ltTPYo5Pp2G.jpg"
+      },
+      {
+        "name": "Clarence Williams III",
+        "character": "Maynard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3oCr2DePudTzf3uwg3FoQeTd3Ml.jpg"
+      },
+      {
+        "name": "LaJessie Smith",
+        "character": "Abraham",
+        "profile_path": ""
+      },
+      {
+        "name": "John P. Fertitta",
+        "character": "Mr. Jenkins",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Gleason",
+        "character": "R.D. Warner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q1AcVjW6Xb0mOTHHobMSm9AXcOr.jpg"
+      },
+      {
+        "name": "Isaac White",
+        "character": "Charlie Gaines (10)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nRWO3TuVO8lplELk5Pqb9sln2qv.jpg"
+      },
+      {
+        "name": "Joe Chrest",
+        "character": "White Usher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7mcsJGnqRoVPTtxAUZEKt2dZnlw.jpg"
+      },
+      {
+        "name": "Tyson Ford",
+        "character": "Elroy",
+        "profile_path": ""
+      },
+      {
+        "name": "James DuMont",
+        "character": "Sherman Adams",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8DLNFj3a4SJWdtw5daPBQm0qrOO.jpg"
+      },
+      {
+        "name": "Robert Aberdeen",
+        "character": "Herbert Brownell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6yr4Xy4iYRynHK2qHccNwPfYAIu.jpg"
+      },
+      {
+        "name": "Olivia Washington",
+        "character": "Olivia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jwwnxt3x9SBh3lnPc8vojBptnc6.jpg"
+      },
+      {
+        "name": "Margaret M. Owens",
+        "character": "Woolworth Diner Patron #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Ducote",
+        "character": "Woolworth Diner Patron #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Chloe Barach",
+        "character": "Caroline Kennedy",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Strong",
+        "character": "Freedom Bus Journalist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/82C6hgzdpHUHizMfedNAP7DSGOj.jpg"
+      },
+      {
+        "name": "Clara Hopkins Daniels",
+        "character": "Freedom Bus Rider",
+        "profile_path": ""
+      },
+      {
+        "name": "Dana Gourrier",
+        "character": "Helen Holloway",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v3krc3R7LKMsHJEm8esPqEa7CR.jpg"
+      },
+      {
+        "name": "Shirley Pugh",
+        "character": "Malcolm X Goer",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Newman",
+        "character": "Pastor",
+        "profile_path": ""
+      },
+      {
+        "name": "Colin Walker",
+        "character": "John Ehrlichman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kw93FagDdX9B0nMeNUxBsluaH3B.jpg"
+      },
+      {
+        "name": "Alex Manette",
+        "character": "Bob Haldeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pxUWYHv3EKq0FPFaJCxtRI8fk39.jpg"
+      },
+      {
+        "name": "Rusty Robertson",
+        "character": "Senator Robertson",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen Rider",
+        "character": "Admiral Rochon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jMrQPv21ayJwf48neXKKWsjqcDu.jpg"
+      },
+      {
+        "name": "Tarra Riggs",
+        "character": "Sophie Wilson (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pL4UPHl6xkoFR9lzV7EYWkZ07K4.jpg"
+      },
+      {
+        "name": "Xosha Roquemore",
+        "character": "Foxy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g0CEVYlW5IPqBmouiIOJD7OdC1Y.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Lee Daniels",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6boIrLokvene1qlhvb4wiKB5Ikd.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "usa president",
+    "butler",
+    "civil rights",
+    "john f. kennedy",
+    "biography",
+    "ronald reagan",
+    "richard nixon",
+    "african american history",
+    "jacqueline kennedy",
+    "jimmy carter",
+    "eisenhower"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "As Cecil Gaines serves eight presidents during his tenure as a butler at the White House, the civil rights movement, Vietnam, and other major events affect this man's life, family, and American society.",
+    "Cecil Gaines was a sharecropper's son who grew up in the 1920s as a domestic servant for the white family who casually destroyed his. Eventually striking out on his own, Cecil becomes a hotel valet of such efficiency and discreteness in the 1950s that he becomes a butler in the White House itself. There, Cecil would serve numerous US Presidents over the decades as a passive witness of history with the American Civil Rights Movement gaining momentum even as his family has troubles of its own. As his wife, Gloria, struggles with her addictions and his defiant eldest son, Louis, strives for a just world, Cecil must decide whether he should take action in his own way.—Kenneth Chisholm (kchishol@rogers.com)",
+    "Cecil Gaines, a black man married to Gloria Gaines, is determined that neither of his two sons, Louis and Charlie, will ever have to know what it's like to be the offspring of a cotton picker like he is, he having witnessed slave-like abuses afflicted on both his parents by their white land owner employers when he was a child. Despite the less than happy circumstances which led him and to which he had to endure on this path, Cecil, as an adult, has worked in commercial wait situations to the white man, largely in upscale establishments, he learning that he has to be two faced in his approach to work, often supporting racist statements made or untruthfully answering racially charged questions by employers or customers while being accommodating but somewhat invisible as a human being. In 1957, he is offered - much to his shock - and accepts a position as an under butler at the White House among the black domestic staff, after a White House administration staffer sees and is impressed with his demeanor and work at the Excelsior Hotel in Washington DC. This appointment begins an approximate thirty year employment at the White House, one that is not always smooth for Cecil either on a professional or personal level. On the professional side, the White House is sometimes just a microcosm of what is happening in the world, his employment setting where he has to be even more careful in what he says or does. On a personal level, he is often at odds with his family. Louis decides to head to the front lines of civil rights activism, often placing himself either in personal danger or in situations still considered criminal. And Gloria may not see Cecil's time at the White House as worth the neglect it causes for their home life.—Huggo",
+    "In 2009, an elderly Cecil Gaines recounts his life story while waiting at the White House to meet the newly inaugurated president. In 1926, at the age of seven, Gaines is raised on a cotton plantation in Macon, Georgia. When the farm's owner rapes Cecil's mother, Cecil's father confronts him and is killed. Cecil is taken in by the estate's caretaker, who trains Cecil as a house servant. In 1937, at age eighteen, Cecil leaves the plantation. Desperately hungry, he breaks into a hotel pastry shop. The elderly master servant, Maynard, takes pity on Cecil and gives him a job. Cecil learns advanced serving and interpersonal skills from Maynard, who later recommends Cecil for a position in a Washington, D.C. hotel. While working there, Cecil meets and marries Gloria, and the couple has two sons: Louis and Charlie. In 1957, Cecil is hired by the White House during Dwight D. Eisenhower's administration. White House martyr d'hotel Freddie Fallows introduces Cecil to head butler Carter Wilson and co-worker James Holloway. Cecil witnesses Eisenhower's reluctance to use troops to enforce school desegregation, then his resolve to uphold the law by racially integrating Little Rock Central High School in Arkansas..",
+    "A look into the life of a male who served as a butler in the White House to multiple presidents for many years. Through the countless events and issues that happened to the country as he does everything to keep his family safe as well from harm.—RECB3"
+  ],
+  "synopsis": "This film tells the story of Cecil Gaines (Forest Whitaker), a White House butler who served eight American presidents over three decades. The film traces the dramatic changes that swept American society during this time, from the civil rights movement to Vietnam and beyond, and how those changes affected this man's life and family.",
+  "imdb_score": 7.2
+}

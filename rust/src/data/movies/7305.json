@@ -1,0 +1,264 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/e23ip5v7Iw43Fv5HcyGDBrRHApt.jpg",
+  "id": 7305,
+  "title": "Alive",
+  "poster_path": "https://image.tmdb.org/t/p/w500/uQACcCZqd7WCTRin9xRIW5gr1bd.jpg",
+  "release_date": "1993-01-15",
+  "vote_average": 6.883,
+  "vote_count": 1354,
+  "popularity": 63.105,
+  "overview": "The amazing, true story of a Uruguayan rugby team's plane that crashed in the middle of the Andes mountains, and their immense will to survive and pull through alive, forced to do anything and everything they could to stay alive on meager rations and through the freezing cold.",
+  "imdb_id": "tt0106246",
+  "budget": 32000000,
+  "homepage": "",
+  "revenue": 36700000,
+  "runtime": 127,
+  "tagline": "The triumph of the human spirit",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    "Touchstone Pictures",
+    "Film Andes S.A.",
+    "The Kennedy/Marshall Company",
+    "Paramount"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Josh Hamilton",
+        "character": "Roberto Canessa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7nuAUPd7E8iOE5lhUcNpogS2akP.jpg"
+      },
+      {
+        "name": "Bruce Ramsay",
+        "character": "Carlitos Páez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xvVbXMzHqZ0kMs77EScQ76S4gWH.jpg"
+      },
+      {
+        "name": "Ethan Hawke",
+        "character": "Nando Parrado",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a7rgJl8TYUWAfJuM4fxbLHgD7BL.jpg"
+      },
+      {
+        "name": "Vincent Spano",
+        "character": "Antonio Balbi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ani7dv9xRTwgvbRUl6llciyh48K.jpg"
+      },
+      {
+        "name": "John Newton",
+        "character": "Antonio Vizintín",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5OR0f5MBhggh95h2Ux7xBxIDDrW.jpg"
+      },
+      {
+        "name": "David Kriegel",
+        "character": "Gustavo Zerbino",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ZaFsIbsB9Tt9ReoB7vLPNzBeaX.jpg"
+      },
+      {
+        "name": "Kevin Breznahan",
+        "character": "Roy Harley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4xQvli0Zks7ICEDzYwcljWbfxaT.jpg"
+      },
+      {
+        "name": "Sam Behrens",
+        "character": "Javier Methol",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dJG0sODnS2iUnEpck0v6gKq8KTs.jpg"
+      },
+      {
+        "name": "Illeana Douglas",
+        "character": "Lilliana Methol",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w2O2SOXzwtJu9eytb3hGS7T8ftR.jpg"
+      },
+      {
+        "name": "Jack Noseworthy",
+        "character": "Bobby François",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gB89s2gEp2NL0vcYwegyxvV2oBn.jpg"
+      },
+      {
+        "name": "Christian J. Meoli",
+        "character": "Federico Aranda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m78WxNGVdb1uALFpRKMtLjg2ZM1.jpg"
+      },
+      {
+        "name": "Jake Carpenter",
+        "character": "Alberto Artuna",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1nKDspKqaVwkwFITrMqMpr9XJac.jpg"
+      },
+      {
+        "name": "Michael DeLorenzo",
+        "character": "Rafael Cano",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dAYG7AcOYG4ZNEvC8isxBxe5Vjx.jpg"
+      },
+      {
+        "name": "José Zúñiga",
+        "character": "Fraga",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r6nFkJkMHP9tFDohwfav9Bf2rCR.jpg"
+      },
+      {
+        "name": "Danny Nucci",
+        "character": "Hugo Díaz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w8nMQvgBFY5vuDoN5B698ostLWN.jpg"
+      },
+      {
+        "name": "David Cubitt",
+        "character": "Fito Strauch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2zR5HQnOFLB6tvgmKofuk5J0E4D.jpg"
+      },
+      {
+        "name": "Gian DiDonna",
+        "character": "Eduardo Strauch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7qsstgJhc1RehzX9UVFOmC9OTwq.jpg"
+      },
+      {
+        "name": "John Cassini",
+        "character": "Daniel Fernández",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kn2Rtn0I8ivCR7ydZTY74XUBh1K.jpg"
+      },
+      {
+        "name": "Michael Woolson",
+        "character": "Juan Martino",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j5Yc3aKcv4B8w7kz2DstYRJsMV.jpg"
+      },
+      {
+        "name": "Chad Willett",
+        "character": "Pablo Montero",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3oeEIM5W9ZFW5WPL8p2DxbgbA6r.jpg"
+      },
+      {
+        "name": "Richard Ian Cox",
+        "character": "Moncho Sabella",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pF7esxIeumjZnTjYTSoM9ZkPm8.jpg"
+      },
+      {
+        "name": "Gordon Currie",
+        "character": "Coche Inciarte",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jdqJXtCukVT2X42wxeqnslkenxC.jpg"
+      },
+      {
+        "name": "Ele Keats",
+        "character": "Susana Parrado",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wvF1dTdGwgFWONz8td6h3RTTL29.jpg"
+      },
+      {
+        "name": "Josh Lucas",
+        "character": "Felipe Restano",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fNCvgTrXHG07cPcY7wPz4KtqSfW.jpg"
+      },
+      {
+        "name": "Silvio Pollio",
+        "character": "Alex Morales",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z5oToGhIcIrZZrLqnl2c7dqdpcf.jpg"
+      },
+      {
+        "name": "Nuno Antunes",
+        "character": "Álvaro Mangino",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Tayles",
+        "character": "Pancho Delgado",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A4GYgKHXN10Lyn2uyRsxJRCFpqn.jpg"
+      },
+      {
+        "name": "Steven Shayler",
+        "character": "Pedro Algorta",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Gaffney",
+        "character": "Víctor Bolarich",
+        "profile_path": ""
+      },
+      {
+        "name": "Jerry Wasserman",
+        "character": "Co-Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sDxJx0ijIuI0Hfwq4KL5kVfAiBN.jpg"
+      },
+      {
+        "name": "Michael Sicoly",
+        "character": "Pilot Julio César Ferradas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gZUjAvwbCoDLbKjvGBzctKpMZDm.jpg"
+      },
+      {
+        "name": "Diana Barrington",
+        "character": "Mrs. Alfonsín",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vL0RiInRrv3pvQJG5So2nzFv43H.jpg"
+      },
+      {
+        "name": "Jan D'Arcy",
+        "character": "Eugenia Parrado",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sNMVM5HbkIBPh5B28x0OxwgwMSS.jpg"
+      },
+      {
+        "name": "Frank Pellegrino",
+        "character": "Steward",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3CbWL9gnOcYCWeft0P7a08165VP.jpg"
+      },
+      {
+        "name": "Seth Arnett",
+        "character": "Tomás Alonso",
+        "profile_path": ""
+      },
+      {
+        "name": "Aurelio Dinunzio",
+        "character": "Dr. Solana",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i2mE1tVZVUNgSs1h3Fx2ifdvRVj.jpg"
+      },
+      {
+        "name": "Fiona Roeske",
+        "character": "Mrs. Solana",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tl0PqqtoE7wJ9k9XqZoXhJAaKLm.jpg"
+      },
+      {
+        "name": "Tony Morelli",
+        "character": "Martínez, the Navigator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jeh4YbLQgFg8Au5albydEPeNNG1.jpg"
+      },
+      {
+        "name": "Pat Romano",
+        "character": "Jorge Armas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/woxz6mrLAWq7u22lSPSdvEFbEmy.jpg"
+      },
+      {
+        "name": "John Malkovich",
+        "character": "Carlitos Páez / Narrator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vmhs8FRzfFmy8vX63bqQOkK0PuB.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Frank Marshall",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lt2aBdnfDRJI4hvBu4733ZPGaCa.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "airplane wreck",
+    "based on true story",
+    "rugby",
+    "survival",
+    "stranded",
+    "airplane crash",
+    "cannibal",
+    "freezing",
+    "disaster movie",
+    "andes mountains"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "After crash-landing in the snowswept Andes, a Uruguayan rugby team has no choice but to turn to desperate measures in order to survive.",
+    "In 1972, the Uruguayan rugby team is flying to Chile to play a game. However, the plane from the Uruguayan Air Force with 45 people crashes on the Andes Mountains and after the search party, they are considered dead. Two months after the crash, the 16 survivors are finally rescued. Along the days, the starved survivors decide to eat flesh from the bodies of their comrades to survive.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "When a rugby team's plane to Chile crashes in the Andes Mountains, they will do anything to survive, even if that means they must eat their dead loved ones as food. Nando, Reberto, and Tintin leave the plane to find the tail to work the radio. Once they bring it back, it doesn't work, so they go out again but Tintin stayed back or went back. Nando and Roberto find the green valleys of Chile and finally breach the Andes and find help. The obstacles they faced were avalanches, food, shelter, and a way to escape. They accused the pilots of being drunk and it was their fault. The good thing is that they escaped.",
+    "In 1972, a rugby team from South America goes to Chile to play a game. As they approach, they crash in the Andes mountains and struggle to survive. They have to go through eating their loved ones, avalanches, and finding the tail to the plane to get the transmitter since the batteries are in the tail. They also meet this guy who has mental issues. Will they make it out alive?"
+  ],
+  "synopsis": "",
+  "imdb_score": 7.1
+}

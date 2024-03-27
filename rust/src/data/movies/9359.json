@@ -1,0 +1,414 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/ctzKCslTsMRsOJNvAm1Mw8ytiHY.jpg",
+  "id": 9359,
+  "title": "Maverick",
+  "poster_path": "https://image.tmdb.org/t/p/w500/cf4L3VW5nEHIaU3pOMZSIoBQmDP.jpg",
+  "release_date": "1994-05-20",
+  "vote_average": 6.874,
+  "vote_count": 1486,
+  "popularity": 23.641,
+  "overview": "Maverick is a gambler who would rather con someone than fight them, and needs an additional three thousand dollars in order to enter a winner-takes-all poker game that begins in a few days, so he joins forces with a woman gambler with a marvellous southern accent, and the two try and enter the game.",
+  "imdb_id": "tt0110478",
+  "budget": 75000000,
+  "homepage": "",
+  "revenue": 183000000,
+  "runtime": 127,
+  "tagline": "In their hands, a deck of cards was the only thing more dangerous than a gun.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Western"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "Icon Productions",
+    "Donner/Shuler-Donner Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Mel Gibson",
+        "character": "Bret Maverick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zLwlFBS90QtZNQI2yteHcQSZVmc.jpg"
+      },
+      {
+        "name": "Jodie Foster",
+        "character": "Annabelle Bransford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/resiaRfWvj4N84TgJi9DPOafCpq.jpg"
+      },
+      {
+        "name": "James Garner",
+        "character": "Marshal Zane Cooper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hiPky3VwIOAlmPhJwzRovEsGDrI.jpg"
+      },
+      {
+        "name": "Graham Greene",
+        "character": "Joseph",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ubX9pwrzQqnR41gAGyY1GoSZr1G.jpg"
+      },
+      {
+        "name": "Alfred Molina",
+        "character": "Angel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+      },
+      {
+        "name": "James Coburn",
+        "character": "Commodore Duvall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9GApjInyrVvjnTAr652C1aViPqZ.jpg"
+      },
+      {
+        "name": "Dub Taylor",
+        "character": "Room Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gDgTAXPq5vOW5CWxF2MaeQ9Kjkn.jpg"
+      },
+      {
+        "name": "Geoffrey Lewis",
+        "character": "Matthew Wicker / Eugene, Banker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2os1QyqVnBRwHrMLsoMRnsZk0kw.jpg"
+      },
+      {
+        "name": "Paul L. Smith",
+        "character": "The Archduke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7RkcNP6NgGIDvWbtdhdNlRROTys.jpg"
+      },
+      {
+        "name": "Dan Hedaya",
+        "character": "Twitchy, Riverboat Poker Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wwD1U6cHLj0uApnCRRIxFhBOXAT.jpg"
+      },
+      {
+        "name": "Dennis Fimple",
+        "character": "Stuttering",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tlPB6BSeVP0115P7PWGpXu16lu6.jpg"
+      },
+      {
+        "name": "Denver Pyle",
+        "character": "Old Gambler on Riverboat",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wQD9yTMCTJ79ldCFNoRSqH4zvR2.jpg"
+      },
+      {
+        "name": "Clint Black",
+        "character": "Sweet-Faced Gambler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/brnmahG6dW9ynPB8D4YSSnWO1Wm.jpg"
+      },
+      {
+        "name": "Max Perlich",
+        "character": "Johnny Hardin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hdyemQG5w6xGtcDsqnuZkZV11nG.jpg"
+      },
+      {
+        "name": "Art LaFleur",
+        "character": "Poker Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iCDhbcKVuvrIkS3LuwPkahTkEzS.jpg"
+      },
+      {
+        "name": "Leo Gordon",
+        "character": "Poker Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/acoxvfK0kQR3WhhUs0TfBJHDCJc.jpg"
+      },
+      {
+        "name": "Paul Tuerpe",
+        "character": "Poker Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1S2Q3SPFz0uNlZC6LpDgGuUiVRe.jpg"
+      },
+      {
+        "name": "Jean De Baer",
+        "character": "Mary Margret",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vflIAjlTKqldJ8zq8tx630OjWDU.jpg"
+      },
+      {
+        "name": "Paul Brinegar",
+        "character": "Stage Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6GarNdMHXLKSnt9BAVYa5jtoYi0.jpg"
+      },
+      {
+        "name": "Hal Ketchum",
+        "character": "Bank Robber",
+        "profile_path": ""
+      },
+      {
+        "name": "Corey Feldman",
+        "character": "Bank Robber",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9n5xDsrBFY0AFESmXOJEzEj4ezx.jpg"
+      },
+      {
+        "name": "John M. Woodward",
+        "character": "Bank Robber",
+        "profile_path": ""
+      },
+      {
+        "name": "Jesse Eric Carroll",
+        "character": "Stable Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Toshonnie Touchin",
+        "character": "Stable Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "John C. Meier",
+        "character": "Unshaven Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kP7rVXlfnKQF9YHEoTJonYiHsBm.jpg"
+      },
+      {
+        "name": "Steven Chambers",
+        "character": "Unshaven Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Doc Duhame",
+        "character": "Unshaven Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kfD8oQ1idxwUFeeJGMiAcLEL3VN.jpg"
+      },
+      {
+        "name": "Frank Orsatti",
+        "character": "Unshaven Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Lauren Shuler Donner",
+        "character": "Mrs. D., Bathhouse Maid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a0oY5BiS6ubJv3Mxh83XH8S4fH7.jpg"
+      },
+      {
+        "name": "Courtney Barilla",
+        "character": "Music Box Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Kimberly Cullum",
+        "character": "Music Box Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5RNDrlmqEBgZZiB6XZfDuBv3bYA.jpg"
+      },
+      {
+        "name": "Gary Richard Frank",
+        "character": "Crooked Dealer",
+        "profile_path": ""
+      },
+      {
+        "name": "Read Morgan",
+        "character": "Dealer",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Kahan",
+        "character": "Dealer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qnarH2PdHTWsG7Hv2DlHSr7rj5h.jpg"
+      },
+      {
+        "name": "Stephen Liska",
+        "character": "Dealer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1OJ0WfTfojKNYf6Jk2qNy5sccgH.jpg"
+      },
+      {
+        "name": "Robert Jones",
+        "character": "Bank Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "J. Mills Goodloe",
+        "character": "Telegraph Operator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rqmCbyenFBJDmyymYVZLhFwqSNU.jpg"
+      },
+      {
+        "name": "Vilmos Zsigmond",
+        "character": "Albert Bierstadt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/herEMMLHSdRneAo2Bc8FXjphXbV.jpg"
+      },
+      {
+        "name": "Waylon Jennings",
+        "character": "Man with Concealed Guns",
+        "profile_path": "https://image.tmdb.org/t/p/w185/suVItqAG4AUYrtGYeM3wn25A4oP.jpg"
+      },
+      {
+        "name": "Kathy Mattea",
+        "character": "Woman with Concealed Guns",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2y9f07UnS8m3BPdD8ZZzVamWSlU.jpg"
+      },
+      {
+        "name": "Carlene Carter",
+        "character": "Waitress",
+        "profile_path": ""
+      },
+      {
+        "name": "Vince Gill",
+        "character": "Spectator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lECxxuWpwtZiXkdE6MUjgVfFHRZ.jpg"
+      },
+      {
+        "name": "Janis Oliver Gill",
+        "character": "Spectator",
+        "profile_path": ""
+      },
+      {
+        "name": "William Smith",
+        "character": "Riverboat Poker Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2gnGtzAlNP3sg2s3ACQMTK6PDQq.jpg"
+      },
+      {
+        "name": "Chuck Hart",
+        "character": "Riverboat Poker Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Doug McClure",
+        "character": "Riverboat Poker Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ptIQMQhw5h5Rra0gefzF8OfS2JF.jpg"
+      },
+      {
+        "name": "Henry Darrow",
+        "character": "Riverboat Poker Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nN31ROoQKhXEt4CAlALE9qld285.jpg"
+      },
+      {
+        "name": "Michael Paul Chan",
+        "character": "Riverboat Poker Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fb51LbRcqIsfgvrs5ZpwVyuDYU2.jpg"
+      },
+      {
+        "name": "Richard Blum",
+        "character": "Riverboat Poker Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Bert Remsen",
+        "character": "Riverboat Poker Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2KOnofFMvseWKyo5LWO1uS6mtMc.jpg"
+      },
+      {
+        "name": "Robert Fuller",
+        "character": "Riverboat Poker Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pDrDechryrHA4nBXBYgOlJoq4S3.jpg"
+      },
+      {
+        "name": "Donal Gibson",
+        "character": "Riverboat Poker Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wSOxeGfjLtma9sBp3B71renm19c.jpg"
+      },
+      {
+        "name": "William Marshall",
+        "character": "Riverboat Poker Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pRoLV0FDdskfV4WreVwBePSvKeo.jpg"
+      },
+      {
+        "name": "Bill Henderson",
+        "character": "Riverboat Poker Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t6ZlRkVS260EHzzhglbl3n9Plbj.jpg"
+      },
+      {
+        "name": "Cal Bartlett",
+        "character": "Riverboat Poker Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c2AfPZPN53O89gBLQtK7sNsmvqo.jpg"
+      },
+      {
+        "name": "Danny Glover",
+        "character": "Bank Robber (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yjow3MJDkgQuHx1fCpo4FZmXZcq.jpg"
+      },
+      {
+        "name": "Margot Kidder",
+        "character": "Margret Mary (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xUoIzY5fRBOsFUMpp8P8qkEio53.jpg"
+      },
+      {
+        "name": "Reba McEntire",
+        "character": "Spectator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q4T5XDHzVepqQi4NoqI9GKJcD3s.jpg"
+      },
+      {
+        "name": "Bob Jennings",
+        "character": "Bartender (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iopvj0A8nTYNnpGH28lvbmF7LGa.jpg"
+      },
+      {
+        "name": "Richard Donner",
+        "character": "Dealer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wjRecQiVLUAm6jwyT5craxhg3lD.jpg"
+      },
+      {
+        "name": "Monica Lee Bellais",
+        "character": "Riverboat Spectator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Dierkop",
+        "character": "Riverboat Poker Player (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tUFEFys5YABHB9ClrCSPxxVjDuB.jpg"
+      },
+      {
+        "name": "James Drury",
+        "character": "Riverboat Poker Player (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qrGLnFmYsF8F4jsDU0zDegbN57M.jpg"
+      },
+      {
+        "name": "John Fogerty",
+        "character": "Street Spectator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7PIE1qufWgzCsGp4MGLCg18UmyO.jpg"
+      },
+      {
+        "name": "Patrick Fullerton",
+        "character": "Spectator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Garner",
+        "character": "Porter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Will Hutchins",
+        "character": "Spectator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/py2zVDwdgkgx8Zm4luigZ7NkkDj.jpg"
+      },
+      {
+        "name": "John Otrin",
+        "character": "Riverboat Spectator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pszSyyhGYG5DrRTQTaBPPHLn7Ga.jpg"
+      },
+      {
+        "name": "Joy Sydney Peters",
+        "character": "Actress (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Don Stark",
+        "character": "Riverboat Poker Player (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lkPWvElz5RxR4t4v3hM4SRy5E1j.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Richard Donner",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wjRecQiVLUAm6jwyT5craxhg3lD.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "ship",
+    "saloon",
+    "poker",
+    "mississippi river",
+    "native american",
+    "steamboat",
+    "on the run",
+    "attempted robbery"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "Bret Maverick, needing money for a poker tournament, faces various comic mishaps and challenges, including a charming woman thief.",
+    "Maverick is recreated from the character James Garner created in the 1950s TV program. Maverick is a gambler who would rather con someone than fight them. He needs an additional three thousand dollars in order to enter a Winner Take All poker game that begins in a few days. He tries to win some, tries to collect a few debts, and recover a little loot for the reward, all with a light hearted air. He joins forces with a woman gambler with a marvelous, though fake, southern accent as the two both try and enter the game.—John Vogel <jlvogel@comcast.net>",
+    "Bret Maverick is a superb professional poker gambler, as handy with the handgun as he handles the cards, but also a master at avoiding violence by deception. Like all great poker layers, he's on his way to a winner take all championship on Commodore Duvall's riverboat, but first must complete the steep entry sum, collecting debts and gambling. He has most confusing encounters with other gamblers, mainly fake 'Southern belle' Annabelle Bransford and Marshal Zane Cooper, tricksters in his league, and various other stooges and accomplices, such as the bandit Angel and his gang, the Indian Joseph who preys on tourists and one of them, a Russian Archduke. Things are rarely what they seem, as layers of shameless deception are unfolded.—KGF Vissers",
+    "Gambler Bret Maverick is on his way to a poker tournament wherein half million dollars is at stake. At he needs is $25,000 and he has so far 22. So he goes around trying to collect from people who owe him but it appears they all try to get out of paying him. And he plays poker hoping to come up with the money. Along the way he crosses paths with a man named Angel whom he out plays which makes him dislike Maverick and a woman named Annabelle who is a con woman. So as he continues to go to the tournament and tries to get the rest of the money he needs. Angel's asked by someone to keep Maverick from getting to the tournament and he tries. But Maverick is just too lucky.—rcs0411@yahoo.com",
+    "A cowboy does everything that he can to enter a poker tournament that is played on a cruise ship. Once he enters, his opponents do everything that they can to get rid of him. The cowboy competes the best that he can to win the massive money prize.—RECB3"
+  ],
+  "synopsis": "The story, set in the American Old West, is a first-person account by a wisecracking gambler 'Bret Maverick' (Mel Gibson), of his misadventures on the way to a major five-card draw poker tournament. Besides wanting to win the poker championship for the money, he also wants to prove, once and for all, that he is 'the best'. However, complications keep getting in the way.Maverick rides into the fictional town of Crystal River intending to collect money owed to him, as he is $3000 short of the poker tournament entry fee of $25,000. His efforts to make up this $3000 provide some plot motivation, as well as diversions caused by, and in the company of, three people he encounters at Crystal River-an antagonist named Angel (Alfred Molina), a young con-artist calling herself Mrs Annabelle Bransford (Jodie Foster), and legendary lawman Marshal Zane Cooper (James Garner, who played Bret Maverick in the original TV series). The first two are also rival poker players.Maverick, Bransford and Cooper share a stagecoach (the driver of which dies at the reins at full gallop), agree to help a wagon train of migrant evangelist settlers who have been waylaid by ruffians (for a fee which Maverick in the end is too big-hearted to accept) and are headed-off by a troop of Indians led by \"Joseph\" (Graham Greene). Unknown to his companions, Joseph and Maverick are good friends, and Maverick allows himself to be \"captured.\" Joseph is another one of his unreliable debtors, and in and around his tribal grounds they collaborate on a scheme to swindle a Russian Grand Duke.During this time, Angel has received a mysterious telegram ordering him to not allow Maverick to reach the poker game, and has also learned that Maverick had conned him in Crystal River. These scenes are some of the very few which do not involve Maverick directly. Angel catches up with Maverick after he has left Joseph's tribe, beats him up and attempts to hang him. Despite being tied to both a tree and to his horse, Maverick escapes and reaches the poker game-on a paddle steamer-safely. Bransford and Angel have also reached the game, and Cooper who is engaged to ensure the security of the game.After preliminary rounds, the four finalists are Maverick, Bransford, Angel, and the Commodore of the boat (James Coburn). Maverick almost fails to reach the final table by the 5:00am deadline, having had his stateroom door chained (by an unknown person) after a short tryst with Bransford. The game proceeds, with Bransford the first eliminated, and shortly thereafter a \"fixed\" hand is dealt to the three remaining players. The Commodore is given four 8s and Angel is given a low straight flush, whilst Maverick has the 10, Jack, Queen and King of Spades. The Commodore and Angel each bet \"all in\" (inferring that Maverick is the chip leader at this stage). Maverick observes the dealer bottom-dealing to the others, protests the conduct of the hand, and eventually accepts one card dealt by Angel and calls the bets without checking the card. It is, melodramatically, the Ace of Spades (Note that a 9 of Spades would also have won the hand for Maverick). An enraged Angel draws his gun but he, and his stooges in the audience, are gunned down in rapid succession by Cooper and Maverick (drawing one of Cooper's guns).Three plot twists follow Maverick's win: Firstly, Cooper steals the $500,000 prize money instead of presenting it to Maverick. Secondly, it is revealed that the Commodore and Cooper were secretly in cahoots on the theft and that Angel had actually been working for the Commodore. Thirdly, Maverick ambushes the two around a campfire and steals back the money. He leaves them with a single gun to settle their affairs. Cooper beats up the Commodore and angrily vows to wreak bloody vengeance on Maverick, even if it means hunting him to the ends of the earth.Later, Maverick is relaxing in a bath-house when Cooper finds him, and drops the facade to reveal (to the audience) that he is in fact Maverick's father. It is also revealed that the real conspiracy was between the two of them. Suddenly, however, Bransford enters the bath-house and robs Cooper and Maverick (whose relationship she had easily surmised). However, she only gets away with half of the money she had expected, as Maverick had hidden the rest in his boots. Maverick smiles and comments that it will be a lot of fun getting the rest of the money back from her.",
+  "imdb_score": 7
+}

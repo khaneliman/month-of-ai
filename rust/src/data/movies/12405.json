@@ -1,0 +1,507 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/9IZvClXvhSxlp41eT0CyUEsyjqy.jpg",
+  "id": 12405,
+  "title": "Slumdog Millionaire",
+  "poster_path": "https://image.tmdb.org/t/p/w500/c6w9WarTTjbOhFFeAuiQ4Q3TRXK.jpg",
+  "release_date": "2008-11-12",
+  "vote_average": 7.731,
+  "vote_count": 10128,
+  "popularity": 32.019,
+  "overview": "A teenager reflects on his life after being accused of cheating on the Indian version of \"Who Wants to be a Millionaire?\".",
+  "imdb_id": "tt1010048",
+  "budget": 15000000,
+  "homepage": "http://www.foxsearchlight.com/slumdogmillionaire",
+  "revenue": 378400000,
+  "runtime": 120,
+  "tagline": "What does it take to find a lost love?",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "Celador Films",
+    "Film4 Productions"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Dev Patel",
+        "character": "Older Jamal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1g07SUVwZHvKgM1Z7H4RYIEOXcm.jpg"
+      },
+      {
+        "name": "Freida Pinto",
+        "character": "Older Latika",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fhUEcLvlsy13hHO5xJb0fV3AiYw.jpg"
+      },
+      {
+        "name": "Madhur Mittal",
+        "character": "Older Salim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zUAMHowKCKkmx1rM9il5t8B7fxt.jpg"
+      },
+      {
+        "name": "Anil Kapoor",
+        "character": "Prem",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dwvnpiwg9m2zj0VHzlgzEotFl0G.jpg"
+      },
+      {
+        "name": "Mahesh Manjrekar",
+        "character": "Javed",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rAAlncxpCKpXjUHsd6pfaSaTl96.jpg"
+      },
+      {
+        "name": "Saurabh Shukla",
+        "character": "Sergeant Srinivas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uFGVBmRIHLAQkYYSI2lSXOxMi4f.jpg"
+      },
+      {
+        "name": "Irrfan Khan",
+        "character": "Police Inspector",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg"
+      },
+      {
+        "name": "Ankur Vikal",
+        "character": "Maman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bV4EkfFSyvDm2oYxjaZVcGdGV9C.jpg"
+      },
+      {
+        "name": "Tanay Chheda",
+        "character": "Middle Jamal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lZ0tjKg0FQ869tP80eBHobb3ouH.jpg"
+      },
+      {
+        "name": "Ayush Mahesh Khedekar",
+        "character": "Youngest Jamal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qnKpBjMJckVvxq3o9pw0DpWdqqs.jpg"
+      },
+      {
+        "name": "Ashutosh Lobo Gajiwala",
+        "character": "Middle Salim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/arxX9K0sBQhpBBhHA2WYPN1jmIp.jpg"
+      },
+      {
+        "name": "Azharuddin Mohammed Ismail",
+        "character": "Youngest Salim",
+        "profile_path": ""
+      },
+      {
+        "name": "Tanvi Ganesh Lonkar",
+        "character": "Middle Latika",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aUqATOMKG7QcJMP2ypOdkjfl4sh.jpg"
+      },
+      {
+        "name": "Rubina Ali",
+        "character": "Youngest Latika",
+        "profile_path": "https://image.tmdb.org/t/p/w185/51eXdex6SkgtQMz4FSESAdzYzuf.jpg"
+      },
+      {
+        "name": "Raj Zutshi",
+        "character": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aJmWL08uj2oVGd2cJmBuzNSO2LY.jpg"
+      },
+      {
+        "name": "Jeneva Talwar",
+        "character": "Vision Mixer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wpJWJe75UWnoCI5OElSr1xOwtHM.jpg"
+      },
+      {
+        "name": "Sharib Hashmi",
+        "character": "Prakash",
+        "profile_path": "https://image.tmdb.org/t/p/w185/S3J1QbSDE7wqvlQjVKVF5jLHT.jpg"
+      },
+      {
+        "name": "Mia Drake",
+        "character": "Adele",
+        "profile_path": ""
+      },
+      {
+        "name": "Shruti Seth",
+        "character": "Call Centre Instructor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kCr0mmAo7HeLY586KSIGUJA6YhL.jpg"
+      },
+      {
+        "name": "Anjum Sharma",
+        "character": "Operator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/75uWNWhYgYxRlXw4Hhrl5R86mpK.jpg"
+      },
+      {
+        "name": "Jira Banjara",
+        "character": "Airport Security Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Sheikh Wali",
+        "character": "Airport Security Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Sanchita Choudhary",
+        "character": "Jamal's Mother",
+        "profile_path": ""
+      },
+      {
+        "name": "Himanshu Tyagi",
+        "character": "Mr Nanda",
+        "profile_path": ""
+      },
+      {
+        "name": "Virendra Chatterjee",
+        "character": "Slum Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Feroze Khan",
+        "character": "Amitabh Bachchan",
+        "profile_path": ""
+      },
+      {
+        "name": "Sunil Kumar Agrawal",
+        "character": "Mr Chi",
+        "profile_path": ""
+      },
+      {
+        "name": "Virender Kumar",
+        "character": "Man on Fire",
+        "profile_path": ""
+      },
+      {
+        "name": "Devesh Rawal",
+        "character": "Blue Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Tiger",
+        "character": "Punnoose",
+        "profile_path": ""
+      },
+      {
+        "name": "Chirag Parmar",
+        "character": "Young Arvind",
+        "profile_path": ""
+      },
+      {
+        "name": "Nazneen Shaikh",
+        "character": "Baby",
+        "profile_path": ""
+      },
+      {
+        "name": "Farzana Ansari",
+        "character": "Latika's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Anupam Shyam",
+        "character": "Old Villager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jmWDaHQbgAb8W1fW7HQRQmNRwQ7.jpg"
+      },
+      {
+        "name": "Salim Chaus",
+        "character": "Ticket Collector",
+        "profile_path": ""
+      },
+      {
+        "name": "Harvinder Kaur",
+        "character": "Family in Train",
+        "profile_path": ""
+      },
+      {
+        "name": "Narendra Singh Bhati",
+        "character": "Family in Train",
+        "profile_path": ""
+      },
+      {
+        "name": "Satya Mudgal",
+        "character": "Taj Mahal Guide",
+        "profile_path": ""
+      },
+      {
+        "name": "Janet de Vigne",
+        "character": "Ada / Mrs MacKintosh",
+        "profile_path": ""
+      },
+      {
+        "name": "William Relton",
+        "character": "Peter",
+        "profile_path": ""
+      },
+      {
+        "name": "David Gilliam",
+        "character": "Clark",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9mwuTYuzrta6PwUVcNACIeR0f7v.jpg"
+      },
+      {
+        "name": "Kinder Singh",
+        "character": "Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Christine Matovich Singh",
+        "character": "Opera Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Lehmkuhl",
+        "character": "Opera Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Siddesh Patil",
+        "character": "Older Arvind",
+        "profile_path": ""
+      },
+      {
+        "name": "Najma Shaikh",
+        "character": "Woman at Brothel",
+        "profile_path": ""
+      },
+      {
+        "name": "Saeeda Shaikh",
+        "character": "Woman at Brothel",
+        "profile_path": ""
+      },
+      {
+        "name": "Alka Satpute",
+        "character": "Woman at Brothel",
+        "profile_path": ""
+      },
+      {
+        "name": "Tabassum Khan",
+        "character": "Woman at Brothel",
+        "profile_path": ""
+      },
+      {
+        "name": "Sitaram Panchal",
+        "character": "Dance Teacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Nigel Caesar",
+        "character": "Hotel Security Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Ajit Pandey",
+        "character": "Javed's Goon",
+        "profile_path": ""
+      },
+      {
+        "name": "Kedar Thapar",
+        "character": "Javed's Goon",
+        "profile_path": ""
+      },
+      {
+        "name": "Amit Leonard",
+        "character": "Javed's Goon",
+        "profile_path": ""
+      },
+      {
+        "name": "Rajesh Kumar",
+        "character": "Javed's Goon",
+        "profile_path": ""
+      },
+      {
+        "name": "Sagar Ghopalkar",
+        "character": "Javed's Goon",
+        "profile_path": ""
+      },
+      {
+        "name": "Pradeep Solanki",
+        "character": "Javed's Goon",
+        "profile_path": ""
+      },
+      {
+        "name": "Abdul Hamid Shaikh",
+        "character": "Javed's Goon",
+        "profile_path": ""
+      },
+      {
+        "name": "Dheeraj Waghela",
+        "character": "Javed's Goon",
+        "profile_path": ""
+      },
+      {
+        "name": "Arfi Lamba",
+        "character": "Bardi",
+        "profile_path": ""
+      },
+      {
+        "name": "Taira Colah",
+        "character": "Nasreen",
+        "profile_path": ""
+      },
+      {
+        "name": "Varun Bagri",
+        "character": "Call Centre Trainee",
+        "profile_path": ""
+      },
+      {
+        "name": "Ankur Tewari",
+        "character": "Dave",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarfaraz Khan",
+        "character": "Autorickshaw Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yiOsV0NcyYdYBS2LTreXbkrCRCr.jpg"
+      },
+      {
+        "name": "Syed Fazal Hussain",
+        "character": "Autorickshaw Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Umar Khan",
+        "character": "Autorickshaw Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Imran Hasnee",
+        "character": "Javed's House Doorkeeper",
+        "profile_path": ""
+      },
+      {
+        "name": "Homai Billimoria",
+        "character": "KBC Contestant",
+        "profile_path": ""
+      },
+      {
+        "name": "Udayan Baijal",
+        "character": "Cricket Commentator",
+        "profile_path": ""
+      },
+      {
+        "name": "Sandeep Kaul",
+        "character": "Floor Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Rufee Ahmed",
+        "character": "Double for Irrfan Khan",
+        "profile_path": ""
+      },
+      {
+        "name": "Rhea Lawyer",
+        "character": "TV Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Deepali Dalvi",
+        "character": "Dancer at Javed's Safehouse",
+        "profile_path": ""
+      },
+      {
+        "name": "Anisha Nagar",
+        "character": "Dancer at Javed's Safehouse",
+        "profile_path": ""
+      },
+      {
+        "name": "Farrah Shaikh",
+        "character": "Dancer at Javed's Safehouse",
+        "profile_path": ""
+      },
+      {
+        "name": "Mamta Sharma",
+        "character": "Dancer at Javed's Safehouse",
+        "profile_path": ""
+      },
+      {
+        "name": "Neha M. Khatarawalla",
+        "character": "Dancer at Javed's Safehouse",
+        "profile_path": ""
+      },
+      {
+        "name": "Tanya Singh",
+        "character": "Newsreader",
+        "profile_path": ""
+      },
+      {
+        "name": "Anand Tiwari",
+        "character": "Newsreader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jkMnh7wv43V48fGrTRmnOH7u8oC.jpg"
+      },
+      {
+        "name": "Faezeh Jalali",
+        "character": "Newsreader",
+        "profile_path": ""
+      },
+      {
+        "name": "Meghana Jhalani",
+        "character": "Newsreader",
+        "profile_path": ""
+      },
+      {
+        "name": "Rupali Mehra",
+        "character": "Newsreader",
+        "profile_path": ""
+      },
+      {
+        "name": "Anju Singh",
+        "character": "Newsreader",
+        "profile_path": ""
+      },
+      {
+        "name": "Saurabh Agarwal",
+        "character": "Call Centre Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Boucher",
+        "character": "Self - South African Cricketer (archive footage)",
+        "profile_path": ""
+      },
+      {
+        "name": "Andre Nel",
+        "character": "Self - South African Cricketer (archive footage)",
+        "profile_path": ""
+      },
+      {
+        "name": "Yuvraj Singh",
+        "character": "Self - Indian Cricketer (archive footage)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sOGbAGaBfFGY1LvCizdyVblr7B1.jpg"
+      },
+      {
+        "name": "Sachin Tendulkar",
+        "character": "Self - Indian Cricketer (archive footage)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x2NSl9vs5aLZYpB3wgkxzKWJOvE.jpg"
+      },
+      {
+        "name": "Amitabh Bachchan",
+        "character": "Self (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yAvq3EG5W5WaegZHB7gNdlM2KED.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Danny Boyle",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vUpBkzyDnDrr5jNZ33GCsAMbasM.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "based on novel or book",
+    "slum",
+    "cheating",
+    "suspicion",
+    "mumbai (bombay), india",
+    "game show",
+    "quiz",
+    "orphan",
+    "duringcreditsstinger",
+    "taj mahal, india"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A Mumbai teenager reflects on his life after being accused of cheating on the Indian version of \"Who Wants to be a Millionaire?\"",
+    "The story of Jamal Malik, an 18 year-old orphan from the slums of Mumbai, who is about to experience the biggest day of his life. With the whole nation watching, he is just one question away from winning a staggering 20 million rupees on India's Kaun Banega Crorepati? (2000) (Who Wants To Be A Millionaire?) But when the show breaks for the night, police arrest him on suspicion of cheating; how could a street kid know so much? Desperate to prove his innocence, Jamal tells the story of his life in the slum where he and his brother grew up, of their adventures together on the road, of vicious encounters with local gangs, and of Latika, the girl he loved and lost. Each chapter of his story reveals the key to the answer to one of the game show's questions. Each chapter of Jamal's increasingly layered story reveals where he learned the answers to the show's seemingly impossible quizzes. But one question remains a mystery: what is this young man with no apparent desire for riches really doing on the game show? When the new day dawns and Jamal returns to answer the final question, the Inspector and sixty million viewers are about to find out. At the heart of its storytelling lies the question of how anyone comes to know the things they know about life and love.—Fox Searchlight Pictures",
+    "Jamal and his brother Salim were raised in the slums of Mumbai. Orphaned at a young age, they managed to survive as did their young friend Latika. Jamal becomes a contestant on India's version of Who Wants To Be A Millionnaire. He manages to get to 10 million rupees in his first appearance but is arrested by the police who want to know how an illiterate 'slumdog' - as children raised in the slum are called - could possibly know all of those answers without cheating. He explains how specific events in his life taught him the answers and all he can say that being asked questions to which he knows the answers is simply fate. He hopes that fate will give at least one more good turn as he had a very specific reason for going on the show in the first place.—garykmcd",
+    "A young male is accused of cheating on a game show. It turns out that he reflects on his life to find all the correct answers that he needs to win. As he looks back on his life, he discovers that he is truly in love with a young female friends who has always been by his side.—RECB3",
+    "Eighteen year old Jamal Malik is having an amazing answering streak on Kaun Banega Crorepati? (2000), the Indian version of the television game show Who Wants to Be a Millionaire (1998). He's only one correct question away from the big prize. However, some, including those associated with the game show, question how someone like Jamal, a self confessed non-genius who grew up in the slums of Mumbai, can be doing so well on the show when others who are brighter, more educated and wealthier than him have failed. Is Jamal cheating? Is it purely luck that they have asked him the questions to which he knows the answers? Seeing Jamal's life journey to this point ultimately answers these questions. His life journey includes being orphaned at an early age; growing up with an older brother, Salim, who was both his guardian/protector and antagonist; and having a relationship since childhood with another orphaned child, a girl named Latika. His motivation for being on the show also may provide some answers to his success. Perhaps it was all just meant to be.—Huggo"
+  ],
+  "synopsis": "In 2006, eighteen-year-old Jamal Malik (Dev Patel), an Indian Muslim from the Juhu slum of Mumbai, is a contestant on Kaun Banega Crorepati. Before answering the final Rs 20 million question, he is detained and tortured by the police constable Srinivas (Saurabh Shukla), who suspect him of cheating. Inspector suspects Jamal of having used a microchip under the skin, and even gives him electric shocks to get him to confess.\nThe inspector says that educated professionals cannot get beyond Rs 16,000 on the show, and yet a tea supplier to a call center is sitting at Rs 10 million.\nThrough a series of flashbacks, Jamal recounts the incidents in his life that provided him with each answer.Jamal lives in the slum of Dharavi with his brother Salim and his mother.\nAt five years old, Jamal obtains the autograph of Bollywood star Amitabh Bachchan after jumping into a cesspit. Jamal's elder brother Salim (Madhur Mittal) later sells the autograph. Thats how he knew that Amitabh was the star in the 1973 film Zanzeer.\nHe used audience poll to find the answer to what written under the national emblem of the 3 lions.\nTheir mother (Sanchita Choudhary) is killed during the Bombay riots. While fleeing the riot, the brothers briefly encounter a child dressed up as Rama, with a bow and arrow in their right hand.Having escaped their riots and taking shelter from the rain, the brothers meet Latika (Freida Pinto), a girl from their slum. Salim is reluctant to take her in, but Jamal suggests that she could be their \"third musketeer\", a reference to the Alexandre Dumas novel The Three Musketeers which the brothers had learned about in school. The brothers refer to themselves as Athos and Porthos but do not know the third musketeer's name, as that was never taught in their class.The next question is which poet wrote the poem \"Darshan Do Ghanshyam\".The three children are found by Maman (Ankur Vikal)-a gangster who trains street children to become beggars. After learning that Maman is blinding the children to make them more effective beggars, Salim escapes with Jamal and Latika. The blind kids are taught the song \"Darshan Do Ghansyam\" to evoke sympathy.\nThe brothers successfully board a moving train, but Latika is unable to keep up. Salim grabs her hand but purposefully let's go, leaving her to be recaptured by Maman.For the next few years, Salim and Jamal travel on top of trains, making a living by selling goods, pick-pocketing, washing dishes, and pretending to be tour guides at the Taj Mahal. They scam unsuspecting tourists, sometime stealing entire cars while Jamal pretends to take them to tour the largest Dhobi Ghat in the entire world. The tourists would invariably pay him in US dollars.\nThey sneak into open air theaters to see Dante's plays being enacted by the local theatre groups.The next question is: who the states person on the US 100 Dollar bill is.At Jamal's insistence, they return to Mumbai to find Latika and discover that Maman is raising her to be a prostitute. Jamal met a fellow beggar named Arvind at Juhu beach and given him a 100-dollar bill as gift. Arvind told him that the bill had Benajmin Franklin's picture on the back. Arvind also tells Jamal where to find Latika.\nThe brothers rescue her, Salim shooting Maman dead with a revolver. Salim gets a job with Javed (Mahesh Manjrekar)-a rival crime lord. In their room, Salim orders Jamal to leave him alone with Latika, presumably to sexually assault her. When Jamal refuses, Salim draws a gun on him, and Latika persuades Jamal to leave.The next question is: who invented the revolver.Years later, Jamal, now working as a Chaiwallah in a call center, learns that Salim is a high-ranking lieutenant in Javed's crime organization. At the call center Jamal learns everything about British pop culture. Jamal uses the call center software to find Salim's number.The next question is: Cambridge Circus is in which UK city.\nJamal confronts Salim, who pleads for forgiveness. Jamal follows Salim to find Javed's residence. He then sneaks into Javed's residence and reunites with Latika. Latika was now Javed's mistress. Latika is a fan of Kaun Banega Crorepati, while Javed loves cricket.\nAlthough he professes his love for her, she tells him to forget her. Despite the refusal, Jamal promises that he will wait for her every day at five o'clock at Victoria Terminus.\nAttempting to meet him there, Latika is captured by Javed's men, led by Salim. They scar her face while driving away. Jamal loses contact with Latika and in a final attempt to reach her, he becomes a contestant on Kaun Banega Crorepati, knowing she watches the show.Jamal plays extremely well and becomes popular across India, much to the dismay of the show's host, Prem Kumar (Anil Kapoor). Kumar attempts to trick Jamal by feeding him the wrong answer to the penultimate question, who scored the most first-class centuries in history.\nJamal uses a 50:50 lifeline in which the option fed by Prem is not eliminated. Jamal guesses and answers correctly, raising suspicion of him cheating.When the episode ends with the last question remaining, Jamal is arrested. After an initial beating, the police inspector (Irrfan Khan) listens to his explanation of how he knew each answer. The officer believes Jamal and allows him to return to the show. Latika sees that Jamal was arrested on the news. Feeling guilty about his past behavior, Salim gives Latika his phone and car keys, asking her to forgive him. After Latika leaves, Salim fills a bathtub with money and sits in it, waiting for Javed to realize what happened.For the final question, Jamal is asked the name of the third musketeer. Jamal admits to not knowing the answer and uses his \"Phone-A-Friend\" lifeline to call Salim because it is the only phone number he knows. Latika answers and tells Jamal that she is safe but does not know the answer. Javed hears Latika on the show and realizes that Salim betrayed him. He and his men break down the bathroom door. Salim kills Javed before being shot and killed by the gang. Relieved about Latika, Jamal guesses and picks the first answer, Aramis. He is correct and wins the grand prize. Jamal and Latika meet on the platform at the train station and kiss.",
+  "imdb_score": 8
+}

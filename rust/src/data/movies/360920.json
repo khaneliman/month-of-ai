@@ -1,0 +1,275 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/5lWIYxYEqWi8j3ZloxXntw3ImBo.jpg",
+  "id": 360920,
+  "title": "The Grinch",
+  "poster_path": "https://image.tmdb.org/t/p/w500/1Bc9VNd9CIHIyJtPKFqSQzrXWru.jpg",
+  "release_date": "2018-11-08",
+  "vote_average": 6.849,
+  "vote_count": 3688,
+  "popularity": 66.916,
+  "overview": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration.",
+  "imdb_id": "tt2709692",
+  "budget": 75000000,
+  "homepage": "https://www.grinchmovie.com",
+  "revenue": 508600000,
+  "runtime": 85,
+  "tagline": "It was the heist before Christmas.",
+  "genres": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Illumination",
+    "Dr. Seuss Enterprises",
+    "Universal Animation Studios"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Benedict Cumberbatch",
+        "character": "Grinch (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fBEucxECxGLKVHBznO0qHtCGiMO.jpg"
+      },
+      {
+        "name": "Rashida Jones",
+        "character": "Donna Lou Who (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cgWGm9eYCretBWeljPVtpRV7n6V.jpg"
+      },
+      {
+        "name": "Kenan Thompson",
+        "character": "Bricklebaum (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vHPhDGc1om91TzoIQ4zMscpNmxF.jpg"
+      },
+      {
+        "name": "Cameron Seely",
+        "character": "Cindy Lou Who (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wpo7g3DdcOBkkgZJPBAsXwpkZ1b.jpg"
+      },
+      {
+        "name": "Angela Lansbury",
+        "character": "Mayor McGerkle (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sNIHnWjXEpBcTjRxzmrwuJyHqfi.jpg"
+      },
+      {
+        "name": "Pharrell Williams",
+        "character": "Narrator (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3VdAd4rnxWFvcnBL7aEUVWxEH6V.jpg"
+      },
+      {
+        "name": "Ramone Hamilton",
+        "character": "Axl (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lmys7pUzYvdX1IsHRpr9OjH1U5A.jpg"
+      },
+      {
+        "name": "Sam Lavagnino",
+        "character": "Ozzy (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zTKuiH43wspXMigVAiGMF4rUKUs.jpg"
+      },
+      {
+        "name": "Scarlett Estevez",
+        "character": "Izzy (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ptV6Ksq5jdzZ6gARJDhkItPxVQi.jpg"
+      },
+      {
+        "name": "Michael Beattie",
+        "character": "Store Clerk (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gDuLXdt6xXMjGOmdqoLymyra55n.jpg"
+      },
+      {
+        "name": "Scott Mosier",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oEQcuNy9uYGMNq3e49VSJ7oPsJw.jpg"
+      },
+      {
+        "name": "Lori Alan",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pdqefVlTbIpNObYdIlyWQGYLEBd.jpg"
+      },
+      {
+        "name": "Carter Hastings",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h8DNoo1bIUtR3TLkvGHyw8BozrZ.jpg"
+      },
+      {
+        "name": "Carlos Alazraqui",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d2hufnjlfsZiY7N9NLZ6b7FE1IZ.jpg"
+      },
+      {
+        "name": "John Kassir",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/byj6Px0tLcqRFWIJYUxstg25Qd2.jpg"
+      },
+      {
+        "name": "Cathy Cavadini",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9sThx5Ajdy1aBJSppQDbTkmANlA.jpg"
+      },
+      {
+        "name": "Danny Mann",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/980QYqXIZCMn5Knx0vjROkw9vKo.jpg"
+      },
+      {
+        "name": "Meilee Condron",
+        "character": "Additional Voices (Voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z7j0JGXX5iU9sp6lnnkUGKO0339.jpg"
+      },
+      {
+        "name": "Frank Welker",
+        "character": "Max / Fred (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+      },
+      {
+        "name": "Tristan O'Hare",
+        "character": "Groopert (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jyC9EWzQRpevwqBsgMFTrF7TbDB.jpg"
+      },
+      {
+        "name": "Doug Burch",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ylIeoYrK278PkJXUhbZkzW0soQI.jpg"
+      },
+      {
+        "name": "Tucker Chandler",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ro5tKHoOg8gETvNAMmcwGd6XmXX.jpg"
+      },
+      {
+        "name": "Townsend Coleman",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aMVAo35uihg08G8uc4Q4FiAS5ku.jpg"
+      },
+      {
+        "name": "Abby Craden",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vuRCNXWfreSJZQoiExxX3XHhRJK.jpg"
+      },
+      {
+        "name": "Brian T. Delaney",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zzkAnz4HcnUIDJKTxuL0HS7uHk2.jpg"
+      },
+      {
+        "name": "John DeMita",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cIUd7zTcGzJ0CMSkL4SUOee3gME.jpg"
+      },
+      {
+        "name": "Bill Farmer",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lhezx68R12s5Bsv7d77BrQb7tWA.jpg"
+      },
+      {
+        "name": "Aaron Fors",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cZuAdf50vu237WYIKryYCLUDiD4.jpg"
+      },
+      {
+        "name": "Willow Geer",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kreFbFc095mvIRI89FIHUlWOBuo.jpg"
+      },
+      {
+        "name": "Jess Harnell",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+      },
+      {
+        "name": "Evan Kishiyama",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tL0bxnvJNvCWbysjQuh6lcboJGx.jpg"
+      },
+      {
+        "name": "Barbara Harris",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d1BGeZT2b81Wa9gCOPdrXGWUtmR.jpg"
+      },
+      {
+        "name": "Jeremy Maxwell",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/haG5rF1ogYIsQpIpAQ74Q2P1ek0.jpg"
+      },
+      {
+        "name": "Laraine Newman",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/62i0sFf0IwmkQkBW9Osucgx8qGr.jpg"
+      },
+      {
+        "name": "Dashiell Priestley",
+        "character": "Additional Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Puccinelli",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4iTBlmw8uOPbpgnBCXm58YAjAcC.jpg"
+      },
+      {
+        "name": "Emma Elizabeth Shannon",
+        "character": "Additional Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joel Swetow",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eYGiPqOy65ldNUfOZ5liRETs7ok.jpg"
+      },
+      {
+        "name": "Mindy Sterling",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hX99KTTCFxB4a2rB1SpDbr8imrK.jpg"
+      },
+      {
+        "name": "Tara Strong",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Z86FfWbnUJnyFTcLa9MpVVFhMh.jpg"
+      },
+      {
+        "name": "Regina Taufen",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uawDYFYJ4cMJurfYRrA9BgAD3BS.jpg"
+      },
+      {
+        "name": "Jim Ward",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yQklzBUmaHbcS00DXq73J1HYUrE.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Scott Mosier",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oEQcuNy9uYGMNq3e49VSJ7oPsJw.jpg"
+      },
+      {
+        "name": "Yarrow Cheney",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3j0F9ViGOUdGbszLKWKgK1hvWbp.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "holiday",
+    "surrealism",
+    "remake",
+    "based on children's book",
+    "christmas"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "A grumpy Grinch plots to ruin Christmas for the village of Whoville.",
+    "For their eighth fully animated feature, Illumination and Universal Pictures present The Grinch, based on Dr. Seuss' beloved holiday classic. The Grinch tells the story of a cynical grump who goes on a mission to steal Christmas, only to have his heart changed by a young girl's generous holiday spirit. Funny, heartwarming, and visually stunning, it's a universal story about the spirit of Christmas and the indomitable power of optimism. Academy Award nominee Benedict Cumberbatch lends his voice to the infamous Grinch, who lives a solitary life inside a cave on Mt. Crumpet with only his loyal dog, Max, for company. With a cave rigged with inventions and contraptions for his day-to-day needs, the Grinch only sees his neighbors in Whoville when he runs out of food. Each year at Christmas they disrupt his tranquil solitude with their increasingly bigger, brighter, and louder celebrations. When the Whos declare they are going to make Christmas three times bigger this year, the Grinch realizes there is only one way for him to gain some peace and quiet: he must steal Christmas. To do so, he decides to pose as Santa Claus on Christmas Eve, even going so far as to trap a lackadaisical misfit reindeer to pull his sleigh. Meanwhile, down in Whoville, Cindy-Lou Who (Cameron Seely), a young girl overflowing with holiday cheer, plots with her gang of friends to trap Santa Claus as he makes his Christmas Eve rounds so that she can thank him for help for her overworked single mother. As Christmas approaches, however, her good-natured scheme threatens to collide with the Grinch's more nefarious one. Will Cindy-Lou achieve her goal of finally meeting Santa Claus? Will the Grinch succeed in silencing the Whos' holiday cheer once and for all?—Universal Pictures",
+    "In the town of Whoville, human-like creatures called Whos are filled with excitement about celebrating Christmas. The only one who isn't amused is a cantankerous, green furred creature called The Grinch (Benedict Cumberbatch), who has a heart \"two sizes too small\" and lives in a cave on the top of Mount Crumpit just north of Whoville. The Grinch's only friend is his loyal pet dog Max and they both only visit Whoville when the Grinch needs to buy food and do bad things. Meanwhile, six-year-old Cindy-Lou Who (Cameron Seely) notices that her mother Donna (Rashida Jones) is overworked trying to take care of her and her twin infant brothers, Buster and Bean. She at first decides to send a letter to Santa Claus to help her mother but after encountering the Grinch, who sarcastically says that she'll have to talk to Santa face-to-face about it, she eventually decides to try and trap Santa with the help of her friends.",
+    "/it is the festive holidays in a small village and a young male grinch plans on stealing it from everyone. He does everything that he can to finish the job. Along the way, he learns the true meaning of what the festive holidays are really about for everyone.—RECB3"
+  ],
+  "synopsis": "In the town of Whoville, the Whos are eagerly anticipating Christmas. However, just north of Whoville on top of Mount Crumpit, there lives The Grinch (voice of Benedict Cumberbatch), who hates Christmas and the thought of seeing the Whos so joyful. He lives alone with his faithful dog Max. The Grinch gets ready for breakfast, only to discover that he has completely run out of food due to excessive emotional eating. This forces him to make a trip down to Whoville for some groceries. As the narrator (voice of Pharrell Williams) notes, it's not quite known just why The Grinch is the way he is. It could be that his head wasn't screwed on just right, or that his shoes are too tight, but perhaps the biggest reason of all was that his heart was two sizes too small.The Grinch takes Max into town where he acts mean toward the Whos, and then he runs away from a group of carolers. As he gets his food, elsewhere in town, we meet Donna Lou Who (voice of Rashida Jones), an overworked single mother to Cindy Lou (voice of Cameron Seely) and twin boys Buster and Bean. Cindy Lou heads out with a letter to Santa Claus for a big wish she has, but she ends up running into The Grinch. He is mean to her as well, implying that she is, like the rest of the Whos, greedy and demanding for stuff from Santa. After he leaves, she manages to retrieve her letter.On his way back to his cave, The Grinch runs into Bricklebaum (voice of Kenan Thompson), the jolliest Who in Whoville, and a major thorn in The Grinch's side. Bricklebaum puts up his Christmas decorations, which The Grinch calls an eyesore. Bricklebaum explains that the Mayor (Angela Lansbury) wants Christmas in Whoville to be three times bigger this year, which only makes The Grinch feel worse. He returns to his cave and sits alone, feeling that it is better for him this way. Meanwhile, Cindy Lou plans to deliver her letter to Santa personally by walking to the North Pole until Donna tells her that it would take her a month to do so.Later, a gigantic tree is flown into Whoville to be lit that night. Annoyed, The Grinch sets up a catapult to launch a massive snowball to knock the tree down. That night, the Whos gather in the town square as the Mayor is set to light up the three. Cindy Lou gets her friend Groopert (Tristan O'Hare) and tells him that her wish to Santa is that he send help to her mother because Cindy Lou can see just how tired Donna is from all the hours she works and caring for Cindy Lou and her brothers. As the Whos get ready for the lighting, The Grinch prepares his catapult for launch, only for it to roll down the hill and drop the snowball, then launch him toward Whoville. The Grinch inadvertently lights the tree and falls in the middle of the crowd. This triggers a painful memory in him where, as a child, he was always alone, especially around Christmastime, and that's why he hates the holiday so much. He retreats back to Mount Crumpit and hatches a plan with Max to steal Christmas from the Whos.The Grinch's plan involves becoming Santa Claus and following his methods to a T so that he can get in and out of Whoville with ease. He takes Max to find reindeer to pull a sleigh, but when they reach a whole field of reindeer, they are scared away by a screaming goat. The only one left is a fat reindeer that The Grinch later names Fred. After Fred joins The Grinch and Max, The Grinch heads into Whoville to steal a sleigh from the roof of Bricklebaum's house, but not without dealing with his crazy guard dog first. He also uses a flying device to send Max into town to get a sense of how many houses he will hit, only for Max to get distracted by sausages and get sent flying back right into The Grinch.Cindy Lou gathers Groopert, plus her other friends Axl (Ramone Hamilton), Izzy (Scarlett Estevez), and Ozzy (Sam Lavagnino), to discuss her plan to give her wish to Santa, and that is by staging a trap for him. She manages to convince her friends to help set up the trap and test it out with Groopert, but it just tears his Santa suit off and leaves him nude.The Grinch teaches Fred how to pull the sleigh, but just as they are walking out in the field, they spot two other reindeer who turn out to be Fred's mate and child. The Grinch knows what's going on, and, without a fuss, he lets Fred go, lamenting that it's just him and Max again.It is the night of Christmas Eve, and The Grinch tasks Max with pulling the sleigh. They wait until all the Whos are asleep before heading down to make their move. The Grinch hits all the houses using his gadgets, stealing trees, presents, decorations, lights, and food. The very last house he hits is none other than Cindy Lou's house. He sees a cookie and decides to take it, which triggers her trap that she set. Cindy Lou hears the trap going off and she rushes downstairs to meet the man she thinks is Santa. The Grinch manages to fool her and convince her that he is taking her tree to fix a light on it. Cindy Lou then asks him to grant her wish to help her mom, which touches The Grinch since he sees that Cindy Lou isn't selfish like the way he perceives the Whos. The Grinch leaves Whoville with Cindy Lou's words still ringing in his head.As the sun rises on Christmas morning, The Grinch reaches the top of Mount Crumpit to watch as the Whos wake up and see that all of their Christmas things have been stolen. Cindy Lou tells Donna she feels this is her fault because she trapped Santa, but Donna assures her that's not true. Soon, the Whos all join hands and sing \"Welcome Christmas\", which perplexes The Grinch until he closes his eyes and takes in the joy that the Whos have despite all their stuff being gone. It makes The Grinch realize that they find happiness in each other and not their material items. It even makes The Grinch's heart grow bigger. Suddenly, the sleigh starts to slide off the edge of the mountain. The Grinch grabs onto it and tries to hang on using a grappling hook, but that only causes the cliff side to crack. Before The Grinch plummets to certain doom, he is saved by Fred and his family, who are helped by Max to pull The Grinch back up. He then rides the sleigh down the hill to return everything to the Whos. He reveals himself as the one who stole Christmas from them, and he apologizes for what he did before walking back home.Later that day, Cindy Lou visits The Grinch and invites him to go to her house for dinner. Although a bit hesitant, The Grinch brings Max to town where they join Cindy Lou's family and other guests from town, including Bricklebaum. Everyone gathers for dinner, and Donna offers The Grinch the chance to carve the rare Who roast beast. The Grinch gives a small speech in which he admits that he never hated Christmas, but rather the feeling of being alone on the holiday. And so, The Grinch delivers a toast, to kindness and love, the things we need most.",
+  "imdb_score": 6.4
+}

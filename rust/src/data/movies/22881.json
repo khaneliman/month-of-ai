@@ -1,0 +1,376 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/zndjQ64SrM5Bo6xMuofCYP8yBhd.jpg",
+  "id": 22881,
+  "title": "The Blind Side",
+  "poster_path": "https://image.tmdb.org/t/p/w500/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg",
+  "release_date": "2009-11-20",
+  "vote_average": 7.691,
+  "vote_count": 6005,
+  "popularity": 60.677,
+  "overview": "The story of Michael Oher, a homeless and traumatized boy who became an All American football player and first round NFL draft pick with the help of a caring woman and her family.",
+  "imdb_id": "tt0878804",
+  "budget": 29000000,
+  "homepage": "http://www.theblindsidemovie.com/",
+  "revenue": 309200000,
+  "runtime": 129,
+  "tagline": "Based on the extraordinary true story",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Alcon Entertainment",
+    "Netter Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Sandra Bullock",
+        "character": "Leigh Anne Tuohy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u2tnZ0L2dwrzFKevVANYT5Pb1nE.jpg"
+      },
+      {
+        "name": "Tim McGraw",
+        "character": "Sean Tuohy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/prKoPyWZDQYHZeTmFqvMW0EFWDB.jpg"
+      },
+      {
+        "name": "Quinton Aaron",
+        "character": "Michael Oher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AvmNkbRAX1oOecrldWuwvRmDZGw.jpg"
+      },
+      {
+        "name": "Jae Head",
+        "character": "S.J. Tuohy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nNh2DiYXZneyeiYDitKT6s1AwEy.jpg"
+      },
+      {
+        "name": "Lily Collins",
+        "character": "Collins Tuohy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aFSZkMNjmDR07JtkvhcbLAbDAMx.jpg"
+      },
+      {
+        "name": "Ray McKinnon",
+        "character": "Coach Cotton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nZSmJVTSq2eEcE4FeEoKVNYUGM9.jpg"
+      },
+      {
+        "name": "Kim Dickens",
+        "character": "Mrs. Boswell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bYIQGHeSIt4G2tLrLt61FJ2CD7h.jpg"
+      },
+      {
+        "name": "Adriane Lenox",
+        "character": "Denise Oher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6uwcIdXFMCZntOxpEjiNOZfYbDv.jpg"
+      },
+      {
+        "name": "Kathy Bates",
+        "character": "Miss Sue",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3MsayDvY73uXGVbCFHyy1ABTacV.jpg"
+      },
+      {
+        "name": "Catherine Dyer",
+        "character": "Mrs. Smith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tMZkfDMu7U6IcIE9hx4NlJJIB39.jpg"
+      },
+      {
+        "name": "Andy Stahl",
+        "character": "Principal Sandstrom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nJHyBpX7lVwEGJLaR8KOvn0FdZ0.jpg"
+      },
+      {
+        "name": "Tom Nowicki",
+        "character": "Literature Teacher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b823hpQ5FzQeom8Sj6DJ81ezVWQ.jpg"
+      },
+      {
+        "name": "Libby Whittemore",
+        "character": "Sarcastic Teacher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9F5il9fWRiDN6TPmOthU5QMsAiE.jpg"
+      },
+      {
+        "name": "Brian Hollan",
+        "character": "Jay Collis",
+        "profile_path": ""
+      },
+      {
+        "name": "Melody Weintraub",
+        "character": "History Teacher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fNxOd1y04bN1UF8qsFMUhrdZldy.jpg"
+      },
+      {
+        "name": "Sharon Conley",
+        "character": "Investigator Granger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aWRhym8s65teBaxsJKO5KO0JWp8.jpg"
+      },
+      {
+        "name": "Omar J. Dorsey",
+        "character": "\"Big Tony\" Hamilton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gEoIprGB2mZpHYGm12J8CYf8cYI.jpg"
+      },
+      {
+        "name": "Paul Amadi",
+        "character": "Steven Hamilton",
+        "profile_path": ""
+      },
+      {
+        "name": "Irone Singleton",
+        "character": "Alton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lKxvihaUzrTJj1tZJSprj7JhMhL.jpg"
+      },
+      {
+        "name": "Hampton Fluker",
+        "character": "David",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dMs8OXyAgv0JDzMMOobSeX6gDgS.jpg"
+      },
+      {
+        "name": "Rhoda Griffis",
+        "character": "Beth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jO50PgihnZ0gAlJDulpzxMoLgRB.jpg"
+      },
+      {
+        "name": "Eaddy Mays",
+        "character": "Elaine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tOkqsD1f5qhg8hxqcWmf9CUyTy4.jpg"
+      },
+      {
+        "name": "Ashley LeConte Campbell",
+        "character": "Sherry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xbuqD60IPGKccPt0Rhj3r6rlmPF.jpg"
+      },
+      {
+        "name": "Stacey Turner",
+        "character": "DMV Employee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9vNOZjmuhhvnrl6ee3UBQA5ZClz.jpg"
+      },
+      {
+        "name": "Elizabeth Omilami",
+        "character": "CPS Employee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qZiZZ4i3T5NWcq3DeW3OnAleAZf.jpg"
+      },
+      {
+        "name": "Afemo Omilami",
+        "character": "CPS Caseworker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/usW1GHq20ZEX3rpei1HpeXfSpiP.jpg"
+      },
+      {
+        "name": "Maria Howell",
+        "character": "CPS Welfare Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yVTrDlQqHNfgXRRL9abOqr1eZi8.jpg"
+      },
+      {
+        "name": "Patrick G. Keenan",
+        "character": "Man In CPS Line",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xwVhAP5Ch8PHHFhW5bsEwfxPhuZ.jpg"
+      },
+      {
+        "name": "Eric Benson",
+        "character": "Milford #66",
+        "profile_path": ""
+      },
+      {
+        "name": "David Dwyer",
+        "character": "Milford Dad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kMTtoYRHltlJI9YzWPKe56gK99h.jpg"
+      },
+      {
+        "name": "Catherine Combs",
+        "character": "Collins's Friend #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xpMDqsSGxjc7BlIj4xTguTo8tcb.jpg"
+      },
+      {
+        "name": "Kelly Johns",
+        "character": "Collins's Friend #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9a6p4O2jREXiSOhC85DkScNaCmk.jpg"
+      },
+      {
+        "name": "Robert Pralgo",
+        "character": "Lemming's Associate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lF2UcQemojihJM4XlLGkWEEsJuJ.jpg"
+      },
+      {
+        "name": "Whitney Branan",
+        "character": "Lemming's Secretary #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wowCkthwfjxcEBrr9H66OPho85T.jpg"
+      },
+      {
+        "name": "Brian Sutherin",
+        "character": "Lemming's Secretary #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Rachel St. Gelais",
+        "character": "Little Girl on Playground",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kghAP0Pptv9Qf8oKbDTa3KqxW37.jpg"
+      },
+      {
+        "name": "Brandon Rivers",
+        "character": "Michael Age Seven",
+        "profile_path": ""
+      },
+      {
+        "name": "Jody Thompson",
+        "character": "Paramedic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qSpaiLA33uRcQPioSXUJnaaEQo5.jpg"
+      },
+      {
+        "name": "James Donadio",
+        "character": "Photographer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1yo4lxwL9WVa4hAJZjTG3C1jv6e.jpg"
+      },
+      {
+        "name": "L. Warren Young",
+        "character": "Big and Tall Salesman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/csQ0jDHCfCoRMCtOjkKPvorczgC.jpg"
+      },
+      {
+        "name": "Brett Rice",
+        "character": "Cousin Bobby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4OTUfCVDOsCFQoQwiNE8deDFxKW.jpg"
+      },
+      {
+        "name": "Kevin Nichols",
+        "character": "Memphis Policeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rDlCb49tu0fbkULfYmBbwsrlUep.jpg"
+      },
+      {
+        "name": "Preston Wigasi Brant",
+        "character": "Michael's Brother",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew Atkinson",
+        "character": "Valet Parker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yMPhB56x3EmEBCJHjdIEgt7G28f.jpg"
+      },
+      {
+        "name": "Trey Best",
+        "character": "Michael's Brother Age Twelve",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1FyRazDDMfludUG44nz6PoW5Hsi.jpg"
+      },
+      {
+        "name": "Omid Soltani",
+        "character": "Rug Salesman",
+        "profile_path": ""
+      },
+      {
+        "name": "Destiny Long",
+        "character": "Alton's Girlfriend",
+        "profile_path": ""
+      },
+      {
+        "name": "April Rich",
+        "character": "Teacher In Lounge",
+        "profile_path": ""
+      },
+      {
+        "name": "Jaye Tyroff",
+        "character": "Milford Player #35",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kBGRCaSW2TtOwPJWaq63SJ3FXHj.jpg"
+      },
+      {
+        "name": "Ben Keen",
+        "character": "Wingate Quarterback",
+        "profile_path": ""
+      },
+      {
+        "name": "John Newberg",
+        "character": "Official",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ry5sTnoh38ObTPXDkPcTl5I9r0U.jpg"
+      },
+      {
+        "name": "John Henry Hancock",
+        "character": "Rabid Ole Miss Fan",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Chrest",
+        "character": "Clemson Coach",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7mcsJGnqRoVPTtxAUZEKt2dZnlw.jpg"
+      },
+      {
+        "name": "Michael Fisher",
+        "character": "Georgia Assistant Coach",
+        "profile_path": ""
+      },
+      {
+        "name": "Lamont Koonce",
+        "character": "Tennessee Assistant Coach",
+        "profile_path": ""
+      },
+      {
+        "name": "Phillip Fulmer",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wWpWxYkcKPg7WzV2Wt8Fpjt5cJ6.jpg"
+      },
+      {
+        "name": "Lou Holtz",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yz3kIfDXu8CUc8Ca3EV1349sB7F.jpg"
+      },
+      {
+        "name": "Tom Lemming",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/64ZPsR5gx5eIrUuWnUW0FLhJvwh.jpg"
+      },
+      {
+        "name": "Houston Nutt",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gsBWihuMmSKF8LucyrPbCbf4d47.jpg"
+      },
+      {
+        "name": "Ed Orgeron",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pFcNLCSfFXnlKjcwh3DZWcHg79Q.jpg"
+      },
+      {
+        "name": "Franklin \"Pepper\" Rodgers",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9pfjlvqFUmQ8CntouSeWKzIF0Qi.jpg"
+      },
+      {
+        "name": "Nick Saban",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x3zqiPEXFTbCdobPHBxyf2zRgF0.jpg"
+      },
+      {
+        "name": "Tommy Tuberville",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ucyMdsAEOC88gCMEuIcGP8MlKgX.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "John Lee Hancock",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ytGKxuC1sFUmd68jUwDA37Jn0LG.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "sports",
+    "american football",
+    "adoption",
+    "private school",
+    "education",
+    "based on true story",
+    "memphis, tennessee",
+    "duringcreditsstinger",
+    "christian",
+    "high school football"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "The story of Michael Oher, a homeless and traumatized boy who became an All-American football player and first-round NFL draft pick with the help of a caring woman and her family.",
+    "Based on the true story of Leigh Anne Tuohy and Sean Tuohy who take in a homeless teenage African-American, Michael Oher. Michael has no idea who his father is and his mother is a drug addict. Michael has had little formal education and few skills to help him learn. Leigh Anne soon takes charge however, as is her nature, ensuring that the young man has every opportunity to succeed. When he expresses an interest in football, she goes all out to help him, including giving the coach a few ideas on how best to use Michael's skills. They not only provide him with a loving home, but hire a tutor to help him improve his grades to the point where he would qualify for an NCAA Division I athletic scholarship. Michael Oher was the first-round pick of the Baltimore Ravens in the 2009 NFL draft.—garykmcd",
+    "Seventeen year old Michael Oher, an extremely large, physically imposing black youth, grew up in the projects in Memphis. He no longer lives with his drug addicted mother, but is in foster care when he isn't running away to sleep wherever else he can find. Out of circumstances including Coach Burt Cotton's belief that he would be an asset to the school's football program based solely on his size and seeing him move, Michael is accepted into Wingate Christian School - an exclusive private school - despite his abysmal 0.6 GPA. After Michael starts attending classes at Wingate, most of his teachers believe he is unteachable, except his science teacher, Mrs. Boswell, who begins to understand that he learns in a different way. Believing he is indeed homeless, Caucasian and staunch Republican Leigh Anne Tuohy - mother of Wingate students, teen Collins Tuohy and adolescent S.J. Tuohy, and wife to Sean Tuohy, franchise owner of several Taco Bell's - invites Michael to stay in the Tuohy's upscale home for the night. But that one night slowly extends itself both in terms of time and emotion as the Tuohys begin to treat Michael like one of the family and vice versa. Part of that emotional investment for Leigh Anne is fully understanding Michael as a person so that he can fulfill his potential as a human being, which includes giving him opportunities such as what Coach Cotton initially saw in Michael as a potential left tackle. Potential problems include Michael's poor academic standing which may prohibit him from participating in extracurricular activities at the school, his learning disability which may extend to other aspects of his life beyond his schooling, whether he actually can play football, and authorities questioning Leigh Anne and all the Tuohy's motivations in inviting Michael into their home and family.—Huggo",
+    "Having drifted in and out of the school system for years, Michael Oher, a homeless African-American youngster from a broken home, is a lost cause. But when Leigh Anne Tuohy and her husband, Sean Tuohy, a well-to-do white family, take the rudderless black teen in, they transform both his life and theirs. As the under-educated football player and student faces an entirely different set of challenges to overcome, Michael's tremendous size and protective instincts make him a formidable force on the gridiron. Little by little, Michael Oher's new family and devoted tutor helped him realise his full potential as a left tackle. And with hard work and perseverance, Michael's guardians groomed him into an athletically and academically successful NFL prospect.—Nick Riganas",
+    "Based on a true story, a mother and her family do everything that they can to help a homeless and poor young male. They help him through his education and help him succeed in sport to become the best player that he possibly be for his team.—RECB3"
+  ],
+  "synopsis": "For most of his childhood, 17-year-old Michael Oher (Quinton Aaron) has been in foster care with different families, largely because of his mother's drug addiction, throughout Memphis, Tennessee. Every time he is placed in a new home, he runs away. His friend's father, whose couch Mike had been sleeping on, asks Burt Cotton (Ray McKinnon), the coach of Wingate Christian school, to help enroll his son and Mike. Impressed by Mike's size and athleticism, Cotton gets him admitted despite his abysmal academic record.At his new school, Michael is befriended by a boy named Sean Jr. \"SJ\" (Jae Head). SJ's mother Leigh Anne Tuohy (Sandra Bullock) is a strong-minded interior designer and the wife of wealthy businessman Sean Tuohy (Tim McGraw). Leigh Anne notices Michael walking on the road, shivering in the cold; when she learns he intends to spend the night huddled outside the school gym, she offers him a place to sleep at her house. The next morning, when she sees Michael leaving, she asks him to spend the Thanksgiving holiday with her family. Slowly, Michael becomes a member of the Tuohy family, even as Leigh Anne's rich friends wonder what she is doing. One even suggests that her teenage daughter Collins (Lily Collins) is not safe around him, much to Leigh Anne's disgust.When Leigh Anne seeks to become Michael's legal guardian, she learns he was separated from his drug-addict mother when he was seven and that no one knows her whereabouts. She is also told that even though he scored low in almost every category in a career aptitude test, he is in the 98th percentile in \"protective instincts\".After his grades improve, Michael is allowed to join the school football team. He has a shaky start due to his polite and gentle nature, yet after some encouragement by Leigh Anne to tap into his \"protective instincts\" and regard his teammates as he would members of his family, Michael dominates on the field. SJ sends out videos of the games to college coaches around the country. Leigh Anne discovers that to get an NCAA Division I scholarship, Michael needs a 2.5 GPA, so they hire a tutor, Miss Sue (Kathy Bates). Some of the teachers help out as well, and Michael ends up with a GPA of 2.52.When coaches come to recruit Michael, Leigh Anne makes it clear that she prefers the University of Mississippi (Ole Miss) as both she and her husband are alumni. Miss Sue, another Ole Miss alumna, tells Michael (who dislikes horror films) that the FBI buries body parts under the University of Tennessee's Neyland Stadium for research; Leigh Anne particularly loathes that school. Michael commits to Ole Miss.Subsequently, Michael and the Tuohys become the subject of an NCAA investigation. The investigator tells Michael that the Tuohys and Miss Sue are fervent Mississippi boosters, who are subject to special restrictions, and his high school coach got a job at Ole Miss after Michael chose the school. Michael confronts Leigh Anne, asking her if she only took him in so he would play football for her Alma mater. Michael then goes to his birth mother's apartment in the projects. His old friends welcome him, but their leader makes crude remarks about Leigh Anne and Collins. Michael becomes angry and in the ensuing fight subdues his former friends and then flees.Leigh Anne searches for Michael. He finally calls her, and they meet. Leigh Anne tells him she will support any decision he makes. Michael satisfies the investigator by explaining that he chose Ole Miss because his whole family has gone there.Later, Leigh Anne and her family take Michael to the Ole Miss campus to begin college. The film ends with an emotional goodbye between Leigh Anne and Michael. The closing credits show the 2009 NFL Draft with the real Michael Oher being drafted by the Baltimore Ravens in the first round. Photographs of Oher and the real Tuohys follow, with Oher's success in the NFL detailed. The credits include a dedication to director John Lee Hancock's father, a football player and coach who died in 2009.",
+  "imdb_score": 7.6
+}

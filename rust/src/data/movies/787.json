@@ -1,0 +1,578 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/iFaWUETEE2umP1WY0LUAmjSpzm7.jpg",
+  "id": 787,
+  "title": "Mr. & Mrs. Smith",
+  "poster_path": "https://image.tmdb.org/t/p/w500/wzIO3ytxeSNt1wRpXLIdkNbGoDm.jpg",
+  "release_date": "2005-06-07",
+  "vote_average": 6.68,
+  "vote_count": 9832,
+  "popularity": 104.686,
+  "overview": "After five (or six) years of vanilla-wedded bliss, ordinary suburbanites John and Jane Smith are stuck in a huge rut. Unbeknownst to each other, they are both coolly lethal, highly-paid assassins working for rival organisations. When they discover they're each other's next target, their secret lives collide in a spicy, explosive mix of wicked comedy, pent-up passion, nonstop action and high-tech weaponry.",
+  "imdb_id": "tt0356910",
+  "budget": 110000000,
+  "homepage": "",
+  "revenue": 487300000,
+  "runtime": 119,
+  "tagline": "'Til death do us part.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Regency Enterprises",
+    "New Regency Pictures",
+    "Summit Entertainment",
+    "Weed Road Pictures",
+    "Epsilon Motion Pictures",
+    "New Regency Productions",
+    "20th Century Fox"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Brad Pitt",
+        "character": "John Smith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+      },
+      {
+        "name": "Angelina Jolie",
+        "character": "Jane Smith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nXA9vMvskmIDB5NqHCkTQPmemep.jpg"
+      },
+      {
+        "name": "Vince Vaughn",
+        "character": "Eddie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A9fJ88dfXZGpgFTnQIK0bOtjMrj.jpg"
+      },
+      {
+        "name": "Adam Brody",
+        "character": "Benjamin Danz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aBHrdOtolyYkAOjNX0Bpkat5WX5.jpg"
+      },
+      {
+        "name": "Kerry Washington",
+        "character": "Jasmine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hCi43gRO7zfv3Mu8X1bpqtloyHT.jpg"
+      },
+      {
+        "name": "Keith David",
+        "character": "Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jJLJuR7FNHYL1fB5igjj7IXzOel.jpg"
+      },
+      {
+        "name": "Chris Weitz",
+        "character": "Martin Coleman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4HONbwCefKNKBXafRRjXZN00wJE.jpg"
+      },
+      {
+        "name": "Rachael Huntley",
+        "character": "Suzy Coleman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uiXBco6GPl3CR4NqduCsl2Gcah7.jpg"
+      },
+      {
+        "name": "Michelle Monaghan",
+        "character": "Gwen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jB47BoGdudHELszn9ZAZqnnUy8N.jpg"
+      },
+      {
+        "name": "Stephanie March",
+        "character": "Julie - Associate #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7iDG2vgajeDQJROkhkVjHYuKS3.jpg"
+      },
+      {
+        "name": "Jennifer Morrison",
+        "character": "Jade - Associate #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i6dkHIME0BOPhbcPESHZND3vmtk.jpg"
+      },
+      {
+        "name": "Theresa Barrera",
+        "character": "Janet - Associate #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4HefS6czHuT6EsIdINJwbPvprhw.jpg"
+      },
+      {
+        "name": "Perrey Reeves",
+        "character": "Jessie - Associate #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zkppOuOlGMP59ulwKdqC2tlg07B.jpg"
+      },
+      {
+        "name": "Melanie Tolbert",
+        "character": "Jamie - Associate #5",
+        "profile_path": "https://image.tmdb.org/t/p/w185/moLAnj0G1YaO5nZnFFvTYTFvBsZ.jpg"
+      },
+      {
+        "name": "Jerry T. Adams",
+        "character": "Guard - Bull",
+        "profile_path": ""
+      },
+      {
+        "name": "Elijah Alexander",
+        "character": "Marco Racin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oFu827L4Hf46ceAjCa8v25E2Wg0.jpg"
+      },
+      {
+        "name": "Hans F. Alexander",
+        "character": "Louis",
+        "profile_path": ""
+      },
+      {
+        "name": "Lauryn Alvarez",
+        "character": "Coleman Kid #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Burke Armstrong",
+        "character": "Restaurant Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Ron Bottitta",
+        "character": "P.J.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bIsQLTqTZhIdm5T1FfgJs4EIkjx.jpg"
+      },
+      {
+        "name": "Earl H. Bullock",
+        "character": "50's Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Miguel Angel Caballero",
+        "character": "Bellboy - Bogotá",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d0Y2cJwcgi11DQ1Vnf1QsIAdtWo.jpg"
+      },
+      {
+        "name": "Victor A. Chapa",
+        "character": "Americana Hotel Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wBory8LmlBPKsgafa2pAw2dPYyE.jpg"
+      },
+      {
+        "name": "Maree Cheatham",
+        "character": "Father's Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gtgvheeo3rR8N7o6gvo5S5EO9GP.jpg"
+      },
+      {
+        "name": "Laine Collins",
+        "character": "Eddie's Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/slyVx1X14N3iIuf0wDasmvINDnL.jpg"
+      },
+      {
+        "name": "Noah Dahl",
+        "character": "Coleman Kid #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Merrilee Dale",
+        "character": "Mom #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Daniels",
+        "character": "Mailman Assassin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lLeDXioEMTLDY1PBRpRYcxEdOvS.jpg"
+      },
+      {
+        "name": "Patrika Darbo",
+        "character": "50's Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ywMqefWagC1bvwMd2X1vLXP6y66.jpg"
+      },
+      {
+        "name": "Jennifer DeMille",
+        "character": "Breakfast Diner Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qan1LTQJ8DAk1sWnx2z8ZiXsL1O.jpg"
+      },
+      {
+        "name": "Tyce Diorio",
+        "character": "Salsa Dancer #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f28DHt2BMy7Q3xYX3r7xsJVF219.jpg"
+      },
+      {
+        "name": "Patricia Donaldson",
+        "character": "Louise",
+        "profile_path": ""
+      },
+      {
+        "name": "Sabi Dorr",
+        "character": "Bodyguard #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7skiSqrVBhXglj03bRaaZ9yJoHy.jpg"
+      },
+      {
+        "name": "Greg Ellis",
+        "character": "Mickey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8PlVCevV5c2QIdZ1S6bX0ttaRUC.jpg"
+      },
+      {
+        "name": "David Escobedo",
+        "character": "Americana Hotel Bartender",
+        "profile_path": ""
+      },
+      {
+        "name": "Kaela Freeman",
+        "character": "Neighborhood Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Megan Gallagher",
+        "character": "40's Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c6s5tcndCytgP7kaJelisYFWPES.jpg"
+      },
+      {
+        "name": "Amy Hathaway",
+        "character": "Beauty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oYSmd7REmzYVRZjU0sICEQrcRfZ.jpg"
+      },
+      {
+        "name": "Jessica Hedden",
+        "character": "Hopskotch Girl #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Kathrine Herzer",
+        "character": "Hopscotch Girl #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Nigel Hudson",
+        "character": "Boxing Sparring Partner",
+        "profile_path": ""
+      },
+      {
+        "name": "Ravil Isyanov",
+        "character": "Curtis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kJkFC0qq7OeXgFTpBffWaSaeuOZ.jpg"
+      },
+      {
+        "name": "Stephanie Ittleson",
+        "character": "Party Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ikiFI3jKvkUhq6RsB7gKR2RzGNg.jpg"
+      },
+      {
+        "name": "Mark Ivanir",
+        "character": "Patron - Dive Bar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/biVPUjq1BbX3YWpvXv5OZjEuJI0.jpg"
+      },
+      {
+        "name": "Benton Jennings",
+        "character": "Maitre'D",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nWoSDRjewvXz6bWNn1aTRVbTgfD.jpg"
+      },
+      {
+        "name": "Simon Kinberg",
+        "character": "Investment Banker #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3xvTvkIaKfU276cpajiAoGjvaaO.jpg"
+      },
+      {
+        "name": "Peter Lavin",
+        "character": "Leroy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3skCGXBHD15HohVqhMmqsHcHg1P.jpg"
+      },
+      {
+        "name": "Deren Tadlock",
+        "character": "Doorman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dNRrrkwwMW1dbqNNPi3ADYFOZ9Z.jpg"
+      },
+      {
+        "name": "Sean Mahon",
+        "character": "Lucky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hSbeJEzFHH9wtuQ0FUBNksuveZt.jpg"
+      },
+      {
+        "name": "Kevin Makely",
+        "character": "Johnson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7eRajJqbWV46DHk1wYxuKCmMKNY.jpg"
+      },
+      {
+        "name": "Mike McCaul",
+        "character": "Bill the Neighbor",
+        "profile_path": ""
+      },
+      {
+        "name": "Derek Medina",
+        "character": "Policia #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Will Moore",
+        "character": "House Assassin #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Joel Munoz",
+        "character": "Policia #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Newsom",
+        "character": "Guard #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Richie Ornelas",
+        "character": "Policia #4",
+        "profile_path": ""
+      },
+      {
+        "name": "Jordan Osher",
+        "character": "House Assassin #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Edward Padilla",
+        "character": "Colombian Military Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aOLSHc3MPhyWHCq6E3diCQX0Q0q.jpg"
+      },
+      {
+        "name": "Eugene C. Palmer",
+        "character": "Judge",
+        "profile_path": ""
+      },
+      {
+        "name": "Luis Racer",
+        "character": "Policia #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Liz Ramos",
+        "character": "Salsa Dancer #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kis8YjH8mUzLbUiDALP4x3u2xH3.jpg"
+      },
+      {
+        "name": "Leonard Robinson",
+        "character": "Watchguard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cBhcAtNskbpwtP0tdwoE8ZLNtay.jpg"
+      },
+      {
+        "name": "Felix A. Ruiz",
+        "character": "Vocalist",
+        "profile_path": ""
+      },
+      {
+        "name": "Sam Sabbah",
+        "character": "Bodyguard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2JC9jcNXKDgi1nquOInvIEL4aCU.jpg"
+      },
+      {
+        "name": "Kim Schioldan",
+        "character": "Bartender - Dive Bar",
+        "profile_path": ""
+      },
+      {
+        "name": "Ty Sharp",
+        "character": "Towncar Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Jimmy Shubert",
+        "character": "Ancient Barker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/35LYFAfjXYRr105phoXTHaPrirK.jpg"
+      },
+      {
+        "name": "Abigail Rose Solomon",
+        "character": "Mom #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jYCH11zVCrwwE2dZRg3TwZySm5.jpg"
+      },
+      {
+        "name": "Hannah Von Kanel",
+        "character": "Hopskotch Girl #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Ali Marsh",
+        "character": "Mom #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Kim H. Winther",
+        "character": "Mr. Smith's Father",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Winther",
+        "character": "Investment Banker #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael-John Wolfe",
+        "character": "Bartender - Coleman House",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tUGr4FYqrZJFn8HnTPqYG80KIGt.jpg"
+      },
+      {
+        "name": "Jeff Yagher",
+        "character": "40's Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qb9JA6j1UZgZqlfrZJvHqM3bafq.jpg"
+      },
+      {
+        "name": "Bryan Anthony",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aQAj8KmlkT3ALvci3VNihmq7XSE.jpg"
+      },
+      {
+        "name": "Douglas Caldwell",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "R.J. Durell",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yJL30KeGUZ1RaFsh1kHaFjOxYSV.jpg"
+      },
+      {
+        "name": "Melissa Hurley",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h9e7YHFcsREWl126DcY4lNrGIxx.jpg"
+      },
+      {
+        "name": "Jacqui Landrum",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Carol Mack",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i3ylBSXr7wRBrEeZs1f0DT25869.jpg"
+      },
+      {
+        "name": "Michael Morris",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Gloria Rodriguez",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Linda Kathleen Taylor",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Anne Vardanian",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ara Vardanian",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Luis Vasquez",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "John W. Woodruff",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Angela Bassett",
+        "character": "Mr. Smith's Boss (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+      },
+      {
+        "name": "William Fichtner",
+        "character": "Dr. Wexler - Marriage Counselor (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg"
+      },
+      {
+        "name": "David Block",
+        "character": "Security Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Branch",
+        "character": "Swat Team Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Julius Callahan",
+        "character": "Sebastian James (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ggEnMBpO6K77TgGiXYVQA32ksQ6.jpg"
+      },
+      {
+        "name": "Shilo Frontierro",
+        "character": "Assassin (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Gabriel",
+        "character": "Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Longo",
+        "character": "Big Bad Bathroom Dude (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xqJ8K6jOacXhP2PUELuPIrLtRLX.jpg"
+      },
+      {
+        "name": "Janelle Marra",
+        "character": "Woman #3 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ylhZA09zt51cqORxwx7a1rmihu5.jpg"
+      },
+      {
+        "name": "Heather Petrone",
+        "character": "BB Gun Shooter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/trMf9TLabLWiZi8OhqXraDB24mp.jpg"
+      },
+      {
+        "name": "Bill Viney",
+        "character": "Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Hawk Younkins",
+        "character": "Swat Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt McColm",
+        "character": "Assassin (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9SlVkQdWGURamicfGScV8BJNs2M.jpg"
+      },
+      {
+        "name": "Mo Gallini",
+        "character": "Algerian Assassin (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xVTM1av93WPq5it8lDK0wYNH9f8.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Doug Liman",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kIT7NE6MDaiIrjPEbObXk4COFVa.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "assassin",
+    "bomb",
+    "hitman",
+    "marriage crisis",
+    "gun",
+    "secret identity",
+    "married couple",
+    "assault rifle",
+    "marriage",
+    "decoy",
+    "secret agent",
+    "dysfunctional marriage",
+    "gunfight",
+    "bullet wound"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A bored married couple is surprised to learn that they are both assassins hired by competing agencies to kill each other.",
+    "John and Jane Smith are a normal married couple, living a normal life in a normal suburb, working normal jobs...well, if you can call secretly being assassins \"normal\". But neither Jane nor John knows about their spouse's secret, until they are surprised to find each other as targets! But on their quest to kill each other, they learn a lot more about each other than they ever did in five (or six) years of marriage.—Anonymous",
+    "John and Jane Smith are a normal married couple, living a normal life in a normal suburb and working normal jobs, too. However, in reality, John and Jane are both skilled assassins working for different firms, both the best in their field, each concealing their true profession from the other. When both are assigned to kill a man named Benjamin Danz, nicknamed \"The Tank\", they encounter each other on the job and discover the truth. Both employers task one Smith to eliminate the other, and each must choose between their personal and professional lives.—Anthony Pereyra {hypersonic91@yahoo.com}",
+    "A married couple are getting bored with their quiet domestic life. What they don't know, however, is that they're both assassins, secretly hopping the world and killing for hire. But their separate lives are about to collide when they find out their next target is each other.—Austin4577@aol.com",
+    "John and Jane Smith are a married couple, both living unexciting lives and attending marriage therapy, as their passion has cooled since they got married. But what they don't know about each other is that they are both professional assassins working for two rival agencies. John's latest assignment is to eliminate Benjaiman \"Tank\" Danz, but it all becomes complicated when Jane is also assigned to eliminate the same target. Learning that they are both assassins and failing to eliminate Danz, John and Jane's separate employers decide that they try to take each other out (John kill Jane, Jane kill John). Engaged in a deadly game, John and Jane try to take each other out and learns more about each other as they try to finish the job and eliminate Danz.—Daniel Williamson"
+  ],
+  "synopsis": "The film opens with John (Brad Pitt) and Jane Smith (Angelina Jolie) answering questions during marriage counseling. The couple has been married for \"five or six\" years, but their marriage is suffering to the point that they cannot remember the last time they had sex. They tell the story of their first meeting in Bogotá, Colombia, where they met while both were secretly on the run from Colombian authorities. They quickly fell in love and were married. John later states that Jane \"looked like Christmas morning\" to him on the day they met.In reality, John and Jane are both skilled assassins working for different firms, both among the best in their field, but both with very different methods of assassination, with Jane working out thorough plans and John taking a less analytical approach. Each is concealing their true profession from their spouse. Under these cover stories, John and Jane balance their apparently mundane marriage which both of them find after a few years to be growing dull and suffocating with their secretive work. When both are assigned to kill Benjamin \"The Tank\" Danz (Adam Brody), they encounter each other on the job and botch the hit. Believing each had been sent to stop the other from completing their mission, they seek to discover and eliminate the other.After a few \"mild\" attempts on each other's lives, fueled by a mutual sense of betrayal, the marital spat culminates in a high-octane fight in the Smith house. After a long, evenly-matched fight, with their house shot to shambles, they wind up with guns in each other's faces. John balks, and lays his gun down; Jane finds she cannot shoot her spouse either, and both succumb to their love instead. Mr. and Mrs. Smith reunite and rediscover each other.The newly-rekindled Smith partnership is quickly threatened by their employers, who have now decided to eliminate the couple. John's best friend and coworker, Eddie (Vince Vaughn), turns down a bounty of $400,000 for each Smith, but John and Jane find themselves under fire from an army of assassins. Fending off an attack which blows up their house, the Smiths steal their neighbor's minivan and successfully destroy three pursuing armored cars of attackers, all while bickering over their fighting styles and newly-discovered personal secrets.After meeting with Eddie, the Smiths decide to fight together to preserve their marriage. They kidnap Danz from his high-security prison in order to give their employers something they want more than the Smiths. Danz reveals that he was merely bait, hired jointly by their employers after it was discovered that the Smiths were married, in the hopes of having one Smith kill the other. Danz also wears a cameo Fight Club t-shirt, referencing to Brad Pitt's previous movie of the same name.John and Jane forgo their separate contingency plans and make their stand together. In the final fight scene of the film, the Smiths now working smoothly together as a team defeat an extended attack by a large number of armed forces during a long shoot-out inside a department store.The film ends with the couple meeting the marriage counselor again, where the Smiths state how much their marriage has thrived and how happy they really are.",
+  "imdb_score": 6.5
+}

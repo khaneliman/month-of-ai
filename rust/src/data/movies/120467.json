@@ -1,0 +1,561 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/xHDynIimfsgj0ZOs0j5ma8v1vmM.jpg",
+  "id": 120467,
+  "title": "The Grand Budapest Hotel",
+  "poster_path": "https://image.tmdb.org/t/p/w500/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+  "release_date": "2014-02-26",
+  "vote_average": 8.051,
+  "vote_count": 14129,
+  "popularity": 45.36,
+  "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+  "imdb_id": "tt2278388",
+  "budget": 30000000,
+  "homepage": "",
+  "revenue": 174600318,
+  "runtime": 100,
+  "tagline": "A murder case of Madam D. with enormous wealth and the most outrageous events surrounding her sudden death!",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    "Fox Searchlight Pictures",
+    "Scott Rudin Productions",
+    "Studio Babelsberg",
+    "Indian Paintbrush",
+    "TSG Entertainment",
+    "American Empirical Pictures"
+  ],
+  "production_countries": [
+    "DE",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Ralph Fiennes",
+        "character": "Monsieur Gustave H.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pCnVXH1Uo2ODoOit4UXni8OD9VB.jpg"
+      },
+      {
+        "name": "F. Murray Abraham",
+        "character": "Old Zero Moustafa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg"
+      },
+      {
+        "name": "Tony Revolori",
+        "character": "Zero Moustafa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
+      },
+      {
+        "name": "Mathieu Amalric",
+        "character": "Serge X.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fMhfoTbjlXQy2Iojp7oYx49hLQl.jpg"
+      },
+      {
+        "name": "Adrien Brody",
+        "character": "Dmitri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1dBItgLFBNGEXnI48VvnnN2vFaX.jpg"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "J.G. Jopling",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+      },
+      {
+        "name": "Jeff Goldblum",
+        "character": "Deputy Vilmos Kovacs",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g3yaQSRPg9Rk6IvbIizoowmXKHJ.jpg"
+      },
+      {
+        "name": "Edward Norton",
+        "character": "Albert Henckels",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5XBzD5WuTyVQZeS4VI25z2moMeY.jpg"
+      },
+      {
+        "name": "Harvey Keitel",
+        "character": "Ludwig",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+      },
+      {
+        "name": "Jude Law",
+        "character": "Young Author",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pj75cHQ3oLSFPJ0IyB6Bkg6ytHu.jpg"
+      },
+      {
+        "name": "Bill Murray",
+        "character": "Monsieur Ivan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+      },
+      {
+        "name": "Saoirse Ronan",
+        "character": "Agatha",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4plcgNpHArZUTiYqgpQdGw4PZdT.jpg"
+      },
+      {
+        "name": "Jason Schwartzman",
+        "character": "Monsieur Jean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
+      },
+      {
+        "name": "Léa Seydoux",
+        "character": "Clotilde",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tUfoM95x70Qsb1ElClPSpSrZQ2v.jpg"
+      },
+      {
+        "name": "Tilda Swinton",
+        "character": "Madame D.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gWbX3a7V2MgRMRzekfITNcb27xV.jpg"
+      },
+      {
+        "name": "Tom Wilkinson",
+        "character": "Author",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d5yLk0PK8q7EKR3E3G2txO758IW.jpg"
+      },
+      {
+        "name": "Owen Wilson",
+        "character": "Monsieur Chuck",
+        "profile_path": "https://image.tmdb.org/t/p/w185/op8sGD20k3EQZLR92XtaHoIbW0o.jpg"
+      },
+      {
+        "name": "Florian Lukas",
+        "character": "Pinky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cZ8ONguycVXYfZGLlAgrhLrjVWg.jpg"
+      },
+      {
+        "name": "Bob Balaban",
+        "character": "Monsieur Martin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tLUlpF9EDxxRh6nM8AZ5BsPKc2B.jpg"
+      },
+      {
+        "name": "Fisher Stevens",
+        "character": "Monsieur Robin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vfyZMT3t3mGTloYGrC7T3QhGkwp.jpg"
+      },
+      {
+        "name": "Wallace Wolodarsky",
+        "character": "Monsieur Georges",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a6npTg5wUQIHkyH17m5FPc9hJPV.jpg"
+      },
+      {
+        "name": "Waris Ahluwalia",
+        "character": "Monsieur Dino",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3vZYvthY4xqkr5MroOmZn0YwIdA.jpg"
+      },
+      {
+        "name": "Uwe Holoubek",
+        "character": "Second Waiter (1968)",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry Pine",
+        "character": "Mr. Mosher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wJRarkKBRVxDzKIB5O22tLd3wAT.jpg"
+      },
+      {
+        "name": "Karl Markovics",
+        "character": "Wolf",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gQrQLzFze9rPz40kkr1RWuqLAJN.jpg"
+      },
+      {
+        "name": "Volker Michalowski",
+        "character": "Günther",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v6Q6U2Y74fPnJspnIymzI6EgeIq.jpg"
+      },
+      {
+        "name": "Daniel Steiner",
+        "character": "Anatole",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lHGDQVXUCzmY1zwzwM9Pw5ahfpn.jpg"
+      },
+      {
+        "name": "Hendrik von Bültzingslöwen",
+        "character": "Ernst",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eedYttz3kyZBjanPU4JQLGqJprJ.jpg"
+      },
+      {
+        "name": "Lisa Kreuzer",
+        "character": "Grande Dame",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iDlFoZkpOL856wiEDlJT3ksfzP.jpg"
+      },
+      {
+        "name": "Rainer Reiners",
+        "character": "Herr Mendl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n2JUmlVd9EJq9G8VCzTNTn5JEE0.jpg"
+      },
+      {
+        "name": "Sabine Urig",
+        "character": "Laetizia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7KXxFB95XVl9FlqrOf9FNu7nY1H.jpg"
+      },
+      {
+        "name": "Matthias Matschke",
+        "character": "Prison Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3TqSk6Wx2baqIqRbqT8gaHoPAGk.jpg"
+      },
+      {
+        "name": "Philipp Sonntag",
+        "character": "Monk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8786YdKIUUHwkXFOuqDCvYG8qZu.jpg"
+      },
+      {
+        "name": "Hans Martin Stier",
+        "character": "Monk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ajbFzrVPBeyzEb0kKwlVS6LdSXj.jpg"
+      },
+      {
+        "name": "Giselda Volodi",
+        "character": "Serge's Sister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g3L1QiOln7NOOJcDuLNgDum23x9.jpg"
+      },
+      {
+        "name": "Neal Huff",
+        "character": "Lieutenant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9AZJ2b5QvyTYb8gLPXDfVbU7YYD.jpg"
+      },
+      {
+        "name": "Steffen Scheumann",
+        "character": "Head Waiter (1968)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5UpraIaxarSwQX2SVVVe1G9mEea.jpg"
+      },
+      {
+        "name": "Milton Welsh",
+        "character": "Franz Müller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6t0LvgHgnUtnBHVOZEDt20YRbQf.jpg"
+      },
+      {
+        "name": "Piet Paes",
+        "character": "Taxi Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Michaela Caspar",
+        "character": "Marguerite",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r6hhOreo8aermJiTQjUvwwl2nKb.jpg"
+      },
+      {
+        "name": "Heike Hanold-Lynch",
+        "character": "Carolina",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ejqUfDN5oIfOGEWWWotGz52Kxli.jpg"
+      },
+      {
+        "name": "Roy Macready",
+        "character": "Old Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Carl Sprague",
+        "character": "Distant Relation",
+        "profile_path": ""
+      },
+      {
+        "name": "Golo Euler",
+        "character": "Lutz Police Militia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oiYKyyQKwn3ZOebM7cQMYgTQtbP.jpg"
+      },
+      {
+        "name": "Roman Berger",
+        "character": "Parcel Inspector",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Benthin",
+        "character": "Snitch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/krKI3EiVQXZESRhlyrHBQKGuJGi.jpg"
+      },
+      {
+        "name": "Lucas Hedges",
+        "character": "Pump Attendant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8WP1uXUwm6Z1vzrMaIiKj89M6kX.jpg"
+      },
+      {
+        "name": "Wolfgang Ceczor",
+        "character": "Monk",
+        "profile_path": ""
+      },
+      {
+        "name": "Georg Tryphon",
+        "character": "Monk",
+        "profile_path": ""
+      },
+      {
+        "name": "Gabriel Rush",
+        "character": "Otto",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ywELQdoOhahLGszeKAiGWybjcy2.jpg"
+      },
+      {
+        "name": "Hannes Wegener",
+        "character": "Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nZzHmYSMXb4yVkv0NPfwC8mXSwh.jpg"
+      },
+      {
+        "name": "Gerald Sullivan",
+        "character": "Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "Ben Howard",
+        "character": "Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1SlABb5wF8iah78E4T8iB0tRFU8.jpg"
+      },
+      {
+        "name": "Marko Dyrlich",
+        "character": "Zig-Zag",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tGdr5ZyuZVsPDHgkfWAgDT9hHPS.jpg"
+      },
+      {
+        "name": "Jella Niemann",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcel Mazur",
+        "character": "Author's Grandson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lb3B42nNg9YYEtOs8mVXo1xbKfp.jpg"
+      },
+      {
+        "name": "Robert Bienas",
+        "character": "Alpine Hiker",
+        "profile_path": ""
+      },
+      {
+        "name": "Oliver Claridge",
+        "character": "Composer",
+        "profile_path": ""
+      },
+      {
+        "name": "Bernhard Kremser",
+        "character": "Businessman",
+        "profile_path": ""
+      },
+      {
+        "name": "Kunichi Nomura",
+        "character": "Actor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tcKdM9q1yWhNwZVUy59LFs2jaXM.jpg"
+      },
+      {
+        "name": "Sister Anna Rademacher",
+        "character": "Nun",
+        "profile_path": ""
+      },
+      {
+        "name": "Heinz-Werner Jeschkowski",
+        "character": "Bather",
+        "profile_path": ""
+      },
+      {
+        "name": "Sabine Euler",
+        "character": "Schoolteacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Renate Klein",
+        "character": "Widow",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Schlase",
+        "character": "Igor",
+        "profile_path": ""
+      },
+      {
+        "name": "Darin Damjanow",
+        "character": "Chauffeur",
+        "profile_path": ""
+      },
+      {
+        "name": "Dar Ronge",
+        "character": "Crippled Shoeshine Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Robin Hurlstone",
+        "character": "Herr Schneider",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3d07nHOA2Z9gAk1fRgdaPNYXVD3.jpg"
+      },
+      {
+        "name": "Jutta Westphal",
+        "character": "Frau Liebling",
+        "profile_path": ""
+      },
+      {
+        "name": "Gisela Bech",
+        "character": "Grande Dame",
+        "profile_path": ""
+      },
+      {
+        "name": "Birgit Müller",
+        "character": "Grande Dame",
+        "profile_path": ""
+      },
+      {
+        "name": "Ursula Kuhnt",
+        "character": "Grande Dame",
+        "profile_path": ""
+      },
+      {
+        "name": "Monika Krüger",
+        "character": "Grande Dame",
+        "profile_path": ""
+      },
+      {
+        "name": "Wolfram Nielacny",
+        "character": "Herr Becker",
+        "profile_path": ""
+      },
+      {
+        "name": "John Peet",
+        "character": "Young Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Jürgen Schwämmle",
+        "character": "Lutz Police Militia",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Jacob",
+        "character": "Giant Convict",
+        "profile_path": ""
+      },
+      {
+        "name": "Lennart Meyer",
+        "character": "Lobby Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Alfred Hänel",
+        "character": "Lobby Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Manpreet Gerlach",
+        "character": "Lobby Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "David Adamik",
+        "character": "Lobby Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Moritz Hepper",
+        "character": "Lobby Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "David Cioffi",
+        "character": "Cook",
+        "profile_path": ""
+      },
+      {
+        "name": "Oliver Hazell",
+        "character": "Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "Bohumil Váchal",
+        "character": "Judge",
+        "profile_path": ""
+      },
+      {
+        "name": "Ed Munro",
+        "character": "'Boy with Apple' (model)",
+        "profile_path": ""
+      },
+      {
+        "name": "Francesco Zippel",
+        "character": "Footman (1932)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jf5q7LEwYuXdMzNZTWfliBsUs6P.jpg"
+      },
+      {
+        "name": "Enrico Hoffmann",
+        "character": "Footman (1932)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marie Goyette",
+        "character": "Housekeeper (1932)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeno Orosz",
+        "character": "Doorman (1932)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gyula Lukács",
+        "character": "Doorman (1932)",
+        "profile_path": ""
+      },
+      {
+        "name": "Georg Rittmannsperger",
+        "character": "Front Desk (1932)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dirk Bossmann",
+        "character": "Front Desk (1932)",
+        "profile_path": ""
+      },
+      {
+        "name": "Arwin Lobedann",
+        "character": "Front Desk (1932)",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthias Holfert",
+        "character": "Chef (1932)",
+        "profile_path": ""
+      },
+      {
+        "name": "Reinhold Hegelow",
+        "character": "Head Waiter (1932)",
+        "profile_path": ""
+      },
+      {
+        "name": "Steffen Nixdorf",
+        "character": "Second Waiter (1932)",
+        "profile_path": ""
+      },
+      {
+        "name": "Manfred Lindner",
+        "character": "Front Desk (1968)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Wes Anderson",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5z2WroP0CgQ5vI17M0hzi8o5NAn.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "hotel",
+    "painting",
+    "wartime",
+    "eastern europe",
+    "author",
+    "gunfight",
+    "theft",
+    "bellboy",
+    "mentor protégé relationship",
+    "european",
+    "hotel lobby",
+    "renaissance painting",
+    "1960s",
+    "1930s"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+    "This movie recounts the adventures of M. Gustave, a legendary concierge at a famous European hotel between the wars, and Zero Moustafa, the lobby boy who becomes his most trusted friend. The story involves the theft and recovery of a priceless Renaissance painting and the battle for an enormous family fortune - all against the backdrop of a suddenly and dramatically changing continent.—Fox Searchlight Pictures",
+    "A teenage girl visits the monument of the writer who penned the book, \"The Grand Budapest Hotel\". In 1968, that author was inspired to write the book when he visited that hotel, located in the European mountainous country formerly known as Zubrowka. Once a luxurious hotel, it, in 1968, has fallen on hard times. The author meets the then current owner, Mr. Zero Moustafa, who recounts the story of how he became the hotel's owner and why he holds onto it and keeps it open despite it obviously making him no money. Zero's story begins in 1932, when the hotel was in its golden era. Zero was the novice immigrant lobby boy, who, like all the other hotel staff, was under the guidance of M. Gustave, the devoted concierge. Gustave aimed to please, he giving the guests whatever they wanted, especially the wealthy blonde women. The story largely revolves around one of those women, the wealthy Madame Céline Villeneuve Desgoffe-und-Taxis - better known as Madame D. - her opportunistic son Dmitri, the bequeathing of a valuable painting called \"Boy with Apple\" to Gustave, the mysterious circumstances surrounding her death which is initially pinned on Gustave, and the attempts of Zero, his girlfriend - a baker's assistant named Agatha - and others to clear Gustave's name while Dmitri does whatever he needs to get what he believes is rightfully his, namely the painting.—Huggo",
+    "In the far reaches of Eastern Europe in the former Republic of Zubrowka, there once was the Grand Budapest hotel. A writer remembers a stay at the hotel during the off season many years ago and recalls the tales he heard of the hotel's past from the elderly owner, Mr. Zero Moustafa. He tells the young writer about how he came to acquire the hotel and of the original concierge of the Grand Budapest, M. Gustave. Young Zero was a lobby boy at the time and accompanies Gustave to the reading of a will after one of their regular guests dies. She leaves Gustave a valuable painting, but when the woman's son challenges the will, Gustave and Moustafa steal the painting setting off a series of events that will lead to Moustafa's present circumstance.—garykmcd",
+    "In the 1930s, The Grand Budapest Hotel is a popular European ski resort, presided over by concierge M. Gustave. Zero Moustafa, a junior lobby boy, becomes Gustave's friend and protégé. Gustave prides himself on providing first-class service to the hotel's guests, including satisfying the needs of the many elderly women who stay there. When one of them dies mysteriously, Gustave finds himself the recipient of a priceless painting and the chief suspect in her murder.—Jwelch5742"
+  ],
+  "synopsis": "In the present, a teenage girl approaches a monument to a writer in a cemetery. In her arms is a memoir penned by a character known only as \"The Author\". She begins reading a chapter about a trip he made to the Grand Budapest Hotel in 1968.\nLocated in the fictional Republic of Zubrowka, a European alpine state ravaged by war and poverty, The Author discovers that the remote, mountainside hotel has fallen on hard times. Many of its lustrous facilities are now in a poor state of repair, and its guests are few. The Author encounters the hotel's elderly owner, Zero Moustafa (Tony Revolori), one afternoon, and they agree to meet later that evening. Over dinner in the hotel's enormous dining room, Zero tells him the tale of how he took ownership of the hotel and why he is unwilling to close it down.The owner's story begins in 1932, during the hotel's glory days, when he worked as a lobby boy. Zubrowka is on the verge of war, but this is of little concern to Gustave (Ralph Fiennes), the Grand Budapest's devoted concierge. When he is not attending to the needs of the hotel's wealthy clientele or managing its staff, Gustave courts a series of aging women who flock to the hotel to enjoy his \"exceptional service\". One of the ladies is Madame Céline Villeneuve \"Madame D\" Desgoffe Und Taxis, and Gustave spends the night with her prior to her departure.One month later, he is informed that Madame D has died under mysterious circumstances. Taking Zero along, he races to her wake and the reading of the will, where he learns that she bequeathed him Boy with Apple, a very valuable painting, in her will. This enrages her family, all of whom hoped to inherit it. Her son, Dmitri Desgoffe Und Taxis (Adrien Brody), lashes out at Gustave. With the help of Zero, Gustave takes the painting and returns to the Grand Budapest, securing the painting in the hotel's safe. During the journey, Gustave makes a pact with Zero - in return for the latter's help, he makes Zero his heir. Shortly thereafter, Gustave is arrested and imprisoned for the murder of Madame D after forced testimony by Serge X, Madame D's butler, which basically says that Serge saw Gustave at the night of the crime near Madame X's chambers. Serge is a good friend of Gustave & he is unwilling to believe the story. Gustave has an alibi, in another rich old woman, but cant use her to prove his innocence as she is married to someone presently.Zero aids Gustave in escaping from Zubrowka's prison by sending a series of stone-working tools concealed inside cakes made by Zero's fiance Agatha. Along with a group of hardened convicts, Gustave digs his way out of his cell. Gustave teams up with Zero to prove his innocence. After Gustave's escape, Dmitri realizes that the painting has been stolen & asks Jopling to trace them down.\nTheir adventure takes them to a mountaintop monastery where they meet with Serge X, the only person who can clear Gustave of the murder accusations. They are pursued by J.G. Jopling (Willem Dafoe), a cold-blooded assassin working for Dmitri, who kills Serge. Jopling also killed the attorney executing Madame X's will as he suspected a crucial document was missing which could alter the allocation of the entire estate and not just the painting (boy with apple). Dmitri was angry with the attorney and got Jopling to silence him forever. Zero and Gustave steal a sled and chase Jopling as he flees the monastery on skis. During a face-off at the edge of a cliff, Zero pushes the assassin to his death and rescues his mentor.Back at the Grand Budapest, the outbreak of war is imminent and the military have commandeered the hotel and are in the process of converting it into a barracks. A heartbroken Gustave vows to never again pass the threshold. They are joined by Agatha, who agrees to go inside and retrieve the painting but is discovered by Dmitri. A chase and a chaotic gunfight ensue before Gustave's innocence is finally proved by discovery of the copy of Madame D's second will which she gave to Serge and he subsequently hid in the back of the painting. This will was to take effect if she was murdered. The movie does not make it clear who actually killed Madame D (although there is, earlier in the film, a suggestive shot of a bottle labeled \"strychnine\" on Jopling's desk) or exactly how Gustave is proved innocent. The will also reveals that she was the mysterious owner of the Grand Budapest. She leaves much of her fortune, the hotel, and the painting to Gustave, making him fabulously wealthy in the process. He becomes one of the hotel's regular guests.During a train journey across the border, enemy soldiers inspect Gustave and Zero's papers. Narrating the story, Zero describes Gustave being taken out and shot after defending Zero, as he did on the initial train ride in the beginning of the movie. Agatha succumbs to \"the Prussian grippe\" and dies two years later, as does her infant son. Zero inherits the fortune Gustave leaves behind and vows to continue his legacy at the Grand Budapest, but a Communist takeover of Zubrowka and the ravages of time slowly begin to take their toll on both the building and its owner.An aged and devastated Zero confesses to the Author that he cannot bring himself to close the hotel because it is his last link to the best years of his life. The Author later departs for South America and never returns to the hotel.\nBack in the present, the girl continues reading in front of the statue of the author.",
+  "imdb_score": 8.1
+}

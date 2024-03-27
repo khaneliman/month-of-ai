@@ -1,0 +1,593 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/tQSoGeA53RsRvqtjOH7RjkjaHwI.jpg",
+  "id": 1422,
+  "title": "The Departed",
+  "poster_path": "https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+  "release_date": "2006-10-04",
+  "vote_average": 8.168,
+  "vote_count": 14160,
+  "popularity": 47.464,
+  "overview": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+  "imdb_id": "tt0407887",
+  "budget": 90000000,
+  "homepage": "http://thedeparted.com",
+  "revenue": 291465000,
+  "runtime": 151,
+  "tagline": "Cops or criminals. When you’re facing a loaded gun, what’s the difference?",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "Plan B Entertainment",
+    "Initial Entertainment Group",
+    "Vertigo Entertainment",
+    "Media Asia Films"
+  ],
+  "production_countries": [
+    "HK",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jack Nicholson",
+        "character": "Francis 'Frank' Costello",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg"
+      },
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "William \"Billy\" Costigan, Jr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+      },
+      {
+        "name": "Matt Damon",
+        "character": "Staff Sgt. Colin Sullivan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
+      },
+      {
+        "name": "Mark Wahlberg",
+        "character": "Staff Sgt. Sean Dignam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bTEFpaWd7A6AZVWOqKKBWzKEUe8.jpg"
+      },
+      {
+        "name": "Vera Farmiga",
+        "character": "Dr. Madolyn Madden",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+      },
+      {
+        "name": "Martin Sheen",
+        "character": "Capt. Oliver Charles Queenan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5W4OuI6evOYyPc3pUnKAEnpLtX3.jpg"
+      },
+      {
+        "name": "Ray Winstone",
+        "character": "Arnold \"Frenchy\" French",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hhKZGnu66EXC0nDYzjErMs62ETb.jpg"
+      },
+      {
+        "name": "Anthony Anderson",
+        "character": "Trooper Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/reO1OjwFdtXmiO4LMDaBj6eatzK.jpg"
+      },
+      {
+        "name": "Alec Baldwin",
+        "character": "Capt. George Ellerby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg"
+      },
+      {
+        "name": "Kevin Corrigan",
+        "character": "Cousin Sean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cAU4b3tV02YwFiikfZ0OkckBUmP.jpg"
+      },
+      {
+        "name": "James Badge Dale",
+        "character": "Barrigan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xODHrgxKPNWYATKgZWQJLNhImlZ.jpg"
+      },
+      {
+        "name": "David O'Hara",
+        "character": "Fitzy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Mqq3CqPv0d7K1SwaNfFNzcRfxX.jpg"
+      },
+      {
+        "name": "Robert Wahlberg",
+        "character": "Lazio",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yi8JZEy30rkBFJwd5WYfDj0QHpx.jpg"
+      },
+      {
+        "name": "Kristen Dalton",
+        "character": "Gwen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b6j5SfCHCvLULJeLJVTK4aleUBX.jpg"
+      },
+      {
+        "name": "Thomas B. Duffy",
+        "character": "Govenor",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Hughes",
+        "character": "Uncle Edward",
+        "profile_path": ""
+      },
+      {
+        "name": "Chance Kelly",
+        "character": "Exam Instructor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hRfBFx2E8pEGNx6GEHTBHSy3dJv.jpg"
+      },
+      {
+        "name": "Larry Mitchell",
+        "character": "Younger Priest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9jP4wAs0Pgzj51R3JCcItnX1QVO.jpg"
+      },
+      {
+        "name": "Mark Rolston",
+        "character": "Delahunt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hcrNRIptYMRXgkJ9k76BlQu6DQp.jpg"
+      },
+      {
+        "name": "J.C. MacKenzie",
+        "character": "Realtor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aAy2hzMku50aM2lUYg7yNQYdpMW.jpg"
+      },
+      {
+        "name": "Mary Klug",
+        "character": "Billy's Aunt",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert 'Toshi' Kar Yuen Chan",
+        "character": "Triad Boss",
+        "profile_path": ""
+      },
+      {
+        "name": "Peg Holzemer",
+        "character": "Mrs. Kennefick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9g7PtEDqkPSu9K9VC8pEaf73EZQ.jpg"
+      },
+      {
+        "name": "Gurdeep Singh",
+        "character": "Pakistani Proprietor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Qq7d88WPyab4zXG9qwlpy9L9iH.jpg"
+      },
+      {
+        "name": "Armen Garo",
+        "character": "Providence Gangster #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yRtRh0SwHxy7LtU82l1oqctiOAl.jpg"
+      },
+      {
+        "name": "John Cenatiempo",
+        "character": "Providence Gangster #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6cEyUFyS5Tw2LGY0HkjpMjMZDmG.jpg"
+      },
+      {
+        "name": "Brian Smyj",
+        "character": "Man Glassed in Bar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zpVyJRhBQQZ3bc2COTOtv5iUmv6.jpg"
+      },
+      {
+        "name": "William Severs",
+        "character": "Older Priest",
+        "profile_path": ""
+      },
+      {
+        "name": "Douglas Crosby",
+        "character": "Man Killed by French",
+        "profile_path": ""
+      },
+      {
+        "name": "Dorothy Lyman",
+        "character": "Woman at Bar #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fXBwBgxKyOIwha47Csx5AEAVSEe.jpg"
+      },
+      {
+        "name": "Audrie Neenan",
+        "character": "Woman at Bar #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xteimBrBfdXPjcLNiAmehwuOou6.jpg"
+      },
+      {
+        "name": "Conor Donovan",
+        "character": "Young Colin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qvrPwtXBZnaqm5IokFQAtlEVgTv.jpg"
+      },
+      {
+        "name": "Patrick Coppola",
+        "character": "Bookie Harassed by French",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5sqQGaWmUAXj1gQIS5a7lN3fj1n.jpg"
+      },
+      {
+        "name": "Mick O'Rourke",
+        "character": "Jimmy Bags",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ocIfNeYVLBZt10tc3OIpZEodvUH.jpg"
+      },
+      {
+        "name": "Nellie Sciutto",
+        "character": "Queenan's Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ncYzjwMzadea4vOZ72MXJSk7Wcm.jpg"
+      },
+      {
+        "name": "Henry Yuk",
+        "character": "Chinese Government Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vqsJWpXDeHdhlAORYzLDUnnRc9B.jpg"
+      },
+      {
+        "name": "John Rue",
+        "character": "Luncheonette Proprietor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q3VG3GR4OFZjdj8Se7JUZ79pXEy.jpg"
+      },
+      {
+        "name": "Joseph P. Reidy",
+        "character": "Priest with Young Colin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bJ8UYZeu9kKVj2MIP1sfPt0kGWZ.jpg"
+      },
+      {
+        "name": "John Farrer",
+        "character": "Priest at Billy's Funeral",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aNSWpZyyyZNQCISCLKoHqtpNKyU.jpg"
+      },
+      {
+        "name": "Billy Smith",
+        "character": "Detective #1 Tailing Queenan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uzFxV2l3ODxfknHhIAgvLf0ihH6.jpg"
+      },
+      {
+        "name": "Brian Haley",
+        "character": "Detective #2 Tailing Queenan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/KoD3GS7jOHRpJjCVJt4XM9Dh30.jpg"
+      },
+      {
+        "name": "Terry Serpico",
+        "character": "Detective #3 Tailing Queenan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5UfDA4ySgYUhle7iXqOuhzAgghn.jpg"
+      },
+      {
+        "name": "Jay Giannone",
+        "character": "Detective #4 Tailing Queenan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fMRNeyjoHNtYwSBytga8m3ReMUs.jpg"
+      },
+      {
+        "name": "David Conley",
+        "character": "Gang Member with Mr. French",
+        "profile_path": ""
+      },
+      {
+        "name": "Tracey Paleo",
+        "character": "Darlene the Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rrXfiYxrpWr8ayHM5VSsBptTXbh.jpg"
+      },
+      {
+        "name": "Jill Brown",
+        "character": "Executed Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9ij9DvPFasVe7YzvJ6Gt8FYXu2y.jpg"
+      },
+      {
+        "name": "Tom Kemp",
+        "character": "Billy Costigan, Sr. (credit only)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/naKmj05P3TM3GWNoS3DoYoD49XU.jpg"
+      },
+      {
+        "name": "Kevin P. McCarthy",
+        "character": "Detective #1 - Colin's Unit",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lA1BLiEhA3lbdxaVpa3GlgxuLNO.jpg"
+      },
+      {
+        "name": "Chris Fischer",
+        "character": "Detective #2 - Colin's Unit",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5N4tzbuLPC8KsDmAjClSXnXsOlD.jpg"
+      },
+      {
+        "name": "Joseph Riccobene",
+        "character": "Kneecapped Bankrobber",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fWKFMNkFXkuQSx7Z7y02EAPfPnN.jpg"
+      },
+      {
+        "name": "Johnny Cicco",
+        "character": "Crack Addict",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ooEiY9wZcT8tXKR1KmBtDnRqDwk.jpg"
+      },
+      {
+        "name": "Lyman Chen",
+        "character": "Translator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3aDbxJeem9JHHoSPXHIHsg8kWKJ.jpg"
+      },
+      {
+        "name": "Shay Duffin",
+        "character": "Bartender at Brasserie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A9oSkVp1v2MB2eR2ORziTi1m52b.jpg"
+      },
+      {
+        "name": "David Fischer",
+        "character": "Executed Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Emma Tillinger Koskoff",
+        "character": "Woman with Dog",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bsKUYo9DyNYj4xB10182k7CZOQD.jpg"
+      },
+      {
+        "name": "Craig 'Radioman' Castaldo",
+        "character": "Crack House Denizen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AiaqiUZSaORGmfEW5N6XlWjhlTn.jpg"
+      },
+      {
+        "name": "Francesca Scorsese",
+        "character": "Little Girl at Airport",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o7MhEoM6PLavRxHUVOiaAhlN61R.jpg"
+      },
+      {
+        "name": "Dennis Lynch",
+        "character": "Costello's Crew #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aK5ZDRQ9fZbeUORvAcCveW80S03.jpg"
+      },
+      {
+        "name": "Michael Byron",
+        "character": "Costello's Crew #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pYbzQ23TY3lLadXInOi7l790v2A.jpg"
+      },
+      {
+        "name": "Takumi Bando",
+        "character": "Triad (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Bruno Borgman",
+        "character": "Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sdtcwesWN1IF6KXgZyOUSuJ8NVM.jpg"
+      },
+      {
+        "name": "Brendan Burke",
+        "character": "Irish Thug (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/caUA0KNcjFVxq8DAfEiAWgybOF6.jpg"
+      },
+      {
+        "name": "Chris Chinn",
+        "character": "Gang Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeffrey Corazzini",
+        "character": "Crime Scene Unit (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vpFHpdt9YYoi9wVtV4kSzAUyF5g.jpg"
+      },
+      {
+        "name": "Jim Ford",
+        "character": "Cadet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nSLODHZocKl8v2EgwBp7dOLpebz.jpg"
+      },
+      {
+        "name": "Trudi Goodman",
+        "character": "Woman Office Worker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Lord",
+        "character": "Academy Pistol Coach (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack McCullough",
+        "character": "EMT (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Osmani Rodriguez",
+        "character": "Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lawrence Cameron Steele",
+        "character": "Academy Firearms Instructor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g4Lhuit9epkBYMnY9cf2KnCcuGz.jpg"
+      },
+      {
+        "name": "Conor Timmis",
+        "character": "Rugby Fan (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Oliveira",
+        "character": "Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Adam Masnyk",
+        "character": "Southie Teen / Soccer Player (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Franchi",
+        "character": "Pedestrian (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hkl0bmoxU5DmuTqCOSf7QKH28sM.jpg"
+      },
+      {
+        "name": "Paul McGillicuddy",
+        "character": "Subway Passenger (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kim Carrell",
+        "character": "MA State Police Detective",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4Tnkb2xmAl95oG2J9KTaaRs4cNV.jpg"
+      },
+      {
+        "name": "Rebecca Love",
+        "character": "Adult Film Actress (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vuW2UPh980GQSGcxxLZLdAoURwM.jpg"
+      },
+      {
+        "name": "Sarah Fearon",
+        "character": "French's Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uhrv88VXwcobI66unDZcQGC9av8.jpg"
+      },
+      {
+        "name": "Anthony Estrella",
+        "character": "Police Camera Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wcH2362v85li20bub5OM6HNRc1r.jpg"
+      },
+      {
+        "name": "Andrew Breving",
+        "character": "Police Cell Phone Tech",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Mallicoat",
+        "character": "News Anchor",
+        "profile_path": ""
+      },
+      {
+        "name": "Paula DeMers",
+        "character": "Billy's Mother",
+        "profile_path": ""
+      },
+      {
+        "name": "Amanda Lynch",
+        "character": "Carmen",
+        "profile_path": ""
+      },
+      {
+        "name": "Sallie Toussaint",
+        "character": "Woman at Opera",
+        "profile_path": ""
+      },
+      {
+        "name": "Deborah Carlson",
+        "character": "Sister Mary Theresa",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Welch",
+        "character": "Other Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "William Lee",
+        "character": "Costello's Crew #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Crafts",
+        "character": "Man in Costello's Bar",
+        "profile_path": ""
+      },
+      {
+        "name": "Paris Karounos",
+        "character": "Jimmy Pappas",
+        "profile_path": ""
+      },
+      {
+        "name": "John Polce",
+        "character": "Lynn Detective",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7uRmgNup0lwhBUzw2sGymbEIsyo.jpg"
+      },
+      {
+        "name": "Bo Cleary",
+        "character": "Drill Instructor #2 (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Chan",
+        "character": "Chinese Delivery Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Denece Ryland",
+        "character": "Woman Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fBkV6XhMBl3gLU8ZD4nEfMS6TZR.jpg"
+      },
+      {
+        "name": "Zachary Pauliks",
+        "character": "Young Billy",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel F. Risteen Jr.",
+        "character": "Crack House Cop #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Francis P. Hughes",
+        "character": "Crack House Cop #2",
+        "profile_path": ""
+      },
+      {
+        "name": "John McConnell",
+        "character": "Bookie in Costello's Bar",
+        "profile_path": ""
+      },
+      {
+        "name": "Kenneth Stoddard",
+        "character": "State Trooper #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeffrey Winter",
+        "character": "State Trooper #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Paddy Curran",
+        "character": "New Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Philip Patrick",
+        "character": "New Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Walter Y.F. Wong",
+        "character": "Waiter in Alley",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony M. Yee",
+        "character": "Waiter in Alley",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Morris",
+        "character": "Young Man at Airport",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Martin Scorsese",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "police",
+    "undercover",
+    "boston, massachusetts",
+    "gangster",
+    "irish-american",
+    "crime boss",
+    "friends",
+    "remake",
+    "mobster",
+    "organized crime",
+    "mafia",
+    "undercover cop",
+    "mole",
+    "state police",
+    "police training",
+    "realtor"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "In this crime-action tour de force, the South Boston state police force is waging war on Irish-American organized crime. Young undercover cop Billy Costigan is assigned to infiltrate the mob syndicate run by gangland chief Frank Costello. While Billy quickly gains Costello's confidence, Colin Sullivan, a hardened young criminal who has infiltrated the state police as an informer for the syndicate, is rising to a position of power in the Special Investigation Unit. Each man becomes deeply consumed by their double lives, gathering information about the plans and counter-plans of the operations they have penetrated. But when it becomes clear to both the mob and the police that there is a mole in their midst, Billy and Colin are suddenly in danger of being caught and exposed to the enemy - and each must race to uncover the identity of the other man in time to save themselves. But is either willing to turn on their friends and comrades they've made during their long stints undercover?—Anonymous",
+    "A tale of two cops, though on different sides of the law. Colin Sullivan (played by Matt Damon) is a Massachusetts State police detective. He has risen through the ranks to head up a special department. Public Enemy Number 1 is Frank Costello (Jack Nicholson), a crime network kingpin, and Sullivan's main target. However, Sullivan is a paid informant for Costello, giving him tip-offs on police raids and other useful information. Meanwhile, Billy Costigan (Leonardo DiCaprio) works for Costello. However, he is actually an undercover policeman, spying on Costello. In due course, both know that there is a rat in their organization, but don't know their identity. A deadly cat-and-mouse game ensues, with both trying to uncover the other without being discovered themselves.—grantss",
+    "Having set his sights on infiltrating the dangerous American-Irish gang of local mob boss Frank Costello, young police officer Billy Costigan puts his morals and sanity to the test. Meanwhile, as Billy gains Costello's trust, Massachusetts State Police detective Colin Sullivan becomes Costello's paid informant. As a result, both men immerse themselves in their secret double lives, trying to gather valuable information about each side's plans and operations. However, there is a mole in their midst. Now the impostors are between a rock and a hard place, trapped in a volatile situation that can easily blow their cover. Can the stealthy infiltrators survive the white-knuckle game of betrayal and save their skin?—Nick Riganas",
+    "Years ago, a powerful Irish mafia figure placed a small selection of his youngest, brightest men into the Massachusetts State Police Academy as cadets. Their purpose is to eventually rise within the prestigious ranks of the state police department, to serve as the eyes and ears of their boss. While somewhere else, a young cadet was assigned with an equally dangerous task: infiltrate the Irish syndicate headed by the man sending in his own to the Massachusetts State Police. Now, one cadet is an up-and-coming police official with a torn allegiance to his job and to the criminal mastermind that put him there. While the other cadet is the trusted number two of that man, only finding his professional duties are becoming blurred with his current state. But new clues have lead to unfortunate discoveries, when both sides realize they're being watched by the enemy.—mystic80"
+  ],
+  "synopsis": "In voiceover, Irish-American mobster Frank Costello (Jack Nicholson) explains that he doesn't want to be the product of his environment, he wants his environment to be a product of him. Grainy historical film depicts violent riots in Boston during earlier generations. Costello, proudly Irish, unapologetically racist, explains that what annoys him about African Americans is their refusal to realize that they won't be given anything. Costello's belief is you have to do whatever possible to take what you want.Costello is in a small convenience store and collects protection money from the shop owner, a man visibly unnerved by Costello. Costello warns him to have more money next time. Costello asks the shop owner's young teenage daughter behind the counter if she's got her period yet. His attitude is nonchalant and all the more threatening for it. The daughter is both affronted and compelled by the powerful Costello and answers his rhetorical question. The shop owner doesn't show any emotion.A small boy, a young Colin Sullivan (Conor Donovan), witnesses Costello's interaction with the shop owner. Costello notices him and asks him if he's the son of a man Costello knows. He tells the store owner to give the boy two full bags of groceries and then presses some coins into the boy's hand. He tells the boy to remember he can get more money from Costello when he gets older.As Sullivan comes up in age, Costello grooms him and steers him into a job as a police officer, where he can keep Costello informed. Sullivan graduates from the police academy and is immediately transferred to the Massachusetts State Police force. He is accepted into the Special Investigations Unit led by Ellerby (Alec Baldwin) which focuses on organized crime. The primary target of the unit is Costello. Sullivan (Matt Damon) is warmly welcomed onto the State Police force by Captain Queenan (Sheen) and Staff Sergeant Dignam (Wahlberg).Billy Costigan (DiCaprio), whose extended family has considerable ties to organized crime, also attends the police academy. Before he graduates, he is summoned to a meeting with Queenan and Dignam who intimidate, bully, and verbally harass him. They pressure him to disqualify himself as an officer because he's too smart to be a cop and because of his family's ties to crime. When Costigan stands up to their hazing, they change tactics: they offer him a job as a police officer on one condition: that he quit the academy, serve serious time in jail on a trumped-up assault charge, and infiltrate Costello's organization. Only Queenan and Dignam will know that Costigan is working undercover. They promise him a bonus when he completes the assignment.When Costigan gets out of prison, he contacts his cousin and tries to finance a drug deal. Costigan and his cousin meet Mr. French (Ray Winstone) at a local bar, where Costigan orders a cranberry juice. The guy on the bar stool next to him asks Costigan if he is having his period. Costigan smashes a beer mug over the man's head and is halted Mr. French. Mr. French warns Costigan that he is not allowed to beat up certain men, and he's lucky the guy at the bar is not one of them.Eating at the counter of a store like that in which Sullivan originally met Costello, Costigan confronts two Italian mobsters from Providence extorting protection money from the store owner. He beats the two men up badly, breaking his hand when he hits one of them. Costello learns of Costigan's actions and summons him to a meeting. He offers to protect Costigan from the Mafia, who, he promises, will return with reinforcements to kill Costigan. He invites Costigan into a back room where he instructs Mr. French, a senior member of Costello's crew, to check Costigan for weapons or a wire. Mr. French breaks Costigan's cast open and Costello beats Costigan's broken hand with a shoe, trying to get him to confess being a cop. Costigan withstands their beating and is accepted as a legitimate crook by Costello.Both Sullivan and Costigan gain credibility within their respective organizations. Sullivan visits a crime scene where the two Mafia men from Providence are found. Sullivan contacts Costello, who directs him to influence the investigators away from Costello.Sullivan begins dating psychiatrist Madolyn Madden (Vera Farmiga). Costigan also sees her but as a client, required under the terms of his probation. He also develops an attraction to her. During a deal to sell stolen missile guidance microchips to Chinese government agents, Sullivan warns Costello of the police operation and everyone avoids police detection by boarding boats waiting at the back of the warehouse.It becomes evident to both Sullivan and Costigan that there is a mole in each other's organization, though their identities cannot be determined. Costigan talks to Dignam and threatens to leave but Dignam tells him to come up with evidence so they can find the mole. Extremely agitated, Costigan relents. He has coffee with Madden who plans to move in with Sullivan.Costello tells Sullivan to find the \"rat\" among his crew. Sullivan asks for his crew members' social security numbers and other forms of ID so he can track them down. Costigan searches for the informant and learns from a member of Costello's crew that Costello himself is an FBI informant, explaining why federal prosecutors repeatedly fail to indict and arrest Costello. Costigan visits Queenan at home late at night and tells him that Costello is an FBI informant.Mr. French collects everyone's social security numbers and other ID. Costigan corrects Fitzgibbons's (David O'Hara) misspelling of 'citizens' on the envelope containing their information and then leaves. He visits Madden at her apartment, where she is finishing moving out. She tells him she is moving in with Sullivan. They talk and then have sex.Ellerby puts Sullivan in charge of the investigation to find the mole in the Special Investigations Unit, citing his \"immaculate record.\" Costigan follows Costello to a porn theater, where he sees Costello meet with and give a dark figure -- unknown to him, Sullivan -- the envelope containing Costello's crew members' personal information. Costigan chases Sullivan out the emergency exit of the theater and through Chinatown but neither man learns the other's identity.Sullivan tells Costello to trail Queenan to a meeting with Costigan. Costigan gets away before Costello's men throw Queenan off the roof, landing at Costigan's feet. As Costello's crew leaves, Costigan joins them, pretending he's just arrived to join them in the assassination. Delahunt (Mark Rolston) is mortally wounded. Back at their bar, Delahunt fingers Costigan as the mole but dies before he can tell anyone else.A news report reveals that Delahunt, a crew member, was an undercover cop. Consequently, Dignam is forced to step down from the police force.Using Queenan's phone, Sullivan reaches Costigan, and fails to persuade him to quit his work as a mole. Sullivan learns from Queenan's diary that Costello was an informant for the Federal Bureau of Investigation. He worries that his identity as a mole for Costello may be revealed. With Costigan's help, Costello is traced by the police to a cocaine pick-up, where a gunfight erupts between his crew and police, during which most of Costello's crew are killed. Sullivan confronts the wounded Costello, who admits he is an occasional FBI informant. Sullivan shoots him multiple times. Sullivan is applauded the next day for having killed Costello by everyone on the force.In good faith, Costigan comes to see him, seeking to get his civilian identity restored and to collect his back pay. He tells Sullivan he intends to resume his civilian life. Sullivan leaves to look up Costigan's employee record when Costigan notices the envelope from Costello on Sullivan's desk. Costigan finally realizes Sullivan is Costello's mole. Returning to his desk, Sullivan realizes that Costigan has figured out his true identity, so he erases Costigan's employee records from the police computer system.Madolyn tells Sullivan she's pregnant, but doesn't reveal who the father is. A few days later she receives a package in the mail from Costigan addressed to Sullivan. She opens it to find it contains a CD of Costello's recorded conversations with Sullivan. Sullivan walks in as she is listening and tries unsuccessfully to assuage her suspicions. He contacts Costigan, who reveals that Costello recorded every conversation he had with Sullivan. Costello left the recordings with his attorney, who has given them to Costigan. Costigan says he wants his civilian identity back or he will implicate Sullivan. They agree to meet on the roof of the same building where Queenan was killed.When they meet, Costigan catches Sullivan off-guard and handcuffs him. As Costigan had secretly arranged, Officer Brown (Anderson) appears on the roof as well. Shocked to see Sullivan in handcuffs and held at gunpoint by Costigan, Brown draws his gun on Costigan. Costigan explains his actions by revealing that Sullivan is the mole. Costigan asks Brown why Dignam did not accompany him, but Brown doesn't answer. Costigan leads Sullivan to the elevator and Brown takes the stairs to follow them.When the elevator reaches the ground floor and the doors open, Officer Barrigan (Dale) shoots Costigan in the head. When Brown arrives, Barrigan kills him too. Barrigan reveals to Sullivan that Costello had more than one mole in the police and that Costello was going to give both of them up to the FBI. When Barrigan momentarily turns, Sullivan shoots him in the head. At police headquarters, Sullivan concocts a story to protect himself, identifying Barrigan as the mole and recommends Costigan for the Medal of Merit.At Costigan's funeral, Sullivan and Madolyn stand by the grave. Sullivan attempts to talk to her, but she ignores him. As Sullivan enters his apartment, he is met by Dignam, who shoots and kills him. As the frame drifts up to the window and the gold dome of the Massachusetts State House in the background, a rat scurries along the balcony railing.",
+  "imdb_score": 8.5
+}

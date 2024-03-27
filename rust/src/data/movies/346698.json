@@ -1,0 +1,908 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/nHf61UzkfFno5X1ofIhugCPus2R.jpg",
+  "id": 346698,
+  "title": "Barbie",
+  "poster_path": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+  "release_date": "2023-07-19",
+  "vote_average": 7.132,
+  "vote_count": 7215,
+  "popularity": 316.379,
+  "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+  "imdb_id": "tt1517268",
+  "budget": 145000000,
+  "homepage": "https://www.barbie-themovie.com",
+  "revenue": 1445600000,
+  "runtime": 114,
+  "tagline": "She's everything. He's just Ken.",
+  "genres": [
+    "Comedy",
+    "Adventure",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "LuckyChap Entertainment",
+    "Heyday Films",
+    "NB/GG Pictures",
+    "Mattel",
+    "Warner Bros. Pictures"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Margot Robbie",
+        "character": "Barbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
+      },
+      {
+        "name": "Ryan Gosling",
+        "character": "Ken",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+      },
+      {
+        "name": "America Ferrera",
+        "character": "Gloria",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7F84Lh2lKpvkM3EiOvqqvlOmw93.jpg"
+      },
+      {
+        "name": "Kate McKinnon",
+        "character": "Barbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2cNetzianFcxPQbyOQnkAIkKUZE.jpg"
+      },
+      {
+        "name": "Ariana Greenblatt",
+        "character": "Sasha",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8xrCTYP8PuHixWzkiX6onJNfw8k.jpg"
+      },
+      {
+        "name": "Simu Liu",
+        "character": "Ken",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zrJjYjOYzDj7eY9oiHAoz8Yh0yk.jpg"
+      },
+      {
+        "name": "Will Ferrell",
+        "character": "Mattel CEO",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xYPM1OOLXZguj4FsgmOzTSUXaXd.jpg"
+      },
+      {
+        "name": "Michael Cera",
+        "character": "Allan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"
+      },
+      {
+        "name": "Helen Mirren",
+        "character": "Narrator (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eY26gqv9EGunId7kp32pLueXvz4.jpg"
+      },
+      {
+        "name": "Issa Rae",
+        "character": "Barbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uFjimuDgBv8kckApr19t8DykxPH.jpg"
+      },
+      {
+        "name": "Alexandra Shipp",
+        "character": "Barbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4GOxIqnQXK5iGINdFDBlIQYa519.jpg"
+      },
+      {
+        "name": "Emma Mackey",
+        "character": "Barbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9OZBcFSS3Yz0Oqr8mssbQa4suW8.jpg"
+      },
+      {
+        "name": "Emerald Fennell",
+        "character": "Midge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ytyHUsPb7Saulczm8nCJHypIWQF.jpg"
+      },
+      {
+        "name": "Rhea Perlman",
+        "character": "Ruth Handler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3kUrd75OesnsmicI15dWdswHy7T.jpg"
+      },
+      {
+        "name": "Hari Nef",
+        "character": "Barbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gbInNMRs3hL6JuFDX01cShL8fCo.jpg"
+      },
+      {
+        "name": "Kingsley Ben-Adir",
+        "character": "Ken",
+        "profile_path": "https://image.tmdb.org/t/p/w185/35EG2nZhvVF7Cf317wWpIJfQwWl.jpg"
+      },
+      {
+        "name": "Ncuti Gatwa",
+        "character": "Ken",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mr5xF5oPULqQ1kPpURFc4NpXoSq.jpg"
+      },
+      {
+        "name": "Connor Swindells",
+        "character": "Aaron Dinkins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/12mK65Y0oLnJWgTK6jeI6q8p1xE.jpg"
+      },
+      {
+        "name": "Sharon Rooney",
+        "character": "Barbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s2u8N5UkDDwpxCrtDpordyBMP8n.jpg"
+      },
+      {
+        "name": "Ritu Arya",
+        "character": "Barbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/146HQxww4Yq97VcZ3YUHrErHMsm.jpg"
+      },
+      {
+        "name": "Ana Cruz Kayne",
+        "character": "Barbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zvWAOkXkW40O4705GFaPyohS3tB.jpg"
+      },
+      {
+        "name": "Nicola Coughlan",
+        "character": "Barbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/etMRCSnSgfLjqq5NEi8tgNClHLe.jpg"
+      },
+      {
+        "name": "Dua Lipa",
+        "character": "Barbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ymR0hxxzvUEpQWzBYyMEIzfTala.jpg"
+      },
+      {
+        "name": "John Cena",
+        "character": "Ken",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+      },
+      {
+        "name": "Scott Evans",
+        "character": "Ken",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x4tX5FmEBInEWTo0mFZkPU6fIqq.jpg"
+      },
+      {
+        "name": "Jamie Demetriou",
+        "character": "Mattel Executive #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nRhjzDgxQ8PzdUX1MTGhSmWwm8D.jpg"
+      },
+      {
+        "name": "Andrew Leung",
+        "character": "Mattel Executive #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hXK4gUIooj3SpQ2qwEN9JLV0B7d.jpg"
+      },
+      {
+        "name": "Will Merrick",
+        "character": "Young Mattel Employee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3IVuzHqE8FIBV679o4VGrZInpsE.jpg"
+      },
+      {
+        "name": "Zheng Xi Yong",
+        "character": "An Even Younger Mattel Employee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zKJ1HxoIzin6fYtSj2QodXXdeCT.jpg"
+      },
+      {
+        "name": "Asim Chaudhry",
+        "character": "Warehouse Employee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1F0DwOpxUAEpw5iovMHZ5Y1C8n6.jpg"
+      },
+      {
+        "name": "Ray Fearon",
+        "character": "Dan at the FBI",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ou2cqhqdhfQoKVEBpIh0P3sKZti.jpg"
+      },
+      {
+        "name": "Erica Ford",
+        "character": "Skipper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h45yXrIOPeTpz8qUy6Pgu9lS9TA.jpg"
+      },
+      {
+        "name": "Hannah Khalique-Brown",
+        "character": "Growing Up Skipper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fBxo4bVDNrCe7VqAR3kM1s7UMYj.jpg"
+      },
+      {
+        "name": "Mette Towley",
+        "character": "Barbie Video Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3mBRyRqLrxxIL7hTBh52wmz07Ro.jpg"
+      },
+      {
+        "name": "Marisa Abela",
+        "character": "Teen Talk Barbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jmrlbz43kUk4H0bcRGVLdJ4RsDl.jpg"
+      },
+      {
+        "name": "Lucy Boynton",
+        "character": "Proust Barbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/znBMEv0NmBewhZWHUopmzEIYVyY.jpg"
+      },
+      {
+        "name": "Rob Brydon",
+        "character": "Sugar Daddy Ken",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xoKLZVwzaUgTUEvPX4vymXpC1fU.jpg"
+      },
+      {
+        "name": "Tom Stourton",
+        "character": "Earring Magic Ken",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cwHVHtoqqVdxiQakrwlTfjBdafE.jpg"
+      },
+      {
+        "name": "Chris Taylor",
+        "character": "Ken Emcee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lDYIiUeqVUbK3Ru5Rh10biwJn7W.jpg"
+      },
+      {
+        "name": "David Mumeni",
+        "character": "Footrub Ken",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sE7kybwXJoLpKualK5ayWG3U0GM.jpg"
+      },
+      {
+        "name": "Olivia Brody",
+        "character": "2001 Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cRq9YhRThyHwsUnJ68Lg76fBkGa.jpg"
+      },
+      {
+        "name": "Isla Ashworth",
+        "character": "2001 Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j6toGnhg5l0Cub0R1YslHA0oXSw.jpg"
+      },
+      {
+        "name": "Eire Farrell",
+        "character": "2001 Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Daisy Duczmal",
+        "character": "2001 Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fLTtnJfhOpjW24A4GLOxGZUMbtb.jpg"
+      },
+      {
+        "name": "Isabella Nightingale Mercado",
+        "character": "Girl Making Weird Barbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nyxOrfDQWWd7hpgAOaxNiTaLWU8.jpg"
+      },
+      {
+        "name": "Genvieve Toussaint",
+        "character": "Young Sasha",
+        "profile_path": ""
+      },
+      {
+        "name": "Manuela Mora",
+        "character": "Girl with Barbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b4Glsjv4jFjs7uJVZUzj5SCQuxM.jpg"
+      },
+      {
+        "name": "Aida Sexton",
+        "character": "Girl with Barbie",
+        "profile_path": ""
+      },
+      {
+        "name": "Ann Roth",
+        "character": "The Woman on the Bench",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cT4EtdqvG0Yq4EQ3LASXiwyndYi.jpg"
+      },
+      {
+        "name": "Millie-Rose Crossley",
+        "character": "Advertisement Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Anvita Nehru",
+        "character": "Advertisement Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Kayla-Mai Alvares",
+        "character": "Advertisement Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Luke Mullen",
+        "character": "Guy at the Beach",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l26Y8LORdeHMjrAr5074NtcRfGH.jpg"
+      },
+      {
+        "name": "Patrick Luwis",
+        "character": "Guy at the Beach",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cDrbpzvAjX7zd7LtbkXHFSW6CS3.jpg"
+      },
+      {
+        "name": "Mac Brandt",
+        "character": "Construction Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u2zRIywRVcih7LsZIsybmbzwmJW.jpg"
+      },
+      {
+        "name": "Paul Jurewicz",
+        "character": "Construction Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kFKDiMUwentySCuVVf7TYzUhUdA.jpg"
+      },
+      {
+        "name": "Oraldo Austin",
+        "character": "Construction Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Benjamin Arthur",
+        "character": "Construction Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bj0a8v6tASvZ4iwvXtuNLSk2zGN.jpg"
+      },
+      {
+        "name": "Carlos Jacott",
+        "character": "Policeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wBwHJ5f8OBOoHACkSEGaczvt060.jpg"
+      },
+      {
+        "name": "Adam Ray",
+        "character": "Policeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f7LUTC2sAP3dMmiiC880NGUYYgc.jpg"
+      },
+      {
+        "name": "George Basil",
+        "character": "Boutique Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/54ZFeXsWQyvsh6mEesJi0cBRM3F.jpg"
+      },
+      {
+        "name": "Ptolemy Slocum",
+        "character": "Corporate Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vCfBlwQxoVdUPzupjEFlbeK8B8z.jpg"
+      },
+      {
+        "name": "Deb Hiett",
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dD5RdZwhCQtaiJYjQvDcXd9MuFw.jpg"
+      },
+      {
+        "name": "James Leon",
+        "character": "Life-Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Oliver Vaquer",
+        "character": "Businessman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/skidWai1DWg1b0Z1x9hhN0UEGfA.jpg"
+      },
+      {
+        "name": "Tony Noto",
+        "character": "Businessman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9bSFy5E1Kg1uY8fztpjAPbFe6nF.jpg"
+      },
+      {
+        "name": "Christopher T. Wood",
+        "character": "Businessman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Wbp7be4GNHU0yivHKXWwdZSEy8.jpg"
+      },
+      {
+        "name": "Annie Mumolo",
+        "character": "Anxiety Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4U943oEvfDg8Tuyjl9biLgzijBf.jpg"
+      },
+      {
+        "name": "Elise Gallup",
+        "character": "Warning Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "McKenna Roberts",
+        "character": "Junior High Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cxDP4bZIAeBDaIadkHaeswrUu0G.jpg"
+      },
+      {
+        "name": "Brylee Hsu",
+        "character": "Junior High Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Sasha Milstein",
+        "character": "Junior High Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Lauren Holt",
+        "character": "Time Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2dPQDpa9Q3tWUOlFiGspxFAOw6l.jpg"
+      },
+      {
+        "name": "Sterling Jones",
+        "character": "Mattel Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryan Piers Williams",
+        "character": "El Esposo de Gloria",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nOhcNZ7IUbthH43XBTCmPFGhReo.jpg"
+      },
+      {
+        "name": "Jamaal Lewis",
+        "character": "Muscle Beach Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eG2S2CYigneliGEjJwK4Or6Aehd.jpg"
+      },
+      {
+        "name": "Kathryn Akin",
+        "character": "Doctor Receptionist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1CR7rYwRCHmHi0504Nn8JJ4URVJ.jpg"
+      },
+      {
+        "name": "Grace Jabbari",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ira Mandela Siobhan",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ofnxItrjoOSFs1kPOR1qAtFAZb7.jpg"
+      },
+      {
+        "name": "Lisa Spencer",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z6lcpomiNkgnb8XY5IpnJOELfP5.jpg"
+      },
+      {
+        "name": "Naomi Weijand",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cMRu8nDIRPPAVvmN2oGLSvVksPp.jpg"
+      },
+      {
+        "name": "Tom Clark",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wYQkvbOeiFsNdSjaolyX6ovJPVa.jpg"
+      },
+      {
+        "name": "Ireanne Abenoja",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Davide Albonetti",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlotte Anderson",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Anderson",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Rico Bakker",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "James Bamford",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "William John Banks",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Callum Bell",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Adam Blaug",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Mason Boyce",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Taylor Bradshaw",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Brown",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Miekaile Browne",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4uEWRxCEZjI8VD057QrIeZIvBrv.jpg"
+      },
+      {
+        "name": "Lewis Calcutt",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nikkita Chadha",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j0d1shh4OEBVjuZlFAoC1pugaps.jpg"
+      },
+      {
+        "name": "Oliver Chapman",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Megan Charles",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Callum Clack",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Coburn",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kat Collings",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Adam Crossley",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sia Dauda",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Gustave Die",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e74fdE0OARSB7TkjancvIJfo43g.jpg"
+      },
+      {
+        "name": "Grace Durkin",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Joelle Dyson",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/33IblN4fZqDufbDPC0XaatkDgl.jpg"
+      },
+      {
+        "name": "Lewis Easter",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Onyemachi Ejimofor",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Cameron Everitt",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Luke Field-Wright",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sasha Flesch",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Adam Fogarty",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Mikey French",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Anna-Kay Gayle",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlie Goddard",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Marlie Goddard",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2lijQM171XCgx4XHEHRk9OUrtXE.jpg"
+      },
+      {
+        "name": "Ellis Harman",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Yasmin Harrison",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4Eu6648a2QNsyBRJWksTflG2WHh.jpg"
+      },
+      {
+        "name": "Josh Hawkins",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "James Healy",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Hodges",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Mira Jebari",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4oE8Cuc6QMJ9NvjkGjcTqwmsIGN.jpg"
+      },
+      {
+        "name": "Beccy Jones",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Kalek",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lily Laight",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aaMk2vUeYz6C7OQunMQQKyPMx5g.jpg"
+      },
+      {
+        "name": "Maiya Leeke",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Cristian Liberti",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Prodromos Marneros",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nahum McLean",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jordan Melchor",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ramzan Miah",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vThocOzH5SpbUWnzh93z4yS5jMM.jpg"
+      },
+      {
+        "name": "Andy Monaghan",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Florivaldo Mossi",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Hannah Nazareth",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Grant Neal",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Freja Nicole",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Shaun Niles",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ella Nonini",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack William Parry",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Josie Pocock",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Barnaby Quarendon",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Redmand Rance",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Zara Richards",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Liam Riddick",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Alana Rixon",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Adam Paul Robertson",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kingdom Sibanda",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sebastian Skov",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Aaron J. Smith",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Joshua Smith",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucia-Rose Sokolowski",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Janine Somcio",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Callum Sterling",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Todd Talbot",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Tatman",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Grant Thresh",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Connor Tidman",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Wahchi Vong",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jerry Wan",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sasha Wareham",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Stan West",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Oliver Wheeler",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Josh Wild",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2HqD06Ur8hX7BHlDcQmLyrXDqaf.jpg"
+      },
+      {
+        "name": "Joe Wolstenholme",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Womersley",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ashley Young",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Sturman",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6lOUzD0WvCgdYmSEcIG0p2wUjx6.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Greta Gerwig",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3H0xzU12GTNJyQTpGysEuI9KyiQ.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "feminism",
+    "satire",
+    "patriarchy",
+    "based on toy",
+    "female protagonist",
+    "doll",
+    "fantasy world",
+    "motherhood",
+    "existentialism",
+    "woman director",
+    "mother daughter relationship",
+    "gender discrimination",
+    "barbie",
+    "secret world"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+    "Barbie the Doll lives in bliss in the matriarchal society of Barbieland feeling good about her role in the world in the various iterations of Barbies over the years showing girls that play with her that they can be whatever and whoever they want. On the flip side, Ken, who also lives in Barbieland, is unnoticed except in relation to Barbie, which is however one step above any other doll in Barbieland, such as Allan. One day, Stereotypical Barbie begins to have feelings which she's never experienced which leads to her world seemingly falling apart. Weird Barbie determines that there is something happening in the real world with someone playing with her being unhappy leading to Stereotypical Barbie reluctantly heading to the real world to rectify what is happening with that person, she first needing to find this person. Much to Barbie's chagrin, the original Ken, Beach Ken, tags along with her to the real world in he needing to survive in her presence. Beyond their mission to find this person, Barbie and Ken will find the real world unlike anything they know in Barbieland, especially in it being a male dominated society. While Barbie still has to find out what's going on that made her come to the real world, Ken is finding a newfound control which he wants to bring back to Barbieland. If he is able to do so, the role of Barbie in the real world may be forever changed. On top of everything, executives at Mattel, primarily white men, discover that a \"real life\" Barbie and Ken doll have infiltrated the real world, their mission to capture the pair, but especially Barbie, to put them/her back in their/her place, namely in a manufacturer's sealed box.—Huggo"
+  ],
+  "synopsis": "The film begins with The Narrator (Helen Mirren) explaining the societal impact of the Barbie doll on history, accompanied by a clip of the original 1959 Barbie towering over a desert landscape, while little girls playing with baby dolls begin to destroy them.Hidden from the real world is Barbieland, where the Barbies and Kens, alongside other dolls like Allan (Michael Cera) and Midge (Emerald Fennell), live. The Barbies preside over Barbieland in a matriarchal system and work high-position jobs while the Kens spend time as futile subordinates living in the Barbies' shadow. Beach Ken (Ryan Gosling) has feelings for Stereotypical Barbie (Margot Robbie) and constantly vies for her attention, but she doesn't recognize.During a dance party at her house, (Stereotypical) Barbie suddenly starts questioning her mortality. The next day, Barbie suffers an existential crisis, experiencing a series of mishaps including her perfect skin with blemishes and her arched feet going flat. The other Barbies suggest she visit Weird Barbie (Kate McKinnon), who informs her the human girl who is playing with her is unhappy. To fix her crisis, Barbie must travel to the real world, find the girl and help her.On her way to the real world, Barbie finds (Beach) Ken stowed away in her car. He convinces her to let him join and the two travel to Los Angeles, where they accidentally get arrested several times. Barbie learns to cry upon taking in how flawed the real world is, before complimenting an old woman on her beauty. Ken wonders off and discovers the patriarchy, feeling accepted for the first time. He excitedly travels back to Barbieland.At a local school, Barbie finds her human girl, Sasha (Ariana Greenblatt), and tries to help her. However, Sasha and her friends condemn Barbie for glorifying bimbo culture and unhealthy life goals, causing Barbie to run off in tears. Meanwhile, the Mattel CEO (Will Ferrell) discovers Barbie's existence and orders her deportation to Barbieland, sending his men after her.Barbie arrives at Mattel Headquarters and meets the CEO and his male subordinates. They try to send her back via a life-sized doll box, but Barbie deduces their intention and escapes in a pursuit. She is helped by Sasha and her mother Gloria (America Ferrera), who is revealed to be the incitement for Barbie's worries. Gloria started playing with Barbie during a midlife crisis, relinquishing her concerns over to Barbie. The trio, unaware they are being followed by the CEO and his colleagues, travel back to Barbieland.Arriving in Barbieland, the three find that Ken has led his fellow Kens in overthrowing the system, enslaving the Barbies as compliant girlfriends. They also plan to enshrine their new patriarchy in the Barbieland constitution the next day. Barbie tries to persuade Ken to change it back, but he refuses as he finally feels worthy for the first time. Barbie sinks into a depression before Gloria gives a speech on being a woman, inspiring Barbie to save Barbieland.Barbie, Gloria, Sasha, Weird Barbie, Allan (who is against the Kens' new rule) and other discontinued Barbies and Kens hatch a plan. Using Gloria's speech, they free the Barbies of their subjugation before turning the Kens against each other to distract them from changing the constitution. As the Kens fight on the beach, the Barbies restore Barbieland's matriarchy back into the constitution.A distraught Ken expresses disappointment in being nothing other than an accessory to Barbie, to which she encourages him to be his own person. The two apologize to each other for their mistakes. President Barbie (Issa Rae) makes a friendly deal with the Mattel CEO before agreeing to equality for the Kens and other discontinued toys. Barbie, still unsure of who she is, meets with the spirit of Ruth Handler (Rhea Perlman), Mattel's co-founder and her creator. Ruth states that Barbie doesn't have a specific purpose, as her evolution will always exceed her roots. She shows Barbie visions of motherhood, encouraging her to choose her own path.Barbie decides to live in the real world as a human, going by the name Barbara Handler. Gloria and Sasha drive her to an appointment, where Barbie proudly declares she is there to see her gynecologist.",
+  "imdb_score": 6.9
+}

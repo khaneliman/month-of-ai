@@ -1,0 +1,387 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/tz27bm8LAqK0SlX8TwXrtS9OiBB.jpg",
+  "id": 329996,
+  "title": "Dumbo",
+  "poster_path": "https://image.tmdb.org/t/p/w500/deTOAcMWuHTjOUPQphwcPFFfTQz.jpg",
+  "release_date": "2019-03-27",
+  "vote_average": 6.63,
+  "vote_count": 4156,
+  "popularity": 43.65,
+  "overview": "A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.",
+  "imdb_id": "tt3861390",
+  "budget": 170000000,
+  "homepage": "https://movies.disney.com/dumbo-2019",
+  "revenue": 353284621,
+  "runtime": 112,
+  "tagline": "Soar to new heights.",
+  "genres": [
+    "Family",
+    "Fantasy",
+    "Adventure"
+  ],
+  "production_companies": [
+    "Tim Burton Productions",
+    "Walt Disney Pictures",
+    "Infinite Detective",
+    "Secret Machine Entertainment",
+    "British Film Commission",
+    "South Australian Film Corporation"
+  ],
+  "production_countries": [
+    "AU",
+    "CA",
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Colin Farrell",
+        "character": "Holt Farrier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hnTaxy9UKnPsMEBUm94PngnRfge.jpg"
+      },
+      {
+        "name": "Michael Keaton",
+        "character": "V. A. Vandemere",
+        "profile_path": "https://image.tmdb.org/t/p/w185/baeHNv3qrVsnApuKbZXiJOhqMnw.jpg"
+      },
+      {
+        "name": "Danny DeVito",
+        "character": "Max Medici",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gNHF2SNXFFCRqwIQ2Xv6r6aV6UD.jpg"
+      },
+      {
+        "name": "Eva Green",
+        "character": "Colette Marchant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vwjOWfUeDk5fQr8jraKlR1Yfxxq.jpg"
+      },
+      {
+        "name": "Alan Arkin",
+        "character": "J. Griffin Remington",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lTMMpkqL0G3WeFNfbtdP5COZEiX.jpg"
+      },
+      {
+        "name": "Nico Parker",
+        "character": "Milly Farrier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oqUqL0nJiHIpIHXlLdJytliXXmA.jpg"
+      },
+      {
+        "name": "Finley Hobbins",
+        "character": "Joe Farrier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Ta2SggDtsw3jBnan0Jolz8Kyzz.jpg"
+      },
+      {
+        "name": "Roshan Seth",
+        "character": "Pramesh Singh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4TbHkaZxPegaTns250cVXr8F91F.jpg"
+      },
+      {
+        "name": "Deobia Oparei",
+        "character": "Rongo the Strongo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kcw8vNMlYgK8peuN80zhX6TqeNk.jpg"
+      },
+      {
+        "name": "Joseph Gatt",
+        "character": "Neils Skellig",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ufXNVj0gOpGOB6uUnNuTIzk5rpb.jpg"
+      },
+      {
+        "name": "Miguel Muñoz Segura",
+        "character": "Ivan the Wonderful",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gWOIb6AcTD4dWlue1OnJMRZ31GG.jpg"
+      },
+      {
+        "name": "Sharon Rooney",
+        "character": "Miss Atlantis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s2u8N5UkDDwpxCrtDpordyBMP8n.jpg"
+      },
+      {
+        "name": "Zenaida Alcalde",
+        "character": "Catherine the Greater",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Buffer",
+        "character": "Baritone Bates",
+        "profile_path": "https://image.tmdb.org/t/p/w185/433i2ensZyexe2tD0jlPEvCQakn.jpg"
+      },
+      {
+        "name": "Phil Zimmerman",
+        "character": "Rufus Sorghum",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9kYoNUQ1Gb9cZ8JfN2IsiW9KHH8.jpg"
+      },
+      {
+        "name": "Ragevan Vasan",
+        "character": "Pritam Singh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/anCACB76BRtagfk3KKtHzHeM8o2.jpg"
+      },
+      {
+        "name": "Frank Bourke",
+        "character": "Puck the Organ Grinder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1AWUOKX5978SbppSTLZjtyGnl70.jpg"
+      },
+      {
+        "name": "Zelda Rosset Colon",
+        "character": "Anne Farrier",
+        "profile_path": ""
+      },
+      {
+        "name": "Benjamin French",
+        "character": "Contortionist",
+        "profile_path": ""
+      },
+      {
+        "name": "Jana Posna",
+        "character": "Poodle Trainer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jo Osmond",
+        "character": "Cook",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6cTye3OgvI2DCHwVNLqND1A9zQv.jpg"
+      },
+      {
+        "name": "Jewels Good",
+        "character": "Mademoiselle Flambé",
+        "profile_path": ""
+      },
+      {
+        "name": "Lars Eidinger",
+        "character": "Hans Brugelbecker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u7VmrFjygvfR9Lxx04uPwS17Y86.jpg"
+      },
+      {
+        "name": "Tom Seekings",
+        "character": "Teenager in Crowd",
+        "profile_path": ""
+      },
+      {
+        "name": "Douglas Reith",
+        "character": "Sotheby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/48dfosYTTfngOeX00ngo0uF2tgt.jpg"
+      },
+      {
+        "name": "Sandy Martin",
+        "character": "Verna the Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wMR75F1tIAVA6tTnlq0A0xP30tE.jpg"
+      },
+      {
+        "name": "Heather Rome",
+        "character": "Stuffy Society Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Haney",
+        "character": "Rancher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uDsER1RNgmYVepr86nkXNHKkcI3.jpg"
+      },
+      {
+        "name": "Erick Hayden",
+        "character": "Rancher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a9OkTdaR2mw6McSL5xTlU7bfKzl.jpg"
+      },
+      {
+        "name": "Greg Canestrari",
+        "character": "Heckler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/11s6Q8mtyERY2o2lWPqn5b6GTAB.jpg"
+      },
+      {
+        "name": "Chris Rogers",
+        "character": "Heckler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9BiptRAS5SZrTqhm5lJVn1HzrBJ.jpg"
+      },
+      {
+        "name": "Max Gill",
+        "character": "Mean Teen",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Brookes",
+        "character": "Mean Teen",
+        "profile_path": ""
+      },
+      {
+        "name": "Simon Connolly",
+        "character": "Stage Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/izjjkm0MdaObxkP8t7Cb3gqUZX7.jpg"
+      },
+      {
+        "name": "Nick Bartlett",
+        "character": "Armored Truck Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8DVXmCJO8KWOnnFRPL9KVXdKT3j.jpg"
+      },
+      {
+        "name": "Harry Taylor",
+        "character": "Power Tower Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Vincent Andriano",
+        "character": "Bridge Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rFRquRTGotsCqH5mF1P5vUWU6Lx.jpg"
+      },
+      {
+        "name": "Liam Bewley",
+        "character": "Nightmare Island Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Ben Crowe",
+        "character": "Dreamland Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Josef Davies",
+        "character": "Dreamland Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/geljWJJDVuthFmwqiFundYwqwPR.jpg"
+      },
+      {
+        "name": "Clive Brunt",
+        "character": "Burly Engineer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jQ6rtpcmqVcic1ew172LePqFz1B.jpg"
+      },
+      {
+        "name": "Richard Leeming",
+        "character": "Pipsqueak Engineer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/un2Y5NxT1zpAnV8pW8ljCXMzk0I.jpg"
+      },
+      {
+        "name": "Angela Ashton",
+        "character": "First Maid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8S0KgilZ7PPYsKz13fFb4AXfJsc.jpg"
+      },
+      {
+        "name": "Alice Bonifacio",
+        "character": "Second Maid",
+        "profile_path": ""
+      },
+      {
+        "name": "Philip Rosch",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/96zTUd5W3jF9eLCxdAjmBgqk5De.jpg"
+      },
+      {
+        "name": "Joseph Macnab",
+        "character": "Reporters",
+        "profile_path": ""
+      },
+      {
+        "name": "Rob Heanley",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Amerjit Deu",
+        "character": "Indian Ship Captain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vcngmOmJJvZmTteiOkCH6R1zX5m.jpg"
+      },
+      {
+        "name": "Lucy DeVito",
+        "character": "Coat Check Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jlLyxmuAe56QuOL02D8zfqpl1Bn.jpg"
+      },
+      {
+        "name": "Richard James-Clarke",
+        "character": "Joplin Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew Castle",
+        "character": "Joplin Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Bret Jones",
+        "character": "Joplin Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Zee Asha",
+        "character": "Joplin Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ekqDB4JHpZdFU20LUQdzxu6l8V2.jpg"
+      },
+      {
+        "name": "Carol Been",
+        "character": "Joplin Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rfFKvlE7hDNcAmVXYwlpQfOgW3l.jpg"
+      },
+      {
+        "name": "Jessica Barker-Wren",
+        "character": "Joplin Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mTjjsfAfeBA4k5YyVHfsTG1VHWR.jpg"
+      },
+      {
+        "name": "Arabella Neale",
+        "character": "Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vGpjaH9heMMpZ0Fb3TvUSpEeaK0.jpg"
+      },
+      {
+        "name": "Rosie Akerman",
+        "character": "Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Southgate",
+        "character": "Vendor",
+        "profile_path": ""
+      },
+      {
+        "name": "Anatoli Akerman",
+        "character": "Clown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9A1NZ4aJqSMmDhbNr1vJ18rokFf.jpg"
+      },
+      {
+        "name": "Kamil Lemieszewski",
+        "character": "Circus Attendant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ddk6mDSrd2EnODbDGZf6AdPT755.jpg"
+      },
+      {
+        "name": "Zoë Scott",
+        "character": "Lavish Apartment Maid (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/85iIX4dYk8cuECr44OTzd8dbuQj.jpg"
+      },
+      {
+        "name": "Suan-Li Ong",
+        "character": "Fringe Girl Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rAEyqsVGVoXCR7zSsqfaxZNgELU.jpg"
+      },
+      {
+        "name": "Paul Riddell",
+        "character": "Circus Goer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mke4JdGrIsKxZiGLmSRtTpPynqh.jpg"
+      },
+      {
+        "name": "Will Rowlands",
+        "character": "Mr. Wilcox Customer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wDkbB5FhdYZaASSuohXDUmuFRnw.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Tim Burton",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oWZDgLRr4zgRiJEsOAtgntPd5bI.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "elephant",
+    "circus",
+    "missouri",
+    "remake",
+    "live action and animation",
+    "1910s",
+    "live action remake",
+    "dumbo"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.",
+    "Holt was once a circus star until he went off to war and returned terribly altered. Circus owner Max Medici hires him to take care of Dumbo, a newborn elephant whose oversized ears make him the laughingstock of the struggling circus troupe. But when Holt's children discover that Dumbo can fly, silver-tongued entrepreneur V.A. Vandevere and aerial artist Colette Marchant swoop in to make the little elephant a star.",
+    "Circus owner Max Medici (Danny DeVito) enlists former star Holt Farrier (Colin Farrell) and his children Milly (Nico Parker) and Joe (Finley Hobbins) to care for a newborn elephant whose oversized ears make him a laughingstock in an already struggling circus. But when they discover that Dumbo can fly, the circus makes an incredible comeback, attracting persuasive entrepreneur V.A. Vandevere (Michael Keaton), who recruits Dumbo for his newest larger-than-life entertainment venture, Dreamland. Dumbo soars to new heights alongside a charming and spectacular aerial artist, Colette Marchant (Eva Green), until Holt learns that beneath its shiny veneer, Dreamland is full of dark secrets.—Disney",
+    "Not knowing what to expect, the World War I veteran and renowned trick rider, Holt Farrier, returns to the financially hard-pressed Medici Brothers' Circus. Shocked to discover that nothing will ever be the same again, Holt finds himself caring for the elephants, and in particular, Mrs Jumbo's precious newborn boy, Dumbo: a mistreated infant ridiculed for his outstanding, floppy, and oversized ears. Before long, after Dumbo's phenomenal debut, the peculiar pachyderm with the doleful blue eyes catches the attention of the famous amusement park tycoon, V.A. Vandevere, and the French aerial artist, Colette Marchant. But, now that the secret has come to light, the thirst for success takes over, and somehow, there is more to Vandevere, and his spectacular Dreamland theme park, than meets the eye. Will Dumbo, the extraordinary baby-elephant, believe in himself, and spread his wings?—Nick Riganas"
+  ],
+  "synopsis": "In 1919, equestrian performer and World War I amputee Holt Farrier (Colin Farrell) returns after the war to the Medici Brothers' Circus, run by Max Medici (Danny DeVito). The circus has run into financial troubles and Medici has been forced to sell the circus's horses after Holt's wife and co-performer, Annie, passed away, so Medici reassigns Holt as the caretaker for the circus's pregnant elephant, Mrs. Jumbo.Mrs. Jumbo gives birth to a calf with unusually large ears and Medici orders Holt to hide the ears before allowing the public to see the calf. However, the calf accidentally reveals his ears in his debut performance and the crowd mockingly names the calf Dumbo while pelting him with peanuts and other objects. Mrs. Jumbo is distressed by her son's mistreatment and rampages into the ring, causing extensive damage and accidentally killing an abusive handler.Afterwards, to prevent a public relations problem, Medici results to selling Mrs. Jumbo. Holt's son and daughter, Joe and Milly Farrier (Finley Hobbins and Nico Parker), comfort Dumbo and realize he can fly by flapping his ears. The children also discover that feathers are the key to Dumbo's willingness to fly.In another performance, Dumbo plays the role of a firefighter clown to put out a fire with water sprayed from his trunk, but the performance goes wrong and Dumbo is trapped on a high platform surrounded by flames. Milly risks her life to deliver a feather to Dumbo, giving him the confidence to fly. The audience is astounded when Dumbo flying and word of his talent begins to spread.Meanwhile, V. A. Vandevere (Michael Keaton), the owner of Dreamland, a bohemian amusement park, approaches Medici and proposes a collaboration; Medici would become Vandevere's partner and the Medici Brothers' Circus's troupe would be employed to perform at Dreamland. Later, Vandevere demands that Dumbo should fly with the French trapeze artist, Colette Marchant (Eva Green).Colette and Dumbo's debut performance at Dreamland goes wrong with Dumbo nearly falling off a high platform leading to him trumpeting in alarm since no net has been added to avoid possible injuries and fatalities. Dumbo hears his mother's call in response and realizes that his mother is an exhibit elsewhere in Dreamland. Dumbo flies out of the circus ring, reuniting with his mother.Fearing that Dumbo's mother may become a distraction to him, Vandevere orders Mrs. Jumbo to be taken away and killed. Vandevere also fires all of the Medici performers from Dreamland. When Holt and the rest of the Medici troupe learn Vandevere intends to kill Dumbo's mother, they resolve to set both her and Dumbo free. The circus performers utilize their various talents to break Mrs. Jumbo out of her enclosure while Holt and Colette guide Dumbo to fly out of the circus. Vandevere attempts to stop them, but accidentally starts a fire triggered by mismanagement of Dreamland's electricity system which spreads and destroys the park.After Dumbo saves Holt and his family from the fire, Holt, Colette, the children, and the troupe bring Dumbo and his mother to the harbor, where they board a ship back to their native home. Afterwards, the renamed Medici circus is re-established (while it is implied that Vandevere is tried for arson through misconduct) and flourishes with Colette as the newest troupe member.In the final scene, Dumbo and his mother reunite with a herd of wild elephants in the African jungle.",
+  "imdb_score": 6.3
+}

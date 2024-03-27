@@ -1,0 +1,422 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/aCHn2TXYJfzPXQKA6r9mKPbMlUB.jpg",
+  "id": 37165,
+  "title": "The Truman Show",
+  "poster_path": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+  "release_date": "1998-06-04",
+  "vote_average": 8.138,
+  "vote_count": 17343,
+  "popularity": 67.366,
+  "overview": "Truman Burbank is the star of The Truman Show, a 24-hour-a-day reality TV show that broadcasts every aspect of his life without his knowledge. His entire life has been an unending soap opera for consumption by the rest of the world. And everyone he knows, including his wife and his best friend, is really an actor, paid to be part of his life.",
+  "imdb_id": "tt0120382",
+  "budget": 60000000,
+  "homepage": "",
+  "revenue": 264100000,
+  "runtime": 103,
+  "tagline": "On the air. Unaware.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    "Paramount",
+    "Scott Rudin Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jim Carrey",
+        "character": "Truman Burbank",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kuSlwTPsVlBMW0cvnFmbZce6PaV.jpg"
+      },
+      {
+        "name": "Laura Linney",
+        "character": "Meryl Burbank / Hannah Gill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ztQXGmNLzhDV22rAvcXzCG4d0cy.jpg"
+      },
+      {
+        "name": "Noah Emmerich",
+        "character": "Marlon / Louis Coltrane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qwPPHYWJ3a9yRwFXicbbHsf60Nm.jpg"
+      },
+      {
+        "name": "Natascha McElhone",
+        "character": "Lauren Garland / Sylvia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9pxaoasotR1pdCXYSfN1pkm0geO.jpg"
+      },
+      {
+        "name": "Holland Taylor",
+        "character": "Angela Montclair / Alanis Montclair",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jt9yFB3nLfZQ0c1DcnvvcfA11gB.jpg"
+      },
+      {
+        "name": "Ed Harris",
+        "character": "Christof",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ryF0KkljweLhPkQ70x6w3u9Qjjj.jpg"
+      },
+      {
+        "name": "Paul Giamatti",
+        "character": "Simeon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+      },
+      {
+        "name": "Brian Delate",
+        "character": "Walter Moore / Kirk Burbank",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rydDYe4VHjZsJZPWOus4KGkhroG.jpg"
+      },
+      {
+        "name": "Peter Krause",
+        "character": "Lawrence",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4p42emuJrU8fFxbBuOhYFFdzmN6.jpg"
+      },
+      {
+        "name": "Blair Slater",
+        "character": "Young Truman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oB59kmZNfez3Nm3biShW2L1ntJq.jpg"
+      },
+      {
+        "name": "Heidi Schanz",
+        "character": "Vivien",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5BswdeUH2yM9tZ7SLxvE2whtOTk.jpg"
+      },
+      {
+        "name": "Una Damon",
+        "character": "Chloe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yDM2ygVEzU2pxec83UUFqJH9Yfz.jpg"
+      },
+      {
+        "name": "Krista Lynn Landolfi",
+        "character": "Bar Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b5HELj3rPNrnBWA4442amrevSY4.jpg"
+      },
+      {
+        "name": "O-Lan Jones",
+        "character": "Bar Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wtedyve8ATBen9YSuEe2Q2ytt1P.jpg"
+      },
+      {
+        "name": "Ron Taylor",
+        "character": "Ron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dPumFb9RH0cS3esZwRdntMW3wUD.jpg"
+      },
+      {
+        "name": "Don Taylor",
+        "character": "Don",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7BU9WDumYSldwk5EpLefH95dX58.jpg"
+      },
+      {
+        "name": "Ted Raymond",
+        "character": "Spencer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/30wsrfVC7owrreVxYWxYWibRLa2.jpg"
+      },
+      {
+        "name": "Harry Shearer",
+        "character": "Mike Michaelson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/au1mO0Mb9gni7h0rJCSokBTDnVf.jpg"
+      },
+      {
+        "name": "Jeanette Miller",
+        "character": "Senior Citizen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g6n8KWu4dgW5gWH92EZJNJItU9u.jpg"
+      },
+      {
+        "name": "Philip Glass",
+        "character": "Keyboard Artist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dsf8ajHq4BJeTHdrwcM9OW72x4R.jpg"
+      },
+      {
+        "name": "Joe Minjares",
+        "character": "Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dr75CZaDH3hyg1jUREBkyqtXMRx.jpg"
+      },
+      {
+        "name": "Philip Baker Hall",
+        "character": "Network Executive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mC1wmuGSCyIQ7ABkfRe1jJV1FGV.jpg"
+      },
+      {
+        "name": "John Pleshette",
+        "character": "Network Executive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aWFQQCyu5uPdiHuOwaeQ94BTxcA.jpg"
+      },
+      {
+        "name": "Terry Camilleri",
+        "character": "Man in Bathtub",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7snba5wE56wgHLUrASQxZySSm8C.jpg"
+      },
+      {
+        "name": "Joel McKinnon Miller",
+        "character": "Garage Attendant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tssymtsgGV3zd8X6tm7p6ZbIUv.jpg"
+      },
+      {
+        "name": "Judy Clayton",
+        "character": "Travel Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Fritz Dominique",
+        "character": "Truman's Neighbor",
+        "profile_path": ""
+      },
+      {
+        "name": "Angel Schmiedt",
+        "character": "Truman's Neighbor",
+        "profile_path": ""
+      },
+      {
+        "name": "Nastassja Schmiedt",
+        "character": "Truman's Neighbor",
+        "profile_path": ""
+      },
+      {
+        "name": "Muriel Moore",
+        "character": "Teacher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gIKNhITnSgt4PBNciIrq35Zmd8H.jpg"
+      },
+      {
+        "name": "Mal Jones",
+        "character": "News Vendor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kiVFhwj0QxSwvGf1ITTZRJokMrZ.jpg"
+      },
+      {
+        "name": "Judson Vaughn",
+        "character": "Insurance Co-Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/piy5JqwC526x7bfnIvQBf9Q5iMi.jpg"
+      },
+      {
+        "name": "Earl Hilliard Jr.",
+        "character": "Ferry Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "David Andrew Nash",
+        "character": "Bus Driver / Ferry Captain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e0CT3bYCKnmznuoprEsrDcQE8Ne.jpg"
+      },
+      {
+        "name": "Jim Towers",
+        "character": "Bus Supervisor",
+        "profile_path": ""
+      },
+      {
+        "name": "Savannah Swafford",
+        "character": "Little Girl in Bus",
+        "profile_path": ""
+      },
+      {
+        "name": "Antoni Corone",
+        "character": "Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/85G9purVJGnYwu1wCVQO8ZNHr8Z.jpg"
+      },
+      {
+        "name": "Mario Ernesto Sánchez",
+        "character": "Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f6XWjHEPuPf35RswwZJBzV8bAq.jpg"
+      },
+      {
+        "name": "John Roselius",
+        "character": "Man at Beach",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2r5I69fsHlHExO07GTrQCCT9peM.jpg"
+      },
+      {
+        "name": "Kade Coates",
+        "character": "Truman (4 years)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcia DeBonis",
+        "character": "Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eZe5MaHdSP4YFNqKznG1eWYVBGc.jpg"
+      },
+      {
+        "name": "Sam Kitchin",
+        "character": "Surgeon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y8HSrmjNvzBwFMTR3spyOai509U.jpg"
+      },
+      {
+        "name": "Sebastian Youngblood",
+        "character": "Orderly",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave Corey",
+        "character": "Hospital Security Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Alan Gillott",
+        "character": "Policeman at Power Plant",
+        "profile_path": ""
+      },
+      {
+        "name": "Jay Saiter",
+        "character": "Policeman at Truman's House",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Todd",
+        "character": "Policeman at Truman's House",
+        "profile_path": ""
+      },
+      {
+        "name": "Marco Rubeo",
+        "character": "Man in Christmas Box",
+        "profile_path": ""
+      },
+      {
+        "name": "Daryl Davis",
+        "character": "Couple at Picnic Table",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Davis",
+        "character": "Couple at Picnic Table",
+        "profile_path": ""
+      },
+      {
+        "name": "R.J. Murdock",
+        "character": "Production Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew McDonough",
+        "character": "Man at Newsstand",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry McDowell",
+        "character": "Man at Newsstand",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Lucus",
+        "character": "Ticket Taker",
+        "profile_path": ""
+      },
+      {
+        "name": "Logan Kirksey",
+        "character": "TV Host",
+        "profile_path": ""
+      },
+      {
+        "name": "Adam Tomei",
+        "character": "Control Room Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oEfTkR4TRkiBkxuE6GoJvOZtuRc.jpg"
+      },
+      {
+        "name": "John Pramik",
+        "character": "Keyboard Artist",
+        "profile_path": ""
+      },
+      {
+        "name": "Al Foster",
+        "character": "Bar Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Zoaunne LeRoy",
+        "character": "Bar Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Millie Slavin",
+        "character": "Bar Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dKiXAPRw8LVoS62rynet3uXtJuZ.jpg"
+      },
+      {
+        "name": "Dona Hardy",
+        "character": "Senior Citizen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/juJafQk2ufGzX7k28XWrt2JFb2Q.jpg"
+      },
+      {
+        "name": "Tom Simmons",
+        "character": "Garage Attendant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sE9epCRqkjt2w0glqKTx1OcVGsf.jpg"
+      },
+      {
+        "name": "Susan Angelo",
+        "character": "Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AfNdGjzP7ifzkkjOzxhN3hi2pAm.jpg"
+      },
+      {
+        "name": "Carly Smiga",
+        "character": "Daughter",
+        "profile_path": ""
+      },
+      {
+        "name": "Yuji Okumoto",
+        "character": "Japanese Family",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eACYrrdj8kZnYMCpUTghbpJ9nVk.jpg"
+      },
+      {
+        "name": "Kiyoko Yamaguchi",
+        "character": "Japanese Family",
+        "profile_path": ""
+      },
+      {
+        "name": "Saemi Nakamura",
+        "character": "Japanese Family",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bZMyohvYBNumQRw8JB0sRRpPHmN.jpg"
+      },
+      {
+        "name": "Sergio Kato",
+        "character": "Production Assistant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qj9GQAqeiBziJaXtSZRw8yZ6b8T.jpg"
+      },
+      {
+        "name": "Jake Eberle",
+        "character": "Classical Clive (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marc Macaulay",
+        "character": "Citizen Searching Truman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/89ms2YkIxl3LYOKojcKLTmmI8BB.jpg"
+      },
+      {
+        "name": "Melissa Fitzgerald",
+        "character": "Girl Dancing with Marlon (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Erik Rodenhiser",
+        "character": "Man Dancing / Man in Control Room (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Peter Weir",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4GxIZX5gtbMpW4ZgHwvGmLSIHOE.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "paranoia",
+    "dystopia",
+    "suspicion",
+    "video surveillance",
+    "deception",
+    "hidden camera",
+    "simulated reality ",
+    "television producer",
+    "tv show in film",
+    "make believe"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "An insurance salesman discovers his whole life is actually a reality TV show.",
+    "Since birth, a big fat lie defines the well-organised but humdrum life of the kind-hearted insurance salesman and ambitious explorer, Truman Burbank. Utterly unaware of the thousands of cleverly hidden cameras watching his every move, for nearly three decades, Truman's entire existence pivots around the will and the wild imagination of the ruthlessly manipulative television producer, Christof--the all-powerful TV-God of an extreme 24/7 reality show: The Truman Show. As a result, Truman's picturesque neighbourhood with the manicured lawns and the uncannily perfect residents is nothing but an elaborate state-of-the-art set, and the only truth he knows is what the worldwide television network and its deep financial interests dictate. Do lab rats know they are forever imprisoned?—Nick Riganas",
+    "Truman is a man whose life is a fake one. The place he lives is, in fact, a big studio with hidden cameras everywhere, and all his friends and people around him, are actors who play their roles in the most popular TV-series in the world: The Truman Show. Truman thinks that he is an ordinary man with an ordinary life and has no idea about how he is exploited. Until one day he finds out everything. Will he react?—Chris Makrozahopoulos <makzax@hotmail.com>",
+    "Truman Burbank is a normal man, living in a normal town. He grew up to be a desk clerk for a insurance company, living an ordinary life, having an ordinary wife, an ordinary neighbour and an ordinary bud, who pops in from time to time with a sixpack. But Truman is not happy with his life. He wants to see the world. He wants to get away from his happy-happy, ever tidy, nice'n'shiny little island town at the seaside. In reality, Truman was an unwanted pregnancy. His \"father\", Christof, a reckless TV-Producer whom he never met, made up the Truman Show - the greatest show on earth - a show in which life is live. So, everyone around poor Truman is an actor with a little headphone in the ear. One day, Truman accidentally bumps into a catering area backstage and gets pretty suspicious. His plan now is: Pretend to be sleeping and steal away...—Julian Reischl <julianreischl@mac.com>",
+    "Truman Burbankis happy with his life. He is a successful business man, he has a nice wife and many friends. However, Truman finds his life is getting very repetitive. Actually every moment of his life is being filmed, being watched by millions, and that his world is limited in a small Hollywood film set. Truman decides to follow his discovery no matter how hard and how much it pains him.—Christian"
+  ],
+  "synopsis": "Truman Burbank (Jim Carrey) is an insurance salesman leading an idyllic, peaceful life on Seahaven Island. Truman also happens to be the star of the most popular live show in television history. The only problem is, he doesn't know it! In fact, the entire island of Seahaven is a complete fabrication; a massive set surrounded by a protective dome that produces the most sophisticated effects and imagery to mimic the sky, weather, and temperature of the real world. Set just off of what appears to be the coast of Florida, the dome is run by a massive staff hidden just beyond its barriers and managed by the artistically eccentric Director, Christof (Ed Harris). Christof has filmed Truman since just before his birth and sees the project as a ray of hope; a way to truthfully portray a person's life nonstop while maintaining their innocence.It is on Day 10,909 of Truman's life that things begin to change. As he's getting ready for work, he greets his neighbors across the street (Fritz Dominique, Angel Schmiedt, and Nastassja Schmiedt), with his traditional greeting of, \"Good morning! And in case I don't see you, good afternoon, good evening, and good night\", before a mysterious object falls from the sky and lands near his car. When Truman looks up, however, the sky is clear and offers no explanation for the object, which we can see is obviously a studio light. As he drives to work, the radio reports that an aircraft flying over the island shed parts which leads Truman to believe that was the source of the fallen object. At work, Truman discreetly tears pieces of paper out of a magazine and stows them away before making a call asking for directory information to Fiji. He asks for a Lauren or Silvia Garland. When neither of the names bears results he hangs up just as his boss, Lawrence (Peter Krause), approaches and asks him to close a deal on Harbor Island. Reluctantly, Truman leaves but once he reaches the pier he is forced to return to work due to his fear of open water.At home Truman spends some time gardening before his wife, Meryl (Laura Linney), returns from work with a chipper smile on her face. Afterwards, Truman visits with his long time friend, Marlon (Noah Emmerich), real name Louis Coltrane, where he confides the wish to leave Seahaven, quit his job, and travel to Fiji, echoing a childhood wish to explore (despite his teacher's (Muriel Moore) attempts to dissuade him by informing him that there was nothing left in the world to discover). Marlon feigns ignorance and says that he doesn't even know where Fiji is.That evening, Truman sits alone on the beach looking out towards the water. He remembers a boating trip he took with his father (Brian Delate) as a child (Blair Slater) and requesting that they stay out at sea for just a bit longer. Though his father wanted to go back to shore, he complied. Shortly after, a strong storm hit and Truman's father was swept overboard and drowned. As he comes out of the memory it begins to rain on Truman...and just on Truman. When he realizes this, he stands up in shock as the rest of the sky finally opens up in a downpour, prompting him to rush home.He tells Meryl about his plans to go to Fiji but she dismisses the idea, saying that their financial obligations are much more important. When he argues that it could be an adventure she counters by asking if having a baby would be a good adventure. She then suggests they go to bed. The following morning, as Truman drives to work, he spots a homeless man on the street. Looking closely he realizes that the man looks just like his father. Before he can get to the man, however, a number of people and strange obstacles spontaneously appear and the homeless man is taken away. Later that day, Truman questions his mother (Holland Taylor) about this over the phone but she refuses to believe any of it and dismisses the idea as wishful thinking.That night, Truman retreats to the basement of his home where he begins to look through an old trunk filled with his personal mementos. He spies a red sweater with a white pin that says 'How will it end?' His memories bring him back to college where he and Marlon are in the homecoming band. Truman has his eye on an attractive young woman across the courtyard but is distracted when Meryl shows up. Over the next month or so, Meryl is inseparable from Truman until one evening when he is in the library studying. He looks up and sees the young woman from the courtyard whom he'd been admiring. He approaches her and learns that her name is Lauren (Natascha McElhone) but she tells him that she's not allowed to speak with him. Despite this, Truman asks if she'd like to go out with him sometime. She takes out a small piece of paper, writes quickly, and hands it to Truman. It says one word, 'now'. The two secretly rush out of the library. The cameras around the room lose them for a second but manage to spy them running out a nearby exit.Truman and Lauren run towards the beach where they are able to share a moment of privacy. However, a vehicle approaches and Lauren becomes frantic. She tells Truman that her real name is actually Sylvia and tries to tell him the truth about the show as her 'father' appears on the dunes and calls for her. He comes down to collect her and tells Truman that she's delusional before announcing that they are moving to Fiji. Truman can only watch in puzzlement as they drive off, never to return. In the aftermath, Truman finds the red sweater that Lauren/Sylvia left behind.As he returns from his memory, Truman takes the scraps of magazine that he'd been tearing out at work and reveals that he's been compiling a collage of a woman's face; Lauren/Sylvia's face as he remembers it.The next day, as he drives to work, the radio in Truman's car begins to strangely broadcast every movement he makes, which are actually remarks from crew members observing him. Growing increasingly paranoid, Truman opts to walk around in the open air outside. He parks and ducks into a building. He makes his way towards the elevator and, as the doors open, is surprised to see, not an empty car, but an entrance to what seems to be a studio filled with people wearing headphones and eating sandwiches - the actors' break room. Before he can register what he's seeing, security grabs him and pushes him out of the building for trespassing.Confused, Truman walks to a nearby market where he sees Marlon's service vehicle parked. Truman tries to explain to Marlon what he just experienced but Marlon passes it off as Truman trying to be funny. Truman pulls Marlon aside and tells him that he's his best friend and needs to confide that he's going to be going away for a while.When he returns home, Truman finds Meryl and his mother looking at photos in an old album. They show him and look on together as the TV begins to play an old film called 'Show Me the Way to Go Home', a clear attempt to reassure the notion of never leaving home. As Truman looks back at the photo album, his eyes fall on a picture of his wedding day with Meryl. Looking closer, he sees that her fingers are crossed which implies that Meryl did not marry Truman truthfully.Truman goes to a travel agency the next day to book a flight to Fiji but the agent (Judy Clayton) tells him that there are no available flights for at least a month. When he tries to take a bus to Chicago, the bus breaks down before it can leave the station.When Meryl comes home from work, she finds Truman sitting in his car in the driveway, fixated on something. She goes to the car and sits with him but he tells her to be silent before predicting the appearance of every person along the street; as if they were on a fixed schedule - specifically, a lady on a red bike, a man with flowers, and a vintage Volkswagen beetle with a dented fender. Meryl tells him that his behavior is worrying but he decides to put his theory to a bigger test. He drives off down the street with Meryl who demands that they return home. When they come to a rotary, a traffic jam suddenly appears. Truman feigns disappointment and takes the car around the rotary multiple times. When he comes back to the blocked road all the cars have vanished and he continues towards the only bridge that leads off the island. However, Truman is forced to stop at the bridge when he realizes that he can't drive over because of his fear of water. Instead, he closes his eyes and slams his foot on the gas, forcing Meryl to drive. Victorious, Truman cries out as Meryl continues to try and convince him to return home. They pass a sign warning of forest fires and a line of flames shoots across the road, but Truman drives onward. The car is finally stopped just beyond a power plant that appears to have experienced a meltdown. Men in hazmat suits approach the car and apologize for the inconvenience but when one of them accidentally calls Truman by his first name (they would of course not know otherwise) Truman gets out of the car and attempts to make a break for it. The men chase after him and manage to capture him and return him to the island.Once home, Meryl tries to console a dejected Truman by offering him a new drink she picked up. However, she promotes the item as if on a commercial which prompts Truman to ask who she thinks she's talking to. Meryl becomes upset and blames Truman's recent behavior but Truman becomes more frantic and tries to convince Meryl that there's something wrong with everything. Becoming scared, Meryl takes a peeler and aims it at Truman, telling him to keep his distance. When he grabs it away from her and puts her in a lock hold she calls out for 'someone' to stop him. Truman, in shock, releases her and demands to know what's going on. Marlon appears at the door and walks in with a case of beer, as if to casually hang out, and Meryl runs into his arms, crying that 'it's not professional'.Marlon takes Truman out where they sit at the edge of a road, sharing the beers. Marlon tries to assure Truman that, if everyone was in on a massive scheme or conspiracy, he'd have to be in on it too. He tells Truman that the last thing he would ever want to do is lie to him, though in reality, he's saying this as Christof feeds him his words through an earpiece. Marlon then tells Truman the real reason he stopped by and took him out tonight. They stand and look behind them where a dark figure emerges from the mist. Marlon tells Truman that he was able to find the homeless man he'd seen and, as the man gets closer, Truman realizes that it is his father. The two embrace while Christof composes the cinematography from above and revels in his master shot of Truman weeping with happiness. Truman's father promises to make up for all the lost years.Shortly after this moment a weekly TV show titled 'TruTalk' begins while a smaller screen in the right-hand corner of the television shows Truman as he eats his breakfast. Christof is interviewed and he explains the reasoning behind many things that have happened on the show. The purpose of 'killing' his father out at sea was to implant the fear of water in Truman so that he would have no wish of leaving the island. This decision was reinforced by his youthful wishes to explore and discover which often nearly led him to discover his own captivity. Bringing his father back now was done with the hopes to quell Truman's emotional turmoil and soothe him into remaining on the island despite all that's happened. Various security measures were taken in light of a few occurrences, one of which involved a Truman fan (Marco Rubeo) hiding himself in a Christmas present of Truman's when he was a child in order to get air-time.A caller rings in and Christof accepts to answer questions. He recognizes Sylvia's voice as she berates Christof for keeping up the charade and imprisoning Truman within a mockery of life. Christof counters by saying that the real world is a prison and that what he has done is to actually give Truman the chance to lead a completely normal life, free of violence or pain and says that, should Truman discover the truth, he could leave.The following day, Truman appears to be well and back to his normal self. He greets his neighbors and heads off to work where he meets a new coworker named Vivien (Meryl's appointed replacement as Truman's prospective female partner). That evening, Truman moves some things around his basement, appearing to reorganize, before pulling on some covers on a makeshift bed and falling asleep. After several hours of inactivity, even when Truman should be awake, Christof becomes suspicious while watching the video feed. He orders that the phone ring in the house. When Truman doesn't answer, much less move, Christof sends Marlon over, cueing him the entire time as to what to do. Marlon goes into the basement and pulls Truman's covers back to find a noise recorder and a gaping hole in the basement floor. At a loss of what to do or say, Christof does the unthinkable; he cuts the transmission.The cease in transmission puts the world into a state of shock and Christof orders the entire staff on the island to form search parties. Performing a God-like move over the set, Christof commands the sun to rise to aid in the search. When the search on land has been exhausted, Christof suggests an impossible idea; search at sea. His intuition proves correct as cameras pan over the ocean and locate a lone sailboat with Truman at the helm. The live video feeds continue and Christof orders one of the actors to go out and fetch Truman. However, being actors, none of them know how to man a boat.Christof utilizes his weather program to simulate a storm to entice Truman to go back to port. However, Truman battens down and yells to the skies in defiance. Angry, Christof increases the wind and turbulence, nearly causing Truman to fall overboard. Knowing that Truman will never back down, Christof pull the plug on the weather. Truman continues sailing, victorious, until the boat is rocked by a strong impact. Truman collects himself and finds that the bow of the ship has lodged into...the sky. He has come to the end of the dome. He gets off of the boat and examines the wall, following it a short ways until he finds a short staircase leading to an exit door. As he reaches for the handle, Christof speaks on the intercom system to Truman directly for the first time. He introduces himself as the creator who has been watching Truman since the day he was born and revealing his life as entertainment for a world beyond. Christof tries to convince Truman to stay within his world where he can live happily and without suffering or pain and tries to plant the idea that Truman is still deathly afraid of continuing on.Truman appears deep in thought and Christof suggests that he say something. After all, the entire world is watching. Truman looks up and says, \"In case I don't see you, good afternoon, good evening, and good night.\" He bows as Christof looks on incredulously, opens the door, and leaves. An elated Sylvia jumps up from her living room floor and leaves her apartment as the rest of the world cheers tremendously at the finale of the Truman Show.A saddened but resolute Christof removes his head piece and cuts the transmission.",
+  "imdb_score": 8.2
+}

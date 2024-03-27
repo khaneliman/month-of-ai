@@ -1,0 +1,660 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/jkyqFgqmZlH5vSURckq0GgsewOY.jpg",
+  "id": 1574,
+  "title": "Chicago",
+  "poster_path": "https://image.tmdb.org/t/p/w500/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg",
+  "release_date": "2002-12-10",
+  "vote_average": 7.111,
+  "vote_count": 2448,
+  "popularity": 21.097,
+  "overview": "Murderesses Velma Kelly and Roxie Hart find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago.",
+  "imdb_id": "tt0299658",
+  "budget": 45000000,
+  "homepage": "",
+  "revenue": 306776732,
+  "runtime": 113,
+  "tagline": "If you can't be famous, be infamous.",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    "Miramax",
+    "Kalis Productions GmbH & Co. Zweite KG",
+    "The Producer Circle Co.",
+    "Zadan / Meron Productions"
+  ],
+  "production_countries": [
+    "DE",
+    "CA",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Renée Zellweger",
+        "character": "Roxie Hart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l4YzuDddOE2sTuscXukR5z0qmCU.jpg"
+      },
+      {
+        "name": "Catherine Zeta-Jones",
+        "character": "Velma Kelly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iwNMWV5OJjgZ2pPsNWzOKxZwmV7.jpg"
+      },
+      {
+        "name": "Richard Gere",
+        "character": "Billy Flynn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i7wcBNmFldh2E4QInCvmv7CPSIR.jpg"
+      },
+      {
+        "name": "Queen Latifah",
+        "character": "Matron Mama Morton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AeNoPcSWTsl1mOxiyXAKjVnzrwl.jpg"
+      },
+      {
+        "name": "John C. Reilly",
+        "character": "Amos Hart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+      },
+      {
+        "name": "Lucy Liu",
+        "character": "Kitty Baxter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dW6JDvYhXWW87P04W2SfNpiAwCO.jpg"
+      },
+      {
+        "name": "Taye Diggs",
+        "character": "Bandleader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1GVbezrPYdbmo7fJGtishxWf0aP.jpg"
+      },
+      {
+        "name": "Colm Feore",
+        "character": "Harrison",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oOxcf1qB1IvVZrBEE1PdrfMiyBK.jpg"
+      },
+      {
+        "name": "Christine Baranski",
+        "character": "Mary Sunshine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x6jNFlGrzaM0LwK2GsxBNdCN41N.jpg"
+      },
+      {
+        "name": "Dominic West",
+        "character": "Fred Casely",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iJIdrZrE57eWlXAtXbntzacW6B8.jpg"
+      },
+      {
+        "name": "Mya",
+        "character": "Mona",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e1a6KpE6g34pmmTkpwIVRBsUmJv.jpg"
+      },
+      {
+        "name": "Deidre Goodwin",
+        "character": "June",
+        "profile_path": "https://image.tmdb.org/t/p/w185/blAXw9QaByjg0AgCZM8hkXDwtXP.jpg"
+      },
+      {
+        "name": "Denise Faye",
+        "character": "Annie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bM8aCfK77y8ATzLzeYGWkKoSclu.jpg"
+      },
+      {
+        "name": "Ekaterina Chtchelkanova",
+        "character": "Hunyak",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mdyiRrdDueahYi6yrDHn05MLCJV.jpg"
+      },
+      {
+        "name": "Susan Misner",
+        "character": "Liz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nJHIk7BWzFrktuPdNE1WlLSEOQt.jpg"
+      },
+      {
+        "name": "Cliff Saunders",
+        "character": "Stage Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6wasu9LMW29B8xwg5HHk4qAIB0x.jpg"
+      },
+      {
+        "name": "Jayne Eastwood",
+        "character": "Mrs. Borusewicz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wMeootcDpiid4MYKXLqkWyPgmZ4.jpg"
+      },
+      {
+        "name": "Bruce Beaton",
+        "character": "Police Photographer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qN8QlT4tC5nPZkLY68AhPGWfUxD.jpg"
+      },
+      {
+        "name": "Roman Podhora",
+        "character": "Sergeant Fogarty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iOA0UBOMktb5J6dGg9ZIbj9ba0d.jpg"
+      },
+      {
+        "name": "Rob Smith",
+        "character": "Newspaper Photographer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sean Wayne Doyle",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Behal",
+        "character": "Prison Clerk",
+        "profile_path": ""
+      },
+      {
+        "name": "Robbie Rox",
+        "character": "Prison Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Chita Rivera",
+        "character": "Nickie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/abJtldi3TWtKDPufVC5Hy8BEi1Z.jpg"
+      },
+      {
+        "name": "Joey Pizzi",
+        "character": "Bernie",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Wise",
+        "character": "Ezekial Young",
+        "profile_path": ""
+      },
+      {
+        "name": "Ken Ard",
+        "character": "Wilbur",
+        "profile_path": "https://image.tmdb.org/t/p/w185/31RrjxehbKzwjsHujzh0t1EOZYw.jpg"
+      },
+      {
+        "name": "Marc Calamia",
+        "character": "Hunyak's Husband",
+        "profile_path": ""
+      },
+      {
+        "name": "Niki Wray",
+        "character": "Veronica",
+        "profile_path": ""
+      },
+      {
+        "name": "Gregory Mitchell",
+        "character": "Charlie",
+        "profile_path": ""
+      },
+      {
+        "name": "Sebastian La Cause",
+        "character": "Al Lipschitz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8K8tLF7mjGrn3AX6uoAqbam8QCn.jpg"
+      },
+      {
+        "name": "Brendan Wall",
+        "character": "Billy's Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mkY4JC6LtAm83tcPy2jAIEqCuh7.jpg"
+      },
+      {
+        "name": "Cleve Asbury",
+        "character": "\"Gun\" Reporter #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Rick Negron",
+        "character": "\"Gun\" Reporter #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Shaun Amyot",
+        "character": "\"Gun\" Reporter #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Eve Crawford",
+        "character": "Billy's Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h4GYhpFAM7eeiVKazANP0Qnoexo.jpg"
+      },
+      {
+        "name": "Bill Corsair",
+        "character": "Newsreel Announcer",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Britt",
+        "character": "Auctioneer",
+        "profile_path": ""
+      },
+      {
+        "name": "Gerry Fiorini",
+        "character": "Sailor",
+        "profile_path": ""
+      },
+      {
+        "name": "Elizabeth Law",
+        "character": "Perfume Lady",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Scoren",
+        "character": "Harry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wQy3PVWzOEn9oiAtaEPlia56lJP.jpg"
+      },
+      {
+        "name": "Monique Ganderton",
+        "character": "Bare Woman #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kBhk7VQr42ge3g5iuLXsbpgWeIa.jpg"
+      },
+      {
+        "name": "April Morgan",
+        "character": "Bare Woman #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Marty Moreau",
+        "character": "Groin Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/crlovyDCyOUCglFD08RUd7xyLnn.jpg"
+      },
+      {
+        "name": "Conrad Dunn",
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gryREqlgJSCXL6Y7qqAHNVKIDGR.jpg"
+      },
+      {
+        "name": "Jonathan Whittaker",
+        "character": "Bailiff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6OPjAhgCQvkQ2gLUqDp3frPHHAy.jpg"
+      },
+      {
+        "name": "Rod Campbell",
+        "character": "Jury Foreman",
+        "profile_path": ""
+      },
+      {
+        "name": "Brett Caruso",
+        "character": "Harrison's Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Sean McCann",
+        "character": "Judge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sVT3HB2rIkfgZ87mCiGmYS2OrzF.jpg"
+      },
+      {
+        "name": "Jeff Clarke",
+        "character": "Court Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yZhIkToTvU0OYobs4ue6qTQkp0C.jpg"
+      },
+      {
+        "name": "Patrick Salvagna",
+        "character": "Newsboy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tOjJzXS3CM1mdofzPSYMpVd4fHz.jpg"
+      },
+      {
+        "name": "Kathryn Zenna",
+        "character": "Woman Shooter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pSmmrWEOMMllzqWyklbAmG6vTvP.jpg"
+      },
+      {
+        "name": "Jeff Pustil",
+        "character": "Club Owner",
+        "profile_path": ""
+      },
+      {
+        "name": "Roxane Barlow",
+        "character": "Female Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jocelyn Dowling",
+        "character": "Female Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Melanie A. Gage",
+        "character": "Female Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Michelle Johnston",
+        "character": "Female Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tBW5YIcWNx1ihVcm7nOUiZ9WPOZ.jpg"
+      },
+      {
+        "name": "Charley King",
+        "character": "Female Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary Ann Lamb",
+        "character": "Female Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Vicky Lambert",
+        "character": "Female Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mfY8t8FcDePNFJsygJbReJohg6i.jpg"
+      },
+      {
+        "name": "Tara Nicole Hughes",
+        "character": "Female Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mBtZEL8g6ZJ3PsASMajPBiTTBbh.jpg"
+      },
+      {
+        "name": "Cynthia Onrubia",
+        "character": "Female Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vuh9zxqpc7uTNNgFjRwROjgsT1E.jpg"
+      },
+      {
+        "name": "Karine Plantadit",
+        "character": "Female Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/QKZqeYe3SmAYujgPMPKXJ4lwJP.jpg"
+      },
+      {
+        "name": "Jennifer Savelli",
+        "character": "Female Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Natalie Willes",
+        "character": "Female Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Karen Andrew",
+        "character": "Female Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/48YcXoVwj8SgKGliYVNAZp2yTPI.jpg"
+      },
+      {
+        "name": "Kelsey Chace",
+        "character": "Female Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Catherine Chiarelli",
+        "character": "Female Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m4aGpzdpWAOgmVVkwjiRnZc35BA.jpg"
+      },
+      {
+        "name": "Theresa Coombe",
+        "character": "Female Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Ferguson",
+        "character": "Female Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Melissa Flerangile",
+        "character": "Female Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Michelle Galati",
+        "character": "Female Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sheri Godfrey",
+        "character": "Female Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Brittany Gray",
+        "character": "Female Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r86BSfTXait5EwURVD3UjPs4BJ3.jpg"
+      },
+      {
+        "name": "Karen Holness",
+        "character": "Female Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mKyNgWJMLA3dKRNHyAU0qaZWSRY.jpg"
+      },
+      {
+        "name": "Amber-Kelly Mackereth",
+        "character": "Female Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6DugEMwyQD7Ab7MAdyK2rObFcj5.jpg"
+      },
+      {
+        "name": "Jodi McFadden",
+        "character": "Female Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lbwFhNqUroCDQdgxKOt1LxI5ZgM.jpg"
+      },
+      {
+        "name": "Faye Rauw",
+        "character": "Female Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Rhonda Roberts",
+        "character": "Female Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Leigh Torlage",
+        "character": "Female Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xr5Wj5ZniO44Xrz9mckcMTSn46e.jpg"
+      },
+      {
+        "name": "Robyn Wong",
+        "character": "Female Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ted Banfalvi",
+        "character": "Male Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Harrison Beal",
+        "character": "Male Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Becker",
+        "character": "Male Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tsp0epDXxdYy8Btnw9ZFJvkUz2U.jpg"
+      },
+      {
+        "name": "Jean-Luc Côté",
+        "character": "Male Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Fowler",
+        "character": "Male Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Edgar Godineaux",
+        "character": "Male Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Hartung",
+        "character": "Male Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Darren Lee",
+        "character": "Male Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m24c6TGpcasZ3X6HjiujR45GmtY.jpg"
+      },
+      {
+        "name": "Troy P. Liddell",
+        "character": "Male Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Blake McGrath",
+        "character": "Male Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9d5TCjwElRGtpGZGmPBbMMo01al.jpg"
+      },
+      {
+        "name": "Robert Montano",
+        "character": "Male Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ucobyAuuh1ZF4SFKWeZWRt1IgPe.jpg"
+      },
+      {
+        "name": "Sean Palmer",
+        "character": "Male Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aYCpDfWxSRb3V1g3l4oNcRXdLUA.jpg"
+      },
+      {
+        "name": "Desmond Richardson",
+        "character": "Male Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Samuel",
+        "character": "Male Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5FeY3iUvlsWA3iR3UySRHsAw03O.jpg"
+      },
+      {
+        "name": "Jason Sermonia",
+        "character": "Male Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff Siebert",
+        "character": "Male Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sergio Trujillo",
+        "character": "Male Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2mRtqRQ0NQm9xDtSgb9xMlZ2sAN.jpg"
+      },
+      {
+        "name": "Stacy Clark Baisley",
+        "character": "Acrobat",
+        "profile_path": ""
+      },
+      {
+        "name": "Megan Fehlberg",
+        "character": "Acrobat",
+        "profile_path": ""
+      },
+      {
+        "name": "Rachel Jacobs",
+        "character": "Acrobat",
+        "profile_path": ""
+      },
+      {
+        "name": "Rebecca Leonard",
+        "character": "Acrobat",
+        "profile_path": ""
+      },
+      {
+        "name": "Erin Michie",
+        "character": "Acrobat",
+        "profile_path": ""
+      },
+      {
+        "name": "Danielle Rueda-Watts",
+        "character": "Acrobat",
+        "profile_path": ""
+      },
+      {
+        "name": "Dana Calitri",
+        "character": "Female Ensemble",
+        "profile_path": ""
+      },
+      {
+        "name": "Kate Coffman-Lloyd",
+        "character": "Female Ensemble",
+        "profile_path": ""
+      },
+      {
+        "name": "Curtis King Jr.",
+        "character": "Male Ensemble",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tWxOQrljbNp3TqJ1lqV0sEMtL0c.jpg"
+      },
+      {
+        "name": "Laura Dean",
+        "character": "Female Ensemble",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3F7cDmSyyHXRsI0AjMkSFLWIn4n.jpg"
+      },
+      {
+        "name": "Margaret Dorn",
+        "character": "Female Ensemble",
+        "profile_path": ""
+      },
+      {
+        "name": "Capathia Jenkins",
+        "character": "Female Ensemble",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yoy4XAfwsS0OIE3PKNCNYLWiXuy.jpg"
+      },
+      {
+        "name": "Audrey Martells",
+        "character": "Female Ensemble",
+        "profile_path": ""
+      },
+      {
+        "name": "Sara Ramirez",
+        "character": "Female Ensemble",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5hi4tZfMQe5Cw236c7eIFYi0D1F.jpg"
+      },
+      {
+        "name": "Nicki Richards",
+        "character": "Female Ensemble",
+        "profile_path": ""
+      },
+      {
+        "name": "Dennis Collins",
+        "character": "Male Ensemble",
+        "profile_path": ""
+      },
+      {
+        "name": "Darius De Haas",
+        "character": "Male Ensemble",
+        "profile_path": ""
+      },
+      {
+        "name": "Willie Falk",
+        "character": "Male Ensemble",
+        "profile_path": ""
+      },
+      {
+        "name": "Timothy Shew",
+        "character": "Male Ensemble (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Alfonzo Thornton",
+        "character": "Male Ensemble (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Troyer",
+        "character": "Male Ensemble (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Rob Marshall",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4cTHkbMpsHHNI23HP3RHNLFoPRz.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "chicago, illinois",
+    "musical",
+    "based on play or musical",
+    "jail",
+    "lawyer",
+    "prison matron",
+    "jazz age",
+    "1920s"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Two death-row murderesses develop a fierce rivalry while competing for publicity, celebrity, and a sleazy lawyer's attention.",
+    "Murderesses Velma Kelly (Catherine Zeta-Jones) (a chanteuse and tease who killed her husband and sister after finding them in bed together) and Roxie Hart (Renée Zellweger) (who killed her lover when she discovered he wasn't going to make her a star) find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago.—Debpp322",
+    "In 1920s Chicago. Housewife Roxie Hart (Renée Zellweger) dreams of fame, Her dreams lead her to death-row, where she and another murdess, a vaudevillan named Velma Kelly (Catherine Zeta-Jones), develop a rivalry while competing for for fame in the hope it will keep them from their fate.—Huggo",
+    "Nightclub sensation Velma Kelly (Catherine Zeta-Jones) murders her philandering husband, and Chicago's slickest lawyer, Billy Flynn (Richard Gere), is set to defend her. But when Roxie Hart (Renée Zellweger) also winds up in prison, Billy takes on her case as well - turning her into a media circus of headlines. Neither woman will be outdone in their fight against each other and the public for fame and celebrity.—Jwelch5742",
+    "Fame hungry Roxie Hart (Renée Zellweger) dreams of a life on the Vaudville stage, and spends her nights jazzing it up in the bright lights of Chicago, continually hoping that she'll find her lucky break, and be shot into 1920's stardom, so able to flee her boring husband Amos (John C. Reilly). In awe of seductive club singer Velma Kelly (Catherine Zeta-Jones) (who is subsequantly arrested for the murder of her husband and sister - after discovering their affair), Roxie meets Fred Casely (Dominic West), a man who convinces her he can \"make her showbiz career take off\". However, after Roxie has undergone the \"casting couch\" treatment, and Fred has had his wicked way with her, he reveals that he has no more connections in show business than she does. This is the final straw for Roxie, and her constant anger at rejection explodes. She shoots Fred Casely and kills him. Upon discovering her infidelity, Roxie's husband Amos refuses to take the blame for the murder and Roxie is sent to jail, pending hanging. In jail, she finally meets tabloid darling Velma Kelly, currently receiving huge media attention for the double murder she committed earlier in the tale. Sharing the clink with Velma, are a collection of other sly females, all awaiting trial for the murders of their own partners. Velma is aloof to Roxie, however, the prison Warden, Matron Mama Morton (Queen Latifah), offers Roxie the opportunity of representation by slick Chicago lawyer Billy Flynn (Richard Gere). Billy is more a showbiz public relations agent than a legal lawyer, and minipulates the tabloids into thinking Roxie is no more than an innocent \"good time girl\" who took the wrong path, than a scheming murderess. The tabloids go crazy for the new girl on the cell block, and Roxie finally becomes a star. However, due to Roxie's new found fame, Velma is forgotten about. She is forced to approach Roxie with an offer of a part in her Vaudville act (filling the gap left by her murdered sister), but Roxie turns down her offer flat, thinking she needs no support in topping the bill. However, just as Velma's star fell, so does Roxie's, when Go-to-hell Kitty Baxter (Lucy Liu) arrives at the jail on a multiple murder charge, the press forget Roxie and now she and Velma are in the same boat. With one more trick up her sleave, Roxie manages to bring the media attention back onto her, and her day in court arrives. Billy is now ready to play the ultimate showman."
+  ],
+  "synopsis": "In Chicago, circa 1924, naive Roxie Hart (Renée Zellweger) visits a nightclub, where star Velma Kelly (Catherine Zeta-Jones) performs (\"All That Jazz\"). Roxie is there with Fred Casely (Dominic West), a lover she hopes will get her a vaudeville gig. After the show, Velma is arrested for killing her husband and sister, Veronica, after finding them in bed together. Later, Fred reveals to Roxie that he lied about his connections in order to sleep with her, at which point Roxie, in a fit of rage, shoots Fred three times, killing him. Roxie convinces her husband, Amos (John C. Reilly), to take the blame, telling him it was a burglar and that he needn't worry, he'll get off. When the officer points out that the victim is Fred Casely, who sold the Harts furniture, Amos abandons his lie and says Casely was dead when he got home (\"Funny Honey\"). Roxie is sent to Cook County Jail.Upon her arrival, she is sent to Murderess' Row-under the care of the corrupt Matron \"Mama\" Morton (Queen Latifah), who takes bribes and supplies her prisoners with cigarettes and contraband (\"When You're Good to Mama\")-to await trial. Roxie meets Velma, and learns the backstories of the other women in Murderess' Row (\"Cell Block Tango\"). Roxie decides that she wants to engage Velma's lawyer, Billy Flynn (Richard Gere) (\"All I Care About\"), and convinces her husband to talk to him. Flynn and Roxie manipulate the press at a press conference, reinventing Roxie's identity to make Chicago fall in love with her (\"We Both Reached for the Gun\"). Roxie becomes the new infamous celebrity of the Cook County Jail (\"Roxie\"), much to Velma's disgust and Mama's delight. Velma, desperate to get back into the limelight, tries to talk Roxie into opening a vaudeville act with her once they get out of jail (\"I Can't Do It Alone\"). Seeking revenge for an earlier mocking, Roxie haughtily refuses, and Roxie and Velma become locked in a rivalry to outshine each other.After an heiress (Lucy Liu) is arrested for a triple homicide (she killed her husband and the two women in bed with him), Roxie finds herself ignored by the paparazzi and neglected by Flynn. After being told by Velma that her name isn't in the paper, Roxie manages to steal back the limelight by claiming to be pregnant, which is confirmed by a doctor, whom it is implied she seduced. As paparazzi chase Roxie, Amos remains ignored (\"Mister Cellophane\"). Roxie witnesses the execution by hanging of another inmate (who was falsely accused) after losing her last appeal, which fuels Roxie's desire to be free. Roxie and Billy design their scheme to prove her innocence, by using her star power and sympathy vote.Her trial becomes a media spectacle (\"Razzle Dazzle\"), fed on the sensationalist reports of newspaper reporter and radio personality, Mary Sunshine (Christine Baranski). The trial goes Roxie's way until Velma shows up with Roxie's diary. In exchange for amnesty, Velma reads incriminating entries from the diary that could convict Roxie; however, Billy manages to get her off the hook. Roxie's publicity is short-lived: as soon as the trial concludes, the public's attention turns to a new murderess. Roxie leaves the courthouse after Billy tells her that it is Chicago and she can't beat fresh blood off the walls. Roxie reveals to Amos she faked her pregnancy for the fame. It is implied, but never stated, that Amos leaves her at this point.With nothing left, Roxie once more sets off to find a stage career, with little success (\"Nowadays\"). However, she is soon approached by Velma, also down on her luck, who is willing to revive a two-person act with Roxie. Roxie refuses at first, still not over the hate they shared for each other while in prison, but relents when Velma points out that \"there's only one business in the world where that's not a problem at all: show business.\" The two murderesses, no longer facing jail time, finally become the enormous successes they have been longing to be (\"Nowadays/Hot Honey Rag\"). The film concludes with Roxie and Velma receiving a standing ovation from an enthusiastic audience that includes Mama and Billy.",
+  "imdb_score": 7.2
+}

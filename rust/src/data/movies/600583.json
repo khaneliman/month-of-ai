@@ -1,0 +1,308 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
+  "id": 600583,
+  "title": "The Power of the Dog",
+  "poster_path": "https://image.tmdb.org/t/p/w500/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
+  "release_date": "2021-10-25",
+  "vote_average": 6.8,
+  "vote_count": 2493,
+  "popularity": 22.85,
+  "overview": "A domineering but charismatic rancher wages a war of intimidation on his brother's new wife and her teen son, until long-hidden secrets come to light.",
+  "imdb_id": "tt10293406",
+  "budget": 0,
+  "homepage": "https://thepowerofthedogmovie.com",
+  "revenue": 0,
+  "runtime": 126,
+  "tagline": "",
+  "genres": [
+    "Drama",
+    "Western"
+  ],
+  "production_companies": [
+    "BBC Film",
+    "Cross City Films",
+    "New Zealand Film Commission",
+    "Bad Girl Creek",
+    "Max Films",
+    "See-Saw Films"
+  ],
+  "production_countries": [
+    "AU",
+    "CA",
+    "NZ",
+    "GB"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Benedict Cumberbatch",
+        "character": "Phil Burbank",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fBEucxECxGLKVHBznO0qHtCGiMO.jpg"
+      },
+      {
+        "name": "Kodi Smit-McPhee",
+        "character": "Peter Gordon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sesCWba9NwPDYDZzbVLs7OgLOti.jpg"
+      },
+      {
+        "name": "Kirsten Dunst",
+        "character": "Rose Gordon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sFYHUU1gWd57pttD8732tkBsXV5.jpg"
+      },
+      {
+        "name": "Jesse Plemons",
+        "character": "George Burbank",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bXkAPGVnf4j8fbCZ7DrWGkYOc5S.jpg"
+      },
+      {
+        "name": "Thomasin McKenzie",
+        "character": "Lola",
+        "profile_path": "https://image.tmdb.org/t/p/w185/WOpnEFG5Q8LWxP81MtUrskmVox.jpg"
+      },
+      {
+        "name": "Geneviève Lemon",
+        "character": "Mrs. Lewis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k93Xs9K7eX06FKIePWD05eDuqBD.jpg"
+      },
+      {
+        "name": "Keith Carradine",
+        "character": "The Governor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5gayZWGqjTAVJXr1bXovk3oqOxW.jpg"
+      },
+      {
+        "name": "Frances Conroy",
+        "character": "Old Lady",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
+      },
+      {
+        "name": "Kenneth Radley",
+        "character": "Barkeep",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jqiM2DbXtNRF3yxRaU2nkYzewEJ.jpg"
+      },
+      {
+        "name": "Sean Keenan",
+        "character": "Sven",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w6zfDPiprbzI5fYavP4ZreMnBU1.jpg"
+      },
+      {
+        "name": "George Mason",
+        "character": "Cricket",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fLUXBgeSwXFG5GRveROIniYXIpk.jpg"
+      },
+      {
+        "name": "Ramontay McConnell",
+        "character": "Theo",
+        "profile_path": ""
+      },
+      {
+        "name": "David Denis",
+        "character": "Angelo",
+        "profile_path": ""
+      },
+      {
+        "name": "Cohen Holloway",
+        "character": "Bobby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7qWqBZk4arFgx7TJpi7uXe6eH2z.jpg"
+      },
+      {
+        "name": "Max Mata",
+        "character": "Juan",
+        "profile_path": ""
+      },
+      {
+        "name": "Josh Owen",
+        "character": "Lee",
+        "profile_path": ""
+      },
+      {
+        "name": "Alistair Sewell",
+        "character": "Jock",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bE5tjZAC3BBoP0Mh1WgT00e6zfT.jpg"
+      },
+      {
+        "name": "Eddie Campbell",
+        "character": "Stan",
+        "profile_path": ""
+      },
+      {
+        "name": "Alice Englert",
+        "character": "Buster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lEXLJpH29u2fTTqOIEsxEtSQP8C.jpg"
+      },
+      {
+        "name": "Bryony Skillington",
+        "character": "Queenie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bMKSZXdKe3GlL8w6Ebi28eiTJ6z.jpg"
+      },
+      {
+        "name": "Jacque Drew",
+        "character": "Jeanie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Vw1fwfEtmWBUFfhm8FjdMmyqkS.jpg"
+      },
+      {
+        "name": "Yvette Parsons",
+        "character": "Hettie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rviTXu0eq0OJDWQ8hVxLCEyYUPQ.jpg"
+      },
+      {
+        "name": "Aislinn Furlong",
+        "character": "Evie",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Cleary",
+        "character": "Jeanie's Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kvEB9Yq0gpxubYuruk5TQ9l6CPA.jpg"
+      },
+      {
+        "name": "Richard Falkner",
+        "character": "Pianola Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Tatum Warren-Ngata",
+        "character": "Libby",
+        "profile_path": ""
+      },
+      {
+        "name": "Yvette Reid",
+        "character": "Clementine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xvOQGmSbdtDqfjooe0J4TCAE1db.jpg"
+      },
+      {
+        "name": "Alice May Connolly",
+        "character": "Pearl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a16fQ0jLSaFcWFp7gY4QUkTyo1Y.jpg"
+      },
+      {
+        "name": "Stephen Lovatt",
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
+      },
+      {
+        "name": "Stephen Bain",
+        "character": "Mr Weltz the Undertaker",
+        "profile_path": ""
+      },
+      {
+        "name": "Ella Hope-Higginson",
+        "character": "Consuela",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hZRpGVczt2lVLdoyKMpJM5qJRsP.jpg"
+      },
+      {
+        "name": "Piimio Mei",
+        "character": "Sue Ella",
+        "profile_path": ""
+      },
+      {
+        "name": "Edith Poor",
+        "character": "Tanya",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tXFBvyksqdNoZROTJAYZ00YMqCA.jpg"
+      },
+      {
+        "name": "Vadim Ledogorov",
+        "character": "Older Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wgLcf6RCZeU3iB0PvUdqUxiViKC.jpg"
+      },
+      {
+        "name": "Julie Forsyth",
+        "character": "Mrs Mueller",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Carroll",
+        "character": "Old Gent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jVb7YfltTVdFZvF0ySsymZc0m9X.jpg"
+      },
+      {
+        "name": "Alison Bruce",
+        "character": "The Governor's Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e4ZZDK9lObXflkOPDHTp84OKM3y.jpg"
+      },
+      {
+        "name": "Karl Willetts",
+        "character": "Bill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dkWglXQZAug9g8VVDtvonZO9nrO.jpg"
+      },
+      {
+        "name": "David T. Lim",
+        "character": "Cook",
+        "profile_path": "https://image.tmdb.org/t/p/w185/avkdW9kdSMxMsCPAJOM87qkXeSA.jpg"
+      },
+      {
+        "name": "Adam Beach",
+        "character": "Edward Nappo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k2KLABeVAvL0szCOEgfarNKsESg.jpg"
+      },
+      {
+        "name": "Maeson Stone Skuggedal",
+        "character": "Edward Nappo's Son",
+        "profile_path": ""
+      },
+      {
+        "name": "Ian Harcourt",
+        "character": "Undertaker Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cusbc5RNGmY2bFeSeA3mUsjQIQs.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jane Campion",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zAkrfMl6m940Ja46ofWaM94gTNj.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "husband wife relationship",
+    "based on novel or book",
+    "sadism",
+    "sexuality",
+    "widow",
+    "montana",
+    "eroticism",
+    "banjo",
+    "cigarette",
+    "ranch",
+    "marriage",
+    "bullying",
+    "death of father",
+    "sexual tension",
+    "period drama",
+    "masturbation",
+    "alcoholic",
+    "humiliation",
+    "gender roles",
+    "cowboy",
+    "homoeroticism",
+    "lgbt",
+    "misogynist",
+    "mentor protégé relationship",
+    "woman director",
+    "medical student",
+    "drunkenness",
+    "masculinity",
+    "animal cruelty",
+    "1920s",
+    "hula hoop",
+    "mother son relationship",
+    "brother brother relationship",
+    "toxic masculinity",
+    "repressed sexuality",
+    "gay theme",
+    "brothers",
+    "homosexual subtext",
+    "homosexuality",
+    "20th century"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Charismatic rancher Phil Burbank inspires fear and awe in those around him. When his brother brings home a new wife and her son, Phil torments them until he finds himself exposed to the possibility of love.",
+    "Severe, pale-eyed, handsome, Phil Burbank is brutally beguiling. All of Phil's romance, power and fragility is trapped in the past and in the land: He can castrate a bull calf with two swift slashes of his knife; he swims naked in the river, smearing his body with mud. He is a cowboy as raw as his hides. The year is 1925. The Burbank brothers are wealthy ranchers in Montana. At the Red Mill restaurant on their way to market, the brothers meet Rose, the widowed proprietress, and her impressionable son Peter. Phil behaves so cruelly he drives them both to tears, revelling in their hurt and rousing his fellow cowhands to laughter - all except his brother George, who comforts Rose then returns to marry her. As Phil swings between fury and cunning, his taunting of Rose takes an eerie form - he hovers at the edges of her vision, whistling a tune she can no longer play. His mockery of her son is more overt, amplified by the cheering of Phil's cowhand disciples. Then Phil appears to take the boy under his wing. Is this latest gesture a softening that leaves Phil exposed, or a plot twisting further into menace?—Netflix",
+    "1925 rural Montana. Harbouring a silent but discernible disagreement over everything, the polar opposite Burbank brothers--swaggering, boorish Phil and dapper, mild-mannered George--have been running the family's prosperous ranch for decades. Owing his charisma and unrelenting competence to his late mentor \"Bronco\" Henry, Phil takes great pleasure in bullying his soft-spoken sibling, utterly unaware that change is on its way. As a chance encounter with widowed lodging house owner Rose and her sensitive teenage son Peter leads to an unexpectedly profound bond, suddenly, mean Phil chooses to shift his focus away from his worries and concentrate on the quiet boy--an easy target. And, more and more, harassment and abuse pave the way for depression and alcoholism. But, sometimes, secrets hide in plain sight. Can a bloated, noxious ego lead to destruction?—Nick Riganas",
+    "A middle-aged male rancher who has lived a difficult life slowly separates and tortures his brother's family. In doing so, he hopes to find peace and the one thing that he has been afraid of getting in his life due to everyone around him and the consequences that he could get.—RECB3"
+  ],
+  "synopsis": "In 1925 Montana, wealthy ranch owner brothers Phil and George Burbank meet widow and inn owner Rose Gordon during a cattle drive. The gentle-mannered George is quickly taken with Rose, while the volatile Phil, much influenced by his late mentor \"Bronco\" Henry, mocks Rose's son Peter for his lisp and effeminate manner. George and Rose soon marry. Rose uses George's money to send her son to college to study medicine and surgery, while she moves into the Burbank ranch house. Phil immediately takes a dislike to her, believing she took advantage of George for his wealth. His rough ways and taunting manner unnerve her. George organizes a dinner party with his parents and the governor so they can meet Rose and hear her play their new piano. Phil, after being asked by George to wash up before dinner, is nowhere to be found. Rose is very reluctant to play the piano, citing her lack of ability, but is pressured to do so by George and their guests. She is unable to play more than a few notes and is further humiliated when Phil, still dirty, enters and mentions all her practicing. As they leave, she takes a drink of alcohol, something she was previously opposed to. By the time Peter comes to stay at the ranch for the summer break, Rose has become an alcoholic, which she hides from George. Phil and his men taunt Peter, and he sequesters himself in his room, dissecting animals and studying diseases. In a secluded glade, Phil lies on the ground with Bronco Henry's handkerchief, draping it over his face. Peter enters the glade and finds a stash of magazines with Bronco Henry's name on them depicting nude men. He observes Phil bathing in a pond with the kerchief around his neck; Phil notices him and chases him off. Phil suddenly begins to show decency to Peter, offering to plait him a lasso from rawhide and teach him how to ride a horse. Phil is impressed when Peter immediately picks out a shadow in the shape of a dog on a nearby mountain. Peter, out on a solo ride, comes across a diseased cattle carcass and cuts into its hide with a scalpel. Out on a fencing job, Peter and Phil corner and kill a rabbit, and Phil gets an open wound on his hand. Afterwards, Peter tells Phil about finding the body of his father, who had hanged himself. Seeing how much time her son is spending with Phil, Rose's alcoholism worsens. Upon learning about Phil's policy of burning the hides he does not need for himself, Rose defiantly gives them to local Indigenous traders who thank her with a pair of gloves. She then collapses from her rapid alcohol consumption and George tends to her. With no hides to finish Peter's lasso, Phil is despondent until Peter offers him the hide he cut from the dead cattle. They spend the night in the barn finishing it, and Phil tells Peter a story of how Bronco Henry saved his life by combining their body heat in freezing weather and does not answer when Peter asks if they were naked and they then seductively share a cigarette. When Phil does not show up for breakfast the next morning, George finds him sickened in bed and his wound heavily infected. A delirious Phil looks for Peter to give him the finished lasso but George takes him away to the hospital before he can hand it over. In the next scene, George is seen picking out a coffin while Phil's body is prepared for burial. At his funeral, a doctor tells George that Phil most likely died from anthrax, puzzling him, as Phil was always careful to avoid diseased cattle. Having not gone to the funeral, Peter opens a Book of Common Prayer to the burial rite and then flips to the Psalter and reads Psalm 22:20: \"Deliver my soul from the sword; my darling from the power of the dog.\" He puts his finished lasso under his bed with gloved hands and watches George and a now sober Rose embrace, smiling, implying he intentionally gave Phil the diseased hide to save her life.",
+  "imdb_score": 6.8
+}

@@ -1,0 +1,463 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/fk4NXhazfRKtQaVEV9IPeM7OIVH.jpg",
+  "id": 10398,
+  "title": "Double Jeopardy",
+  "poster_path": "https://image.tmdb.org/t/p/w500/lSYMeHoUh9uWX2kXi9Fqe4BX2Ml.jpg",
+  "release_date": "1999-09-24",
+  "vote_average": 6.6,
+  "vote_count": 1216,
+  "popularity": 22.743,
+  "overview": "Framed for the murder of her husband, Libby Parsons survives the long years in prison with two burning desires sustaining her -- finding her son and solving the mystery that destroyed her once-happy life. Standing between her and her quest; however, is her parole officer, Travis Lehman. Libby poses a challenge to the cynical officer, one that forces him to face up to his own failings while pitting him against his superiors and law enforcement colleagues.",
+  "imdb_id": "tt0150377",
+  "budget": 70000000,
+  "homepage": "",
+  "revenue": 177841558,
+  "runtime": 105,
+  "tagline": "Murder isn't always a crime.",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Mystery",
+    "Drama"
+  ],
+  "production_companies": [
+    "Paramount",
+    "MFP Munich Film Partners GmbH & Company I. Produktions KG"
+  ],
+  "production_countries": [
+    "DE",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Ashley Judd",
+        "character": "Libby Parsons",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dofk0Y9YnGfoakFOonxoyFD7LOC.jpg"
+      },
+      {
+        "name": "Tommy Lee Jones",
+        "character": "Travis Lehman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+      },
+      {
+        "name": "Bruce Greenwood",
+        "character": "Nick Parsons",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rVpyddWneBBYYzYhMRmWoHMg3Hg.jpg"
+      },
+      {
+        "name": "Annabeth Gish",
+        "character": "Angie Green",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wfUaE95xUJ3Kh5okDpUMZNmbcom.jpg"
+      },
+      {
+        "name": "Benjamin Weir",
+        "character": "Matty Parsons, Age 4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pKxlKfkvyiYGHfIzPC4Ame1ZWHT.jpg"
+      },
+      {
+        "name": "Jay Brazeau",
+        "character": "Bobby Long",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sfZmnOv1Nd6jqeks5QtsW2Co3uH.jpg"
+      },
+      {
+        "name": "Roma Maffia",
+        "character": "Margaret Skolowski",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oEfa2NUJJNo4zg74eB5oY86tyip.jpg"
+      },
+      {
+        "name": "Davenia McFadden",
+        "character": "Evelyn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/edoxqYrRPUHb7YJ3b5Ijwwn0Yan.jpg"
+      },
+      {
+        "name": "Gillian Barber",
+        "character": "Rebecca Tingely",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9ARa8Bw1s4dZzZyEMHDti8fwPbx.jpg"
+      },
+      {
+        "name": "Michael Gaston",
+        "character": "Cutter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lXhqiW4J1n9bnbfwz0Kdf2sjGLU.jpg"
+      },
+      {
+        "name": "John Maclaren",
+        "character": "Rudy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/deFq2FqpyUoMes9Jlm7kzP671I1.jpg"
+      },
+      {
+        "name": "Ed Evanko",
+        "character": "Warren",
+        "profile_path": ""
+      },
+      {
+        "name": "Bruce Campbell",
+        "character": "Bartender at Party",
+        "profile_path": ""
+      },
+      {
+        "name": "Brennan Elliott",
+        "character": "Yuppie Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/32nFpgZTwXQ9u9JgZnsIlRACv6Q.jpg"
+      },
+      {
+        "name": "Angela Schneider",
+        "character": "Yuppie Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom McBeath",
+        "character": "Coast Guard Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vKeYC2KlMiq4S48ZafMll7jl9CJ.jpg"
+      },
+      {
+        "name": "David Jacox",
+        "character": "Deputy Ben",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c3cKOEB1jgFJkiDblugf1zuxwbg.jpg"
+      },
+      {
+        "name": "Betsy Brantley",
+        "character": "Prosecutor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dGSROHU3THDWRJzCywWNj0G9mqq.jpg"
+      },
+      {
+        "name": "Woody Jeffreys",
+        "character": "Watch Stander",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4b46XL5FldjSWlb9REaz0W16Xv0.jpg"
+      },
+      {
+        "name": "French Tickner",
+        "character": "Judge",
+        "profile_path": ""
+      },
+      {
+        "name": "Maria Bitamba",
+        "character": "Prisoner at Phone",
+        "profile_path": ""
+      },
+      {
+        "name": "Ben Bode",
+        "character": "Karl Carruthers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1IgjPpyzxxalNsUogSYDSXhAqHj.jpg"
+      },
+      {
+        "name": "Robin J. Kelley",
+        "character": "Parole Board Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Dana Still",
+        "character": "Drug Counselor",
+        "profile_path": ""
+      },
+      {
+        "name": "Gabrielle Rose",
+        "character": "Georgia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/obWfgaR4YBk648USvpLrJC64DVU.jpg"
+      },
+      {
+        "name": "Daniel Lapaine",
+        "character": "Handsome Internet Expert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5usnxFLjVgrJjY9T3Pvpy51Foh.jpg"
+      },
+      {
+        "name": "Maria Herrera",
+        "character": "Libby's Roommate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p5w5dpJSfiKQFdslIk38hwPBkZR.jpg"
+      },
+      {
+        "name": "Babs Chula",
+        "character": "Ruby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8AVQQb6vYWuyjpYK8a07ExNk5OZ.jpg"
+      },
+      {
+        "name": "Enuka Okuma",
+        "character": "Parolee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/giNRBe2NrmptqL2o5l8JzN4WDIm.jpg"
+      },
+      {
+        "name": "Peter Kimmerly",
+        "character": "Ferry Captain",
+        "profile_path": ""
+      },
+      {
+        "name": "George Gordon",
+        "character": "Emergency Room Doctor",
+        "profile_path": ""
+      },
+      {
+        "name": "David Fredericks",
+        "character": "Trucker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/127hQXKZWGGF5hOPnRSGiPsxjvR.jpg"
+      },
+      {
+        "name": "Anna Hagan",
+        "character": "Libby's Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dMP3YTDppfeETQ081J6SSCL2LcZ.jpg"
+      },
+      {
+        "name": "Fulvio Cecere",
+        "character": "BMW Salesman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Jc4LeoA0ND0stFqDiPzBeQ9SXt.jpg"
+      },
+      {
+        "name": "Tracy Vilar",
+        "character": "Orbe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/enHW6sUHKRQ9I8aza6e8NheFrYU.jpg"
+      },
+      {
+        "name": "Addison Ridge",
+        "character": "Boy at Door",
+        "profile_path": ""
+      },
+      {
+        "name": "Crystal Verge",
+        "character": "Housewife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8u07mAgHHsBT9f2nb8H87ng5r7l.jpg"
+      },
+      {
+        "name": "Joy Coghill",
+        "character": "Neighbor in Garden",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fWZyKZXlRA9VygLX8744q6s5m1V.jpg"
+      },
+      {
+        "name": "Bernard Cuffling",
+        "character": "Gallery Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rla86XNirzJYWLY7TLV92jhKrXt.jpg"
+      },
+      {
+        "name": "Barth C. Phillips",
+        "character": "Singer in Jackson Square",
+        "profile_path": ""
+      },
+      {
+        "name": "Jerome Alexander",
+        "character": "Singer in Jackson Square",
+        "profile_path": ""
+      },
+      {
+        "name": "Reginald Ringo",
+        "character": "Singer in Jackson Square",
+        "profile_path": ""
+      },
+      {
+        "name": "George Hunter",
+        "character": "Singer in Jackson Square",
+        "profile_path": ""
+      },
+      {
+        "name": "Ingrid Torrance",
+        "character": "Maison Beau Coeur Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wBvFNIe6zlPD9lDB413kYy6jXSU.jpg"
+      },
+      {
+        "name": "Roger Cross",
+        "character": "Hotel Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gLbHM7JH2nWCeEzSjzAYBUOSkT8.jpg"
+      },
+      {
+        "name": "Pamela Perry",
+        "character": "Mrs. Kritch",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim McDermott",
+        "character": "Bell Hop",
+        "profile_path": ""
+      },
+      {
+        "name": "Keegan Connor Tracy",
+        "character": "Boutique Saleswoman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lP5rlqK8YIqobtFghURPbNdN5zw.jpg"
+      },
+      {
+        "name": "Dave Hager",
+        "character": "Mangold",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2pPODg9dNp2qfFEXG75wrWTlmwG.jpg"
+      },
+      {
+        "name": "Jason Douglas",
+        "character": "Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeannie Grelier Church",
+        "character": "Scarf Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Austin B. Church",
+        "character": "Scarf Woman's Husband",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hwM7Mmua19YgjNZAaJTTtKcM0Ea.jpg"
+      },
+      {
+        "name": "Mykel Shannon Jenkins",
+        "character": "Doorman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/byIXjhCcP9D854m5NoFYydW6uLC.jpg"
+      },
+      {
+        "name": "Joe Simon",
+        "character": "Singer at Auction",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlie Detraz",
+        "character": "Auctioneer",
+        "profile_path": ""
+      },
+      {
+        "name": "Susan LeCourt-Barbe",
+        "character": "Bidder",
+        "profile_path": ""
+      },
+      {
+        "name": "Ramona Tyler",
+        "character": "Bidder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wisfhpv5UXA85Rf853BuHEOVZqN.jpg"
+      },
+      {
+        "name": "C. Barrett Downing",
+        "character": "Bidder",
+        "profile_path": ""
+      },
+      {
+        "name": "Michelle Stafford",
+        "character": "Suzanne Monroe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qvAb0fuCJTCE7z1ZPRbF47Sa8cR.jpg"
+      },
+      {
+        "name": "Greg DiLeo",
+        "character": "Bachelor at Auction",
+        "profile_path": ""
+      },
+      {
+        "name": "Lance Spellerberg",
+        "character": "Bachelor at Auction",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pa6FJNYUgjbna2Y0iugjNDj2S9F.jpg"
+      },
+      {
+        "name": "George Touliatos",
+        "character": "New Orleans Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kXeFgkPOgjxFk3uKfExrvRdA7wB.jpg"
+      },
+      {
+        "name": "Deryl Hayes",
+        "character": "New Orleans Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m2NvWy5PFjEJToUHpKySbys0ocB.jpg"
+      },
+      {
+        "name": "Brent Woolsey",
+        "character": "Mounted Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jv3MCoUVGomAgO4TbXXuamZTaOX.jpg"
+      },
+      {
+        "name": "Eliza Norbury",
+        "character": "Coed with Umbrella",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tNM6JGO7iiPhtpclFZwnNR2qtKS.jpg"
+      },
+      {
+        "name": "Roland Bob Harris",
+        "character": "Preacher",
+        "profile_path": ""
+      },
+      {
+        "name": "George Montgomery II",
+        "character": "Matty Pretender",
+        "profile_path": ""
+      },
+      {
+        "name": "Lossen Chambers",
+        "character": "Lucy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fA35DKbSrLr2KZmWuYK3yoqiWyZ.jpg"
+      },
+      {
+        "name": "Harold Evans",
+        "character": "New Orleans Cabbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sXWbT2v5PBTlokjFDWyXbynjZMY.jpg"
+      },
+      {
+        "name": "Thomas M. Mathews",
+        "character": "Coach",
+        "profile_path": ""
+      },
+      {
+        "name": "Gordon Starling Jr.",
+        "character": "Coach",
+        "profile_path": ""
+      },
+      {
+        "name": "Spencer Treat Clark",
+        "character": "Matty Parsons, Age 11",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8qb2Unu2907rU7k6UxmF9PFamau.jpg"
+      },
+      {
+        "name": "Rondel Reynoldson",
+        "character": "Restaurant Employee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Hn6iO7CNUHpPgcYKrpPMjDEzFg.jpg"
+      },
+      {
+        "name": "Nicolas Roye",
+        "character": "Bell Hop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mz96EUwWlbAeXrv2ybvx6uAR7Fj.jpg"
+      },
+      {
+        "name": "John Kapelos",
+        "character": "Man on Pay Phone (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9buu5iq8FxJXMqMjmqEjm1zl2A6.jpg"
+      },
+      {
+        "name": "Desmond Campbell",
+        "character": "Black Cop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vn4KSkjLyZxIh3ZFSRB36Ax7OAr.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Bruce Beresford",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p5p1YhKTh1EOSvf1NO96oBQI2Ll.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "sailboat",
+    "court case",
+    "sailing trip",
+    "new orleans, louisiana",
+    "ferry boat",
+    "women's prison",
+    "ex-cop",
+    "parole board",
+    "wrongful imprisonment",
+    "courtroom",
+    "ex-con",
+    "lost at sea",
+    "parolee",
+    "mother child separation",
+    "revenge plot",
+    "double jeopardy",
+    "probation officer",
+    "murder suspect",
+    "prison life",
+    "determination",
+    "halfway house",
+    "paintings",
+    "convicted murderer",
+    "revenge thriller",
+    "best friends",
+    "puget sound",
+    "whidbey island",
+    "mother looking for child"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A woman framed for her husband's murder suspects he is still alive; as she has already been tried for the crime, she can't be re-prosecuted if she finds and kills him.",
+    "When Nick Parsons appears to be murdered his wife Libby is tried and convicted. Six years later Libby is paroled and is pursued by Travis Lehman (her parole officer) as she sets out to find her son and settle the score with Nick.—Les MacDonald at <mcmac@mb.sympatico.ca>",
+    "In the Whidbey Island, Libby is happily married with her husband Nick Parsons and their son Matty. Nick is having financial problems but promises to Libby to buy a sailboat if she likes her. They go to sail in the vessel while Libby's best friend Angie stays with Matty. During the night, Libby and Nick drink wine and make love. When Libby wakes up, she and the boat are covered with blood and Nick is missing. She finds the galley's knife on the deck and out of the blue, the US Coast Guard arrives. They unsuccessfully look for Nick's body and later Libby is becomes the prime suspect to kill her husband to receive an insurance policy and is sentenced to prison. Angie and Matty stop visiting Libby and she finds that her best friend has moved to San Francisco. She calls her from the prison and finds that Nick is alive by chance and living with Angie. Libby befriends her cellmate Margaret, who is a former lawyer, and she gives advices to Libby. Six years later, Libby is on probation under the care of her tough officer and former lawyer and Professor Travis. But she is determined to find Matty, Angie and Nick.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "Libby wakes up one night covered in her husbands blood and his body missing! After being convicted of his murder she stays in touch with her son Matty. Ringing one day she hears her supposedly dead husband on the phone! After befriending an ex lawyer she learns that according to the state you can't be tried for the same crime twice! She's already been accused of killing her husband so there's nothing they can do if she actually goes ahead and does it now! On leaving prison she's on a mission to track down Nick and Matty but hot on her trail is probation officer Travis! Will she track Nick down and actually carry out the crime she has already been tried for?!—scottie-dog",
+    "Libby Parsons appears happily married to Nick and has a wonderful son, Matty. While spending the night on a sailboat Nick has proposed as a gift, Libby wakes up and finds Nick gone and blood all over the boat and she picks up the bloody knife. When an investigation begins, it's discovered that Nick was in financial trouble and had a two million dollar life insurance policy. Libby is arrested and tried for murder. She entrusts Matty to the care of their friend, Angela. Angela and Matty fail to make a prison visit and Libby tracks Angela down in San Francisco and during the calls while speaking to Matty he calls out a hello to Daddy and she learns that Nick is alive. A fellow inmate informs her that since she's been convicted of killing Nick already, she can now actually kill him and not be charged. After seven years she's paroled and placed in the custody of Travis, a parole officer. When she tries to find Matty, she breaks a few laws and violates her parole restrictions. She escapes custody to look for her son with Travis on her trail."
+  ],
+  "synopsis": "Libby Parsons seems to have it all. Her husband, Nick, is devoted to her and their four-year-old son Matty. The family live in a beautiful home on the Pacific Northwest waterfront. When Nick scores yet another business triumph, he proposed buying Libby a sailboat to celebrate. Leaving Matty with their friend Angie, who is a teacher at Matty's preschool, the couple set sail for a romantic weekend. Libby wakes up and finds she is covered in blood and Nick is gone. Dizzy and disoriented, she follows a trail of blood to the upper deck. Nick is not there but Libby sees a bloody knife and picks it up. The lights of a Coast Guard boat flash and a voice orders Libby to drop the knife. It turns out a mayday was received from the Parsons' yacht where Nick advises them he has been stabbed. Tests reveal that the blood found on the yacht was the same type as Nick's. It is presumed that the couple had an argument and Libby attacked Nick. He managed to send a mayday alert before falling or being pushed overboard.\nDespite the fact that no body is found, Libby is charged with murder. No one believes her story, not even the sheriff who is a family friend. Frantic over what will happen to Matty if she is found guilty, Libby signs over custody to Angie. Nick had a $2 million life insurance policy -- which police believe was the motive for his murder -- and Libby has the money put in Matty's name.\nThe jury finds Libby guilty. She is taken to a women's prison several hours away. At first Angie regularly brings Matty to visit. When they stop coming, Libby telephones Angie but the number is disconnected. She is inconsolable until a fellow prisoner tells her to use her brain. It is not that easy to disappear and Angie must have left a forwarding address with someone. Libby calls the preschool pretending to be Angie and says she hasn't received her final paycheck. She asks to confirm the forwarding address and phone number, and the secretary provides the information. Angie and Matty are in San Francisco.\nAngie answers the phone and Libby angrily confronts her. Obviously startled that Libby has managed to track her down, Angie stammers that she was intending to bring Matty for a visit. Libby spends a few minutes talking to her son. Suddenly Nick, alive and well, enters the room. Matty shouts \"Daddy!\" while Angie tries to shush him. Nick yanks the phone away and hangs up, but Libby hears enough to realize what has happened. Nick staged his own murder so he could disappear because of his business financial issues and he set Libby up to take the blame for his murder while he relocated with Angie and his son. Libby contacts her lawyer, the sheriff, and the insurance company but no one believes her that Nick is alive. Libby finds the San Francisco phone number to be no longer in service.\nA fellow prisoner, who was once a lawyer before killing her husband, comes to her aid. Libby is informed that she can't be tried twice for the same crime. It is called double jeopardy. Once she is paroled, Libby can track Nick down, kill him, and get away with it. Libby's hatred of Nick fuels her and she begins exercising vigorously to strengthen her body. After 6 years, she is eligible for parole. Her friend warns her that in order to be released, she must admit to killing Nick and show great remorse to the parole board. It works and Libby is sent to a halfway house for three years.\nUpon arrival, she is apprised of the rules by the home's director, an embittered ex-lawyer named Travis. Curfew, finding employment, not associating with criminals, no drugs or alcohol. Any violation of these rules and she will be returned to prison to serve out her sentence. But Libby's only goal is to find Nick and her son and she has no intention of waiting three years.\nInstead of looking for a job, she goes to the preschool that once employed Angie. The school's director is sympathetic but refuses to tell her where Angie is now living. She reminds Libby that Matty has been with Angie for several years now and there is no need to disrupt his life. That night, Libby returns to the preschool and breaks in. The police arrive as she locates Angie's file and takes a page of information. She escapes by running down the beach but is eventually caught and taken to the local jail. Travis arrives the next morning to escort her back to prison. He is disgusted that she deliberately violated parole. The scrap of paper with Angie's address is in his possession.\nHe drives them onto the ferry and handcuffs Libby's wrist to the outside door handle of his classic car. When he goes topside for a cup of coffee, to which he adds whiskey from a flask, Libby seizes her chance. Travis left the keys in the car and Libby manages to start it. Then she drives it back and forth, trying to smash the handcuffs and door handle against a post. The car in front of her is bumped and rolls off the boat into the ocean. Travis realizes what is going on and races to the lower level. Libby manages to lock the driver's door and Travis breaks the window and climbs in as she drives the car overboard.\nAn alarm is sounded on the very and life preservers are tossed in the water. Underwater, Travis manages to unlock Libby's handcuff and she grabs his pistol. He tries to retrieve it and she hits him on the head before swimming away. His wound requires stitches. When he tells his boss what happened, he is reprimanded for letting a prisoner escape with his gun. Having the address to where Libby is likely headed, he sets off after her.\nLibby hitches a rides to her mother's farm. After receiving some hidden money from her mother she purchases an old green pickup truck and sets off. Travis sets out to follow and capture Libby without authorization.\nLibby goes to a BMW car dealership and pretends she is Angie. The car salesman does a credit check using Angie's social security number and Libby is asked to confirm her address in Evergreen Colorado and the salesman says her record shows her last name is Ryder and not Green. Travis coerces a former parolee who is now a government employee to search Angela Green's social security number to get her address.\nShe has no trouble finding the address but Nick and Angie are not there. Another family owns the house. As a despondent Libby turns to leave, an old lady working in the yard next door tells her what happened to Nick and Angie, who she knew by different names. Several years earlier there was a gas explosion in the kitchen and Angie was killed. Nick and Matty moved away but the old lady doesn't know where.\nLibby goes to the public library and finds a newspaper account of the fire on microfiche. Apparently it was accidental, although Libby thinks that Nick murdered. In the newspaper picture of Angie taken at her home, Libby sees a Kandinsky painting in the background. Nick had a collection of these rare paintings and Libby thinks this might be a way to trace him. She drives to an art gallery and poses as a Kandinsky collector. The gallery employee looks on the internet and finds a painting recently sold by a Jonathan Devereaux of New Orleans. Libby recognizes the painting and is sure the seller is really Nick. Then Travis has spotted the pickup and enters the gallery. He was given a description of her truck by the elderly neighbor. While the employee excuses himself and goes to see what Travis wants, Libby finds Jonathan's address. She runs out the back door and escapes, smashing her truck into Travis's car that he used to block her vehicle. He gives chase on foot, but she eludes him. Later, she ditches the truck and gets on a plane to New Orleans. Travis checks the website at the gallery and knows where she is headed.\nJonathan Devereaux is a well-respected hotel owner in New Orleans. Libby inquires for him at the desk but he is not there but is expected that night for a Bachelor's auction. When she asks about Matty, the receptionist becomes wary and refuses to provide any information. At another high end hotel Libby overhears an elderly female guest give her name and gets her room number. Libby uses the name and room number to purchase a designer evening gown and accessories from the hotel shop. She intends to be at the Bachelor's Auction that night to confront Jonathan.\nTravis arrives in New Orleans and checks in with the local police. They aren't much interested in the escaped parolee but agree to issue a be-on-the-lookout alert for Libby, complete with photo, once Travis explains she is out to kill a prominent local citizen with his stolen gun.. Since it is Mardi Gras, the crowds are heavy and finding her won't be easy.Libby attends the auction and bids on Jonathan. Nick is startled to hear her voice but cannot find her in the crowd. Another woman bids on him too but Libby keeps raising the bid and wins. She walks up to her husband and calls him Nick. He is eager to find out what she wants before she exposes him. Libby tells several of Johnathan's female friends that she is his wife and Shawn she asks him about Angie the women depart.\nWhen she asks why he did all that to her, he said he had been on the verge of bankruptcy and thought if he faked his death, the life insurance money would take care of her and Matty. He never dreamed she would be found guilty. Nick claims Angies's death was an accident but Libby is not buying it. Libby agrees to leave him alone if he will give her Matty. Jonathan says he is away at school. Libby says she will call the next day and he had better have the boy there\nLater that evening, Travis arrives at Nick's hotel. Jonathan swears he has no idea who this crazy woman is, pretending to be his wife. Travis warns him that she has a gun. Travis is not impressed with Jonathan and wonders if Libby's story could possibly be true. Travis spots some of the Kazinsky paintings on the wall. He contacts his office in Washington to get copies of Nick's driver license picture.\nearlier Libby is recognized by the owner of a bar where she is eating from a police bulletin picture. He warns her to watch out for the police, who have entered the bar. Since it is pouring rain, he loans her a red umbrella. Libby disappears into the crowds but not fast enough. Travis, who is riding in a patrol car, spots her. He gives chase and grabs the wrong woman. Once again Libby escapes.\nLibby calls Jonathan while he is speaking to Travis and tells him to bring Matty to a popular nearby cemetery the next day. It is a public place in case Jonathan tries anything. A funeral is taking place when they meet. Libby asks where Matty is and Jonathan points to a young boy some distance off. He says Matty is shy about seeing her again. Libby starts toward the boy and he runs away. She calls his name and chases him. Suddenly Jonathan steps out from behind a mausoleum and hits Libby on the head. He drags her into the mausoleum and puts her inside a coffin. The boy is waiting outside and Jonathan hands him some money. Obviously he is not Matty. Satisfied that his wife will trouble him no longer, Jonathan returns to his hotel.\nTravis pays him another visit and once again Jonathan insists that he knows nothing about a woman named Libby Parsons. Although he is now very suspicious, Travis has no choice but to leave.\nLibby awakes inside the coffin and screams when she sees a mummified body lying next to her. But there is no one to hear. The funeral is over and the cemetery is deserted. She remembers the gun and shoots the two hinges off. By pushing on the lid she manages to free herself. But she is still locked inside the mausoleum. She escapes by throwing a vase of dead flowers through the stained glass window. On her way back to the hotel, she comes face to face with Travis. Realizing that she can't get away this time, she bursts into tears and Travis tells her it is over and embraces her.\nJonathan is less than welcoming when Travis returns to his office. Travis explains he asked the Department of Motor Vehicles in the state of Washington to fax him copies of Nicholas Parsons' driver license. Travis shoes him a picture of another man and then reveals that there were several Nicholas Parsons, six in fact, and that the third one was a picture of the man now known as Jonathan Devereaux. Jonathan tries to bluff and says it isn't a crime to change one's name. But there is the matter of insurance fraud. Travis pretends to start to call the police and then pretends to reconsider and asks for one million dollars to keep quiet. Jonathan doesn't have that kind of money on hand but offers Travis the hundred thousand he has in the safe in cash and the rest tomorrow. Johnathan explains that the problem with Libby is buried. Suddenly Libby bursts into the room, gun drawn. Jonathan reminds her that Louisiana is a death penalty state. Libby explains to him what she understands double jeopardy to mean and Travis backs her up. But all she wants is Matty. Jonathan says he is at St. Alban's school in Georgia. Libby shoots a hole in one of Nick's paintings. Travis and Libby threaten to frame Johnathan for Libby's murder. As Travis and Libby go to leave Jonathan draws his own gun and shoots Travis. A brief scuffle ensures and in the end Jonathan/Nick is shot by Libby.As Travis is treated by paramedics, the police chief says that Mrs. Parsons has inherited herself a hotel. Libby doesn't want it and prepares to take off. But Travis stops her. She is still wanted by the police and must return to Seattle but he will testify on her behalf to get a full pardon. Since he had secretly recorded the conversation with Jonathan on his cell phone, which positively identified Jonathan as Nick Parsons, the charges against Libby will be cleared.\nLibby and Travis travel together to St. Alban's school. Travis has been fired from his job as a parole officer. Libby and Matty are at last reunited. Matty explains that his father and Angie had told him his mother was dead.",
+  "imdb_score": 6.5
+}

@@ -1,0 +1,313 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/6ms6RdNcQUAnjBY26aM85xC2wV0.jpg",
+  "id": 7191,
+  "title": "Cloverfield",
+  "poster_path": "https://image.tmdb.org/t/p/w500/qIegUGJqyMMCRjkKV1s7A9MqdJ8.jpg",
+  "release_date": "2008-01-15",
+  "vote_average": 6.678,
+  "vote_count": 6691,
+  "popularity": 35.625,
+  "overview": "Five young New Yorkers throw their friend a going-away party the night that a monster the size of a skyscraper descends upon the city. Told from the point of view of their video camera, the film is a document of their attempt to survive the most surreal, horrifying event of their lives.",
+  "imdb_id": "tt1060277",
+  "budget": 25000000,
+  "homepage": "",
+  "revenue": 170764026,
+  "runtime": 85,
+  "tagline": "Some thing has found us.",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Bad Robot"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Lizzy Caplan",
+        "character": "Marlena Diamond",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xOLXlzpSJExsBlKroCyCNGhzQEU.jpg"
+      },
+      {
+        "name": "Jessica Lucas",
+        "character": "Lily Ford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nYS2J93VapM1GW5UdqMFqCxVMUv.jpg"
+      },
+      {
+        "name": "T.J. Miller",
+        "character": "Hudson 'Hud' Platt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rRrVvBxOkyYM5XdLXimShHR1Itn.jpg"
+      },
+      {
+        "name": "Michael Stahl-David",
+        "character": "Rob Hawkins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eHDOcBnXcRD9Ls3APP7qMpzjNFn.jpg"
+      },
+      {
+        "name": "Mike Vogel",
+        "character": "Jason Hawkins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ig9lYc81d3Pq9qSxxcobDbuCWbt.jpg"
+      },
+      {
+        "name": "Odette Annable",
+        "character": "Beth McIntyre",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fWPmTC9QfqAKi3JKJKp2LKrm8Ix.jpg"
+      },
+      {
+        "name": "Anjul Nigam",
+        "character": "Bodega Cashier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7WEVpmmU7NtgWKhg3muHW4D32NH.jpg"
+      },
+      {
+        "name": "Margot Farley",
+        "character": "Jenn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uZtDDxeOtYFzgLO2eV5rrHvsw1k.jpg"
+      },
+      {
+        "name": "Theo Rossi",
+        "character": "Antonio",
+        "profile_path": "https://image.tmdb.org/t/p/w185/344QE41Jileu4OE41cmYgBxc5BF.jpg"
+      },
+      {
+        "name": "Brian Klugman",
+        "character": "Charlie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v716uSwY5xiz8reoIuMG7ikWLS5.jpg"
+      },
+      {
+        "name": "Kelvin Yu",
+        "character": "Clark",
+        "profile_path": "https://image.tmdb.org/t/p/w185/47m8mUsuNIEyLb3KeDpryyvK0LI.jpg"
+      },
+      {
+        "name": "Liza Lapira",
+        "character": "Heather",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o3jvQAGWtxi5rEycslhC6CY8BWX.jpg"
+      },
+      {
+        "name": "Lili Mirojnick",
+        "character": "Lei",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ndoDSg6ENP5i5XJmFrhdmRlvCsW.jpg"
+      },
+      {
+        "name": "Ben Feldman",
+        "character": "Travis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/neArGlsh50NtcGzUM99Puz6TrFX.jpg"
+      },
+      {
+        "name": "Elena Caruso",
+        "character": "Party Goer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3dQkcxrpgpV9UbWLtlSHNScW7oT.jpg"
+      },
+      {
+        "name": "Vakisha Coleman",
+        "character": "Party Goer",
+        "profile_path": ""
+      },
+      {
+        "name": "Will Greenberg",
+        "character": "Party Goer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qNUnINlhFUQO567z7YDLZljj5lc.jpg"
+      },
+      {
+        "name": "Rob Kerkovich",
+        "character": "Party Goer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jQ8PTWqnLGEwifDTTYJ88rGPPzl.jpg"
+      },
+      {
+        "name": "Ryan Key",
+        "character": "Party Goer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mZQpoBm9SDCOp5Qzj29Czpnrb2O.jpg"
+      },
+      {
+        "name": "Hooman Khalili",
+        "character": "Party Goer",
+        "profile_path": ""
+      },
+      {
+        "name": "Rasika Mathur",
+        "character": "Party Goer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mlgH0IAUzcxhBkpxrzuvfAJTupB.jpg"
+      },
+      {
+        "name": "Baron Vaughn",
+        "character": "Party Goer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xCsfS7pGAvXvTU7Tg1ZvFH2jW9c.jpg"
+      },
+      {
+        "name": "Charlyne Yi",
+        "character": "Party Goer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h8A0PEz8Ot2gotwZciL3HwyclNS.jpg"
+      },
+      {
+        "name": "Roma Torre",
+        "character": "Roma Torre",
+        "profile_path": ""
+      },
+      {
+        "name": "Rick Overton",
+        "character": "Frantic Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6TYFFjEKcS7ielkYru6MvJa8jSY.jpg"
+      },
+      {
+        "name": "Martin Cohen",
+        "character": "Burly Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Cerbone",
+        "character": "Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gcnQCiBDdfjgZi6Cj8iQ1SVLNa1.jpg"
+      },
+      {
+        "name": "Pasha D. Lychnikoff",
+        "character": "Russian Man on Street",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xftO8wDW9j4RBO91g9wWzDAAHbz.jpg"
+      },
+      {
+        "name": "Billy Brown",
+        "character": "Staff Sgt. Pryce",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i6xWRaGKMRQeM5GvWYnwlojddo8.jpg"
+      },
+      {
+        "name": "Scott Lawrence",
+        "character": "Lead Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8lwnmlHN6QPK75NwfufsIFZZhmB.jpg"
+      },
+      {
+        "name": "Jeffrey De Serrano",
+        "character": "Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qoNYiCx3anWFdFlnUBlRpiKpIzf.jpg"
+      },
+      {
+        "name": "Tim Griffin",
+        "character": "Command Center Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i3BRPyeBg7CQnGLsHxA6gpnDzDj.jpg"
+      },
+      {
+        "name": "Chris Mulkey",
+        "character": "Lt. Col. Graff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jzIy97l6g4xmwXnaZxDkjP7w9pS.jpg"
+      },
+      {
+        "name": "Susse Budde",
+        "character": "Medic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8WSYlJpEQ5Vv9LRNm8kWh1UpisG.jpg"
+      },
+      {
+        "name": "Jason Lombard",
+        "character": "Second Medic",
+        "profile_path": ""
+      },
+      {
+        "name": "Jamie Martz",
+        "character": "Helicopter Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rPOofiPzWGV4IT8kZe6b9lkwTvq.jpg"
+      },
+      {
+        "name": "Matt Reeves",
+        "character": "Radio Announcer (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg"
+      },
+      {
+        "name": "Michael Ark",
+        "character": "Party Goer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rjphQ02WqL2Tmire5oOW096XI3g.jpg"
+      },
+      {
+        "name": "Caley Bisson",
+        "character": "Party Bartender (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Maylen Calienes",
+        "character": "Frantic Girl on Bridge (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u1wwjZfWrZ7GjQkeIfZup8KujLR.jpg"
+      },
+      {
+        "name": "Craig Dabbs",
+        "character": "Army Sgt. First Class (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Giffin",
+        "character": "National Guardsman / Tank Gunner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Hisonni Johnson",
+        "character": "Party Goer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Adam Karst",
+        "character": "New Yorker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uebUDkbx285Iv9NSWz1psydnVmh.jpg"
+      },
+      {
+        "name": "Julio Leal",
+        "character": "Rocketeer / Soldier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gene Richards",
+        "character": "First Man Coughing (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bertrand Roberson Jr.",
+        "character": "Military Personnel (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Spinelli",
+        "character": "Party Goer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r8fBUNXZp4ffG5SIZcyjSjM0eRS.jpg"
+      },
+      {
+        "name": "Rick Shuster",
+        "character": "Helicopter Pilot (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jake McLaughlin",
+        "character": "Helicopter Pilot (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/14ZiT9mSr50N2sNXbzEthiiyVH9.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Matt Reeves",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "quarantine",
+    "monster",
+    "chaos",
+    "skyscraper",
+    "supernatural",
+    "giant monster",
+    "alien",
+    "disaster",
+    "survival horror",
+    "kaiju",
+    "military",
+    "found footage",
+    "aftercreditsstinger"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A group of friends venture deep into the streets of New York on a rescue mission during a rampaging monster attack.",
+    "To celebrate Rob's massive promotion, his lover, Beth, and friends, decide to throw a massive surprise farewell party, now that he is about to move to Japan. However, a deafening explosion and the arrival of an enormous scaly and gangly creature will abruptly interrupt the festivities, as all hell breaks loose in New York City, and the Statue of Liberty is decapitated. As the reptilian behemoth levels Manhattan, a daring dash to rescue Beth begins, while at the same time, everything is recorded through the lens of a hand-held camcorder, amid mayhem and destruction. In the end, where did this relentless invader come from, and above all, is there a chance of survival? As they go to investigate, an adventure deep into the streets of New York begins, as the friends are determined to rescue Rob's true love.—Nick Riganas",
+    "The US Defense Department finds a videotape in the former Central Park. The footage shows a group of friends celebrating a surprise farewell party in the apartment of Rob Hawkins in Lower Manhattan. Rob is a young man that is leaving New York to work in Japan and his friend Hud is recording messages from his friends. Out of the blue, they are surprised by an earthquake and they see on the news that a ship has capsized in the harbor area. They go to the penthouse to see the accident and they actually witness explosions everywhere; when power goes out in the building, they run to the streets trying to save their lives from the attack of the monster.—Claudio Carvalho, Rio de Janeiro, Brazil"
+  ],
+  "synopsis": "Rob (Michael Stahl-David) has taken a job as a vice president for the Slusho company, which necessitates his moving to Tokyo. His brother, Jason (Mike Vogel), and his girlfriend, Lily (Jessica Lucas) throw a surprise going-away party for him. Rob's best friend, Hud (T.J. Miller) is recruited to videotape the event but spends much of his time trying to hit on Marlena (Lizzy Caplan). Rob is uncomfortable when Beth (Odette Yustman) brings a date to the party. Rob and Beth have been friends for a long time and had recently had an affair; their date to Coney Island was recorded on the videotape that Hud is now using to record the party. Rob ended the affair abruptly when he got the job. At the party, he insults Beth, who storms out.Jason and Hud take Rob aside to lecture him about his boorish behavior and encourage him to never let go of those he loves most. Just then, a shock jolts their apartment building. The party rushes to the roof to see what is going on. In the distance they see an explosion and must flee back inside the building to avoid debris. Once they move down to the street, Hud continues to shoot video and captures the image of a monstrous shadow moving down the street several blocks away. The monster knocks over the Woolworth Building, sending a cloud of debris billowing down the street. As everyone decides to evacuate Manhattan by going over the Brooklyn Bridge, Marlena informs Lily that she saw smaller creatures attacking and eating people.As they attempt to cross the bridge, Rob receives a call from Beth. She is at her apartment in the Time Warner Center and apparently injured. Jason becomes separated from the others. As they try to make their way to him, the monster's tail appears out of the gloom and destroys the bridge. Jason is killed but Rob, Hud, Lily, and Marlena make it to safety. In an electronics store, Hud sees footage of the monster shedding parasite creatures from its back that in turn attack people on the street. Rob decides to rescue Beth, even though it means he will have to avoid the monster. Lily, Hud and Marlena agree to go with him. As they move uptown, the heavily armed military appears to fight the monster as it smashes through buildings just ahead of them.The four take refuge in a subway tunnel and decide to walk the tracks to the Warner Center. In the darkened tunnel, they see scurrying rats and hear unsettling noises. Using the night vision function on the camera, they see the scale creatures crawling along the walls. They try to run but the monsters attack; one bites Marlena. The four barricade themselves in a breakroom. After tending Marlena's wounds and waiting for the creatures to leave, they walk up into a subway station just outside Bloomingdale's.The military is using Bloomingdale's as headquarters. Rob pleads for help in finding Beth. Suddenly, Marlena begins bleeding from her eyes and mouth; shortly thereafter her abdomen explodes. A sympathetic soldier tells the others where they should bring Beth if they rescue her -- the last helicopters leave within the hour as the government has determined the only option for controlling the monster is the carpet bombing Manhattan. When they arrive at Beth's apartment building, they learn that it as collapsed onto the tower opposite it. Making their way up the standing tower, they then crawl into the collapsed tower and rescue Beth.Rob, Hud, Lily and Beth make it to a helipad as a battle rages against the monster all around them. Lily is pushed into one helicopter and the others into the last. Although an aerial bombardment seems to knock the monster over, it suddenly reaches up out of the debris and strikes their helicopter. It crashes into Central Park. The monster sneaks up on them and bites Hud in half. Rob and Beth grab the camera and take shelter under a foot bridge. They record their final goodbyes on the camera as the bridge collapses around them under the air force's assault.Epilogue. The military has found the tape several days later. Its final moment is from the trip Rob and Beth took to Coney Island. In it, an object can be seen falling from the sky into the ocean, unknown to Rob or Beth.*The following is all from the POV of Hud's video camera.The movie starts off with Rob videotaping the start of a typical New York day from an apartment in the North Tower of the Time Warner Center. He goes into the bedroom and chats with Beth, whom he has just slept with. The two agree to go to Coney Island for the day.The tape cuts to Rob's brother, Jason, as he attempts to get the same camera working. His girlfriend Lily tasks him with documenting Rob's going away party, and Jason passes the task on to his and Rob's friend Hudson (Hud). Hud obliges, and takes the camera and begins filming the party.During the party, Beth arrives with a date, much to the disappointment of Rob. The two argue, and when Hud asks Lily why, she reluctantly tells him and Jason about Rob and Beth sleeping together. Hud proceeds to tell a number of guests, and Beth leaves. Rob frustrates her even more by wishing \"luck\" to Beth's date as they leave.Shortly afterwards, the ground shakes and loud roars are heard in the area. The guests of the party go to the roof and look downtown, and see a large explosion in the vicinity. Flaming debris flies towards the roof, and the guests run downstairs and begin to pile into the street. There is another roar and the head of the Statue of Liberty flies through the streets, landing near Hud. Hud walks over to it, then finds Rob, Jason and Lily and the four watch as the Woolworth Building suddenly collapses. They run into a shop to escape the debris. Minutes later, they exit the shop, and find their friend Marlena - whom Hud has a crush on - babbling about \"it\" \"eating people\".After discussing what they saw and concluding that a giant creature is roaming the city, the five friends decide to make to leave the island. They are cut off, however, when the monster destroys the Brooklyn Bridge, killing Jason in the process. They run back into the city and go into an electronics store so that Rob can try and find a battery for his mobile phone. He finds one and gets a message on his phone from Beth, who is trapped in her apartment. Meanwhile, Hud watches the news and sees live images of the monster rubbing its back against buildings and dropping dog-sized parasites on the ground. The parasites start attacking people. Rob, however, decides to try and help Beth, and the friends all agree to follow him.They make their way further north, towards midtown, and have an up-close encounter with the monster when the army comes and tries to shoot it down. The group panic, and run into a subway to try and escape. When they are below the streets, they discover that they can get to the other side of Central Park from Beth's apartment by following the train tracks and then turning west down Central Park South, and begin to walk through the tunnels. They are ambushed by the parasites during their walk, and during the attack Marlena gets badly bitten by one. They hastily climb into the abandoned Bloomingdale's via the 59th Street subway station. They are led by a squad of infantry to an army field hospital, which was set up to care for the hundreds of wounded civilians scattered around the city.Shortly after arriving at the hospital, Marlena is dragged behind a paramedics screen and we see her silhouette gruesomely expand and then explode, some sort of viral effect brought on by the bite she received. Some of the parasites, both alive and dead, are shown in containment cages being examined by a few white-coated scientists. The group are permitted by the sergeant to leave and try and help Beth, but to report at a military evacuation zone by 06:00 that morning. Hud has a minor break-down as they leave, but pulls himself together and they continue towards Columbus Circle in order to help Beth.When they reach the Time Warner Center, they find that the north tower has been pushed over and is leaning against the south tower. Hud suggests that they climb the stairs in the south tower and try and find a way onto the roof of the north one, and they manage to get themselves to Beth's apartment. When they get there, they find Beth lying on the floor with her shoulder impaled by a length of rebar. The group pull her up, and lead her back down to street level. They briefly see the monster again as they cross the roof of the north tower, and have another encounter with a parasite as the go down the stairwell. Rob stabs it with a fire axe and the four manage to escape. As they run to the evacuation zone - which is just by Grand Central Station - they see the monster step right over the station as they run by it. They hastily try and get on a helicopter, and are separated from Lily, who is put on a different helicopter. Hud, Beth and Rob get on the next helicopter, and begin to evacuate.As they fly over the city, they witness the monster being bombed by various planes and finally get knocked down into a building and under a cloud of smoke. As Hud shouts in joy, the monster suddenly rears up and smashes the rear rotor of the helicopter, sending the chopper circling towards the ground. It lands in Central Park and the group wake up a couple of minutes later, and help each other get out. The pilots are briefly seen in the helicopter dead.Rob injures his leg in the crash, and Hud puts the camera down to help him get away, but when he goes to retrieve it the monster suddenly steps over him and looks down at the camera. Rob and Beth look on from behind the helicopter as the monster bends down and scoops Hud up in its mouth, and for a few seconds the camera is inside the creature's mouth. The top part of Hud falls out of its mouth - camera and all - and Rob and Beth run over to him sobbing.Rob picks up the camera and carries it with him and Beth, and the two collapse under a bridge near the south eastern corner of the park. They sit there and listen as the bomb-warning siren goes off in the city, and Rob makes a last testimonial to the camera. As he quietly comforts Beth, a bomb drops on the park and the camera gets knocked out of Rob's hand, getting buried beneath some rubble. Rob and Beth each proclaim their love for each other just before another bomb goes off.The camera pauses, and then cuts to a shot of the ocean from the Coney Island Ferris Wheel. In the far distance, you can briefly see a Japanese satellite fall from the sky and crash into the ocean - a part of the film's viral marketing campaign. Rob turns the camera back towards him and Beth, and then zooms in on Beth's face. She says \"I had a good day.\" and then the tape freezes on her smiling face, and cuts to black.At the very end of the credits, there is a short static transmission that, when played backwards, says \"It's still alive.\"",
+  "imdb_score": 7
+}

@@ -1,0 +1,408 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+  "id": 12,
+  "title": "Finding Nemo",
+  "poster_path": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+  "release_date": "2003-05-30",
+  "vote_average": 7.824,
+  "vote_count": 18423,
+  "popularity": 91.155,
+  "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+  "imdb_id": "tt0266543",
+  "budget": 94000000,
+  "homepage": "http://movies.disney.com/finding-nemo",
+  "revenue": 940335536,
+  "runtime": 100,
+  "tagline": "There are 3.7 trillion fish in the ocean. They're looking for one.",
+  "genres": [
+    "Animation",
+    "Family"
+  ],
+  "production_companies": [
+    "Pixar"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Albert Brooks",
+        "character": "Marlin (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zhYhOkN2TRsFrEt7RHOAYGz8ZfF.jpg"
+      },
+      {
+        "name": "Ellen DeGeneres",
+        "character": "Dory (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z8IEEid4z63CBlJtxrTKEfsW7NA.jpg"
+      },
+      {
+        "name": "Alexander Gould",
+        "character": "Nemo (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fe4mUSp0XotA6Ku4Bs69Q9o2lqU.jpg"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "Gill (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+      },
+      {
+        "name": "Geoffrey Rush",
+        "character": "Nigel (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/npXFjaFQzBNroCEPllGPTZ5IisA.jpg"
+      },
+      {
+        "name": "Brad Garrett",
+        "character": "Bloat (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+      },
+      {
+        "name": "Allison Janney",
+        "character": "Peach (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg"
+      },
+      {
+        "name": "Austin Pendleton",
+        "character": "Gurgle (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nrXfqtXDDYzSFNLPQnfLkus4I7s.jpg"
+      },
+      {
+        "name": "Stephen Root",
+        "character": "Bubbles (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+      },
+      {
+        "name": "Vicki Lewis",
+        "character": "Deb / Flo (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dwTjtleLh1uu8n9AvUCv0n3mi2R.jpg"
+      },
+      {
+        "name": "Joe Ranft",
+        "character": "Jacques (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f1BoWC2JbCcfP1e5hKfGsxkHzVU.jpg"
+      },
+      {
+        "name": "Andrew Stanton",
+        "character": "Crush (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tRwWuo06aN9vuXAPaswMN42x2ii.jpg"
+      },
+      {
+        "name": "Elizabeth Perkins",
+        "character": "Coral (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vTWYllD9V76rgv9XAbtkkjjeunG.jpg"
+      },
+      {
+        "name": "Nicholas Bird",
+        "character": "Squirt (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/grsKC7Yp8Sfx8fwJnEM59GG4ogX.jpg"
+      },
+      {
+        "name": "Bob Peterson",
+        "character": "Mr. Ray / Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dJe3nTCIToebjj1WHFHP7LmZKyk.jpg"
+      },
+      {
+        "name": "Barry Humphries",
+        "character": "Bruce (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gtOAbs8ZFJiDDRPPock1qmP4V18.jpg"
+      },
+      {
+        "name": "Eric Bana",
+        "character": "Anchor (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j8tbvkg0kyCZihbwrUNRxwhqXXe.jpg"
+      },
+      {
+        "name": "Bruce Spence",
+        "character": "Chum (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kuaIudFTIBahGAdCamThG13jPp7.jpg"
+      },
+      {
+        "name": "Bill Hunter",
+        "character": "Dentist (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gvrRsTfx47KupgRwTKp0gqryHPe.jpg"
+      },
+      {
+        "name": "LuLu Ebeling",
+        "character": "Darla (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jordan Ranft",
+        "character": "Tad (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hjb8NXNsozQN3uJWrRvMWXPhtYe.jpg"
+      },
+      {
+        "name": "Erica Beck",
+        "character": "Pearl (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k4R1E1aXQ2hwjFUCu9Wnz0PU1H8.jpg"
+      },
+      {
+        "name": "Erik Per Sullivan",
+        "character": "Sheldon (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xNGQBXkat5ZjnZ9vSg0mUbcv9Bc.jpg"
+      },
+      {
+        "name": "John Ratzenberger",
+        "character": "Fish School (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e5aNU09v1q6WYTx9pNzC7yjSpve.jpg"
+      },
+      {
+        "name": "Carlos Alazraqui",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d2hufnjlfsZiY7N9NLZ6b7FE1IZ.jpg"
+      },
+      {
+        "name": "Alec Medlock",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e4xRLtdu4QkstJ7mSUgwVGpvwKt.jpg"
+      },
+      {
+        "name": "Bob Bergen",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg"
+      },
+      {
+        "name": "Nicole Miller",
+        "character": "Additional Voices  (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Geoff Brooks",
+        "character": "Additional Voices  (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Peers",
+        "character": "Additional Voices  (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Eiding",
+        "character": "Additional Voice  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Gxs9fTnkQLFlmMHROlgiDJ4p10.jpg"
+      },
+      {
+        "name": "Phil Proctor",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iLTvGROn3XvT0MPPspF2e3OsFCs.jpg"
+      },
+      {
+        "name": "Leland Grossman",
+        "character": "Additional Voices  (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Daryl Sabara",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q4TZWwSVoBE2Vau1YVrH7HFQB7N.jpg"
+      },
+      {
+        "name": "Lili Ishida",
+        "character": "Additional Voices",
+        "profile_path": ""
+      },
+      {
+        "name": "Emmett Shoemaker",
+        "character": "Additional Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Oliver Kindred",
+        "character": "Additional Voices  (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ben Stanton",
+        "character": "Additional Voices  (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Mann",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/980QYqXIZCMn5Knx0vjROkw9vKo.jpg"
+      },
+      {
+        "name": "Kali Whitehurst",
+        "character": "Additional Voices  (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rove McManus",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n75LmOdAtWUuD0bj0TCc5PMwAfx.jpg"
+      },
+      {
+        "name": "James S. Baker",
+        "character": "Additional Voices  (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Vanessa Marano",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g6nSngvdq2GFDlBRtWOU8TGkQe7.jpg"
+      },
+      {
+        "name": "Susan Blu",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xDtrH8YqqVc11kAUThxG80AaaHP.jpg"
+      },
+      {
+        "name": "Annelise Nolting",
+        "character": "Additional Voices  (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff Pidgeon",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t8LV9Y6s1qwQQNSRfo6GWEExffd.jpg"
+      },
+      {
+        "name": "Jennifer Darling",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g0sBNqwHOjCHo9KjPzGdYaCqh0h.jpg"
+      },
+      {
+        "name": "Aaron Fors",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cZuAdf50vu237WYIKryYCLUDiD4.jpg"
+      },
+      {
+        "name": "Katherine Ringgold",
+        "character": "Additional Voices  (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jess Harnell",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+      },
+      {
+        "name": "David Ian Salter",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aJDZtglLTbX0OEvvsdQYPUodBSQ.jpg"
+      },
+      {
+        "name": "Caroline Kindred",
+        "character": "Additional Voices  (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sherry Lynn",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cp7SYig9JVbBWgc2YD4wEUNQGzh.jpg"
+      },
+      {
+        "name": "Jim Ward",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yQklzBUmaHbcS00DXq73J1HYUrE.jpg"
+      },
+      {
+        "name": "Mickie McGowan",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4K1HF10EvDjdaIoDAnWqFZjnmvk.jpg"
+      },
+      {
+        "name": "Jack Angel",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5MsVwIULYJotUSbDs61uSJff7ei.jpg"
+      },
+      {
+        "name": "Laura Marano",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fpW1Swq6BfAoAw88ZhKf1pssu30.jpg"
+      },
+      {
+        "name": "Bobby Block",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l4ktDZmixDQIhXfDsyLvTGANXiy.jpg"
+      },
+      {
+        "name": "Laraine Newman",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/62i0sFf0IwmkQkBW9Osucgx8qGr.jpg"
+      },
+      {
+        "name": "Jane Carr",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oD7rwFAsPSxrH18AKA32UBzkR0T.jpg"
+      },
+      {
+        "name": "Michaela Jill Murphy",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wAq18B8phzkvqJY16CP47Ygt7hV.jpg"
+      },
+      {
+        "name": "Jan Rabson",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8IBFupx53arTqxOYhGkGwyVSaOn.jpg"
+      },
+      {
+        "name": "Bradley Trevor Greive",
+        "character": "Additional Voices  (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Evan Sabara",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jY7kNZ49qoGccxtAZcckwWwTPnG.jpg"
+      },
+      {
+        "name": "Marc John Jefferies",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/soo9aqADz4f0HJ3Fo0WofbRtWj.jpg"
+      },
+      {
+        "name": "Eliza Schneider",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bIhpsT0Fg04dw5YbRoU4Ac9brWp.jpg"
+      },
+      {
+        "name": "Lee Unkrich",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/crb297utC6W4HSstOe5djDPTwEN.jpg"
+      },
+      {
+        "name": "Noah Luke",
+        "character": "Additional Voices  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mwRQJiwaJfmcAZLZDrgZxTuXNWy.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Andrew Stanton",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tRwWuo06aN9vuXAPaswMN42x2ii.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "sydney, australia",
+    "parent child relationship",
+    "anthropomorphism",
+    "harbor",
+    "underwater",
+    "shark",
+    "pelican",
+    "fish tank",
+    "great barrier reef",
+    "sea turtle",
+    "missing child",
+    "aftercreditsstinger",
+    "duringcreditsstinger",
+    "short term memory loss",
+    "clownfish",
+    "father son reunion",
+    "protective father"
+  ],
+  "mpaa": "G",
+  "summaries": [
+    "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+    "A clown fish named Marlin lives in the Great Barrier Reef and loses his son, Nemo, after he ventures into the open sea, despite his father's constant warnings about many of the ocean's dangers. Nemo is abducted by a boat and netted up and sent to a dentist's office in Sydney. While Marlin ventures off to try to retrieve Nemo, Marlin meets a fish named Dory, a blue tang suffering from short-term memory loss. The companions travel a great distance, encountering various dangerous sea creatures such as sharks, anglerfish and jellyfish, in order to rescue Nemo from the dentist's office, which is situated by Sydney Harbour. While the two are searching the ocean far and wide, Nemo and the other sea animals in the dentist's fish tank plot a way to return to the sea to live their lives free again.—David Morris",
+    "Marlin, a clown fish, is overly cautious with his son, Nemo, who has a foreshortened fin. When Nemo swims too close to the surface to prove himself, he is caught by a diver, and horrified Marlin must set out to find him. A blue reef fish named Dory -- who has a really short memory -- joins Marlin and complicates the encounters with sharks, jellyfish, and a host of ocean dangers. Meanwhile, Nemo plots his escape from a dentist's fish tank.—Jwelch5742",
+    "A young clownfish named Nemo is captured by underwater sea divers and taken to a dentist office located in a wonderful city called Sydney Harbour! Marlon, Nemos father is out on a journey to retrieve Nemo and bring him back home. Marlon meets a dim-witted and memory losing fish named Dory who tries to help Marlon along the way. Nemo and the other fish in the fish tank plan an escape attempting to finally get back into the fresh open water.—Steve Shedloski",
+    "After a clownfish is taken by a dentist, his father and a friend travel across the ocean to locate him. Along the way, they meet new friends who try to help them as much as they can. They also learn a few new things about along the way as well.—RECB3"
+  ],
+  "synopsis": "Two clownfish, Marlin (Albert Brooks) and his wife Coral (Elizabeth Perkins), admire the view from their new home within a sea anemone overlooking the drop off of a coral reef. Below them, their clutch of eggs lies hidden in a small hole. Excited to be first-time parents, they discuss names, Coral expressing her fondness for \"Nemo.\" They flirt playfully with each other until Coral's attention is distracted by the appearance of a barracuda. Ignoring Marlin's order to hide, Coral moves to protect her eggs and the barracuda lunges. Marlin rushes in but the barracuda knocks him out with a flick of its tail, sending him back into the anemone. When he comes to that night, he discovers that Coral and the eggs are gone but manages to find a single surviving egg with a scratch on its right side. Vowing to protect it, he names the codling Nemo.Marlin raises Nemo (Alexander Gould) in a secure anemone further into the reef. On the morning of his first day of school, an excited Nemo wakes his father, flapping his tiny right fin wildly. Marlin helps him prepare for the day, showing to be overprotective and doubtful of Nemo's ability to take care of himself. Marlin escorts Nemo to school -- along the way, Nemo asks Marlin how old sea turtles live to be; Marlin doesn't have an answer. Mr. Ray (Bob Peterson), the local teacher, takes the children on a field trip. When Marlin learns that they are going to the drop off, he swims after them in a panic. Upon arrival Nemo follows three of his peers (Jordan Ranft, Erica Beck, and Erik Per Sullivan), bored with Mr. Ray's lesson, to the very edge of the reef where they see a boat (misnaming it a \"butt\") anchored in the distance. They dare each other to swim out into open water to touch the \"butt\" as Marlin arrives and yells at Nemo for endangering himself. While talking to Mr. Ray, Marlin fails to notice Nemo swimming fiercely out to sea, stopping beneath the boat. In an act of defiance, Nemo touches the boat with his fin and starts to swim back before a diver suddenly appears behind him and traps him in a small bag. Marlin is prevented from swimming out after his son by another diver who takes a picture, disorienting him. Regaining his sight, Marlin swims after the divers as the boat departs the reef. The diver places Nemo in a cooler full of water and accidentally drops his mask into the water.Marlin swims after the boat but eventually loses the trail. He swims to the sea floor, begging passing schools of fish for help until he bumps into a regal tang named Dory (Ellen DeGeneres). She claims to have seen the boat and leads a thankful Marlin in the direction it went but, as they swim along, she becomes lax and even tries to evade Marlin when she notices him behind her. When she confronts him, he questions her and she apologizes, telling Marlin she has short-term memory loss. Dumbfounded, Marlin turns to leave but is stopped by a great white shark who introduces himself as Bruce (Barry Humphries). He invites Marlin and Dory to a get-together he's having and, despite Marlin's objections, escorts them to his lair in a sunken submarine surrounded by live sea mines. They meet Bruce's fellow sharks, hammerhead Anchor (Eric Bana) and mako Chum (Bruce Spence), before beginning an assembly where they pledge to abstain from eating fish.The two are fairly terrified by the sharks until Marlin spots the diver's mask stuck on a shard of metal. Inspecting it, he discovers markings on the strap that might provide a clue to Nemo's whereabouts. Dory picks up the mask to see if the sharks can read but Marlin tries to take it back, engaging in a tug-of-war before the mask snaps into Dory's face, causing a nosebleed. The smell of the blood excites Bruce's inner carnivore and, though Anchor and Chum try to stage an intervention by holding him back, he mindlessly chases Marlin and Dory through the submarine, taking hold of the mask in his mouth in the process. During this time, Dory reveals that she can read human words before she and Marlin take refuge in a torpedo well. Dory releases the torpedo which wedges in Bruce's mouth, giving Marlin enough time to grab the mask and flee back into the well. Bruce throws the torpedo away and Anchor and Chum are able to regain his attention in time before the torpedo sets off one of the mines, causing a violent chain reaction of explosions of the entire minefield.Meanwhile, Nemo is placed into a new container revealed to be a fish tank in a dentist's office. There he meets a few of the original inhabitants including Bloat the puffer fish (Brad Garrett), Bubbles the yellow tang (Stephen Root), Peach the ochre sea star (Allison Janney), Gurgle the royal gramma (Austin Pendleton), Jacques the French-accented Pacific cleaner shrimp (Joe Ranft), and Deb (Vicki Lewis), a black-tailed humbug who believes her reflection to be her twin sister, Flo. A pelican named Nigel (Geoffrey Rush) perches himself on the window near the tank and greets Nemo after briefly discussing dental procedures with the other fish. He's shooed away by the dentist (Bill Hunter) who shows Nemo a picture of his niece, Darla, whom Nemo has been promised to. The other fish cringe and call her a fish killer ('she wouldn't stop shaking the bag'). Afraid and wanting to go home, Nemo backs away and gets stuck in the suction tube of the filter. The other fish go to help him but Gill (Willem Dafoe), a wise moorish idol with large scars on his right side, tells Nemo that he must escape himself, giving Nemo instructions and encouragement. Nemo manages to free himself and Peach relates his strength to his ocean origins, like Gill.Marlin and Dory awake in the aftermath of the explosions to find the submarine hanging precariously over the edge of a deep ravine. Their movements cause the submarine to suddenly tip forward and collide with the rock wall of the far side. During the chaos and blinded temporarily by the dust, Dory accidentally drops the mask into the darkness below. Marlin gives it up for lost but Dory cheerfully takes him into the depths, telling him to just keep swimming. After a moment, they come upon a mysterious and alluring light which, unfortunately, belongs to a hungry anglerfish. During the chase, Marlin finds the mask and distracts the anglerfish long enough so that Dory can read the address written on it. Marlin then leads the anglerfish towards the mask and traps it using the masks strap as a tether. Dory recites the address 'P. Sherman 42 Wallaby Way, Sydney' and is ecstatic to find that she can remember it.Back in the fish tank, Nemo is woken by Jacques who takes him to the tank's toy volcano (Mt. Wannahockaloogie) where the other fish perform an initiation to include Nemo in their club, giving him the nickname \"Shark Bait.\" Gill then proposes a plan to escape the fish tank by jamming the gear in the filter which would cause the tank to become so dirty that the dentist will have to manually clean it and place the fish in baggies on the counter, allowing them to roll out the window to the street, cross it, and land in the harbor. Though the other fish are skeptical, Gill asserts that Nemo is small enough to fit into the filter and make it back through the tubing. Nemo agrees to do it.Marlin and Dory continue their journey and request directions to Sydney from a school of moonfish (John Ratzenberger). They tell Marlin and Dory to take the East Australian Current (EAC), after an impressive display of their synchronized impressions. When they come to a rocky trench. Marlin resolves to swim over it to avoid the ominous enclosure. With the EAC in view, Dory becomes distracted and is stung by a tiny jellyfish. As Marlin tends to her, they are suddenly surrounded by a school of larger jellyfish. Finding that the tops don't sting, Marlin and Dory bounce on them as they race out of the school. Marlin makes it out first and, when Dory doesn't appear, goes back in to retrieve her. He finds her unconscious and scarred from the stinging and struggles to carry her out as he is repeatedly stung. He makes it but, stung and exhausted, blacks out as a large shadow descends on him.Nemo waits in the fish tank with Gill who is keeping an eye on the dentist for an opportune moment to jam the filter. Noticing Nemo looking at his scars, Gill explains that during his first escape attempt he landed on dental tools, though he was aiming for the toilet. He says that all drains lead to the ocean and that fish weren't meant to live in a tank. Peach cries out that the dentist is going for a bathroom break which cues Nemo to leap into the filter. Gill tosses him a pebble and gives instructions as Nemo wedges the fan, stopping the flow of water. However, as he is moving through the pipe back into the tank, the pebble unhinges and the fan turns on again, sucking Nemo backwards. The other fish hurry and send Nemo a toy kelp strand to grab onto and pull him out. Shaken, Peach asks Gill not to send Nemo in the filter again. Sullen and realizing his plan put Nemo in grave danger, Gill says they're done.Meanwhile, Marlin wakes up to find himself resting on the shell of a laid-back sea turtle with a surfer's attitude who introduces himself as Crush (Andrew Stanton). Incredulous, he discovers that he's also riding along the EAC with dozens of other sea turtles and large fish. Marlin is reunited with Dory who sports a scar on her side from the jellyfish stings and meets Crush's son, Squirt (Nicholas Bird). Marlin also meets Crush's spirited son, Squirt. While playing with the other sea turtles, Squirt is accidentally propelled outside the current. Marlin is panicky at first however Crush convinces him that Squirt can handle himself. Squirt is able to swim his way back into the current & gleefully joins his father. Marlin sees that even the youngest among the turtles can learn to survive in the ocean. Having been told some details of their journey and the encounter with the jellyfish, Squirt and the other hatchlings ask Marlin to tell them the rest of the story. Hesitant at first, Marlin relents and begins with when Nemo was abducted. His story is not ignored; it's passed on from turtle to fish to dolphin to bird and onward until it reaches Nigel the pelican. Hearing Nemo's name, he flies off to the dentist's office. There, Nemo tries to apologize to Gill for the botched escape attempt but Gill says that his eagerness to escape almost cost Nemo his life and that nothing should be worth that. Nigel arrives, crashing into the closed window, but recovers and is able to tell Nemo the story of Marlin's journey as it was told to him. When Nigel suggests that Nemo's father took on three sharks and a school of jellyfish, Nemo is newly impressed with his father. Invigorated, Nemo takes it upon himself to try the filter attempt again and, this time, succeeds.Marlin and Dory continue along the EAC until they come to their exit point where Crush and Squirt show them where to depart the main line. After a confusing instructional speech on \"proper exiting technique\" Squirt pushes them into the exit flume and back into open water. Thanking Crush, Marlin asks the turtle how old he is; Crush answers that's he's \"150 years old & still young!\" They are instructed to continue through a large purplish plume of plankton to Sydney. However, they soon become lost and Dory resolves to ask a distant fish for directions. Though Marlin is afraid at first, he decides to trust Dory and she calls out to the distant figure. When she sees its a minke whale, she starts speaking 'whale', asking for help. Marlin grows frustrated with her again just as a whale approaches from behind and pulls them into its mouth.Back in the fish tank, a couple of days' worth without a filter has rendered every surface covered in green algae. When the dentist sees this, he opts to clean the tank the following morning before Darla's arrival. Nemo looks out the window to the harbor outside, wondering if his father is there already, waiting for him.In the whale's mouth, Marlin and Dory remain safe with enough water to swim in. Though Dory is complacent, Marlin futilely attempts to break out by ramming into the whale's baleen. He yells at Dory for claiming to have spoken whale, calling her insane and lamenting over the fact that he'll never see his son again. Dory tries to console him as the whale emits a call and the water in the mouth begins to drain. The whale then lifts his tongue to push Marlin and Dory to the back of its throat but Marlin refuses to let go until Dory assures him that, though she doesn't know what will happen, everything will be all right. Marlin closes his eyes and releases his grip on the whale's tongue. They fall to the back of the throat where they are then shot out of the whale's blowhole, landing in Sydney Harbor. Overjoyed to have finally arrived, Marlin sends his thanks to the whale and encourages Dory to help him find the boat that took Nemo.The following morning, Peach wakes up with the horrified realization that the tank is suddenly clean. The fish find that the dentist had installed a new high-tech filter the night before and, though they are impressed with the fluid functionality of the device, they worry about what they will do when Darla arrives. The dentist suddenly pulls Nemo up in a fish net but Gill and the other fish swim into it and instruct Nemo to swim down, pulling the net into the tank and away from the dentist's grip. Despite their efforts, Nemo is quickly scooped up in a plastic bag and set on the counter. The other fish tell Nemo to roll out the window but, before he can get far, the dentist places the baggie in a tin to keep him from moving. Gill tries to assure Nemo that he'll be OK but, at that moment, Darla (LuLu Ebeling) crashes into the office.Marlin and Dory continue to search the harbor, both tired from looking at boats all night, when they are scooped up in the beak of a pelican. The pelican lands on a nearby dock and swallows them but Marlin refuses to have come this far just to be breakfast. He lodges himself and Dory in the pelican's neck, causing it to start choking. Nearby, Nigel wakes from a nap to notice the pelican, Jerry, choking and flies down to assist. He hits Jerry in the back, expelling Marlin and Dory from his mouth onto the dock where Marlin shouts out that he needs to find Nemo. Recognizing the name, Nigel turns to Jerry excitedly and tells him this is the fish that they've been hearing about. When he turns back to Marlin, he sees that he and Dory have flopped their way towards the end of the dock. Nigel chases after them but they are all forced to freeze when they notice that they are surrounded by hungry seagulls. When Nigel tells Marlin that he knows his son, Nemo, Marlin flips in excitement, causing the seagulls to rush forward, but Nigel manages to take Dory and Marlin in his mouth and fly off.Darla torments the fish in the tank before going in to see her uncle. As he picks up the baggie with Nemo inside, he notices Nemo floating upside down. The other fish quickly realize that Nemo is feigning death so that he can be flushed down the toilet but the dentist moves towards the trash can just as Nigel arrives in the window. Marlin forces Nigel into the office and the dentist drops the baggie. Marlin sees Nemo floating and believes him to be dead as the dentist grabs Nigel and forces him out the window again, Marlin calling out to Nemo. Hearing his name, Nemo pops upright but Darla takes the bag and starts shaking it, trying to 'wake up the fishy'. Gill lodges himself into the top of Mt. Wannahockaloogie and the force of the bubbles propels him out of the tank. He lands on Darla's head and she drops Nemo's bag on a table full of tools, breaking the plastic. Gill falls off Darla's head next to Nemo and flips him into the sink and down the drain using a magnifying scope as a catapult. The dentist quickly puts Gill back into the tank where he can breathe. Gill tells the others not to worry about Nemo; that all drains lead to the ocean. Darla is upset and receives a squirt of water in her face from the sink.Nemo travels down the piping until he reaches a water treatment filtration, a series of piping that travels on the sea floor out of the harbor. Nigel flies out of the harbor with Marlin and Dory and releases them into the water, offering his condolences. Distraught, Marlin thanks Dory for helping him and begins to swim away. She asks him to stay with her and that her memory is better when he's around, that she doesn't want to forget. Marlin refuses and swims away, leaving her alone.Nemo emerges from the piping and calls out for his father. He finds Dory swimming confusedly under a buoy, saying that she's lost someone but can't remember. Nemo offers to search with her and Dory happily complies, though she doesn't recognize him. As they swim together, Dory comes upon a piece of piping and reads 'Sydney' on it. Suddenly, all of her memories come flooding back to her and she rushes at Nemo, hugging him fiercely, before leading him in the direction Marlin went. They find out that Marlin headed towards fishing grounds and reunite with him amongst a large school of fish. The school of fish then cries out in panic as a large net from a fishing boat above envelopes them. Dory is caught up in the netting and Nemo says that he must swim in and instruct the fish to swim down. Though Marlin fears for Nemo's safety, he lets go and allows Nemo to do what he can. Marlin instructs the panicked fish from outside the net and they all soon start swimming in synch downwards, pulling the net with them until it finally snaps away from the boat, freeing all the fish. Marlin and Dory find Nemo under the heavy netting -- Marlin is stricken with grief, believing Nemo is dead. Nemo regains consciousness & Marlin gently tells him that he found out that sea turtles live to be 150 years old.Marlin and Nemo come to an understanding and all three go back to their home in the reef. Marlin's demeanor has changed for the better and he is more upbeat and confident in his son's abilities. He takes him to school where Dory is dropped off by Bruce, Anchor, and Chum who have included Dory in their vegetarian program. Nemo hugs his father before heading off on another field trip with Mr. Ray. Marlin watches them leave, knowing that his son will be all right.Back at the dental office in Sydney, the dentist curses the high-tech filter which has suddenly stopped working. He complains about having to put all the fish in baggies but notices that they have mysteriously disappeared from the counter. Horns honk out the open window as Peach is the last to cross the street and land herself in the harbor with the other fish. As they float in their baggies, unable to escape confinement, Bloat wonders 'Now what?'In a post-credits stinger, the tiny fish that was Chum's \"friend\" at the support group is stalked by the anglerfish. As the anglerfish moves in to swallow him, the tiny fish suddenly opens his mouth to a surprisingly enormous size and swallows the angler.",
+  "imdb_score": 8.2
+}

@@ -1,0 +1,323 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/mhpDSuNyHPMsccI7zISEaskTgOQ.jpg",
+  "id": 9361,
+  "title": "The Last of the Mohicans",
+  "poster_path": "https://image.tmdb.org/t/p/w500/qzJMPWRtZveBkxXOv3ucWhoJuyj.jpg",
+  "release_date": "1992-08-26",
+  "vote_average": 7.39,
+  "vote_count": 2861,
+  "popularity": 33.125,
+  "overview": "In war-torn colonial America, in the midst of a bloody battle between British, the French and Native American allies, the aristocratic daughter of a British Colonel and her party are captured by a group of Huron warriors. Fortunately, a group of three Mohican trappers comes to their rescue.",
+  "imdb_id": "tt0104691",
+  "budget": 40000000,
+  "homepage": "",
+  "revenue": 75505856,
+  "runtime": 112,
+  "tagline": "An epic adventure and passionate romance unfold against the panorama of a frontier wilderness ravaged by war.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "History",
+    "Romance",
+    "War"
+  ],
+  "production_companies": [
+    "Morgan Creek Entertainment",
+    "20th Century Fox"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Daniel Day-Lewis",
+        "character": "Hawkeye",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3kNA9VcmymoEwT0btQ4bvMYxzcP.jpg"
+      },
+      {
+        "name": "Madeleine Stowe",
+        "character": "Cora",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k7iQLoCP11e7iVMp1LQimUQLZe8.jpg"
+      },
+      {
+        "name": "Jodhi May",
+        "character": "Alice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iqVk4bZyBkIOOWxaYxiezcApwRG.jpg"
+      },
+      {
+        "name": "Russell Means",
+        "character": "Chingachgook",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5qBgrr6eror0bEene4LthnjUFnT.jpg"
+      },
+      {
+        "name": "Wes Studi",
+        "character": "Magua",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dAO2bY2NCceYLZiJaBjBdY19Hox.jpg"
+      },
+      {
+        "name": "Eric Schweig",
+        "character": "Uncas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z4mA3Lz5iZVqZDZom4ItBxM8eQN.jpg"
+      },
+      {
+        "name": "Steven Waddington",
+        "character": "Heyward",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gmlX5NNJI5HoNrK3RUPwBUmUgBW.jpg"
+      },
+      {
+        "name": "Maurice Roëves",
+        "character": "Colonel Munro",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3WT7GhYloKzgiizP5pahruFbBOD.jpg"
+      },
+      {
+        "name": "Patrice Chéreau",
+        "character": "General Montcalm",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Qbylwv2JLQVQsEYz9u1oUnVruf.jpg"
+      },
+      {
+        "name": "Edward Blatchford",
+        "character": "Jack Winthrop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hyvOKYvdt682STFOOfSS27dykVx.jpg"
+      },
+      {
+        "name": "Terry Kinney",
+        "character": "John Cameron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Y6AeUUj1xUd5p7mRM9tFqUCN87.jpg"
+      },
+      {
+        "name": "Tracey Ellis",
+        "character": "Alexandra Cameron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zd5yJVArScvH8qCjR9Lu2DjvW6n.jpg"
+      },
+      {
+        "name": "Justin M. Rice",
+        "character": "James Cameron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xT5SiDtXZ6bz720uuyyx33tMqvw.jpg"
+      },
+      {
+        "name": "Dennis Banks",
+        "character": "Ongewasgone",
+        "profile_path": ""
+      },
+      {
+        "name": "Pete Postlethwaite",
+        "character": "Captain Beams",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2gpa75Ci4y2OKmOc8WXnaeGgyKF.jpg"
+      },
+      {
+        "name": "Colm Meaney",
+        "character": "Major Ambrose",
+        "profile_path": "https://image.tmdb.org/t/p/w185/guL6RJdlRMtOJN3LoaY3G8hG4Rd.jpg"
+      },
+      {
+        "name": "Mac Andrews",
+        "character": "General Webb",
+        "profile_path": ""
+      },
+      {
+        "name": "Malcolm Storry",
+        "character": "Phelps",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kKsHG62k9Lzu7qGLl9glCmHI5qo.jpg"
+      },
+      {
+        "name": "David Schofield",
+        "character": "Sergeant Major",
+        "profile_path": "https://image.tmdb.org/t/p/w185/on5V05LXlkU2kiu4TjaDvpp0jBn.jpg"
+      },
+      {
+        "name": "Eric D. Sandgren",
+        "character": "Coureur De Bois",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Phillips",
+        "character": "Sachem",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark A. Baker",
+        "character": "Colonial Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Dylan Baker",
+        "character": "Bougainville",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4mw6xj8Aj3ixjjeUj9pZdZPTbvz.jpg"
+      },
+      {
+        "name": "Tim Hopper",
+        "character": "Ian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7QlEV2Bl4mEw5JS14cJGwRjNJBV.jpg"
+      },
+      {
+        "name": "Gregory Zaragoza",
+        "character": "Abenaki Chief",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jzEl4tGRjlGphM6dVNnAsWysNuo.jpg"
+      },
+      {
+        "name": "Scott Means",
+        "character": "Abenaki Warrior",
+        "profile_path": ""
+      },
+      {
+        "name": "William J. Bozic Jr.",
+        "character": "French Artillery Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick Fitzgerald",
+        "character": "Webb's Adjutant",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Joy",
+        "character": "Henri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ithBppxcbmU6MXwjnmUc6vehPnc.jpg"
+      },
+      {
+        "name": "Steve Keator",
+        "character": "Colonial Representative",
+        "profile_path": ""
+      },
+      {
+        "name": "Don Tilley",
+        "character": "Colonial #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas E. Cummings",
+        "character": "Colonial #2",
+        "profile_path": ""
+      },
+      {
+        "name": "David Farrow",
+        "character": "Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Ethan James Fugate",
+        "character": "French Sappeur",
+        "profile_path": ""
+      },
+      {
+        "name": "F. Curtis Gaston",
+        "character": "Soldier #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric A. Hurley",
+        "character": "Soldier #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Jared Harris",
+        "character": "British Lieutenant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8GvXtLomIdCjROjlwKQYURKJwIq.jpg"
+      },
+      {
+        "name": "Michael Flannery",
+        "character": "Sentry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wJ64aHeuAnkPjJOtRatYWQ5AdDH.jpg"
+      },
+      {
+        "name": "Tom McGowan",
+        "character": "Rich Merchant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yXeRcq0Lgz8RofCcmg72ai97AFE.jpg"
+      },
+      {
+        "name": "Alice Papineau",
+        "character": "Huron Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark J. Maracle",
+        "character": "Sharitarish",
+        "profile_path": ""
+      },
+      {
+        "name": "Clark Heathcliffe",
+        "character": "Regimental Sergeant Major",
+        "profile_path": ""
+      },
+      {
+        "name": "Sebastian Roché",
+        "character": "Martin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dVjjliEUIRUgxzefhucVqicTWRq.jpg"
+      },
+      {
+        "name": "Joe Finnegan",
+        "character": "Redcoat #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Sheila Adams Barnhill",
+        "character": "Humming Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "John Harrington Bland",
+        "character": "British Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eAYcvoeRSPD7nZZY4Y4izWhnwW2.jpg"
+      },
+      {
+        "name": "Bill Chemerka",
+        "character": "Royal Artillerist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kBmMNVHJZb6fic78ZvdXsuM17Xl.jpg"
+      },
+      {
+        "name": "Payton Dunham",
+        "character": "Abenaki Warrior (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Benton Jennings",
+        "character": "Scottish Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nWoSDRjewvXz6bWNn1aTRVbTgfD.jpg"
+      },
+      {
+        "name": "Trenton McDevitt",
+        "character": "British Soldier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brent Ponder",
+        "character": "French Soldier (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Michael Mann",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/syowcptZIOosLMwVWbXFOU8jVvd.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "based on novel or book",
+    "love triangle",
+    "native american",
+    "revenge",
+    "interracial relationship",
+    "period drama",
+    "historical",
+    "warfare",
+    "colonialism",
+    "18th century",
+    "warrior",
+    "french and indian war"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Three trappers protect the daughters of a British Colonel in the midst of the French and Indian War.",
+    "The last members of a dying Native American tribe, the Mohicans -- Uncas, his father Chingachgook, and his adopted half-white brother Hawkeye -- live in peace alongside British colonists. But when the daughters of a British colonel are kidnapped by a traitorous scout, Hawkeye and Uncas must rescue them in the crossfire of a gruesome military conflict of which they wanted no part: the French and Indian War.—Jwelch5742",
+    "Albany, New York, 1757, at the height of the French and Indian War. Entrusted with the critical task of escorting Colonel Edmund Munro's daughters Cora and Alice to their father's post at Fort William Henry, courageous British Army Major Duncan Heyward embarks on a perilous mission to the verdant Adirondack Mountains. But treason is afoot. And when the officer's soldiers fall right into a trap orchestrated by fallen Huron Indian Chief Magua, all hope seems lost. As keen marksman and woodsman Hawkeye, the white son of noble Mohican Chief Chingachgook, and his proud adoptive brother Uncas risk life and limb to save the doomed survivors from a fate worse than death, their lives become inextricably intertwined. With bloody hostilities tearing up the land, can the selfless defenders protect the innocents and the last of the Mohicans?—Nick Riganas",
+    "British and French troops do battle in colonial America, with aid from various native American war parties. The British troops enlist the help of local colonial militia men, who are reluctant to leave their homes undefended. A budding romance between a British officer's daughter and an independent man who was reared as a Mohican complicates things for the British officer, as the adopted Mohican pursues his own agenda despite the wrath of different people on both sides of the conflict.—Ed Sutton <esutton@mindspring.com>",
+    "The story is about a dying tribe called the Mohicans in which only two are left as well as one adopted white man. These three men refuse to enter the militia for Britain in 1757 for they want freedom. On their way to Kentucky, they intercept Indians attacking a small regiment of British including the two daughters of an British Colonel on their way to a fort. The three men lead the survivors to the fort while two love stories take place but the French and Indian War continues.—Lilian <wildlyaprincess@hotmail.com>"
+  ],
+  "synopsis": "During the French and Indian War in 1757, Mohican Chingachgook (Russell Means) with his sons, Uncas (Eric Schweig) and adopted white Nathaniel Hawkeye (Daniel Day-Lewis), visit the Cameron frontier household. Friend Jack Winthrop (Edward Blatchford) tells them he is gathering militia for the British army. He addresses the Mohican tribesmen using the hospitality of Chingachgook & tries to recruit the Mohicans in favor of the British. He says that all of France is enemy of the Mohicans & hence its in their interest to side with the British. Mohicans want to fight but are afraid that their homes will be attacked when they are away.General Webb agrees to grant the militia leave if their homes are attacked, in return for their reinforcement of Colonel Edmund Munro (Maurice Roeves) at Fort William Henry. Newly arrived Major Duncan Heyward (Steven Waddington) and the Huron guide Magua (Wes Studi) are tasked with escorting Munro's daughters, Cora (Madeleine Stowe) and Alice (Jodhi May), from Albany to their father at the fort. Duncan wishes to marry Cora, but she feels only friendship for him. Magua leads the group into an ambush by his Huron party, but Hawkeye, Uncas and Chingachgook save Duncan, Cora and Alice and decide to escort them to the fort. Magua manages to escape.Along the way the Cameron home is found razed, and its occupants murdered, most likely by a war party as nothing has been stolen. The group arrives at the fort, which is under siege by the French, but sneak in. Munro is surprised at his daughters' arrival because he sent a letter for them to stay away and requesting reinforcements, but the courier was intercepted by Magua.\nThe fort can only hold for three more days, so a messenger is sent to General Webb for help. Cora and Hawkeye have become attracted to one other, and so when Munro and Hawkeye disagree about the attack on the Cameron home, a jealous Duncan publicly claims that it was done by thieves.He privately confesses to Munro afterwards that Hawkeye was correct, but Munro believes that British interests and the defense of the fort are more important and refuses to let Jack and the militia leave to defend their homes and families. Cora is disgusted by Duncan for lying and tells him that she will not marry him.Hawkeye secretly helps the militia escape, despite Munro's threats, and is later arrested for sedition and sentenced to hang despite Cora's pleas. The French General Montcalm (Patrice Chéreau) generously offers all in the fort safe passage to Albany if they surrender and vow to never fight in North America again. Munro reluctantly accepts after Montcalm shows Webb's intercepted message, showing that no aid is forthcoming.Magua berates Montcalm for making peace, revealing that his village was destroyed, and his children killed by Munro's troops, assisted by the Mohawk; though he regained his freedom from Mohawk captivity, his wife remarried believing he was dead. Montcalm, though intending to honor the terms, tacitly encourages Magua to deal with the British. The retreating British soldiers and their families are ambushed by Magua's men. Magua cuts out Munro's heart from his body, but not before promising to kill Munro's daughters to extinguish his line. Hawkeye, Cora, Alice, Uncas, Chingachgook, Duncan and a few others flee in canoes across Lake George and down a river to a cave behind a waterfall, but Magua and his men are soon upon them. For their safety, Hawkeye urges Cora and Alice to submit if captured and promises he will find them later, then leaps with his father and brother down the waterfall. Magua takes Duncan and the two sisters to a Huron village.Magua negotiates his captives' fate with the sachem when they are interrupted by the arrival of an unarmed Hawkeye. With Duncan translating in French, Hawkeye convinces the chief that Magua is acting for his own interests like the colonial powers, rather than for the good of the tribe. The chief decides that Cora is to be burned alive to atone for Magua's children, gives Alice to replace Magua's wife so that both bloodlines can continue and orders Duncan's return to the British to placate them. But Magua has stated that he intends to kill Munro's children. Hawkeye is released in recognition of his bravery but pleads to take Cora's place. Duncan deliberately makes a wrong translation, sacrificing himself instead so Hawkeye and Cora can escape, whilst Magua curses the sachem and departs with Alice and his men. From a safe distance, Hawkeye mercifully shoots Duncan as he is burned alive.Uncas, who had cared for Alice throughout, races ahead to intercept Magua's band, killing several warriors before engaging Magua. Magua kills him, then drops his body off the cliff. Rather than join Magua, Alice follows Uncas by jumping to her death. Seeing this, an enraged Hawkeye and Chingachgook set upon the Hurons; Chingachgook kills Magua, avenging his son. After a ritual for Uncas with Cora and Hawkeye, Chingachgook announces that he is the last of the Mohicans.",
+  "imdb_score": 7.7
+}

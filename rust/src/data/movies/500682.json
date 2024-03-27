@@ -1,0 +1,415 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/7SleH2eUSnAohTcn6zkYkGXJDVP.jpg",
+  "id": 500682,
+  "title": "The Highwaymen",
+  "poster_path": "https://image.tmdb.org/t/p/w500/4bRYg4l12yDuJvAfqvUOPnBrxno.jpg",
+  "release_date": "2019-03-15",
+  "vote_average": 6.745,
+  "vote_count": 1889,
+  "popularity": 23.521,
+  "overview": "In 1934, Frank Hamer and Manny Gault, two former Texas Rangers, are commissioned to put an end to the wave of vicious crimes perpetrated by Bonnie Parker and Clyde Barrow, a notorious duo of infamous robbers and cold-blooded killers who nevertheless are worshiped by the public.",
+  "imdb_id": "tt1860242",
+  "budget": 49000000,
+  "homepage": "https://www.netflix.com/title/80200571",
+  "revenue": 0,
+  "runtime": 133,
+  "tagline": "The legends who took down Bonnie & Clyde",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Casey Silver Productions",
+    "MRC",
+    "Perpetual Motion Pictures",
+    "Universal Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Kevin Costner",
+        "character": "Frank Hamer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/608blZipRDZkDpzp8VItB64qMaT.jpg"
+      },
+      {
+        "name": "Woody Harrelson",
+        "character": "Manny Gault",
+        "profile_path": "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+      },
+      {
+        "name": "Kathy Bates",
+        "character": "Ma Ferguson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3MsayDvY73uXGVbCFHyy1ABTacV.jpg"
+      },
+      {
+        "name": "John Carroll Lynch",
+        "character": "Lee Simmons",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cIx1HYFOHmfeAGRDBJwdFK9ZMIM.jpg"
+      },
+      {
+        "name": "Thomas Mann",
+        "character": "Deputy Ted Hinton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cJO10vU19SL82pgMB6LdAijDSJv.jpg"
+      },
+      {
+        "name": "Dean Denton",
+        "character": "Deputy Bob Alcorn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/swuu2jPLx417Qy71SMWxks2CgJC.jpg"
+      },
+      {
+        "name": "Kim Dickens",
+        "character": "Gladys Hamer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bYIQGHeSIt4G2tLrLt61FJ2CD7h.jpg"
+      },
+      {
+        "name": "William Sadler",
+        "character": "Henry Barrow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rWeb2kjYCA7V9MC9kRwRpm57YoY.jpg"
+      },
+      {
+        "name": "W. Earl Brown",
+        "character": "Ivy Methvin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oBHcJc65nUmopx6lVc9ZvYYARZz.jpg"
+      },
+      {
+        "name": "David Furr",
+        "character": "Detective John Quinn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/orA7m2qiLRkOzQY1wWqeakciTWl.jpg"
+      },
+      {
+        "name": "Jason Davis",
+        "character": "Agent Kendale",
+        "profile_path": "https://image.tmdb.org/t/p/w185/thSH5TatER5b1WbgFpGt5YDdOu.jpg"
+      },
+      {
+        "name": "Josh Caras",
+        "character": "Wade McNabb",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AnxheIDGQs7Yh4imALUrcWkpTmq.jpg"
+      },
+      {
+        "name": "David Born",
+        "character": "Sheriff Henderson Jordan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qfw98nf0T6OVm0ZTcsINeDvghcL.jpg"
+      },
+      {
+        "name": "Brian F. Durkin",
+        "character": "Deputy Prentiss Oakley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e512f73OO7sx9e7WjIcqCKqLXqN.jpg"
+      },
+      {
+        "name": "Kaley Wheless",
+        "character": "Jean Gault",
+        "profile_path": "https://image.tmdb.org/t/p/w185/980jjFxtoz7okibZpKM2qAvYaKa.jpg"
+      },
+      {
+        "name": "Alex Elder",
+        "character": "Nate Gault",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qvZJWymGHaKBCc51rI9KQ5GDLes.jpg"
+      },
+      {
+        "name": "Emily Brobst",
+        "character": "Bonnie Parker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vc9Y7bM9PnXvt5D5BuozJvP5Gzd.jpg"
+      },
+      {
+        "name": "Edward Bossert",
+        "character": "Clyde Barrow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/euDbMtS3tNdMtASRj0ysGCFz6XX.jpg"
+      },
+      {
+        "name": "Jake Dashnaw",
+        "character": "Henry Methvin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3eMtptzjcdX6SYUF8zSZNVTZttb.jpg"
+      },
+      {
+        "name": "Jane McNeill",
+        "character": "Emma Parker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A5fLMhpA4ytrDZk4zeRmN9NVrUX.jpg"
+      },
+      {
+        "name": "Karson Kern",
+        "character": "Joe Palmer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iY1w0XrVBzQqcgjjyZQjxHNb79o.jpg"
+      },
+      {
+        "name": "Jesse C. Boyd",
+        "character": "Ray Hamilton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r2ACN33XUcMwAQ8oS5ZWAVwdnqJ.jpg"
+      },
+      {
+        "name": "Kevin Sangston",
+        "character": "Guard Crowson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7xpnbiIgXqPWW374233MwcY6evv.jpg"
+      },
+      {
+        "name": "Robert Bryan Davis",
+        "character": "Guard Bozeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cNRQvlBPmqThCZiAsWyoha8xbT1.jpg"
+      },
+      {
+        "name": "Luray Cooper",
+        "character": "Luther",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oMlS471g99wk95E9vfMAxS0VYro.jpg"
+      },
+      {
+        "name": "Johnny McPhail",
+        "character": "Old Farmer (Grapevine)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oRQCdrbRQC5IJ2NXpSN365gl0Hm.jpg"
+      },
+      {
+        "name": "Silas Cooper",
+        "character": "Chief Boyd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i3y4kuWJdYKgfLfpz0fJTsgwcSH.jpg"
+      },
+      {
+        "name": "Jeff Pope",
+        "character": "Constable Cal Campbell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/faCDPwuS4tdGmrJJeUIbIfEBBmh.jpg"
+      },
+      {
+        "name": "Arvin Combs",
+        "character": "State Official #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zwCj0vKkIcm4NwUd05i2lVlWGHJ.jpg"
+      },
+      {
+        "name": "Joe Knezevich",
+        "character": "State Official #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hw7loMaFeJqfxjyk4pRRGngAfbL.jpg"
+      },
+      {
+        "name": "Billy Slaughter",
+        "character": "Reporter #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wyKVHwnFodOmNsTgDTcL1GlJzqa.jpg"
+      },
+      {
+        "name": "Brandon O'Dell",
+        "character": "Reporter #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mquFOZsnuUPpnrDRz6ie9FFnoXf.jpg"
+      },
+      {
+        "name": "Dean J. West",
+        "character": "Reporter #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gheYj0mqLq4H96yd5uTFTdZZ1Wq.jpg"
+      },
+      {
+        "name": "Don Stallings",
+        "character": "Orphan Annie Ford Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8vi0Q4HsKvHmNGeLd44QrJW3SI3.jpg"
+      },
+      {
+        "name": "David Dwyer",
+        "character": "Sheriff Smoot Schmid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kMTtoYRHltlJI9YzWPKe56gK99h.jpg"
+      },
+      {
+        "name": "Steve Vernon",
+        "character": "Gun Store Owner",
+        "profile_path": ""
+      },
+      {
+        "name": "Carter Maharrey",
+        "character": "Carter",
+        "profile_path": ""
+      },
+      {
+        "name": "Justin Matthew Smith",
+        "character": "Pump Jockey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kJ0PvqWuhpuH35SlGlrUfwYwqg8.jpg"
+      },
+      {
+        "name": "Cullen Moss",
+        "character": "Oklahoma Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zjVvER4Bg4mz38u2JQfLgypYrSP.jpg"
+      },
+      {
+        "name": "Alan Wells",
+        "character": "1st G-Man (Oklahoma)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a1QXPDZ65zizago8UzV48JxAZUS.jpg"
+      },
+      {
+        "name": "Josh Ventura",
+        "character": "Okie G-Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h4iB8U8TAhDIHrPrOtA56CpamP7.jpg"
+      },
+      {
+        "name": "Michael Draper",
+        "character": "Tough Migrant Worker (Oklahoma)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sDqOVhPMOeqtFcXSiWTWO38bUBO.jpg"
+      },
+      {
+        "name": "Timothy McKinney",
+        "character": "Okie Migrant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/caywwDl3g2D9NsRNUz9ddLgioAI.jpg"
+      },
+      {
+        "name": "Luke Loveless",
+        "character": "Bottle Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fttilU3JHFQfm1TOPTOMAcmw7E9.jpg"
+      },
+      {
+        "name": "Ian Pitre",
+        "character": "Hammer Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Billy 4 Johnston",
+        "character": "West Dallas Messenger Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l9m5iCqTErpzzwe1EC26iN6vcjz.jpg"
+      },
+      {
+        "name": "Izzy G.",
+        "character": "Little Mudlark Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kHy0jgG5iN5L2QYwL4RN38B9V7f.jpg"
+      },
+      {
+        "name": "Savanna Renee",
+        "character": "Garbo Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Mitch Eakins",
+        "character": "Fancy Dan #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i26gl3mGyGQhEjNf24KdrjxBLPJ.jpg"
+      },
+      {
+        "name": "Matthew Paul Martinez",
+        "character": "Fancy Dan #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Todd Barnett",
+        "character": "Local Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oOnrWeP0t9iHXIG17r2pN5VMlnM.jpg"
+      },
+      {
+        "name": "Troy Hogan",
+        "character": "Migrant Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uQODURxxiE4mfDWMdkLcEZR3RwZ.jpg"
+      },
+      {
+        "name": "Taj Marqui Paul",
+        "character": "Migrant Worker's Son",
+        "profile_path": ""
+      },
+      {
+        "name": "Russell L. Welch III",
+        "character": "Underworld Dance Hall Band Member #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicolas J. Lefebvre",
+        "character": "Underworld Dance Hall Band Member #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen L. Kelly",
+        "character": "Underworld Dance Hall Band Member #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert E. Streeck",
+        "character": "Ferguson Agent #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Donald Robert Mohr",
+        "character": "West Dallas G-Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Brad Napp",
+        "character": "Ferguson Agent #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Sophia Silver",
+        "character": "Daisy",
+        "profile_path": ""
+      },
+      {
+        "name": "Lynden Orr",
+        "character": "Violet / Bonnie (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/munhi6FftXlIGMTioBEuE9IjMrD.jpg"
+      },
+      {
+        "name": "Makani Ravello",
+        "character": "Bonnie Parker Lookalike #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Samantha Hunter Ogan",
+        "character": "Bonnie Parker Lookalike #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bXZfz9lkb1nxqCoN0saDv7NX3KT.jpg"
+      },
+      {
+        "name": "Mikey Kelley",
+        "character": "Clyde (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pXxi5KjwpYacmaKAXYfTiOkAlTF.jpg"
+      },
+      {
+        "name": "Leigh Anne Tuohy",
+        "character": "Ladies Auxiliary Attendee #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Collins Tuohy",
+        "character": "Ladies Auxiliary Attendee #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Teddy Orr",
+        "character": "Ladies Auxiliary Attendee #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Skip Stellrecht",
+        "character": "Texas Radio Newscaster (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jon Briddell",
+        "character": "Oklahoma Radio Newscaster (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dKNwlzYbpu7HbCBwWo5HAMyAzEA.jpg"
+      },
+      {
+        "name": "David Zyler",
+        "character": "National Radio Newscaster (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jRqfBl0Pwa9pF1beTzkVwqLozif.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "John Lee Hancock",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ytGKxuC1sFUmd68jUwDA37Jn0LG.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "fbi",
+    "bank robber",
+    "texas ranger",
+    "based on true story",
+    "tracker",
+    "cops and robbers ",
+    "forensic science",
+    "criminal gang",
+    "1930s",
+    "bonnie and clyde",
+    "manhunt",
+    "legendary hero",
+    "retired lawman"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "The untold true story of the legendary detectives who brought down Bonnie and Clyde.",
+    "The outlaws made headlines. The lawmen made history. From director John Lee Hancock (The Blind Side), THE HIGHWAYMEN follows the untold story of the legendary detectives who brought down Bonnie and Clyde. When the full force of the FBI and the latest forensic technology aren't enough to capture the nation's most notorious criminals, two former Texas Rangers (Kevin Costner and Woody Harrelson) must rely on their gut instincts and old school skills to get the job done.—Netflix"
+  ],
+  "synopsis": "In 1934, after two years on the run, criminals Bonnie Parker and Clyde Barrow break several associates out of Texas' Eastham Prison Farm. Texas Department of Corrections Chief Lee Simmons persuades Governor \"Ma\" Ferguson to hire former Texas Ranger Frank Hamer to track down the criminals. Reluctant to leave retirement and his wife Gladys, Hamer joins the manhunt after the fugitive gang is involved in a devastating shootout in Missouri, and he recruits his former partner, Benjamin Maney Gault.Information from FBI wiretapping of the fugitives' families leads Hamer and Gault to conclude that Bonnie and Clyde are returning \"home\" to Dallas. Watching Bonnie's mother's house, they see a man throw a bottle into her yard, which is soon thrown back, but a boy escapes with it. Dismissing the Rangers' theory, the FBI believe the fugitives are in Brownsville. Hamer and Gault meet with Dallas Sheriff \"Smoot\" Schmid, who introduces them to Deputy Sheriff Ted Hinton, a childhood friend of Bonnie and Clyde who can identify them on sight. The gang kills two policemen in nearby Grapevine; Hamer and Gault investigate the scene and determine that Bonnie has a rabbit, which Hinton suggests is a present for a family member.The Rangers drive to Oklahoma and question a gas station attendant, who declares his support for the criminals. Hamer assaults the man into admitting the gang passed through en route to a migrant camp, where a local girl confirms the gang stayed. A radio bulletin alerts the Rangers to two more murdered officers but, being outside their jurisdiction, they are barred from passing the police roadblock, which a frustrated Hamer drives around. They continue to Coffeyville, Kansas, correctly guessing that Bonnie and Clyde will stop there for supplies. As the Rangers move in on the fugitives, an adoring crowd surrounds the criminals' car. Hamer and Gault give chase, but Bonnie and Clyde escape through a dirt field.Learning that Clyde had breakfast in Amarillo, the Rangers return to Dallas to find the rabbit has been delivered to Bonnie's family. Hamer meets Henry Barrow, Clyde's father, who affirms that his son must be stopped. The Rangers have Simmons furlough Wade McNabb, an incarcerated associate of the gang, hoping to draw them out. While Hamer interrogates McNabb at a bar, Gault is threatened in the restroom by thugs sympathetic to the gang, but subdues them. Learning that Bonnie plans to meet a hairdresser the next day, the Rangers surveil her mother's house again. A man throws another bottle into the yard, which is retrieved by the same boy but intercepted by the Rangers; it contains a message that the gang are heading elsewhere. Realizing McNabb warned the gang, the Rangers visit his home and discover him beaten to death.Simmons recalls Hamer and Gault to Austin, but they return to their theory that \"outlaws always go home\", predicting that the fugitives are going to Bienville Parish, Louisiana, home of gang member Henry Methvin's father, Ivy. Searching Ivy's house, the Rangers find evidence of the outlaws' recent stay. They join forces with local Sheriff Henderson Jordan and Deputy Prentiss Oakley to confront Ivy; in exchange for his son's safety, he reveals that the gang will soon return. The lawmen are joined by Hinton and Dallas Sheriff's Deputy Bob Alcorn, and Gault tells them of his first deployment with Hamer: they killed a gang of bandits, including a fleeing 13-year-old boy. Ivy informs them the gang is arriving the next day, and the posse prepare an ambush on the road to his house, staging his truck as if it has broken down.Bonnie and Clyde arrive, stopping to assist Ivy, and Hamer orders them to raise their hands. Instead, the criminals prepare to draw their own weapons, and are gunned down. The bullet-riddled car with Bonnie and Clyde's bodies is towed to Arcadia, Louisiana and mobbed by onlookers. Refusing $1,000 for an interview with the Associated Press, Hamer and Gault drive home.",
+  "imdb_score": 6.9
+}

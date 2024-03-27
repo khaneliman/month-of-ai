@@ -1,0 +1,574 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/rJlQaeACIyLywrpd6S72Hd1OTZJ.jpg",
+  "id": 7984,
+  "title": "In the Name of the Father",
+  "poster_path": "https://image.tmdb.org/t/p/w500/5HaQacOMOjA2wX1XnwnDd2VaXCf.jpg",
+  "release_date": "1993-12-12",
+  "vote_average": 7.906,
+  "vote_count": 1629,
+  "popularity": 16.578,
+  "overview": "A small time thief from Belfast, Gerry Conlon, is falsely implicated in the IRA bombing of a pub that kills several people while he is in London. He and his four friends are coerced by British police into confessing their guilt. Gerry's father and other relatives in London are also implicated in the crime. He spends fifteen years in prison with his father trying to prove his innocence.",
+  "imdb_id": "tt0107207",
+  "budget": 13000000,
+  "homepage": "",
+  "revenue": 65796862,
+  "runtime": 133,
+  "tagline": "Falsely accused. Wrongly imprisoned. He fought for justice to clear his father’s name.",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Hell's Kitchen",
+    "Universal Pictures"
+  ],
+  "production_countries": [
+    "GB",
+    "IE",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Daniel Day-Lewis",
+        "character": "Gerry Conlon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3kNA9VcmymoEwT0btQ4bvMYxzcP.jpg"
+      },
+      {
+        "name": "Pete Postlethwaite",
+        "character": "Giuseppe Conlon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2gpa75Ci4y2OKmOc8WXnaeGgyKF.jpg"
+      },
+      {
+        "name": "Emma Thompson",
+        "character": "Gareth Peirce",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xr8Ki3CIqweWWqS5q0kUYdiK6oQ.jpg"
+      },
+      {
+        "name": "John Lynch",
+        "character": "Paul Hill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4TG8HYZ5SEFh1Yk5CCG4fXD55j9.jpg"
+      },
+      {
+        "name": "Corin Redgrave",
+        "character": "Robert Dixon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qUWLc5RRhKyoVXEZin2NI7zCxH8.jpg"
+      },
+      {
+        "name": "Beatie Edney",
+        "character": "Carole Richardson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kcG5KsstT97lzRZUG1pyveAj0no.jpg"
+      },
+      {
+        "name": "John Benfield",
+        "character": "Chief PO Barker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rNyJjeAP0PnQnKukqNbRMZHpxX6.jpg"
+      },
+      {
+        "name": "Paterson Joseph",
+        "character": "Benbay",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n8kf0aowLTcPSt72k0eC4ZShe3s.jpg"
+      },
+      {
+        "name": "Marie Jones",
+        "character": "Sarah Conlon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rPFpjEtgFRQZbMpjwuNKJnE6awg.jpg"
+      },
+      {
+        "name": "Gerard McSorley",
+        "character": "Belfast Detective Pavis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8lrwOpnfwbNLbBzFvEj0t47aELy.jpg"
+      },
+      {
+        "name": "Frank Harper",
+        "character": "Ronnie Smalls",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zKwgaKyONNll56OY7xw5NIYHnis.jpg"
+      },
+      {
+        "name": "Mark Sheppard",
+        "character": "Paddy Armstrong",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aTlqvlKgfyUAZT48AvEytqkMBC6.jpg"
+      },
+      {
+        "name": "Don Baker",
+        "character": "Joe McAndrew",
+        "profile_path": ""
+      },
+      {
+        "name": "Alison Crosbie",
+        "character": "Girl in Pub",
+        "profile_path": ""
+      },
+      {
+        "name": "Nye Heron",
+        "character": "IRA Man 1",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Brophy",
+        "character": "Danny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/26WhNwllXnQR0Ym0pxoSr7NdGOm.jpg"
+      },
+      {
+        "name": "Frankie McCafferty",
+        "character": "Tommo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qO12dRPtuXXX40Eab3QrliAsnz8.jpg"
+      },
+      {
+        "name": "Paul Warriner",
+        "character": "Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "Julian Walsh",
+        "character": "Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "Stuart Wolfenden",
+        "character": "Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "Jo Connor",
+        "character": "Bin Lady",
+        "profile_path": ""
+      },
+      {
+        "name": "Karen Carlisle",
+        "character": "Female Rioter",
+        "profile_path": ""
+      },
+      {
+        "name": "Seamus Moran",
+        "character": "IRA Man 2",
+        "profile_path": ""
+      },
+      {
+        "name": "Billy Byrne",
+        "character": "IRA Man 3",
+        "profile_path": ""
+      },
+      {
+        "name": "Maureen McBride",
+        "character": "Mother",
+        "profile_path": ""
+      },
+      {
+        "name": "Jane Nolan",
+        "character": "Girl with baby",
+        "profile_path": ""
+      },
+      {
+        "name": "Laurence Griffin",
+        "character": "Boy in riot",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Murtagh",
+        "character": "Boy in riot",
+        "profile_path": ""
+      },
+      {
+        "name": "Kelly McKeavney",
+        "character": "Young Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Joanna Irvine",
+        "character": "Ann Conlon",
+        "profile_path": ""
+      },
+      {
+        "name": "Fiona Daly",
+        "character": "IRA Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Catherine Dunne",
+        "character": "Woman on Balcony",
+        "profile_path": ""
+      },
+      {
+        "name": "Anna Megan",
+        "character": "Granny Conlon",
+        "profile_path": ""
+      },
+      {
+        "name": "Leah McCullagh",
+        "character": "Bridie Conlon",
+        "profile_path": ""
+      },
+      {
+        "name": "Saffron Burrows",
+        "character": "Girl in Commune",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2qMLZh9XWquBt7TZF9wmDiOtJdm.jpg"
+      },
+      {
+        "name": "Jamie Harris",
+        "character": "Deptford Jim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w4RhAUrejInGkOYc0T4B6Wxpncd.jpg"
+      },
+      {
+        "name": "Britta Smith",
+        "character": "Annie Maguire",
+        "profile_path": ""
+      },
+      {
+        "name": "Barbara Mulcahy",
+        "character": "Marian",
+        "profile_path": ""
+      },
+      {
+        "name": "Mick Tohill",
+        "character": "Man in Bookies",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Sheridan Snr.",
+        "character": "Manager of Bookies",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe McPartland",
+        "character": "Charlie Burke",
+        "profile_path": ""
+      },
+      {
+        "name": "Stanley Townsend",
+        "character": "Hooker's Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ry1kek817WYHOh1npa3ojxmGJcI.jpg"
+      },
+      {
+        "name": "Tim Perrin",
+        "character": "Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Denham",
+        "character": "Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "Rob Spendlove",
+        "character": "Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "Phil Davis",
+        "character": "Detective",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sNJ9nFWxpGVmQYvq7rU9xqryu0F.jpg"
+      },
+      {
+        "name": "Martin Murphy",
+        "character": "Detective",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e471NdDFTykIYdbbXkMHgDHX3Dz.jpg"
+      },
+      {
+        "name": "Richard Graham",
+        "character": "Detective",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ukEz43251dO4Gn9O3o0XzLmKqOf.jpg"
+      },
+      {
+        "name": "Oliver Maguire",
+        "character": "Detective",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dL2qa1C2VRy83hrmy4yxYOuVvWu.jpg"
+      },
+      {
+        "name": "Maurice Kehoe",
+        "character": "Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "Rachael Dowling",
+        "character": "Policewoman",
+        "profile_path": ""
+      },
+      {
+        "name": "Tina Kellegher",
+        "character": "Policewoman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jnGgWXon1cAITuuoK9JJLlMARdV.jpg"
+      },
+      {
+        "name": "Ronan Wilmot",
+        "character": "Paddy Maguire",
+        "profile_path": ""
+      },
+      {
+        "name": "Maclean Burke",
+        "character": "Young Vincent Maguire",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lYHbLV6spID2N2szMHEzNTDmNmW.jpg"
+      },
+      {
+        "name": "Joe Jeffers",
+        "character": "Young Patrick Maguire",
+        "profile_path": ""
+      },
+      {
+        "name": "Alistair Findlay",
+        "character": "Forensic Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nUUQ7BkEz6eTbHfmVN7bjC2Cch9.jpg"
+      },
+      {
+        "name": "Peter Howitt",
+        "character": "Remand Prison Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rULzO7TsxYzdfgevc2kILxsoYWN.jpg"
+      },
+      {
+        "name": "Sean Lawlor",
+        "character": "Remand Prison Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y7sWGFyRYObwk6TjZ98YlSBjis7.jpg"
+      },
+      {
+        "name": "Brian de Salvo",
+        "character": "Remand Prison Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/emSpPSfV9Peggp3SsX2Bzc3cdc2.jpg"
+      },
+      {
+        "name": "Luke Hayden",
+        "character": "Remand Prison Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qLYjitNpIJ0JRWkNbPCfhcOKK3T.jpg"
+      },
+      {
+        "name": "Aiden Grennell",
+        "character": "Trial Judge",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Massey",
+        "character": "Prosecutor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/90WXpS4JNSRhStrZN5vdBHCIvlW.jpg"
+      },
+      {
+        "name": "Bosco Hogan",
+        "character": "Defense Counsel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sMa4b3F9KoHqReJ84pVybL0atQ2.jpg"
+      },
+      {
+        "name": "Kenneth Edge",
+        "character": "Jury Foreman",
+        "profile_path": ""
+      },
+      {
+        "name": "Aine O'Connor",
+        "character": "Dixon's Wife",
+        "profile_path": ""
+      },
+      {
+        "name": "Guy Carleton",
+        "character": "Prison Admissions Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave Duffy",
+        "character": "Prison Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m95QzJZzv8NiEbxRNRhR74SV2NC.jpg"
+      },
+      {
+        "name": "Martin Dunne",
+        "character": "Prison Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry Murphy",
+        "character": "Old Prison Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Michaelis",
+        "character": "Cockney Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Mal Whyte",
+        "character": "Cockney Prisoner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xx3kSQHvfWb5tCgqSeOkqDGrejt.jpg"
+      },
+      {
+        "name": "John Gallagher",
+        "character": "Cockney Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcus Lynch",
+        "character": "Cockney Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Jer O'Leary",
+        "character": "Prisoner John O'Brien",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AbYoIkDvLJLRnrF3jeuKniZozJB.jpg"
+      },
+      {
+        "name": "Joey Cashman",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Alan Amsby",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul O'Grady",
+        "character": "Prisoner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iSHGbr01Fd8OT7NfDnHvBqsu4xN.jpg"
+      },
+      {
+        "name": "Owen Conroy",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Dee Man Kole",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Bernard Pellegrinetti",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Emeka Okeki",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Alan O'Connor",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Mario McGovern",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "John Joe Fontana",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Terry O'Neill",
+        "character": "Prisoner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fTXu5CxUCS3M9aPbRldEaGer9AF.jpg"
+      },
+      {
+        "name": "Joey Legaspi",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Jimmie Bergin",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "John Higgins",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Malcolm Tierney",
+        "character": "Home Office Official",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nDjDgg9dTISkUGOWnMQ1Ng2E4FO.jpg"
+      },
+      {
+        "name": "Iain Montague",
+        "character": "Leader of Delegation",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Raynor",
+        "character": "New Chief Prison Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Clodagh Conroy",
+        "character": "Dixon's Secretary",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Sheridan",
+        "character": "Priest",
+        "profile_path": ""
+      },
+      {
+        "name": "Darren McHugh",
+        "character": "Dixon's Son",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Campbell",
+        "character": "Government Official",
+        "profile_path": ""
+      },
+      {
+        "name": "Alan Barry",
+        "character": "Archivist Jenkins",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Ryan",
+        "character": "Scottish Governor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u4OvGaDALXOZHLK1JRkRjS9NzPb.jpg"
+      },
+      {
+        "name": "John Pickles",
+        "character": "Procedural Court Judge",
+        "profile_path": ""
+      },
+      {
+        "name": "Liam O'Callaghan",
+        "character": "Archivist 2",
+        "profile_path": ""
+      },
+      {
+        "name": "Denys Hawthorne",
+        "character": "Appeal Judge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bPEg1c2ES7fjayziMGD7NuU6ZBG.jpg"
+      },
+      {
+        "name": "Tom Wilkinson",
+        "character": "Appeal Prosecutor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d5yLk0PK8q7EKR3E3G2txO758IW.jpg"
+      },
+      {
+        "name": "Philip King",
+        "character": "Guildford Soldier",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jim Sheridan",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aWTmBt44TyUCb0t50avtFsPdTPp.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "prison",
+    "rebellion",
+    "based on novel or book",
+    "bomb",
+    "parent child relationship",
+    "faith",
+    "1970s",
+    "biography",
+    "northern ireland",
+    "trial",
+    "torture",
+    "terrorism",
+    "courtroom"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "An Irish man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. Meanwhile, a British lawyer fights to clear their names and free them.",
+    "Young Belfastian Gerry Conlon (Daniel Day-Lewis) admits that he was in London at the time of the incident. He also admits that he is not a model citizen, having committed a petty robbery while in London. He does however profess his innocence when it comes to the bombing of the Guildford Pub in London in 1974, the event which killed several people inside. A self-professed non-political person, he and his three co-accused, dubbed the Guildford Four, are thought to be provisional members of the I.R.A. Their self-professed innocence is despite each having signed a statement of guilt which they claim were signed under duress. Their case includes having provable alibis for the time frame of the bombing. And eventually, Joe McAndrew (Don Baker), a known I.R.A. member, admits to the bombing. Dubbed the Maguire Seven, seven others, primarily members of Gerry's extended family including his father Giuseppe (Pete Postlethwaite), are accused of being accessories to the bombing. Following on the work initiated by Giuseppe, Gerry works on a campaign to prove their collective innocence, this work with the assistance of compassionate lawyer Gareth Peirce (Dame Emma Thompson). As Gareth works on this campaign, she is faced with obstacle after obstacle placed by Robert Dixon (Corin Redgrave), who led the initial investigation and questioning of the four accused on behalf of the Police.—Huggo",
+    "Based on the true story of Gerry Conlon (Daniel Day-Lewis), a Belfast youth who - along with family members and friends - was wrongly convicted of bombing two pubs outside of London. A story about the relationship between a father and his son who fought for justice to clear his father's name.—Harald Mayr <marvin@bike.augusta.de>"
+  ],
+  "synopsis": "Story of Gerry Conlon, purported ringleader of the Guildford Four, a group of three Irishmen and one English woman wrongly imprisoned for the 1974 IRA bombing of a pub in Guildford, England, that left five people dead. Conlon's father Guiseppe was subsequently imprisoned along with six other Conlon relatives who became known as the Maguire Seven.=====================================The story opens with a flash-forward to the bombing of a pub in the Guildford suburb of London. The pub, frequented by British soldiers, was targeted by the Irish Republican Army (IRA) as an act of terrorism.A woman driving a car listens to a cassette recording of Gerry Conlon, a Northern Irish political prisoner. Gerry speaks of his younger years living in Belfast where he'd steal lead sheets from the roofs of row houses & sell them. One day, while holding a piece of piping, he's shot at by British soldiers who mistake him for a sniper, believing the pipe is a rifle. Gerry runs into the streets and through several homes while being chased. He inadvertently starts a small riot and joins the mob throwing rocks and Molotov cocktails. Members of the IRA, who'd been using one of the houses Gerry runs through as a munitions cache, find Gerry and threaten to shoot him in the leg. Gerry's father, Giuseppe, told by his daughters that their brother is in trouble, rushes to the scene and talks to the IRA leader, who tells Giuseppe that they are just trying to scare Gerry into behaving. Giuseppe decides to send Gerry by boat to London in the hopes that he'll find work & avoid the Troubles in Belfast.On the boat to London, Gerry meets his friend Paul Hill. The two arrive in London & go immediately to a squatter's house where their friend Patrick Armstrong lives with a small group of hippies. Gerry and Paul also visit the home of his aunt, Annie MaGuire. Gerry and Paul seem to enjoy their time in London until one day one of Patrick's British friends, Jim, acts hostile toward them & they decide to leave the squat. They wander through London, finally settling on a bench in a park where they're accosted by a homeless man, Charlie Burke, who's carved his initials into the bench. Charlie is Irish and they talk for a time. Paul and Gerry continue to walk through London until they pass the house of a prostitute. She refuses to talk to them when they try to return the wallet she drops. Gerry walks into her unlocked apartment and finds a stash of money in her bedroom. Gerry takes the money and the two spend the night in a hotel.In Guilford, the bomb goes off in the soldier's pub, killing five people, four of whom are in the military. The British police begin to hunt for suspects. Not long before, legislation, the Prevention of Terrorism Act, is passed in Parliament that allows the British police to hold potential suspects for seven days before they are formally charged.Gerry returns to Belfast and rejoins his family. In London, Jim, who'd been hostile to Gerry and Paul talks to the police and identifies the two as troublemakers. Paul, who'd remained in London, is arrested & Gerry recognizes him on TV by his shoes. A few days later the Brits invade the Conlon home and arrest Gerry, taking him back to London. Gerry is held without formal charges and is tortured and interrogated, being kept awake for seven days straight. He is beaten severely and forced to look at the forensic photos of the victims. His interrogators also tell him that his aunt Annie is being charged as well with bombmaking, operating out of her home.\nEventually, Paul is brought to Gerry, having confessed himself, and he tells Gerry to do the same. Gerry still refuses to cooperate until one of the policemen threatens to kill his father. Gerry relents and signs his name to a false statement of confession to the bombings.Gerry and Paul, Paddy Armstrong and their friend Carole Richardson, known collectively as the Guildford Four, are charged with the bombings. While in a processing facility awaiting trial, Gerry's father is also brought in, accused of being part of the bombmaking conspiracy involving Annie Maguire. Giuseppe talks to Gerry, who feels that his rough relationship with his father turned him to thievery and that he was destined to get into trouble like this. Gerry has a minor, brief breakdown but his father is able to calm him.The trial begins under heavy security. The prosecution contends that Gerry, Paul, Patrick and Carole committed the bombings, however solid evidence is lacking and they only have the confessions made by the accused, which the police commissioner, Dickson, claims were not obtained under duress. Annie Maguire & her family are accused of bombmaking, a group that includes her youngest son, who was also beaten into confessing. On the witness stand, Gerry admits that he robbed the hooker's home and that he & Paul met Charlie Burke in the park. The prosecution claims no knowledge of Burke's existence.The trial ends with the Guilford Four being found guilty. All are given lengthy sentences, Gerry's is a minimum of 30 years. The judge makes a point of stating that he'd give Gerry the death penalty for treason if Gerry had been so accused. Giuseppe is also sentenced to 15 years for smuggling explosives to Annie Maguire. Gerry himself develops an intense hatred for lawyers.In voiceover we hear Gerry speaking on the tapes that he's made up for an attorney named Gareth Peirce. She goes to the park where Paul and Gerry met Charlie Burke & even finds his name carved into the bench.Giuseppe & Gerry are sent to Park Royal, a maximum security prison. Barker, the prison's warder, makes Gerry & his father wear blue outfits with yellow stripes, branding them as the worst criminal population. The prison is mostly inhabited by English convicts and any Irish prisoners are ostracized and persecuted. Gerry falls in with a small group of Jamaicans who have a large supply of LSD disguised as a jigsaw puzzle. Gerry spends time getting stoned with them but his father disapproves. Gerry promises to stay off the drugs, even after Giuseppe dies.Gerry meets another Irish convict named Joe McAndrews. Joe reveals that he and his people were responsible for the Guilford Pub bombings and for smuggling the explosives used in the attack. McAndrews informs the police that they're holding innocent people for the crime but British police still refuse to let them out. McAndrews is shunned and persecuted like every other Irish prisoner, even starting a fight with the minions of a hulking Brit named Ronnie Smalls. McAndrews threatens to kill Smalls' family since he knows their address. Smalls backs off. McAndrews and Gerry also stage a protest to call attention to the Conlons' innocence, seizing control of the cellblock for a brief period until Barker sends in a riot squad to retake the prison by violent force. After the seizure is quelled, during a screening of The Godfather for the prison population, McAndrews sprays Barker with lighter fluid and sets him aflame. Gerry, shocked by the horror of McAndrews' violent methods, separates himself from his fellow countryman. McAndrews is remanded to a different prison.Gareth Peirce becomes the Conlons' attorney through Gerry's mother's influence. Gerry instantly dislikes Gareth but is gradually convinced she means to help him and his father. A campaign to prove the innocence of the Conlons & the Guildford Four and the Maguire Seven begins to gain popularity. Giuseppe, despite increasingly debilitating respiratory problems, manages some of the campaign from his and Gerry's cell. After the burning of Barker, Gerry tells his father he'll help with the campaign. Peirce gives Gerry a tape recorder and tells him to recount every detail of his life.One night Gerry notices his father has stopped breathing. He's able to revive Giuseppe long enough to have him transported out of the prison for medical care, however, Gerry is not permitted to accompany his father. A priest later visits Gerry to tell him that his father died.Gerry continues to meet with Peirce, developing a tremendous amount of trust for her. He continues Giuseppe's campaign work in earnest. The British government tries to transfer him to a Scottish prison to prevent him from working the campaign and meeting with Peirce but the effort fails.Peirce reviews the judiciary files of the Conlons court case. She's only allowed to view Giuseppe's files on the orders of Dickson. One day she visits the court archives and inadvertently passes a nasty cold on to the court clerk. A few days later she visits the archives again and finds a man substituting for the clerk. The man behind the counter asks Peirce if she wants the files for either Giuseppe or Gerry Conlon. Peirce seizes the opportunity to view Gerry's files and finds a folder containing the statement made by Charlie Burke that could vindicate Gerry himself. Attached to the statement is a handwritten note from Dickson himself that reads \"Not to be shown to the defence\". Peirce steals the file and begins to build a new case and trial for Gerry and the members of the Guilford Four.The Four are brought back to London. Gareth leads their defense and, following an impassioned recounting of the sentences handed down to the Four and Annie Maguire's family, presents Charlie Burke's statement to the court. She accuses Dickson openly of destroying the lives of the defendants and of their complicity in the death of Giuseppe Conlon. The judge calls for order and reviews the evidence and declares that the Four are innocent and free to go. However, the judge refuses to charge Dickson or his accomplices with any misconduct and also does not declare the late Giuseppe innocent. Gerry and Paul refuse to be escorted from the building by the bailiffs. Gerry, standing with his family, makes a statement to the media in front of the court building saying he'll carry on the campaign to clear his father's name.",
+  "imdb_score": 8.1
+}

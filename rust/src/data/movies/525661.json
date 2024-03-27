@@ -1,0 +1,683 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/nj84vpuUWdbmYktBzjiWn5Ny1ZF.jpg",
+  "id": 525661,
+  "title": "Bombshell",
+  "poster_path": "https://image.tmdb.org/t/p/w500/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg",
+  "release_date": "2019-12-13",
+  "vote_average": 6.801,
+  "vote_count": 2824,
+  "popularity": 27.716,
+  "overview": "Bombshell is a revealing look inside the most powerful and controversial media empire of all time; and the explosive story of the women who brought down the infamous man who created it.",
+  "imdb_id": "tt6394270",
+  "budget": 32000000,
+  "homepage": "https://bombshell.movie/",
+  "revenue": 61404394,
+  "runtime": 109,
+  "tagline": "Based on a Real Scandal",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Lighthouse Management + Media",
+    "Denver & Delilah Films",
+    "Bron Studios",
+    "Annapurna Pictures",
+    "Creative Wealth Media Finance",
+    "Lionsgate",
+    "Endeavor Content"
+  ],
+  "production_countries": [
+    "CA",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Charlize Theron",
+        "character": "Megyn Kelly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+      },
+      {
+        "name": "Margot Robbie",
+        "character": "Kayla Pospisil",
+        "profile_path": "https://image.tmdb.org/t/p/w185/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
+      },
+      {
+        "name": "Nicole Kidman",
+        "character": "Gretchen Carlson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg"
+      },
+      {
+        "name": "John Lithgow",
+        "character": "Roger Ailes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Y1sjBdnVR483S8PrnAQzlESwhx.jpg"
+      },
+      {
+        "name": "Allison Janney",
+        "character": "Susan Estrich",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg"
+      },
+      {
+        "name": "Malcolm McDowell",
+        "character": "Rupert Murdoch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hL8ep4Hqj6izX7IlzE7Bbcfq62w.jpg"
+      },
+      {
+        "name": "Kate McKinnon",
+        "character": "Jess Carr",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2cNetzianFcxPQbyOQnkAIkKUZE.jpg"
+      },
+      {
+        "name": "Connie Britton",
+        "character": "Beth Ailes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lxfHf4tTx5NukbemcJjmgqqFAiV.jpg"
+      },
+      {
+        "name": "Liv Hewson",
+        "character": "Lily Balin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rxR5ptYFgUk5nhwOTIbqgN1jOVu.jpg"
+      },
+      {
+        "name": "Brigette Lundy-Paine",
+        "character": "Julia Clarke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7QxSuKPscdAe5MnXeQcGujcJixO.jpg"
+      },
+      {
+        "name": "Rob Delaney",
+        "character": "Gil Norman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gGFAUF2oodnIQrXCyohC7yej00h.jpg"
+      },
+      {
+        "name": "Mark Duplass",
+        "character": "Doug Brunt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vPSYzIfpKptYGVRH9Ki8X8tU3lo.jpg"
+      },
+      {
+        "name": "Stephen Root",
+        "character": "Neil Mullin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+      },
+      {
+        "name": "Robin Weigert",
+        "character": "Nancy Smith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ifGimfhXs7WIyDJMIX8kJtUte88.jpg"
+      },
+      {
+        "name": "Amy Landecker",
+        "character": "Dianne Brandi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3woCLCbumhHOxrkeVOT7ylWi7Lg.jpg"
+      },
+      {
+        "name": "Mark Moses",
+        "character": "Bill Shine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c4C6xZoBx3ATQ8yzdiWX8p6LdKq.jpg"
+      },
+      {
+        "name": "Nazanin Boniadi",
+        "character": "Rudi Bakhtiar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ftBadbFBgRZJcWn9YfbPv8Btyg0.jpg"
+      },
+      {
+        "name": "Ben Lawson",
+        "character": "Lachlan Murdoch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yxIkefVB8N8svOpjIbFmXBQPa0P.jpg"
+      },
+      {
+        "name": "Josh Lawson",
+        "character": "James Murdoch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Am9vM77uZd9bGODugwmWtOfzx6E.jpg"
+      },
+      {
+        "name": "Alanna Ubach",
+        "character": "Judge Jeanine Pirro",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p2sIpgftEIkhPrrpgu8wW8XEpDg.jpg"
+      },
+      {
+        "name": "Andy Buckley",
+        "character": "Gerson Zweifach",
+        "profile_path": "https://image.tmdb.org/t/p/w185/urkCCe0bizypCkQ9bZhFhDzvskE.jpg"
+      },
+      {
+        "name": "Brooke Smith",
+        "character": "Irena Brigante",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A0D7CqSZ0rjlq83M4GMM4CcoUTA.jpg"
+      },
+      {
+        "name": "Bree Condon",
+        "character": "Kimberly Guilfoyle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gLf9dHfaySMRwma7bmYAL3oqDrF.jpg"
+      },
+      {
+        "name": "D'Arcy Carden",
+        "character": "Rebekah",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bizw9YGOniYz64X5pf8EwafAVLO.jpg"
+      },
+      {
+        "name": "London Fuller",
+        "character": "Yardley Brunt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i8f3yFO82g2KXcl5CZySxcZcwlk.jpg"
+      },
+      {
+        "name": "Sedona Fuller",
+        "character": "Yardley Brunt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u8cBRAQaUi92viXmfqv2PquYEvp.jpg"
+      },
+      {
+        "name": "Kevin Dorff",
+        "character": "Bill O'Reilly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yrI78HuKy1KzJ2zTnP6ujMtyHrQ.jpg"
+      },
+      {
+        "name": "Richard Kind",
+        "character": "Rudy Giuliani",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qg60uiHnDP4b2pVgdFtRhGlxtq.jpg"
+      },
+      {
+        "name": "Michael Buie",
+        "character": "Bret Baier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3FILC7nQPFTYDkJys8y94gZoMfk.jpg"
+      },
+      {
+        "name": "Marc Evan Jackson",
+        "character": "Chris Wallace",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4TWP0nlhkxkZ5XzzZuz3RCoZjFX.jpg"
+      },
+      {
+        "name": "Anne Ramsay",
+        "character": "Greta Van Susteren",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wC3Z0IZ8SkP1RZPdyTMZdB4G3qM.jpg"
+      },
+      {
+        "name": "Jennifer Morrison",
+        "character": "Juliet Huddy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i6dkHIME0BOPhbcPESHZND3vmtk.jpg"
+      },
+      {
+        "name": "Ashley Greene",
+        "character": "Abby Huntsman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d7UyEB3cm4doT5JgkZb68PmG4sT.jpg"
+      },
+      {
+        "name": "Ahna O'Reilly",
+        "character": "Julie Roginsky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jjBVwF7Rtt7sutuFaaXzXb0tE1h.jpg"
+      },
+      {
+        "name": "Lisa Canning",
+        "character": "Harris Faulkner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9JrXehU9EkYSsrUDIX1UjoXSJ00.jpg"
+      },
+      {
+        "name": "Elisabeth Röhm",
+        "character": "Martha MacCallum",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iWoXvqED65ym80zKPMuP6hyZhkr.jpg"
+      },
+      {
+        "name": "Alice Eve",
+        "character": "Ainsley Earhardt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tJUSx0Cw7pCnRsCWbGTX2POiTKM.jpg"
+      },
+      {
+        "name": "Rachael Drummond",
+        "character": "Gerson's Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vEnPS9klA9KSoJZ2e4tb7pB3IeB.jpg"
+      },
+      {
+        "name": "Katie Aselton",
+        "character": "Alicia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/18fL82EU3YKkHDPtrmVtlPVagWz.jpg"
+      },
+      {
+        "name": "P.J. Byrne",
+        "character": "Neil Cavuto",
+        "profile_path": "https://image.tmdb.org/t/p/w185/shniQxLvKNvANyJy3hLG8Oo7fW7.jpg"
+      },
+      {
+        "name": "Spencer Garrett",
+        "character": "Sean Hannity",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jJWISea4PvC9Mv5kWONAMKhEK7j.jpg"
+      },
+      {
+        "name": "Mandy Fabian",
+        "character": "Fox & Friends Producer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qqE9DDt079ZNB4Va9MQfaxwCUwz.jpg"
+      },
+      {
+        "name": "Tony Plana",
+        "character": "Geraldo Rivera",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vLt0vQfH07SWmAe5WuSwQB1do9e.jpg"
+      },
+      {
+        "name": "John Rothman",
+        "character": "Martin Hyman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k7Vdn2eArkvYCJllIOGPIjK9umK.jpg"
+      },
+      {
+        "name": "John Hartmann",
+        "character": "Male Interviewer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zCAhxGnsxTKpWB388qDFzDzlil8.jpg"
+      },
+      {
+        "name": "Deb Hiett",
+        "character": "Female Interviewer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dD5RdZwhCQtaiJYjQvDcXd9MuFw.jpg"
+      },
+      {
+        "name": "Tricia Helfer",
+        "character": "Alisyn Camerota",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cXwa8yT2Qv7EmCI8yjs5ldvMHmw.jpg"
+      },
+      {
+        "name": "Bonnie Dennison",
+        "character": "Mercede",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kzzxV19cEdu7A5BoQa6frckk6VQ.jpg"
+      },
+      {
+        "name": "Madeline Zima",
+        "character": "Eddy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6hmUs5Q1EETapn32yKNt3c3i1sn.jpg"
+      },
+      {
+        "name": "Marla Garlin",
+        "character": "Wardrobe Head",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wpoJHUVHRR3ISNDrXw7MnMZqSAS.jpg"
+      },
+      {
+        "name": "Eric Zuckerman",
+        "character": "Cameraman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gFmJnYDhTAGPatMgZioxPr9vbOo.jpg"
+      },
+      {
+        "name": "Lennon Parham",
+        "character": "Beth's Employee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/88WOY8C1Wt33w0iTobULMsyBFk7.jpg"
+      },
+      {
+        "name": "Trevor Guttmann",
+        "character": "Yates Brunt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qyZlDUoGAhP2FjfTDTo7BoRHW0E.jpg"
+      },
+      {
+        "name": "Eric Winzenried",
+        "character": "Gretchen's Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sKVpBvvg6aPxUSToBFKVbfmgBx8.jpg"
+      },
+      {
+        "name": "Scott C. Roe",
+        "character": "Megyn's Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5HmdlrurWBdGcJDBzYplSyxgncP.jpg"
+      },
+      {
+        "name": "Brad Morris",
+        "character": "Factor EP",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m4Hp7SzAel4eOQUQDILlxHMzSeZ.jpg"
+      },
+      {
+        "name": "Ross Mackenzie",
+        "character": "Hannity POD Producer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lD9s85Cwpp70IVRFuWjeig5c9EC.jpg"
+      },
+      {
+        "name": "Scott Beehner",
+        "character": "Convention Washington Post Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ncx326sZB8MPEcOUDtMvcoSrFHT.jpg"
+      },
+      {
+        "name": "Ben Harris",
+        "character": "Convention MSNBC Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p56oMFwshowbC049JPoO5h2qMwm.jpg"
+      },
+      {
+        "name": "Megan Grano",
+        "character": "Convention ABC Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vunOxTnCX1J5lkPZAyU1KfOaqRl.jpg"
+      },
+      {
+        "name": "Todd Aaron Brotze",
+        "character": "Passing Suit",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5OukzLn2GJqcGfNKA7PErBtgVN.jpg"
+      },
+      {
+        "name": "B.J. Bales",
+        "character": "Darryl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3hnGBfA95agUoFfsyLQOnmIBHBg.jpg"
+      },
+      {
+        "name": "Stephanie Styles",
+        "character": "Olivia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qKHgtL5Gv7n3gCMZHYDzPE7jmNF.jpg"
+      },
+      {
+        "name": "Jon Gabrus",
+        "character": "Sound Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kEJ1tsmRlLI0cAUd5gZ9FuTZWZw.jpg"
+      },
+      {
+        "name": "Allan Havey",
+        "character": "Victorious Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sSacPgmV3r5n3cWTMyVvW9pNkBS.jpg"
+      },
+      {
+        "name": "Allan Graf",
+        "character": "Roger's Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lF8WR4XVnfkE55RfX9LDssZxygC.jpg"
+      },
+      {
+        "name": "Faryn Einhorn",
+        "character": "Susan's Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vTdqAkWk12otVc8Ds03Er1Y3twt.jpg"
+      },
+      {
+        "name": "Lawrence Dodson",
+        "character": "Hoodie Photographer",
+        "profile_path": ""
+      },
+      {
+        "name": "John Atkins",
+        "character": "Andy Lack",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Prok",
+        "character": "Megyn's Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oTmQ7z2wKiiXdEV3vxKL7bz2nbT.jpg"
+      },
+      {
+        "name": "Savannah Judy",
+        "character": "Gretchen's Daughter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xxEaLDvzWsopc0H8uOePYhGWCzQ.jpg"
+      },
+      {
+        "name": "Luke Judy",
+        "character": "Gretchen's Son",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s6Pwjp2Wi3JRy153CD2BScRnOjw.jpg"
+      },
+      {
+        "name": "Brianna Barnes",
+        "character": "Fox Executive (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6vB8I3KF0pIOQ5PztY1pEN5iM3L.jpg"
+      },
+      {
+        "name": "Adam Bhukk",
+        "character": "Fox Newsroom Staff (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rocky Bonifield",
+        "character": "Survivor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Laura Linda Bradley",
+        "character": "Flight Attendant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zQnLw6YYtPeQzSb3tM0UhbW8l6h.jpg"
+      },
+      {
+        "name": "Jonathan Bray",
+        "character": "Mike (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xKcbHsF3w3i9ASDqkNQrHkHjAJo.jpg"
+      },
+      {
+        "name": "Ben Cain",
+        "character": "Shelby (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/38Eyi1brOPFu22vjpCztxZ8eRgA.jpg"
+      },
+      {
+        "name": "Lara Clear",
+        "character": "Suzanne Scott (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j55risgi0AZdcdG2SFAEF1Mdrpf.jpg"
+      },
+      {
+        "name": "Wayne Cole",
+        "character": "Paparazzo (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jtqGq2Zbztdk6A6v7m110wD0nDn.jpg"
+      },
+      {
+        "name": "Andrew Constantini",
+        "character": "Megyn's Staff (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9rrYhMlKsDFOAAYqNhOWAMXDfc8.jpg"
+      },
+      {
+        "name": "Sabrina Cooke",
+        "character": "Dana Perino (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen Corliss",
+        "character": "Fox News Intern (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian d'Arcy James",
+        "character": "Brian Wilson (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Gz3b0A20Vrq7aadGfjZekdgGFK.jpg"
+      },
+      {
+        "name": "Diane Dehn",
+        "character": "Fox News Anchor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Troy Dillinger",
+        "character": "Greg Gutfeld (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jGpVjL9qSJHUkzKyeSsRSvEp5R5.jpg"
+      },
+      {
+        "name": "Cambell Dodson",
+        "character": "Josh Gordon (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gcyGNv986l1lA6AImcEwdY0gTjO.jpg"
+      },
+      {
+        "name": "Katelynn Dubow",
+        "character": "Secretary (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Doc Farrow",
+        "character": "Lucas (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zSXXwFRhUNLWXFHSoIwHMt88Zcn.jpg"
+      },
+      {
+        "name": "Erin Flannery",
+        "character": "Newsroom Employee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t8xPdY0H96gOs36IqjjYkMbIE9J.jpg"
+      },
+      {
+        "name": "Roslyn Gentle",
+        "character": "Murdoch's Australian Assistant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uk4KoyMgqhENPl6AiJZVCecw5Wo.jpg"
+      },
+      {
+        "name": "Matthew Gold",
+        "character": "Zac Ailes (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pMBoST3jaoc59S36qpbKHn2y2og.jpg"
+      },
+      {
+        "name": "Greg Haines",
+        "character": "Steve Centanni (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dmlBqNIOLt1ef414ZKVQMbRbfB5.jpg"
+      },
+      {
+        "name": "Henry Miller Hansen",
+        "character": "Ken the Techie (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Leland Heflin",
+        "character": "Diane Victim (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l628IW1m3W0xYOUdPYD3ckLngCc.jpg"
+      },
+      {
+        "name": "Philip Hersh",
+        "character": "Fox News Executive (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cUsURK3CAbMjvxghCBo71rn6IAU.jpg"
+      },
+      {
+        "name": "Kimberly L. Jackson",
+        "character": "Pedestrian (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Karina Junker",
+        "character": "Fox News Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hSNcXdWxpLPJnpY9DR5HCLmVPuw.jpg"
+      },
+      {
+        "name": "Anita Kalathara",
+        "character": "Michelle Graham (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8LVtXznRvneNtl1BVGGPpy2M2z6.jpg"
+      },
+      {
+        "name": "Robert Keller",
+        "character": "Fox News Producer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bryan King",
+        "character": "Fox Business (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Punnavith Koy",
+        "character": "Team Roger Staffer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bKPoUxFeqfDV5tNykysMxOGC2Xf.jpg"
+      },
+      {
+        "name": "Matt Laydon",
+        "character": "Newsroom Employee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "April Lind",
+        "character": "Victim (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dIWLAMAGJ6iLFEtr0GY73EP6UOR.jpg"
+      },
+      {
+        "name": "Victoria Marie",
+        "character": "Pat (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "April Martucci",
+        "character": "News Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nqDINpxpVSd6CmtWIHYEtyvpU6T.jpg"
+      },
+      {
+        "name": "Jenelle McKee",
+        "character": "Sandra Smith (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yXJXb2aUvvtsqJrs9DUcZS6EB3o.jpg"
+      },
+      {
+        "name": "Angela Ann Palermo",
+        "character": "Kelly File Employee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rickie Peete",
+        "character": "AJ (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/64FTrmoTwHsNV301Gq83QCWNWPs.jpg"
+      },
+      {
+        "name": "Geoff Pilkington",
+        "character": "Roger Ailes' Assistant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wgv8eVF10Q15Cezi6GErAWbgbE0.jpg"
+      },
+      {
+        "name": "Victoria Profeta",
+        "character": "Kathryn Murdoch (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eY7E7cML1eHm2yzAYORCdIc1mqc.jpg"
+      },
+      {
+        "name": "Ronald Reagan",
+        "character": "Self (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zqpgunkttKWkBFTTdL2Oj86uklx.jpg"
+      },
+      {
+        "name": "Christian Roberts",
+        "character": "Kayla's Date (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Az Rudman",
+        "character": "Russian Hacker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brent Schneiders",
+        "character": "Office Security (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Elizabeth Anne Stocks",
+        "character": "News Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Holland Taylor",
+        "character": "Faye (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jt9yFB3nLfZQ0c1DcnvvcfA11gB.jpg"
+      },
+      {
+        "name": "Melissa Taylor",
+        "character": "Girl in Dressing Room (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gina Tleel",
+        "character": "Flight Attendant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7h6G0AI4yty7Vv2PXGXRMBmrqgj.jpg"
+      },
+      {
+        "name": "Donald Trump",
+        "character": "Self (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oDmVFoqIzxOyZejGjy3J5QrUmjM.jpg"
+      },
+      {
+        "name": "Kalina Vanska",
+        "character": "Upscale Office Worker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tiffany Villalobos",
+        "character": "Fox News Intern (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rowena Whitson",
+        "character": "Jewish Wedding Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ben Woodall",
+        "character": "Russian Hacker (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jay Roach",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/48uTxNDRlnP56quVewyByotKAen.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "biography",
+    "based on true story",
+    "sexual harassment",
+    "television network",
+    "tv news anchor",
+    "2010s",
+    "workplace culture"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A group of women take on Fox News head Roger Ailes and the toxic atmosphere he presided over at the network.",
+    "When Gretchen Carlson slaps Fox News founder Roger Ailes with a lawsuit alleging sexual harassment, not a soul could predict what would happen next. Her decision leads to Fox News correspondent Megyn Kelly coming forward with her own story, as well as multiple other women, inciting a movement that reverberates around the world.—Jwelch5742",
+    "Against the backdrop of the 2016 United States presidential election, Fox News' anchor, Megyn Kelly, finds herself embroiled in controversy, after questioning the Republican front runner, Donald Trump, on his misogynistic comments. But, on July 6, 2016--as the network's former anchorwoman, Gretchen Carlson, sets in motion a maelstrom of events for refusing to exchange sexual favours with Fox News mogul, Roger Ailes--other journalists, like the ambitious producer, Kayla Pospisil, come forward. Now, three wronged women are about to reveal the toxic world of sexual harassment in a workplace environment, bent on bringing down the powerful CEO. However, are Megyn, Gretchen, and Kayla the only ones who didn't get along with the boys?—Nick Riganas",
+    "Focusing on three women - two real life and one fictitious (arguably a composite of many real life women) - the toxic work environment at Fox News for females at the hands of the network's President Roger Ailes is dramatized, specifically the period in early to mid 2016. Megyn Kelly has made it to where many aspire, namely hosting her own prime time show on the network, as well as being given the plum assignments, such as being one of the moderators of the GOP's presidential candidates debate. Unlike most right wing journalists, she decides to confront candidate Donald Trump about his poor public treatment of women, especially the denigrating name calling, such action by Kelly which does not sit well with the staunchest of his supporters. Gretchen Carlson was once at Kelly's position with the network, but she is seeing her star fading given a dead on-air time slot, that demotion largely from her outspoken stance on many issues. She, in the process, receives Ailes' ire in not presenting herself as eye candy as is the unofficial expectation of all women at the network, on air personalities or otherwise. Seeing the writing on the wall, she takes preemptive steps to protect her future. Kayla Pospisil, an avowed evangelical, has always wanted to work for Fox, and aspires to being an on-air personality. In taking proactive steps to reach that goal, she attracts the attention of Ailes. A major incident occurs at the network in that Carlson is ultimately fired, which prompts her to enact those steps she was working on: she sues Ailes himself for sexual misconduct, unlike previous suits by others before her suing the network unsuccessfully. Factoring the fear that exists among many female employees that are aware of Ailes' actions toward them as a collective, Kelly and Pospisil have to decide if they will come forward publicly to divulge their own experiences of Ailes' inappropriate behavior toward them - Kelly's ten years prior, Pospisil's current - at the possible risk to their careers where Ailes and the network have not tolerated anything but unconditional loyalty.—Huggo"
+  ],
+  "synopsis": "In 2016, Roger Ailes (John Lithgow) is the chairman of Fox News, and runs the network from the second floor of the building with an iron fist. The story interweaves the stories of three different women who work at Fox News.Megyn Kelly (Charlize Theron), one of the network's biggest stars, prepares to moderate a debate of the Republican candidates for president. Despite some push-back from colleagues, she is determined to ask Trump about his sexist comments towards women. The day of the debate, she gets extremely sick, vomiting in the bathroom. She goes on anyway and asks him about his comments. He spends the evening tweeting viciously about her, inciting his followers to attack her as well. Megyn is distressed at the amount of hate she receives and about the fact that she has become the story instead of reporting it.During her time off, she gets rude comments made to her and a paparazzo appears outside her window, taking pictures of her daughter, forcing her husband Douglas (Mark Duplass) to get rid of him. When she returns to work, while Fox hires a security detail, the network is not going to come out against Trump. Roger, who is close with Megyn, is notoriously paranoid, and believes that Megyn was poisoned the day of the debate.Gretchen Carlson (Nicole Kidman), was the co-host of Fox and Friends, but was removed from that spot and given a less valuable afternoon one. After enduring sexist comment after sexist comment (often on the air), she is tired of it. She meets with attorneys who tell her that her contract makes it tough for her to fight back in any way - they tell her the story of Rudi Bakhitar (Nazanin Boniadi) who was fired after not accepting her boss's sexual advances. They tell her the workaround would be to sue Roger directly, but she'd need to have hard evidence, and other women would need to come forward - Gretchen is certain other women will, and returns to work.Kayla Popisil (Margot Robbie) is a young conservative woman raised in a religious home who worships the right-wing and conservative Fox News network. She has begun her career there working under Gretchen, until she is offered a promotion to Bill O'Reilly's show, the network's biggest program. On one of her shows, Gretchen wears no makeup to show and support women, and Roger storms down to the studio and makes a vicious comment about her appearance, which Kayla hears. She then tells Gretchen she's leaving - Gretchen wants her to stay, and tells her she can protect her, but Kayla doesn't see why she should turn down a promotion. She moves to O'Reilly and gets chewed out by him during her first day. Kayla's co-worker, Jess Carr (Kate McKinnon), helps her out by showing her how to make Fox News stories, \"terrify your grandmother, outrage your grandfather.\"One day after a round of work drinks, Kayla and Jess sleep together, though Kayla tells Jess she isn't a lesbian. She is shocked to find a Hilary poster in Jess's apartment, and wants to know why a gay Hilary supporter works at Fox. Jess explains she applied to many jobs but this was the one that stuck, and now no one else will hire her because she works at Fox.At work, Kayla tells Jess to hide a photo she has with another woman. Kayla is invited to Roger's office to meet with him, and she's excited at the idea of being promoted to on air talent. She tells him this, and he asks her to get up and do a twirl for him. He then asks to see more of her legs. He keeps doing this until she, extremely uncomfortable, pulls her skirt up high enough that he can see her underwear. He dismisses her, and she tries to tell Jess about it, but Jess sadly tells her she can't be involved.Time passes, and Megyn goes to interview Donald Trump at Trump Tower. When she reviews the footage, Douglas is angry that it seems like she let him off the hook with barely a slap on the wrist. Meanwhile, Gretchen does a story on her show where she tells the audience that she supports a ban an assault weapons, and is asked to come to the second floor. All three women end up in the elevator at the same time, as Kayla is sent up to Roger's office, and Gretchen meets with executives who fire her. She wants to know why, but isn't given a reason. Gretchen files suit against Roger, which sends the Fox offices into high alert. Roger meets with his wife Beth (Connie Britton), attorney Susan Estrich (Allison Janney), and Rudy Giuliani (Richard Kind), and denies all the claims.Fox tells all of their female talent to come out and support Roger, which many of them do happily, saying they were never harassed. Megyn is silent, and she tells her staff the truth - because Roger harassed her when she began at the network. Her second-in-command, Gil (Rob Delaney) wants to know what she wants to do - she tells him she just spent all that time being the news, and she doesn't want to insert herself into this just yet. Fox, however, keeps pressuring Megyn to make a statement in support of Roger.In the initial aftermath of the suit, not one other woman comes forward, deeply disappointing Gretchen, who had really believed other women would speak out. Investigators do find six women who were horrifically sexually harassed by Roger, but before Fox News, which isn't helpful to Gretchen's suit or public perception. Megyn considers coming forward, but does not want to be the only one, and begins hunting for the other women, despite the danger of doing so at Fox.She eventually follows a few leads herself and finds multiple women who have been harassed or assaulted by Roger, Bill O'Reilly, and other men at the network and convinces them to go to the investigators. She meets with Kayla, who she is asks if Roger harassed her. Kayla admits he did, and Megyn tells her it happened to her. Kayla is angry, wanting to know why she did nothing to protect women after her and why she isn't doing anything now. Megyn tells Kayla it isn't her job to protect her and to report the harassment.While on a date with a man, Kayla calls Jess, crying, asking if she gave Megyn her name. Jess tells her she was worried about her, and Kayla tells her through tears that she gave into Roger. Jess is sorry, and when Kayla tells her she thinks she wants to go to the investigators, she encourages her to do so. Megyn finally comes forward, which is a massive nail in Roger's coffin. When she is interviewed by the investigators, she sees her name is \"Witness W\", and realizes that 23 women have come forward. Susan tells Roger that Gretchen recorded all of their meetings, and has proof of everything in the suit. He asks why they didn't say anything before, and Susan tells Roger they wanted him to deny everything only to prove he was lying.Roger meets with Rupert Murdoch (Malcolm McDowell), his longtime friend and owner of Fox News, and the term's of Roger's exit are settled. Roger asks to go to the newsroom to tell everyone, but Rupert says no. Megyn is at the Republican National Convention when she is informed that Roger is out. Kayla, happy that Roger is gone, takes Jess's photo out of her drawer and encourages her to keep it out - Jess hides it anyway once Murdoch enters the newsroom where he gives a speech to them them that Roger is gone and he will be taking over. Kayla, realizing she is done with Fox News, walks out, tossing her badge into the trash as Jess watches her go, happy for her.Gretchen gets a settlement offer of twenty million dollars and an apology from Fox News, which she can't believe she got. She tells the audience she doesn't care if they like her, she just cares that they believe her. Her attorneys tell her that along with the settlement comes a non-disclosure, which means she can never tell her story. Gretchen looks out into the audience and says, \"maybe\".",
+  "imdb_score": 6.8
+}

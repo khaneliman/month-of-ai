@@ -1,0 +1,770 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/syapU4X3vYBCdARyAOtz3g90hMt.jpg",
+  "id": 1900,
+  "title": "Traffic",
+  "poster_path": "https://image.tmdb.org/t/p/w500/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+  "release_date": "2000-12-27",
+  "vote_average": 7,
+  "vote_count": 2000,
+  "popularity": 22.493,
+  "overview": "An exploration of the United States of America's war on drugs from multiple perspectives. For the new head of the Office of National Drug Control Policy, the war becomes personal when he discovers his well-educated daughter is abusing cocaine within their comfortable suburban home. In Mexico, a flawed, but noble policeman agrees to testify against a powerful general in league with a cartel, and in San Diego, a drug kingpin's sheltered trophy wife must learn her husband's ruthless business after he is arrested, endangering her luxurious lifestyle.",
+  "imdb_id": "tt0181865",
+  "budget": 48000000,
+  "homepage": "",
+  "revenue": 207500000,
+  "runtime": 147,
+  "tagline": "No one gets away clean",
+  "genres": [
+    "Thriller",
+    "Drama",
+    "Crime"
+  ],
+  "production_companies": [
+    "USA Films",
+    "Initial Entertainment Group",
+    "Bedford Falls Productions",
+    "Laura Bickford Productions",
+    "Compulsion Inc."
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Michael Douglas",
+        "character": "Robert Wakefield",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kVYGPIZowzXLEQfAGUNOqKjAbBb.jpg"
+      },
+      {
+        "name": "Benicio del Toro",
+        "character": "Javier Rodriguez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s1EVFX10YJZTcvkAAq4AcPniS3t.jpg"
+      },
+      {
+        "name": "Catherine Zeta-Jones",
+        "character": "Helena Ayala",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iwNMWV5OJjgZ2pPsNWzOKxZwmV7.jpg"
+      },
+      {
+        "name": "Don Cheadle",
+        "character": "Montel Gordon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vPzvP0Qik5yHNf6dF2uqLH9HrX1.jpg"
+      },
+      {
+        "name": "Erika Christensen",
+        "character": "Caroline Wakefield",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AiyY5HQ8BmzLAlw0PU1CgsDzgw.jpg"
+      },
+      {
+        "name": "Jacob Vargas",
+        "character": "Manolo Sanchez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7vhfV1Drin4yzpsIDPWomGosM1h.jpg"
+      },
+      {
+        "name": "Luis Guzmán",
+        "character": "Ray Castro",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+      },
+      {
+        "name": "Miguel Ferrer",
+        "character": "Eduardo Ruiz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n6VZ8OQmozHmnJQRwR55gBH8Tl0.jpg"
+      },
+      {
+        "name": "Topher Grace",
+        "character": "Seth Abrahms",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tgF5PeH4xwz32FjB80n5aFiuHX.jpg"
+      },
+      {
+        "name": "Dennis Quaid",
+        "character": "Arnie Metzger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+      },
+      {
+        "name": "Steven Bauer",
+        "character": "Carlos Ayala",
+        "profile_path": "https://image.tmdb.org/t/p/w185/onvYyp0N3vJ4fYsHkOOIgzOvRN8.jpg"
+      },
+      {
+        "name": "Albert Finney",
+        "character": "Chief of Staff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8WCFO9lMHel1bHVYl5lj8pYEw2s.jpg"
+      },
+      {
+        "name": "James Brolin",
+        "character": "General Ralph Landry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j5DCjshDWSv4nMJdWyXWCmRmROU.jpg"
+      },
+      {
+        "name": "Tomas Milian",
+        "character": "Gen. Arturo Salazar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ajNHZQgV7fnUefTCtYbI553dd2r.jpg"
+      },
+      {
+        "name": "Clifton Collins Jr.",
+        "character": "Francisco Flores",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ceryVVubF74pgu13Y0KUqIzxOae.jpg"
+      },
+      {
+        "name": "Enrique Murciano",
+        "character": "DEA Agent - Trailer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r1KGKFRzPyAGqqPI8adzlZfNO20.jpg"
+      },
+      {
+        "name": "D.W. Moffett",
+        "character": "Jeff Sheridan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7lcIxTqarAgkdLiNlc7Ad57vcP1.jpg"
+      },
+      {
+        "name": "Amy Irving",
+        "character": "Barbara Wakefield",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dGPkygyZ8F5lKJyiuqBLs3WveeF.jpg"
+      },
+      {
+        "name": "Peter Riegert",
+        "character": "Attorney Michael Adler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yPgaRZBMVy9eoNNuiPIm0wzG9sD.jpg"
+      },
+      {
+        "name": "Benjamin Bratt",
+        "character": "Juan Obregón",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg"
+      },
+      {
+        "name": "Yul Vazquez",
+        "character": "Tigrillo / Obregón Assassin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8AeBmhIMia6gF5PO5SF3PRznD3M.jpg"
+      },
+      {
+        "name": "Majandra Delfino",
+        "character": "Vanessa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vpUDcYXgKBQBB4hzY6KVPy1AIsk.jpg"
+      },
+      {
+        "name": "Alec Roberts",
+        "character": "David Ayala",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Yfw7llc7tWGviG2w4BVAf9vjO7.jpg"
+      },
+      {
+        "name": "James Pickens Jr.",
+        "character": "Prosecutor Ben Williams",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iAwBZyHJ9jxq7iTL9Q5lXo3hOp5.jpg"
+      },
+      {
+        "name": "Viola Davis",
+        "character": "Social Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xDssw6vpYNRjsybvMPRE30e0dPN.jpg"
+      },
+      {
+        "name": "Andrew Chavez",
+        "character": "Desert Truck Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Saucedo",
+        "character": "Desert Truck Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5fg0fktYMQdLVjGIJ0J22ex7l5Z.jpg"
+      },
+      {
+        "name": "Jose Yenque",
+        "character": "Salazar Soldier / The Torturer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7AOtIGNIAXo3AgXpQyW1ST9dh7t.jpg"
+      },
+      {
+        "name": "Emilio Rivera",
+        "character": "Salazar Soldier #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pHgPJSoZVgmt4FQ8zyMVqwovpRb.jpg"
+      },
+      {
+        "name": "Michael O'Neill",
+        "character": "Lawyer Rodman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u9Ejl9iS4ZJ36Y653UCe8huLaOn.jpg"
+      },
+      {
+        "name": "Russell G. Jones",
+        "character": "Mark",
+        "profile_path": "https://image.tmdb.org/t/p/w185/znwYMEBAjFfKvOIyVSLTOPW7hqV.jpg"
+      },
+      {
+        "name": "Lorene Hetherington",
+        "character": "State Capitol Reporter #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Collins",
+        "character": "State Capitol Reporter #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Beau Holden",
+        "character": "DEA Agent - CalTrans",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xX7z8gaCFbDVg0h1ftNATMV7Ss0.jpg"
+      },
+      {
+        "name": "Peter Stader",
+        "character": "DEA Agent - CalTrans",
+        "profile_path": ""
+      },
+      {
+        "name": "James Lew",
+        "character": "DEA Agent - CalTrans",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wuC0B13IutImC1AJ7VUxBCuZJVg.jpg"
+      },
+      {
+        "name": "Jeremy Fitzgerald",
+        "character": "DEA Agent - CalTrans",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y5c1hHQ5RHnX9QOXvLRBdmYfKZi.jpg"
+      },
+      {
+        "name": "Russell Solberg",
+        "character": "DEA Agent - CalTrans",
+        "profile_path": ""
+      },
+      {
+        "name": "Don Snell",
+        "character": "DEA Agent - Trailer",
+        "profile_path": ""
+      },
+      {
+        "name": "Gary Carlos Cervantes",
+        "character": "DEA Agent - Trailer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bdmnlMM9tgAevlO4ZkiQLGZW0XD.jpg"
+      },
+      {
+        "name": "Leticia Bombardier",
+        "character": "Ruiz's Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8PYzHmojuQxFCLh9qGrE3fkXhAo.jpg"
+      },
+      {
+        "name": "Carl Ciarfalio",
+        "character": "Ruiz's Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yADROfK7uJkmd8p3GyjxH8WZqRL.jpg"
+      },
+      {
+        "name": "Steven Lambert",
+        "character": "Van Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4xXQXJHECq50ea7C8VeBY0uN3ms.jpg"
+      },
+      {
+        "name": "Gilbert Rosales",
+        "character": "Van Passenger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gb60pzm0vP0X56BiHKIEkyg7wRq.jpg"
+      },
+      {
+        "name": "Rick Avery",
+        "character": "DEA Agent - Public Storage",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7CiosKnycMKSi3UD2cXFJJNceAZ.jpg"
+      },
+      {
+        "name": "Mario Roberts",
+        "character": "DEA Agent - Public Storage",
+        "profile_path": "https://image.tmdb.org/t/p/w185/smpxow6kyXsEYhqmiFqjlFHufsp.jpg"
+      },
+      {
+        "name": "Eileen Weisinger",
+        "character": "DEA Agent - Public Storage",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oEoEMzdFg4Uj8W3bKHIGPki6PSA.jpg"
+      },
+      {
+        "name": "Keii Johnston",
+        "character": "DEA Agent - Public Storage",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eEqiypi1EfbuDdvG0URLG9RTKL4.jpg"
+      },
+      {
+        "name": "Mike Watson",
+        "character": "DEA Agent - Public Storage",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3yoGvaPFNgcmDVIVHmjigfqRNH9.jpg"
+      },
+      {
+        "name": "Kurt D. Lott",
+        "character": "DEA Agent - Public Storage",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lPUdu9RkkSy6xLxKRbVMV3Ruh2W.jpg"
+      },
+      {
+        "name": "Lincoln Simonds",
+        "character": "DEA Agent - Public Storage",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Tomaski",
+        "character": "DEA Agent - Public Storage",
+        "profile_path": ""
+      },
+      {
+        "name": "Buck McDancer",
+        "character": "DEA Agent - Public Storage",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sfMAvjndHWFsIxqyYi82ZZLH4ti.jpg"
+      },
+      {
+        "name": "John Callery",
+        "character": "DEA Agent - Public Storage",
+        "profile_path": ""
+      },
+      {
+        "name": "Ousaun Elam",
+        "character": "DEA Agent - Public Storage",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tXZxvROrBp11OeYoBp2AcOGFSp6.jpg"
+      },
+      {
+        "name": "Brian Avery",
+        "character": "DEA Agent - Public Storage",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2JUIGCOgpAgqbpuWtR9tVQjvJZ9.jpg"
+      },
+      {
+        "name": "Corey Spears",
+        "character": "F*****-up Bowman",
+        "profile_path": ""
+      },
+      {
+        "name": "Rena Sofer",
+        "character": "Helena's Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k9KztxV6396WMKZxPk1X74P6z9G.jpg"
+      },
+      {
+        "name": "Stacey Travis",
+        "character": "Helena's Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hVuilLYZlGkZFoAXQaNaCywaGih.jpg"
+      },
+      {
+        "name": "Jennifer Barker",
+        "character": "Helena's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Dean Faulkner",
+        "character": "Parking Valet",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniella Kuhn",
+        "character": "Tourist Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Brandon Keener",
+        "character": "Tourist Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zVF5HSRDZqpAygYgKVNUK2CTjdc.jpg"
+      },
+      {
+        "name": "Bill Weld",
+        "character": "Governor Bill Weld",
+        "profile_path": ""
+      },
+      {
+        "name": "George Blumenthal",
+        "character": "Partygoer #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4NuMzEj4tvkooDKALTKpTdq9p75.jpg"
+      },
+      {
+        "name": "Stephen Dunham",
+        "character": "Lobbyist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6kBBjxl4QzHxHXXjvMi6BVbfLsf.jpg"
+      },
+      {
+        "name": "Don Nickles",
+        "character": "Senator Don Nickles",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tmcONi6oWeBCz5C8xi4YZiclJfs.jpg"
+      },
+      {
+        "name": "Margaret Travolta",
+        "character": "Economist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r9bQhcoB7iBbUu4NF5JWLopjSnj.jpg"
+      },
+      {
+        "name": "Harry Reid",
+        "character": "Senator Harry Reid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nKtvafmECgrx9Z98WiWxys3dWxr.jpg"
+      },
+      {
+        "name": "Jeff Podolsky",
+        "character": "Jeff Podolsky",
+        "profile_path": ""
+      },
+      {
+        "name": "Jewelle Bickford",
+        "character": "Partygoer #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Barbara Boxer",
+        "character": "Senator Barbara Boxer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7SOSLMSg7q3Oem2Hmulb4c1bvNF.jpg"
+      },
+      {
+        "name": "Orrin Hatch",
+        "character": "Senator Orrin Hatch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m7dknSLxjpl3PoMcGstfudBkZqk.jpg"
+      },
+      {
+        "name": "Chuck Grassley",
+        "character": "Senator Charles Grassley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cFHSS5yJb8WYErgDyYNqBWg3xdi.jpg"
+      },
+      {
+        "name": "Dave Hager",
+        "character": "Partygoer #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2pPODg9dNp2qfFEXG75wrWTlmwG.jpg"
+      },
+      {
+        "name": "Tucker Smallwood",
+        "character": "Partygoer #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/shcF79vg7yQ5zF2FpAnged0WxgL.jpg"
+      },
+      {
+        "name": "Marisol Padilla Sánchez",
+        "character": "Ana Sanchez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ti5kghqauMq0qgfrMAiaesPWAmk.jpg"
+      },
+      {
+        "name": "Víctor Quintero",
+        "character": "Salazar Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "Toby Holguin",
+        "character": "Salazar Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4jjsgFJYudtaIaX7ITxiFoBEQlo.jpg"
+      },
+      {
+        "name": "Ramiro González",
+        "character": "Salazar Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "Elaine Kagan",
+        "character": "Judge Reed",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rHwqHX9zNwMXwGBrePwsvXGfmeZ.jpg"
+      },
+      {
+        "name": "John Slattery",
+        "character": "ADA Dan Collier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t1mhOQR8XwCqp7xArTy8FCENTsR.jpg"
+      },
+      {
+        "name": "Jimmy Ortega",
+        "character": "Arrested Man in Apartment",
+        "profile_path": "https://image.tmdb.org/t/p/w185/KwQuw0UHHXSwj6JTgnnHRUoO0w.jpg"
+      },
+      {
+        "name": "Greg Boniface",
+        "character": "Tackled Man #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Rosales Jr.",
+        "character": "Tackled Man #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tlJzLctGc6UmB7JQrkFcdMEuRx3.jpg"
+      },
+      {
+        "name": "Rudy M. Camacho",
+        "character": "Customs Official",
+        "profile_path": ""
+      },
+      {
+        "name": "Vonte Sweet",
+        "character": "Dealer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v5sJKJVztgNEjz4yOCQYoAAz1pB.jpg"
+      },
+      {
+        "name": "Ed Breving",
+        "character": "Hotel Deskman",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Conley",
+        "character": "Agent Hughes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/78bceHx2BdTJLhhomIbpQKm15TR.jpg"
+      },
+      {
+        "name": "Eddie Velez",
+        "character": "Agent Johnson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mnITDWkqvMWFdjtaXItRFKP0rv8.jpg"
+      },
+      {
+        "name": "Craig N. Chretien",
+        "character": "Director of EPIC",
+        "profile_path": ""
+      },
+      {
+        "name": "John Brown",
+        "character": "Assistant Director of EPIC",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Siegel",
+        "character": "DEA Representative",
+        "profile_path": ""
+      },
+      {
+        "name": "Joel Torres",
+        "character": "Porfilio Madrigal",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen J. Rose",
+        "character": "Marty",
+        "profile_path": ""
+      },
+      {
+        "name": "Kimber Fritz",
+        "character": "Rehab Counselor",
+        "profile_path": ""
+      },
+      {
+        "name": "Harsh Nayyar",
+        "character": "Witness #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1ThQ7mfGUC7zpFswuZ5JXA89NnQ.jpg"
+      },
+      {
+        "name": "Mary Pat Gleason",
+        "character": "Witness #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zS07GnCViZj5XSHqjxqNcrIG9KC.jpg"
+      },
+      {
+        "name": "Vincent M. Ward",
+        "character": "Man on Street",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wA7wu8SPn9xue8BzmHIXmYXmTo3.jpg"
+      },
+      {
+        "name": "Jsu Garcia",
+        "character": "Pablo Obregón",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fXbhpqgxV5a2mnZykuwxc6ecGyF.jpg"
+      },
+      {
+        "name": "Gregory Estevane",
+        "character": "Polygraph Administrator",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Procopio",
+        "character": "Polygraph Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Rita Gomez",
+        "character": "Mrs. Castro",
+        "profile_path": ""
+      },
+      {
+        "name": "Kaizaad Kotwal",
+        "character": "Teacher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iNTzpyhshpwhjvqz84bCLw41xJw.jpg"
+      },
+      {
+        "name": "David Jensen",
+        "character": "John",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eMKoRn7Xz7Z7JEfBLkZA5pV2k5t.jpg"
+      },
+      {
+        "name": "Jay Krymis",
+        "character": "Waiter #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Malone",
+        "character": "Waiter #2",
+        "profile_path": ""
+      },
+      {
+        "name": "René Pereyra",
+        "character": "Doctor",
+        "profile_path": ""
+      },
+      {
+        "name": "Kymberly Newberry",
+        "character": "Press Secretary",
+        "profile_path": ""
+      },
+      {
+        "name": "Carroll Schumacher",
+        "character": "Ayala Security #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Ben Scott",
+        "character": "Ayala Security #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4L46Ix24ZrjLCE8QnwenCOER2kz.jpg"
+      },
+      {
+        "name": "Michael Showers",
+        "character": "Meeting Leader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7QAkmhrZVgRYflui9rj9Jf8fiYS.jpg"
+      },
+      {
+        "name": "Salma Hayek Pinault",
+        "character": "Rosario (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xmZTcpha5Fk1xbvabjzhh8K4Jcy.jpg"
+      },
+      {
+        "name": "Fred Anderson",
+        "character": "TV Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "David Bickford",
+        "character": "Stan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sa4xpoBx2bXnSXdHMWCrxfCM6i4.jpg"
+      },
+      {
+        "name": "Adam Clark",
+        "character": "FBI Agent (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chic Daniel",
+        "character": "DEA Agent (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mLf3j2ner6ZJKpmrbZxway8uR7u.jpg"
+      },
+      {
+        "name": "Sonia Debreczeni",
+        "character": "Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Alan Easley",
+        "character": "Junkie (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Choel Evans",
+        "character": "Photo Journalist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rod Fielder",
+        "character": "Newspaper Photographer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t2CUZTP8C2N2EKEYsmLEvCi66TR.jpg"
+      },
+      {
+        "name": "Tony Guma",
+        "character": "Detective (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6cK30dYzU9NCYbq7u1Ja7EjRBSZ.jpg"
+      },
+      {
+        "name": "Valerie Hanna",
+        "character": "Witness #3 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dominic Koulianos",
+        "character": "Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Zachary Lindsey",
+        "character": "Cafe Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Meagan Lopez",
+        "character": "Cocktail Party Attendee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Christie McNew",
+        "character": "Restaurant Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ambrit Millhouse",
+        "character": "Cincinnati Hooker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/foDYUBc1mFZZLrz4HTxrNH9qDFr.jpg"
+      },
+      {
+        "name": "Ken Miyamoto",
+        "character": "Guy by Swimming Pool (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "David Pittinger",
+        "character": "Cincinnati Police Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Rogers",
+        "character": "Businessman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Leo Rogstad",
+        "character": "Stand-In (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Laurent Schwaar",
+        "character": "Art Appraiser (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aYQGLLZftyxyZI6zHjkmIDpasVX.jpg"
+      },
+      {
+        "name": "Joey Sotello",
+        "character": "DEA Agent / Attorney (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "William-Christopher Stephens",
+        "character": "Drug Dealer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vXePrP9vsVLgnVcUbr8pmD8076L.jpg"
+      },
+      {
+        "name": "Clyde Tull",
+        "character": "Cafe Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ksKQRvvcrIQXQ4zJNWikDxcs85t.jpg"
+      },
+      {
+        "name": "Fairly Tull",
+        "character": "Cafe Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Cody Williams",
+        "character": "FBI Agent (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7cDhMJ8GyZDPCSThAt1zzm2tvvg.jpg"
+      },
+      {
+        "name": "Anthony Hawkins Woods",
+        "character": "Junkie (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "William 'Shorty' Young",
+        "character": "Court Room Participant (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Steven Soderbergh",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2eJL4Eb9hyLwlgHX9IHRf5peIDm.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "drug dealer",
+    "daughter",
+    "mother",
+    "drug abuse",
+    "drug smuggling",
+    "smuggling (contraband)",
+    "war on drugs",
+    "drug trafficking",
+    "addicted",
+    "police operation",
+    "father",
+    "usa–mexico border",
+    "addiction",
+    "drug lord",
+    "marriage dispute"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A conservative judge is appointed by the President to spearhead America's escalating war against drugs, only to discover that his teenage daughter is a crack addict. Two DEA agents protect an informant. A jailed drug baron's wife attempts to carry on the family business.",
+    "An intertwined drama about the United States' war on drugs, seen through the eyes of a once conservative judge, now newly-appointed drug czar, his heroin-addicted daughter, two DEA agents, a jailed drug kingpin's wife, and a Mexican cop who begins to question his boss's motives.",
+    "A modern day look at America's war on drugs told through four separate stories that are connected in one way or another. A conservative judge who's just been appointed as the US drug czar learns that his teenage honor student daughter is a drug addict. A beautiful trophy wife struggles to save her wealthy husband's drug business, while two DEA agents protect a witness with inside knowledge of the spouse's business. In Mexico, a slightly corrupt, yet dedicated cop struggles with his conscience when he learns that his new boss may not be the anti-drug official he made himself out to be.—<MonkeyKingMA@aol.com>",
+    "Intertwining vignettes frame this tale of America's escalating War on Drugs. Ohio Supreme Court judge Robert Wakefield has been appointed the nation's Drug Czar, his new position made more daunting by the discovery that his teenage daughter Caroline is a cocaine addict. Meanwhile, DEA agents Montel Gordon and Ray Castro are pursuing Helena Ayala, wife of jailed kingpin Carlos Ayala, as she seeks to the control the business that her husband had kept hidden from her. South of the Border, duplicious local constable Javier Rodriguez is fighting the battle with his own jaded, questionable ethical code.—N. Cognito <nobody@noplace>"
+  ],
+  "synopsis": "The film begins in Mexico, where police officer Javier Rodriguez Rodriguez (Del Toro) and his partner, Manolo, stop a drug transport and arrest the couriers. Their arrest is interrupted by General Salazar (Milian), a high-ranking Mexican official. The general decides to hire Javier and instructs him to locate and apprehend Frankie Flowers (Collins, Jr.) a notorious hit man for the Tijuana Obregón Drug Cartel.Meanwhile, Robert Wakefield (Douglas), a conservative Ohio Judge, is appointed to be head of the President's Office of National Drug Control, taking the title of Drug Czar. Wakefield is warned by his predecessor and several influential politicians that the war on drugs is unwinnable. Unbeknownst to Wakefield, his honor student daughter, Caroline (Christensen) is using cocaine and falls victim to drug addiction when she is introduced to freebase cocaine by her boyfriend, Seth (Grace). She and Seth are arrested when another student at her high school overdoses on drugs and they try to dump him anonymously at a nearby hospital. Robert finds out that his wife Barbara (Irving) has known about their daughter's involvement with drugs for over six months.In the third plot line, which is set in San Diego, an undercover Drug Enforcement Administration (DEA) investigation led by Montel Gordon (Cheadle) and Ray Castro (Guzmán), arrest Eduardo Ruiz (Ferrer), a high-stakes dealer posing as a fisherman. In the process, Ruiz is hospitalized and decides to risk the dangerous road to immunity by giving up his boss - drug lord Carlos Ayala (Bauer), the biggest distributor for the Óbregon brothers in the United States. Ayala is charged by a tough prosecutor, hand-selected by Wakefield in an attempt to send a message to the Mexican drug organizations through a conviction against the drug lord.Flowers is tortured and eventually gives Salazar the names of several important members of the Óbregon Drug Cartel, who are arrested in a large effort by police and army soldiers. Javier and Salazar's efforts start to cripple the Óbregon brothers cocaine outfit, but Javier and Manolo discover that Salazar is a pawn for the Juárez Cartel, the rival of the Óbregon brothers. The entire Mexican anti-drug campaign is a fraud, as Salazar is wiping out one cartel, not out of duty, but rather because he has aligned himself with another cartel for profit.Wakefield realizes that his daughter is a drug addict and finds himself caught between his demanding new position and his worrisome family life. When he heads to Mexico, he is encouraged by the successful efforts of Salazar against the Óbregon brothers. When he returns to Ohio, Robert learns that his efforts to see Caroline rehabilitated have failed, and she escaped into the city and no one knows her location. Secretly, she's forced to prostitute herself and rob her parents to procure money for drugs.As the trial against Carlos Ayala begins, Carlos' pregnant wife, Helena (Zeta-Jones) learns of her husband's true profession. With her husband facing life imprisonment, and death threats against her only child, she decides to hire Flowers to assassinate Eduardo Ruiz. She knows that killing Ruiz will effectively end the trial nolle prosequi.Javier's partner, Manolo, sells information to the DEA, but is killed for his betrayal. Javier, who can no longer stomach working for Salazar, decides to cut a deal with the only non-corrupt organization he has access to - the Federal Government of the United States and the Federal Bureau of Investigation. In exchange for his testimony, Javier requests electricity in his neighborhood, so that kids can play baseball at night rather than be tempted into street gangs and crime. General Salazar's secrets are revealed to the public. He is arrested and tortured to death shortly after.Wakefield begins a search for his daughter and drags along Seth after interrupting one of his classes. After being threatened and nearly killed by Caroline's regular dealer, he follows Seth to a seedy hotel room in Cincinnati and finds a semi-conscious Caroline prostituting herself to an older man. Wakefield returns to Washington, D.C., to give his prepared speech on a \"10-point plan\" to combat the war on drugs. In the middle of the speech, he falters, then tells the press that on a war on drugs is a war against many of our own family members, which he cannot endorse. He quits his job and heads home.Flowers' assassination attempt on Ruiz fails, when he himself is assassinated for his betrayal by a sniper working for the Óbregon Cartel. Helena, knowing that Ruiz is soon to testify, then makes a deal with Juan Óbregon (Bratt), lord of the drug cartel, who forgives the debt of the Ayala family. Helena gives Óbregon the formula and procedure to turn Óbregon cocaine into harmless-looking plastic rabbit dolls that are undetectable by DEA dogs and can be shipped across the Mexico/US border. Óbregon agrees to the deal and to the stipulation that Helena's husband will be the sole distributor of Óbregon cocaine in the United States. Óbregon also agrees to have Ruiz killed. Carlos Ayala is released, much to the discomfort of Montel Gordon, who lost his partner, Castro, when Frankie tried to assassinate Ruiz with a car bomb. Ruiz is eventually given poison-laced food in his hotel room and dies. Soon after, Montel bursts into the Ayala residence and illegally plants a microphone under one of the tables, before being kicked out.Robert and Barbara begin to go to Narcotics Anonymous meetings with their daughter, to support her and everyone else there. Javier takes the media to Mexico and explains what he can about the widespread corruption in the police force and army. The film concludes with him watching some Mexican children playing baseball at night, at their new stadium.",
+  "imdb_score": 7.6
+}

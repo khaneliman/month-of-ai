@@ -1,0 +1,537 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/1Zyf6cyFPPaU0TCD78EJiCVZPJ9.jpg",
+  "id": 614934,
+  "title": "Elvis",
+  "poster_path": "https://image.tmdb.org/t/p/w500/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+  "release_date": "2022-06-22",
+  "vote_average": 7.571,
+  "vote_count": 2986,
+  "popularity": 89.601,
+  "overview": "The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.",
+  "imdb_id": "tt3704428",
+  "budget": 85000000,
+  "homepage": "https://elvis.warnerbros.com",
+  "revenue": 288670284,
+  "runtime": 159,
+  "tagline": "The Man. The Legend. The King of Rock & Roll.",
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "Bazmark",
+    "The Jackal Group"
+  ],
+  "production_countries": [
+    "AU",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Austin Butler",
+        "character": "Elvis Presley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aGZKvPmjopFfbehunaXXzeZ8eXy.jpg"
+      },
+      {
+        "name": "Tom Hanks",
+        "character": "Colonel Tom Parker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg"
+      },
+      {
+        "name": "Olivia DeJonge",
+        "character": "Priscilla",
+        "profile_path": "https://image.tmdb.org/t/p/w185/djwVsgwrsjlPRKL3o11kBxc7CK6.jpg"
+      },
+      {
+        "name": "Helen Thomson",
+        "character": "Gladys Presley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uTKMoAEGLbkCHWCuBKbKMM3mR80.jpg"
+      },
+      {
+        "name": "Richard Roxburgh",
+        "character": "Vernon Presley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/de1XpxnOuW4v4fFWFEjmBqmHaRf.jpg"
+      },
+      {
+        "name": "Kelvin Harrison Jr.",
+        "character": "B.B. King",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bQC7SUnUiLw2wxnXGYr9tm7wDLW.jpg"
+      },
+      {
+        "name": "David Wenham",
+        "character": "Hank Snow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/F7CWSqUE75HtrcdqIQ7UMZ9aTX.jpg"
+      },
+      {
+        "name": "Kodi Smit-McPhee",
+        "character": "Jimmie Rodgers Snow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sesCWba9NwPDYDZzbVLs7OgLOti.jpg"
+      },
+      {
+        "name": "Luke Bracey",
+        "character": "Jerry Schilling",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ot2h7IrXpC8XSnIZDSVsj2FQ5cx.jpg"
+      },
+      {
+        "name": "Dacre Montgomery",
+        "character": "Steve Binder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/38jnyqD2HCQVs4zNHktxA2Ko8KN.jpg"
+      },
+      {
+        "name": "Leon Ford",
+        "character": "Tom Diskin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/djxNCzu1MYxz6D2XV5I1yCsw1e.jpg"
+      },
+      {
+        "name": "Gary Clark Jr.",
+        "character": "Arthur \"Big Boy\" Crudup",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w0ePaQi3UUOaejzNGmHpc2V87lK.jpg"
+      },
+      {
+        "name": "Yola",
+        "character": "Sister Rosetta Tharpe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hg8PhImJHIFDP1s9adcqZsYANq7.jpg"
+      },
+      {
+        "name": "Natasha Bassett",
+        "character": "Dixie Locke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xL8fWKOtpJzd1T7YtDHPniN5FQ.jpg"
+      },
+      {
+        "name": "Xavier Samuel",
+        "character": "Scotty Moore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gHvKqCXfpzaGp46gqsy9MVDfmSf.jpg"
+      },
+      {
+        "name": "Adam Dunn",
+        "character": "Bill Black",
+        "profile_path": ""
+      },
+      {
+        "name": "Alton Mason",
+        "character": "Little Richard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tEu8XIaHcB1c4pOvpgDvrjuEpMJ.jpg"
+      },
+      {
+        "name": "Shonka Dukureh",
+        "character": "Big Mama Thornton / Pentecostal Singer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oGKj0PYIQOkinIzganat2l0uR6X.jpg"
+      },
+      {
+        "name": "David Gannon",
+        "character": "Charlie Hodge",
+        "profile_path": ""
+      },
+      {
+        "name": "Shannon Sanders",
+        "character": "Pentecostal Pastor / Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Grounds",
+        "character": "Cousin Billy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A4Yc3lKnbMa9rUraLvFbCbf6stG.jpg"
+      },
+      {
+        "name": "Josh McConville",
+        "character": "Sam Phillips",
+        "profile_path": "https://image.tmdb.org/t/p/w185/16GjkZzXSl6SmqojpAq5sKU4QyB.jpg"
+      },
+      {
+        "name": "Kate Mulvany",
+        "character": "Marion Keisker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y80VZs4JwiXFlTvr5n8Y5Ezr3HS.jpg"
+      },
+      {
+        "name": "Gareth Davies",
+        "character": "Bones Howe",
+        "profile_path": ""
+      },
+      {
+        "name": "Chaydon Jay",
+        "character": "Young Elvis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7uhRfKZJHaQBCtoFUqxSKv9jCuL.jpg"
+      },
+      {
+        "name": "Christian Kisando",
+        "character": "Shake Rag Friend - Smoky",
+        "profile_path": ""
+      },
+      {
+        "name": "John Mukristayo",
+        "character": "Shake Rag Friend - Jimmy",
+        "profile_path": ""
+      },
+      {
+        "name": "Miles Burton",
+        "character": "Shake Rag Friend - Bobby",
+        "profile_path": ""
+      },
+      {
+        "name": "Gad Banza",
+        "character": "Shake Rag Friend - Doc",
+        "profile_path": ""
+      },
+      {
+        "name": "Aristene Kisando",
+        "character": "Sweet Inspiratons - Myrna",
+        "profile_path": ""
+      },
+      {
+        "name": "Senayt Mebrahtu",
+        "character": "Sweet Inspiratons - Estelle",
+        "profile_path": ""
+      },
+      {
+        "name": "Mariama Princess Andrews",
+        "character": "Sweet Inspiratons - Cissy",
+        "profile_path": ""
+      },
+      {
+        "name": "Sharon Brooks",
+        "character": "Sweet Inspiratons - Sylvia",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicholas Bell",
+        "character": "Senator Eastland",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u6wGCSowG03IkZiXEFO8ecYXiZv.jpg"
+      },
+      {
+        "name": "Anthony Phelan",
+        "character": "Meyer Kohn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fsI4aYSSmvhHpR3PXZ28qtrUs9L.jpg"
+      },
+      {
+        "name": "Sandro Colarelli",
+        "character": "Tony Goochera",
+        "profile_path": ""
+      },
+      {
+        "name": "Cle Morgan",
+        "character": "Mahalia Jackson",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Allen",
+        "character": "Reverend Brewster",
+        "profile_path": ""
+      },
+      {
+        "name": "Natalie Bassingthwaighte",
+        "character": "Dee Stanley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rbOVKe9sykntMGfPYcyLxp4fvVT.jpg"
+      },
+      {
+        "name": "Liz Blackett",
+        "character": "Grandma Dodger",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Bingaman",
+        "character": "Sonny West",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9JGiRScT9whsUOZmtIi4cLI9xMu.jpg"
+      },
+      {
+        "name": "Christian McCarty",
+        "character": "Red West",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w3nnig6LzDYhVamqZcM9A8kKRaC.jpg"
+      },
+      {
+        "name": "Tony Nixon",
+        "character": "Dr. Nick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/izHvwC3hb5hogp2dGx84cKgQoOt.jpg"
+      },
+      {
+        "name": "Andrea Moor",
+        "character": "Nurse Tish",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iTe5DYwb3oz3iqyFjVszOSxFhkb.jpg"
+      },
+      {
+        "name": "Mark Leonard Winter",
+        "character": "Tom Hulett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lTUrzZcAOOJzolIlTzgqT5FLNdh.jpg"
+      },
+      {
+        "name": "Hugh Parker",
+        "character": "Singer Senior Exec",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2ZlZ3AzvNEVz0jHtGyyDouPZBVu.jpg"
+      },
+      {
+        "name": "Thomas Larkin",
+        "character": "Singer Junior Exec",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t5NifuXVMEPnwIvZe6JkWuCGCWw.jpg"
+      },
+      {
+        "name": "Hilton Hyppolite Denis",
+        "character": "Claude Thompson",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Sommers",
+        "character": "Horace Logan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e86eKSvV5gr1qihDfG8Lpya04OC.jpg"
+      },
+      {
+        "name": "Brad Leaver",
+        "character": "Chief of Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Simon Mallory",
+        "character": "NBC Floor Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qUgXHJKgc1SbR7ihVwL48EmjLdO.jpg"
+      },
+      {
+        "name": "Terepai Richmond",
+        "character": "DJ Fontana",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Knight",
+        "character": "Ron Tutt",
+        "profile_path": ""
+      },
+      {
+        "name": "Jordan A. Holland",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lenesha Randolph",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Elizabeth Cullen",
+        "character": "Natalie - Motel Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Piix4T41OIpmQzkHONTBx8QWlO.jpg"
+      },
+      {
+        "name": "Angie Milliken",
+        "character": "Madam Z",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pfQZoIwFxaPiaxxuxJBHNQNrmQi.jpg"
+      },
+      {
+        "name": "Luke Corrin Care",
+        "character": "Aladdin Croupier",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack McGirr",
+        "character": "Tommy (Hayride)",
+        "profile_path": ""
+      },
+      {
+        "name": "Miranda Frangou",
+        "character": "Nell (Tommy's Girlfriend)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lakota Johnson",
+        "character": "Young Hip Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Ruby Gonzales-Judd",
+        "character": "Girl (Russwood)",
+        "profile_path": ""
+      },
+      {
+        "name": "Greg Powell",
+        "character": "Milton Berle",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick Shearer",
+        "character": "DJ Dewey Philips",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Rg8VrCGwrh9d9PTm9EwReivp4k.jpg"
+      },
+      {
+        "name": "Sarah Ogden",
+        "character": "Mrs. Eastland",
+        "profile_path": ""
+      },
+      {
+        "name": "Iain Gardiner",
+        "character": "Carny Fixer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ldKPBbDxUe6Cn9Av1oJ0Zpv7zFh.jpg"
+      },
+      {
+        "name": "Melina Vidler",
+        "character": "Barbara - Vegas Penthouse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mKm9ZlMfJ7xsh0pMnZQVokyYHnP.jpg"
+      },
+      {
+        "name": "Traneshia Chiles",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lauren McClinton",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Gary Hale",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kellee Halford",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Angela Hill",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jamiah Hudson",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Norris Jones",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen R. Ladson",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Alfreda McCrary",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Angela McCrary",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Beverly Ann McCrary",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Keb' Mo'",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tamica Nicole",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Marqo Patton",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Randolph",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Calvin Settles II",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Calvin V. Settles Sr.",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ira Wayne Settles Sr.",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Odessa L. Settles",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sara Settles",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Shirley M. Settles",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacqueline Smith-Jefferson",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Torshia Suggs",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Cameron Keith Walls",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrea Baker",
+        "character": "Pentecostal Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Libe Barer",
+        "character": "Pentecostal Singer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/peA4FQ9y8vImDrjEPrq6XlqYY5P.jpg"
+      },
+      {
+        "name": "Doug Burch",
+        "character": "Pentecostal Singer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ylIeoYrK278PkJXUhbZkzW0soQI.jpg"
+      },
+      {
+        "name": "Cathy Cavadini",
+        "character": "Pentecostal Singer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9sThx5Ajdy1aBJSppQDbTkmANlA.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Baz Luhrmann",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Dqs2hmcj2UtTON5FfjlRvKdbuF.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "rock 'n' roll",
+    "biography",
+    "based on true story",
+    "singer",
+    "music business",
+    "1950s",
+    "elvis presley",
+    "music movie"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "The life of American music icon Elvis Presley, from his childhood to becoming a rock and movie star in the 1950s while maintaining a complex relationship with his manager, Colonel Tom Parker.",
+    "Elvis follows the story of infamous rock 'n' roll star Elvis Presley seen through the eyes of his controversial manager Colonel Tom Parker. The film explores Elvis Presley's highs and lows and the many challenges and controversies he received throughout his career.—VooDoo",
+    "The film explores the life and music of Elvis Presley (Austin Butler), seen through the prism of his complicated relationship with his enigmatic manager, Colonel Tom Parker (Tom Hanks). The story delves into the complex dynamic between Presley and Parker spanning over 20 years, from Presley's rise to fame to his unprecedented stardom, against the backdrop of the evolving cultural landscape and loss of innocence in America. Central to that journey is one of the most significant and influential people in Elvis's life, Priscilla Presley (Olivia DeJonge).",
+    "From his rise to fame to his unprecedented superstardom, rock 'n' roll icon Elvis Presley maintains a complicated relationship with his enigmatic manager, Colonel Tom Parker, over the course of 20 years. Central to Presley's journey and happiness is one of the most influential people in his life --—jepstein13",
+    "Almost half a century after his untimely death on August 16, 1977, in Memphis, Tennessee, the dysfunctional relationship between Elvis Presley, The King of Rock 'n' Roll, and his long-time manager Colonel Tom Parker continues to stir controversy. To clear his name and set the record straight about his involvement with Elvis's rise to fame and career, a dying, penniless Parker awakens alone in a Las Vegas hospital room in 1997, with his mind filled with memories. As the colonel reminisces about their eventful, two-decade-long love/hate relationship, elements of Elvis Presley's story--from the singer's humble roots, Parker's first encounter with Presley in 1955, the influence of black music, country, gospel, and blues--unfold. On his deathbed, Tom Parker looks back on other pivotal landmarks of their career path, including Elvis's military service in West Germany, his focus on a new movie career, and the performer's marriage to Priscilla Presley. Of course, the former manager calls to mind Elvis Presley's return to live performances with the 1968 televised Christmas concert, Elvis: The Comeback Special (1968), the 5-year residency in the International Hotel, Las Vegas, and the last Nebraska concert on June 20, 1977, at the Pershing Municipal Auditorium, Lincoln. Elvis Presley rocked the stage in an unrivalled last performance on June 26, 1977, at the Market Square Arena in Indianapolis, only six weeks before his death.—Nick Riganas"
+  ],
+  "synopsis": "On January 20, 1997, Elvis Presley's (Austin Butler) former manager, Colonel Tom Parker (Tom Hanks), is on his deathbed, having suffered a stroke. Nursing a gambling addiction that has left him destitute, he recounts how he first met the future King of Rock and Roll.\nIn 1973 Parker was exposed as a fraud, who took 50% of Elvis's income, worked him like a mule to support his own gambling addiction. He was thought to be responsible for Elvis's death.Raised mostly by his doting mother Gladys (Helen Thomson), Presley spends his childhood in the poorest parts of Mississippi (after his father was jailed for check fraud, he and his mother had to take up accommodation in the black part of town), finding an escape in the comic book adventures of Captain Marvel Jr. and especially in song. However, upon moving with his parents to Memphis, he is ridiculed by his peers due to his fascination with the African American music of Memphis's Beale Street. At this time, Parker is a carnival \"huckster\" who fancies himself a modern-day P. T. Barnum. Although partnered with country singer Hank Snow (David Wenham), Parker immediately realizes Presley's crossover potential when he hears the white artist \"sounding black\" on the groundbreaking single, \"That's All Right.\" Presley uses African American rhythms in his songs. That night, he sees Presley at a \"Louisiana Hayride\" performance, discovering a talented musician with strong sex appeal among the females (with the way he moves & shakes his legs). Even now Presley hung around the African American parts of town and adapted their clothing and music styles in his performances.\nPresley was contracted with Sam Phillips of Sun Records, who wanted to record black music, only it wasn't selling like it should. Parker takes Presley on tour with Hank Snow and soon Presley is the major attraction. Women start throwing themselves at Presley and he starts having sex with them at his hotel room. He starts doing drugs as well to keep up with the schedule.At a Ferris Wheel, Parker meets with Presley and persuades him to let him take exclusive control of his career. He says that Parker would have to give up Hank and represent Presley exclusively and thus argues for a higher share of earnings. he says they need a record company of national distribution and tells Presley to convince Sun Records to sell their contract to RCA. Rock stars need to have an \"available\" status and hence Presley has to give up his girlfriend. Presley is made into a family business, with dad Vernon (Richard Roxburgh) as its business manager. The entire family enters into a legally binding contract with Parker.This is the beginning a meteoric ascent that sees the Presley family lifted out of poverty. Parker lands him a 7-movie deal and merchandise deals. The regional public is divided in their view of the singer. Feeling that Presley's music will corrupt white children of and stoke racial hostility, segregationist Southern Democrat Mississippi Senator James Eastland (Nicholas Bell) calls Parker to an informal hearing, during which he questions Parker about his mysterious past.\nPresley agrees to do one family show without his trademark moves, but it is a disaster. Presley gets a lot of flak for it and is furious at Parker for making him change. Gladys blames Parker for their woes. B.B. King (Kelvin Harrison Jr.) is Presley's mentor and runs a African American club downtown. He advises Presley to start his own label. He also says that there is no way Presley, a famous white boy, will ever go to jail for dancing like an African American. He says there must be another reason why Parker guided him the way he did.After Presley's charged dance moves at a concert, the singer faces potential legal trouble. Parker persuades the government to draft Presley into the US Army instead to avoid legal entanglements. During his military service in West Germany (In 1958 for 2 years), Presley is devastated by his mother's alcoholism-induced death. Parker replaces Gladys and handholds Presley out of depression.\nPresley finds some solace when he meets Priscilla Beaulieu (Olivia DeJonge), the adopted teenage daughter of an United States Air Force pilot. After his discharge, he resumes his movie career, and years later, he marries Priscilla in 1966 (honeymoon on Frank Sinatra's jet). Presley gets movie work for Priscilla and his entire Memphis mafia. Lisa Marie was born shortly thereafter.As the popular culture of the 1960s passes Presley by (The Beatles were on the ascendancy), the assassinations of Martin Luther King Jr. and Robert F. Kennedy devastate him. Although he wants to become more politically outspoken in his music, Parker only allows him to release frivolous feel-good songs for a Christmas special television. However, this does not dissuade him. He meets Steve Binder (Dacre Montgomery), who put Steve and the Rolling Stones together. Presley's performance choices in the special, including the closing number, \"If I Can Dream\", are presented and perceived as acts of not only his past songs, but also political commentary. Infuriated corporate sponsors threaten litigation, while a disgusted Parker believes Presley has been \"brainwashed by hippies.\" Nevertheless, the show is massively successful.Parker is infuriated that Binder is guiding Presley that he no longer needs Parker. Binder gets more involved with Presley and books him on overseas tours paying $ 1 MM per night. He says that Parker refused 2 such offers in the previous year, although he can't figure out why.\nIt is revealed that Parker is under gambling debts. Plus, there was no colonel Parker to begin with and Parker is actually Andreas Van Kuijk, an illegal immigrant from Netherlands.After the special, Presley headlines at the largest showroom in Las Vegas, the International Hotel, and then resumes concert tours. Parker's control of Presley's life tightens further as he refuses Presley's request for a world tour despite initially promising him and manipulates him (by making it look like there are death threats against Presley and by staging attacks on stage on him at the International Hotel, to make the threats looks real and credible) into signing a contract for a lengthy Las Vegas casino residency at the International Hotel ($1 MM per year for 5 years in exchange for Parker's debt being canceled).Parker goads Presley into doing US tours instead. 15 cities in 15 days, which they do in 1969, 70, 71 and 72. Presley's behavioral issues and prescription drug addiction overtake him, and a despondent Priscilla divorces him on January 8, 1973, taking their daughter Lisa Marie with her. Presley discovers that Parker cannot leave the country, because he is a stateless illegal immigrant named Andreas (Dries) van Kuijk and fires him on September 3, 1973.Parker and Presley argue over Presley's $8 million debt to Parker and the record label for his numerous lavish expenses, straining Presley's relationship with his father. Parker is able to convince Presley of their symbiotic relationship and, while they rarely see each other afterward, Parker continues as his manager.Presley continues a rigorous schedule of shows that leaves him increasingly exhausted. In 1974, before his death on August 16, 1977, Presley expresses his greatest fear to Priscilla of being forgotten after he dies. At one of his final shows on June 21, 1977, in Rapid City, South Dakota, Presley, now bloated and pale, sings \"Unchained Melody\" and ends the performance to thunderous applause. As he finishes his recollection, Parker dies on January 21, 1997, impoverished and alone, while Presley is beloved worldwide and is the best-selling solo artist in history, with his influence and legacy on music continuing to this day.\nParker's financial abuse of Elvis was exposed after Elvis's death in a series of lawsuits. He settled out of court.",
+  "imdb_score": 7.3
+}

@@ -1,0 +1,495 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/69EFgWWPFWbRNHmQgYdSnyJ94Ge.jpg",
+  "id": 49521,
+  "title": "Man of Steel",
+  "poster_path": "https://image.tmdb.org/t/p/w500/dksTL9NXc3GqPBRHYHcy1aIwjS.jpg",
+  "release_date": "2013-06-12",
+  "vote_average": 6.618,
+  "vote_count": 14579,
+  "popularity": 56.346,
+  "overview": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
+  "imdb_id": "tt0770828",
+  "budget": 225000000,
+  "homepage": "https://www.warnerbros.com/movies/man-steel",
+  "revenue": 668045518,
+  "runtime": 143,
+  "tagline": "You will believe that a man can fly.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "DC Entertainment",
+    "Syncopy",
+    "Peters Entertainment",
+    "Warner Bros. Pictures"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Henry Cavill",
+        "character": "Clark Kent / Superman / Kal-El",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dgTD7Q9owL3DyX9uYoSX9KZeUUz.jpg"
+      },
+      {
+        "name": "Amy Adams",
+        "character": "Lois Lane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1bJUW9KPefhBfAS0UxbM05OL3lG.jpg"
+      },
+      {
+        "name": "Michael Shannon",
+        "character": "General Zod",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+      },
+      {
+        "name": "Diane Lane",
+        "character": "Martha Kent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tUPAKAtstqeQrAKhkQge9jV7Owz.jpg"
+      },
+      {
+        "name": "Russell Crowe",
+        "character": "Jor-El",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fbzD4utSGJlsV8XbYMLoMdEZ1Fc.jpg"
+      },
+      {
+        "name": "Kevin Costner",
+        "character": "Jonathan Kent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/608blZipRDZkDpzp8VItB64qMaT.jpg"
+      },
+      {
+        "name": "Laurence Fishburne",
+        "character": "Perry White",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iwx7h0AfWMm9K4sMmhru3ShSra.jpg"
+      },
+      {
+        "name": "Christopher Meloni",
+        "character": "Colonel Nathan Hardy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/spEmmtupTNCJB1yeHcs3jov4Keg.jpg"
+      },
+      {
+        "name": "Antje Traue",
+        "character": "Faora-Ul",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xEwHBfAtcDCKGvo2lAD9xc55X7O.jpg"
+      },
+      {
+        "name": "Harry Lennix",
+        "character": "General Calvin Swanwick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kNGiizWpetf4pyAkINkjkWacmCL.jpg"
+      },
+      {
+        "name": "Richard Schiff",
+        "character": "Dr. Emil Hamilton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oFDka3Y5H3DBiZRqbdPabtX8ncP.jpg"
+      },
+      {
+        "name": "Ayelet Zurer",
+        "character": "Lara Lor-Van",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ea3MLLgsIdDhDLkjUCmkR0ZxjDC.jpg"
+      },
+      {
+        "name": "Rebecca Buller",
+        "character": "Jenny Jurwich",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uXopZrWK2NZku58evS8VC9pfjck.jpg"
+      },
+      {
+        "name": "Michael Kelly",
+        "character": "Steve Lombard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/riyeGgTnSWGZGJ9k9qK38lfclz1.jpg"
+      },
+      {
+        "name": "Mackenzie Gray",
+        "character": "Jax-Ur",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8GFAKb7e5XvL5njW4DAs4oXD9rX.jpg"
+      },
+      {
+        "name": "Richard Cetrone",
+        "character": "Tor-An",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lZQqNU3QUcnIssWhIfatePfU6M7.jpg"
+      },
+      {
+        "name": "Samantha Win",
+        "character": "Car-Vex",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vizHwiI9JXCtNxIM3bx2F6Gr7iF.jpg"
+      },
+      {
+        "name": "Julian Richings",
+        "character": "Lor-Em",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Qf044hlSHjjoRngbI8h7txPNwU.jpg"
+      },
+      {
+        "name": "Mary Black",
+        "character": "Ro-Zar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/enDcsji4K79inZU3LBC2dO1peKo.jpg"
+      },
+      {
+        "name": "Dylan Sprayberry",
+        "character": "Clark Kent at 13",
+        "profile_path": "https://image.tmdb.org/t/p/w185/buzNvV8K6PpCsGg0bVfbW82wHmq.jpg"
+      },
+      {
+        "name": "Christina Wren",
+        "character": "Major Carrie Farris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hMQoxG3XQ0b8Hmx9gVNn6krvU2T.jpg"
+      },
+      {
+        "name": "Cooper Timberline",
+        "character": "Clark Kent (9 Years)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wOxXO8Fbr8oNg5jZvmJr7jena9j.jpg"
+      },
+      {
+        "name": "David James Lewis",
+        "character": "Major Laramore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6i4FD9BsdDacX4Tma41dBWYVCpw.jpg"
+      },
+      {
+        "name": "Tahmoh Penikett",
+        "character": "Emerson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/716vNPQ4UaPga3n8RX777c9Excg.jpg"
+      },
+      {
+        "name": "Doug Abrahams",
+        "character": "Heraldson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u4M8YZGbZdJfqTttOGNDiVRa0MP.jpg"
+      },
+      {
+        "name": "Brad Kelly",
+        "character": "Byrne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iyATYHZDhTfnEEG1SPa8sIMKWBV.jpg"
+      },
+      {
+        "name": "David Paetkau",
+        "character": "Northcorn Threat Analyst",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iCJwaAlhAb8ofzlqXGXBdEuYI8x.jpg"
+      },
+      {
+        "name": "Elizabeth Thai",
+        "character": "Northcorn Threat Analyst",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4yHeSZW83qlCrKJC5w8uhoUjj6b.jpg"
+      },
+      {
+        "name": "Ian Rozylo",
+        "character": "Northcorn Threat Analyst",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ydSXw3LcSBtFLlwsWxRxhmBTQxN.jpg"
+      },
+      {
+        "name": "Alessandro Juliani",
+        "character": "Officer Sekowsky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f8pVEpYsRU30EsMoWcBsTkUN9e0.jpg"
+      },
+      {
+        "name": "Kwesi Ameyaw",
+        "character": "Canadian Airman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/34xshC6FVZMfbKIocnBLjqQSLPw.jpg"
+      },
+      {
+        "name": "Mike Dopud",
+        "character": "Canadian Airman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qJn6v7auGZjaQhDkIjFqVrAoBIq.jpg"
+      },
+      {
+        "name": "Jack Foley",
+        "character": "Teenage Pete Ross",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4tyffqI5PnBo93wMjbkowdoCOIe.jpg"
+      },
+      {
+        "name": "Jadin Gould",
+        "character": "Lana Lang",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l6h3TZz6znsNbNTNmHVgT3W3L8k.jpg"
+      },
+      {
+        "name": "Robert Gerdisch",
+        "character": "Whitney Fordman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3elsct6GHyd8RsDtgwNHneRCd8Y.jpg"
+      },
+      {
+        "name": "Ryan Mitchell",
+        "character": "Bus Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/SBGq6DpmAiwnlnCc9pLsnjXTFy.jpg"
+      },
+      {
+        "name": "Alexa Gengelbach",
+        "character": "Bus Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aj60b4iDwwqD7eppXj7wCMvkpMv.jpg"
+      },
+      {
+        "name": "Stephanie Kraft Song",
+        "character": "Bus Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Caroline Thomas",
+        "character": "Bus Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Coburn Goss",
+        "character": "Father Leone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8n9J0ifyGqtZf3ahdqIFrTCyke3.jpg"
+      },
+      {
+        "name": "Lesley Bevan",
+        "character": "Ms. Rampling",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j8A05MAwlrL9A4LLhqfFmj3aRUV.jpg"
+      },
+      {
+        "name": "Chad Krowchuk",
+        "character": "Glen Woodburn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nUlRm8KNXAZQQ2ipDYEYbpOAB42.jpg"
+      },
+      {
+        "name": "Ian Tracey",
+        "character": "Ludlow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dUzzLVVUF0pvGzS3xrIZ5tiC2TT.jpg"
+      },
+      {
+        "name": "Carmen Lavigne",
+        "character": "Chrissy - Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xhSJjVM3EvTgLkQt3d0wnd8gzdT.jpg"
+      },
+      {
+        "name": "Howard Siegel",
+        "character": "Weaver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wZMxlBaWDdI3El2nw12peOUkRig.jpg"
+      },
+      {
+        "name": "Heidi Kettering",
+        "character": "Helen Ross",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lZisjGSXUH2RIdyastPx6j2muuh.jpg"
+      },
+      {
+        "name": "Justin Butler",
+        "character": "Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6pS5XpNmgGNmP3n61BrWoMq0W55.jpg"
+      },
+      {
+        "name": "Jacqueline Scislowski",
+        "character": "Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hP3uhOrQkw6LEbcPFjtzSuNtrPa.jpg"
+      },
+      {
+        "name": "Danny Coonley",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Sally Elling",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Cranford",
+        "character": "Pete Ross",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rR7KbdAUvnaVLULRCqFIq5oRJP7.jpg"
+      },
+      {
+        "name": "Clint Carleton",
+        "character": "Roughneck",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qUcF9fBQNxcCyiZAjcwlrOAkLj2.jpg"
+      },
+      {
+        "name": "Mark Gibbon",
+        "character": "Roughneck",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uzUzA4zoiPXIfYLQhBkoVqGsssG.jpg"
+      },
+      {
+        "name": "Stuart Ambrose",
+        "character": "A-10 Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nQrNQGEi13CNGqSHEEbQt6C7iUJ.jpg"
+      },
+      {
+        "name": "Tom Nagel",
+        "character": "A-10 Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xrbwnXXXkk24jlw4526JmYreGxH.jpg"
+      },
+      {
+        "name": "Jackson Berlin",
+        "character": "F-35 Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xP6rhFZOMrrgeEYAs34fDWuwJ0.jpg"
+      },
+      {
+        "name": "George Canyon",
+        "character": "F-35 Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wUQT48qAAf7fbtgwtrQS0qzxdPA.jpg"
+      },
+      {
+        "name": "Kyle Riefsnyder",
+        "character": "Little Bird Gunship Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yK9RMabVgDEklCuD6r5zBrrt9KI.jpg"
+      },
+      {
+        "name": "Aaron Smolinski",
+        "character": "Communications Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yypLAhfGcecgozOO7wiWV3c28qT.jpg"
+      },
+      {
+        "name": "Carla Gugino",
+        "character": "Kelor (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dAqGOsHSzlP6RhaUURX2NrwITaq.jpg"
+      },
+      {
+        "name": "Bruce Bohne",
+        "character": "Ace O' Clubs Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zBe6eyNHbiEClW4Lwu2o8S7Mi75.jpg"
+      },
+      {
+        "name": "Rowen Kahn",
+        "character": "Ken Braverman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/10dEenfzq3dsb5ZysxZqrAXwV9I.jpg"
+      },
+      {
+        "name": "Robert Moloney",
+        "character": "News Show Host",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gbmYYq0R6xvuKZQ1kwUBwkN9iso.jpg"
+      },
+      {
+        "name": "Sean Campbell",
+        "character": "Bar Buddy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zytN3N5EAtRJHJC7ProCEyjdDVp.jpg"
+      },
+      {
+        "name": "Aaron Pearl",
+        "character": "Bar Buddy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kwc5qUmHwFv78ToK6Uewu3rRr0N.jpg"
+      },
+      {
+        "name": "Rebecca Spence",
+        "character": "Young Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c284xbwhHvFsd38W71hL0H6HVQE.jpg"
+      },
+      {
+        "name": "Joe Miñoso",
+        "character": "Metropolis Policeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/je6BoStc1WicNZQNJWSrf0kNhAG.jpg"
+      },
+      {
+        "name": "Brian King",
+        "character": "Train Station Family (Father)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z2zoXQ1VeHHhRLuvPY6dO1tpeQQ.jpg"
+      },
+      {
+        "name": "Madison Moran",
+        "character": "Train Station Family (Daughter)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wBFF12pgP6cOlAuBYkzo77wgdoG.jpg"
+      },
+      {
+        "name": "Gabe Darley",
+        "character": "Train Station Family (Son)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bridgett Newton",
+        "character": "Train Station Family (Mother)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6xJ1v2dMeojIGnyKfG2NWC3IDLR.jpg"
+      },
+      {
+        "name": "Revard Dufresne",
+        "character": "Dev-Em",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mVHzCLsCKCfTKJAVUdbvNSexeQt.jpg"
+      },
+      {
+        "name": "Apollonia Vanova",
+        "character": "Nadira",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zWWZ2bWuYm79Wulfe1546UD6ybM.jpg"
+      },
+      {
+        "name": "Dan Aho",
+        "character": "FBI Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r2Z9d2CKf9KBxwYcntAO4B3iXGY.jpg"
+      },
+      {
+        "name": "Ronald W. Gibbs",
+        "character": "FBI Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Palermo",
+        "character": "Sergeant Vance",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ni3d2IaSUk651Yq9HWfoa1Pezya.jpg"
+      },
+      {
+        "name": "Edmundo Raul Sanchez",
+        "character": "Smallville Gas Station Attendant",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicholas W. von Zill",
+        "character": "Council Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e0rFmhRXAKvYLZpjBEGC4xfSY0.jpg"
+      },
+      {
+        "name": "Allison Crowe",
+        "character": "Singer at Cassidy's",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uagf2xgrkgWypXVa6ZhCfcFFRYZ.jpg"
+      },
+      {
+        "name": "Nick Touchie",
+        "character": "Coastal Villager",
+        "profile_path": ""
+      },
+      {
+        "name": "Eileen Touchie",
+        "character": "Coastal Villager",
+        "profile_path": ""
+      },
+      {
+        "name": "Malcolm Scott",
+        "character": "Tractor Repair Shop Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mcLRygaAKBCig129KozWbjnnCop.jpg"
+      },
+      {
+        "name": "Rondel Reynoldson",
+        "character": "Kelor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Hn6iO7CNUHpPgcYKrpPMjDEzFg.jpg"
+      },
+      {
+        "name": "Johnny Otto",
+        "character": "Cop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i5LOfr6GLH6hvBdCoMyKY457IQZ.jpg"
+      },
+      {
+        "name": "Autumn Snyder",
+        "character": "Panicked Civilian (voice)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Zack Snyder",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iD0GDqkvJXDXiNEZej198hjt3Tt.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "saving the world",
+    "flying",
+    "hope",
+    "superhero",
+    "based on comic",
+    "alien planet",
+    "superhuman",
+    "alien invasion",
+    "super power",
+    "mysterious force",
+    "reboot",
+    "save the day",
+    "dc extended universe (dceu)",
+    "save the planet",
+    "origin story",
+    "alien spaceship"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "An alien child is evacuated from his dying world and sent to Earth to live among humans. His peace is threatened when other survivors of his home planet invade Earth.",
+    "A young boy learns that he has extraordinary powers and is not of this Earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must now emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.—Warner Bros. Pictures",
+    "Kal-El, son of Jor-El and Lara, is sent to Earth after his home planet Krypton leads to a complete incineration. Now taking the name \"Clark Kent\", he then discovers his true persona when he is guided to become Superman: A hero committed to protect Earth's fate and the harm that threatens it. However, General Zod, a citizen of Krypton and its military leader looks at Earth's fate differently and decides to use it with a sacrifice for all humans. Superman, with the help of present military and news reporter Lois Lane makes an alliance together to stop Zod from obliterating human existence."
+  ],
+  "synopsis": "The planet Krypton faces imminent destruction due to its unstable core, resulting from years of exploiting Krypton's natural resources. The ruling council is deposed by the rebel military leader, General Zod (Michael Shannon), and his followers. Scientist Jor-El (Russel Crowe) and his wife Lara launch their newborn son Kal-El on a spacecraft to Earth, infusing his cells with a genetic codex to preserve the Kryptonian race. After Zod murders Jor-El, he and his followers are captured and banished to the Phantom Zone. However, Krypton explodes some time afterwards, freeing them.The infant Kal-El is raised as the adoptive son of Jonathan (Kevin Costner) and Martha Kent (Diane Lane), who name him Clark. Clark's (Henry Cavill) Kryptonian physiology affords him superhuman abilities on Earth, which initially cause him confusion and ostracizing, but he gradually learns to harness his powers to help others. Jonathan reveals to a teenage Clark that he is an alien and advises him not to use his powers publicly, fearing that society will reject him. After Jonathan's death, an adult Clark spends several years living a nomadic lifestyle, working different jobs under false names, while saving people in secret as well as struggling with the loss of his adoptive father.He eventually infiltrates a scientific discovery of a Kryptonian scout spaceship in the Arctic. Clark enters the alien ship, and it allows him to communicate with the preserved consciousness of Jor-El in the form of a hologram. Lois Lane (Amy Adams), a journalist from the Daily Planet who was sent to write a story on the discovery, sneaks inside the ship while following Clark and is rescued by him when she is injured. Lois's editor Perry White rejects her story of a \"superhuman\" rescuer, so she traces Clark back to Kansas with the intention of writing an expose. After hearing his story, she decides not to reveal his secret.Zod and his crew seek out other colony worlds, and eventually follow a Kryptonian distress signal sent from the ship Clark discovered on Earth. Zod demands that humans surrender Kal-El, who he believes has the codex, in return for peace. Clark agrees, and the U.S. military hand him and Lois over to Zod's second-in-command, Faora. Zod reveals that he intends to use a Terraforming \"world engine\" to transform Earth into a new Krypton, eradicating the human population in the process, and use the codex to repopulate the planet with genetically-engineered Kryptonians. After Clark and Lois escape Zod's ship, Clark defeats Faora, convincing the military that he is an ally. Zod deploys the world engine and initiates the process in Metropolis and over the Indian Ocean.Clark, now dubbed \"Superman\", stops the world engine in the Indian Ocean and also destroys the ship which carries the pivotal technology, the Genesis Chamber, to restore the Krytonian race with the codex. The military use the spacecraft that brought Clark to Earth in an aerial strike on Zod's ship over Metropolis, returning Zod's crew to the Phantom Zone, completely thwarting Zod's plans. Only Zod remains, and he engages Superman in an aerial battle across Metropolis. When Zod attempts to murder civilians in revenge for his defeat, Superman is forced to kill him. Some time later, Superman continues to earn the U.S. government's trust, although evading their efforts to uncover his secret identity. To create an alias that gives him access to dangerous situations without arousing suspicion, Clark takes a job as a reporter at the Daily Planet.",
+  "imdb_score": 7.1
+}

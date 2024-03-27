@@ -1,0 +1,703 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/wgvc3PmjQGtYYDWaeuV867mnFDs.jpg",
+  "id": 18,
+  "title": "The Fifth Element",
+  "poster_path": "https://image.tmdb.org/t/p/w500/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg",
+  "release_date": "1997-05-02",
+  "vote_average": 7.539,
+  "vote_count": 10214,
+  "popularity": 58.229,
+  "overview": "In 2257, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.",
+  "imdb_id": "tt0119116",
+  "budget": 90000000,
+  "homepage": "",
+  "revenue": 263920180,
+  "runtime": 126,
+  "tagline": "There is no future without it.",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Gaumont",
+    "Columbia Pictures"
+  ],
+  "production_countries": [
+    "FR",
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Bruce Willis",
+        "character": "Korben Dallas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/caX3KtMU42EP3VLRFFBwqIIrch5.jpg"
+      },
+      {
+        "name": "Milla Jovovich",
+        "character": "Leeloo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rLlAgxSvMnE6yGPcChpUrLdAvKF.jpg"
+      },
+      {
+        "name": "Gary Oldman",
+        "character": "Jean-Baptiste Emmanuel Zorg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+      },
+      {
+        "name": "Ian Holm",
+        "character": "Father Vito Cornelius",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tz81JSiPdcLM7b624W1BcYdxd4D.jpg"
+      },
+      {
+        "name": "Chris Tucker",
+        "character": "Ruby Rhod",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f3oQKRJEGjK8Yc4qSMrD5P9oYbg.jpg"
+      },
+      {
+        "name": "Luke Perry",
+        "character": "Billy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/78TAr0wLoRHyubnYxjyHNCt70V2.jpg"
+      },
+      {
+        "name": "Brion James",
+        "character": "General Munro",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xhRKqov9SzpWIEI9QStcFort2kG.jpg"
+      },
+      {
+        "name": "Tommy Lister Jr.",
+        "character": "President Lindberg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i1seZDiLC3AKrAYqfFSln6ZGNmF.jpg"
+      },
+      {
+        "name": "Lee Evans",
+        "character": "Fog",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2BZeVCqFjYQ826ROkJaG4gehbmy.jpg"
+      },
+      {
+        "name": "Charlie Creed-Miles",
+        "character": "David",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aVPpJs7X03oNmbxFtHNaQdsnNod.jpg"
+      },
+      {
+        "name": "Tricky",
+        "character": "Right Arm",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lEKOU6NyUsXW6XA7xp4p4PVbGID.jpg"
+      },
+      {
+        "name": "John Neville",
+        "character": "General Staedert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q9dqdcETh7fejWKYpIRz1tWnkN3.jpg"
+      },
+      {
+        "name": "John Bluthal",
+        "character": "Professor Pacoli",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vdM8UyPL8Plaroa7rlOVX4SWbJ6.jpg"
+      },
+      {
+        "name": "Mathieu Kassovitz",
+        "character": "Mugger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3FRBEdKKlxhvPWPt0jzgmSjeHwn.jpg"
+      },
+      {
+        "name": "Christopher Fairbank",
+        "character": "Mactilburgh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eSOuf8dTGjwjlConY7d1FGgRNY7.jpg"
+      },
+      {
+        "name": "Kim Chan",
+        "character": "Mr. Kim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oV350fpOcbi2O2JVUSFYoz6Utw1.jpg"
+      },
+      {
+        "name": "Richard Leaf",
+        "character": "Neighbor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/afvUxmjM76JjbVOVysuoEQfwsTa.jpg"
+      },
+      {
+        "name": "Julie T. Wallace",
+        "character": "Major Iceborg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/luGc8v9DzfkY5XnZXIAsNAjRdu0.jpg"
+      },
+      {
+        "name": "Al Matthews",
+        "character": "General Tudor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4IvJpvyHcROUxDhLGbIFlnO6CoY.jpg"
+      },
+      {
+        "name": "Maïwenn",
+        "character": "Diva Plavalaguna",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nz6tszk7cV3e3D2qdmQujyLJzkG.jpg"
+      },
+      {
+        "name": "John Bennett",
+        "character": "Priest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/arSkPpoGcRyqSdx4iAE9DtBc2Z8.jpg"
+      },
+      {
+        "name": "Ivan Heng",
+        "character": "Left Arm",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nfcnudNzHHRMkW7bYJjZ8cNIcxs.jpg"
+      },
+      {
+        "name": "Sonita Henry",
+        "character": "President's Aide",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oIBILFSVqHT2warKlXSPDML3llI.jpg"
+      },
+      {
+        "name": "Tim McMullan",
+        "character": "Scientist's Aide",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7RaL5N5riQlgdjEvgK4hWJie4mc.jpg"
+      },
+      {
+        "name": "Hon Ping Tang",
+        "character": "Munro's Captain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dCD9EPkkq62i7JcL4qFMNTY8fvX.jpg"
+      },
+      {
+        "name": "George Khan",
+        "character": "Head Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/18xTNyVD4LKefoJqgQCrJLq6bgh.jpg"
+      },
+      {
+        "name": "John Hughes",
+        "character": "Head of Military",
+        "profile_path": ""
+      },
+      {
+        "name": "Roberto Bryce",
+        "character": "Omar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2xoamoRf7Kllca4OJcUKwh10kPK.jpg"
+      },
+      {
+        "name": "Said Talidi",
+        "character": "Aziz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p1c61jZpFJfhfegza4LyOAswofS.jpg"
+      },
+      {
+        "name": "Clifton Lloyd Bryan",
+        "character": "Mondoshawan / Mangalore Aknot / Airport Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Justin Lee Burrows",
+        "character": "Mondoshawan",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Ashton",
+        "character": "Mondoshawan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vXU9iUlWQ3iniENuebXjjhdtVbQ.jpg"
+      },
+      {
+        "name": "Jerome St. John Blake",
+        "character": "Mondoshawan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mJo6VvE5RTTaRwvnYcvXIn63BTg.jpg"
+      },
+      {
+        "name": "Kevin Molloy",
+        "character": "Mondoshawan / Ground Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Reimbold",
+        "character": "Mactilburgh's Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Colin Brooks",
+        "character": "Staedert's Captain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a0bbMNVoB85voarYlPgBeptMiv4.jpg"
+      },
+      {
+        "name": "Anthony Chinn",
+        "character": "Mactilburgh's Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mNFlpB6omwAd3RVb1D5Rsrqnhl2.jpg"
+      },
+      {
+        "name": "Sam Douglas",
+        "character": "Chief NY Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hGtVDo5BF4utyCbrEUm3RDNA28B.jpg"
+      },
+      {
+        "name": "Derek Ezenagu",
+        "character": "NY Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jk6rSMGxuaMKgSOEwxMv1CZA4ug.jpg"
+      },
+      {
+        "name": "David Kennedy",
+        "character": "Flying Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mR8ZDzEJ7ElWvYv5qMfK171GtNb.jpg"
+      },
+      {
+        "name": "David Barrass",
+        "character": "Flying Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aen6jTFaCrjUn3mqoB4qqKYlG9p.jpg"
+      },
+      {
+        "name": "Roger Monk",
+        "character": "Flying Cop / Military Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/DI6xymNX68YWeF5uDgZdflmkIp.jpg"
+      },
+      {
+        "name": "Mac McDonald",
+        "character": "Flying Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gejehuptBzsJlPiWKU8B9TTrc7r.jpg"
+      },
+      {
+        "name": "Mark Seaton",
+        "character": "Flying Cop",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean-Luc Caron",
+        "character": "Flying Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cW9RIyBRMtHnXWiVZ8yil8HwLlO.jpg"
+      },
+      {
+        "name": "Riz Meedin",
+        "character": "Flying Cop",
+        "profile_path": ""
+      },
+      {
+        "name": "Jerry Ezekiel",
+        "character": "Flying Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eDiGwq857Su0KbA8nmXvQeaXAtT.jpg"
+      },
+      {
+        "name": "Indra Ové",
+        "character": "VIP Stewardess",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wDfCsmdCE4PwSPZoONC3JgssA2B.jpg"
+      },
+      {
+        "name": "Nicole Merry",
+        "character": "VIP Stewardess",
+        "profile_path": ""
+      },
+      {
+        "name": "Stacey McKenzie",
+        "character": "VIP Stewardess",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8WZIpvDcHcbHqc4cpNKDxvBvJ6q.jpg"
+      },
+      {
+        "name": "Rachel Willis",
+        "character": "Stewardess",
+        "profile_path": ""
+      },
+      {
+        "name": "Genevieve Maylam",
+        "character": "Stewardess",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lYl8amBZXHC1UbHu99yPplBFar3.jpg"
+      },
+      {
+        "name": "Josie Perez",
+        "character": "Stewardess",
+        "profile_path": ""
+      },
+      {
+        "name": "Natasha Brice",
+        "character": "Stewardess",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mjws193MRX8veMPKPvoAXNaKeTS.jpg"
+      },
+      {
+        "name": "Sophia Goth",
+        "character": "Check-in Attendant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9VVQMtGKqfMX5VNLE8xN1fszWLN.jpg"
+      },
+      {
+        "name": "Martin McDougall",
+        "character": "Warship Captain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sqosciocBl1OgQmnBXjSOafDvpt.jpg"
+      },
+      {
+        "name": "Peter Dunwell",
+        "character": "Diva's Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Priestley",
+        "character": "Cop",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Salkey",
+        "character": "Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qetZBxDlZA6102rvQhHqAGTMUZx.jpg"
+      },
+      {
+        "name": "Stewart Harvey-Wilson",
+        "character": "Ruby Rhod Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n6bIPcJeflfVG6ZzEKZtgZHM7gk.jpg"
+      },
+      {
+        "name": "David Fishley",
+        "character": "Ruby Rhod Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Carlton Chance",
+        "character": "Ruby Rhod Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Gin Clarke",
+        "character": "Diva's Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ahFLnTIQAyqlAS8mascfD64x8Fc.jpg"
+      },
+      {
+        "name": "Vladimir McCrary",
+        "character": "Human Aknot",
+        "profile_path": ""
+      },
+      {
+        "name": "Aron Paramor",
+        "character": "Mangalore Akanit",
+        "profile_path": ""
+      },
+      {
+        "name": "Alan Ruscoe",
+        "character": "Mangalore Kino",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zPT2ZCQRjUS5QqSWbLL9BVtNwba.jpg"
+      },
+      {
+        "name": "Christopher Adamson",
+        "character": "Airport Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/anZJNTCnyeDzeWPnsArEKXfT7gc.jpg"
+      },
+      {
+        "name": "Ève Salvail",
+        "character": "Tawdry Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b7maUhfwCxfOU7A0GZfY6BM1XwI.jpg"
+      },
+      {
+        "name": "Kaleem Janjua",
+        "character": "Shuttle Pilot",
+        "profile_path": ""
+      },
+      {
+        "name": "Tyrone Tyrell",
+        "character": "Shuttle Co-Pilot",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Brewerton",
+        "character": "Shuttle Mechanic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bkDsi29JRaQXA1aDEXOcL7SIWWl.jpg"
+      },
+      {
+        "name": "Vincenzo Pellegrino",
+        "character": "Ground Crew",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yulRxNp23O4HlPZlW6LWlHnp6Vf.jpg"
+      },
+      {
+        "name": "Ian Beckett",
+        "character": "Baby Ray",
+        "profile_path": ""
+      },
+      {
+        "name": "Sonny Caldinez",
+        "character": "Emperor Kodar Japhet",
+        "profile_path": ""
+      },
+      {
+        "name": "Zeta Graff",
+        "character": "Princess Achen",
+        "profile_path": ""
+      },
+      {
+        "name": "Eddie Ellwood",
+        "character": "Roy von Bacon",
+        "profile_path": ""
+      },
+      {
+        "name": "Yui",
+        "character": "Fhloston Hostess",
+        "profile_path": ""
+      },
+      {
+        "name": "Laura De Palma",
+        "character": "Fhloston Hostess",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Culkin",
+        "character": "Hefty Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eUTAyHEEKE3ZVVqKuEiPG8APU14.jpg"
+      },
+      {
+        "name": "Lenny McLean",
+        "character": "Police Chief",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sXF9hvdsEPE8rUkfiqbN16HziAq.jpg"
+      },
+      {
+        "name": "Robert Oates",
+        "character": "Fhloston Commander",
+        "profile_path": ""
+      },
+      {
+        "name": "John Sharian",
+        "character": "Fhloston Captain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kyt5wb9ID7G4Kz07ikvduBDH5QB.jpg"
+      },
+      {
+        "name": "Fred Williams",
+        "character": "Hotel Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Sibyl Buck",
+        "character": "Zorg's Secretary",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah Carrington",
+        "character": "Scientist",
+        "profile_path": ""
+      },
+      {
+        "name": "Grant James",
+        "character": "Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uWaM5vPDs38KxbtB7JngDBbWwha.jpg"
+      },
+      {
+        "name": "Ali Yassine",
+        "character": "Scientist",
+        "profile_path": ""
+      },
+      {
+        "name": "Sean Buckley",
+        "character": "Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sD3ixMn29rX3apAHHhcoG3XWlYR.jpg"
+      },
+      {
+        "name": "Dane Messam",
+        "character": "Military Technician",
+        "profile_path": ""
+      },
+      {
+        "name": "Nathan Hamlett",
+        "character": "Military Technician",
+        "profile_path": ""
+      },
+      {
+        "name": "Cecil Cheng",
+        "character": "Military Technician",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Woods",
+        "character": "Lab Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Leon Dekker",
+        "character": "Lab Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "David Garvey",
+        "character": "Staedert's Technician",
+        "profile_path": ""
+      },
+      {
+        "name": "Stanley Kowalski",
+        "character": "Staedert's Technician",
+        "profile_path": ""
+      },
+      {
+        "name": "Omar Hibbert Williams",
+        "character": "Staedert's Technician",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Clapperton",
+        "character": "Robot Barman",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Alexander",
+        "character": "Warship Technician",
+        "profile_path": ""
+      },
+      {
+        "name": "Mia Frye",
+        "character": "TV Stewardess",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vYJ3096LiWRsXTNLttk86KI88a8.jpg"
+      },
+      {
+        "name": "Leo Williams",
+        "character": "Power Operator",
+        "profile_path": ""
+      },
+      {
+        "name": "C. Keith Martin",
+        "character": "Power Operator",
+        "profile_path": ""
+      },
+      {
+        "name": "J.D. Dawodu",
+        "character": "Zorg's Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick Nicholls",
+        "character": "Zorg's Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Shaun Davis",
+        "character": "Zorg's Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Roy Garcia Singh",
+        "character": "Zorg's Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Georgijev",
+        "character": "Zorg's Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Marie Guillard",
+        "character": "Burger Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2ruQJ1ChERuj77ninn0MybDfFKP.jpg"
+      },
+      {
+        "name": "Renee Montemayor",
+        "character": "Burger Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Stina Richardson",
+        "character": "Burger Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Gillian M. Berrow",
+        "character": "Mondoshawan (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Geoff Boothby",
+        "character": "Mondoshawan (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "François Guillaume",
+        "character": "Mondoshawan #3 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/77H7RjjNCWfBBqj6jTyc2B2bH6m.jpg"
+      },
+      {
+        "name": "Kristen Fick",
+        "character": "Glamorous Alien Diva at Event (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Anita Koh",
+        "character": "Japanese Hostess (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kamay Lau",
+        "character": "Glamorous Japanese Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Inva Mula",
+        "character": "Diva's Singing Voice (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mwU9d17T6UxrxMpL67GbhlaoRvU.jpg"
+      },
+      {
+        "name": "Jill Mullan",
+        "character": "Korben's Mother (voice) (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tracy Redington",
+        "character": "Stewardess (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gito Santana",
+        "character": "VIP Lounge Worker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Senger",
+        "character": "Bodyguard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x9BmH7tqATglaoDgxTed0Nwg4G.jpg"
+      },
+      {
+        "name": "Joss Skottowe",
+        "character": "Mangalor Alien (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Fred Wood",
+        "character": "Emissary (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jcQIbcwcLYTS7JAVMg1n1f36Hsv.jpg"
+      },
+      {
+        "name": "Roger Wright",
+        "character": "Afro Scott (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kDQz5HSHLE8OlOCsB0kIawtcFY9.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Luc Besson",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bLVPnHMVFZ7wrF6ovMVF5U1UX89.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "flying car",
+    "taxi",
+    "egypt",
+    "race against time",
+    "saving the world",
+    "cyborg",
+    "dystopia",
+    "anti hero",
+    "stowaway",
+    "space travel",
+    "arms dealer",
+    "alien life-form",
+    "end of the world",
+    "priest",
+    "shootout",
+    "police chase",
+    "cab driver",
+    "cyberpunk",
+    "archaeologist",
+    "space opera",
+    "military",
+    "opera singer",
+    "futuristic city",
+    "ancient evil",
+    "cruise liner",
+    "elemental",
+    "hieroglyphics",
+    "spaceship",
+    "good versus evil",
+    "alien robot"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
+    "In the 23rd century, the universe is threatened by evil. The only hope for mankind is the Fifth Element, which comes to Earth every 5,000 years to protect humans with stones of the four elements: fire, water, earth, and air. A Mondoshawan spacecraft is bringing The Fifth Element back to Earth but it is destroyed by the evil Mangalores. However, a team of scientists use the DNA of the remains of the Fifth Element to rebuild the perfect being called Leeloo. She escapes from the laboratory and stumbles upon the taxi driver and former elite commando Major Korben Dallas who helps her to escape from the police. Leeloo tells him that she must meet Father Vito Cornelius to accomplish her mission. Meanwhile, the Evil uses the greedy and cruel Jean-Baptiste Emanuel Zorg and a team of mercenary Mangalores to retrieve the stones and avoid the protection of Leeloo. But the skilled Korben Dallas has fallen in love with Leeloo and decides to help her retrieve the stones.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "Unbeknownst to him, Korben Dallas - a former special forces commando, and now a mid-23rd-century New York City cab driver - finds himself caught in the middle of an eons-old war when the immaculate being Leeloo crashes into his taxi. In search of the perfect weapon that can save humanity from an all-powerful force of pure evil, Korben, Leeloo, and space priest Vito Cornelius struggle to unearth the mysterious \"fifth element\", as the scheming industrialist Zorg is already after the other four. Now, in the ultimate battle between good and evil, Leeloo seems to hold the key to Earth's salvation; however, is the world worth saving?—Nick Riganas",
+    "For ex-Marine Korben Dallas (Willis), life has become tediously repetitive: he drives a flying cab for a living and eats takeaway from the same Chinese restaurant, which delivers directly to his window every day. But little does Korben know that a great extra-terrestrial Evil has teamed up with Zorg and threatens to destroy the Earth.",
+    "Two-hundred-and-fifty years in the future, life as we know it is threatened by the arrival of Evil. Only the Fifth Element can stop the Evil from extinguishing life as it tries to do every 5,000 years. She is assisted by a former elite commando turned cab driver, Korben Dallas, who is, in turn, helped by Prince/Arsenio clone, Ruby Rhod. Unfortunately, Evil is being assisted by Mr. Zorg, who seeks to profit from the chaos that Evil will bring, and his alien mercenaries.—David J. Gannon <dganno01@exch.eds.com>"
+  ],
+  "synopsis": "The story's premise is that every five thousand years, in conjunction with a planetary arrangement, a 'Great Evil' appears whose purpose is to destroy life. In preparation for the next appearance in 2263, a group of aliens called the Mondoshawan arrive on Earth in 1914 to extract the only weapon capable of defeating the Great Evil, a collection of four stones representing the Classical Elements (Water, Fire, Earth and Air) and the eponymous Fifth Element that conjugates the other four into organic life. The stones are kept in a hidden chamber inside a small temple in Egypt, where an archaeologist has been studying the runes that tell their history. After taking the stones and a sarcophagus housing the fifth element, the Mondoshawans present a key to a priest and tell him to pass the information about their mission through future generations in preparation for the Evil's arrival.Three hundred years later, In 2263, the Great Evil appears in the form of a fiery planet and destroys a fleet of interplanetary battleships. When the battleships fire missiles on the planet, the planet doubles in size. On Earth, the world's president (Tom Lister Jr.) consults with his military and science advisers about the approaching planetoid. When the Mondoshawans attempt to deliver the Elements back to Earth, they are ambushed by another alien race, the shape-shifting Mangalores. The president is informed that the stones are not at the crash site but instead were given by the Mondoshawans to someone they could trust, the Diva Plavalaguna (Maïwenn (as Maïwenn Le Besco)), who will be performing on the leisure planet, Fhloston Paradise.ParadisEarthly scientists are able to recover a portion of the Fifth Element and use a reconstitution device to recreate it, whereupon it takes the form of a human woman named \"Leeloo\" (Milla Jovovich) described as \"the perfect being\". Leeloo, terrified of her unfamiliar environs, escapes the scientists and crashes the roof of a cab belonging to taxi driver Korben Dallas (Bruce Willis), a former major in the Federated Army's Special Forces. Dallas then delivers her to Priest Vito Cornelius (Ian Holm), the current guardian of the Mondoshawans' knowledge. Dallas, Cornelius, and his acolyte David (Charlie Creed-Miles (as Charlie Creed Miles)) help Leeloo recover, though Dallas is forced out of Cornelius' apartment before learning her purpose. Cornelius learns from Leeloo that the four Elements were not held by the Mondoshawans and that Leeloo must recover the stones from the diva. Meanwhile, wealthy industrialist Jean-Baptiste Emmanuel Zorg (Gary Oldman) has attempted to gain the stones as urged by communication with the Great Evil. After learning that the Mangalores' attack on the Mondoshawans was unsuccessful in recovering the stones, Zorg betrays and kills them, whereupon the surviving Mangalores decide to exact revenge and gain the stones for themselves.Dallas is later met at his apartment by his General Munro (Brion James), who informs him that he has been drafted back into the Army to travel to meet the Diva, having rigged the annual Gemini Croquette Contest to allow Dallas to win. Their meeting is interrupted by the arrival of Cornelius and Leeloo. Dallas, learning of Leeloo's need, offers to help, but is knocked out by Cornelius, who steals his winning transportation tickets and departs. Dallas accepts the job from General Munro and travels to John F. Kennedy International Airport, intercepting Cornelius, David, and Leeloo before they board their flight, and escorts Leeloo. The Mangalores and Zorg's assistant (Tricky) are rebuffed by the ticketing agent when they try to pose as Dallas. Cornelius instructs David to prepare the temple in Egypt and then sneaks aboard the passenger space-plane before it leaves.On the flight, Dallas meets interstellar radio personality Ruby Rhod (Chris Tucker), who escorts him as the contest winner. Upon arrival at Fhloston Paradise, Dallas is taken by Ruby to prepare for the show, while Leeloo waits near the Diva's quarters to retrieve the stones from her after her performance. The Diva's show is interrupted by the Mangalores, and the Diva is fatally shot. Dallas learns from her dying words that the Diva has hidden the stones inside her body; after she dies, Dallas removes them from her abdomen, giving them to Ruby to hold as he defeats the Mangalores and saves the rest of the passengers and crew. Leeloo is able to defeat the Mangalores who attempt to ransack the Diva's quarters. Zorg, having flown himself to Fhloston, fights Leeloo at the Diva's quarters, injuring her and forcing her to retreat. He takes the case he believes contains the stones while starting a time bomb. When Dallas goes to recover Leeloo, Zorg finds the case to be empty. Zorg re-enters the liner just as Dallas, Leeloo, Cornelius, and Ruby leave it on Zorg's ship while the rest of the passengers escape in the liner's emergency craft. Zorg is able to stop his bomb; but the defeated Mangalores activate another bomb, destroying Zorg and the liner.The four return to the temple on Earth as the Great Evil rushes towards the planet. There, Dallas finds Leeloo disillusioned and unwilling to perform her role, believing that humans will destroy themselves despite her rescue of them. As the protagonists arrange the stones in the temple to form their weapon, they are briefly baffled by their ignorance of the weapon's operation but discover that each stone is triggered by the presence of the Classical element to which it corresponds. Dallas then convinces Leeloo to perform her role, embraces her, and kisses her. At this, Leeloo releases the weapon's \"Divine Light,\" causing the Great Evil to become a new moon in Earth's orbit. Later, the President and General Munro go to the reconstitution lab to congratulate Dallas on his successful mission, but he and Leeloo are unavailable, despite the president's assertion that he is in a hurry. Viewers then see he and Leeloo are making love in the resurrection chamber.",
+  "imdb_score": 7.6
+}

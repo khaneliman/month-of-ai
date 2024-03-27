@@ -1,0 +1,325 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/i9lR2jLV0dHVfVs1u6QqqbQAE9I.jpg",
+  "id": 1813,
+  "title": "The Devil's Advocate",
+  "poster_path": "https://image.tmdb.org/t/p/w500/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+  "release_date": "1997-10-17",
+  "vote_average": 7.454,
+  "vote_count": 5598,
+  "popularity": 47.832,
+  "overview": "Aspiring Florida defense lawyer Kevin Lomax accepts a job at a New York law firm. With the stakes getting higher every case, Kevin quickly learns that his boss has something far more evil planned.",
+  "imdb_id": "tt0118971",
+  "budget": 57000000,
+  "homepage": "",
+  "revenue": 153000000,
+  "runtime": 144,
+  "tagline": "The newest attorney at the world's most powerful law firm has never lost a case. But he's about to lose his soul.",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller",
+    "Horror"
+  ],
+  "production_companies": [
+    "Monarchy Enterprises B.V.",
+    "Regency Enterprises",
+    "Kopelson Entertainment",
+    "New Regency Pictures",
+    "Taurus Film",
+    "Warner Bros. Pictures"
+  ],
+  "production_countries": [
+    "DE",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Keanu Reeves",
+        "character": "Kevin Lomax",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4D0PpNI0kmP58hgrwGC3wCjxhnm.jpg"
+      },
+      {
+        "name": "Al Pacino",
+        "character": "John Milton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2dGBb1fOcNdZjtQToVPFxXjm4ke.jpg"
+      },
+      {
+        "name": "Charlize Theron",
+        "character": "Mary Ann Lomax",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+      },
+      {
+        "name": "Jeffrey Jones",
+        "character": "Eddie Barzoon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zLodpqWUb9OzQLpK1ZY9im1Lh0p.jpg"
+      },
+      {
+        "name": "Judith Ivey",
+        "character": "Alice Lomax",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g8DYeNMwgNPFBrBY0iEOORjxZvy.jpg"
+      },
+      {
+        "name": "Connie Nielsen",
+        "character": "Christabella Andreoli",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lvQypTfeH2Gn2PTbzq6XkT2PLmn.jpg"
+      },
+      {
+        "name": "Craig T. Nelson",
+        "character": "Alexander Cullen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rMh8qdexFKmc7mq7oLzsLLvCCjs.jpg"
+      },
+      {
+        "name": "Tamara Tunie",
+        "character": "Mrs. Jackie Heath",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1QZ7J8vtd5uuDsbikJkhfYz2dVz.jpg"
+      },
+      {
+        "name": "Ruben Santiago-Hudson",
+        "character": "Leamon Heath",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tNuO8MO2jFwKo1VlQiq0tLH2rCz.jpg"
+      },
+      {
+        "name": "Debra Monk",
+        "character": "Pam Garrety",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qdb43ggK8PhAoQO357hE5f5Gw3O.jpg"
+      },
+      {
+        "name": "Vyto Ruginis",
+        "character": "Mitch Weaver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/les4ZXAb2TL1Crqa8DzGwLvwns5.jpg"
+      },
+      {
+        "name": "Laura Harrington",
+        "character": "Melissa Black",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z6RBRSFwWC7C6CQlCGIlgFc9WpY.jpg"
+      },
+      {
+        "name": "Pamela Gray",
+        "character": "Mrs. Diana Barzoon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qDQmsxauYSWeGUdhhxBBPKlF5sX.jpg"
+      },
+      {
+        "name": "George Wyner",
+        "character": "Meisel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pWd7EqBz83MWu6FfLG0Eco7yY5d.jpg"
+      },
+      {
+        "name": "Chris Bauer",
+        "character": "Lloyd Gettys",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1AjdNxbVmy6azlOxIfnCX5OruEA.jpg"
+      },
+      {
+        "name": "Connie Embesi",
+        "character": "Mrs. Bernice Gettys",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Cavallary",
+        "character": "Gettys' Son",
+        "profile_path": ""
+      },
+      {
+        "name": "Heather Matarazzo",
+        "character": "Barbara",
+        "profile_path": "https://image.tmdb.org/t/p/w185/afZhMKmsAHZA9jHq7F9tNUFZci6.jpg"
+      },
+      {
+        "name": "Murphy Guyer",
+        "character": "Barbara's Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6axiNcYIZmaeRKyfCm3xBHC7KQL.jpg"
+      },
+      {
+        "name": "Leo Burmester",
+        "character": "Florida Prosecutor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o7ZXSICrTDzhxIyd95HBwVjBi1f.jpg"
+      },
+      {
+        "name": "Bill Moor",
+        "character": "Garson Deeds (Florida Judge)",
+        "profile_path": ""
+      },
+      {
+        "name": "Neal Jones",
+        "character": "Larry (Florida Reporter)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x2RaW51Kx51GfQrEV5BkNgCOrVf.jpg"
+      },
+      {
+        "name": "Eddie Aldridge",
+        "character": "Florida Bailiff",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Deakins",
+        "character": "Florida Lawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lLKGqOglHGplJVLiZDbiVinpbzI.jpg"
+      },
+      {
+        "name": "Rony Clanton",
+        "character": "Junkie in Harlem",
+        "profile_path": ""
+      },
+      {
+        "name": "George O. Gore II",
+        "character": "Boy in Harlem",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aUqVm5AJK2BoX9Mo3R2jTyDDAEt.jpg"
+      },
+      {
+        "name": "Alan Manson",
+        "character": "Judge Sklar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yyj2oqX3x7CDHQmHrJyFKAfZ4MM.jpg"
+      },
+      {
+        "name": "Brian Poteat",
+        "character": "Pie Face",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Oreskes",
+        "character": "Arnold (Metro Assistant District Attorney)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eRmq5tVPqwj8vZNCmoWAvz1St4Y.jpg"
+      },
+      {
+        "name": "Kim Chan",
+        "character": "Chinese Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oV350fpOcbi2O2JVUSFYoz6Utw1.jpg"
+      },
+      {
+        "name": "Caprice Benedetti",
+        "character": "Menage A Trois Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/25H170ljhaCVx9TlnTuX8XRlbMJ.jpg"
+      },
+      {
+        "name": "Don King",
+        "character": "Himself",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bB5b0VZHFkoJP2BZzI3E0lmIt4O.jpg"
+      },
+      {
+        "name": "Ray Garvey",
+        "character": "Fight Fan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vA7qiLLRvMZEKwD4s69JSIljM3v.jpg"
+      },
+      {
+        "name": "Rocco Musacchia",
+        "character": "Fight Fan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rip3CRoHdUBmInxv5Bhy7hAOTi6.jpg"
+      },
+      {
+        "name": "Susan Kellermann",
+        "character": "Joyce Rensaleer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qmdeLIQAskusv6Rm8fGfLWoph5g.jpg"
+      },
+      {
+        "name": "James Saito",
+        "character": "Takaori Osumi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lA4woLg6MeSr7lK6hvBtY384kAU.jpg"
+      },
+      {
+        "name": "Harsh Nayyar",
+        "character": "Parvathi Resh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1ThQ7mfGUC7zpFswuZ5JXA89NnQ.jpg"
+      },
+      {
+        "name": "Mohammad Ghaffari",
+        "character": "Bashir Toabal",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicki Cochrane",
+        "character": "Multi-Lingual Party Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Fenja Klaus",
+        "character": "Female #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Gino Lucci",
+        "character": "Limo Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Novella Nelson",
+        "character": "Botanica Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cYzx0VWho8IInZIIGgzEkPAS5JA.jpg"
+      },
+      {
+        "name": "Vincent Laresca",
+        "character": "Big Guy #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nO1HrEcjXzot40qDJkTcI4CFqTf.jpg"
+      },
+      {
+        "name": "Benny Nieves",
+        "character": "Big Guy #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iUKMBJaf0nRESwXsWmpYKKzjDwS.jpg"
+      },
+      {
+        "name": "Franci Leary",
+        "character": "Babs Coleman",
+        "profile_path": ""
+      },
+      {
+        "name": "Monica Keena",
+        "character": "Alessandra Cullen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kdtbk4jZxLAROwE2fd3Qwj7DQtL.jpg"
+      },
+      {
+        "name": "Gloria Lynne Henry",
+        "character": "Tiffany",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oltO7ytuIwTKsoZfNq56I2p5Lyt.jpg"
+      },
+      {
+        "name": "Paul Benedict",
+        "character": "Walter Krasna (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3N5vbiVkSvtY0SbWhFmndt9jWTZ.jpg"
+      },
+      {
+        "name": "Delroy Lindo",
+        "character": "Phillipe Moyez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Taylor Hackford",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aAP9RYT7XxUiC2NZL9Hi2gEdxGB.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "child abuse",
+    "southern usa",
+    "marriage crisis",
+    "obsession",
+    "bible",
+    "seduction",
+    "hallucination",
+    "devil's son",
+    "ambition",
+    "pact with the devil",
+    "crooked lawyer",
+    "satan",
+    "evil spirit",
+    "lust",
+    "courtroom",
+    "temptation",
+    "law firm",
+    "manhattan, new york city",
+    "seven deadly sins",
+    "ethics",
+    "legal thriller"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "An exceptionally-adept Florida lawyer is offered a job at a high-end New York City law firm with a high-end boss--the biggest opportunity of his career to date.",
+    "Kevin Lomax, a ruthless young Florida attorney who never lost a case, is recruited by the most powerful law firm in the world. In spite of his mother's disagreement (she compares New York City to Babylon), he accepts the offer and the money that comes along. But soon, his wife starts feeling homesick and seeing devilish apparitions. However, Kevin is sinking in his new cases and pays less and less attention to his wife. His boss and mentor, John Milton, seems to always know how to overcome every problem and that just freaks out Kevin.—Steve Richer <sricher@sympatico.ca>",
+    "This is a movie about a young, seemingly unbeatable lawyer from a small town in Florida. When he gets an offer to go to New York and work for a large firm, he and his wife Mary Anne jump at the opportunity. Soon, Mary Anne begins to dislike the city and Kevin's job. She urges him to quit and go back to Florida but he sees her as insane. The longer he works, however, the more his wife makes sense, but is it too late?—Alyson <alysonn@yahoo.com>",
+    "Defense attorney Kevin Lomax has never lost a single case. He is invited to New York to work for a big law firm ruled by senior board member John Milton, who showers him with wealth and feeds his vanity. Kevin's wife just wants to have a baby and is distressed by Kevin always being on a case and never at home. She starts to lose her grip on reality--or so it seems. Kevin Lomax is about to find out about his true heritage and the grand scheme John Milton is running from his penthouse apartment.—Gustaf Molin <gumo@hem2.passagen.se>",
+    "Kevin Lomax is a hotshot southern lawyer who knows how to play the game. He gets the opportunity of a lifetime when he is offered a job with a law firm that promises many opportunities. He takes his wife to the Big Apple in hopes of a better life and a good job. He only finds himself on the receiving end of trouble when his boss is the Devil himself and has some treacherous plans up his sleeve for Kevin.—Mystic80"
+  ],
+  "synopsis": "Kevin Lomax (Keanu Reeves) is a successful defense attorney in Gainesville, Florida. After successfully defending a high school teacher, Gettys, who is accused of molesting a young girl named Barbara (Heather Matarazzo). He is celebrating with his wife Mary Ann (Charlize Theron) when he is approached by a representative for a New York law firm, Leamon Heath (Ruben Santiago-Hudson). The Lomaxes go to New York, and Kevin proves his expertise while picking a jury. A sharply-dressed John Milton (Al Pacino) watches him from afar. The next day, Kevin receives word that Gettys has been acquitted. More so, the jury only deliberated for 38 minutes before bringing in the verdict.Heath shows Kevin around the office, and he is distracted by Christabella (Connie Nielsen), a beautiful young lawyer. He meets Milton, and reveals part of his success is due to eavesdropping on juries while they deliberate. Milton shows Lomax the roof, which contains an infinity pool, and quizzes Lomax about his history. A job offer is implied. Heath and his wife Jackie (Tamara Tunie) take the Lomax's to their spacious, luxurious apartment.The next day, Kevin meets the team and Pam (Debra Monk), who hands him his first case. He meets his client, Phillipe Moyez (Delroy Lindo), who practices voodoo and is on trial after being found sacrificing a goat. Kevin begins his research while Mary Ann tries to decorate the apartment. Kevin successfully defends Moyez and Milton is impressed.The Lomaxes attend a party at Managing Director Eddie Barzoon's (Jeffrey Jones) lavish apartment. Milton flirts with Mary Ann, suggesting she change her hair, and Kevin chats with Christabella. Milton brings Eddie, Heath and Kevin to his suite and tells them he wants Kevin for the high-profile murder trial of Alexander Cullen (Craig T. Nelson), a businessman accused of killing his wife, his wife's stepson, and a maid. Eddie and Heath are not happy with the decision to use Kevin as council. That night, Kevin returns to his apartment to find Mary Ann furious that she was left alone at the party.Kevin meets Alexander and convinces him that he can defend him. Mary Ann, Jackie and Eddie's wife Diana (Pamela Gray) try on expensive dresses, and Mary Ann watches as Jackie's face transforms into a demonic scowl. Kevin tries to console Mary Ann to no avail. After sadly claiming that she misses Kevin and feels lonely, Kevin suggests that they try to have a child. They begin to have sex, and Kevin imagines Mary Ann as Christabella. Mary Ann realizes something is wrong, and they stop.Kevin conducts a briefing of Alexander, and shows skill. On the way back from a fancy dinner, Kevin, Mary Ann and Kevin's mother (Judith Ivey) meet Milton. Milton tries to charm her, but she seems struck by Milton, as if she knows him from somewhere. Kevin resists the impulse to meet with Milton and hot women in his suite, but Mary Ann sees through it and gets angry. Kevin's mom tries to convince him to leave and return to Florida.Kevin begins research and interviews. He finds Eddie working late, shredding documents. Eddie tells Kevin to ignore the activities going on, and mentions Weaver at the Justice Department. Milton shows up and invites Kevin to a boxing match. On the subway, they are accosted by a punk, and Milton tells him (in perfect Spanish) to check on his girl, who is cheating on him...The night continues, with Milton partying and Kevin trying to explain himself to Mary Ann over the phone. Milton and Kevin sit with a group of beautiful women, Kevin talking with them as Milton watches with a smile. Meanwhile, Mary Ann is awakened by a noise and finds a child in the apartment. She notices, to her horror, that the child is playing with a pile of ovaries. The next day, Kevin tells her it's a dream, but she is still freaked out. She tells Kevin that she found out that she's incapable of bearing children. He's interrupted by the phone.Alexander tells Kevin he's been unfaithful and was having an affair with his secretary during the night of the murder. Milton wants Kevin to quit the case and take care of Mary Ann, but Kevin wants to prove himself. Milton relents.The trial starts. Kevin's strategy is to make Alexander look awful, so he can later prove Alexander was sleeping with his secretary at the time of the murder.Eddie later confronts Kevin about his promotion and threatens to go to the Justice Department. Kevin tells Milton about the threat, and Eddie is chased by phantom joggers, then is beaten to death by homeless men who appear as demons. Mary Ann watches from her apartment window.Kevin briefs the secretary, Melissa (Laura Harrington), and in doing so figures out that she has never had sex with Cullen. He then learns about Eddie's death. He is perturbed by both the death and the secretary's lies. On the subway again, Milton tells Kevin to go with his gut. Back in the courtroom, as Milton watches, Kevin calls the secretary to the stand. She testifies, and Alexander is cleared. Upon returning home, Kevin discovers Mary has gone to a local church and is very ill.Mary Ann tells Kevin that Milton came to the apartment and talked with her for hours. Lonely and desperate, Mary Ann began to have sex with Milton, but when she told him to stop, Milton violently raped her. Kevin thinks Mary is crazy, as he had seen Milton in court. She insists that she isn't crazy and shows Kevin that her body is covered with bloody scratches. Thinking that she has done this to herself, he has her committed to a mental hospital.Later, Kevin attends Eddie's funeral, and Alexander arrives with his 14-year-old stepdaughter, Alessandra. Kevin watches as Cullen begins stroking Alessandra's skin sensually, and suddenly has a vision of Cullen as Gettys, the pedophile he had defended in Gainesville. Realizing that Cullen was having an affair with his under-aged stepdaughter and that Mary Ann may not be crazy after all, Kevin leaves the church. He is met by Mitch Weaver (Vyto Ruginis), who tells him that Eddie was going to testify against Milton. He convinces Kevin only after telling him that Gettys was found with the body of ten-year-old girl in the trunk of his car. Weaver tries to cross to Kevin to talk further, but is hit by a car and killed. As this happens, Milton smirks and boils holy water with his touch.Kevin goes to visit Mary Ann in the psych ward, and his mom is there. She tells Kevin his father was a NYC waiter, and Mary Ann sees Pam as a demon. She locks the door and slits her throat while Pam looks on. Later, Kevin's mother tells him the truth about his father - it's Milton! Kevin realizes Milton has been watching and helping him all along.Kevin leaves to see Milton, and Pam reassures him. No one is on the streets as he walks through New York. Kevin confronts Milton in his office and shoots him, but it has no effect. Milton reveals that he indeed is Satan, and Christabella is his half-sister. Milton wants them to take over the firm and conceive a baby. Kevin starts negotiating the deal, and the sculptures come alive. Christabella seduces Kevin, but at the critical moment, he commits suicide by shooting himself in the head.Enraged, Milton explodes into flames. As Kevin falls to the floor, Christabella shrivels to a mummified corpse, and Milton changes to his true angelic form, which looks exactly like Kevin. Suddenly, the entire scene rewinds back to the opening scene of the movie where Kevin finds himself facing a restroom mirror in the Florida courtroom. Kevin is contemplating defending the teacher whom he knows is guilty. He also finds Mary Ann waiting for him outside the men's room as he returns to the courtroom to begin the cross-examination of Barbara the victim to discredit her testimony. Before he can begin, he announces to the judge and jury that he cannot proceed with the trial and quits as the legal council saying that it's the right thing. Kevin, aware of what has happened to him, realizes that by divine intervention, he has been given a second chance to do good rather than for what he is told to.As Kevin and Mary Ann leave the courthouse, he is pursued by a reporter (the same one from the restroom at the beginning) to ask him for an exclusive interview about his decision to quit the case and of being \"a lawyer with a conscience\". Kevin initially refuses, but when the reporter and Mary Ann both encourage him, Kevin agrees to phone him later for the exclusive.As Kevin and Mary Ann walk out of the courthouse, the reporter morphs into John Milton, who smiles and adds the closing line: \"Vanity... definitely my favorite sin.\"",
+  "imdb_score": 7.5
+}

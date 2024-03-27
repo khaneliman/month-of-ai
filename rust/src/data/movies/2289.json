@@ -1,0 +1,304 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/xjJz025MAPrSeNj18LPjcyu4xFM.jpg",
+  "id": 2289,
+  "title": "Cold Mountain",
+  "poster_path": "https://image.tmdb.org/t/p/w500/32MsALfK6shuSopCrFjSNoxDc5p.jpg",
+  "release_date": "2003-12-24",
+  "vote_average": 6.921,
+  "vote_count": 1648,
+  "popularity": 17.71,
+  "overview": "In this classic story of love and devotion set against the backdrop of the American Civil War, a wounded Confederate soldier named W.P. Inman deserts his unit and travels across the South, aiming to return to his young wife, Ada, who he left behind to tend their farm. As Inman makes his perilous journey home, Ada struggles to keep their home intact with the assistance of Ruby, a mysterious drifter sent to help her by a kindly neighbor.",
+  "imdb_id": "tt0159365",
+  "budget": 79000000,
+  "homepage": "",
+  "revenue": 173013509,
+  "runtime": 154,
+  "tagline": "Find the strength. Find the courage. No matter what it takes... find the way home.",
+  "genres": [
+    "Drama",
+    "War",
+    "History",
+    "Adventure",
+    "Romance"
+  ],
+  "production_companies": [
+    "Miramax",
+    "Mirage Enterprises",
+    "Bona Fide Productions",
+    "Castel Film",
+    "Cattleya"
+  ],
+  "production_countries": [
+    "US",
+    "GB",
+    "RO",
+    "IT"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jude Law",
+        "character": "Inman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pj75cHQ3oLSFPJ0IyB6Bkg6ytHu.jpg"
+      },
+      {
+        "name": "Nicole Kidman",
+        "character": "Ada Monroe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg"
+      },
+      {
+        "name": "Renée Zellweger",
+        "character": "Ruby Thewes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l4YzuDddOE2sTuscXukR5z0qmCU.jpg"
+      },
+      {
+        "name": "Eileen Atkins",
+        "character": "Maddy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8gac03PfTFz2vByZi1aun0NiTqM.jpg"
+      },
+      {
+        "name": "Brendan Gleeson",
+        "character": "Stobrod Thewes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/379TXtBPRrkBDrEBWPQ5v3up7kT.jpg"
+      },
+      {
+        "name": "Philip Seymour Hoffman",
+        "character": "Reverend Veasey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+      },
+      {
+        "name": "Natalie Portman",
+        "character": "Sara",
+        "profile_path": "https://image.tmdb.org/t/p/w185/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+      },
+      {
+        "name": "Giovanni Ribisi",
+        "character": "Junior",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Tqh4AMtqCqPljNe2agZD9ZeoFf.jpg"
+      },
+      {
+        "name": "Donald Sutherland",
+        "character": "Reverend Monroe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aFzWwROIsrkP7KH85zFNzhaIVzw.jpg"
+      },
+      {
+        "name": "Ray Winstone",
+        "character": "Teague",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hhKZGnu66EXC0nDYzjErMs62ETb.jpg"
+      },
+      {
+        "name": "Kathy Baker",
+        "character": "Sally Swanger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c5MAs0tvUg9pdxbayxRAFLm0Qz5.jpg"
+      },
+      {
+        "name": "James Gammon",
+        "character": "Esco Swanger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ar7am7PST1c91LYPYnrmJJxc9zH.jpg"
+      },
+      {
+        "name": "Charlie Hunnam",
+        "character": "Bosie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nw9LsDNsDkPwotG7YpxRNBXmaCQ.jpg"
+      },
+      {
+        "name": "Jack White",
+        "character": "Georgia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cqn3AKfLGtzKBsXHqHM3W5HNVeI.jpg"
+      },
+      {
+        "name": "Ethan Suplee",
+        "character": "Pangle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gGSb8P9nQdDNu0JC65zyAyMUFhS.jpg"
+      },
+      {
+        "name": "Jena Malone",
+        "character": "Ferry Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1qmkanVCFr3ZaXcxSXVDO8andb0.jpg"
+      },
+      {
+        "name": "Melora Walters",
+        "character": "Lila",
+        "profile_path": "https://image.tmdb.org/t/p/w185/FSxiDBekrKgmzow1j3UhmNHOhI.jpg"
+      },
+      {
+        "name": "Lucas Black",
+        "character": "Oakley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w2oImwC4Y0RDtyvaKGTCFCKsvwh.jpg"
+      },
+      {
+        "name": "Taryn Manning",
+        "character": "Shyla",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kE4Hvw7Wga6keoMI3MyLakULr91.jpg"
+      },
+      {
+        "name": "Tom Aldredge",
+        "character": "Blind Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/klvcf4vc6PP1xPzOSqDs8Jn4prC.jpg"
+      },
+      {
+        "name": "James Rebhorn",
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jRdR3q28gTPQU6eWRgiIqzGuMKU.jpg"
+      },
+      {
+        "name": "Emily Deschanel",
+        "character": "Mrs. Morgan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zHC6JKrODb6e5KC9ltRlo51KK6A.jpg"
+      },
+      {
+        "name": "Robin Mullins",
+        "character": "Mrs. Castlereagh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/abV5uGsLYDgfpnW0uvgXDC5isv3.jpg"
+      },
+      {
+        "name": "Ben Allison",
+        "character": "Rourke",
+        "profile_path": ""
+      },
+      {
+        "name": "Trey Howell",
+        "character": "Butcher",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Hassell",
+        "character": "Orderly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1VvnpDdLJ8WBBceDayjnAG9efNC.jpg"
+      },
+      {
+        "name": "Jay Tavare",
+        "character": "Swimmer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gGAiOz3CZ2CEtBNVQdmjJuAb3uG.jpg"
+      },
+      {
+        "name": "William Boyer",
+        "character": "Confederate Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Fennell",
+        "character": "Acton Swanger",
+        "profile_path": ""
+      },
+      {
+        "name": "Erik Smith",
+        "character": "Ellis Swanger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/17hEL75RXvDgp9L0PsmJNlWUfZv.jpg"
+      },
+      {
+        "name": "Cillian Murphy",
+        "character": "Bardolph",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+      },
+      {
+        "name": "Richard Brake",
+        "character": "Nym",
+        "profile_path": "https://image.tmdb.org/t/p/w185/JwsiErANShzPSdYsNoiNYdrSg1.jpg"
+      },
+      {
+        "name": "Seán Gleeson",
+        "character": "Pistol",
+        "profile_path": ""
+      },
+      {
+        "name": "Rasool J'Han",
+        "character": "Rebecca",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p0rt1sFLeVnlxft7bnHdUJjgWo5.jpg"
+      },
+      {
+        "name": "Hank Stone",
+        "character": "Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jYBzPZbECGN4HQv41RNubMx36in.jpg"
+      },
+      {
+        "name": "Mark Jeffrey Miller",
+        "character": "Sheffield",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zlrtLb3syoY3kGMxm48yAZxLvCC.jpg"
+      },
+      {
+        "name": "Afemo Omilami",
+        "character": "Joshua",
+        "profile_path": "https://image.tmdb.org/t/p/w185/usW1GHq20ZEX3rpei1HpeXfSpiP.jpg"
+      },
+      {
+        "name": "Chet Dixon",
+        "character": "Veasey Town Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Jamie Lee",
+        "character": "Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yCs4fkinAJrolKbHj9gMCCy74sg.jpg"
+      },
+      {
+        "name": "Jen Apgar",
+        "character": "Dolly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2li19gA3REAGXiO27am11vK6wbx.jpg"
+      },
+      {
+        "name": "Katherine Durio",
+        "character": "Mae",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Pemberton",
+        "character": "Mo",
+        "profile_path": ""
+      },
+      {
+        "name": "Leonard Woodcock",
+        "character": "Jo",
+        "profile_path": ""
+      },
+      {
+        "name": "William Roberts",
+        "character": "Grayling",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ppp8HAYs6AL9B1gDSiKIZYwzHUW.jpg"
+      },
+      {
+        "name": "Dean Whitworth",
+        "character": "Barber",
+        "profile_path": ""
+      },
+      {
+        "name": "Kristen Nicole LaPrade",
+        "character": "Grace Inman",
+        "profile_path": ""
+      },
+      {
+        "name": "Max Minghella",
+        "character": "Young Confederate Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AhVDxsOOoAnwwVBL7ZY8W0mGsYJ.jpg"
+      },
+      {
+        "name": "Christopher Blackmore",
+        "character": "Runaway Slave (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Anthony Minghella",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3zNlCjH6Ddh5pn2UrNWd6SAKGKg.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "love of one's life",
+    "loss of loved one",
+    "desertion",
+    "rape attempt",
+    "early america"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "In the waning days of the American Civil War, a wounded soldier embarks on a perilous journey back home to Cold Mountain, North Carolina to reunite with his sweetheart.",
+    "This Civil War saga addresses romance, friendship, and the ravages of war - both in the field and on the home front. Captures the horrors of war for both those fighting it, and for those left behind. This is a tale of hope, longing, redemption, second chances, and faith.—Quickflix",
+    "\"Cold Mountain\" tells the story of a wounded Confederate soldier named Inman (Jude Law) who struggles on a perilous journey to get back home to Cold Mountain, North Carolina, as well as to Ada Monroe (Nicole Kidman), the woman he left behind before going off to fight in the Civil War. Along the way, he meets a long line of interesting and colorful characters, while back at home, Ada is learning the ropes of managing her deceased father's farm with Ruby Thewes (Renée Zellweger), a scrappy drifter who assists and teaches Ada along the way.—PrincessJen723 <jrlettvin@attbi.com>"
+  ],
+  "synopsis": "At the film's inception Jude Law plays a young man named W. P. Inman at a provincial North Carolina town. He meets Ada (Nicole Kidman) and is at the fledgling stages of a relationship with her when he marches off to war as a Confederate soldier.The film opens early in the morning of July 30, 1864. Confederate troops are entrenched outside Petersburg during its siege. The teenaged Oakley (Lucas Black) is handing out clothes from a wheelbarrow while Inman reads letters from Ada. The soldiers are tired and bored. Most are seasoned veterans who have been fighting for over three years. But meanwhile Union engineers are filling a mine under the Confederate trenches with gunpowder barrels while above, hundreds of Union troops are waiting to attack. Suddenly back at the Confederate siege works, a rabbit hops into the trench. Just as one of the men is about to capture it the ground rises from under him and there is a huge explosion. The Union lit the barrels and most of the trench exploded. As Inman and Oakley get up dazed from the blast they see Union troops charging at them. As the Union charge they run right into the crater where the trench used to be and are trapped in a kill zone. The Confederates fire down at them but the fighting becomes hand to hand and Oakley is pulled down in by a Union soldier and Inman goes after him. Before Inman can reach him Oakley is bayoneted but survives. Inman shoots the Union soldier with a LeMat revolver he finds and pulls Oakley out of the chaos. The battle ends with a decisive Confederate victory. As the Confederates are cleaning up after the battle, Inman comforts Oakley as he is pulled to the hospital on a cart. Later that day Oakley dies in the hospital with Inman and Stobrod Thewes (Brendan Gleeson) beside him.The next night, Inman, Swimmer ( Jay Tavare ) and his platoon are sent out to kill surviving Union troops trapped behind the lines. During the raid other Confederate troops open fire killing several Confederates and wounding Inman. While lying in the hospital he has letters read to him from Ada. Inman then decides to desert and go home to Cold Mountain.On his journey he meets the corrupt preacher Reverend Veasey (Philip Seymour Hoffman) who is trying to kill his pregnant lover. After Inman dissuades him, he joins Inman on his journey. They help a young man named Junior (Giovanni Ribisi) butcher his cow and join him and his family for the feast. Junior leaves the house after the feast, and the women in Junior's family seduce Veasey, and Junior's wife, Lila, tries to seduce Inman. Junior returns home with the Confederate Home Guard and both Inman and Veasey are taken prisoner.While the home guard officers attempt to hide from a group of Union soldiers, Inman is able to escape with a wound. An old and wizened woman (Eileen Atkins) cares for him and feeds him. He then meets a young widow named Sara (Natalie Portman) who is raising her infant child alone.After staying a night with her, three Union soldiers arrive demanding food. Sara rushes Inman away to avoid his being killed, but he hides only a few feet away from the house. Two of the soldiers harass Sara and leave her baby in the cold, though one (Cillian Murphy) attempts to keep the baby warm. The lead soldier attempts to rape Sara but is killed along with the other soldier by Inman. The kindhearted soldier is shot by Sara.Parallel with Inman's adventures, the film follows Ada's wartime experiences. Ada is a city woman who only recently moved to the rural farm named Black Cove. She met Inman on her first day at Cold Mountain, and had a brief romance with him the night before he left for the army. Shortly after Inman leaves, her minister father (Donald Sutherland) dies, leaving her alone on the farm and with little prospect for help, as the young, able-bodied men are off at war.She is completely inept at working the farm, having been raised to become a southern lady and is struggling to survive at the farm. She manages to survive thanks to the kindness of her neighbors, one of whom eventually sends Ruby Thewes (Renee Zellweger) to her.Ruby is a young woman who has lived a hard-scrabble life and is very adept at the tasks needed to run the farm. Ruby lives at the farm with Ada and together, they take the farm from a state of disaster to working order. During this time, Ada writes constant letters to Inman in hopes of meeting him again and renewing their romance.The two women form a close friendship and become each other's confidantes. They also are friends with the Swangers (James Gammon and Kathy Baker), who live down the road from Black Cove. It is at the Swangers' well that Ada \"sees\" a vision of Inman coming back to her in the snow along with a flock of crows.During the war, Ada and Ruby, and other members of their community, have several tense encounters with men who are members of the Home Guard. This branch of the Home Guard is led by Teague, whose grandfather once owned much of Cold Mountain. He and his deputies hunt deserters partially with the goal of Teague seizing their land. Teague also lusts after Ada.Although the purpose of the Home Guard was to protect the south and its citizen population from the North, they have become violent vigilantes who hunt and often kill deserters from the Confederate Army and terrorize citizens they believe are housing or helping the deserters, including the Swangers' sons, who by torturing their mother they coax out of hiding to be killed. Esco Swanger - the family patriarch - is also killed in protection of his sons. Ruby's estranged father Stobrod (Brendan Gleeson), also a Confederate deserter and a violin player, arrives and reconciles with her. He convinces her to make a coat for his intellectually devoid banjo player Pangle (Ethan Suplee). Ruby also finds herself drawn to mandolin player Georgia (Jack White).While camping, Stobrod, Pangle and Georgia are cornered by the Home Guardsmen led by Teague. Pangle unintentionally reveals the band as the deserters Teague is seeking. Georgia is hidden a few feet away, and witnesses the shooting of Pangle and Stobrod. He informs Ruby and Ada, who rush to the campsite to find Pangle dead and Stobrod injured. They decide to stay at some cabins in the woods to avoid Teague and his men.It is at this moment that the two story lines reconverge: Inman finally reaches Cold Mountain, and is almost killed by Ada before she recognizes him. They later consummate their love and spend the night together.The Home Guardsmen, however, soon find the couple in the mountain and determine to kill Inman, as they know he's a deserter. While fighting off the hunters, Inman is shot by the young and violent Bosie (Charlie Hunnam), but manages to kill him as well. Ada goes to him, and finds him just as she saw in the well earlier when he was coming back to her. He dies in her arms.The film ends several years later with Ada, Ruby and their families celebrating Easter. Ruby has married Georgia, and the two have an infant child. Her father Stobrod is revealed to have survived, and it is revealed that Ada's night with Inman had given her a child, Grace Inman.",
+  "imdb_score": 7.2
+}

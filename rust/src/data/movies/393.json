@@ -1,0 +1,382 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/e5BEz8Jq7xR2kzWab1GllAlLUf7.jpg",
+  "id": 393,
+  "title": "Kill Bill: Vol. 2",
+  "poster_path": "https://image.tmdb.org/t/p/w500/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+  "release_date": "2004-04-16",
+  "vote_average": 7.877,
+  "vote_count": 13216,
+  "popularity": 44.209,
+  "overview": "The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do … but kill Bill.",
+  "imdb_id": "tt0378194",
+  "budget": 30000000,
+  "homepage": "",
+  "revenue": 152159461,
+  "runtime": 136,
+  "tagline": "The bride is back for the final cut.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Super Cool ManChu",
+    "Miramax",
+    "A Band Apart"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Uma Thurman",
+        "character": "Beatrix \"The Bride\" Kiddo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lg04iEqT6TC40H1jz10Z99OFMXx.jpg"
+      },
+      {
+        "name": "David Carradine",
+        "character": "Bill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u6C8DVrC9QgQEovlWLIBob8gvgZ.jpg"
+      },
+      {
+        "name": "Daryl Hannah",
+        "character": "Elle Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4Wn3bsHa7Js7mYX0iehYN7BuHOi.jpg"
+      },
+      {
+        "name": "Michael Madsen",
+        "character": "Budd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/69cqjkTNKI1muAfnvorfmWNVgIe.jpg"
+      },
+      {
+        "name": "Gordon Liu Chia-hui",
+        "character": "Pai Mei",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hLLDmQbIi8EO0hsBbgLAswqaOrq.jpg"
+      },
+      {
+        "name": "Michael Parks",
+        "character": "Esteban Vihaio",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sXK8vnVNyYzJl2oE6lxKLtxG9px.jpg"
+      },
+      {
+        "name": "Perla Haney-Jardine",
+        "character": "B.B. Kiddo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wzdoXy3yvrWM7Fhrh1rPHnvTf75.jpg"
+      },
+      {
+        "name": "Larry Bishop",
+        "character": "Larry Gomez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ThKAvkJChVh6yIeYv4wiKu0eoB.jpg"
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "character": "Rufus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nCJJ3NVksYNxIzEHcyC1XziwPVj.jpg"
+      },
+      {
+        "name": "Lucy Liu",
+        "character": "O-Ren Ishii",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dW6JDvYhXWW87P04W2SfNpiAwCO.jpg"
+      },
+      {
+        "name": "Vivica A. Fox",
+        "character": "Vernita Green",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oIzevp0dqjIxqRQ2VoSzjiDCBt.jpg"
+      },
+      {
+        "name": "Julie Dreyfus",
+        "character": "Sofie Fatale",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4dOHTPwEdCsRkMQZtUMFqpTzX9g.jpg"
+      },
+      {
+        "name": "Christopher Allen Nelson",
+        "character": "Tommy Plympton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/chp4JPOJRMjJAfA5AjfHyhxdUsp.jpg"
+      },
+      {
+        "name": "Helen Kim",
+        "character": "Karen Kim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yVxGwRiG2igHSH00l8U8aSWcvP5.jpg"
+      },
+      {
+        "name": "Laura Cayouette",
+        "character": "Rocket",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i9G6af64mD9vOtcJjuenu2cZ3lX.jpg"
+      },
+      {
+        "name": "Jun Kunimura",
+        "character": "Boss Tanaka",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zC0GbuXQGPur7i8AkdPUWedmDKz.jpg"
+      },
+      {
+        "name": "Goro Daimon",
+        "character": "Boss Honda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bA6JCbOQaJAcYU1w2ii42jkPtRM.jpg"
+      },
+      {
+        "name": "Kazuki Kitamura",
+        "character": "Boss Koji / Crazy 88",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p8Z8rkMo8IdrKCogudLbMe35jkW.jpg"
+      },
+      {
+        "name": "Akaji Maro",
+        "character": "Boss Ozawah",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bP3ynmujuqy3XmDuMjcLW3FkSpS.jpg"
+      },
+      {
+        "name": "Shun Sugata",
+        "character": "Boss Benta",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iBy21Xet3OF6ULl9iQnT4s70FHT.jpg"
+      },
+      {
+        "name": "Sachiko Fujii",
+        "character": "The 5, 6, 7, 8's",
+        "profile_path": ""
+      },
+      {
+        "name": "Sakichi Sato",
+        "character": "Charlie Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1runpc2mcguDPdn7LTm2n06KISZ.jpg"
+      },
+      {
+        "name": "Yoji Tanaka",
+        "character": "Crazy 88",
+        "profile_path": "https://image.tmdb.org/t/p/w185/752oL9YrUumjrqbhdj4GNJ938x3.jpg"
+      },
+      {
+        "name": "Sō Yamanaka",
+        "character": "Crazy 88",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sCGVD0ykz8GXMjZ9if2KnJwzs2b.jpg"
+      },
+      {
+        "name": "Chiaki Kuriyama",
+        "character": "Gogo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ysCtOuaMAtuON7h252iwUwNjyFl.jpg"
+      },
+      {
+        "name": "Claire Smithies",
+        "character": "Clarita",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mqYi8RtQM1at8CsjTx2Nb807ulw.jpg"
+      },
+      {
+        "name": "Issey Takahashi",
+        "character": "Crazy 88",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xGtRDeAIAlZh9wJffMjRHMc790P.jpg"
+      },
+      {
+        "name": "Sid Haig",
+        "character": "Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jhYDQvigNX3OzeIsX2KsOUPTi1y.jpg"
+      },
+      {
+        "name": "Bo Svenson",
+        "character": "Reverend Harmony",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d6I7fCJmD2W8kftvVADSIZDV5h4.jpg"
+      },
+      {
+        "name": "Clark Middleton",
+        "character": "Ernie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7bIjt9yrJc5Hko3519N738up5Fy.jpg"
+      },
+      {
+        "name": "Michael Bowen",
+        "character": "Buck",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8clG1Q984hsYJSfpOVbnoJAEJb2.jpg"
+      },
+      {
+        "name": "Jeannie Epper",
+        "character": "Mrs. Harmony",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ofOKbu0cPt8pEJahbgXCPLBUF6N.jpg"
+      },
+      {
+        "name": "Ambrosia Kelley",
+        "character": "Nikki",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6SoBsjF50UeP9pTUUza3i8gG4X4.jpg"
+      },
+      {
+        "name": "Shana Stein",
+        "character": "Erica",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tfQvs7QDmLdb4uOHYE8TWwz3dHZ.jpg"
+      },
+      {
+        "name": "Caitlin Keats",
+        "character": "Janeen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oppsaYEIrybcuTDLZBAq4GQ1nze.jpg"
+      },
+      {
+        "name": "Jonathan Loughran",
+        "character": "Trucker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jNXgI1GRWJ1qquFkloj484rujAJ.jpg"
+      },
+      {
+        "name": "James Parks",
+        "character": "Edgar McGraw",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5ZunnUnhjT1FeKf0j7ONog30fis.jpg"
+      },
+      {
+        "name": "Kenji Ohba",
+        "character": "Bald Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8knWI2RqB6XLZ9Ai0LNfO8r2Puo.jpg"
+      },
+      {
+        "name": "Yoshiyuki Morishita",
+        "character": "Tokyo Businessman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/90HcPYPkTb8B5HRxgoNPLoOhJiq.jpg"
+      },
+      {
+        "name": "Yoshiko Yamaguchi",
+        "character": "The 5, 6, 7, 8's",
+        "profile_path": ""
+      },
+      {
+        "name": "Ronnie Yoshiko Fujiyama",
+        "character": "The 5, 6, 7, 8's",
+        "profile_path": ""
+      },
+      {
+        "name": "Tetsuro Shimaguchi",
+        "character": "Crazy 88",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9H6TcYytsjVAOG6jinvcEuNL9ET.jpg"
+      },
+      {
+        "name": "Juri Manase",
+        "character": "Crazy 88",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o7EhtSY3QCCH2ptT8PBf5mSm6Lp.jpg"
+      },
+      {
+        "name": "Yuki Kazamatsuri",
+        "character": "Proprietor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7KLVMFyNKjzt2hsUleiggW2bHcR.jpg"
+      },
+      {
+        "name": "Sonny Chiba",
+        "character": "Hattori Hanzo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r9WghRvCE4MLwHAnUgOIF3jlBam.jpg"
+      },
+      {
+        "name": "Stephanie L. Moore",
+        "character": "Joleen",
+        "profile_path": ""
+      },
+      {
+        "name": "Reda Beebe",
+        "character": "Lucky",
+        "profile_path": ""
+      },
+      {
+        "name": "Victoria Lucai",
+        "character": "Trixie",
+        "profile_path": ""
+      },
+      {
+        "name": "Venessia Valentino",
+        "character": "1st Grade Teacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Thea Rose",
+        "character": "Melanie Harrhouse",
+        "profile_path": ""
+      },
+      {
+        "name": "William Paul Clark",
+        "character": "Soda Jerk",
+        "profile_path": ""
+      },
+      {
+        "name": "Stevo Polyi",
+        "character": "Tim",
+        "profile_path": ""
+      },
+      {
+        "name": "Al Manuel Douglas",
+        "character": "Marty Kitrosser",
+        "profile_path": ""
+      },
+      {
+        "name": "Patricia Silva",
+        "character": "Hooker #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Maria Del Rosario Gutierrez",
+        "character": "Hooker #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Sonia Angelica Padilla Curiel",
+        "character": "Hooker #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Veronica Janet Martinez",
+        "character": "Hooker #4",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucia Cruz Marroquin",
+        "character": "Hooker #5",
+        "profile_path": ""
+      },
+      {
+        "name": "Citlati Guadalupe Bojorquez",
+        "character": "Hooker #6",
+        "profile_path": ""
+      },
+      {
+        "name": "Graciela Salazar Mendoza",
+        "character": "Hooker #7",
+        "profile_path": ""
+      },
+      {
+        "name": "Maria de Lourdes Lombera",
+        "character": "Hooker #8",
+        "profile_path": ""
+      },
+      {
+        "name": "Jorge Silva",
+        "character": "Bartender / Pimp",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Quentin Tarantino",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "daughter",
+    "martial arts",
+    "kung fu",
+    "showdown",
+    "right and justice",
+    "rage and hate",
+    "sibling relationship",
+    "swordplay",
+    "katana",
+    "mother role",
+    "single",
+    "sword fight",
+    "revenge",
+    "vigilante",
+    "retribution",
+    "aftercreditsstinger",
+    "duringcreditsstinger",
+    "kill bill"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd, and the treacherous, one-eyed Elle.",
+    "The murderous Bride is back and she is still continuing her vengeance quest against her ex-boss, Bill, and taking aim at Bill's younger brother Budd and Elle Driver, the only survivors from the squad of assassins who betrayed her four years earlier. It's all leading up to the ultimate confrontation with Bill, the Bride's former master and the man who ordered her execution!—Anthony Pereyra {hypersonic91@yahoo.com}",
+    "After having successfully crossed the first two members of the Deadly Viper Assassination Squad - Vernita Green, O-Ren Ishii, and the Crazy 88s, The Bride (whose real name is now revealed to be Beatrix Kiddo) sets her sites on the remaining three. While she goes after Bill's brother Budd, Elle Driver, and ultimately Bill himself, we learn more about Beatrix's back story. This includes her time in China training under ultra strict traditionalist martial arts legend Pai Mei, who had a taste for brutal action, and a super-secret technique that can take out any opponent, and how she got to be where she is. Unfortunately Elle and Budd are out to stop her from getting to Bill and learning the truth about the attack on her wedding four years earlier. Getting to Bill will be an ultimately rewarding experience for Beatrix, but can she get through Budd and Elle first?—halo1k",
+    "The Bride woke up after a long coma. The baby that she carried before the coma was gone. The only thing on her mind was to get revenge on the assassination team that betrayed her - a team she was once part of. With two of the people on her Death List taken care of, she must pursue Budd, Elle Driver and of course Bill himself. But she is in for a surprise...—Qrrbirbel",
+    "Beatrix Kiddo a.k.a The Bride is a female assassin, a trained killer who was betrayed by the Deadly Viper Assassination Squad, led by her former boss Bill who gunned her down on her wedding day leaving her for dead. The Bride awoke four years later and set out to get her vengeance on Bill and the Deadly Viper Assassination Squad who betrayed her. Helped by one of Bill's former tutors, retired sword maker Hattori Hanzo, The Bride begun her quest for vengeance and she killed Vernita Green and O'Ren Ishii. Continuing her quest for vengeance, The Bride sets out to get her vengeance on Bill's younger brother Budd who is now a bouncer at a strip club and Elle Driver, The Bride's one-eyed nemesis and Bill himself, unaware Bill has her daughter B.B in his custody, who she thought died while she was in her coma. Will The Bride succeed and get her vengeance and will she kill Bill?—Daniel Williamson"
+  ],
+  "synopsis": "During the opening credits, we see the Bride's bloodied face again and hear her say \"Bill, it's your baby.\" In the first scene, we see her driving an open car and saying that there is only one left to kill (which answers the question whether she believed that Elle died). She is on her way to Bill.Chapter 6: The Massacre at Two Pines\nBack at the beginning (a black-and-white segment), at the Two Pines Wedding Chapel in El Paso, TX, a dress rehearsal for a wedding is taking place. Reverend Harmony (Bo Svenson) and his wife (Jeannie Epper) decide that, since the bride will have no relatives present at the wedding, the groom's relatives and friends can sit on both sides of the aisle. The Bride (Uma Thurman) leaves the chapel to get some fresh air; on the way out, she is disturbed to hear flute music. On the front porch she finds Bill (David Carradine) sitting on a bench playing his bamboo flute. She asks him to be nice and he replies that he does not know how to be nice but will do his best to be sweet. They enter the hall, and she introduces Bill to her fiance as her father but rejects the fiance's idea that, as her father, he should give her away at the ceremony. As the bride and groom are called to the front by the Reverend Harmony, no attempt is made to introduce 'father' to the rest of the fiance's family. Bill stays at the back of the chapel.Outside the chapel, four armed assassins appear, all dressed in black. In one line they move to the door, they enter, and the shooting starts, killing everybody inside except for the Bride and Bill.\nBack in the present (in color), Bill visits his younger brother Budd (Michael Madsen), a.k.a. Sidewinder, at his trailer in the middle of nowhere and warns him about the Bride. She will kill Budd if Budd does not allow Bill to protect him. They had differences in the past but they should move on. Budd, drinking as they talk, replies that maybe they should get killed because the Bride deserves her revenge. He then infuriates Bill by saying that he pawned his priceless samurai sword (a gift from Bill) for $250.Chapter 7: The Lonely Grave of Paula Schulz\nBudd goes to work. He works as a bouncer in a local strip club. He arrives 20 minutes late and sees that there are no customers in the club. He talks briefly with the bartender, Jay, before he is called into the office by his hot-tempered, coke-snorting boss Larry Gomez. In the office, Larry argues with Budd over being late again, and Budd talks back, saying that there is nobody in the bar & there was no need for him to be there. Larry takes away all Budd's scheduled hours and tells him in a rude tone not to come back to work until he hears from him. In the bar, Budd agrees to clean up after a broken toilet that a stripper named Rockets says is overflowing.Budd returns to his trailer but standing in front of it suddenly freezes. He enters the trailer but looks out the window. The Bride, who was hiding under the trailer, sticks to the wall so he does not see her. When she opens the door Budd shoots her in the chest with a shotgun loaded with rock salt. While she lies wounded on the ground, Budd is very pleased with himself and injects her with a sedative. He phones Elle Driver (Daryl Hannah) and offers to sell her the Bride's Hattori Hanzo sword for a million dollars. Elle agrees to bring the money in the morning. Her condition is that the Bride must die and suffer to her last breath.Budd and an accomplice of his dig a large hole in the ground at a local cemetery to bury the wounded Bride alive. When the grave has been dug, the Bride is given a choice: if she does not resist, she'll be given a flashlight; if she does, Budd will burn out her eyes with mace and leave her buried alive in darkness. She chooses the flashlight, is put in a coffin and the lid is nailed down. Budd and his accomplice lower the coffin into the ground and cover it with soil. The Bride panics for a short time and recalls her training under Pai Mei.Chapter 8: The Cruel Tutelage of Pai Mei\nIn a flashback, Bill and the Bride (very much in love with him) sit by a campfire somewhere in China and Bill, who calls her \"kiddo,\" plays his flute. He tells her about his Kung Fu teacher Pai Mei (Chia Hui Liu, credited as Gordon Liu) and his 'five-point-palm-exploding-heart technique.' The technique involves five blows administered to particular pressure points on the body. Thereafter, the victim's heart explodes after he or she takes five steps. Pai Mei did not teach Bill the technique because he does not show it to anyone.At the foot of the steps leading to Pai Mei's place in another part of rural China, Bill, who has just come down, informs the Bride that Pai Mei will take her as his pupil because he is lonely. Bill's bruised face shows that he was hurt but he refuses to say what happened. Bill warns her not to show any disrespect or disobedience to Pai Mei because Pai Mei will kill her -- \"he hates Caucasians, despises Americans, and has nothing but contempt for women.\" She climbs the steps and quickly is humiliated by Pai Mei, who scorns her fighting skills and her ethnicity. He challenges her to land one blow on him while they engage in hand-to-hand combat and the Bride fails. Pai Mei threatens to chop her hand off with a single blow and declares that her hand belongs to him and she must strengthen it. Over the next several weeks, the Bride works hard (practicing martial arts forms and bringing buckets of water up the steps) and learns hard. She finds striking a blow with her fist to break a hole through a thick wooden plank at close range the most difficult skill.Back to the present. Still inside the coffin, the Bride manages to remove her boots and the belt tying her feet together. She takes out a straight razor hidden in her boot and uses it to cut her hands free. She hits the coffin lid with her fist repeatedly. The lid becomes smeared with her blood, but it finally cracks. She appears to swim up through the earth, and an arm emerges from the grave. The Bride crawls out. Covered in dirt, she walks into a diner, sits down and calmly asks for a glass of water.Chapter 9: Elle and I\nThe Bride walks a great distance across the desert and through the mountains. She reaches Budd's trailer in time to see Elle arrive.\nElle enters the trailer and gives Budd a red suitcase full of money. He makes margaritas in a grubby blender and serves them in dirty jelly-jar glasses while she examines the sword. He opens the suitcase, gloats over the money, and is struck in the face by a venomous black mamba snake that was hidden among the bundles of cash. Before he dies, Elle tells him that she is sorry that such a \"piece of shit\" as himself was the one who managed to kill the Bride -- she deserved better.She phones Bill and tells him that the Bride has killed his brother but that she, Elle, has killed the Bride. Elle also reveals the whereabouts of the final resting place of the Bride (in the grave of Paula Schulz) and mentions the Bride's real name for the first time: Beatrix Kiddo.Beatrix walks in and immediately attacks Elle. Their long and vicious fight destroys the trailer's interior. In a lull in the hostilities, Beatrix asks Elle how she lost her eye and Elle says that Pai Mei ripped it out because she offended him. Elle tells Beatrix that she poisoned Pai Mei in revenge and he died. They continue to fight, and Elle gets hold of the Bride's sword. In a golf bag, the Bride finds another Katana, inscribed \"To my brother Budd, the only man I ever loved, Bill\" -- apparently Budd did not sell it after all. As they face off, Elle relishes the irony of killing the Bride with her own sword. However, at close range, the Bride plucks out Elle's remaining eye and steps on it. Rather than finish killing Elle, Beatrix leaves the trailer, the black mamba hissing behind her as Elle shrieks and curses and flails.Last Chapter: Face to Face\nIn Mexico, the Bride visits the courtly retired pimp Esteban Vihaio (Michael Parks), Bill's old mentor, and asks him to tell her where Bill is. He finally agrees because he thinks Bill would surely like to see her.She enters Bill's hacienda carefully, a gun in her hand, but is shocked to the point of tears when Bill and their small daughter B.B. (Perla Haney-Jardine), alive, both play-shoot at her with toy guns. She spends good time with her daughter, who falls asleep. The Bride goes to speak to Bill.\nBill's warning shot pins Beatrix down in her seat, then he shoots her with a truth-serum dart. She explains why she left him: because she wanted to keep their child safe, not wanting her to grow up to be assassins like them.Flashback to a hotel room: the Bride, who's been sent on an assassination assignment to Japan, discovers that she is pregnant. Another assassin, Karen Kim (Helen Kim), shoots a hole in the door with a shotgun. The Bride, pointing her gun at Karen, convinces her that she is pregnant and persuades her to walk away, promising that she will do the same. As she leaves, Karen congratulates the Bride.Back in the present, Bill is puzzled because he believes that Beatrix is a natural born killer and could not change. He asks if she enjoyed killing the other people on her revenge list, and the truth serum forces her to admit that she did. They agree to fight with swords on the beach -- then Bill suddenly attacks her as they sit on his patio. At the climax of a brief skirmish during which both remain seated, she strikes him with the five-point-palm-exploding-heart technique. She tells Bill that she did not mention that Pai Mei taught her the technique because she is a bad person. Bill disputes that. They share an affectionate farewell before he takes five steps and falls down dead.Beatrix takes her daughter away to start a new life: \"The lioness has rejoined her cub, and all is right in the jungle.\"",
+  "imdb_score": 8
+}

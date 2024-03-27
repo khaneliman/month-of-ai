@@ -1,0 +1,298 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/5WparwIlAtSZW0tcWbK2NHEZJC6.jpg",
+  "id": 310307,
+  "title": "The Founder",
+  "poster_path": "https://image.tmdb.org/t/p/w500/8gLIksu5ggdfBL1UbeTeonHquxl.jpg",
+  "release_date": "2016-09-13",
+  "vote_average": 7.115,
+  "vote_count": 4625,
+  "popularity": 38.133,
+  "overview": "The true story of how Ray Kroc, a salesman from Illinois, met Mac and Dick McDonald, who were running a burger operation in 1950s Southern California. Kroc was impressed by the brothers’ speedy system of making the food and saw franchise potential. He maneuvered himself into a position to be able to pull the company from the brothers and create a billion-dollar empire.",
+  "imdb_id": "tt4276820",
+  "budget": 15000000,
+  "homepage": "http://thefounderfilm.com/",
+  "revenue": 24121245,
+  "runtime": 115,
+  "tagline": "Risk taker. Rule breaker. Game changer.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    "Speedie Distribution",
+    "FilmNation Entertainment",
+    "Faliro House Productions",
+    "The Combine",
+    "The Weinstein Company"
+  ],
+  "production_countries": [
+    "GR",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Michael Keaton",
+        "character": "Ray Kroc",
+        "profile_path": "https://image.tmdb.org/t/p/w185/baeHNv3qrVsnApuKbZXiJOhqMnw.jpg"
+      },
+      {
+        "name": "Nick Offerman",
+        "character": "Dick McDonald",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tDzCAAJinH4Xt3lSKsajfiTyRK9.jpg"
+      },
+      {
+        "name": "John Carroll Lynch",
+        "character": "Mac McDonald",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cIx1HYFOHmfeAGRDBJwdFK9ZMIM.jpg"
+      },
+      {
+        "name": "Linda Cardellini",
+        "character": "Joan Smith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bcycvynDprC1rrhBNrnBjn5uOUd.jpg"
+      },
+      {
+        "name": "B.J. Novak",
+        "character": "Harry Sonneborn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o8Xf1khxhKGTz3QAplXD35opRA8.jpg"
+      },
+      {
+        "name": "Laura Dern",
+        "character": "Ethel Kroc",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+      },
+      {
+        "name": "Justin Randell Brooke",
+        "character": "Fred Turner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m1l9mG8XM4DxfyW9zuiX67zgPqk.jpg"
+      },
+      {
+        "name": "Kate Kneeland",
+        "character": "June Martino",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jv2FbzzMaY7Xub173735i9fjUE5.jpg"
+      },
+      {
+        "name": "Patrick Wilson",
+        "character": "Rollie Smith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tc1ezEfIY8BhCy85svOUDtpBFPt.jpg"
+      },
+      {
+        "name": "Griff Furst",
+        "character": "Jim Zien",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kC7MQMSMockWSHpIkAFJp4LwPI8.jpg"
+      },
+      {
+        "name": "Wilbur Fitzgerald",
+        "character": "Jerry Cullen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2s0MtvrLkzb4zGQyLeJLmUWoEWU.jpg"
+      },
+      {
+        "name": "David de Vries",
+        "character": "Jack Horford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5dhZVrTfNFpJZP5qvbiaaYrC7Z4.jpg"
+      },
+      {
+        "name": "Andrew Benator",
+        "character": "Leonard Rosenblatt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nlBSUWmZPEtEiwCxG4lx1u9U4Z6.jpg"
+      },
+      {
+        "name": "Cara Mantella",
+        "character": "Myra Rosenblatt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tbumrmBZ5ClJ5Ml6Eh5pFtYu8kQ.jpg"
+      },
+      {
+        "name": "Randall Taylor",
+        "character": "Owner (Ed's Drive-In)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p8ROAbBpSkgoamYsOK2wxeh33em.jpg"
+      },
+      {
+        "name": "Lacey King",
+        "character": "Car Hop Girl (Ed's Drive-In)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeremy Madden",
+        "character": "Dennis",
+        "profile_path": ""
+      },
+      {
+        "name": "Rebecca Ray",
+        "character": "Car Hop Girl (Joe's Drive-In)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yVmiufFSr9vOz0Ft0LjdRofqWyY.jpg"
+      },
+      {
+        "name": "Adam Rosenberg",
+        "character": "Employee (San Bernadino)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hErRb0h9T1LPR5VBWsRUNHMxTsv.jpg"
+      },
+      {
+        "name": "Jacinte Blankenship",
+        "character": "Woman (San Bernadino)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6UZdl5MU1kTptbCN6J1qktDeh4p.jpg"
+      },
+      {
+        "name": "Charles Green",
+        "character": "Loan Officer #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k98xii0Z56NtL8WdOoAIYIwqyIQ.jpg"
+      },
+      {
+        "name": "David Marshall Silverman",
+        "character": "Loan Officer #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1FVM73APtETdk6zHaabpXJRrhdq.jpg"
+      },
+      {
+        "name": "Mike Pniewski",
+        "character": "Harvey Peltz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aQz8I1lPjTFsxsrITaJQJH8P6zW.jpg"
+      },
+      {
+        "name": "Catherine Dyer",
+        "character": "Mrs. Horford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tMZkfDMu7U6IcIE9hx4NlJJIB39.jpg"
+      },
+      {
+        "name": "Susan Williams",
+        "character": "Mrs. Cullen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7tNFJKVy2ZDy3RFalo9OS6aavfP.jpg"
+      },
+      {
+        "name": "Franco Castan",
+        "character": "Art Wolodarsky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sMhv8CmeWj0MPO9JkKqJokSbiao.jpg"
+      },
+      {
+        "name": "Kenny Alfonso",
+        "character": "Kroc Corporate Lawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oZTZ6eK1KIJCXNgHtclPbSjyEfO.jpg"
+      },
+      {
+        "name": "Kabby Borders",
+        "character": "Cheerleader #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tf7bKgBiILPFr4U3IQyT5TneNmc.jpg"
+      },
+      {
+        "name": "Nicolette Goetz",
+        "character": "Cheerleader #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Lauren Denham",
+        "character": "Cheerleader #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Abbey Ferrell",
+        "character": "Cheerleader #4",
+        "profile_path": ""
+      },
+      {
+        "name": "Justin Alvarez",
+        "character": "Photographer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eNd0n22oMjXYxpufvzEm0Juhcdk.jpg"
+      },
+      {
+        "name": "Victor McCay",
+        "character": "Kroc Divorce Lawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5K8BfMu5WFZ64slood7Pia5t1QS.jpg"
+      },
+      {
+        "name": "Steve Coulter",
+        "character": "Doctor Reeves",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qyHhqvKmnriG6wN7tAIUT4Nfrif.jpg"
+      },
+      {
+        "name": "Ric Reitz",
+        "character": "Will Davis (LA Times Reporter)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/PILYr8ZQsCop1Yz5UQ1FOeh2h5.jpg"
+      },
+      {
+        "name": "Joy Glover Walters",
+        "character": "Mother (San Bernadino)",
+        "profile_path": ""
+      },
+      {
+        "name": "Makabe Ganey",
+        "character": "Little Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5bZ7Wls1jOFP2m2amHbeX7AsM3L.jpg"
+      },
+      {
+        "name": "Jody Thompson",
+        "character": "Customer (Schaumburg)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qSpaiLA33uRcQPioSXUJnaaEQo5.jpg"
+      },
+      {
+        "name": "Chris Greene",
+        "character": "Grand Opening Customer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xhujfdctf29YnSb0Qq9EkkZRbji.jpg"
+      },
+      {
+        "name": "Kimberly Banta",
+        "character": "Bingo Caller",
+        "profile_path": ""
+      },
+      {
+        "name": "Devon Ogden",
+        "character": "Gorgeous Blonde",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gsAX6mzrj6inqXSe4jOfSObysU3.jpg"
+      },
+      {
+        "name": "Gerald Duckworth",
+        "character": "Owner (Joe's Drive-In)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jen Cohen",
+        "character": "Female Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "David Zyler",
+        "character": "Dr. Nelson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jRqfBl0Pwa9pF1beTzkVwqLozif.jpg"
+      },
+      {
+        "name": "Joseph Sanfelippo",
+        "character": "McDonald's Announcer (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Y4CsCV6VYEhy63hurbL2M43HeU.jpg"
+      },
+      {
+        "name": "Conrad Whitaker",
+        "character": "Limo Driver (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8i7noqBB2uUxefxxWyBIEV8AROZ.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "John Lee Hancock",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ytGKxuC1sFUmd68jUwDA37Jn0LG.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "greed",
+    "ambition",
+    "biography",
+    "family business ",
+    "based on true story",
+    "salesman",
+    "corporate greed",
+    "fast food",
+    "corporate power",
+    "franchise",
+    "1950s",
+    "burger",
+    "mcdonald's"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "The story of Ray Kroc, a salesman who turned two brothers' innovative fast food eatery, McDonald's, into the biggest restaurant business in the world, with a combination of ambition, persistence, and ruthlessness.",
+    "1954. Having worked as a salesman most of his adult life, Ray Kroc has been a hustler in most senses of the word. That hustling has made him the target of derision among certain circles for peddling what have ended up being more novelty or faddish than useful products, but it has also placed more than a comfortable roof in Arlington Heights, Illinois over his and his wife Ethel's heads. Ethel, however, wishes that he placed as much effort into being at home with her as he does in selling; his current job of peddling five-spindle milkshake makers for Prince Castle which has him constantly on the road going from one drive-in restaurant to another. It is because of the beefs he has with the whole drive-in experience (bad food, bad service) in constantly eating at such establishments while on the road that he becomes enthralled with the concept of McDonald's Restaurant in San Bernardino, California, owned and operated by brothers Richard McDonald and Maurice McDonald - Dick and Mac. Unlike most of Ray's customers who will only require one five-spindle milkshake maker at any given time, the McDonald brothers end up purchasing eight machines for their single restaurant. Primarily on Dick's initiative, the brothers have redesigned the whole concept of the drive-in restaurant to focus on quality food through a smaller menu of only the most popular items (hamburgers, fries, sodas), consistency in product so that customers know what to expect from time to time, change in the target market from lounging teenagers to families, and perhaps most importantly speed in having any order ready within seconds, many of these goals achievable through assembly line styled production. They had tried franchising previously, but failed in that they lost control over many of those aspects which made their San Bernardino restaurant successful. Despite believing Ray a bit off kilter (in other words, crazy), the McDonald brothers somewhat hesitantly enter into a contract with him to be their head of franchising. Ray's experience in the job is not without its problems, especially as his franchisees seem to be making more money than he is, he who is only breaking even. He is not averse to advancing ideas provided to him to get ahead - original ideas which are not his forte - he seeing the brothers as his biggest problem in they thinking small. These differences lead to a standoff between Ray and the brothers, the former who has a different goal for \"his\" business in profit and stoking his own ego seemingly his main priorities.—Huggo",
+    "In 1954, Ray Kroc is an unsuccessful traveling salesman selling Prince Castle brand milkshake-mixers. While he has a supportive wife, Ethel, and has saved enough to live a simple and comfortable life in Arlington Heights, Illinois, he craves more. Ray also observes that many of the drive-in restaurants that he tries to sell to are inefficiently run, with a long waiting time for orders and carhops more concerned with avoiding the groping from greasers than getting the orders right. After learning that a drive-in in San Bernardino is ordering an unusually large number of milkshake mixers, Ray drives to California to see it. What he finds is McDonald's: a highly popular walk-up restaurant with fast service, high-quality food, disposable packaging, and a family-friendly atmosphere.",
+    "Impressed by the revolutionary Speedee Service System of American brothers, Richard McDonald and Maurice McDonald, over-the-hill 52-year-old milkshake-machine salesman Ray Kroc, drives to their small drive-in restaurant in 1954 San Bernardino, California. After tasting a fresh, scrumptious, 15-cent hamburger from grill to counter in just 30 seconds and learning all about the ingenious brothers' secret of success, Ray Kroc has an epiphany: what if the business of the innovative duo was franchised? As one thing leads to another and Ray manages to strike a business deal with the McDonald brothers, what follows next is a tale of hard work, persistence, and determination, peppered with equal amounts of manipulation, ruthlessness, and greed. In an increasingly competitive world, just how far is one willing to go to seize a once-in-a-lifetime opportunity?—Nick Riganas"
+  ],
+  "synopsis": "In 1954, Ray Kroc (Michael Keaton) is a salesman, struggling to sell multimixers milkshake machine small drive-in businesses across the country. However, as much as Ray tries to win over these places, he keeps striking out.His travels also find him at the mercy of the small businesses' food-serving techniques, which often take too long to serve, or get his order wrong. Ray is also not much of a fan of the teenage clientele that seem to hang around most of these places.Checking with the sales company in Chicago, his secretary June Martino (Kate Kneeland) informs Ray that a restaurant in San Bernardino, California, has ordered six of his machines. Thinking this must be an error, Ray calls the restaurant, where he is informed that the order of six machines was in error...and that they really want to order eight!Piqued by the call, Ray drives to San Bernardino, where he finds a small walk-up stand called McDonald's. Ray gets in line with a number of people, and is surprised at how fast his order is processed, the disposable food wrappings, as well as seeing a number of small families ordering from the stand.Ray next meets with the owners of the stand, Mac McDonald (John Carroll Lynch) and Dick McDonald (Nick Offerman). Mac eagerly shows Ray around the small stand, explaining the exacting standards they use to prepare items, as well as the custom-made serving tools to help them achieve their \"Speedee Service System.\"Over dinner, the brothers explain their history to Ray. Originally coming to Hollywood to work in film, they eventually opened a movie theater, that was forced to close due to the Great Depression. They next opened a food stand in Monrovia, which was eventually moved to San Bernardino (where their current food stand is). Realizing that the bulk of their profits came from selling hamburgers, french fries, and milkshakes, the brothers focused on making these the only items their stand sells. Also, making it just a simple food stand, eliminated the loitering of teenagers as seen at drive-in restaurants, and the disposable food packaging cut down on dish and silverware costs.To figure out their \"Speedee Delivery System,\" the brothers and a number of employees spent an afternoon at a tennis court, drawing chalk configurations on the courts to figure out the most efficient layout possible for the food preparation.All of this information fascinates Ray, and shortly afterwards, he proposes that the brothers franchise their restaurant. They both claim they tried this in several areas, but encountered problems maintaining quality standards beyond their own place.During the meeting, Ray notices a painting on the wall of an unusual building. Mac explains it was a design Dick had made up, and used in their Phoenix location. This sends Ray down to Phoenix where upon seeing the location and it's \"golden arches,\" becomes obsessed with trying to get the brothers on board with his idea.Ray continues his attempts to sell his multimixers, but still meets with failure. Driving through a number of town, he takes note of churches and government buildings, and then comes at the McDonald brothers with a new angle: McDonald's restaurants can be a family-oriented place that means just as much to America as government and churches. Dick is still skeptical about the idea, but Mac convinces his brother to trust Ray, given that he promises to uphold the integrity of their restaurants.Soon, a contract is drawn up for the brothers and Ray, with a major stipulation being that no franchise decisions or changes can be made without the brothers' consent. Ray quickly signs the paperwork, and then gets to work putting in a McDonald's in Des Plaines, Illinois.Finding funding proves to be a tough task, and Ray eventually has to mortgage his home as leverage, but does not tell his wife Ethel (Laura Dern) about this.When the Des Plaines location opens, Ray takes great steps to make sure that the operations are carried out just as the brothers did in San Bernardino. However, he ends up butting heads with them when he attempts to get sponsorship dollars via Coca-Cola by putting their name on the menu boards. While Ray sees it as a great business idea, Dick McDonald claims they won't commercialize their eatery.Though Ray is excited about the new restaurant, his wife Ethel is still unsure about his latest business venture. The two end up going to a nearby country club, where during a conversation, Ray pitches the idea of McDonald's franchises to several men who quickly want to get in on the lucrative new business venture.However, Ray soon grows incensed at the new franchisees' lack of quality control, and attention to the menu standards (with one place even selling fried chicken!). Ray attempts to tell the franchisees to do better, but finding they don't seem to care about the franchise standards like he does, he cancels his and his wife's membership with the country club (much to her shock), and attempts to find other ways to get new franchisees.Taking his wife to a VFW potluck and hearing from some people there, Ray soon realizes where he can get new franchisees by appealing to the American working-class! Soon, even more franchises are popping up.Ray eventually goes to the opening of a McDonald's in Minneapolis, Minnesota. Later on that evening at a fancy restaurant, he speaks with several men, including Rollie Smith (Patrick Wilson) who has eyes on becoming a franchise owner too. As they speak, Ray can't keep his eyes off a woman playing a nearby piano, only for Rollie to inform him that this is Rollie's wife, Joan (Linda Cardellini). Even though she is taken, Ray seems to have taken a shine to Joan.Ray attempts to expand beyond the Midwest, but runs into money problems. The 1.4 percent of the profits he agreed to isn't enough to live on, and he calls the brothers hoping to renegotiate, but they refuse. Ray also finds out that the refrigeration costs of storing ice cream in the stores is eating into his profit margins, and his wife also learns that he has mortgaged their home, causing further tension between them.Ray eventually pays a visit to Joan and Rollie's franchise. Upon learning about Ray's issues with refrigeration, Joan proposes they use a powdered milk mix that is just like a real milkshake. Upon sampling the Inst-A-Mix, Ray eagerly proposes his cost-saving idea to Dick McDonald, but is once again refused.When Ray attempts to take out another loan to deal with his financial troubles, he ends up meeting a young man named Harry Sonnenborn (BJ Novak). Sonnenborn is allowed to look over the company's financials, and soon finds a solution to Ray's money woes: when it comes to franchises, Ray should buy the land where the McDonald's locations are going to be built. If he owns the land, this allows the franchise owners to lease the land from him, allowing him not only to have monthly rent payments coming in, but also having the land control makes the franchises more adherent to quality control standards!Sonnenborn's proposal works, and Ray soon changes his company's name to Franchise Realty Corporation. When Dick McDonald calls up about this, Ray claims FRC is separate from McDonald's, and does not fall under the terms of their contract.Ray also has the franchises soon using Inst-A-Mix for making milkshakes, leading to another upsetting call by Dick McDonald. Even though Dick claims they have a contract, Ray won't back down, claiming that like hearts, \"contracts are meant to be broken.\"During this time, Ray's infatuation for Joan has been growing, leading him to eventually divorce his wife Ethel. In terms of a settlement, Ray is willing to give her the house, car, and their insurance policy, but wants everything having to do with McDonald's to remain in his name.Ray also begins to have lawyers look into renegotiating his contract with the McDonald brothers, no matter the cost.Ray's actions soon irritate the brothers further, when a letter arrives to them with an official letterhead reading The McDonald's Corporation, and Ray's name listed as President. The two call up Ray, with Mac getting the most vocal about what Ray has done, leading to Mac getting upset enough to go into a diabetic shock.After Mac is admitted to a hospital, Ray shows up with flowers and a letter, which contains a blank check...a symbol that shows Ray means to buy out the brothers' share in the company.Realizing they can't win in a fight with Ray, the brothers set their terms. They call for $2.7 million, ownership of the San Bernardino store, and one percent of the company's profits. While Ray is willing to sign off on almost everything, he claims that the one-percent deal will have to be carried out on a handshake basis, which the brothers agree to.Following the negotiations, Dick encounters Ray in the restroom, and asks the man who bought them out a question: given everything he found out about their company and how it was run, why didn't Ray just steal their idea and create his own restaurant?Ray claims that such an endeavor would have failed, and that when it came to what Dick and Mac had, it wasn't just the system in place that enticed him...but the name. To Ray, the name \"McDonald's\" sounded all-American, and appealing to the general public.The brothers are forced to remove their name from their place, soon re-branding it as \"The Big M.\"In an epilogue, we learn the following:Ray Kroc eventually built a McDonald's in San Bernardino across from the McDonald Brothers' stand, where it's popularity soon forced Dick and Mac to close.Ray reneged on the handshake deal and the McDonald brothers never received a cent of the 1 percent they were promised, which would have been 200 million a year if it was upheld for each brother.Ray married Joan Smith and they remained together until his death. She donated 1.5 billion dollars to charity including the Red Cross.June Martino, who worked with Ray Kroc at the sales office, became the Corporate Secretary and part-owner of McDonalds Corporation.Fred Turner, who was employed in the Des Plaines McDonald's, became Senior Chairman of the company, and helped expand it globally.Harry Sonnenborn became the company's first President and CEO, but resigned in 1967 over a dispute with Ray Kroc.-Eventually, McDonald's would drop using instant powder, and use ice cream again for it's milkshakes.",
+  "imdb_score": 7.2
+}

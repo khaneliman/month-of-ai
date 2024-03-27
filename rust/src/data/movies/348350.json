@@ -1,0 +1,581 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/hDvk6O2vehwsZBdNsMSGmAVdiUn.jpg",
+  "id": 348350,
+  "title": "Solo: A Star Wars Story",
+  "poster_path": "https://image.tmdb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+  "release_date": "2018-05-15",
+  "vote_average": 6.6,
+  "vote_count": 8087,
+  "popularity": 40.638,
+  "overview": "Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.",
+  "imdb_id": "tt3778644",
+  "budget": 250000000,
+  "homepage": "https://www.starwars.com/films/solo",
+  "revenue": 392952373,
+  "runtime": 135,
+  "tagline": "Never tell him the odds.",
+  "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Action"
+  ],
+  "production_companies": [
+    "Lucasfilm Ltd."
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Alden Ehrenreich",
+        "character": "Han Solo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bx86TPUmeHp0QkijQb16r2qIwEr.jpg"
+      },
+      {
+        "name": "Joonas Suotamo",
+        "character": "Chewbacca",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qzUsjyKkh1G07SFSsXwo4t7vGpv.jpg"
+      },
+      {
+        "name": "Woody Harrelson",
+        "character": "Tobias Beckett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+      },
+      {
+        "name": "Emilia Clarke",
+        "character": "Qi'ra",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wb8VfDPGpyqcFltnRcJR1Wj3h4Z.jpg"
+      },
+      {
+        "name": "Donald Glover",
+        "character": "Lando Calrissian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nilV7NtnML6PDa9VrvxD79F85K9.jpg"
+      },
+      {
+        "name": "Thandiwe Newton",
+        "character": "Val",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5BCyGUiUsXD6XzJgPPolqgWFFtj.jpg"
+      },
+      {
+        "name": "Phoebe Waller-Bridge",
+        "character": "L3-37",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ppRIfUYcl0RWlxp5gSmdzIFFLAS.jpg"
+      },
+      {
+        "name": "Paul Bettany",
+        "character": "Dryden Vos",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
+      },
+      {
+        "name": "Jon Favreau",
+        "character": "Rio Durant (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+      },
+      {
+        "name": "Erin Kellyman",
+        "character": "Enfys Nest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f7XXomAaSRxE3h5NT0sAlcQTjPL.jpg"
+      },
+      {
+        "name": "Linda Hunt",
+        "character": "Lady Proxima (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/leiVNArKBQTmE5ROovNJWiW9kfk.jpg"
+      },
+      {
+        "name": "Ian Kenny",
+        "character": "Rebolt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jRLVp5Y32udFLntXXv0pjnuubsM.jpg"
+      },
+      {
+        "name": "John Tui",
+        "character": "Korso",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2jIc9M5kl2GmK8fZtbtUr2s1jkS.jpg"
+      },
+      {
+        "name": "Anna Francolini",
+        "character": "Imperial Emigration Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zkfIJehMXE8jSzbClQsILZqddM5.jpg"
+      },
+      {
+        "name": "Andrew Woodall",
+        "character": "Imperial Recruitment Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8WvS7o3oNp0KdXnmhuHmIa9VC6D.jpg"
+      },
+      {
+        "name": "Warwick Davis",
+        "character": "Weazel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nGorSpUIQWAEErxq8KdDcIF6Q00.jpg"
+      },
+      {
+        "name": "Shaquille Ali-Yebuah",
+        "character": "Imperial Mudtrooper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pC9EF9THnI90DTCOaV6jotG4n1A.jpg"
+      },
+      {
+        "name": "Eben Figueiredo",
+        "character": "Imperial Mudtrooper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8WG3Syfep1AUhFR8eRFTFXyhpur.jpg"
+      },
+      {
+        "name": "Aaron Heffernan",
+        "character": "Imperial Mudtrooper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/KkE3C4DQM9GTRZoJT7VQPHlwi7.jpg"
+      },
+      {
+        "name": "Hal Fowler",
+        "character": "Mimban Lieutenant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aEYBjBnKWcaWE1s3KdAhWLHwd25.jpg"
+      },
+      {
+        "name": "Damian Farrell",
+        "character": "Mimban Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Pfhn9j1DFlCz4xJJ7IrD1mu6RA.jpg"
+      },
+      {
+        "name": "Charlotte Louise",
+        "character": "Margo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7dDmLrVP2FwCmbDwNi78A371pIL.jpg"
+      },
+      {
+        "name": "Sema-Tawi Smart",
+        "character": "Chanteuse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g1nhUuJnZnQmPMrbrTcFMNr09uL.jpg"
+      },
+      {
+        "name": "Clint Howard",
+        "character": "Ralakili",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6tugb8rz1hj8tYlSaSmUBD741fw.jpg"
+      },
+      {
+        "name": "Dee Tails",
+        "character": "Quay Tolsite",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8fDNMtigaOuV97mxu9AYbBsOUuM.jpg"
+      },
+      {
+        "name": "Attila Vajda",
+        "character": "Sagwa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bamZJSFT6kMv2Hw6wVwCJH0CApB.jpg"
+      },
+      {
+        "name": "Anthony Daniels",
+        "character": "Tak",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c876ZM5ObwYgXksrRWNNrL9KeZg.jpg"
+      },
+      {
+        "name": "Kiran Shah",
+        "character": "Karjj",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cBE8YAZeCMVUu4eAxr6PNUmNjCh.jpg"
+      },
+      {
+        "name": "Fraser Kelly",
+        "character": "Eager Scrumrat",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qABsZvjBvwJNJ8mBAID23LB9gqo.jpg"
+      },
+      {
+        "name": "Lily Newmark",
+        "character": "Lexi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eptZSYgdDbYjdIfsLwSyEizmSmx.jpg"
+      },
+      {
+        "name": "Jason Wong",
+        "character": "Weapons Check Enforcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tt3D1PAoB8Yf4jPCovnhlP4pvL3.jpg"
+      },
+      {
+        "name": "Alice Hewkin",
+        "character": "Female Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Ab92Gh6ILQCaoniNeJHwds9za2Y.jpg"
+      },
+      {
+        "name": "Samantha Colley",
+        "character": "Ottilie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/imFMKEABeyczXjSWRbeMCJzgrIc.jpg"
+      },
+      {
+        "name": "Robert Morgan",
+        "character": "Imperial Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dZhqn7yOmgetvM2mAWU7sEMmzu7.jpg"
+      },
+      {
+        "name": "Miles Richardson",
+        "character": "Regional Governor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mDNEYyGeaWmjqFc5TZuSyRmW89a.jpg"
+      },
+      {
+        "name": "Sammy Hayman",
+        "character": "Spaceport Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g2y6domOIIdAht8wfmKmNtNE0WE.jpg"
+      },
+      {
+        "name": "Rona Morison",
+        "character": "Spaceport Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mbKkxCix9sKGmk3FE3MaMtFRR4q.jpg"
+      },
+      {
+        "name": "Dempsey Bovell",
+        "character": "Imperial Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n6HRt2BiQXDqaB0A8sav8gR3RbL.jpg"
+      },
+      {
+        "name": "Joseph Charles",
+        "character": "Savareen Air Traffic Controller",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave Chapman",
+        "character": "Rio Durant / Lady Proxima",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vbB6di8qduC3qDlNyJIg20N6m1Z.jpg"
+      },
+      {
+        "name": "Katy Kartwheel",
+        "character": "Rio Durant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l3FUQhG2yudRSXaSlDGLiKvpjtt.jpg"
+      },
+      {
+        "name": "Harley Durst",
+        "character": "Moloch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q2CTXqGnKwGL5j984LPcptAFBUp.jpg"
+      },
+      {
+        "name": "Andrew Jack",
+        "character": "Moloch (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cDuYdx9WzKA8N6fXlIVBMLtpmtx.jpg"
+      },
+      {
+        "name": "Sam Witwer",
+        "character": "Maul (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8flOyMoh9hBQPqi6ISD7W1mDjnY.jpg"
+      },
+      {
+        "name": "Ray Park",
+        "character": "Maul",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1BxwBrCTfTw9u9RGwEl6qWbPnZL.jpg"
+      },
+      {
+        "name": "Toby Hefferman",
+        "character": "Bink Otauna (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Kasdan",
+        "character": "Tag Greenley (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nfQVySjVuLdqqL8jLSdfqzRG6Z2.jpg"
+      },
+      {
+        "name": "Richard Dixon",
+        "character": "Elite Citizen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rhMlmS9dE6pyy4qnZGRzlRrGlhh.jpg"
+      },
+      {
+        "name": "Deepak Anand",
+        "character": "Sheesha Smoking Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f6u0FjH44YEE9CeoDJvnQBMPuZn.jpg"
+      },
+      {
+        "name": "Samantha Alleyne",
+        "character": "Mimban Trooper / Stormtrooper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/SAnpquytfrtrvmKci88TVNJeIF.jpg"
+      },
+      {
+        "name": "Juan Alonso",
+        "character": "Space Mine Control Room Droid (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Derek Arnold",
+        "character": "Argus Panox (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2kIw5hTkTY8dXPjwPBQ9xTz118J.jpg"
+      },
+      {
+        "name": "Belinda Chapple",
+        "character": "Drydens Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/335rz2XU6e5oq1wk9ukR4D7BFy.jpg"
+      },
+      {
+        "name": "Kristianne-Kaith Domingo",
+        "character": "Civilian Woman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Duggan",
+        "character": "Fisherman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jordan Dumaurier",
+        "character": "Mud Trooper (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Vikki Edwards",
+        "character": "Fisherwoman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marc Esse",
+        "character": "Imperial Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kristine Fernandez",
+        "character": "Slave (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "James Filanowski",
+        "character": "Imperial Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "James Galvin",
+        "character": "Mud Trooper (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "David Guerrero",
+        "character": "Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lrPK2RYN1wkg2PQF0OC4RwbWR20.jpg"
+      },
+      {
+        "name": "Juke Hardy",
+        "character": "Market Trader (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fvQSOIWU2L6VmT88qBeLs1dsgxy.jpg"
+      },
+      {
+        "name": "Sarah Sayuri Hare",
+        "character": "Space Bar Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5hgkuLVl7WsmQmShL6ms3GrK2fA.jpg"
+      },
+      {
+        "name": "Ian Harrod",
+        "character": "Imperial Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Philip Harvey",
+        "character": "Imperial Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Robin Harvey",
+        "character": "Imperial Mudtrooper (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marina Hayter",
+        "character": "Droid Arena Spectator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Herring",
+        "character": "Hirang Birren (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hFCRdsUUvN7TOi7vf3daWNjMF5R.jpg"
+      },
+      {
+        "name": "Robert Hladik",
+        "character": "Imperial Speeder Driver (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gm974gzJRFdEjQa9Karaw2M3j8R.jpg"
+      },
+      {
+        "name": "Van-Tien Hoang",
+        "character": "Moloch Henchman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bLFLMMSB30VahxwYpxcsrLc9DXy.jpg"
+      },
+      {
+        "name": "Kevin Hudson",
+        "character": "Mimban trooper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1OrwAIDUYbwZXOWbF5FZtgGMsCI.jpg"
+      },
+      {
+        "name": "Ty Hurley",
+        "character": "Imperial Fleet Trooper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Hn1wQPJlTd9m1vHs2TrIYC8NK1.jpg"
+      },
+      {
+        "name": "Sean James",
+        "character": "Henchman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tobias James-Samuels",
+        "character": "Stormtrooper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ur2GguvjC3zGtYyGMoPSoHbIrdD.jpg"
+      },
+      {
+        "name": "Jackson Kai",
+        "character": "Elite Citizen (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Kamau",
+        "character": "Savareen Miner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mb9qKBgEgILp3aoKHwlYV5lioP8.jpg"
+      },
+      {
+        "name": "Tyrone Kearns",
+        "character": "Gambler at Lodge (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kamil Lemieszewski",
+        "character": "Dryden Skipper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ddk6mDSrd2EnODbDGZf6AdPT755.jpg"
+      },
+      {
+        "name": "Jorge Leon Martinez",
+        "character": "Mud Trooper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sogpJVsJqRQYgh9JbomIzUwlgII.jpg"
+      },
+      {
+        "name": "Chelsea Li",
+        "character": "Dryden's Yacht guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rPSwiXORMUfvac3KXWWHG7R3LC2.jpg"
+      },
+      {
+        "name": "Chelsea Mather",
+        "character": "Rebel (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t8Yb5vFo529Zci1goz0hl7TM6zf.jpg"
+      },
+      {
+        "name": "Obie Matthew",
+        "character": "Dryden Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dMf7uPLi74oLJcB67zMyRgcsO2u.jpg"
+      },
+      {
+        "name": "Kenny-Lee Mbanefo",
+        "character": "Squad Leader Mudtrooper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lAhRSvuesAoZb7RwUUWIYB1Jv5J.jpg"
+      },
+      {
+        "name": "Ashley McGuire",
+        "character": "Lodge Human Trainer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zVF8Jgcp19Qk5AMQOnpvEts5kQn.jpg"
+      },
+      {
+        "name": "Jacqueline Ramnarine",
+        "character": "Bar Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wTa63MhM67k8TWSxgVtpM2w4amy.jpg"
+      },
+      {
+        "name": "Christina Richards",
+        "character": "Girl in Deadwood Den Watching (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rRMDBo2a7JrE4WDK3eJweBR7Oly.jpg"
+      },
+      {
+        "name": "Belal Sabir",
+        "character": "Fisherman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah-Stephanie",
+        "character": "Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Atul Sharma",
+        "character": "Dryden Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ArCswhLKzGJW6viP1uiF82wQLiX.jpg"
+      },
+      {
+        "name": "Stephanie Silva",
+        "character": "Cloud-Rider Silvasu Fi (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oVVi0K0R3ktySdhHkqsX0huvTs6.jpg"
+      },
+      {
+        "name": "Neil Alexander Smith",
+        "character": "Starcave Nebula Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4a8euCmLr6XtfTUhHaPPEhB3M1l.jpg"
+      },
+      {
+        "name": "Clem So",
+        "character": "Dryden Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/elyNvdqbWo2v2teDKFQ3jpoapU0.jpg"
+      },
+      {
+        "name": "Richard Stanley",
+        "character": "Cutthroat Hunter at Fort Ypso (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Karol Steele",
+        "character": "Slave (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hSFgLS5OM02TI0p2WJ4DAj0WIIS.jpg"
+      },
+      {
+        "name": "A.k. Steppa",
+        "character": "Fort Ypso Vagrant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2ltFVliZi6qz3P2PPP0rDkFDlBO.jpg"
+      },
+      {
+        "name": "Fran Targ",
+        "character": "Slave (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/83eaNik8vdvHCyeUmEo5GfBiVOR.jpg"
+      },
+      {
+        "name": "Steven F. Thompson",
+        "character": "Imperial Fleet Trooper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vcLysMpOsbvLCYrU4GmDZSPmoQ2.jpg"
+      },
+      {
+        "name": "Klemens Niklaus Trenkle",
+        "character": "Fort Ypso Bar Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jkLVW93VMFVfNX0mfvArgXUKyRI.jpg"
+      },
+      {
+        "name": "Jo Wheatley",
+        "character": "Fisherwoman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ray Whelan",
+        "character": "Marauder (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/isPM6LslVwFVnDvE8esxAqNJWJR.jpg"
+      },
+      {
+        "name": "John Whitby",
+        "character": "Flight trooper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w3jfEx6mwcdTx2rw504ScHVvQbP.jpg"
+      },
+      {
+        "name": "Angela Yeoh",
+        "character": "Miner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/XGUkZkY01JfpHL5wmwDlgiQ6uk.jpg"
+      },
+      {
+        "name": "Mark Ryder",
+        "character": "Dryden's Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Davis",
+        "character": "Drill Wookiee Slave (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8i6KEC3maTDcuxzO31t5shkZggw.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Ron Howard",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "spacecraft",
+    "smuggling (contraband)",
+    "prequel",
+    "spin off",
+    "space opera"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Board the Millennium Falcon and journey to a galaxy far, far away in an epic action-adventure that will set the course of one of the Star Wars saga's most unlikely heroes.",
+    "With the emerging demand of hyperfuel and other resources, Han Solo finds himself in the middle of a heist alongside other criminals, where they meet the likes of Chewbacca and Lando Calrissian in an adventurous situation exposing the criminal underworld.",
+    "Before he crossed paths with The Rebellion, Han Solo was a former Imperial Militant who became a space pirate cruising around the Outer Rim alongside his fellow outlaw: the mighty Wookiee, Chewbacca. This is the story of how he came to be known as the galaxy's most notorious smuggler, and how the man became a legend.—Johnny",
+    "In the vast and tumultuous galaxy of \"Star Wars,\" a young and ambitious Han Solo finds himself on a path to becoming the iconic smuggler fans have come to know and love. The film takes us on a journey through Han's early years, where ambition, charm, and a touch of recklessness define his character. The story begins on the industrial planet of Corellia, where Han dreams of becoming a pilot and escaping his life of hardship. Alongside his love interest, Qi'ra, he makes a daring escape attempt, setting in motion a series of events that will shape his destiny. Through twists of fate, Han meets Chewbacca, the Wookiee who becomes his loyal co-pilot, and Lando Calrissian, the suave gambler with a flair for the dramatic. Together, they become involved in a high-stakes heist for a criminal syndicate, led by the enigmatic Tobias Beckett. The mission takes them across various landscapes, from the perilous spice mines of Kessel to the sophisticated world of Dryden Vos, the crime lord. Along the way, alliances are tested, friendships are forged, and Han's character is molded. The film delves into themes of identity, freedom, and the moral ambiguity of a galaxy ruled by power and greed. It's a coming-of-age tale that explores Han's transformation from a hopeful dreamer to the cynical but charismatic rogue.—Evan Almindo"
+  ],
+  "synopsis": "In this second 'Star Wars' stand-alone, spin-off film, it opens with the traditional \"A long time ago, in a galaxy far, far away.....\"Across the known galaxy during the early years of the First Galactic Empire, organized crime syndicates are running rampant due to rampant lawlessness on the mid and outer rim worlds since the fall of the Galactic Republic, forcing others to fight for survival. On the industrial ship-building planet Corellia, Lady Proxima (voice of Linda Hunt), leader of the White Worms gang, is after a hyperfuel known as coaxium. Meanwhile, one young man seeks a way out of Corellia for good.That man is Han (Alden Ehrenreich). After getting his hands on some coaxium, he meets with his girlfriend Qi'ra (Emilia Clarke) as they plan to escape. They are found by some of Proxima's minions and are taken to her, where she demands the coaxium. Han takes out a rock that he pretends is a thermal detonator and throws it at the walls to bring in sunlight, which Proxima and her species are allergic to. Han and Qi'ra run and evade the worms as they chase after them, managing to lose them after Han gets them through a tight spot in the wall with a stolen speeder, but they end up stuck and have to continue running on foot.At the nearby spaceport, Han and Qi'ra evade Imperial storm trooper guards and bring the coaxium to a female Imperial officer as a bribe to help them escape. They nearly make it to freedom until they are spotted by the worms again. Han is able to make it out, but Qi'ra is captured. Separated by a security gate, Han promises to find a way to get her out. Now on his own, Han decides to enlist as a pilot for the Empire. He speaks to a recruitment officer, and he asks Han his full name. When he can't give him a surname, and when the officer sees he is alone and has no family, he dubs him Han \"Solo\".The story jumps ahead three years...Han is fighting on the muddy, foggy planet Mimban as an Imperial infantryman -- he has since been kicked out of the Imperial Flight Academy for insubordination. Most of the fighters on his side are killed, but Han manages to find three thieves posing as fighters - Tobias Beckett (Woody Harrelson), his girlfriend Val (Thandie Newton), and the alien Rio Durant (voice of Jon Favreau). Fed up with constant conflicts, Han wants to join them after telling them he's a good pilot, but Beckett refuses to let him join, even after Han threatens to blackmail them. Beckett sets Han up to be arrested, lying to some Imperial officers. Han is taken by guards and thrown into a pit to be fed to a beast. The beast turns out to be the Wookie Chewbacca (Joonas Suotamo). He attacks Han, but when Han reveals he can speak the Wookie language, they decide to work together to break out. Han uses Chewie to break the beam that's keeping them bound together, collapsing the ceiling and spilling the two guards that threw Han into the pit down to the floor. The two escape and see Beckett, Val, and Rio leaving on a ship, hoping to have caught a ride. Rio manages to convince Beckett to bring the two on-board since the immensely strong Chewie could work well as extra muscle.The crew rests for the night on the snow-covered planet Vandor before their upcoming job. As they sit around a campfire, Val figures that Han has joined them for a girl. Beckett tells Han that they are trying to steal a large amount of coaxium from a train for the people they work for. Beckett disassembles a DL-44 blaster rifle he's brought with him, stripping it down into a pistol that he gives to Han.The next day, the crew spots the train and they go in for the heist. They find the coaxium, but they are attacked by a gang of Cloud Riders. The crew fights them off, but Rio is shot as he flies the ship overhead, forcing Han to pilot the ship. Rio then succumbs to his wounds. Val is at the end of the tracks just over a cliff where the Cloud Riders ambush her. To ensure they don't get the others or the coaxium, she blows herself up with the tracks, causing the train to plummet to the ground. Han also ends up dropping the coaxium, realizing that the craft isn't powerful enough to yank it away from the Cloud Riders. The coaxium explodes, collapsing a big portion of the mountain.Beckett leaves memorials for Rio and Val, and he punches Han in the face for ruining the mission. They were supposed to deliver the coaxium to a criminal named Dryden Vos (Paul Bettany), leader of the Crimson Dawn syndicate. Without the coaxium, Beckett fears Dryden will kill him. Han offers himself and Chewie to help Beckett find another stash of coaxium and reach a new deal with Dryden. Beckett reluctantly agrees to let Han and Chewie come along.The three travel to Dryden's huge, luxurious ship docked nearby. While attending a lavish party, Han spots Qi'ra, who has been working for Dryden for the last couple of years. After the ruthless Dryden kills the regional governor in his private room, he steps outside to speak to Beckett and meet Han and Chewie. After discussing what happened with the coaxium, Han suggests that they steal unprocessed coaxium from the mines on the planet Kessel. Dryden has Qi'ra join them. The danger is that unprocessed coaxium is highly unstable and must be taken to a refining facility quickly before it explodes.In order to get a ship to travel to Kessel, Qi'ra brings the three to meet the charming smuggler Lando Calrissian (Donald Glover) as he is playing a card game of Sabaac against other alien pilots. Han challenges Lando to a game, where the winner gets the other's ship. Han appears to poised to win, until Lando cheats, using a card hidden in his sleeve to outmatch him. Still, Lando joins Han and the others on their mission for the potential profits that would follow. They stop to get Lando's droid friend, L3-37 (voice of Phoebe Waller-Bridge), who is watching a fight between other droids and is upset to see that they are used like gladiatorial slaves. Lando brings them to his ship, the Millennium Falcon, and they take off for the mining planet of Kessel.The team arrives on Kessel and heads toward the mines, having to navigate the large, stormy cloud that surrounds the planet. L3 initiates a riot by freeing captive droids, which allows the others to find the coaxium and take it. At the same time, Chewie spots imprisoned Wookiees, and Han allows him to go and free them. An all-out battle begins as the team tries to escape, only to be shot at by the creatures. L3 is blasted, and Lando runs in to save her, losing her lower half, and he is wounded trying to take her back to the Falcon. The team gets the coaxium on-board and they fly away, where L3 dies in Lando's arms. As the team flies out, they are found by an Imperial star destroyer blockade that sends out TIE fighters to attack. With Lando injured, Han must pilot the Falcon to evade the TIE fighters and make it through the Maw, a cluster of black holes. They are attacked by an enormous space monster that tries to devour them. Han must then do a \"Kessel Run\", but Lando points out nobody can do it in less than 20 parsecs. Using a piece of L3's machinery to navigate the ship, they find themselves being sucked toward a black hole, which the space monster falls victim to as it is ripped apart. Han then has Beckett use a small dose of coaxium to boost the Falcon out of danger. It works and they fly out, and Han is able to brag that he made the Kessel Run in 12 parsecs.The team is set to meet with Dryden on the planet Savareen, where they plan to process the coaxium at a disused refinery. The group are soon found by the Cloud Riders. Han tries to bluff them, saying he has a small unit of soldiers waiting aboard the Falcon. The ruse fails when Lando flies off in the Falcon. Beckett believes the Riders are a bunch of marauders, until their leader, a teenage girl named Enfys Nest (Erin Kellyman), reveals herself and says they only want to keep the coaxium out of Crimson Dawn's hands. A resistance is building in opposition to the Galactic Empire and Nest wants the coaxium to use in the fight.Han, Qi'ra, and Chewie bring the coaxium to Dryden who's ship lands nearby. When he sees a sample, he says that it is fake. It turns out Beckett was his inside man, and he told Dryden that Han had been planning to sell the coaxium to the Cloud Riders. However, Han reveals he took a page out of Beckett's book and anticipated that Beckett would betray them. The coaxium in the room is real, and the Cloud Riders have nothing. Beckett takes Chewie hostage, along with the coaxium. Dryden fights Han and Qi'ra, ending with Qi'ra overpowering Dryden and stabbing him through the heart with his own blade. Qi'ra tells Han to go after the coaxium and to save Chewie, and she will join them soon.Han catches up to Beckett. Beckett attempts to talk his way out of the situation and draws his gun, but Han shoots first and kills Beckett. Meanwhile, Qi'ra contacts her true boss... a shadowy figure who reveals himself to be Darth Maul (Ray Park). She tells him of the mission's failure, and he assigns her to Dryden's former position. She leaves on Dryden's ship, passing over Han and Chewie. She looks over to him, and he looks back.Han gives the coaxium to Enfys and her team. She offers him a chance to join them, but he declines. Enfys leaves Han and Chewie with a vial of coaxium for themselves.Han finds Lando and challenges him to another game of Sabaac, only this time, he manages to swipe Lando's cheat card from him before the match. Han wins fairly, and he gets the Falcon. Along with Chewie, they decide to head to Tatooine after Beckett had mentioned a gangster (Jabba The Hutt) putting together a crew for another mission. Han then puts the Falcon into hyperspace as they take off.",
+  "imdb_score": 6.9
+}

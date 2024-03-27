@@ -1,0 +1,565 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/kdyYOwpKvvD2fSbwfnMM2YPAzfq.jpg",
+  "id": 187017,
+  "title": "22 Jump Street",
+  "poster_path": "https://image.tmdb.org/t/p/w500/850chzYHYbT3IISl6Q7dbBuFP2B.jpg",
+  "release_date": "2014-06-05",
+  "vote_average": 6.839,
+  "vote_count": 7603,
+  "popularity": 34.227,
+  "overview": "After making their way through high school (twice), big changes are in store for officers Schmidt and Jenko when they go deep undercover at a local college. But when Jenko meets a kindred spirit on the football team, and Schmidt infiltrates the bohemian art major scene, they begin to question their partnership. Now they don't have to just crack the case - they have to figure out if they can have a mature relationship. If these two overgrown adolescents can grow from freshmen into real men, college might be the best thing that ever happened to them.",
+  "imdb_id": "tt2294449",
+  "budget": 50000000,
+  "homepage": "http://www.22jumpstreetmovie.com",
+  "revenue": 331300000,
+  "runtime": 112,
+  "tagline": "They're not 21 anymore",
+  "genres": [
+    "Crime",
+    "Comedy",
+    "Action"
+  ],
+  "production_companies": [
+    "Columbia Pictures",
+    "Original Film",
+    "MRC",
+    "LStar Capital",
+    "Metro-Goldwyn-Mayer",
+    "Stephen J. Cannell Productions",
+    "75 Year Plan Productions",
+    "Storyville Films",
+    "JHF Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jonah Hill",
+        "character": "Officer Morton Schmidt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+      },
+      {
+        "name": "Channing Tatum",
+        "character": "Officer Greg Jenko",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xdnstENLdWMPWt9qyhtf695L4t6.jpg"
+      },
+      {
+        "name": "Peter Stormare",
+        "character": "The Ghost",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5muzSVt66Qxc8KuVbq0phZIN9tj.jpg"
+      },
+      {
+        "name": "Wyatt Russell",
+        "character": "Zook",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f759e6y7uhobWRCmD0O21cBmjBA.jpg"
+      },
+      {
+        "name": "Amber Stevens West",
+        "character": "Maya Dickson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vbL9olD9MxPeeASwniPf3qa5H7G.jpg"
+      },
+      {
+        "name": "Jillian Bell",
+        "character": "Mercedes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8p5fxbm4Jr8TxqMgPGQXs0rMxCE.jpg"
+      },
+      {
+        "name": "Ice Cube",
+        "character": "Captain Dickson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ymR7Yll7HjL6i6Z3pt435hYi91T.jpg"
+      },
+      {
+        "name": "Keith Lucas",
+        "character": "Keith Yang",
+        "profile_path": "https://image.tmdb.org/t/p/w185/caonk4zlb3S0W4jOSpt9xfWtSU1.jpg"
+      },
+      {
+        "name": "Kenneth Lucas",
+        "character": "Kenny Yang",
+        "profile_path": "https://image.tmdb.org/t/p/w185/98yPZFt3YIugrC4nmX08RcjuO2k.jpg"
+      },
+      {
+        "name": "Nick Offerman",
+        "character": "Deputy Chief Hardy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tDzCAAJinH4Xt3lSKsajfiTyRK9.jpg"
+      },
+      {
+        "name": "Jimmy Tatro",
+        "character": "Rooster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xehT2IK65qXKSctcYChrWLE04pI.jpg"
+      },
+      {
+        "name": "Caroline Aaron",
+        "character": "Annie Schmidt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7nnic1Dao3XoScrwX7Ac39N2BC1.jpg"
+      },
+      {
+        "name": "Craig Roberts",
+        "character": "Spencer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nxvmN68tjIvro0CHxGw8HlatkN0.jpg"
+      },
+      {
+        "name": "Marc Evan Jackson",
+        "character": "Dr. Murphy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4TWP0nlhkxkZ5XzzZuz3RCoZjFX.jpg"
+      },
+      {
+        "name": "Joe Chrest",
+        "character": "David Schmidt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7mcsJGnqRoVPTtxAUZEKt2dZnlw.jpg"
+      },
+      {
+        "name": "Eddie J. Fernandez",
+        "character": "Scarface",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wA9CnODxcaiLTrTnZ8wnlPIeW1R.jpg"
+      },
+      {
+        "name": "Rye Rye",
+        "character": "Jr. Jr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x9BAdUwSITw8oeZSIVVEhLTEGmR.jpg"
+      },
+      {
+        "name": "Johnny Pemberton",
+        "character": "Delroy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qP7y28lDW5wzUAUQ2sx6741Hx7a.jpg"
+      },
+      {
+        "name": "Stanley Wong",
+        "character": "Roman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tj1dCfIUQMJrgs08PYNjW40LHtM.jpg"
+      },
+      {
+        "name": "Dax Flame",
+        "character": "Zack",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zbGGWLa02rIPSnFL9V5A6PFhpBz.jpg"
+      },
+      {
+        "name": "Diplo",
+        "character": "Spring Break DJ",
+        "profile_path": "https://image.tmdb.org/t/p/w185/snohpneYnVs24c6EYP54784bwh6.jpg"
+      },
+      {
+        "name": "Tyler Forrest",
+        "character": "Stoned-Looking Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n1zoVeOaJvo3p68qiXuo4SYAhDR.jpg"
+      },
+      {
+        "name": "John Bostic",
+        "character": "University of Internet Professor",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Grieco",
+        "character": "Dennis Booker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pYImBN56amgiIaR2EMUbcUi9CxC.jpg"
+      },
+      {
+        "name": "Dustin Nguyen",
+        "character": "Vietnamese Jesus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/40TjXyYUSG3O01Zak4TJLz0oZN3.jpg"
+      },
+      {
+        "name": "Ian Hoch",
+        "character": "Improv Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/svioZabj3u3aGHwGa9BCqgygXxK.jpg"
+      },
+      {
+        "name": "Kate Adair",
+        "character": "Improv Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vfiNI5MZxGLd3SKMLgt94OWqyIb.jpg"
+      },
+      {
+        "name": "Drew Cross",
+        "character": "Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Katrina Despain",
+        "character": "Girl in Bathroom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tfPzG5jsoyQ1hMprUqqDjF3UKAC.jpg"
+      },
+      {
+        "name": "Oscar Gale",
+        "character": "Tattoo Artist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7f1RM3u0RMWr9H0FAkn6e2Ams6h.jpg"
+      },
+      {
+        "name": "Janeline Hayes",
+        "character": "Slam Poet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wHrAvAnSR0d1FV4B00IgrAc1b5h.jpg"
+      },
+      {
+        "name": "Jackie Bohne",
+        "character": "Slam Poet",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason R.A. Foster",
+        "character": "Rathskellar Host",
+        "profile_path": ""
+      },
+      {
+        "name": "Toby Nichols",
+        "character": "Boy at the Pond",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3IqdEiAtJGeSKyKx9a5EAF3oWRq.jpg"
+      },
+      {
+        "name": "Toby Holguin",
+        "character": "Mustached Goon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4jjsgFJYudtaIaX7ITxiFoBEQlo.jpg"
+      },
+      {
+        "name": "Eddie Perez",
+        "character": "Library Goon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lJ0584zfHNwj2QywbBvF7TcEy8w.jpg"
+      },
+      {
+        "name": "Mickey Facchinello",
+        "character": "Drunk Beach Fight Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8AJLeAYK3WYooijx0on7AttCpm1.jpg"
+      },
+      {
+        "name": "Tom Ventura",
+        "character": "Spring Break Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Schacter",
+        "character": "Spring Break Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Sam Schweikert",
+        "character": "Spring Break Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yaaQKL9KiWZkcBVuzjNqxGRA4l3.jpg"
+      },
+      {
+        "name": "Jack Maloney",
+        "character": "Spring Break Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Rob Riggle",
+        "character": "Mr. Walters (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hQgOp8vWxl6KPZbqzKSSL4k6G1j.jpg"
+      },
+      {
+        "name": "Dave Franco",
+        "character": "Eric Molson (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j48eRArsXapbfXZfw9Fik7PlJSo.jpg"
+      },
+      {
+        "name": "Queen Latifah",
+        "character": "Mrs. Dickson (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AeNoPcSWTsl1mOxiyXAKjVnzrwl.jpg"
+      },
+      {
+        "name": "Patton Oswalt",
+        "character": "MC State History Professor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
+      },
+      {
+        "name": "H. Jon Benjamin",
+        "character": "MCS Football Coach (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yZgBHrH8D9Jjo15fuQKnWV3U2OC.jpg"
+      },
+      {
+        "name": "Anna Faris",
+        "character": "Anna (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y3YKNr4qPPJZ9w4lR2a3yySKotd.jpg"
+      },
+      {
+        "name": "Bill Hader",
+        "character": "Culinary School Villain (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg"
+      },
+      {
+        "name": "Seth Rogen",
+        "character": "Morton Schmidt double (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2dPFskUtoiG0xafsSEGl9Oz4teA.jpg"
+      },
+      {
+        "name": "Will Forte",
+        "character": "'Previously' Narrator / Football Announcer (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kphnirb7YggSVEhGI47kACxaIJQ.jpg"
+      },
+      {
+        "name": "Ramiro 'Ramir' Delgado Ruiz",
+        "character": "Student in the Van (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y7qqQOOnEhSWz5aUkt7c3hQ52R0.jpg"
+      },
+      {
+        "name": "Vanessa Amaya",
+        "character": "Sorority Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Angerdina",
+        "character": "Driver on Bridge (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John L. Armijo",
+        "character": "Precinct Cop (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Berris",
+        "character": "College Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Libby Blake",
+        "character": "Beach Babe (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jEMQvk5wciTJZvZIcX0NjKz5ZpW.jpg"
+      },
+      {
+        "name": "Renaldo Brady",
+        "character": "MCPD Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/plcZ4wbMUXemvAPmSZTDH4JA5c2.jpg"
+      },
+      {
+        "name": "Emanuel Brooks",
+        "character": "Art Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Bui",
+        "character": "Detective (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gustavo Cardozo",
+        "character": "Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Blas Sien Diaz",
+        "character": "Local Mexican (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/csEECXMujnMz4XT5E2LQ4cgz4i6.jpg"
+      },
+      {
+        "name": "Eddie Eniel",
+        "character": "Tourist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/89wAWzEsWVQ3k7ifnTWFEAybgLn.jpg"
+      },
+      {
+        "name": "Joseph Fischer",
+        "character": "Painted Football Fan (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Julian Garnik",
+        "character": "Spring Breaker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Juan Gaspard",
+        "character": "Fan (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kurt Grossi",
+        "character": "Lamborghini Owner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lyle R. Guidroz",
+        "character": "Professor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Heskey",
+        "character": "Inmate (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Skyler Joy",
+        "character": "Beach Babe (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Q41pqvZqnjp7SI3lYRO9xvvtsf.jpg"
+      },
+      {
+        "name": "Adam Karchmer",
+        "character": "End Credits Boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kurt Krause",
+        "character": "Cupcake Wilson (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1JDehRtxcrUa6ABZeZbY3x6tXzT.jpg"
+      },
+      {
+        "name": "Joshua Lamboy",
+        "character": "Mexican Thug (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/H7wBggecquSL9tTWcxdt3vfViU.jpg"
+      },
+      {
+        "name": "Jaci LeJeune",
+        "character": "Maya's Friend (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ashlyn McEvers",
+        "character": "Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nZSIGbih0FNZtiZeqiA2Ol8eNp5.jpg"
+      },
+      {
+        "name": "Anna Medley",
+        "character": "Student / Fan / Partier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "David Stephen Mitchell",
+        "character": "Blue Bills Head Coach (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jesse Moore",
+        "character": "Assistant Coach (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean Pierre Prats",
+        "character": "Spring Breaker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Ramsey",
+        "character": "College Student / Spring Breaker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Raziano",
+        "character": "Football Fan (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gus Rhodes",
+        "character": "Parent (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nR0MzbdT2cENeA3XIMT53f2yNOX.jpg"
+      },
+      {
+        "name": "Edwin Richardson",
+        "character": "Detective (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff Sanders",
+        "character": "Football Referee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Larissa Santiago",
+        "character": "Wasted Spring Breaker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "William Schaff",
+        "character": "Football Fan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hoq7kpSUvC8AwD2T7PPNwh6Uhfe.jpg"
+      },
+      {
+        "name": "Robert Segari",
+        "character": "Cool Fraternity Dad (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Carl Singleton",
+        "character": "Campus Security (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Anne Speed",
+        "character": "Parent (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sean Stevens",
+        "character": "Fan (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Teal Jr.",
+        "character": "Constuction Supervisor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Terada",
+        "character": "Asian Gangster (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5D55p8JXBCJiiigFhgrB6UZM88A.jpg"
+      },
+      {
+        "name": "Joseph Uzzell",
+        "character": "Dad (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Donald Watkins",
+        "character": "Football Player (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rMPjEgjxK1NQOmwvkOIIKxhRLk2.jpg"
+      },
+      {
+        "name": "Stephen Daniel Wayne",
+        "character": "Jump Street Detective (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Steven Williams",
+        "character": "Commissioner Adam Fuller (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/okrQsLdE6hCGJ1M4p5nXPC3mJTW.jpg"
+      },
+      {
+        "name": "Michael Wozniak",
+        "character": "Quarterback Coach (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jesse Yarborough",
+        "character": "Campus Security (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ljLKsMlBajNIHjS3aAJNlrTNDgo.jpg"
+      },
+      {
+        "name": "Don Yesso",
+        "character": "MCS Coach (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m93AeciV1iGX5siORbhB94njyRn.jpg"
+      },
+      {
+        "name": "Ahmed Zakzouk",
+        "character": "Detective (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jwHn31bjeQd4hCBP7d79PG1ayzC.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Phil Lord",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yGLAUCnWwB0cQM0Ivb5FKzv3tr4.jpg"
+      },
+      {
+        "name": "Christopher Miller",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "high school",
+    "undercover cop",
+    "buddy cop",
+    "buddy comedy",
+    "aftercreditsstinger",
+    "duringcreditsstinger"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "After making their way through high school (twice), big changes are in store for officers Schmidt and Jenko when they go deep undercover at a local college.",
+    "After making their way through high school (twice), big changes are in store for officers Schmidt (Jonah Hill) and Jenko (Channing Tatum) when they go deep undercover at a local college. But when Jenko meets a kindred spirit on the football team, and Schmidt infiltrates the bohemian art major scene, they begin to question their partnership. Now they don't have to just crack the case - they have to figure out if they can have a mature relationship. If these two overgrown adolescents can grow from freshmen into real men, college might be the best thing that ever happened to them.—Sony Pictures Entertainment",
+    "After one of Schmidt and Jenko's missions goes wrong, they are sent back to Jump Street to do the exact same thing, go undercover and find out who is selling drugs. But this time they are sent to college to investigate the drug known as 'WhyPhy' and have only one lead on who it is, someone with a tattoo. Schmidt and Jenko's relationship is tested when Jenko is brought back on the cool side while Schmidt hangs out with a girl named Maya. At the same time they must decide if they can keep their relationship together as friends, or as cops.—James Hake"
+  ],
+  "synopsis": "Following their success in the 21 Jump Street program, Schmidt (Jonah Hill) and Jenko (Channing Tatum) are back on the streets chasing narcotics. However, after failing in the pursuit of a group of drug dealers led by Ghost (Peter Stormare), Deputy Chief Hardy (Nick Offerman) puts the duo back on the program to work for Captain Dickson (Ice Cube) - now located across the street at 22 Jump Street. Their assignment is to go undercover as college students and locate the supplier of a drug known as \"WHYPHY\" (WiFi) that killed a student photographed buying it on campus.At college, Jenko quickly makes friends with a pair of jocks named Zook (Wyatt Russell) and Rooster (Jimmy Tatro), the latter being a prime suspect of the investigation. Jenko starts attending parties with the jocks who do not take as kindly to Schmidt. Meanwhile, Schmidt gets the attention of an art student, Maya (Amber Stevens), by feigning an interest in slam poetry. The two sleep together, to the disapproval of Maya's roommate Mercedes (Jillian Bell), and it is revealed that Maya is the daughter of the vehemently disapproving Captain Dickson. Despite sleeping together, Maya tells Schmidt not to take it seriously, and he starts to feel left out as Jenko bonds more and more with Zook who encourages him to join the football team.Schmidt and Jenko visit Mr. Walters (Rob Riggle) and Eric (Dave Franco) in jail for advice on how to look for the WHYPHY supplier. Walters notices a unique tattoo on the arm of the dealer in the photograph and insists that if they find the tattoo, they will have found their man. Whilst hanging out with Zook and Rooster, Jenko notices that Rooster does not have the tattoo but sees it on Zook's arm. Schmidt and Jenko are invited to join the fraternity led by the jocks but Schmidt refuses, furthering the tension between the two. At a counselling session, they realise that perhaps Zook was buying the drugs rather than selling them, and soon after find Ghost and his men on campus. A chase ensues and Ghost again evades the pair. Jenko reveals to Schmidt that he's been offered a football scholarship with Zook and is unsure whether or not he wants to continue to be a police officer. Schmidt decides for him by telling officers on the scene that Jenko had nothing to do with the melee caused by the chase. Immediately afterwards, Schmidt moves out of the dorm and Maya finds out who he really is.Spring Break arrives and Schmidt prepares to go after Ghost alone. Jenko asks to help so that the two can have one final mission together, and the pair head to the beach where Ghost is likely to be dealing WHYPHY. Inside a bar, they find Mercedes, revealed to be Ghost's daughter, giving instructions to other dealers. The pair, backed up by Dickson, ambush the meeting and give chase as they flee. Mercedes is able to handcuff Dickson and take him hostage, pursued by Schmidt. Meanwhile, Jenko goes after Ghost. After a fist fight with Mercedes, Schmidt is held at gunpoint by her but Maya sneaks up and knocks her out. Schmidt goes to help Jenko who is now on the roof of the college in pursuit of Ghost, who shoots Jenko in the shoulder. Ghost attempts to escape in a helicopter and Jenko jumps across to it but struggles to hold on with his injured arm. Schmidt makes the same jump and the two fall into the sea, but not before Jenko is able to throw a grenade into the helicopter, killing Ghost.Back on land, Jenko tells Schmidt that he still wants to be a police officer as he believes their differences help their partnership, and the two reconcile in front of a cheering crowd. Dickson approaches them claiming to have a new mission undercover at a med school. During the credits, a series of mock sequels and vignettes are shown depicting the two going undercover in various places.",
+  "imdb_score": 7
+}

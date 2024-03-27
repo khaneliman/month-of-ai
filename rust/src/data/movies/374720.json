@@ -1,0 +1,329 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/ddIkmH3TpR6XSc47jj0BrGK5Rbz.jpg",
+  "id": 374720,
+  "title": "Dunkirk",
+  "poster_path": "https://image.tmdb.org/t/p/w500/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+  "release_date": "2017-07-19",
+  "vote_average": 7.455,
+  "vote_count": 15777,
+  "popularity": 46.47,
+  "overview": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
+  "imdb_id": "tt5013056",
+  "budget": 150000000,
+  "homepage": "http://www.dunkirkmovie.com/",
+  "revenue": 527000000,
+  "runtime": 107,
+  "tagline": "When 400,000 men couldn't get home, home came for them.",
+  "genres": [
+    "War",
+    "Action",
+    "Drama"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "Syncopy",
+    "RatPac Entertainment",
+    "Dombey Street Productions",
+    "Kaap Holland Film",
+    "StudioCanal",
+    "Canal+",
+    "Ciné+"
+  ],
+  "production_countries": [
+    "FR",
+    "NL",
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Fionn Whitehead",
+        "character": "Tommy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gnZoQVp29ozHoMU8HysueZtmXs8.jpg"
+      },
+      {
+        "name": "Tom Hardy",
+        "character": "Farrier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg"
+      },
+      {
+        "name": "Mark Rylance",
+        "character": "Mr. Dawson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bztEZRyXrvW3Pg1fexNASXlZrq7.jpg"
+      },
+      {
+        "name": "Kenneth Branagh",
+        "character": "Commander Bolton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+      },
+      {
+        "name": "Cillian Murphy",
+        "character": "Shivering Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+      },
+      {
+        "name": "Barry Keoghan",
+        "character": "George",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ngoitknM6hw8fffLywyvjzy6Iti.jpg"
+      },
+      {
+        "name": "Harry Styles",
+        "character": "Alex",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l4sBFHHKlfrHDFxyupoXYPPAb4j.jpg"
+      },
+      {
+        "name": "Aneurin Barnard",
+        "character": "Gibson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aiuFLvyaxmuglNi3nfQ3oL9qW97.jpg"
+      },
+      {
+        "name": "Damien Bonnard",
+        "character": "French Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cN9L9PWztvkhvkAllldc3j07HtC.jpg"
+      },
+      {
+        "name": "Lee Armstrong",
+        "character": "Grenadier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Amwo3wNm5keL3l61WF8ccSlVPW0.jpg"
+      },
+      {
+        "name": "James Bloor",
+        "character": "Irate Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1qAFpwH5FwNw4HWecGpUevsVDDx.jpg"
+      },
+      {
+        "name": "Tom Glynn-Carney",
+        "character": "Peter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jJ3KqUW8ySGBwHXOCN3x2Wxjm5W.jpg"
+      },
+      {
+        "name": "Jack Lowden",
+        "character": "Collins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5bW2477C2Rc4tCpCjyKFITMXOAt.jpg"
+      },
+      {
+        "name": "Luke Thompson",
+        "character": "Warrant Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eKKcujLskhFUdJYlfojLPsbxpwe.jpg"
+      },
+      {
+        "name": "Michel Biel",
+        "character": "French Soldier 2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ergeo2Drf1L5MkZOve9j2BowKPP.jpg"
+      },
+      {
+        "name": "Constantin Balsan",
+        "character": "French Soldier 3",
+        "profile_path": ""
+      },
+      {
+        "name": "Billy Howle",
+        "character": "Petty Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oThU8PRDz0YvsINvN6YD2qAoKy3.jpg"
+      },
+      {
+        "name": "Mikey Collins",
+        "character": "Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f8SaAAzwAKk7FtxKQEO4CPTpCXa.jpg"
+      },
+      {
+        "name": "Callum Blake",
+        "character": "Stretcher Bearer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/temjdbhndJ9a67vRZZQmNhli1Wk.jpg"
+      },
+      {
+        "name": "Dean Ridge",
+        "character": "Soldier at the Gap",
+        "profile_path": "https://image.tmdb.org/t/p/w185/syRmrq7TAVHCbWkz22MPUJHpyU3.jpg"
+      },
+      {
+        "name": "Bobby Lockwood",
+        "character": "Able Seaman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/umELfjA9r3N6YXwREFvUcXHQJt2.jpg"
+      },
+      {
+        "name": "Will Attenborough",
+        "character": "Second Lieutenant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tdpyPcvWgb2CHkIzaWiFJEochQw.jpg"
+      },
+      {
+        "name": "Tom Nolan",
+        "character": "Lieutenant",
+        "profile_path": ""
+      },
+      {
+        "name": "James D'Arcy",
+        "character": "Colonel Winnant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6CInTvBeLwXLx2id9TgaULaVEO4.jpg"
+      },
+      {
+        "name": "Matthew Marsh",
+        "character": "Rear Admiral",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9NfvGnHBZI4CwyPIOgv8qPMIaAv.jpg"
+      },
+      {
+        "name": "Adam Long",
+        "character": "Sub-Lieutenant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/JrLCaTiJSOdSheB0q7VmgR8jyd.jpg"
+      },
+      {
+        "name": "Miranda Nolan",
+        "character": "Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xzQJpQicKgeFtCqZ1xwr0Rhdf5t.jpg"
+      },
+      {
+        "name": "Bradley Hall",
+        "character": "Sailor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4Hyaaw70gHF0aHLhEgoiLYWOXQU.jpg"
+      },
+      {
+        "name": "Jack Cutmore-Scott",
+        "character": "Lifeboat Soldier 1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hqSKCld4ISWzgfAKfCt8xrGsWxb.jpg"
+      },
+      {
+        "name": "Brett Lorenzini",
+        "character": "Lifeboat Soldier 2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iH9aZuNrwchxsEg8Ck54cz1uNjo.jpg"
+      },
+      {
+        "name": "Michael Fox",
+        "character": "Engineer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rXMf9BWNuIRr5FcFncQz7HPJBOy.jpg"
+      },
+      {
+        "name": "Brian Vernel",
+        "character": "Highlander 1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4soXoVA4Mzp2g0I9hguOvnC6Mk.jpg"
+      },
+      {
+        "name": "Elliott Tittensor",
+        "character": "Highlander 2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mpQkECu7DfcdkkwxVU0W1IRmXHN.jpg"
+      },
+      {
+        "name": "Kevin Guthrie",
+        "character": "Highlander 3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uT6ju0dmnA6GjukgRrbfZPUDMnL.jpg"
+      },
+      {
+        "name": "Harry Richardson",
+        "character": "Private",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eS5GuxYIw7GrYTYhancUPfb2wmT.jpg"
+      },
+      {
+        "name": "Jochum ten Haaf",
+        "character": "Dutch Seaman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1drFR8jaCsJrt74cbOfa626tUrN.jpg"
+      },
+      {
+        "name": "Johnny Gibbon",
+        "character": "Junior Naval Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9c2b6aRgh8lzmZZxJkBH5V6Mt8n.jpg"
+      },
+      {
+        "name": "Richard Sanderson",
+        "character": "Heinkel Spotter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aNMCk0EvLION611uGVOR2U52KCh.jpg"
+      },
+      {
+        "name": "Kim Hartman",
+        "character": "Stewardess",
+        "profile_path": "https://image.tmdb.org/t/p/w185/abwZRQkGSXSS16aP0p8g0ns0muL.jpg"
+      },
+      {
+        "name": "Calam Lynch",
+        "character": "Deal Sailor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Zkz6DF6tW96LYx0DDqxEPIc31P.jpg"
+      },
+      {
+        "name": "Charley Palmer Rothwell",
+        "character": "Corporal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vsum3VF3SyL0BxLbR0BGAkiCcyy.jpg"
+      },
+      {
+        "name": "Tom Gill",
+        "character": "Furious Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uvgqRDqDmmv8nLmhFsLbflPk5oS.jpg"
+      },
+      {
+        "name": "John Nolan",
+        "character": "Blind Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/deEcF1B2s5oiV36HFBPlswbLoqp.jpg"
+      },
+      {
+        "name": "Bill Milner",
+        "character": "Lone Private",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bLgmpSFgEiSFNshqmdl3EIZkRZm.jpg"
+      },
+      {
+        "name": "Jack Riddiford",
+        "character": "Soldier on RN Launch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3GprRetu86xwmpyaezrUhUXEAgF.jpg"
+      },
+      {
+        "name": "Harry Collett",
+        "character": "Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f7IHEisWZxSW82tzXuGW4GMubyw.jpg"
+      },
+      {
+        "name": "Eric Richard",
+        "character": "Man at Railway Window",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k7IYhJIBjlLtz5wn77GWvBY3iQm.jpg"
+      },
+      {
+        "name": "Michael Caine",
+        "character": "Voice on Radio (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hZruclwEPCKw3e83rnFSIH5sRFZ.jpg"
+      },
+      {
+        "name": "Johnny Otto",
+        "character": "Captain Marshall (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i5LOfr6GLH6hvBdCoMyKY457IQZ.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Christopher Nolan",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "army",
+    "beach",
+    "france",
+    "allies",
+    "military officer",
+    "world war ii",
+    "evacuation",
+    "pilot",
+    "british army",
+    "rescue mission",
+    "europe",
+    "based on true story",
+    "royal navy",
+    "survival",
+    "historical fiction",
+    "soldier",
+    "private",
+    "military",
+    "dunkirk",
+    "1940s",
+    "royal air force",
+    "raf"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Allied soldiers from Belgium, the British Commonwealth and Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.",
+    "May/June 1940. Four hundred thousand British and French soldiers are holed up in the French port town of Dunkirk. The only way out is via sea, and the Germans have air superiority, bombing the British soldiers and ships without much opposition. The situation looks dire and, in desperation, Britain sends civilian boats in addition to its hard-pressed Navy to try to evacuate the beleaguered forces. This is that story, seen through the eyes of a soldier amongst those trapped forces, two Royal Air Force fighter pilots, and a group of civilians on their boat, part of the evacuation fleet.—grantss",
+    "World War II. The enemy forces have cornered four hundred thousand British and French soldiers on the French coast at Dunkirk. A small number of primarily-French soldiers are guarding the perimeter, where the British and French soldiers are amassed, which is getting increasingly smaller as enemy forces advance. Most of those British and French soldiers are now on the beach waiting for destroyers to come and take them back to Britain. Each of the countries are taking care of their own. The British are leaving first and among those the wounded get first priority despite their taking up seven times the space of the able-bodied soldiers. An issue with Dunkirk is that there is only one dock the destroyers can access, which needs to be protected from the enemy bombs. As such, Churchill, newly elected, has put out a call for civilian watercraft to head to Dunkirk both to transport supplies and to transport soldiers from the beach to the destroyers or back to Britain if at all possible. Within this situation, four general stories are told. In one, Commander Bolton, the top British Naval officer on the ground, knows deep in his heart that the soldiers are largely sitting ducks on the beach as the enemy planes fly over. He knows that the situation is a catch-22 for the British in that they need to bring as many soldiers safely home as possible at the depletion of their military resources, which in turn they need to preserve for the day if, but more likely when, the enemies make their way onto British soil. In the second story, a squadron of three Royal Air Force Spitfires are amongst those limited air resources that are embarking in dog fights with enemy planes, while protecting the soldiers on the ground. In the process, they have to ensure their own safety in order to provide what is needed for the ground soldiers, which includes knowing about things like fuel levels and having enough to make their way back to home base whenever required. In the third story, two soldiers meet on the beach, the two of them knowing that the longer they remain on the beach, the likelier they are not to survive this skirmish. As such, they try to do whatever they need to to make it onto one of those destroyers or any other watercraft making its way back to Britain. However, making it aboard a ship does not necessarily ensure their survival, and in the final story, Mr. Dawson, his young-adult son Peter, and their seventeen-year-old friend George are on Dawson's pleasure craft making its way to Dunkirk to do their part in the war effort, all realizing the dangers involved. They have to decide at each step along the way if they will focus on personal problems or if they will continue on to assist in the war, as was their first priority when they left Britain.—Huggo",
+    "In May 1940, Germany advanced into France, trapping Allied troops on the beaches of Dunkirk. Under air and ground cover from British and French forces, troops were slowly and methodically evacuated from the beach using every serviceable Naval and civilian vessel that could be found. At the end of this heroic mission, three hundred thirty thousand French, British, Belgian, and Dutch soldiers were safely evacuated.—Jwelch5742",
+    "Late May 1940. Already eight months into World War II, Adolf Hitler's formidable army sweeps into Belgium, and then, France is next. As a result, the outnumbered Allied Forces collapse under the sheer volume of the invader, and 400,000 troops find themselves with their backs to the cold North Sea, stranded on the sandy shores of the French coastal town of Dunkirk. Now, with the relentless German Luftwaffe hammering the beach, and with the distance between England and continental Europe just 33.3 kilometres across the Strait of Dover, the massive evacuation operation code-named Operation Dynamo commences, involving hundreds of naval and civilian vessels. As three Royal Air Force Spitfires try to fend off the Nazi attacks and buy some time, the grizzled civilian captain, Mr Dawson, his son, Peter, and his friend, George, struggle to rescue as many soldiers as they can, in a desperate operation that will serve as a pivotal point for the war effort, and become known as the \"Miracle of Dunkirk\".—Nick Riganas"
+  ],
+  "synopsis": "The film alternates between three different periods of time involving separate groups of people, leading up to their encounter at the Channel off the coast of Dunkirk, France. As such, the film follows a non-linear narrative.The opening text reads that, during World War II, the British and French armies have over 400,000 soldiers stranded on Dunkirk as they wait for the miracle of a rescue, or until they die.1. The Mole (One Week)Six British soldiers are walking through the desolate streets of Dunkirk. They are looking through abandoned houses for food, supplies, and water when they are fired at by unseen German soldiers. Five of the men are killed except for one, Tommy (Fionn Whitehead). He escapes the gunfire and makes it to the beach, where thousands of British soldiers line the beaches waiting to be evacuated while a few hundred others of soldiers lay dead, scattered around the beach. Tommy tries to find a spot to relieve himself when he sees a young soldier, Gibson (Aneurin Barnard), burying another soldier in the sand. Tommy goes over to help him.The other soldiers look up as German Stuka Ju.87 dive bomber planes fly overhead and start dropping bombs. Many men are struck and killed or wounded, and Tommy prepares to go down as well, but the bombs miss him.Tommy finds a wounded soldier left for dead. He and Gibson pretend to be medics to carry the soldier on-board the ship tending to the wounded so they can be evacuated. They pass a group of French soldiers trying to get on but are being denied entry under orders. Tommy and Gibson are not allowed onto the boat with the injured soldier they carried, but they manage to hide out by the mole (the concrete structure separating the water) until the next vessel shows up for them. The boat they were attempting to board for is attacked by more German aircraft and sunk, but they save a soldier named Alex (Harry Styles) from being crushed.Meanwhile, Commander Bolton (Kenneth Branagh) of the Royal Navy and Colonel Winnant (James D'Arcy) are standing by the docks to negotiate the rescue and safe return of the soldiers. They opt to use boats to bring them back but determine that the mole is their only viable way to the destroyers.Tommy, Gibson, and Alex all gather on another British Red Cross vessel. They get a little bit of food and water. Alex meets Tommy and notices Gibson walking around looking uneasy. The boat is hit by a torpedo, and water begins to flood the lower decks. As the ship sinks, Gibson gets out of the ship and manages to open the hatch for Tommy, Alex, and a few other men to get out safely. They board a skiff back to the shore.Back on the beach, the surviving British soldiers join up with a small group of Scottish soldiers heading to a boat within the tide. The British soldiers hide in there, but since they are technically on German land, they soon get hit by bullets from German soldiers using the boat as target practice. The bullet holes start to leak in water. Alex suggests they throw Gibson out to lighten the boat, going so far as to accuse him of being a German spy since he hasn't spoken the whole time, possibly to disguise his accent. Speaking for the first time, Gibson reveals himself to be French and that he took the uniform and tags off another soldier (the one he was burying) so he can be evacuated. The boat floats out of Dunkirk but soon starts sinking. The soldiers make it out, except for Gibson, who gets caught on something and drowns.2. The Sea (One Day)The Royal Navy starts taking over private boats in an effort to rescue the soldiers stranded at Dunkirk. A mariner named Mr. Dawson (Mark Rylance) takes his own ship with his teenage son Peter (Tom Glyne-Carney) as opposed to allowing naval officers to commandeer it themselves. The two are joined by their young helper George (Barry Keoghan), who assures Mr. Dawson that he can be of good use to them.The boat passes a sunken British ship. They find a shell-shocked soldier (Cillian Murphy) in the water. Mr. Dawson asks his name, but the soldier is silent. George tries tending to him with some tea, but the soldier knocks it out of his hand. When the soldier learns from Mr. Dawson that they are headed to Dunkirk, the soldier desperately tries to take control of the boat from Mr. Dawson. The ensuing struggle leads to George falling to the bottom of the boat and hitting his head hard. Peter goes to tend to his wounds, while the soldier stops and sits quietly. George gradually starts to lose his eyesight. Peter tells his father, but Mr. Dawson says they have come too far to turn back for help.3. The Air (One Hour)Three Spitfire pilots fly over the sea to provide air support to the troops. The squadron leader, plus pilots Farrier (Tom Hardy) and Collins (Jack Lowden), spot ME 109 German fighter planes in the sky and go after them. One of the Germans shoots down the squadron leader, leaving Farrier and Collins on their own. Farrier's fuel gauge is broken, so he does his best to preserve fuel and take the enemy plane down.Collins' plane is shot down, and he heads down to the water. He tries to break himself free from his cockpit, but with the cockpit jammed and flooding with water, he nearly drowns. Collins is broken out by Peter, as his father's boat has managed to reach him in time. They bring Collins on-board. From his later conversation with Mr. Dawson, we learn that Peter's older brother was an RAF pilot who died in the early weeks of the war.By this point, all groups come together on the waters.More private British boats show up on the waters to rescue the soldiers. The soldiers spot a minesweeper and head toward it until it is hit by one of the German bombers. The water fills with oil as the soldiers swim past it and get covered in it before it is ignited, killing several men. Farrier manages to shoot down the attacking German Do.17 bomber as he runs out of fuel and heads toward the beach to make a safe landing. Meanwhile, Peter, Collins, and the shivering soldier pull as many men onto the boat as they can, including Alex and Tommy. Alex points out to the Dawsons that George is dead. The nameless shell-shocked soldier, unaware that George has died, asks Peter if George will be okay. Peter lies, saying that he will be.After taking out another German bomber before it can destroy the mole, Farrier lands his plane slowly by the shore. He sets his plane on fire and is soon captured by German soldiers.The Dawsons return home following the rescue. Peter gets a picture of George and takes it to the local paper, so that the boy may be remembered as a hero.Bolton and Winnant mention having saved 338,000 men after only planning to rescue 30,000. Bolton stays to make sure the French can evacuate. He sees Winnant and the last of the British army off.In England, the British soldiers are sent home on a train. Alex thinks that they will be met with scorn upon returning for this defeat. He sees a newspaper with a message from Winston Churchill regarding the evacuation and, unable to handle the scorn, asks Tommy to read it. As Tommy reads it upon entering the station, a man approaches the window and hands Alex two beers. Other people welcome the soldiers back with applause. Tommy finishes reading Churchill's statement, which commends the bravery and efforts of the soldiers and the miraculous escape they just participated in. However, the quote goes on to remind the public that evacuations alone do not win wars but concludes with the vow never to surrender.",
+  "imdb_score": 7.8
+}

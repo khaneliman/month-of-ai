@@ -1,0 +1,326 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/dF6FjTZzRTENfB4R17HDN20jLT2.jpg",
+  "id": 135397,
+  "title": "Jurassic World",
+  "poster_path": "https://image.tmdb.org/t/p/w500/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+  "release_date": "2015-06-06",
+  "vote_average": 6.685,
+  "vote_count": 19712,
+  "popularity": 73.425,
+  "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+  "imdb_id": "tt0369610",
+  "budget": 150000000,
+  "homepage": "http://www.jurassicworld.com/",
+  "revenue": 1671537444,
+  "runtime": 124,
+  "tagline": "The park is open.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Amblin Entertainment",
+    "Universal Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Chris Pratt",
+        "character": "Owen Grady",
+        "profile_path": "https://image.tmdb.org/t/p/w185/83o3koL82jt30EJ0rz4Bnzrt2dd.jpg"
+      },
+      {
+        "name": "Bryce Dallas Howard",
+        "character": "Claire Dearing",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p7W0E5J6FpTMODxOOFbwsdxOPml.jpg"
+      },
+      {
+        "name": "Ty Simpkins",
+        "character": "Gray Mitchell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/38QMrTUxckeZLRoaYu1hiHjvs1o.jpg"
+      },
+      {
+        "name": "Nick Robinson",
+        "character": "Zach Mitchell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mzYszYVPvTdirjkUueziWUHvye7.jpg"
+      },
+      {
+        "name": "Vincent D'Onofrio",
+        "character": "Vic Hoskins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg"
+      },
+      {
+        "name": "BD Wong",
+        "character": "Dr. Henry Wu",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg"
+      },
+      {
+        "name": "Omar Sy",
+        "character": "Barry Sembène",
+        "profile_path": "https://image.tmdb.org/t/p/w185/laNZay6AfEzvEvY1NUH9UFiSD0a.jpg"
+      },
+      {
+        "name": "Jake Johnson",
+        "character": "Lowery Cruthers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cRguohxju2P3dyfNSsIJjCkpOiV.jpg"
+      },
+      {
+        "name": "Irrfan Khan",
+        "character": "Simon Masrani",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg"
+      },
+      {
+        "name": "Judy Greer",
+        "character": "Karen Mitchell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qiwvGgbbgwiE8gA4oBQpFnTNzl2.jpg"
+      },
+      {
+        "name": "Lauren Lapkus",
+        "character": "Vivian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zevTufkY38eRvWPslh5c1azdhQN.jpg"
+      },
+      {
+        "name": "Brian Tee",
+        "character": "Hamada",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aTouFlcx3enc2AfP4caKr3Rv8gi.jpg"
+      },
+      {
+        "name": "Katie McGrath",
+        "character": "Zara Young",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cq9pc7qFRUKCrkXgsi5mJkb64U5.jpg"
+      },
+      {
+        "name": "Andy Buckley",
+        "character": "Scott Mitchell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/urkCCe0bizypCkQ9bZhFhDzvskE.jpg"
+      },
+      {
+        "name": "Eric Edelstein",
+        "character": "Paddock Supervisor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d1ng4kzNijFQ8DSQWeU5P6XDgmA.jpg"
+      },
+      {
+        "name": "Courtney J. Clark",
+        "character": "Mosasaurus Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/31BikC8xEucbdaD5aqg80Lve1Qb.jpg"
+      },
+      {
+        "name": "Colby Boothman",
+        "character": "Young Raptor Handler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xS8gSCtpXv9rGm7dQXSvQsS0XR2.jpg"
+      },
+      {
+        "name": "Jimmy Fallon",
+        "character": "Jimmy Fallon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fHrPNc8fCbnd1vALo0S38E2E51N.jpg"
+      },
+      {
+        "name": "James DuMont",
+        "character": "Hal Osterly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8DLNFj3a4SJWdtw5daPBQm0qrOO.jpg"
+      },
+      {
+        "name": "Matt Burke",
+        "character": "Jim Drucker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AhpwRqmD9IHnlJbQyC5mBouUk0U.jpg"
+      },
+      {
+        "name": "Anna Talakkottur",
+        "character": "Erica Brand",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wgXc8QdRUgRW4lhIJEkP1y4Cr6H.jpg"
+      },
+      {
+        "name": "Matthew Cardarople",
+        "character": "Gyrosphere Operator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xhKO4iMPnwQS1GeDiY8vOyLFa8x.jpg"
+      },
+      {
+        "name": "Michael Papajohn",
+        "character": "InGen Contractor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hdTJBfIXfvRdlD1p8y6rra207UP.jpg"
+      },
+      {
+        "name": "William Gary Smith",
+        "character": "Park Ranger",
+        "profile_path": ""
+      },
+      {
+        "name": "Kelly Washington",
+        "character": "Zach's Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qMbKj9oNK68RyoFCd11k7JNGdFt.jpg"
+      },
+      {
+        "name": "Isaac Keys",
+        "character": "Control Room Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6t8QJG7rai1iTyjkxUrzOmsGIGu.jpg"
+      },
+      {
+        "name": "Patrick Crowley",
+        "character": "Flight Instructor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Ozt8XjQmVaKOqEaEUi0m32JjOp.jpg"
+      },
+      {
+        "name": "Chad Randall",
+        "character": "InGen Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fQwtV3TbWW8dGwflMWngwq4TUMZ.jpg"
+      },
+      {
+        "name": "Gary Weeks",
+        "character": "Father of Three",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n4taftpteF6qUTeYRDkdGPHC58.jpg"
+      },
+      {
+        "name": "Bill Ogilvie",
+        "character": "Spanish Parkgoer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/njHFCXhwnrIoI0RWHkO4tC6qqqC.jpg"
+      },
+      {
+        "name": "Allan Tam",
+        "character": "Chinese Parkgoer",
+        "profile_path": ""
+      },
+      {
+        "name": "Yvonne Angulo",
+        "character": "Italian Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uYP3LMPbRpoQ76kw8ZVt6DtZYs6.jpg"
+      },
+      {
+        "name": "Chloe Perrin",
+        "character": "Italian Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9uAu8larIWM8reoUw4qyXRKNJws.jpg"
+      },
+      {
+        "name": "Timothy Eulich",
+        "character": "ACU Trooper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xIfRmiBGtWogkRYAjbgIX7i4cuv.jpg"
+      },
+      {
+        "name": "Kevin Foster",
+        "character": "ACU Gunner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x2HRAzaFtIPUnuuX4GjOukyg0O5.jpg"
+      },
+      {
+        "name": "Bonnie Wild",
+        "character": "Park Announcer (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/idPtIhDGE9IZ6w6ZTsKOIWZ0wKC.jpg"
+      },
+      {
+        "name": "Brad Bird",
+        "character": "Monorail Announcer (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ZX1hAfWK1zslpB6ifwgDP2uBqn.jpg"
+      },
+      {
+        "name": "Colin Trevorrow",
+        "character": "Mr. DNA (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i0HBClPMPKn3aq8QeQqyThS67EK.jpg"
+      },
+      {
+        "name": "Justin Lacalamita",
+        "character": "Sheriff (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tiffany Forest",
+        "character": "Park Visitor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A1YCddo0DoTGlH8K76S5wiyKMLU.jpg"
+      },
+      {
+        "name": "Arlene Newman",
+        "character": "Woman with Baby (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gY5HiCtmSYTSPLCyuA3KGBA1f1e.jpg"
+      },
+      {
+        "name": "Tait Fletcher",
+        "character": "InGen Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zAVsHT2GBLPaQ4RpTopnHvIrCbv.jpg"
+      },
+      {
+        "name": "Jimmy Buffett",
+        "character": "Park Visitor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/FJFdL1O3qzSOrdERFrCdimdXvz.jpg"
+      },
+      {
+        "name": "Tim Connolly",
+        "character": "InGen Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h9QAyc5esNHzn2lWUvLozD1LAnx.jpg"
+      },
+      {
+        "name": "Johnny Otto",
+        "character": "Biologist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i5LOfr6GLH6hvBdCoMyKY457IQZ.jpg"
+      },
+      {
+        "name": "Erika Erica",
+        "character": "Park Visitor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6LGdHp8xcP8gVjnT1xdQUVdCMtC.jpg"
+      },
+      {
+        "name": "Brandon Marc Higa",
+        "character": "Petting Zoo Staff (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/twxN95fHJQzJdP8foLPKq4PXTrc.jpg"
+      },
+      {
+        "name": "Martin Klebba",
+        "character": "Staff Field (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/schnhMaXtfv5EC7EJODTgMcfzPe.jpg"
+      },
+      {
+        "name": "Eddie J. Fernandez",
+        "character": "Paddock Worker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wA9CnODxcaiLTrTnZ8wnlPIeW1R.jpg"
+      },
+      {
+        "name": "Rob Fuller",
+        "character": "InGen Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9U53sBWp1nUADI82NzGtIX3Slz8.jpg"
+      },
+      {
+        "name": "Julia Holt",
+        "character": "Park Visitor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3saskdbIbRdliTQyuSBrOzeN6Dv.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Colin Trevorrow",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i0HBClPMPKn3aq8QeQqyThS67EK.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "island",
+    "primal fear",
+    "escape",
+    "velociraptor",
+    "dna",
+    "tyrannosaurus rex",
+    "animal attack",
+    "sequel",
+    "dinosaur",
+    "creature",
+    "park",
+    "amusement park",
+    "theme park",
+    "genetic engineering",
+    "raptor",
+    "animal horror",
+    "mosasaurus"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, the Indominus Rex, which escapes containment and goes on a killing spree.",
+    "Twenty-two years after the original Jurassic Park failed, the new park, also known as Jurassic World, is open for business. After years of studying genetics, the scientists on the park genetically engineer a new breed of dinosaur, the Indominus rex. When everything goes horribly wrong, will our heroes make it off the island?—ahmetkozan",
+    "Jurassic World has been running with great success for more than a decade in the wake of the disaster that haunted the island twenty-two years ago. The park's geneticists have once again broken scientific and ethical boundaries in order to raise attendance for the park, now experiencing a decline in happy customers. Convinced that the new attraction will bring in many more people, but having crossed the line once again, the results may be devastating.—Ed Morales",
+    "Twenty-two years after John Hammond envisioned a theme park full of dinosaurs, Jurassic World in Isla Nublar now features a fully functioning dinosaur theme park. Although it is everything he originally hoped it would be, after ten years of operation and visitor rates declining, InGen scientists genetically engineer a new hybrid \"attraction\", the Indominus rex, to re-spark visitors' interest. When their new creation turns on them, will anyone get out alive?—Mario Saltalamacchia",
+    "Jurassic World, InGen's safe and fully operational prehistoric theme park, is under new management: no matter what, they are determined to fulfill the late John Hammond's ambitious dream in Jurassic Park (1993) and become an idyllic destination. So, to jolt public interest, the genetically engineered Indominus rex dinosaur is now the park's latest profit-making attraction. Sadly, history repeats itself. When the unmanageable beast breaks loose, it's up to seasoned Velociraptor wrangler Owen to avert the impending bloody catastrophe, along with the park's operations manager Claire and her two nephews. But they are all trapped in a hostile environment where savage predators rule. Will InGen's people never learn?—Nick Riganas"
+  ],
+  "synopsis": "Brothers Zach (Nick Robinson) and Gray Mitchell (Ty Simpkins) visit Jurassic World, a dinosaur theme park on Isla Nublar, of which their aunt Claire Dearing (Bryce Dallas Howard) is the operations manager. Claire assigns her assistant Zara (Katie McGrath) as the boys' guide, but they evade her and explore on their own.Elsewhere on the island, former Navy veteran and ethologist Owen Grady (Chris Pratt) has been training a quartet of Velociraptors composed of Blue, Delta, Echo, and Charlie, and researching their intelligence. Based on the raptors' ability to follow commands, head of InGen security Vic Hoskins (Vincent D'Onofrio) believes that the animals can be weaponized, an idea Owen and his assistant Barry (Omar Sy) vehemently oppose.Prior to its opening, Claire and park owner Simon Masrani (Irrfan Khan) inspect the park's newest attraction, the Indominus Rex, a transgenic dinosaur created by geneticist Dr. Henry Wu (BD Wong). Masrani tasks Owen with evaluating the enclosure's security. Owen warns Claire that the Indominus lacks social skills, making it dangerous and unpredictable. When the Indominus has apparently escaped, Owen and two park workers enter the enclosure. The Indominus, which can camouflage itself and mask its heat signature, suddenly appears. Owen survives, but it devours the other two men before escaping into the island's interior. Realizing that it is highly vicious and intelligent, Owen advises Masrani to have the Indominus destroyed but to protect his company's investment, Masrani dispatches a specialized unit to subdue it with non-lethal weaponry, so it can safely be returned to its paddock. After most of the unit is slaughtered, Claire orders the evacuation of the island's northern sector, while Masrani ponders Owen's warning and confronts Wu.While exploring the park in a tour vehicle, Zach and Gray enter a restricted area. The Indominus arrives and destroys the vehicle but the boys narrowly escape. They find the ruins of the original Jurassic Park visitor center, repair an old Jeep Wrangler, and drive back to the park resort.As Claire and Owen search for the boys, they barely escape the Indominus as well. Masrani and two troopers hunt down the Indominus by helicopter, but it breaks into the park's aviary. The aviary's pterosaurs crash Masrani's helicopter, killing its passengers, before converging onto the resort, and attacking everyone, including Zara who is then devoured by a Mosasaurus. Gray and Zach find Owen and Claire at the resort as armed personnel shoot down the pterosaurs.Assuming command, Hoskins orders the raptors to be used to track the Indominus, where Owen reluctantly complies and spearheads the assault with the raptors. Upon finding the Indominus, the dinosaurs begin communicating among themselves. Owen realizes that the Indominus has Velociraptor DNA and it takes away Owen's command of the raptors, becoming the pack's new alpha. Troops fire on the Indominus, but it escapes. The raptors kill most of the troops, while Charlie is killed in the chaos. Hoskins evacuates Wu and the dinosaur embryos from the island to protect Wu's research. Owen, Claire, and the boys find Hoskins at the lab securing more embryos, but Delta breaks in and kills him.Owen re-establishes his bond with the three surviving raptors before the Indominus reappears. They attack the hybrid, but Delta and Echo are killed while Blue is knocked unconscious. Claire releases the Tyrannosaurus Rex, the park's veteran attraction, from its paddock and lures it into a battle with the Indominus. The Indominus quickly gains the advantage over the Tyrannosaurus until Blue recovers and joins the battle. The duo overpower the Indominus until it gets cornered at the lagoon's edge, where it is dragged underwater by the Mosasaurus.The survivors are evacuated and the island is abandoned once again. Zach and Gray are reunited with their parents, while Owen and Claire decide to stay together. Back on the now-abandoned Isla Nublar, the Tyrannosaurus goes up to the helicopter landing pad and roars in victory, reestablishing her dominance as Queen of the Island.",
+  "imdb_score": 6.9
+}

@@ -1,0 +1,393 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/iXlHfi9hq7nfSv31pBab8fpMfZh.jpg",
+  "id": 10830,
+  "title": "Matilda",
+  "poster_path": "https://image.tmdb.org/t/p/w500/wnLbqoGRGdnPNjMV6rY75wgRamd.jpg",
+  "release_date": "1996-08-02",
+  "vote_average": 7.151,
+  "vote_count": 4155,
+  "popularity": 51.523,
+  "overview": "An extraordinarily intelligent young girl from a cruel and uncaring family discovers she possesses telekinetic powers and is sent off to a school headed by a tyrannical principal.",
+  "imdb_id": "tt0117008",
+  "budget": 36000000,
+  "homepage": "",
+  "revenue": 33500000,
+  "runtime": 98,
+  "tagline": "A little magic goes a long way.",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Jersey Films",
+    "TriStar Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Mara Wilson",
+        "character": "Matilda Wormwood",
+        "profile_path": "https://image.tmdb.org/t/p/w185/twOrYpIdB2Hd2RZ7VG13Jpq91Fq.jpg"
+      },
+      {
+        "name": "Danny DeVito",
+        "character": "Harry Wormwood / Narrator (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gNHF2SNXFFCRqwIQ2Xv6r6aV6UD.jpg"
+      },
+      {
+        "name": "Rhea Perlman",
+        "character": "Zinnia Wormwood",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3kUrd75OesnsmicI15dWdswHy7T.jpg"
+      },
+      {
+        "name": "Embeth Davidtz",
+        "character": "Miss Honey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nwsdu9lOsKJ5v9RwOCc7kAiuxSO.jpg"
+      },
+      {
+        "name": "Pam Ferris",
+        "character": "Agatha Trunchbull",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aVvdYkgolh22FYqqCJhVO8jd7To.jpg"
+      },
+      {
+        "name": "Paul Reubens",
+        "character": "FBI Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9xGL3pGNAiZDtzKTVDQY90Mkyqs.jpg"
+      },
+      {
+        "name": "Tracey Walter",
+        "character": "FBI Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/brqhinzxGKzqfAhOq6Npi3GFVWW.jpg"
+      },
+      {
+        "name": "Jean Speegle Howard",
+        "character": "Miss Phelps",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y4KfUoxGaAc5Yn9P5cPbsQz6cla.jpg"
+      },
+      {
+        "name": "Brian Levinson",
+        "character": "Michael Wormwood",
+        "profile_path": "https://image.tmdb.org/t/p/w185/niLTXFdEw7pxEZAdS1tqaaVcpm.jpg"
+      },
+      {
+        "name": "Sara Magdalin",
+        "character": "Four-Year-Old Matilda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fzzNA869FZwASYDzalAITxTI8aJ.jpg"
+      },
+      {
+        "name": "R.D. Robb",
+        "character": "Roy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uJXzvWjDxUW2nFDRUFDI0YDMBe.jpg"
+      },
+      {
+        "name": "Gregory R. Goliath",
+        "character": "Luther",
+        "profile_path": ""
+      },
+      {
+        "name": "Fred Parnes",
+        "character": "Waiter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r6ktFPpHuYBKb2oWqIKoJ6QtgSK.jpg"
+      },
+      {
+        "name": "Kiami Davael",
+        "character": "Lavender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1FN1pat2wE6NmKYcgMDKhSy8NeS.jpg"
+      },
+      {
+        "name": "Leor Livneh Hackel",
+        "character": "Julius Rottwinkle",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacqueline Steiger",
+        "character": "Amanda Thripp",
+        "profile_path": "https://image.tmdb.org/t/p/w185/PFBrIzSpnjyYfrDeQ8fbuacFZ0.jpg"
+      },
+      {
+        "name": "Jimmy Karz",
+        "character": "Bruce Bogtrotter",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Valentine",
+        "character": "Nigel HIcks",
+        "profile_path": ""
+      },
+      {
+        "name": "Liam Kearns",
+        "character": "Charles",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Watson",
+        "character": "Magnus",
+        "profile_path": ""
+      },
+      {
+        "name": "Kira Spencer Hesser",
+        "character": "Hortensia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aV7Gzq6oBKG5FEpRaE4s9BzhIAW.jpg"
+      },
+      {
+        "name": "J.C. Alexander",
+        "character": "Nearby Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Malone Brinton",
+        "character": "Older Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Marion Dugan",
+        "character": "Cookie",
+        "profile_path": ""
+      },
+      {
+        "name": "Joshua Alvarez",
+        "character": "Child at Assembly",
+        "profile_path": ""
+      },
+      {
+        "name": "Max E. Blum",
+        "character": "Child at Assembly",
+        "profile_path": ""
+      },
+      {
+        "name": "Erin M. Gray",
+        "character": "Child at Assembly",
+        "profile_path": ""
+      },
+      {
+        "name": "Misty L. Oppenheim",
+        "character": "Child in Assembly",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Shepard Hughes",
+        "character": "Child in Assembly",
+        "profile_path": ""
+      },
+      {
+        "name": "Rachel Snow",
+        "character": "Child in Assembly",
+        "profile_path": ""
+      },
+      {
+        "name": "Craig Lamar Traylor",
+        "character": "Child in Classroom",
+        "profile_path": ""
+      },
+      {
+        "name": "Jennifer Key",
+        "character": "Child in Classroom",
+        "profile_path": ""
+      },
+      {
+        "name": "Marty Bautista",
+        "character": "Child in Classroom",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Hernandez",
+        "character": "Child in Classroom",
+        "profile_path": ""
+      },
+      {
+        "name": "Raina Cease",
+        "character": "Child in Classroom",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Osser",
+        "character": "Child in Classroom",
+        "profile_path": ""
+      },
+      {
+        "name": "Vinnie Buffolino",
+        "character": "Child in Classroom",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcella Sassano",
+        "character": "Child in Classroom",
+        "profile_path": ""
+      },
+      {
+        "name": "Johnny Thomas III",
+        "character": "Child in Classroom",
+        "profile_path": ""
+      },
+      {
+        "name": "Shannon Hughes",
+        "character": "Child in Classroom",
+        "profile_path": ""
+      },
+      {
+        "name": "Christel Khalil",
+        "character": "Child in Classroom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9xlNl80RbPmsdlxCiKZBVf4lxvP.jpg"
+      },
+      {
+        "name": "Cassie Colaw",
+        "character": "Child in Classroom",
+        "profile_path": ""
+      },
+      {
+        "name": "Austin Stout",
+        "character": "Child in Classroom",
+        "profile_path": ""
+      },
+      {
+        "name": "Cindy Tran",
+        "character": "Child in Classroom",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Feyer",
+        "character": "Child in Classroom",
+        "profile_path": ""
+      },
+      {
+        "name": "Alissa Graham",
+        "character": "Newborn Matilda",
+        "profile_path": ""
+      },
+      {
+        "name": "Amanda Graham",
+        "character": "Newborn Matilda",
+        "profile_path": ""
+      },
+      {
+        "name": "Trevor Gallagher",
+        "character": "Newborn Matilda",
+        "profile_path": ""
+      },
+      {
+        "name": "James Gallagher",
+        "character": "Newborn Matilda",
+        "profile_path": ""
+      },
+      {
+        "name": "Kayla Fredericks",
+        "character": "Nine-Months Old Matilda",
+        "profile_path": ""
+      },
+      {
+        "name": "Kelsey Fredericks",
+        "character": "Nine-Months Old Matilda",
+        "profile_path": ""
+      },
+      {
+        "name": "Amanda Fein",
+        "character": "Toddler Matilda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zHbrLPpTsinely9Y8r02EO9NmBu.jpg"
+      },
+      {
+        "name": "Caitlin Fein",
+        "character": "Toddler Matilda",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicholas Cox",
+        "character": "Six-Year-Old Michael",
+        "profile_path": ""
+      },
+      {
+        "name": "Amanda Summers",
+        "character": "Two-Year-Old Miss Honey",
+        "profile_path": ""
+      },
+      {
+        "name": "Kristin Summers",
+        "character": "Two-Year-Old Miss Honey",
+        "profile_path": ""
+      },
+      {
+        "name": "Phoebe Garcia-Pearl",
+        "character": "Five-Year-Old Miss Honey",
+        "profile_path": ""
+      },
+      {
+        "name": "Kathy Barbour",
+        "character": "Million $ Sticky Showgirl",
+        "profile_path": ""
+      },
+      {
+        "name": "Donna Spangler",
+        "character": "Million $ Sticky Showgirl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2IaI9mH3YfgatiRKbJbPMKyaZN.jpg"
+      },
+      {
+        "name": "Marianne Curan",
+        "character": "Million $ Sticky Contestant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/umzvK9nemeJy22Ls4LtPUjQzaER.jpg"
+      },
+      {
+        "name": "Penny Holland",
+        "character": "Million $ Sticky Contestant",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard E. Coe",
+        "character": "Million $ Sticky Contestant",
+        "profile_path": ""
+      },
+      {
+        "name": "Sabrina Bryan",
+        "character": "Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/riXHjz6swlU0FMA7aXqbJh68g2u.jpg"
+      },
+      {
+        "name": "Trevor Coppola",
+        "character": "Restaurant Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kCi4CFwnCv6pQSfCRYKXFqBUpzb.jpg"
+      },
+      {
+        "name": "Simon Jones",
+        "character": "Shellhammer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lTTlSgTfbvI27hP4og8BZMUJWMh.jpg"
+      },
+      {
+        "name": "Jon Lovitz",
+        "character": "Million $ Sticky Host (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jBXSLoDEVwYkNqSVWHV9yDo8whA.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Danny DeVito",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gNHF2SNXFFCRqwIQ2Xv6r6aV6UD.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "based on novel or book",
+    "parent child relationship",
+    "difficult childhood",
+    "child prodigy",
+    "childhood trauma",
+    "telekinesis",
+    "school",
+    "teacher student relationship",
+    "schoolmarm",
+    "based on young adult novel"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "A girl gifted with a keen intellect and psychic powers uses both to deal with her crude, distant family and free her kind teacher from their sadistic headmistress.",
+    "Matilda Wormwood is an exquisite and intelligent little girl. Unfortunately, her parents, Harry and Zinnia misunderstand her because they think she is so different. As time passes, she finally starts school and has a kind teacher, loyal friends, and a sadistic headmistress. As she gets fed up with the constant cruelty, she begins to realize that she has a gift of telekinetic powers. After some days of practice, she suddenly turns the tables to stand up to Harry and Zinnia and outwit the headmistress.—Blazer346",
+    "Sweet and bright little Matilda Wormwood, a child of wondrous intelligence, is different from the rest of her family. Misunderstood by everyone and ignored at home, she escapes into a world of reading, honing her skills, and exercising her mind so much that she develops telekinetic powers. When she is sent off to the Crunchem Hall Elementary School headed by the cruel, hulking headmistress, Miss Agatha Trunchbull, Matilda needs all the help she can get. But amid darkness, Matilda finds a single light in warm-hearted Miss Jennifer Honey, her first-grade teacher, who recognizes her remarkable skills--including a very distinctive talent that allows her to turn the tables on the wicked adults in her world. Will they ever see how extraordinary she is?—Nick Riganas",
+    "A young female who is part of a mean family is allowed to attend a school. Instantly, she becomes friends with her peers and her teacher, who has a horrific past with the principal, who is viciously mean and treats children in an awful and terrible way.—RECB3",
+    "A grouchy couple named Harry and Zinnia Wormwood are parents to a very sweet 6-year-old daughter named Matilda. Unlike them and her bratty brother, Michael, she becomes a very sweet and extremely intelligent girl who can't wait to go to school and read books. After a while, Harry and Zinnia send her to the school with the worst headmistress in the world, a very sweet teacher, and good friends. While trying to put up with her parents' and headmistress' cruelty, she starts to unwittingly unleash telekinetic powers, destroying a television and making a newt fly onto the headmistress. With enough practice, she learns to control her telekinetic powers and is soon using them on the headmistress so she can drive her away from the school.—anonomys"
+  ],
+  "synopsis": "",
+  "imdb_score": 7
+}

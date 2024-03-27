@@ -1,0 +1,331 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/nKDvDVSaFFBrQr0NoPiyasEN8Mk.jpg",
+  "id": 131634,
+  "title": "The Hunger Games: Mockingjay - Part 2",
+  "poster_path": "https://image.tmdb.org/t/p/w500/lImKHDfExAulp16grYm8zD5eONE.jpg",
+  "release_date": "2015-11-18",
+  "vote_average": 6.895,
+  "vote_count": 11957,
+  "popularity": 65.114,
+  "overview": "With the nation of Panem in a full scale war, Katniss confronts President Snow in the final showdown. Teamed with a group of her closest friends – including Gale, Finnick, and Peeta – Katniss goes off on a mission with the unit from District 13 as they risk their lives to stage an assassination attempt on President Snow who has become increasingly obsessed with destroying her. The mortal traps, enemies, and moral choices that await Katniss will challenge her more than any arena she faced in The Hunger Games.",
+  "imdb_id": "tt1951266",
+  "budget": 160000000,
+  "homepage": "http://www.thehungergames.movie/",
+  "revenue": 653428261,
+  "runtime": 137,
+  "tagline": "Nothing can prepare you for the end.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Lionsgate",
+    "Color Force",
+    "Studio Babelsberg"
+  ],
+  "production_countries": [
+    "DE",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jennifer Lawrence",
+        "character": "Katniss Everdeen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nSWSc3pAQEw0lPAmAk4d9GFMv6k.jpg"
+      },
+      {
+        "name": "Josh Hutcherson",
+        "character": "Peeta Mellark",
+        "profile_path": "https://image.tmdb.org/t/p/w185/npowygg8rH7uJ4v7rAoDMsHBhNq.jpg"
+      },
+      {
+        "name": "Liam Hemsworth",
+        "character": "Gale Hawthorne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7UIm9RoBnlqS1uLlbElAY8urdWD.jpg"
+      },
+      {
+        "name": "Woody Harrelson",
+        "character": "Haymitch Abernathy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+      },
+      {
+        "name": "Elizabeth Banks",
+        "character": "Effie Trinket",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zrkI1dYucpTM8Qydtrtro9MgQPb.jpg"
+      },
+      {
+        "name": "Julianne Moore",
+        "character": "President Alma Coin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
+      },
+      {
+        "name": "Philip Seymour Hoffman",
+        "character": "Plutarch Heavensbee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+      },
+      {
+        "name": "Jeffrey Wright",
+        "character": "Beetee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yGcuHGW4glqRpOPxgiCvjcren7F.jpg"
+      },
+      {
+        "name": "Stanley Tucci",
+        "character": "Caesar Flickerman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ffKQpQvYczWKFxmbxgaoj68NN4W.jpg"
+      },
+      {
+        "name": "Donald Sutherland",
+        "character": "President Snow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aFzWwROIsrkP7KH85zFNzhaIVzw.jpg"
+      },
+      {
+        "name": "Willow Shields",
+        "character": "Primrose Everdeen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c9Zna579entVQBdx7kTtKJjl9CB.jpg"
+      },
+      {
+        "name": "Sam Claflin",
+        "character": "Finnick Odair",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg"
+      },
+      {
+        "name": "Jena Malone",
+        "character": "Johanna Mason",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1qmkanVCFr3ZaXcxSXVDO8andb0.jpg"
+      },
+      {
+        "name": "Mahershala Ali",
+        "character": "Boggs",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg"
+      },
+      {
+        "name": "Natalie Dormer",
+        "character": "Cressida",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3OlkHjDKDj9NKkFWXfLk7gcb2C.jpg"
+      },
+      {
+        "name": "Wes Chatham",
+        "character": "Castor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lFoUyX8FZs3XvUWWItCm2ezvAEs.jpg"
+      },
+      {
+        "name": "Michelle Forbes",
+        "character": "Lieutenant Jackson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xIBkKMV6DumvheliQvWQEYQWO4W.jpg"
+      },
+      {
+        "name": "Elden Henson",
+        "character": "Pollux",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f4oYBfzNTgZUbp8B15rkmYAzdy5.jpg"
+      },
+      {
+        "name": "Patina Miller",
+        "character": "Commander Paylor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mNYsr2FsjPiFGhzxAOxXJNoYZG5.jpg"
+      },
+      {
+        "name": "Evan Ross",
+        "character": "Messalla",
+        "profile_path": "https://image.tmdb.org/t/p/w185/95rr0S5zC6csxoZdFAvv4Wzo4gg.jpg"
+      },
+      {
+        "name": "Paula Malcomson",
+        "character": "Mrs. Everdeen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9lJy6ze86ZfVcBcyBK9UZq8FJiC.jpg"
+      },
+      {
+        "name": "Eugenie Bondurant",
+        "character": "Tigris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9ULAELEKNha7VCJhRWoer58NcJe.jpg"
+      },
+      {
+        "name": "Sarita Choudhury",
+        "character": "Egeria",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pABEOxQAns54tHpxN2w73b7SiPB.jpg"
+      },
+      {
+        "name": "Stef Dawson",
+        "character": "Annie Cresta",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aZqmCROxhL78kxFRhfY4sefku7h.jpg"
+      },
+      {
+        "name": "Meta Golding",
+        "character": "Enobaria",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d4NdH1UdthLFZfH5CgYjl9Wa8E1.jpg"
+      },
+      {
+        "name": "Omid Abtahi",
+        "character": "Homes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d4Itot5Khq2tIU2KKL3jFGBBACL.jpg"
+      },
+      {
+        "name": "Joe Chrest",
+        "character": "Mitchell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7mcsJGnqRoVPTtxAUZEKt2dZnlw.jpg"
+      },
+      {
+        "name": "Misty Ormiston",
+        "character": "Leeg #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Kim Ormiston",
+        "character": "Leeg #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hTY8SqulWwea7zGtSnoVpvAvM11.jpg"
+      },
+      {
+        "name": "Gwendoline Christie",
+        "character": "Commander Lyme",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kmlv5i02n3zKryBr2W3kSeWVKTD.jpg"
+      },
+      {
+        "name": "Robert Knepper",
+        "character": "Antonius",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w40AttR4OPQvjYyTVanq5Rm5iOb.jpg"
+      },
+      {
+        "name": "Mark Jeffrey Miller",
+        "character": "D4 Officiant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zlrtLb3syoY3kGMxm48yAZxLvCC.jpg"
+      },
+      {
+        "name": "April Grace",
+        "character": "Doctor Aurelius",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nV8nnymN0ClT3xppwhlAtUnjSxa.jpg"
+      },
+      {
+        "name": "David Hallyday",
+        "character": "Greenhouse Guard #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j1LQfp0GEbjF6L9IKx3SXtywon3.jpg"
+      },
+      {
+        "name": "Linds Edwards",
+        "character": "Injured Career",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xCUqvvOWLJ2KZzJ52SRRuuD5uyV.jpg"
+      },
+      {
+        "name": "Thomas Blake Jr.",
+        "character": "Rebel Sniper",
+        "profile_path": ""
+      },
+      {
+        "name": "Cameron MacConomy",
+        "character": "Pugnax",
+        "profile_path": ""
+      },
+      {
+        "name": "Desmond Phillips",
+        "character": "Commander of D5",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xFcvzZkHfZ4Y1qjekfsQF4IrOaX.jpg"
+      },
+      {
+        "name": "Elle Graham",
+        "character": "Girl in Lemon Yellow Coat",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eLsnIfOxENO2JsHCnlrnERdZ9fM.jpg"
+      },
+      {
+        "name": "Lacy Dmitriew",
+        "character": "Rebel Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eC1KUnQemdBJxHE0IbDpOt6lUmn.jpg"
+      },
+      {
+        "name": "Kate Rachesky",
+        "character": "Capitol Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vTDjoDoDkXxhjXmCLtTgw4nu9Wy.jpg"
+      },
+      {
+        "name": "Phillip Troy Linger",
+        "character": "Katniss's Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2u66AE59z9CpGSkP08Y5LnoYWlw.jpg"
+      },
+      {
+        "name": "Bear Lawrence",
+        "character": "Everdeen Child #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fD9slQUyYA9Sgf5Acv1gbTnO1NZ.jpg"
+      },
+      {
+        "name": "Theodore Lawrence",
+        "character": "Everdeen Child #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Toby Jones",
+        "character": "Claudius Templesmith (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1qNisdp4f1KstdfvAgYXMdrhwfk.jpg"
+      },
+      {
+        "name": "Gary Sievers",
+        "character": "District 7 Rebel (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rxQQRORma4ACziF7hjoilBMQS89.jpg"
+      },
+      {
+        "name": "Emma Elle Roberts",
+        "character": "Capitol Citizen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2w1AetbenarsfkzasDJy58LxnMe.jpg"
+      },
+      {
+        "name": "Alexander Yassin",
+        "character": "District 13 Citizen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8apX4No2fiDOfnEtgDVC0BILXYP.jpg"
+      },
+      {
+        "name": "Jasmine Ahnie",
+        "character": "District 8 Hospital Patient (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sue-Lynn Ansari",
+        "character": "District 8 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lJuW2N6JhG2GJTulmkJYzQXvhvA.jpg"
+      },
+      {
+        "name": "Scott Hunter",
+        "character": "Peacekeeper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A7QQAXP8kqXqSNODmELIZ0mP1bI.jpg"
+      },
+      {
+        "name": "Sam Hargrave",
+        "character": "Peacekeeper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mq7KgHiyuwFOvxuEg8p0Z30pybY.jpg"
+      },
+      {
+        "name": "R. A. Rondell",
+        "character": "Peacekeeper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3luH3tMzcdn0F9XMfAVoCjdiUWs.jpg"
+      },
+      {
+        "name": "Jean Christophe Loustau",
+        "character": "Peacekeeper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q5ocQqiogjpBA0a9cp6MLoQ88AF.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Francis Lawrence",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pyGWo5mAwZ2Koe6leB2RjKd7vmc.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "strong woman",
+    "based on novel or book",
+    "revolution",
+    "dystopia",
+    "death match",
+    "based on young adult novel"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Katniss and a team of rebels from District 13 prepare for the final battle that will decide the fate of Panem.",
+    "After young Katniss Everdeen agrees to be the symbol of rebellion, the Mockingjay, she tries to return Peeta to his normal state, tries to get to the Capitol, and tries to deal with the battles coming her way...but all for her main goal: assassinating President Snow and returning peace to the Districts of Panem. As her squad starts to get smaller and smaller, will she make it to the Capitol? Will she get revenge on Snow or will her target change? Will she be with her \"Star-Crossed Lover,\" Peeta, or her long-time friend, Gale? Deaths, bombs, bow and arrows, a love triangle, hope... What will happen?—baileyyybroooks",
+    "After Katniss Everdeen, the girl on fire, accepted the role of the Mockingjay, the symbol of rebellion against the autocratic Capitol, she and the rebels of District 13 poise an all-out war against them; however, this time Katniss has a personal agenda: assassinating President Snow herself to gain revenge not only for Panem's sake but for her own as well.",
+    "After accepting her role as the Mockingjay, Katniss Everdeen, along with her team, prepares to take their fight straight to the ruthless Capitol. While her mission is to bring President Snow down once and for all, Katniss finds that her squad dies at the hands of either Mutts, Peacekeepers or both. Once in the Capitol, Katniss discovers that there is another threat rising that could decide not only her fate but the future of all Panem.—Blazer346",
+    "For all past deaths made as entertainment, and for the insidious modification of Peeta, Katriss deems to strike out on her own to take down President Snow once and for all, but being the Mockingjay, the living symbol of the rebellion now headed by Alma Coin, has its drawbacks. Recognition, for one, and she finds herself saddled with a team of expert warriors (which surprisingly includes the ailing Peeta) aimed to penetrate the Capitol that has barricaded itself behind Hunger-Game-style death traps. As she closes in on carrying out her private agenda through more deaths and mayhem, President Snow himself makes her aware of another threat to peace for Panem equal to himself, leaving her to consider how to truly end the bloodshed.—statmanjeff"
+  ],
+  "synopsis": "In the opening scene, Katniss Everdeen (Jennifer Lawrence) is getting vocal therapy after being nearly choked to death by Peeta Mellark (Josh Hutcherson) in The Hunger Games: Mockingjay - Part 1 (2014). Once she can properly speak, she sees her younger sister Primrose \"Prim\" Everdeen (Willow Shields) entering Peeta's cell. The hijack programming inflicted on Peeta in the Capitol eventually makes him freak out. He thinks that Katniss is a dangerous Capitol-created mutation, and tells Prim to kill her.Katniss wants to take her revenge on President Snow for what he has done to Peeta, but president Alma Coin (Julianne Moore) assures her that there is no way that they can enter the Capitol now; they need to control District 2 first, so Katniss goes there with her military escort to film more \"propos\" (propaganda videos) for the rebel cause. Gale Hawthorne (Liam Hemsworth) accompanies her. He admits that he has seen Peeta, and realized that if he stays this way, Katniss will always chose him over Gale out of pity. On the way, she kisses Gale, but he calls it \"the kiss of a drunk person.\" She jokes that with Peeta safely in Thirteen, he doesn't have to be jealous anymore.Katniss overhears Gale and Beetee (Jeffrey Wright) discussing a dubious trick they mean to employ. It involves setting off a bomb that is designed to send people fleeing in a panic and attract medics to help the wounded, and then deploying a second bomb to maximize the number of victims. Katniss protests against this unethical wasting of lives, with Gale telling her that Snow doesn't fight by the rules either. Once in District 2, Commander Paylor (Patina Miller) mentions that the Rebellion has failed to capture the Nut, a huge mountain base that serves as a Capitol headquarters for all their offensive operations. It will be vital to secure the weapons inside, or at the very least disable the base and deprive the enemy of them, otherwise even the united rebels will remain outgunned by the Capitol. However, since the occupants of the Nut are dug in safely, a frontal assault has proven to be pointless, and there is little chance that they will surrender willingly as District 2 is still sympathetic to the Capitol. Gale suggests that they bomb the stronghold's weak points and blow the exits, trapping everyone inside. Katniss protests, saying that there are a lot of civilians in there. With President Coin listening in via hologram, the group eventually agrees that they will strategically bomb the Nut first in order to flush out the civilians by trains, but once outside, they will get the chance to surrender first; Katniss will be waiting there to convince them.When the hovercrafts go, Gale continues to argue the situation with Katniss: he still thinks that bombing the Nut is justifiable, similar to when Katniss shot planes out of the sky in District 8 during her propo tour in The Hunger Games: Mockingjay - Part 1 (2014); Katniss disagrees, stating that she was defending herself from military pilots, not citizens. Gale replies that the civilians in the Nut made their choice by collaborating with the enemy, and this is unfortunately the cost of war, to which Katniss counters that that kind of thinking justifies almost every death, including killing children in the Hunger Games.Katniss is delivered to the Nut's exit when the refugees arrive by train. The rebel troops treat the refugees with suspicion, ordering them to drop their weapons and shooting some who don't comply. Katniss addresses them, hoping to get their sympathy; however, one of the refugees quickly uses her distraction to hold her hostage. He tells Katniss, \"Give me a reason why I shouldn't shoot.\" Katniss replies that she can't: the rebels have been at each others' throats with attacks back and forth because Snow has been setting the districts up against each other, providing them with plenty of reasons to kill one other. She's so tired of being Snow's slave that dying would be a relief. The man lets her go, and while Katniss continues to convince the others that President Snow is the real enemy whom they should fight and not each other, another refugee takes a shot at her. Chaos ensues.In the Capitol, President Snow (Donald Sutherland) celebrates with his delegates with a toast at his dinner table, but they all drink without stating what it is they're drinking to. Snow asks his minister of defense, Antonius (Robert Knepper), what they are celebrating, since their mountain troops have been defeated and rebels are currently marching towards them. He replies that it's Katniss's death, and that the rebels can be held off. Snow replies that if Katniss were really dead, the resistance would have made a martyr out of her already, and he criticizes Antonius' strategy for diverting their best Peacekeepers to the now lost District 2. Snow plans to evacuate the Capitol's outskirts to lure the rebels in, and then let them be decimated by strategically placed bombs and booby traps, all being televised by the Gamemakers; the rebels will pay for their victory in blood, captured on camera for an eternity, so they are toasting on \"a glorious era coming to its bitter end.\" Antonius suddenly starts to choke and drops dead, having been poisoned.Katniss wakes up from her injuries to find a bald, morphling-crazed Johanna Mason (Jena Malone) in her room. She pulls out Katniss's morphling drip and attaches it to her own arm. Apparently, Cinna was smart enough to make Katniss's clothes bulletproof, so she survives with a nasty bruise on her chest. Johanna is annoyed with the fact that everyone has to sacrifice themselves for the irreplaceable Katniss; however, she concedes that her anger is partially from jealousy, since they chose Katniss as the symbol for the uprising instead of Johanna, who, admittedly, lacks Katniss's charm and lovability. Katniss manages to ease Johanna's sarcasm by admitting that Johanna would have made a better Mockingjay.Next, Haymitch (Woody Harrelson) visits Katniss, convincing her that Peeta is much better now and that she should visit him. Peeta, who's still locked in a cell and strapped to his bed, is no longer enraged but still blames Katniss for everything, going so far as saying that if he had never given her the overdone bread from his parents' bakery (which he had burned on purpose so he could toss it to her), they would have never ended up in this state.Katniss is visibly upset and goes on to a conference with President Coin and Plutarch Heavensbee (Philip Seymour Hoffman). Katniss wants to be with the troops in the Capitol, but Coin disagrees: Katniss has done her job, with the districts are now successfully united. She needs to heal first, so Coin orders her to stay and shoot more propos in Thirteen to show the rebels that she is still alive; when the Capitol surrenders, she will be taken there for the ceremony. Plutarch offers no objections, so Katniss begrudgingly agrees.Katniss then attends the wedding of Finnick Odair (Sam Claflin) and Annie Cresta (Stef Dawson). At the reception, everyone is happy and dancing except Katniss. Johanna finds her brooding and Katniss says she is done with all the propos; she wants to kill Snow now and end the conflict. Johanna is surprisingly sympathetic to this idea, offering to cover for Katniss and suggesting a plan: sneak on board a medical supply hovercraft headed for the Capitol. She convinces Katniss that it can work, as long as she is willing to sacrifice herself in the process. Katniss goes off to dance with her sister Prim, hugging her before following Johanna's plan.When the hovercraft drops Katniss at the rebels' base with the medical supplies outside the Capitol, Katniss tries to be unobtrusive, but is quickly recognized by almost everyone she encounters. She finds Gale and people crowd around, curious and believing that Katniss has chosen to join the fight. Learning that Katniss has fled to the front, President Coin is extremely annoyed by her defiance, but being unable to control her, she has no choice but to follow Plutarch's suggestion, which is to act as if this has been their plan all along.Commander Paylor makes a speech, stating that the Capitol is surrounded by rebels and its citizens are abandoning the streets. The Peacekeepers have fallen back to the center, so the united rebels will enter the city's outskirts and help the confused citizens. The Gamemakers have placed \"pods\" all over the Capitol, armed with deadly weapons, similar to traps used in the Hunger Games in an attempt to make this another televised spectacle. However, the rebels will overcome these obstacles, convene at Snow's mansion, and free all of Panem from his tyranny.Gale notes how Katniss has been packing for a solo mission, and lets her know that he already knows that she intends to walk off on her own. They are both assigned to Squad 451, which is commanded by Boggs (Mahershala Ali) and also includes Finnick, filmmaker Cressida (Natalie Dormer), Homes (Omid Abtahi), Lt. Jackson (Michelle Forbes), Mitchell (Joe Chrest), Messalla (Evan Ross), the twins Leeg 1 and 2 (Misty Ormiston and Kim Ormiston) and Castor (Wes Chatham) and Pollux (Elden Henson), an avox (mute). Squad 451 will shoot propaganda videos while locating and destroying the pods. They are ordered to remain behind the front lines to stay as safe as possible, while boosting morale with their propaganda videos. Each member is given a Nightlock pill, which causes instant death if they need to commit suicide to stay out of the Capitol's hands. Boggs has been issued a holo, a device that displays a holographic map and helps to detect pods; however, the information on the pods is based on intelligence from spies, and new pods have undoubtedly been set up to kill them (Finnick calls it \"the 76th Hunger Games\"). The holo can also self-destruct if it is in danger of falling into enemy hands.The squad assembles and finds the first pod. Katniss fires an arrow toward it, which triggers a giant explosion. The squad decides to camp out in an abandoned restaurant for the night, and Katniss and Gale discuss plans to sneak off with the holo on their own when Peeta is unexpectedly dropped off by a military escort, in handcuffs. The soldiers delivering him explain that President Coin wants Peeta in the videos as well, to show him actively fighting the Capitol alongside Katniss. Katniss is on edge, and the group decides to take turns watching him. Boggs takes a puzzled Katniss aside and tells her the truth about Coin. He says that Coin originally wanted Peeta saved from the arena and not her, as Katniss is uncontrollable; Coin may have added Peeta to the team in the hope that he'll try to kill Katniss in a fit of rage and fear. Now that victory is at hand, Katniss may become a liability for Coin, who wants to be the next President of Panem. Though Katniss has no political aspirations, her allegiance to any candidate carries considerable weight; because Coin can't be sure that Katniss will endorse her, she prefers to be rid of her now, as Katniss' death would add more fire to the Rebellion. Boggs tells her that he will not let that happen, and promises her a long life.Night falls and Peeta can't sleep. He and Katniss talk, and they play a game to help Peeta figure out what is real and what parts of his memories are planted by Capitol programming. As day comes, Finnick helps Peeta (who remains in handcuffs most of the time for safety) as they explore the city, entering an oval courtyard surrounded by abandoned apartment buildings. They're getting ready to shoot a propo when a pod of machine guns appears, but everyone dodges the hail of bullets. As they walk forward, Boggs is suddenly shot in his chest by a hidden gun, and Leeg 1 takes a bullet in the leg. Boggs, with his dying breath, transfers full security access of the holo to Katniss. He also tells her not to trust anyone, and to kill Peeta if necessary. Leeg 2 accidentally activates a trigger hidden under the pavement, releasing a torrent of black ooze which floods towards the team and quickly submerges the courtyard. While escaping, Peeta becomes frightened; his Capitol brainwashing is activated and he tries to kill Katniss with a bow. Mitchell intervenes and in the process, Peeta shoves him in the ooze which causes him to fly up and get impaled by spikes.The surviving members of Squad 451 run inside a building. Jackson, as Boggs' second in command, demands the holo from Katniss. Katniss says that Boggs transferred the voice-activated holo to her (which is true) and that she is on a personal mission to kill Snow, on orders of President Coin (which isn't). Jackson doesn't believe it and commands Katniss to transfer the holo to her, but Katniss refuses. A Mexican standoff occurs, but eventually Jackson backs down when Cressida unexpectedly backs up Katniss's story, saying that Plutarch wants the assassination of Snow to be televised, hoping that it will quickly end the war (not true either). Leeg 2 decides to stay behind with her injured twin; Jackson promises to send help as soon as they can. Peacekeeper soldiers arrive as soon as the rest of the squad exits the building and take refuge in a vacant apartment across the courtyard. They watch in horror as the Peacekeepers blow up the building they just left, killing the Leeg twins.Suddenly, a broadcast pops up. Caesar Flickerman (Stanley Tucci) announces the death of Katniss and her squad as the building blowing up is televised. Peeta feels extremely guilty over snapping and causing Mitchell's death, and nearly killing Katniss; he asks for a Nightlock pill so he can kill himself when he feels he is being hijacked again, but the others refuse. President Snow then pops up on television, remembering Katniss as \"a face plucked from the masses\" who lacked leadership, and that the rebellion has no vision. Then Coin takes over the broadcast, defending Katniss as a brave girl who \"rose up and turned a nation of slaves into an army\", and asserting that the Mockingjay is still the face of the revolution, even in death.The squad wants to head for the President's mansion now that they are believed dead, but the holo shows multiple traps on the streets, excluding all the new ones that have undoubtedly been set up. Pollux signs to Castor that they can go down into the underground sanitation system instead, a place where he did slave labor and is reluctant to go back to, but they have no choice. Underground, they hide from the peacekeepers but are seen on the security camera. President Snow, whose nose is bleeding, is then shown the security camera footage and is surprised to see Katniss still alive, stating that the arena has now moved underground.In the sewage system, after narrowly avoiding a steam pipe burst, the team decides to sleep. Katniss indulges Peeta in more games of 'Real or Not Real'. Peeta reveals that the Capitol used wasp Tracker Jacker venom in his programming, but his capacity to discern fake memories from real ones is getting better. Katniss promises to keep them alive, but then hears something and the group investigates. Something has been sent after them.After some intense searching (almost like a horror movie), suddenly dozens of hideous, lizard-human hybrid creatures which are called \"mutts\" (muttations, portmanteau of 'mutt' and 'mutation') appear from all directions and attack. Jackson is quickly overwhelmed and is either torn apart and/or bitten to death by the weird creatures. The remaining group fights them off and tries to escape through the sewage system. Castor is trampled and killed by the creatures, while Cressida and Messalla are separated from the rest of the group as more creatures converge on them. The squad is corralled into a junction area space with a ladder leading up to the ceiling. Here, Katniss is nearly killed by one creature but she and Peeta fight them off (she with her bow and explosive-tipped arrows, and he with his assault rifle) as they stand back to back fighting. Cressida and Messalla reappear where they assist the group and order them to escape up the ladder. Cressida takes on and guns down several of the creatures herself, showing more of her fearless combat skills. Finnick uses his trident to fight off the creatures while the remaining members of the squad escape up the ladder. Unfortunately, this turns out to be his sacrifice; as he tries to ascend the ladder, the creatures overwhelm him. Not wanting Finnick to die in vain, Katniss activates the holo's self-destruct function, and throws it into the melee of mutts and a screaming Finnick. The holo explodes, killing the mutts, ending Finnick's suffering and collapsing the exit for more creatures.In an underground space that looks like a subway station, the surviving members of the squad run across a floor, fired upon by Peacekeepers. As the floor begins to collapse, lethal beams in the light fixtures kill those who pass under them. Messalla runs into a beam and disintegrates into black ash while Peeta panics, thinking he's about to go out of control again. Katniss stops and kisses him, which fixes him right up. They get out to the surface and Cressida takes them to a fashion shop owned by Tigris (Eugenie Bondurant), who sports elaborate tiger-stripe tattoos and has apparently had some surgery to make her mouth and nose look more feline. She hides the five surviving members of the squad in a secret basement under her shop. Katniss eventually recognizes Tigris as one of the stylists who worked with contestants at the games. Tigris indicates that her tiger makeover was forced on her by President Snow \"because I wasn't pretty enough anymore.\"While hiding underground, Pollux weeps over the loss of his brother Castor, while Cressida tends to Gale's wounds, sustained while fighting the mutts. A distraught Katniss confesses that her mission was fake and that she feels responsible for all those deaths. Cressida tells her that they knew all along that she wasn't on a mission ordered by Coin, but everyone, even Jackson, decided it was worth the risk if Boggs thought so. Peeta mentions his Capitol programming and tells Katniss to end all of it. He tells her that if she kills Snow, all deaths, from their first Hunger Games until now, will be for something. He tells Katniss to handcuff him again to be safe from him.While Katniss tries to sleep, Gale and Peeta reconcile. Gale tells Peeta that she loves Peeta, not him (\"she never kissed me like that\"). Suddenly, there is sound of mortars and guns, signaling that the rebels are approaching the center and are attacking the Peacekeepers. An emergency broadcast pops up with President Snow ordering Capitol residents to take shelter in the presidential mansion -- the Rebellion has arrived, and he claims that they plan to destroy every Capitol citizen and their way of life. As the pods near the mansion will presumably be deactivated, Katniss decides to walk with the refugees, infiltrate the mansion and take down Snow once and for all. Gale decides to go with her; Katniss uncuffs Peeta.Peeta offers to come with Katniss, since everyone knows him and he may serve as an distraction, but Katniss doesn't want to lose him again, and asks Cressida and Pollux to stay and watch him. He states that he will take a Nightlock pill before he will let any Peacekeepers take him back. Tigris outfits Katniss and Gale with hooded coats that partially obscure their faces. As they march towards Snow's mansion with the other refugees, Katniss is almost recognized by a little girl who is carried by her mother. When they see Peacekeeper soldiers checking everyone's faces, they try to go back, but are forced to follow the crowd when the Peacekeepers start closing in from behind as well. Just as a Peacekeeper is about to expose Katniss, a nearby tank explodes -- the rebel soldiers have arrived at the city's center, and a panic ensues. Katniss sees the little girl weeping over her dead mother as Gale is captured by the Peacekeepers and dragged away. He screams at her to shoot him with her bow, but she can't. Katniss runs to the front of Snow's mansion, where she sees parents passing their crying children from hand to hand through the crowd to get them through the mansion's gate -- children were the first priority in the evacuation. Then suddenly, a plane carrying the Capitol logo drops dozens of small, odd silvery pods on little parachutes, reminiscent of the sponsor cylinders sent out to the tributes during the Hunger Games. The crowd watches them fall and some people even reach out for them. The pods then suddenly explode, killing many in the crowd, both adults and children. In the ensuing panic, Katniss sees combat medics rushing in, among them her sister Prim, trying to tend to the wounded. She screams a warning at Prim, only for another batch of bombs to drop and explode, knocking Katniss unconscious.A wounded and burned Katniss wakes up inside Snow's mansion while her mother (Paula Malcomson) tends her wounds. Haymitch informs her that the rebellion was successful: from the moment that the Capitol bombs fell on the citizens, the Peacekeepers and palace guards, who also had children among the dead, immediately stopped fighting, and the palace was taken within a short time. From her mother's wordless tears, Katniss learns that Prim has died.When she's in shape again, Katniss explores the mansion and eventually goes to the garden, where Snow is held under guard in the conservatory. Though no one is allowed access, Commander Paylor grants her an audience with him. Snow is his cheery old self, as always, seemingly accepting defeat. Katniss notes that the presence of the guards unfortunately prevents her from killing Snow there and then. He tells Katniss that he was hoping to speak to her in order to offer his condolences for her sister. He calls her death unnecessary and wasteful, as by that time, defeat was certain, and he was just about to issue the Capitol's surrender when the bombs were suddenly dropped. When Katniss says that *he* dropped those bombs, he admits that he may not be above killing children, but he does not approve of unnecessarily wasting lives, let alone those of Capitol children. As he coughs up some blood and wipes it away with his handkerchief, he calls it a masterful move on Coin's part: making everybody think that Snow would bomb his own people's children to hold back the rebels, and airing it live on TV for everyone to see, turned every last one of his guards against him, who immediately surrendered; he is sure that Katniss's sister wasn't an intended target, but unfortunate collateral damage. Snow believes that Coin's secret plan was to let the districts and the Capitol fight to exhaustion, and then step in herself and take power with District 13's arsenal; she is merely trying to taking Snow's place by using him and Katniss as pawns in her game. When a stunned Katniss says in disgust, \"I don't believe you\", Snow answers, \"Oh, my dear Miss Everdeen, I thought we had agreed never to lie to each other.\"Katniss is awaiting an audience with Coin. She meets up with Gale first. She notes that he never came to see her in the hospital, and asks him if the bombs that killed Prim were theirs, as the circumstances of her death closely resemble the 'bomb trap' she heard him discuss earlier. He tearfully admits that he honestly doesn't know whose bombs killed Prim, and apologizes for not protecting her family. Katniss bitterly says \"Goodbye, Gale.\" A meeting takes place with Coin and the surviving Victors of previous Hunger Games, including Peeta, Beetee, Johanna, Haymitch, Enobaria (Meta Golding) and a pregnant Annie Cresta. Coin has appointed herself interim President of Panem and says she'll call elections when the time is right, but the people are currently too emotional to vote. Snow is to be executed, but Coin fears that also executing his hundreds of accomplices (Capitol officials, Peacekeepers, torturers and Gamemakers) will only feed the need for more vengeance among the citizens of Panem. She has an idea: instead of endless executions, she wants to hold another Hunger Games, but with Capitol children, and asks the victors to vote on it. Peeta, Annie, and Beetee are strongly against the idea, but Johanna and Enobaria are in favor; it's all up to Katniss and Haymitch. After demanding that she be allowed to execute Snow, which Coin agrees to, Katniss says 'yes' for Prim. Haymitch, after looking at Katniss in bewilderment, nonetheless says \"I'm with the Mockingjay,\" meaning the vote goes in Coin's favor, 4 to 3. Effie Trinket (Elizabeth Banks) dresses up Katniss for the execution, and Katniss secretly pockets a Nightlock pill.Katniss marches alone into the arena, the large parade ground where the tributes used to be showcased, and where Snow is bound to a pole. President Coin (who is standing on an elevated stage just behind Snow) makes a speech, telling Panem that in this historic moment, one shot will signify the end of tyranny and begin a new era. She tells Katniss, \"May your aim be as true as your heart is pure.\" Katniss aims her arrow at Snow, whose unemotional demeanor starts to waver. Thinking of her last conversation with him and the meeting with Coin before the execution, Katniss realizes that Snow was telling the truth about Coin: she ordered the bombing of Capitol refugees that caused Prim's death, and is now seizing control without the intention to ever let it go. So rather than shooting Snow, Katniss pulls up her bow and shoots Coin, killing her. The crowd is shocked as Coin tumbles to the ground, dead, while President Snow almost chokes from laughter, seeing that his words to Katniss did not fall on deaf ears. As the livid crowd charges past Katniss towards the laughing Snow, she tries to commit suicide by taking the pill, only for Peeta to smack it out of her hand. Katniss is dragged off and taken into custody as the crowd reaches Snow and brutally beats him to death.Katniss is placed in a vacant, guarded room where Haymitch soon arrives, saying that she didn't disappoint, implying that she did what he hoped she would do. He has a letter written to her by Plutarch, which he reads out loud: Plutarch also expresses his approval of Katniss doing the right thing, and regrets not meeting face to face to say their proper goodbyes. The fate of the country will be decided that night in a free election, in which the leaders of the twelve districts will choose an interim leader to replace Coin, and in the light of what happened, it is better if Plutarch is not seen with Katniss. Commander Paylor, who has become \"the voice of reason\", will undoubtedly win. Plutarch laments the burden that befell Katniss and will weigh on her forever, but asserts that it led to the best outcome. The country will now have to heal from all the horrors, and he hopes that it will come through on its promise to learn from past mistakes. He has arranged a passage for Katniss back to District 12, as it will be better for her to live out of sight. When the time is right, she will receive a pardon from Commander Paylor for killing Coin. He ends by stating: \"The country will find its peace, and I hope you can find yours.\"Before Katniss and Haymitch board a train to send them home to District 12, Effie comes by to say goodbye, telling Katniss to promise her to find the life of a Victor. Haymitch tells Effie not to be a stranger, kisses her and promises her to take care of Katniss. Back in the Victors Village in District 12, Katniss enters her home. She sees Prim's cat Buttercup in the kitchen and has an emotional meltdown over Prim, shouting at the cat that Prim is gone and never coming back. Then she hugs the cat and cries. She slowly builds herself up again by hunting. One day, she finds that Peeta has returned as well, planting primroses in her garden that he found in the forest -- the flower her sister was named for. They hug and start living together. Some time later, Katniss receives a letter from Annie Cresta, telling her that Katniss's mother is now training new medical units in the Capitol, while Gale has been promoted to captain in District 2. Annie relishes the time she has with her newborn son, who reminds her of Finnick every day. She concludes that everyone has suffered, but that they owe it to the memories of the fallen and their children to do the best with these lives.While Katniss and Peeta are watching a broadcast of Commander Paylor being sworn in as President of Panem, they note Plutarch standing in a prominent place in the crowd, noting that he has managed to \"win the games\" after all. Peeta asks Katniss: \"You love me. Real or not real?\" Katniss answers: \"Real.\"Several years later, Katniss and Peeta are married and have two children. Peeta is playing with the older child while Katniss peacefully holds the sleeping baby in the same field that opened the The Hunger Games (2012). The baby wakes up and fusses a little and Katniss asks, \"did you have a nightmare?\" She says someday she'll tell her children her story, and that she gets through the nightmares by making a list in her head of all the good things she has seen someone do. It is a game that she has played over and over again, and can feel tedious at times... \"but there are much worse games to play.\"",
+  "imdb_score": 6.5
+}

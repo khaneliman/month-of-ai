@@ -1,0 +1,629 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/s9KUIs0vFyzjy1bouVcvN7tNbuw.jpg",
+  "id": 41233,
+  "title": "Step Up 3D",
+  "poster_path": "https://image.tmdb.org/t/p/w500/rPcqa5TZ7S63RNmCuY45ZizFBen.jpg",
+  "release_date": "2010-08-04",
+  "vote_average": 6.814,
+  "vote_count": 1827,
+  "popularity": 27.63,
+  "overview": "A tight-knit group of New York City street dancers, including Luke and Natalie, team up with NYU freshman Moose, and find themselves pitted against the world's best hip hop dancers in a high-stakes showdown that will change their lives forever.",
+  "imdb_id": "tt1193631",
+  "budget": 30000000,
+  "homepage": "http://stepupmovie.com/",
+  "revenue": 159291809,
+  "runtime": 107,
+  "tagline": "Two Worlds. One Dream.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "Touchstone Pictures",
+    "Summit Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Rick Malambri",
+        "character": "Luke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/le13029fSuqTExbv3VC48Y1ouNk.jpg"
+      },
+      {
+        "name": "Adam Sevani",
+        "character": "Moose",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2GQdyHQG4aw0FOokajOr7Wvhpyl.jpg"
+      },
+      {
+        "name": "Joe Slaughter",
+        "character": "Julien",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4R5eY4ObNIgVvpe72x5xn7IbDIh.jpg"
+      },
+      {
+        "name": "Sharni Vinson",
+        "character": "Natalie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vy5c6P2S3kOA9iDg8OOagWo850t.jpg"
+      },
+      {
+        "name": "Alyson Stoner",
+        "character": "Camille",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xFRoIsR4XJ9QI8IIZfM9sVD8Qa4.jpg"
+      },
+      {
+        "name": "Kendra Andrews",
+        "character": "Anala",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rEW3q8anzDs1ffTRPnXZMaTg09h.jpg"
+      },
+      {
+        "name": "Stephen 'tWitch' Boss",
+        "character": "Jason",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2DjfxXDVK9ccXfZbvH0QNhXTQka.jpg"
+      },
+      {
+        "name": "Daniel 'Cloud' Campos",
+        "character": "Kid Darkness",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v2e5Lj82hOmNK1FOOlomqOZnSeO.jpg"
+      },
+      {
+        "name": "Ivan 'Flipz' Velez",
+        "character": "Spinz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j7vxyDOjmbT2sQnha5cUyK1BKQw.jpg"
+      },
+      {
+        "name": "Christopher Scott",
+        "character": "Hair",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lns36CGr9csnSvDdDdnji62BUZE.jpg"
+      },
+      {
+        "name": "Luis Rosado",
+        "character": "Monster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ZviAsXxHTe3cSDKnSceqbkZQgU.jpg"
+      },
+      {
+        "name": "Martín Lombard",
+        "character": "The Santiago Twins",
+        "profile_path": ""
+      },
+      {
+        "name": "Keith Stallworth",
+        "character": "Jacob",
+        "profile_path": ""
+      },
+      {
+        "name": "Facundo Lombard",
+        "character": "The Santiago Twins",
+        "profile_path": ""
+      },
+      {
+        "name": "Oren Michaeli",
+        "character": "Carlos",
+        "profile_path": ""
+      },
+      {
+        "name": "Aja George",
+        "character": "The Ticks",
+        "profile_path": ""
+      },
+      {
+        "name": "Straphanio 'Shonnie' Solomon",
+        "character": "The Ticks",
+        "profile_path": ""
+      },
+      {
+        "name": "Terence Dickson",
+        "character": "The Ticks",
+        "profile_path": ""
+      },
+      {
+        "name": "Chadd Smith",
+        "character": "Vladd",
+        "profile_path": ""
+      },
+      {
+        "name": "Britney 'B' Thomas",
+        "character": "B.",
+        "profile_path": ""
+      },
+      {
+        "name": "Terrance Harrison",
+        "character": "Radius",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan 'Legacy' Perez",
+        "character": "Legz",
+        "profile_path": ""
+      },
+      {
+        "name": "Jaime Burgos III",
+        "character": "Mohawk",
+        "profile_path": ""
+      },
+      {
+        "name": "Ashlee Nino",
+        "character": "Stix",
+        "profile_path": ""
+      },
+      {
+        "name": "Tamara Levinson",
+        "character": "Bend",
+        "profile_path": ""
+      },
+      {
+        "name": "Ricardo 'Boogie Frantick' Rodriguez Jr.",
+        "character": "Wave",
+        "profile_path": ""
+      },
+      {
+        "name": "Mari Koda",
+        "character": "Jenny Kido",
+        "profile_path": ""
+      },
+      {
+        "name": "LaJon Dantzler",
+        "character": "Smiles",
+        "profile_path": ""
+      },
+      {
+        "name": "Janelle Cambridge",
+        "character": "Fly",
+        "profile_path": ""
+      },
+      {
+        "name": "Anjelo 'Lil Demon' Baligad",
+        "character": "Arcade Rats",
+        "profile_path": ""
+      },
+      {
+        "name": "Jalen Testerman",
+        "character": "Arcade Rats",
+        "profile_path": ""
+      },
+      {
+        "name": "Jose 'Boy Boi' Tena",
+        "character": "Arcade Rats",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dSKVMOmLsgV7wmggWWQCU5ys8YR.jpg"
+      },
+      {
+        "name": "Simrin C. Player",
+        "character": "Arcade Rats",
+        "profile_path": ""
+      },
+      {
+        "name": "Joshua Allen",
+        "character": "House of Samurai",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeffrey 'Machine' McCann",
+        "character": "House of Samurai",
+        "profile_path": ""
+      },
+      {
+        "name": "Casper Smart",
+        "character": "House of Samurai",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ieBeKmH25A8UHVgWAd6yrgrWVFu.jpg"
+      },
+      {
+        "name": "Joshua Lee Ayers",
+        "character": "House of Samurai",
+        "profile_path": ""
+      },
+      {
+        "name": "Philip Albuquerque",
+        "character": "House of Samurai",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Steelo Vasquez",
+        "character": "House of Samurai",
+        "profile_path": ""
+      },
+      {
+        "name": "John 'J-Rock' Nelson",
+        "character": "House of Samurai",
+        "profile_path": ""
+      },
+      {
+        "name": "Aaron 'Deuce' Cooke",
+        "character": "House of Samurai",
+        "profile_path": ""
+      },
+      {
+        "name": "Moises Rivas",
+        "character": "House of Samurai",
+        "profile_path": ""
+      },
+      {
+        "name": "Zahra 'Jeskilz' Hamani",
+        "character": "The House of Samurais",
+        "profile_path": ""
+      },
+      {
+        "name": "Ivan Koumaev",
+        "character": "House of Samurai",
+        "profile_path": ""
+      },
+      {
+        "name": "Sharya Howell",
+        "character": "House of Samurai",
+        "profile_path": ""
+      },
+      {
+        "name": "Carly Lang",
+        "character": "House of Samurai",
+        "profile_path": ""
+      },
+      {
+        "name": "Nick Wilson",
+        "character": "House of Samurai",
+        "profile_path": ""
+      },
+      {
+        "name": "Nick DeMoura",
+        "character": "House of Samurai",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9ZT2VDApip7GxkhYX0JfQlJGyHR.jpg"
+      },
+      {
+        "name": "Bailey Hanks",
+        "character": "NYU Tour Guide",
+        "profile_path": ""
+      },
+      {
+        "name": "Robin Lord Taylor",
+        "character": "Punk Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hWLSLFTBuj7bAum9xecJb6GGJPE.jpg"
+      },
+      {
+        "name": "Alex Zelenty",
+        "character": "Emo Skater",
+        "profile_path": ""
+      },
+      {
+        "name": "Jimmy Smagula",
+        "character": "Balloon Vendor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eJCPG4KqGQezTNdN4LLzFjHPHOz.jpg"
+      },
+      {
+        "name": "Christopher Place",
+        "character": "Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bbz8BujwBXQfEDu68ZxXpj35HoH.jpg"
+      },
+      {
+        "name": "Mark Blum",
+        "character": "NYU Professor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xJ9pudGFNrmkD2Lkn4rEYBUCjV2.jpg"
+      },
+      {
+        "name": "Alex Charak",
+        "character": "Silence D. Class",
+        "profile_path": ""
+      },
+      {
+        "name": "Carolina Ravassa",
+        "character": "Kristin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a7lUFMRBsZftbxgGXe1RaOholYR.jpg"
+      },
+      {
+        "name": "Ally Maki",
+        "character": "Jenny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u3T3YRy3FAR1wQxmQI819yeP3PW.jpg"
+      },
+      {
+        "name": "Jamal Sims",
+        "character": "Red Hook Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/OXnZk1sduWNbGy10tXU1ukC0t.jpg"
+      },
+      {
+        "name": "Kevin Chew",
+        "character": "Gwai Announcer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ken Marks",
+        "character": "Walter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kK2yQSxCyHd6kJpNPVd94D7TbVq.jpg"
+      },
+      {
+        "name": "Mark Tallman",
+        "character": "Door Person",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vJN40G3AE6S94VH32m7f7XDueo7.jpg"
+      },
+      {
+        "name": "Jennifer Van Dyck",
+        "character": "Natalie's Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/19vVnC16yRZGtSdNkHPssleOKB1.jpg"
+      },
+      {
+        "name": "Kylie Liya Page",
+        "character": "Ice Cream Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r9lkiVB7S68mYzx7228dy9ngG4m.jpg"
+      },
+      {
+        "name": "David Brown",
+        "character": "Ice Cream Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/szoY2neK7jSf3a847dIGr5cj3KF.jpg"
+      },
+      {
+        "name": "Rhapsody James",
+        "character": "Woman Watering Plants",
+        "profile_path": ""
+      },
+      {
+        "name": "Dylan Hartigan",
+        "character": "Scooter boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zAMpLqaHh2QWTJlRKXmPTz7lGom.jpg"
+      },
+      {
+        "name": "Sal Mistretta",
+        "character": "Diner Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sonnie Brown",
+        "character": "Mrs. Kido",
+        "profile_path": ""
+      },
+      {
+        "name": "Akira Takayama",
+        "character": "Mr. Kido",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o7HBnNpui9YYxgJLDSwrGwiye99.jpg"
+      },
+      {
+        "name": "Grandmaster Caz",
+        "character": "World Jam Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yr5cZ5Vn3JAZHAqLq7nVslj4uvK.jpg"
+      },
+      {
+        "name": "Hi-Hat",
+        "character": "World Jam Judge",
+        "profile_path": ""
+      },
+      {
+        "name": "Raymond Del Barrio",
+        "character": "World Jam Judge",
+        "profile_path": ""
+      },
+      {
+        "name": "Marley Marl",
+        "character": "World Jam Judge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vh3IQGftmumJcmNub4fnogDJnYy.jpg"
+      },
+      {
+        "name": "Dan Ziskie",
+        "character": "NYU Dean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qsB4RIi5cXnXJyKyVJJAQecgOx2.jpg"
+      },
+      {
+        "name": "Ryan Daniel Beck",
+        "character": "Mover Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sawandi Wilson",
+        "character": "Mover Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bliprljFCeA2MmrAJb81H5PwidR.jpg"
+      },
+      {
+        "name": "Noel Rodriguez",
+        "character": "Club Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Marie 'Pandora' Medina",
+        "character": "House of Red Hook",
+        "profile_path": ""
+      },
+      {
+        "name": "Tyrell Washington",
+        "character": "House of Red Hook",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Carr",
+        "character": "House of Red Hook",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrian Wiltshire",
+        "character": "House of Red Hook",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave Scott",
+        "character": "House of Red Hook",
+        "profile_path": ""
+      },
+      {
+        "name": "Cedric Gardner",
+        "character": "House of Red Hook",
+        "profile_path": ""
+      },
+      {
+        "name": "Josue Anthony",
+        "character": "House of Red Hook",
+        "profile_path": ""
+      },
+      {
+        "name": "Richie Soto",
+        "character": "House of Red Hook",
+        "profile_path": ""
+      },
+      {
+        "name": "Cheryl Alessio",
+        "character": "Arcade Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Gee Alexander",
+        "character": "World Jam Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wQ2RKnWK6MW2COZbXIe5AteQCaD.jpg"
+      },
+      {
+        "name": "Shawn Breathwaite",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Leon C. Carswell",
+        "character": "House of Gwai",
+        "profile_path": ""
+      },
+      {
+        "name": "Bryan Dechart",
+        "character": "Anton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Ah1XeCFI9TTnHy9h4qrX5DaW5Ev.jpg"
+      },
+      {
+        "name": "Monique Dupree",
+        "character": "Hip Hop Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Etter",
+        "character": "Preppy Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vFNW7ECaJgOlqV2X9fRuujoJQOd.jpg"
+      },
+      {
+        "name": "Ruby Feliciano",
+        "character": "Mimi",
+        "profile_path": ""
+      },
+      {
+        "name": "Moe Hindi",
+        "character": "Grand Central Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeremy Hudson",
+        "character": "Tango Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9wekDilA9uusZbOhSDOxXGK1y8f.jpg"
+      },
+      {
+        "name": "Morris Isby",
+        "character": "House of Gwai",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Charles Kaye",
+        "character": "House of Germany",
+        "profile_path": ""
+      },
+      {
+        "name": "Kristen Kress Parness",
+        "character": "Backround",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Kulanusorstit",
+        "character": "Dance Battle Spectator",
+        "profile_path": ""
+      },
+      {
+        "name": "Zachary McElderry",
+        "character": "Bill",
+        "profile_path": ""
+      },
+      {
+        "name": "Shauna Mitchell",
+        "character": "Tango Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Owen J. Murphy",
+        "character": "Engineering Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Kathy Najimy",
+        "character": "Moose's Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg"
+      },
+      {
+        "name": "Stefanie Paige",
+        "character": "College Freshman",
+        "profile_path": ""
+      },
+      {
+        "name": "Danielle Polanco",
+        "character": "Missy",
+        "profile_path": ""
+      },
+      {
+        "name": "Alicia Quiñones",
+        "character": "World Jam Exhibition Dacner",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Styles",
+        "character": "House of Gwai",
+        "profile_path": ""
+      },
+      {
+        "name": "Ashley Sugarman",
+        "character": "Dance Battle Spectator",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Trobiano",
+        "character": "Hipster",
+        "profile_path": ""
+      },
+      {
+        "name": "Uzimann",
+        "character": "Hot Dog Vendor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zsfIPTMPsdRtN8PHA92ahxmb5e5.jpg"
+      },
+      {
+        "name": "Sean Van der Wilt",
+        "character": "Tango Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Penelope Vazquez",
+        "character": "Tango Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Harry Shum Jr.",
+        "character": "Cable",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xFQsThmdyuOk9jt3zgZL08ixf2b.jpg"
+      },
+      {
+        "name": "Delia Goncalves",
+        "character": "News Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ilgUkcr3yybzL78pcXejRgebNmu.jpg"
+      },
+      {
+        "name": "Julie Nathanson",
+        "character": "Singer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3f0AHlAUCBEMsGd5O6fqTeQ8yrd.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jon M. Chu",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yuspEo9AXGbdCYcrWfnbhG7U5Jo.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "dance",
+    "musical",
+    "duringcreditsstinger"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A tight-knit group of New York City street dancers find themselves pitted against the world's best hip hop dancers in a high-stakes showdown.",
+    "A tight-knit group of New York City street dancers, including Luke (Malambri) and Natalie (Vinson), team up with NYU freshman Moose (Sevani), and find themselves pitted against the world's best hip hop dancers in a high-stakes showdown that will change their lives forever.—Walt Disney Pictures",
+    "After graduating high school from the Maryland School of the Arts (MSA), Moose, with his longtime BFF and fellow MSA alumnus Camille, decides to \"grow up\" by quitting dance and becoming an engineering student at NYU, much to the delight of his parents. An impromptu street dance battle in New York City in which Moose is involved against Kid Darkness of the renowned House of Samurai dance crew catches the eye of Luke, the leader of the House of Pirates dance crew. Luke convinces Moose to join his crew, which is comprised of a group of misfits who each has his/her own individual dance style. Luke and his crew live in what is called the vault - a converted warehouse - which has a living and dance rehearsal space upstairs and a dance club downstairs. Luke has his own personal reasons for creating the vault and helping these dancers. However, he is five months behind in the mortgage payments and the bank could foreclose at any second. Luke believes winning the $100,000 grand prize in the inaugural World Jam Championships would solve his financial problems. The Samurais, led by Luke's nemesis Julien, are their main competition. Beyond the prestige, Julien has his own motive for wanting to win and ruin the Pirates. Luke is also trying to recruit Natalie, a recent attendee to the downstairs club. In getting to know Luke, Natalie tries to get him to follow his own dreams. But Natalie's involvement with the Pirates may threaten its existence. Meanwhile, Moose is trying to balance his secret involvement with the Pirates against his commitments to school and to Camille, who secretly wants to be more than just a platonic BFF to Moose. But Camille may be able to take only so much neglect from Moose before even their BFF status is placed into jeopardy.—Huggo",
+    "Orphaned would be-filmmaker Luke uses his trust fund to host a 'crew' of talented street kids sharing his other passion, hip-hop dance. His latest brightest recruit is small NYU engineering freshman Moose, accidentally discovered by brilliantly winning an impromptu street challenge and accepts joining, while pressed for time by studies and best friend since childhood Camille. To prevent the cool place being bought by Luke's nemesis Julien, his Pirates must earn the fat cash prize of the 'first annual World Jam' in several rounds at different colorful New York clubs. Luke also takes in drifter Natalie, who becomes his lover, ignoring she's a spy planted by her brother Julien.—KGF Vissers"
+  ],
+  "synopsis": "",
+  "imdb_score": 6.2
+}

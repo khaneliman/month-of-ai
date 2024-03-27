@@ -1,0 +1,401 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/7aWpb0sfGteTomS9DP5NWDeD7DL.jpg",
+  "id": 9366,
+  "title": "Donnie Brasco",
+  "poster_path": "https://image.tmdb.org/t/p/w500/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg",
+  "release_date": "1997-02-27",
+  "vote_average": 7.539,
+  "vote_count": 4172,
+  "popularity": 21.882,
+  "overview": "An FBI undercover agent infiltrates the mob and identifies more with the mafia life at the expense of his regular one.",
+  "imdb_id": "tt0119008",
+  "budget": 35000000,
+  "homepage": "",
+  "revenue": 124909762,
+  "runtime": 127,
+  "tagline": "In 1978, the US government waged a war against organized crime. One man was left behind the lines.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Phoenix Pictures",
+    "Mark Johnson Productions",
+    "Baltimore Pictures",
+    "TriStar Pictures",
+    "Mandalay Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Johnny Depp",
+        "character": "Donnie Brasco / Joseph D. 'Joe' Pistone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wcI594cwM4ArPwvRd2IU0Z0yLuh.jpg"
+      },
+      {
+        "name": "Al Pacino",
+        "character": "Benjamin 'Lefty' Ruggiero",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2dGBb1fOcNdZjtQToVPFxXjm4ke.jpg"
+      },
+      {
+        "name": "Michael Madsen",
+        "character": "Dominick 'Sonny Black' Napolitano",
+        "profile_path": "https://image.tmdb.org/t/p/w185/69cqjkTNKI1muAfnvorfmWNVgIe.jpg"
+      },
+      {
+        "name": "Bruno Kirby",
+        "character": "Nicholas 'Nicky' Santora",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bvpcrrthfJ5jNbJnDeqJMuuneQB.jpg"
+      },
+      {
+        "name": "James Russo",
+        "character": "Paulie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nubhNb5OUkzsrndD1BNqzp7MGyo.jpg"
+      },
+      {
+        "name": "Anne Heche",
+        "character": "Maggie Pistone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8ypIeRAZ1qnHAKESUqSwetVKEXy.jpg"
+      },
+      {
+        "name": "Zeljko Ivanek",
+        "character": "Tim Curley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xLv19n8UvGJLxI7Z6RIv9eNXGmf.jpg"
+      },
+      {
+        "name": "Brian Tarantina",
+        "character": "Bruno",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1EysTrCLtGQ0rQBg6EqZkOWoamR.jpg"
+      },
+      {
+        "name": "Rocco Sisto",
+        "character": "Richard 'Richie' Gazzo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nljrL2do1PWBzrc8CRK8loibIXK.jpg"
+      },
+      {
+        "name": "Zach Grenier",
+        "character": "Dr. Berger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fSyQKZO39sUsqY283GXiScOg3Hi.jpg"
+      },
+      {
+        "name": "Gerry Becker",
+        "character": "Agent Dean Blandford FBI",
+        "profile_path": "https://image.tmdb.org/t/p/w185/il1r1Iym5WFJyo8SQon60aqu4nC.jpg"
+      },
+      {
+        "name": "Robert Miano",
+        "character": "Alphonse 'Sonny Red' Indelicato",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2nbXZKYKbadtKojWqbqumeClQ28.jpg"
+      },
+      {
+        "name": "Paul Giamatti",
+        "character": "FBI Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+      },
+      {
+        "name": "Gretchen Mol",
+        "character": "Sonny's Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e3C1D1I09gtSGy4Ej1ewW2FFoew.jpg"
+      },
+      {
+        "name": "Tim Blake Nelson",
+        "character": "FBI Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dcfdSmVmklb1HXHbB9kySdrl9Nq.jpg"
+      },
+      {
+        "name": "Walt MacPherson",
+        "character": "Sheriff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h0hxyg9jxJYGdXKFaCQSc3xtoMd.jpg"
+      },
+      {
+        "name": "Ronnie Farer",
+        "character": "Annette",
+        "profile_path": ""
+      },
+      {
+        "name": "Terry Serpico",
+        "character": "Strip Club Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5UfDA4ySgYUhle7iXqOuhzAgghn.jpg"
+      },
+      {
+        "name": "Tony Lip",
+        "character": "Philip 'Philly Lucky' Giaccone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6xz6XmjgiCCOm067OzWYziD4Mxa.jpg"
+      },
+      {
+        "name": "George Angelica",
+        "character": "Big Trin",
+        "profile_path": ""
+      },
+      {
+        "name": "Val Avery",
+        "character": "Santo Trafficante Jr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jqstekVs471L1eFJ9Omz2n2BqEf.jpg"
+      },
+      {
+        "name": "Madison Arnold",
+        "character": "Jilly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rbgHUIcP9rD0AwWNliCD3ZR80ep.jpg"
+      },
+      {
+        "name": "Delanie Fitzpatrick",
+        "character": "Daughter",
+        "profile_path": ""
+      },
+      {
+        "name": "Katie Sagona",
+        "character": "Daughter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/P3we4ULnamzzgo8SW3GHChLWcV.jpg"
+      },
+      {
+        "name": "Sara Gold",
+        "character": "Daughter",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry Romano",
+        "character": "Tommy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ekhIH4yOvVGPTcb28EPwALBj5Hu.jpg"
+      },
+      {
+        "name": "James McCauley",
+        "character": "FBI Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vSdvIZ3CT2GgKgvGtQUDYl6oTYp.jpg"
+      },
+      {
+        "name": "James Bulleit",
+        "character": "U.S. Attorney",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Parks",
+        "character": "Hollman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7mBajdAZ0vEorHpDuL6wIL6rRBX.jpg"
+      },
+      {
+        "name": "Keenan Shimizu",
+        "character": "Japanese Maitre D'",
+        "profile_path": ""
+      },
+      {
+        "name": "Rocco Musacchia",
+        "character": "Trafficante's Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rip3CRoHdUBmInxv5Bhy7hAOTi6.jpg"
+      },
+      {
+        "name": "Joe Francis",
+        "character": "Trafficante's Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Sal Jenco",
+        "character": "Mare Chiaro Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A54EuX6iyqJAZ4AUc6E2Rs5qpZq.jpg"
+      },
+      {
+        "name": "Billy Capucilli",
+        "character": "Communion Party Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Laura Cahill",
+        "character": "Communion Party Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Doreen Murphy",
+        "character": "Mob Girlfriend",
+        "profile_path": ""
+      },
+      {
+        "name": "Denise Faye",
+        "character": "Mob Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bM8aCfK77y8ATzLzeYGWkKoSclu.jpg"
+      },
+      {
+        "name": "Elaine del Valle",
+        "character": "Mob Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hKOPRKndIBXRygIEc1sT2aGXeo9.jpg"
+      },
+      {
+        "name": "John Horton",
+        "character": "FBI Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6c1x9prTCTcG3DyZ8l6pqvTEobk.jpg"
+      },
+      {
+        "name": "Dan Brennan",
+        "character": "FBI Photographer",
+        "profile_path": ""
+      },
+      {
+        "name": "LaJuan Carter",
+        "character": "Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sandy Barber",
+        "character": "Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Joyce Stovall",
+        "character": "Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Pesce",
+        "character": "Wiseguy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3GIoHp4pgOl2pETdEOfWrCmxrzr.jpg"
+      },
+      {
+        "name": "Randy Jurgensen",
+        "character": "Wiseguy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xRoN79wRLndTMCJoaBSsdjQVIzI.jpg"
+      },
+      {
+        "name": "John Di Benedetto",
+        "character": "Wiseguy",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Zavaglia",
+        "character": "Wiseguy",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Ray Rossi",
+        "character": "Wiseguy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n3FWaMTOx7tepU2HoetaBFHRthq.jpg"
+      },
+      {
+        "name": "Edward Black",
+        "character": "Wiseguy",
+        "profile_path": ""
+      },
+      {
+        "name": "Gaetano LoGiudice",
+        "character": "Wiseguy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/664ooysdFcVXELuNe0poRXp4u0G.jpg"
+      },
+      {
+        "name": "Carmelo Musacchia",
+        "character": "Wiseguy",
+        "profile_path": ""
+      },
+      {
+        "name": "Pat Vecchio",
+        "character": "Wiseguy",
+        "profile_path": ""
+      },
+      {
+        "name": "Caleb",
+        "character": "The Lion",
+        "profile_path": ""
+      },
+      {
+        "name": "Flint Beverage",
+        "character": "Kings Court Cop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9NtLiqWtX9YlepJEZzpFcNrhtOm.jpg"
+      },
+      {
+        "name": "Frank Bonsangue",
+        "character": "Sonny Red's Crew (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Todd Bruner",
+        "character": "FBI Agent (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Teresa Giudice",
+        "character": "Shocked Stripper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gKWxD2HVIgbB64zB4scVTaOelam.jpg"
+      },
+      {
+        "name": "Barry Hirschberg",
+        "character": "Background (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Lavin",
+        "character": "Arresting FBI Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4cA6iUeqcXDaCoFeTjkqYF0oNDx.jpg"
+      },
+      {
+        "name": "Peter O'Hara",
+        "character": "Passerby (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2YDBx3Vx2bSNXj0CvUzVLxsd5HZ.jpg"
+      },
+      {
+        "name": "Antone Pagán",
+        "character": "Prison Guard for Pacino and Depp (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/NJWuKdhtWU4xzGkLeoWOSox1I4.jpg"
+      },
+      {
+        "name": "Garry Pastore",
+        "character": "Carmine Galante's Bodyguard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5Ad2tXuIDbEv9rbpdH3EL0tAW2Z.jpg"
+      },
+      {
+        "name": "Dale Resteghini",
+        "character": "Strip Club Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dEaxVnJpQ4sEOBDFCRUMfeAe6AJ.jpg"
+      },
+      {
+        "name": "Larry Tobias",
+        "character": "Man in Bar (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Elle Alexander",
+        "character": "Mob Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6MZFAolCYO4Gq3GyhdRbvf1XbhN.jpg"
+      },
+      {
+        "name": "Frankie Cee",
+        "character": "Civilian (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mep4tDOglARtl45gjMafCHEafpS.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Mike Newell",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zeLnvLZtyJaBP1wWceRM7HWkm0E.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "florida",
+    "new york city",
+    "undercover",
+    "gangster",
+    "1970s",
+    "based on true story",
+    "mobster",
+    "mafia",
+    "dirty cop",
+    "informant",
+    "surveillance",
+    "card playing",
+    "stealing money",
+    "marriage counselor",
+    "drug deal",
+    "fbi agent",
+    "brutal violence"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "An FBI undercover agent infiltrates the mob and finds himself identifying more with the Mafia life--at the expense of his regular one.",
+    "This true story follows FBI agent Joe Pistone as he infiltrates the New York Mafia. Befriending Lefty Ruggiero, Pistone (under the name Donnie Brasco) is able to embed himself in a Mafia faction led by Sonny Black. Ruggiero and Pistone become tight as the group goes about collecting money for \"the bosses.\" Eventually, the group become big-time when Black himself becomes a boss; all the while, Pistone collects evidence. However, the trials and tribulations of the undercover work become more than Pistone can bear. His marriage falls apart, and to top it off, the Mafia suspect a mole in the organization. The real dilemma is afforded to Pistone, who knows that if he walks away from the Mafia, Ruggiero will be the one punished.—P. Wong",
+    "In the 1970s, FBI Agent Joe Pistone goes undercover and infiltrates the mob in New York City. Using the name Donnie Brasco, he befriends mafioso Benjamin \"Lefty' Ruggiero.\" As time goes by, Pistone begins to identify and care for his Mafia friends, especially Lefty. Pistone is married and has children, but he is away for weeks or months at a time, eventually leading to his wife asking for a divorce. When he stops reporting to the FBI daily as is required, his superiors decide the time has come to pull the plug on the operation. Based on a true story.—garykmcd"
+  ],
+  "synopsis": "In 1978. Joseph Pistone, a young member of the F.B.I. He manages to enter the world of the mafia when Lefty Ruggiero notices him, who wants to sell a diamond that Joseph, who makes himself known as Don the Jeweler, tells him is false, although he will help him get the debtor to settle his debt. debt, forcing him to give them his car.In this way, he gains the respect of Lefty, who from that moment on will consider him his friend and will introduce him to the world of the mafia, beginning to prepare reports and send photographs that will allow the police to know the world of the mafia from the inside.Lefty is a small-time mobster who has a hard time getting the money the organization demands from him and who has a great facility for spending it on bets that he never wins. Don is to him as he would like his son to be, a young drug addict with no job or benefit.What he doesn't know is that Don has his own family, which he has practically abandoned due to his new job, not even being able to attend his daughter's communion.His ascension in the world of the mafia is rapid, and the knowledge of the police about this organization is increasing, due to the fact that Lefty, despite being a poor guy, is esteemed by Sonny Black,, the manager of the business of the mafia. mob in Brooklyn because he helped his family while he was incarcerated.His superiors ask him to try to turn Sonny's eyes on Florida, thus trying to prevent his contacts in that area from being lost.Sonny thinks that that area is practically unexploited and he decides to explore the land, so he decides, after meeting with the head of the mafia in the area, to buy a place that will be exploited as a casino and luxury club.But the police will break into the place the same day of the inauguration, destroying everything and taking the proceeds, which makes Lefty suspect the presence of an infiltrator, which puts Donnie on his guard.None of them know that it was actually the local mafia boss, a friend of Sonny Red, who warned the police, thus leaving his opponent, Sonny Black, without the fee to pay the mafia boss, which will mean the death of the police. order for its execution.But Sonny Black, is not willing to consent to this and preempts his opponent's action by killing him and his lieutenants, and rising through the organization afterward.Everything he has experienced leads Joseph to rethink everything and for a time he stops informing his superiors and his wife, fed up with him, asks for a divorce, while he finds himself in a huge dilemma, because he knows that if everything gets to know the First to fall will be Lefty for having endorsed him, and the affection he feels for him does not allow him to let it happen.But his undercover job finally ends when Sonny asks him and Lefty to end the life of Sonny Red's son Anthony. Lefty tells him to shoot, though the timely arrival of the F.B.I. allows you to avoid doing it.A few days later, FBI agents informed Sonny and Lefty that Donnie was an undercover agent.They would both die by that ruling, while Joseph had to change his identity for the rest of his life, knowing that the mob put a $500,000 price tag on his head, even though he was eventually able to get his family back.",
+  "imdb_score": 7.7
+}

@@ -1,0 +1,671 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
+  "id": 597,
+  "title": "Titanic",
+  "poster_path": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+  "release_date": "1997-11-18",
+  "vote_average": 7.903,
+  "vote_count": 24209,
+  "popularity": 128.801,
+  "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+  "imdb_id": "tt0120338",
+  "budget": 200000000,
+  "homepage": "https://www.paramountmovies.com/movies/titanic",
+  "revenue": 2264162353,
+  "runtime": 194,
+  "tagline": "Nothing on Earth could come between them.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "Paramount",
+    "20th Century Fox",
+    "Lightstorm Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Jack Dawson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+      },
+      {
+        "name": "Kate Winslet",
+        "character": "Rose DeWitt Bukater",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg"
+      },
+      {
+        "name": "Billy Zane",
+        "character": "Cal Hockley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9HIubetYWAVLlHNb9aObL0fc0sT.jpg"
+      },
+      {
+        "name": "Kathy Bates",
+        "character": "Molly Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3MsayDvY73uXGVbCFHyy1ABTacV.jpg"
+      },
+      {
+        "name": "Frances Fisher",
+        "character": "Ruth DeWitt Bukater",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tsyGcoXGRNM8KGLpLG3OuxAyxx2.jpg"
+      },
+      {
+        "name": "Gloria Stuart",
+        "character": "Old Rose",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9aG7UUX3PWIGGf1KRY5TsBSoNz9.jpg"
+      },
+      {
+        "name": "Victor Garber",
+        "character": "Thomas Andrews",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v0xcGF04VgjX0LxQFUyAH8hY9l.jpg"
+      },
+      {
+        "name": "Bill Paxton",
+        "character": "Brock Lovett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jWN3BrSLvOuCxdn6fQmxd90ZEcp.jpg"
+      },
+      {
+        "name": "Bernard Hill",
+        "character": "Edward Smith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5i8bj2nsTrFU2ddSynleOjapxor.jpg"
+      },
+      {
+        "name": "David Warner",
+        "character": "Spicer Lovejoy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AlsZcAY2c4chfOxMW69gHQzH1B2.jpg"
+      },
+      {
+        "name": "Jonathan Hyde",
+        "character": "Bruce Ismay",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1jYyW3B5omvMTVfEswqQQBrHN2.jpg"
+      },
+      {
+        "name": "Lewis Abernathy",
+        "character": "Lewis Bodine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bkFz6dgGCjIEvreB2G3Yj49a6QD.jpg"
+      },
+      {
+        "name": "Suzy Amis",
+        "character": "Lizzy Calvert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q8aPLY9CjCl7tp60neddbJl4ZfW.jpg"
+      },
+      {
+        "name": "Nicholas Cascone",
+        "character": "Bobby Buell",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Nucci",
+        "character": "Fabrizio",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w8nMQvgBFY5vuDoN5B698ostLWN.jpg"
+      },
+      {
+        "name": "Jason Barry",
+        "character": "Tommy Ryan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iWDjll5GSVWCRSSe3XLDAtKq0ag.jpg"
+      },
+      {
+        "name": "Lew Palter",
+        "character": "Isidor Straus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dBzcQ3NhISBKSV0oRSXtbG4Gpih.jpg"
+      },
+      {
+        "name": "Eric Braeden",
+        "character": "John Astor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3EYWKMIcXJLAYZODY20Z6DpkNUp.jpg"
+      },
+      {
+        "name": "Ewan Stewart",
+        "character": "First Officer Murdoch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kSCa6itTQeukTzWxN0bAfU3i4y4.jpg"
+      },
+      {
+        "name": "Bernard Fox",
+        "character": "Archibald Gracie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7eSBf5vDFSAJJv8VxR0VfyXajkR.jpg"
+      },
+      {
+        "name": "Ioan Gruffudd",
+        "character": "Fifth Officer Lowe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8fZ1h879lO5lcKt9SG2UIXisq1k.jpg"
+      },
+      {
+        "name": "Jonny Phillips",
+        "character": "Second Officer Lightoller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bq5ecEmED8r7lqwu5DXnKEixLd8.jpg"
+      },
+      {
+        "name": "Edward Fletcher",
+        "character": "Sixth Officer Moody",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4PzQWgLttNH8z2MNXpAbAfI32vL.jpg"
+      },
+      {
+        "name": "Scott G. Anderson",
+        "character": "Frederick Fleet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uVxZknk6149PRMTteRkRx3OVXhs.jpg"
+      },
+      {
+        "name": "Martin East",
+        "character": "Reginald Lee",
+        "profile_path": ""
+      },
+      {
+        "name": "Gregory Cooke",
+        "character": "Jack Phillips",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexandrea Owens",
+        "character": "Cora Cartmell",
+        "profile_path": ""
+      },
+      {
+        "name": "Seth Adkins",
+        "character": "Three-Year-Old Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pFWVcO6Y1fB1tIgflBCyGwP5R7n.jpg"
+      },
+      {
+        "name": "Michael Ensign",
+        "character": "Benjamin Guggenheim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kCFAgMTp7kHDN1YzrlIi1aBaaoF.jpg"
+      },
+      {
+        "name": "Anatoly M. Sagalevitch",
+        "character": "Anatoly Milkailavich",
+        "profile_path": "https://image.tmdb.org/t/p/w185/apoz1iXhYVvyfRBnPcfN6R15Ztu.jpg"
+      },
+      {
+        "name": "Martin Hub",
+        "character": "Slovakian Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/udBteEYEksf6Icrrx7cAhGcq1r0.jpg"
+      },
+      {
+        "name": "Mark Lindsay Chapman",
+        "character": "Chief Officer Wilde",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6LmGSyU6TQU9Xdafg9bKseofaVg.jpg"
+      },
+      {
+        "name": "Richard Graham",
+        "character": "Quartermaster Rowe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ukEz43251dO4Gn9O3o0XzLmKqOf.jpg"
+      },
+      {
+        "name": "Paul Brightwell",
+        "character": "Quartermaster Hichens",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tVBcfCsxojACULbfrDmveJBX35S.jpg"
+      },
+      {
+        "name": "Craig Kelly",
+        "character": "Harold Bride",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gMUdQZ5YAMcLGFzdPEr3yL4pWS4.jpg"
+      },
+      {
+        "name": "Ron Donachie",
+        "character": "Master at Arms",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vnBM7idgiyXoat1E8IBKGekx2GS.jpg"
+      },
+      {
+        "name": "Charlotte Chatton",
+        "character": "Madeleine Astor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vhV0qc6leXokgUo0DnkpKYJIeCR.jpg"
+      },
+      {
+        "name": "Fannie Brett",
+        "character": "Madame Aubert",
+        "profile_path": ""
+      },
+      {
+        "name": "Jenette Goldstein",
+        "character": "Irish Mommy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4YZVLLWEFtxPLaOAlndfzxH1WG1.jpg"
+      },
+      {
+        "name": "Camilla Overbye Roos",
+        "character": "Helga Dahl",
+        "profile_path": ""
+      },
+      {
+        "name": "Linda Kerns",
+        "character": "Third Class Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uB1G41lgd7FySvyt7fzq8eugYYt.jpg"
+      },
+      {
+        "name": "Amy Gaipa",
+        "character": "Trudy Bolt",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Jarvis",
+        "character": "Duff Gordon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p3c8J6UrhVuQseepcbdOFMnb7J4.jpg"
+      },
+      {
+        "name": "Rosalind Ayres",
+        "character": "Lady Duff Gordon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3TBLZwWSm8uInoZzd46OaV8glzH.jpg"
+      },
+      {
+        "name": "Rochelle Rose",
+        "character": "Countess of Rothes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cd6puLTNhrOo4Q7RzOQHOXQ6bVN.jpg"
+      },
+      {
+        "name": "Jonathan Evans-Jones",
+        "character": "Wallace Hartley",
+        "profile_path": ""
+      },
+      {
+        "name": "Rocky Taylor",
+        "character": "Bert Cartmell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l367aS36f5vHh0bn4NWeHExw9qd.jpg"
+      },
+      {
+        "name": "Liam Tuohy",
+        "character": "Chief Baker Joughin",
+        "profile_path": ""
+      },
+      {
+        "name": "Simon Crane",
+        "character": "Fourth Officer Boxhall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8wEeMwpBEcS43XC8o2s2gad9cjy.jpg"
+      },
+      {
+        "name": "James Lancaster",
+        "character": "Father Byles",
+        "profile_path": ""
+      },
+      {
+        "name": "Elsa Raven",
+        "character": "Ida Strauss",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1N6pa5heM43SDwrGdGeNW5E7mNs.jpg"
+      },
+      {
+        "name": "Reece P. Thompson III",
+        "character": "Irish Little Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Laramie Landis",
+        "character": "Irish Little Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Rafael Truitt",
+        "character": "Yaley",
+        "profile_path": ""
+      },
+      {
+        "name": "John Walcutt",
+        "character": "First Class Husband",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gvCfBqpaAeCxxoaDYUzecbf68Cb.jpg"
+      },
+      {
+        "name": "Terry Forrestal",
+        "character": "Chief Engineer Bell",
+        "profile_path": ""
+      },
+      {
+        "name": "Derek Lea",
+        "character": "Leading Stoker Barrett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fcI8XMeweX1PyGfoalemET40QAM.jpg"
+      },
+      {
+        "name": "Richard Ashton",
+        "character": "John Hutchinson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vXU9iUlWQ3iniENuebXjjhdtVbQ.jpg"
+      },
+      {
+        "name": "Sean Nepita",
+        "character": "Elevator Operator",
+        "profile_path": ""
+      },
+      {
+        "name": "Brendan Connolly",
+        "character": "Scotland Road Steward",
+        "profile_path": ""
+      },
+      {
+        "name": "David Cronnelly",
+        "character": "Crewman",
+        "profile_path": ""
+      },
+      {
+        "name": "Garth Wilton",
+        "character": "First Class Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Fox",
+        "character": "Steward #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Nick Meaney",
+        "character": "Steward #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Owers",
+        "character": "Steward #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Capri",
+        "character": "Steward #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ymUufTw5v801anQ7HxE9c1Q7bi1.jpg"
+      },
+      {
+        "name": "Marc Cass",
+        "character": "Hold Steward #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uXLa9OA8bpeZvY4LB7g1BVSNvxE.jpg"
+      },
+      {
+        "name": "Paul Herbert",
+        "character": "Hold Steward #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Emmett James",
+        "character": "First Class Steward",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Byrne",
+        "character": "Stairwell Steward",
+        "profile_path": ""
+      },
+      {
+        "name": "Oliver Page",
+        "character": "Steward Barnes",
+        "profile_path": ""
+      },
+      {
+        "name": "James Garrett",
+        "character": "Porter",
+        "profile_path": ""
+      },
+      {
+        "name": "Erik Holland",
+        "character": "Olaf Dahl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dAfDvcLnT6gUui0FA04gbZQNPZk.jpg"
+      },
+      {
+        "name": "Jari Kinnunen",
+        "character": "Bjorn Gunderson",
+        "profile_path": ""
+      },
+      {
+        "name": "Anders Falk",
+        "character": "Olaus Gunderson",
+        "profile_path": ""
+      },
+      {
+        "name": "Barry Dennen",
+        "character": "Praying Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zSRROjxzdgbMRSPjpq2Kfpszd4J.jpg"
+      },
+      {
+        "name": "Vern Urich",
+        "character": "Man in Water",
+        "profile_path": ""
+      },
+      {
+        "name": "Rebecca Klingler",
+        "character": "Mother at Stern",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m7r1J0YOYVeiBfz0BWAgrcA4mAv.jpg"
+      },
+      {
+        "name": "Tricia O'Neil",
+        "character": "Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rT6AZ8cksTOjVs3UUxi3FD3lSlA.jpg"
+      },
+      {
+        "name": "Kathleen S. Dunn",
+        "character": "Woman in Water",
+        "profile_path": ""
+      },
+      {
+        "name": "Romeo Francis",
+        "character": "Syrian Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Mandana Marino",
+        "character": "Syrian Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Van Ling",
+        "character": "Chinese Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Bjørn Olsen",
+        "character": "Olaf",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Pettersson",
+        "character": "Sven",
+        "profile_path": ""
+      },
+      {
+        "name": "Shay Duffin",
+        "character": "Pubkeeper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A9oSkVp1v2MB2eR2ORziTi1m52b.jpg"
+      },
+      {
+        "name": "Greg Ellis",
+        "character": "Carpathia Steward",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8PlVCevV5c2QIdZ1S6bX0ttaRUC.jpg"
+      },
+      {
+        "name": "Diana Morgan",
+        "character": "News Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uwtxiIizdbuhvoGwDyoJqxvobP3.jpg"
+      },
+      {
+        "name": "Kris Andersson",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Bobbie Bates",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Aaron James Cash",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gsLtvmDMXtPFDwJHZsCuvyTGLmT.jpg"
+      },
+      {
+        "name": "Anne Fletcher",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8gD32nqf3fghg6FZhDbHxuowtyu.jpg"
+      },
+      {
+        "name": "Edmond Alan Forsyth",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Andie Hicks",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Hislop",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6zt107NxclsmAWhjefLOmSt6J0l.jpg"
+      },
+      {
+        "name": "Stan Mazin",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Ratzin",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vmHu55W5D8eoxw3TzbOwvAOkzGf.jpg"
+      },
+      {
+        "name": "Julene Renee",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Walsh",
+        "character": "Irish Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexandra Boyd",
+        "character": "First Class Woman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2iHDPqLBlzsOHNMZJxYjCxV14h7.jpg"
+      },
+      {
+        "name": "James Cameron",
+        "character": "Steerage Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg"
+      },
+      {
+        "name": "Mike Butters",
+        "character": "Musician / Baker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fwrOsNREtHO6kYuYdCRsZf2GFG7.jpg"
+      },
+      {
+        "name": "Bruno Campolo",
+        "character": "First Class Man (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin De La Noy",
+        "character": "Third Officer Pitman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Kenny",
+        "character": "Deckhand (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sean Lawlor",
+        "character": "Charles Hendrickson (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y7sWGFyRYObwk6TjZ98YlSBjis7.jpg"
+      },
+      {
+        "name": "Don Lynch",
+        "character": "Frederick Spedden (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Johnny Martin",
+        "character": "Rescue Boat Crewman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mtNPfGwZKGnLE4MzauUcoGM7NHn.jpg"
+      },
+      {
+        "name": "Ryan McClurkin",
+        "character": "Second Class Passenger / Engine Room Crewman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Meghan McLeod",
+        "character": "First Class Passenger (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2hNSdIy3H2q4vynutBqfn8CB2wN.jpg"
+      },
+      {
+        "name": "Mike O'Neal",
+        "character": "Engine Room Crewman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Phil Parlapiano",
+        "character": "Button Accordionist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Steven Quale",
+        "character": "Engine Room Crewman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5egEoUCfyEMxjznMwYU27PbTrkn.jpg"
+      },
+      {
+        "name": "R. Gern Trowbridge",
+        "character": "Drowning Man (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Olivia Rosewood",
+        "character": "Mary Marvin (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Slade",
+        "character": "Ohio Man (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nysKYvdDknh3pQsItdfMRhdpKjz.jpg"
+      },
+      {
+        "name": "Brian McDermott",
+        "character": "Titanic Gym Instructor Thomas McCawley (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bret Aaron Knower",
+        "character": "1st Class Passenger/ 3rd Class Passenger/ Stunts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4GW7pkF4eQyynWR3cL7bnhugA2l.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "James Cameron",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "epic",
+    "ship",
+    "drowning",
+    "panic",
+    "shipwreck",
+    "evacuation",
+    "iceberg",
+    "titanic",
+    "forbidden love",
+    "ocean liner",
+    "based on true story",
+    "rich woman poor man",
+    "love",
+    "tragedy",
+    "tragic love",
+    "disaster",
+    "historical fiction",
+    "class differences",
+    "love affair",
+    "historical event",
+    "lifeboat",
+    "star crossed lovers",
+    "sinking ship",
+    "steerage",
+    "rich snob",
+    "disaster movie",
+    "1910s",
+    "sunken ship"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "84 years later, a 100 year-old woman named Rose DeWitt Bukater tells the story to her granddaughter Lizzy Calvert, Brock Lovett, Lewis Bodine, Bobby Buell and Anatoly Mikailavich on the Keldysh about her life set in April 10th 1912, on a ship called Titanic when young Rose boards the departing ship with the upper-class passengers and her mother, Ruth DeWitt Bukater, and her fiancé, Caledon Hockley. Meanwhile, a drifter and artist named Jack Dawson and his best friend Fabrizio De Rossi win third-class tickets to the ship in a game. And she explains the whole story from departure until the death of Titanic on its first and last voyage April 15th, 1912 at 2:20 in the morning.—Anthony Pereyra <hypersonic91@yahoo.com>",
+    "After winning a trip on the RMS Titanic during a dockside card game, American Jack Dawson spots the society girl Rose DeWitt Bukater who is on her way to Philadelphia to marry her rich snob fiancé Caledon Hockley. Rose feels helplessly trapped by her situation and makes her way to the aft deck and thinks of suicide until she is rescued by Jack. Cal is therefore obliged to invite Jack to dine at their first-class table where he suffers through the slights of his snobbish hosts. In return, he spirits Rose off to third-class for an evening of dancing, giving her the time of her life. Deciding to forsake her intended future all together, Rose asks Jack, who has made his living making sketches on the streets of Paris, to draw her in the nude wearing the invaluable blue diamond Cal has given her. Cal finds out and has Jack locked away. Soon afterwards, the ship hits an iceberg and Rose must find Jack while both must run from Cal even as the ship sinks deeper into the freezing water.—hEmRaJ (gavin_coolhgr@hotmail.com)",
+    "Deep at the bottom of the sea, some 3,800 metres below the surface of the freezing Atlantic Ocean, lies the wreckage of a ship now stripped of its former glory: it is the unmistakable carcass of the Titanic, once man's grandest mechanical achievement. Almost one century later, modern treasure hunter Brock Lovett and his crew dig for answers, intrigued by the ocean liner's sunken hidden riches. But when lively centenarian Rose Calvert, one of Titanic's few survivors, learns about the ambitious crusade, the ship's never-before-heard story unfolds. And as the white-haired guest takes an emotional trip down memory lane, Rose intertwines the fate of King Louis XVI's exquisite Heart-of-the-Ocean diamond with a passionate romance aboard the ill-fated Titanic. However, history gives answers only to those who know how to ask questions. Is Lovett on the verge of making an extraordinary discovery?—Nick Riganas",
+    "In 1996 vessel Akademik Mstislav Keldysh where Brock Lovett and his team search for wreck of Titanic they come across a safe hoping that it could have the necklace also known as heart of ocean.After opening the safe they find that it just has sketches of a nude women with the necklace which are dated April 14 1912 same day Titanic submerged.An old lady identifies the pictures aired on television and discloses that the pictures belong to her and she is Rose Dawson Calvert.Rose accompanies with her granddaughter and encounters her experiences to Brock and his team she was then 17 years old who boarded Titanic with her mother Ruth and fiance Cal Hockley.Ruth wanted Rose to marry Cal so that their financial problems will be solved and status will be upright,Jack Dawason a poor artist wins a third class ticket for Titanic in a poker game and boards the ship with his friend.Rose isn't happy in her relationship with Col and tries to jump of the ship and gets saved by Jack.Rose and Jack further keep on meeting and develop a liking towards each other but Ruth and Col warn Rose to stay away from him somehow they both reconcile and Rose takes him to his room.Rose asks Jack to sketch her just in the necklace (heart of the ocean) when Cal's manager comes in search of them they hide in a lower deck of ship in a car and make love towards each other when the tragedy strikes of Titanic hitting the iceberg.The captains of the ship tried their best to save the ship hitting from iceberg but were in vain Jack and Rose overhear the officers that its a serious situation and that within two hours the ship will sink.—alex.mjacko@gmail.com"
+  ],
+  "synopsis": "In 1996, treasure hunter Brock Lovett (Bill Paxton) and his team aboard the research vessel Keldysh search the wreck of RMS Titanic for a necklace with a rare diamond, the Heart of the Ocean. They recover a safe containing a drawing of a young woman wearing only the necklace. It is dated April 14, 1912, the day the ship struck the iceberg. Rose Dawson Calvert (Gloria Stuart), claiming to be the person in the drawing, visits Lovett and tells of her experiences aboard the ship.\nIn 1912 Southampton, 17-year-old first-class passenger Rose DeWitt Bukater (Kate Winslet), her fiancé Cal Hockley (Billy Zane), and her mother Ruth (Frances Fisher) board the Titanic. Also boarding the ship at Southampton are Jack Dawson (Leonardo DiCaprio), a down-on-his-luck sketch artist, and his Italian friend Fabrizio (Danny Nucci). Young Rose, angry and distraught that her mother has apparently arranged the marriage, considers committing suicide by jumping from the stern; Jack manages to pull her back over the rail after she loses her footing & nearly falls into the propellers. Discovered with Jack, Rose tells Cal that she was peering over the edge and Jack saved her from falling. Cal is indifferent, but when Rose indicates some recognition is due, he offers Jack a small amount of money. After Rose asks whether saving her life meant so little, he invites Jack to dine with them in first class the following night, along with several prominent first-class passengers - including the Countess of Rothes, Archibald Gracie (Bernard Fox), Thomas Andrews (Victor Garber), Molly Brown (Kathy Bates), and John Jacob Astor (Eric Braeden) & his wife. Jack and Rose develop a tentative friendship, though Cal and Ruth are wary of him. Following dinner, Rose secretly joins Jack at a party in third class. During the party Cal's butler, Spicer Lovejoy (David Warner) stealthily sneaks down the third class staircase to spy on her.\nAfter a very tense breakfast the following morning, in which Cal shows an inclination towards violence, Rose becomes even more apprehensive about her upcoming marriage. Ruth emphasizes that Rose's marriage will resolve the DeWitt Bukaters' financial problems. After spotting Rose, Cal and Ruth out on the Boat Deck, Jack stealthily sneaks back into First Class and tries to warn Rose about what she may be facing. Rose rebuffs Jack's advances, but later realizes that she prefers him over Cal. After meeting on the bow at sunset, Rose takes Jack to her state room and displays Cal's engagement present: the Heart of the Ocean. At her request, Jack sketches Rose posing nude wearing it. Meanwhile, in the First-Class Smoking Room, Cal's butler informs him that none of the stewards have seen Rose at all that night. Cal orders the butler to find her. Rose & Jack manage to evade Cal's bodyguard and have sex in an automobile inside the cargo hold. They later visit the forward well deck, and while on it, the lookouts spot an iceberg directly in the ship's path. Orders are given to turn the ship hard a-starboard and run the engines full astern, but the ship takes too long to make the turn and the starboard side scrapes along the iceberg, causing substantial damage to the watertight compartments, including the cargo hold where Jack & Rose had been having sex in the automobile. Jack & Rose witness the collision with the iceberg and overhear the officers and designer discussing its seriousness.\nOn the bridge, builder Thomas Andrews, Captain Smith (Bernard Hill), the ship's officers and White Star Line Managing Director Bruce Ismay (Jonathan Hyde) discuss the damage. The water has reached 14 feet above the keel in 10 minutes and has flooded 5 watertight compartments. Mr. Andrews warns that because of a design flaw, the water will spill over the tops of the bulkheads at E Deck, and this will cause the ship to sink. He gives an hour, two at most, for the ship to remain afloat.\nCal discovers Jack's sketch of Rose and a mocking note from her in his safe along with the necklace. When Jack and Rose attempt to tell Cal of the collision, he has his butler slip the necklace into Jack's pocket and accuses him of theft. He is arrested, taken to the Master-at-arms' office, and handcuffed to a pipe. Cal puts the necklace in his own coat pocket.\nWith the ship sinking, Rose is desperate to free Jack. She flees Cal and her mother, who has boarded a lifeboat, and rescues him. They return to the boat deck, where Cal and Jack encourage her to board a lifeboat; Cal claims he can get himself and Jack off safely. After Rose boards one, Cal tells Jack the arrangement is only for himself. As her boat lowers, Rose decides that she cannot leave Jack and jumps back on board. Jack confronts her, angrily at first, but his angers soon turns to affection and they share a series of kisses at the bottom of the Grand Staircase. Cal, seeing this, takes his butler's pistol and chases Rose and Jack into the flooding first class dining saloon. After using up his ammunition, Cal realizes he gave his coat and consequently the necklace to Rose. Jack & Rose are forced to flee below decks to escape Cal, and narrowly escape drowning themselves. They become trapped behind a locked gate, but Jack manages to free them just as the rising water reaches their heads.\nOut on the Boat Deck, Cal decides to make his own escape. He reminds the First Officer of the arrangement made earlier, but the officer angrily turns on Cal and refuses to allow him boarding. When he spots a lost child hiding behind a winch, he takes the child and is subsequently allowed into a collapsible lifeboat by Chief Officer Wilde. As Cal and others board the collapsible, the water surges into the bridge & wheelhouse, drowning Captain E.J. Smith and causing Cal's boat to start floating off the deck. By now the stern is staring to rise out of the water and the remaining passengers are running farther & farther aft.\nAfter braving several obstacles, Jack and Rose return to the boat deck. All the lifeboats have departed and passengers are falling to their deaths as the stern rises out of the water. Water now crashes through the huge dome over the Grand Staircase, drowning those passengers trapped inside. Jack & Rose reach the very stern - where they had first met - and take up positions on it by climbing over the rail, next to Chief Baker Charles Joughin. The ship breaks in half, causing the stern to crash down into the water and killing Lovejoy, the butler. As the bow breaks off it pulls the stern back into the air, leaving it sitting there for a minute. Jack and Rose ride it into the ocean as it fills with water and then plunges to the bottom. As Jack & Rose let go of the stern, the Titanic disappears into the darkness below them, and they both swim to the surface to find themselves in a massive mob of passengers and crew. Within minutes, Rose & Jack find a piece of paneling from the Grand Staircase, and he helps her onto the wooden panel only buoyant enough for one person. Holding the edge, he assures her that she will die an old woman, warm in her bed. He dies of hypothermia but she is saved when Fifth Officer Lowe & some crewmen return to try to find survivors.\nWith Rose hiding from Cal en route, the RMS Carpathia takes the survivors to New York. There she gives her name as Rose Dawson. She later learns that Cal committed suicide after losing everything in the 1929 Wall Street Crash.\nLovett abandons his search after hearing Rose's story. Alone on the stern of the Keldysh, Rose takes out the Heart of the Ocean - in her possession all along - and drops it into the sea over the wreck site. While she is seemingly asleep in her bed, photos on her dresser depict a life of freedom and adventure, partly inspired by Jack. A young Rose returns to the ship - at first, a gloomy wreck on the bottom - but as Rose reaches the Promenade Deck the ship begins to glow with light. As she enters the Grand Staircase she is greeted by those who perished on the ship - including the Titanic's band, First Officer Murdoch, Thomas Andrews, Jack's friends Fabrizio & Tommy Ryan, and standing at the clock is Jack himself. He extends a hand and they reunite, to the happy cheers of the perished passengers & crew.",
+  "imdb_score": 7.9
+}

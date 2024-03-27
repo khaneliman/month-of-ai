@@ -1,0 +1,492 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/uzvT6tYrU5SxfHe1ieimIGAqyFm.jpg",
+  "id": 473033,
+  "title": "Uncut Gems",
+  "poster_path": "https://image.tmdb.org/t/p/w500/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+  "release_date": "2019-08-30",
+  "vote_average": 7.149,
+  "vote_count": 4406,
+  "popularity": 29.077,
+  "overview": "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
+  "imdb_id": "tt5727208",
+  "budget": 19000000,
+  "homepage": "https://a24films.com/films/uncut-gems",
+  "revenue": 50000000,
+  "runtime": 136,
+  "tagline": "This is how I win.",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    "A24",
+    "Elara Pictures",
+    "IAC Films",
+    "Sikelia Productions",
+    "Scott Rudin Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Adam Sandler",
+        "character": "Howard Ratner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1xVMlB2Ufj8MtXzZkfQlPoadRMm.jpg"
+      },
+      {
+        "name": "LaKeith Stanfield",
+        "character": "Demany",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5AykKpsH8DMxIm144ET7fVVTQfw.jpg"
+      },
+      {
+        "name": "Julia Fox",
+        "character": "Julia De Flore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AwipgBalCBiOfwXKssxM0NQlz33.jpg"
+      },
+      {
+        "name": "Kevin Garnett",
+        "character": "Kevin Garnett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/reAAQwMgeq9Z6xGBSbumnsjfyfK.jpg"
+      },
+      {
+        "name": "Idina Menzel",
+        "character": "Dinah Ratner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l2N0xOzHqZ75bKXBCciKwBdwxcN.jpg"
+      },
+      {
+        "name": "Eric Bogosian",
+        "character": "Arno Moradian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lUtLCWoLh18UFVOHBFr1VpUpoYJ.jpg"
+      },
+      {
+        "name": "Judd Hirsch",
+        "character": "Gooey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7rJ0TZfMoPLTcO203tHhE6tcPKP.jpg"
+      },
+      {
+        "name": "Keith William Richards",
+        "character": "Phil",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zZ7GvVA7X2CgZSEsGbABEuQgNPw.jpg"
+      },
+      {
+        "name": "Mike Francesa",
+        "character": "Gary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/NwrexgvNqGLLGRAUDf0f1tADz6.jpg"
+      },
+      {
+        "name": "Jonathan Aranbayev",
+        "character": "Eddie Ratner",
+        "profile_path": ""
+      },
+      {
+        "name": "Noa Fisher",
+        "character": "Marcel Ratner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1HicF91xNsv5xjgpngPTxyTu4cX.jpg"
+      },
+      {
+        "name": "The Weeknd",
+        "character": "The Weeknd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y47iuHVQxHslpGRk8rPpIBntln8.jpg"
+      },
+      {
+        "name": "Mesfin Lamengo",
+        "character": "Wounded Miner",
+        "profile_path": ""
+      },
+      {
+        "name": "Sun Zhi Hua-Hilton",
+        "character": "Mine Foreman",
+        "profile_path": ""
+      },
+      {
+        "name": "Liang Wei-Hui-Duncan",
+        "character": "Mine Management 1",
+        "profile_path": ""
+      },
+      {
+        "name": "Deneke Muhugeta",
+        "character": "Lead Miner 1",
+        "profile_path": ""
+      },
+      {
+        "name": "Habtunu Africho",
+        "character": "Lead Miner 2",
+        "profile_path": ""
+      },
+      {
+        "name": "Warren Finkelstein",
+        "character": "Dr. Blauman",
+        "profile_path": ""
+      },
+      {
+        "name": "Tommy Kominik",
+        "character": "Nico",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2MwunBLciLmDggD4CpQF4CnVaKZ.jpg"
+      },
+      {
+        "name": "Maksud Agadjani",
+        "character": "Yussi",
+        "profile_path": ""
+      },
+      {
+        "name": "Ca$h Out",
+        "character": "Ca$h Out",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrea Linsky",
+        "character": "Joani",
+        "profile_path": ""
+      },
+      {
+        "name": "Roman Persits",
+        "character": "Roman",
+        "profile_path": ""
+      },
+      {
+        "name": "Pom Klementieff",
+        "character": "Lexis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hfUKAI2kXTMMWjno0i4sLPJud5N.jpg"
+      },
+      {
+        "name": "Paloma Elsesser",
+        "character": "Kat",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mSm5FUtppj5zftArKAUF2HB3r6e.jpg"
+      },
+      {
+        "name": "Sean Ringgold",
+        "character": "KG Bodyguard 1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/amErsgNKPMz7ngUYLPRXnvAZgYC.jpg"
+      },
+      {
+        "name": "Jeremy Sample",
+        "character": "KG Bodyguard 2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/70zuIzKldndDy9fE21i8bZNEfxy.jpg"
+      },
+      {
+        "name": "Todd Vulpio",
+        "character": "David the Jeweler",
+        "profile_path": ""
+      },
+      {
+        "name": "Damany Eastman",
+        "character": "KG Friend 1",
+        "profile_path": ""
+      },
+      {
+        "name": "Gerard \"Dash\" McQuiller",
+        "character": "KG Friend 2",
+        "profile_path": ""
+      },
+      {
+        "name": "Arthur Borukhov",
+        "character": "Elan",
+        "profile_path": ""
+      },
+      {
+        "name": "Darien Howard",
+        "character": "TDS Delivery Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Ronald Greenberg",
+        "character": "Rodney Bronstein",
+        "profile_path": ""
+      },
+      {
+        "name": "Marshall Greenberg",
+        "character": "Steve Bronstein",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael A. Sollecito",
+        "character": "Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Shemsi Selimaj",
+        "character": "Nino",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacob Dylan Igielski",
+        "character": "Beni Ratner",
+        "profile_path": ""
+      },
+      {
+        "name": "Hailey Gates",
+        "character": "Adley's Receptionist",
+        "profile_path": ""
+      },
+      {
+        "name": "Mitchell Wenig",
+        "character": "Larry",
+        "profile_path": ""
+      },
+      {
+        "name": "Stuart Wenig",
+        "character": "Larry's Brother",
+        "profile_path": ""
+      },
+      {
+        "name": "Raleem Moses",
+        "character": "Sixers Security Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Keren Shemel",
+        "character": "Eiline Goldfarb",
+        "profile_path": ""
+      },
+      {
+        "name": "Aren Topian",
+        "character": "Eric Goldfarb",
+        "profile_path": ""
+      },
+      {
+        "name": "Louis Anthony Arias",
+        "character": "Buddy",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcia DeBonis",
+        "character": "Drama Teacher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eZe5MaHdSP4YFNqKznG1eWYVBGc.jpg"
+      },
+      {
+        "name": "Anthony Mecca",
+        "character": "Michael",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uH2beL4WSvTBugfpeQrtoYetRuz.jpg"
+      },
+      {
+        "name": "Max Bartos",
+        "character": "\"Dwarf 1\"",
+        "profile_path": ""
+      },
+      {
+        "name": "Jake Ryan",
+        "character": "\"Dwarf 2\"",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hsVgz0a7QvUHDHdqFEataZ766MB.jpg"
+      },
+      {
+        "name": "Shiv Pai",
+        "character": "\"Dwarf 3\"",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fPOenpojzOgsPdzWsLe5hD6yhyL.jpg"
+      },
+      {
+        "name": "Lino Eisenberg",
+        "character": "Danny \"The Woodsman\"",
+        "profile_path": ""
+      },
+      {
+        "name": "Kerwin Frost",
+        "character": "DJ at 10 OAK (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "La Mar Taylor",
+        "character": "Friend of The Weeknd",
+        "profile_path": ""
+      },
+      {
+        "name": "Trinidad James",
+        "character": "Trinidad James",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xHsuONcw3xYPfAfgYb5eHHZ404P.jpg"
+      },
+      {
+        "name": "William Sappe",
+        "character": "Nightclub Security Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Greg Yuna",
+        "character": "Flawless",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Plajas",
+        "character": "Abel's Bodyguard 1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mWnrtjy3TEmlMzGEILCuXIOjrWs.jpg"
+      },
+      {
+        "name": "Ricky Barksdale",
+        "character": "Abel's Bodyguard 2",
+        "profile_path": ""
+      },
+      {
+        "name": "Tilda Swinton",
+        "character": "Anne \"Adley's Auction Manager\" (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gWbX3a7V2MgRMRzekfITNcb27xV.jpg"
+      },
+      {
+        "name": "Jennifer Venditti",
+        "character": "KG's Agent (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Natasha Lyonne",
+        "character": "Boston Player Personnel (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Abtdt76k3oAmag6Femlic4A3zR6.jpg"
+      },
+      {
+        "name": "Larry Sloman",
+        "character": "Man on Street",
+        "profile_path": "https://image.tmdb.org/t/p/w185/enSAk6TAQYApYPBo5fVQUf26wcP.jpg"
+      },
+      {
+        "name": "Benjy Kleiner",
+        "character": "Aaron",
+        "profile_path": ""
+      },
+      {
+        "name": "Svetlana B. Levitin",
+        "character": "Ruth",
+        "profile_path": ""
+      },
+      {
+        "name": "Roza Babekova",
+        "character": "Rachel",
+        "profile_path": ""
+      },
+      {
+        "name": "Josh Ostrovsky",
+        "character": "Noah",
+        "profile_path": ""
+      },
+      {
+        "name": "Jessica Mullayev",
+        "character": "Natalie",
+        "profile_path": ""
+      },
+      {
+        "name": "Izra Malakov",
+        "character": "Izra",
+        "profile_path": ""
+      },
+      {
+        "name": "Sahar Bibiyan",
+        "character": "Ida",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7SlWvJbXlnwbMeJSWMdzmI8wRAC.jpg"
+      },
+      {
+        "name": "Brad Davidorf",
+        "character": "Radio DJ (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ralph Colucci",
+        "character": "Night Doorman",
+        "profile_path": ""
+      },
+      {
+        "name": "Marty Tendler",
+        "character": "Concierge",
+        "profile_path": ""
+      },
+      {
+        "name": "John Amos",
+        "character": "Neighbor 33F",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b2zYGkMG28wYDHC9CunfYAeoeMQ.jpg"
+      },
+      {
+        "name": "Conor Coyne",
+        "character": "Neighbor 33H",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexander Gilkes",
+        "character": "Adley's Auctioneer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jennifer Sacks",
+        "character": "Kevin Garnett's Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Wayne Diamond",
+        "character": "High Roller",
+        "profile_path": ""
+      },
+      {
+        "name": "Debbie DeLisi",
+        "character": "Mohegan Sun Teller",
+        "profile_path": ""
+      },
+      {
+        "name": "Chad Neves",
+        "character": "Supervisor",
+        "profile_path": ""
+      },
+      {
+        "name": "Ara Daglian",
+        "character": "Gambler in Sports Book",
+        "profile_path": ""
+      },
+      {
+        "name": "Glenn 'Doc' Rivers",
+        "character": "Glenn 'Doc' Rivers (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nd1ka9yZWfHD5mlrfB521x7pWaX.jpg"
+      },
+      {
+        "name": "Erika Wachter",
+        "character": "Post Game Interview",
+        "profile_path": ""
+      },
+      {
+        "name": "Sunny Wu Jin Zahao",
+        "character": "Mine Management 2",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Josh Safdie",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bNYM97KLLVoICe3fZt6bKbvXV8d.jpg"
+      },
+      {
+        "name": "Benny Safdie",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gidElVVlUGeAby1trDGW9DlxLh5.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "bet",
+    "infidelity",
+    "new york city",
+    "gambling",
+    "auction",
+    "ethiopia",
+    "dark comedy",
+    "basketball",
+    "money",
+    "art house",
+    "debt",
+    "apartment building",
+    "opal",
+    "pawnshop",
+    "character study",
+    "jeweler",
+    "city life",
+    "neo-noir",
+    "independent film",
+    "black opal"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "With his debts mounting and angry collectors closing in, a fast-talking New York City jeweler risks everything in hope of staying afloat and alive.",
+    "Howard Ratner (Adam Sandler) is a once successful New York gems dealer whose gambling addiction has left his family and career in shambles, and him hundreds of thousands in debt. Always looking for the next big bet, Howard thinks he finally hit it big when he discovers a rare uncut Opal from Ethiopia, with a very interested high-profile buyer. But the closer Howard gets to finally winning big, the more he is forced to realize he can't keep running from the consequences of his actions.",
+    "In New York City's chaotic and corrupt diamond market, the gemstone dealer and gambling addict, Howard Ratner, is owing money to almost everyone, including his brother-in-law, Arno. A serial adulterer, incorrigible gambler, and all-around con artist, Howard thinks he can finally get out of the tight spot when he gets his hands on a block of rare Ethiopian black opal--the means to clear his ever-rising debts. But, the star Boston Celtics player, Kevin Garnett, has already taken a shine to the precious uncut gem. Can Ratner juggle his family, a pair of thuggish collectors, his work, and his master plan before things get nasty?—Nick Riganas",
+    "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
+    "From acclaimed filmmakers Josh and Benny Safdie comes an electrifying crime thriller about Howard Ratner (Adam Sandler), a charismatic New York City jeweler always on the lookout for the next big score. When he makes a series of high-stakes bets that could lead to the windfall of a lifetime, Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides, in his relentless pursuit of the ultimate win."
+  ],
+  "synopsis": "In 2010, Ethiopian Jewish miners retrieve a rare black opal from the Welo mine in Africa. 2012, gambling addict Howard Ratner runs KMH, a jewelry store in New York City's Diamond District. Howard struggles to pay off gambling debts, including $100,000 he owes to Arno, his loan shark brother-in-law. His domestic life is split between Dinah, his estranged wife who has agreed to a divorce after Passover, and his girlfriend Julia, a KMH employee.Howard's business associate Demany brings basketball star Kevin Garnett to KMH. While Garnett is in the store, the rare Ethiopian black opal Howard has ordered arrives. Garnett becomes obsessed with it, insisting on holding onto it for good luck at his game that night. Howard reluctantly agrees, accepting Garnett's 2008 NBA Championship ring as collateral.Immediately after Garnett leaves, Howard pawns the ring and places a six-way parlay on Garnett playing extraordinarily well in that night's game. Howard wins $600,000, but is ambushed at his daughter's school play by Arno and his bodyguards Phil and Nico. Arno reveals that he placed a stop on Howard's bet as it was made with money owed to him. Phil and Nico strip Howard naked and lock him in the trunk of his car, forcing him to call Dinah for help.Howard tracks down Demany at a party hosted by the Weeknd. Demany says that Garnett still has the opal, angering Howard. Howard discovers Julia and the Weeknd snorting cocaine together in a bathroom, and gets into a fight with him. Feeling betrayed, Howard demands that Julia move out of his apartment. After an awkward Passover dinner, Dinah rejects Howard's plea to give their marriage another chance.Garnett returns the opal before the auction and offers to purchase it for $175,000, but Howard refuses, given the substantially larger appraisal. Just before the auction starts, Howard discovers the opal has been appraised for significantly less than his initial estimate of $1 million. He convinces his father-in-law Gooey to bid on the gem to drive up the price, but the plan backfires when Garnett fails to top Gooey's final bid. A furious Gooey gives Howard the opal before Arno, Phil, and Nico assault Howard outside the auction house. Howard returns to KMH, bloody and in tears. Julia comforts him and they reconcile.Howard learns that Garnett is still willing to purchase the opal; as soon as the sale is made, Howard bets the proceeds on a three-way parlay on Garnett having a strong performance. He tells Julia to travel by helicopter to Mohegan Sun to place the bet for him. Julia narrowly escapes as Arno, Phil and Nico arrive at KMH. The thugs find Howard in his office and threaten him, but he refuses to call Julia and cancel the bet. Furious, the three attempt to pursue her, but Howard locks them in between the store's security doors. Howard watches the game on TV while Arno, Phil and Nico remain trapped.Garnett's Boston Celtics win the game, winning Howard $1.2 million. An ecstatic Howard frees Arno, Phil and Nico, but Phil, enraged, shoots and kills Howard. Arno protests and tries to escape, but Phil kills him as well. Julia leaves the casino with Howard's winnings. Phil and Nico loot the store as the police are called.",
+  "imdb_score": 7.4
+}

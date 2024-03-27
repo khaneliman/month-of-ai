@@ -1,0 +1,518 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/soxvAxlPTp3ATvvza4jSwzFUUEV.jpg",
+  "id": 138832,
+  "title": "We're the Millers",
+  "poster_path": "https://image.tmdb.org/t/p/w500/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg",
+  "release_date": "2013-08-07",
+  "vote_average": 6.823,
+  "vote_count": 8506,
+  "popularity": 54.317,
+  "overview": "A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.",
+  "imdb_id": "tt1723121",
+  "budget": 37000000,
+  "homepage": "http://werethemillers.warnerbros.com",
+  "revenue": 270000000,
+  "runtime": 110,
+  "tagline": "If anyone asks.",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "production_companies": [
+    "New Line Cinema",
+    "Newman/Tooley Films",
+    "Bad Version",
+    "Slap Happy Productions",
+    "Heyday Films",
+    "BenderSpink",
+    "Warner Bros. Pictures"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jason Sudeikis",
+        "character": "David Clark",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uuacnP9DOHMsmj8FhBi0cWWDgrn.jpg"
+      },
+      {
+        "name": "Jennifer Aniston",
+        "character": "Rose O'Reilly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qPXG41rYdUGldZhMhuZFvmpZKRp.jpg"
+      },
+      {
+        "name": "Emma Roberts",
+        "character": "Casey Mathis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/87w6fTvmJTQScgKKJFS91hYJ33a.jpg"
+      },
+      {
+        "name": "Will Poulter",
+        "character": "Kenny Rossmore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9blYMaj79VGC6BHTLmJp3V5S8r3.jpg"
+      },
+      {
+        "name": "Ed Helms",
+        "character": "Brad Gurdlinger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+      },
+      {
+        "name": "Nick Offerman",
+        "character": "Don Fitzgerald",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tDzCAAJinH4Xt3lSKsajfiTyRK9.jpg"
+      },
+      {
+        "name": "Kathryn Hahn",
+        "character": "Edie Fitzgerald",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg"
+      },
+      {
+        "name": "Molly C. Quinn",
+        "character": "Melissa Fitzgerald",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c3pWyH63Z7RHZkU3y3u6O8f07qf.jpg"
+      },
+      {
+        "name": "Tomer Sisley",
+        "character": "Pablo Chacon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Tqiq9ajbiA0OGbpQDorROU2SO7.jpg"
+      },
+      {
+        "name": "Matthew Willig",
+        "character": "One-Eye",
+        "profile_path": "https://image.tmdb.org/t/p/w185/46nLaoxRvXpx8ohmG7hx2Qq00Sr.jpg"
+      },
+      {
+        "name": "Luis Guzmán",
+        "character": "Mexican Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+      },
+      {
+        "name": "Thomas Lennon",
+        "character": "Rick Nathanson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s8pw7BfuMxN7P0p5XJ9POfod7zW.jpg"
+      },
+      {
+        "name": "Mark L. Young",
+        "character": "Scottie P.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lgbj5zuTR6kFLwEpL2E5mlsAMr3.jpg"
+      },
+      {
+        "name": "Ken Marino",
+        "character": "Todd - Strip Club Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h2w8mAHhuZtvGD3yd85f3gpTUSY.jpg"
+      },
+      {
+        "name": "Laura-Leigh",
+        "character": "Kymberly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jnCAvc2EHUNnaqfaMOMqZIuL3u4.jpg"
+      },
+      {
+        "name": "Crystal Nichol",
+        "character": "Brad's Receptionist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9gS0uwcrPKvNP4BN5xQJu1XbaLa.jpg"
+      },
+      {
+        "name": "Dickson Obahor",
+        "character": "Parking Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s1XAb6fyRTjOZAvsNrkvgzLe2fy.jpg"
+      },
+      {
+        "name": "Brett Gentile",
+        "character": "White Bread Dad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gpUH0dEeKDyh1Vr32kctU4DUFMY.jpg"
+      },
+      {
+        "name": "Kelly Collins Lintz",
+        "character": "White Bread Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zD2vrk2y1E4gy4gsMlmNDhlXsLP.jpg"
+      },
+      {
+        "name": "Sam Richardson",
+        "character": "TSA Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9GonbfsghKD33PZlvAttAhCS8S8.jpg"
+      },
+      {
+        "name": "Lynn Talley",
+        "character": "Stylist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qpOXAsvY6rxtcUFO7ka6OUBMTjQ.jpg"
+      },
+      {
+        "name": "Alan Gilmer",
+        "character": "Middle Aged Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ysaSIOi007sUFn4OpWEkOSos8np.jpg"
+      },
+      {
+        "name": "Denielle Fisher Johnson",
+        "character": "Flight Attendant #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dOjEmKDYPZOpIZHCNBKcXJRl0fl.jpg"
+      },
+      {
+        "name": "Deborah Chavez",
+        "character": "Flight Attendant #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qVyvijLBZ3dTSoMBf5ovNcsGOeB.jpg"
+      },
+      {
+        "name": "Kevin Dorff",
+        "character": "Border Guard #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yrI78HuKy1KzJ2zTnP6ujMtyHrQ.jpg"
+      },
+      {
+        "name": "Rawson Marshall Thurber",
+        "character": "The Ultimate Border Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bFtVBwPGiQfhSbZbZdGFuP1acw1.jpg"
+      },
+      {
+        "name": "Kurt Grossi",
+        "character": "Border Guard #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave McElhaney",
+        "character": "White Gringo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vucuWgERSLW9pg5Otnub8SMuHTr.jpg"
+      },
+      {
+        "name": "Brendan Hunt",
+        "character": "Sketchy Dude",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3P8YeRaNSB3XMcujL23qzDhJa5s.jpg"
+      },
+      {
+        "name": "Scott Adsit",
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vbbuugUWrZhxA7ASWYiGqdZ6Dtf.jpg"
+      },
+      {
+        "name": "Vickie Eng",
+        "character": "Hospital Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/av58UfVqzkkRNOZ6GIcWdcD8ugl.jpg"
+      },
+      {
+        "name": "Lunden De'Leon",
+        "character": "Hospital Receptionist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/anRb654iXTcOF23s1Ph4poiNZTD.jpg"
+      },
+      {
+        "name": "Joey Nappo",
+        "character": "Gutter Punk #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oe3kyCOd68wTHFZkfon2ypke3x4.jpg"
+      },
+      {
+        "name": "Joshua Mikel",
+        "character": "Gutter Punk #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wSi44oJjOHYctuni0vmKoU0Jfmh.jpg"
+      },
+      {
+        "name": "Matt Schweppe",
+        "character": "Gutter Punk #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qnB0bpPcXCwe1edcSCFrvBLiFuP.jpg"
+      },
+      {
+        "name": "Tonya Bludsworth",
+        "character": "Soccer Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6z68gggGbrY1uidDU9tgk8TSS27.jpg"
+      },
+      {
+        "name": "Matthew Cornwell",
+        "character": "Dan Johnson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6j1squGcSCj84mRPFpfno0jHP1G.jpg"
+      },
+      {
+        "name": "Marcus Viscidi",
+        "character": "Business Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mQuMv1kpd2WPeaM9kAnpwauAMpB.jpg"
+      },
+      {
+        "name": "Andrea Alcorn",
+        "character": "Fair Goer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Edward Andazola",
+        "character": "Mexican Federali - SWAT (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Loren Anthony",
+        "character": "Mexican Border Crosser (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lxCRIwQUwf185j6e8gv9z5PKGrf.jpg"
+      },
+      {
+        "name": "Joshua R. Aragon",
+        "character": "Drug Cartel Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A0ALklluTMk9Vy2eq1pl6vG7w2Q.jpg"
+      },
+      {
+        "name": "Lionel Archuleta",
+        "character": "Mexican Pedestrian (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eMDb5ocCwHAzR6PfjTHPFQV26Gi.jpg"
+      },
+      {
+        "name": "Laura Avery",
+        "character": "Fair Goer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Del Baron",
+        "character": "Coffee Shop Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Alyssa Bauman",
+        "character": "Pedestrian (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Christine Bear",
+        "character": "Strip Club Cocktail Waitress (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jenique Bennett",
+        "character": "Stripper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ofV8UMdocjvj3ZBIn9NnTLgjRRS.jpg"
+      },
+      {
+        "name": "Ashley Blankenship",
+        "character": "Hot Tub Bikini Girlfriend (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n9CqBl9Kb5O3bnuL0UQ9t8jzgtS.jpg"
+      },
+      {
+        "name": "Kristi Booher",
+        "character": "Pedestrian (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/droWOUpVp5gJoDga3Q5VyVRQHRM.jpg"
+      },
+      {
+        "name": "Rachel Brewer",
+        "character": "Fair Goer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Crystal M. Craven",
+        "character": "DEA Agent (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Crayton",
+        "character": "Kidnapper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nV6ZgOmqwQ5Zpnbn3uaLONwDPbI.jpg"
+      },
+      {
+        "name": "Christian Daniels",
+        "character": "Fair Goer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lindsay Davis",
+        "character": "Hot Tub Girlfriend (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gzWP5EJMLF5oYn6xiuxrP2XYAlY.jpg"
+      },
+      {
+        "name": "Todd Davis",
+        "character": "Pedestrian (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael J. Flanagan",
+        "character": "Strip Club Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tait Fletcher",
+        "character": "Creepy Trucker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zAVsHT2GBLPaQ4RpTopnHvIrCbv.jpg"
+      },
+      {
+        "name": "Lauren Frandsen",
+        "character": "Exotic Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "William Frasca",
+        "character": "Pedestrian (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uklbKBjGhm9FXmHWd6NJ1n6Cv7A.jpg"
+      },
+      {
+        "name": "Amanda Fresquez",
+        "character": "Airplane Passenger (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cq0rpKBlaHtfaVoQaODiUPQvAfe.jpg"
+      },
+      {
+        "name": "Lawrence Gilligan",
+        "character": "Border Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vmX0HEgCYKV0JmK8YfzEEcFiIe4.jpg"
+      },
+      {
+        "name": "Randy Grazio",
+        "character": "Neighbor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Albert Guzman",
+        "character": "Fair Goer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rebecca Harran",
+        "character": "Fair Goer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Karen M. Hudson",
+        "character": "Border Crosser (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ff8dmSv5y4MX4vNJZkjUFNfyHxr.jpg"
+      },
+      {
+        "name": "Joe W. Lacey",
+        "character": "Strip Club Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Saeri Lee",
+        "character": "Pedestrian (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Natalia Marie",
+        "character": "Stripper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w6SXtigJmp1kOoVBtEDIUtpIint.jpg"
+      },
+      {
+        "name": "Cathy Mattson",
+        "character": "Fair Goer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wVrmJBscHnldGR34ElA9yu5U6Gk.jpg"
+      },
+      {
+        "name": "Brian Patrick Moize",
+        "character": "Strip Club Bouncer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Robb Moon",
+        "character": "Airline Passenger (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick V. Murphy",
+        "character": "Mexican Taxi Driver (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Perkinson",
+        "character": "Strip Club Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Pollack",
+        "character": "Strip Club Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ed Ricker",
+        "character": "Fair Goer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Henry Scott",
+        "character": "Stilt Walker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dhC7O9WyXVW1WO82bjnKt4TlrG.jpg"
+      },
+      {
+        "name": "Amanda Quinn Sherrick",
+        "character": "Fair Goer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bernard Sintim",
+        "character": "Upscale Bistro Diner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nathan Marcus Smith",
+        "character": "Coffee Shop Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael E. Stogner",
+        "character": "Airline Passenger (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nick Thies",
+        "character": "Fair Goer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Shane Thompson",
+        "character": "Strip Club Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Melissa Veal",
+        "character": "Fair Goer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Millie Wannamaker",
+        "character": "Hospital Visitor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7LcIP5eeE3qMtjMtgBQNSuHnxIq.jpg"
+      },
+      {
+        "name": "Anthony Williams",
+        "character": "DEA Agent (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tyler Gene",
+        "character": "Fair Goer (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Rawson Marshall Thurber",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bFtVBwPGiQfhSbZbZdGFuP1acw1.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "drug dealer",
+    "mexico",
+    "drug smuggling",
+    "fireworks",
+    "camping",
+    "denver, colorado",
+    "carnival",
+    "witness protection",
+    "stripper",
+    "road trip",
+    "breaking the fourth wall",
+    "marijuana",
+    "drug stealing",
+    "man child",
+    "drugs",
+    "drug lord",
+    "first kiss",
+    "strip tease",
+    "dea",
+    "homeless girl",
+    "drug syndicate",
+    "drug gang",
+    "4th of july",
+    "drug money",
+    "pretend family",
+    "rv"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.",
+    "After being robbed of a week's take, small-time pot dealer David is forced by his boss to go to Mexico to pick up a load of marijuana. In order to improve his odds of making it past the border, David asks the broke stripper Rose and two local teenagers to join him and pretend they're on a family holiday.—Peter Brandt Nielsen",
+    "A pot dealer gets his drug money stolen by a street thug, and now he has to create a fake family in order to bring a huge shipment of weed from Mexico to the US. The drug dealer hires Rose, a stripper, for \"drug smuggling\". In the red, she accedes to the plan to pose as the wife to go in the black. He also recruits two teenagers to pose as children. Now, he must get past customs and hilarious encounters, especially with a real family.—gamergcfan",
+    "If you're a soccer mom in search of some reefer, David Burke (Sudeikis) is just the man to talk to. He certainly isn't the biggest dealer in town, but he's discreet, and aims to please. When David attempts to perform a good deed and gets robbed in the process, however, his supplier Brad (Ed Helms) is none too happy. Now, in order to pay Brad back before the hammer drops, David must retrieve a big drug shipment from Mexico and sneak back across the border undetected. It's a risky job for sure, but with the help of a few neighbors David might just pull it off. With sardonic stripper Rose (Jennifer Aniston) assuming the role of housewife, teenage misfit Kenny (Will Poulter) posing as the awkward son, and rebellious Casey (Emma Roberts) filling in as his sister, David slips on some khakis, and starts heading south. Meanwhile, as David tries to convince himself that the border patrol wouldn't give a second glance at such a typical suburban family, the shipment -- and the stakes -- both prove greater than anticipated."
+  ],
+  "synopsis": "Low level marijuana drug dealer David Clark (Jason Sudeikis) is robbed of his money and stash, some of which he owes to his supplier. His boss, wealthy drug lord Brad Gurdlinger forces David to smuggle marijuana from Mexico in order to clear his debt. Realizing that one man attempting to get through customs is too suspicious, he hires a stripper stage-named Rose (Jennifer Aniston), a runaway teenage girl and thief named Casey, and his 18 year-old neighbor Kenny to pose as a bogus family called the \"Millers\".Because of the extra load of the marijuana on the RV, one of the radiator hoses breaks while going up a steep incline. A family they had encountered at the border called the Fitzgeralds, consisting of Don, Edie, and Melissa, catch up to them and tow the Millers' RV to a repair shop. On the trip to the shop, David learns that Don Fitzgerald is a DEA agent after finding his badge and gun in the glove compartment.The marijuana turns out to be stolen from Pablo Chacon's cartel. The next day, when the Millers head to the shop to pick up the RV, Chacon and his henchman One Eye are waiting for them and prepare to execute the family. They immediately tell Chacon that they aren't a real family and that they didn't know they were stealing from him. Rose is given a chance to prove that she is a stripper by dancing, and when she gets close, turns a steam vent onto Chacon.The Millers then escape in the RV, with Kenny behind the wheel. Due to Kenny's erratic driving, the RV veers off the highway and a tarantula, hiding in a bowl of fruit given to them when they picked up the marijuana, crawls up Kenny's leg and bites his testicle. As Kenny has a severe allergic reaction to the bite, the Millers head to the hospital. This further delays the delivery of the contraband, but David re-negotiates with Gurdlinger for a fee of $500,000. When Kenny is finally released, David rushes him to the RV in a wheelchair and tips him over. David inadvertently reveals how much he is getting paid, in comparison to how little he offered to pay each of the others. Casey, Rose, and Kenny are left in disgust by the revelation, and so David leaves them at the local carnival.David regrets abandoning them and returns to the carnival, begging them on his knees to come back with him. On their way back to the RV, One Eye discovers them and as he is about to shoot everyone, Don Fitzgerald comes out of the camper and subdues him. Chacon then comes around the corner and is about to kill them all, but David hits Chacon and he drops his gun. Rose picks it up and accidentally shoots Chacon in the shoulder and as he is recovering, Kenny punches Chacon and knocks him out.Don arrests Chacon and One Eye and tells the Millers that he will arrest them too, but actually gives them the opportunity to leave. David delivers the drugs to Gurdlinger who tells him he's late and that their deal is off. DEA agents then crash into the room, arresting Gurdlinger. The agent in charge is Don, who tells David that he will have to be in the witness protection program until Gurdlinger's trial. He then adds that anyone that was a witness to the crime will be in protection, and David smiles. The Millers are then seen together in a beautiful home, with several marijuana plants growing in the garden.",
+  "imdb_score": 7
+}

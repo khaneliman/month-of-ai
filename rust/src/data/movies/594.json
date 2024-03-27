@@ -1,0 +1,350 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/dfGJKPaxabWaXacJ2fw6zXgA9QX.jpg",
+  "id": 594,
+  "title": "The Terminal",
+  "poster_path": "https://image.tmdb.org/t/p/w500/pXNomqKcKXAQbuWxehb2N3XFKfn.jpg",
+  "release_date": "2004-06-17",
+  "vote_average": 7.336,
+  "vote_count": 7456,
+  "popularity": 38.645,
+  "overview": "Viktor Navorski is a man without a country; his plane took off just as a coup d'etat exploded in his homeland, leaving it in shambles, and now he's stranded at Kennedy Airport, where he's holding a passport that nobody recognizes. While quarantined in the transit lounge until authorities can figure out what to do with him, Viktor simply goes on living – and courts romance with a beautiful flight attendant.",
+  "imdb_id": "tt0362227",
+  "budget": 60000000,
+  "homepage": "https://www.paramountmovies.com/movies/the-terminal",
+  "revenue": 219417255,
+  "runtime": 128,
+  "tagline": "Life is waiting.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    "DreamWorks Pictures",
+    "Amblin Entertainment",
+    "Parkes/MacDonald Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Viktor Navorski",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg"
+      },
+      {
+        "name": "Catherine Zeta-Jones",
+        "character": "Amelia Warren",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iwNMWV5OJjgZ2pPsNWzOKxZwmV7.jpg"
+      },
+      {
+        "name": "Stanley Tucci",
+        "character": "Frank Dixon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ffKQpQvYczWKFxmbxgaoj68NN4W.jpg"
+      },
+      {
+        "name": "Chi McBride",
+        "character": "Mulroy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cesCeJZ5gSywA9lTYReB5uhkfek.jpg"
+      },
+      {
+        "name": "Diego Luna",
+        "character": "Enrique Cruz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uH8sMbiMmy9sprKr1vJpoPBB40E.jpg"
+      },
+      {
+        "name": "Barry Shabaka Henley",
+        "character": "Thurman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q0hI6T9OlmdUYdjYRX8K3pdRnYH.jpg"
+      },
+      {
+        "name": "Kumar Pallana",
+        "character": "Gupta Rajan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xmwvYrmg2DDvUH79Be54V7r905J.jpg"
+      },
+      {
+        "name": "Zoe Saldaña",
+        "character": "Dolores Torres",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+      },
+      {
+        "name": "Eddie Jones",
+        "character": "Salchak",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nMGaE2RFCZpVv5gVlDqeLLxNql6.jpg"
+      },
+      {
+        "name": "Jude Ciccolella",
+        "character": "Karl Iverson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sS506N50Brzyu0wgq18mk3pj4dH.jpg"
+      },
+      {
+        "name": "Corey Reynolds",
+        "character": "Waylin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bLtKPVOoWcdvilRGTiVGXDpbH7X.jpg"
+      },
+      {
+        "name": "Guillermo Díaz",
+        "character": "Bobby Alima",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fJdCWmJdiKvBMMcqcurzbz8OKp4.jpg"
+      },
+      {
+        "name": "Rini Bell",
+        "character": "Nadia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sObEcnxn8YjiV3fPOJ3jQuhrDPH.jpg"
+      },
+      {
+        "name": "Stephen Mendel",
+        "character": "Steward First Class",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8IEPufqckV9y32J4hAz5LCHw11R.jpg"
+      },
+      {
+        "name": "Valeriy Nikolaev",
+        "character": "Milodragovich",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lyd804nQaRCQFOkrVun23qYb5xb.jpg"
+      },
+      {
+        "name": "Michael Nouri",
+        "character": "Max",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cbrDZMRb7DRsiVcuoU0VDbLL6qj.jpg"
+      },
+      {
+        "name": "Ana Maria Quintana",
+        "character": "Government Inspector",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kOwMpvilYZUIstFGiPWmjqLcdIx.jpg"
+      },
+      {
+        "name": "Bob Morrisey",
+        "character": "Government Inspector",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aZyyz8IlpDpkyN3srzpplUmHyRy.jpg"
+      },
+      {
+        "name": "Sasha Spielberg",
+        "character": "Lucy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bb7FxLkfEcQf9VLobDiMxcxYdJU.jpg"
+      },
+      {
+        "name": "Susan Slome",
+        "character": "Woman with Cart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mlwWOfAWQNeEqwoPiyIfcPUmYiX.jpg"
+      },
+      {
+        "name": "Mik Scriba",
+        "character": "Transportation Liaison",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wSJehkRuxJw33U8tyRGQwAh0AGt.jpg"
+      },
+      {
+        "name": "Jim Ishida",
+        "character": "Yoshinoya Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mC8iH5HdlKZXpKFgLO0YtGZc23g.jpg"
+      },
+      {
+        "name": "Carlease Burke",
+        "character": "Brookstone Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/watMlWszsYx1MBLdmAvahZ8KkgR.jpg"
+      },
+      {
+        "name": "Stephon Fuller",
+        "character": "Swatch Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/andzJGCnZiB7eeiJMK8j8qo01J5.jpg"
+      },
+      {
+        "name": "Dan Finnerty",
+        "character": "Discovery Store Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/59DYQZOGl4L9db8LF3gEvWxyboJ.jpg"
+      },
+      {
+        "name": "Anastasia Basil",
+        "character": "La Perla Employee Julie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pq6cRfst5SjqsmIKlkujgSbvmJS.jpg"
+      },
+      {
+        "name": "Lydia Blanco Garza",
+        "character": "Burger King Employee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dB5klZc1MhXjyxL07esAFNJDoLF.jpg"
+      },
+      {
+        "name": "John Eddins",
+        "character": "CBP Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uxH76wdkIoOl0CdVLexHlphu20e.jpg"
+      },
+      {
+        "name": "Kenneth Choi",
+        "character": "CBP Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ycHOQV42jsYXoWMaobKTzGXy9g4.jpg"
+      },
+      {
+        "name": "Cas Anvar",
+        "character": "CBP Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ohEulMvF1Ji2osI3aSBVGb5FFUb.jpg"
+      },
+      {
+        "name": "Conrad Pla",
+        "character": "CBP Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p09lsBpONGWdapNgbOvjsQokgXU.jpg"
+      },
+      {
+        "name": "Danette MacKay",
+        "character": "CBP Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c87b60GzaBU94k3Ox0ojsXelu6.jpg"
+      },
+      {
+        "name": "Ian Finlay",
+        "character": "CBP Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zkl8QDxRbkkw33dfrvyMs9olVKM.jpg"
+      },
+      {
+        "name": "Janique Kearns",
+        "character": "CBP Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ygyfA9Df3hbMklJextM1LxfrCat.jpg"
+      },
+      {
+        "name": "Eddie Santiago",
+        "character": "Man on Phone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/559tixUHIB6CiK3nFcL5mbuts95.jpg"
+      },
+      {
+        "name": "Kevin Ryder",
+        "character": "Businessman",
+        "profile_path": ""
+      },
+      {
+        "name": "Dusan Dukic",
+        "character": "Young Drug Trafficker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/we7xOgH5shk0AgukAwMHdKzEm4o.jpg"
+      },
+      {
+        "name": "Mark Ivanir",
+        "character": "Cab Driver Goran",
+        "profile_path": "https://image.tmdb.org/t/p/w185/biVPUjq1BbX3YWpvXv5OZjEuJI0.jpg"
+      },
+      {
+        "name": "Matt Holland",
+        "character": "Ramada Inn Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ic37ED27NTrKm5FnJS2tTts1vVG.jpg"
+      },
+      {
+        "name": "Benny Golson",
+        "character": "Himself",
+        "profile_path": "https://image.tmdb.org/t/p/w185/utucknTXgzHMnpWK42XxGSdkW1p.jpg"
+      },
+      {
+        "name": "Buster Williams",
+        "character": "Bass",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Ledonne",
+        "character": "Piano",
+        "profile_path": ""
+      },
+      {
+        "name": "Carl Allen",
+        "character": "Drums",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Adsit",
+        "character": "Cab Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vbbuugUWrZhxA7ASWYiGqdZ6Dtf.jpg"
+      },
+      {
+        "name": "Robert Covarrubias",
+        "character": "Janitor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/86jYMAhs3eO7KaH2f20h8wqoFyz.jpg"
+      },
+      {
+        "name": "Terry Haig",
+        "character": "CBP Inspector",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6gGKrJS28lry3RP2bGAtTimdLXZ.jpg"
+      },
+      {
+        "name": "Jeff Michael",
+        "character": "Anchor",
+        "profile_path": ""
+      },
+      {
+        "name": "Dilva Henry",
+        "character": "Anchor",
+        "profile_path": ""
+      },
+      {
+        "name": "Michelle Arthur",
+        "character": "Field Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cC6R8hK8FUH007zbZnMjypu8C2T.jpg"
+      },
+      {
+        "name": "Thinh Truong Nguyen",
+        "character": "Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Sandrine Kwan",
+        "character": "Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Carl Alacchi",
+        "character": "Passenger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gPkHdHNTTPuVasLGUxxVpPRckt0.jpg"
+      },
+      {
+        "name": "Tanya van Blokland",
+        "character": "Passenger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aHScwOziJviyfob2bFc4ZmJrUk5.jpg"
+      },
+      {
+        "name": "Evelyne de la Chenelière",
+        "character": "Passenger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l9Xqu70TREW5w8hlrsMSYq5s94s.jpg"
+      },
+      {
+        "name": "Laurie Meghan Phelps",
+        "character": "Homeland Security Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryan Stockstad",
+        "character": "Brookstone Employee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/otXQjxg6D2EPK3viahHxjs79RnB.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Steven Spielberg",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "friendship",
+    "marriage proposal",
+    "airport",
+    "stewardess",
+    "translation",
+    "illegal immigration",
+    "language barrier",
+    "jfk international airport",
+    "immigration law",
+    "craftsman",
+    "fast food restaurant",
+    "jazz singer or musician",
+    "saxophonist",
+    "autograph",
+    "passport",
+    "eastern europe"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "An Eastern European tourist unexpectedly finds himself stranded in JFK airport, and must take up temporary residence there.",
+    "Victor Navorski reaches JFK airport from a politically unstable country. Due to collapse of his government, his papers are no longer valid in the airport, and hence he is forced to stay in the airport until the war cools down. He makes the airport his home and develops a friendship with the people who work there until he can leave.—Keith Francis",
+    "Victor Navorksi (played by Tom Hanks), a man from the Eastern European nation of Krakozhia, flies into JFK airport. At Customs he is forbidden entry to the USA - Krakozhia has been taken over in a coup and the US does not currently recognise the new regime, or nation. In addition, the borders of Krakozhia are now closed. This leaves Victor in limbo - he cannot enter the US or go back to Krakozhia. While waiting for the diplomatic situation to sort itself out he is forced to live in the International Transit section of JFK, living off his own resourcefulness. He also makes some new friends along the way.—grantss",
+    "Unfortunately, the moment Viktor Navorski sets foot on JFK airport, he finds himself on the wrong end of a nasty technicality, as his homeland of Krakozhia has dissolved in violent upheaval, and as a result, his passport is now void. With plans of immigrating to New York, instead, Viktor is unauthorized to leave Kennedy Airport, and unable to return home, he is trapped within the walls of the terminal's international transit lounge. Now, Viktor is an annoying bureaucratic glitch, and even though the strict airport official, Frank Dixon, is feeling uncomfortable by his presence, other airport employees, including Amelia, a beautiful flight attendant, consider him a friend. Little by little, as the days turn into weeks, which turn into months, the bustling terminal becomes Viktor's new home: a country within a country, filled with dreams, hopes, and the need for love. When will Viktor reach his goal?—Nick Riganas",
+    "Viktor Navorski, a man from an Eastern European country arrives in New York. However after he left his country war broke out. Suddenly Navorski is a man without a country - or one that the U.S. cannot recognize, thus he is denied entrance to the U.S. However, he also can't be deported so he is told by the Security Manager that he has to remain in the airport until his status can be fixed. And also Navorski doesn't speak English very well, so he cannot talk to or understand anyone. But he somehow adapts and sets up residence in the airport, which makes the man who placed him there unhappy, as it seems he is in line for a promotion but Navroski's presence might complicate that. So he tries to get Navorski to leave but Navorski remains where he is. Navorski makes friends with some of the people who work in the airport and is attracted to a flight attendant he runs into whenever she comes in.—r.g.clark@gte.net"
+  ],
+  "synopsis": "Viktor Navorski (Tom Hanks) arrives at JFK International Airport, but finds that he is not allowed to enter the United States. While he was en route to the US, a revolution was started in his home nation of Krakozhia. Due to the civil war, the United States no longer recognizes Krakozhia as a sovereign nation and denies Viktor's entrance to the US. Unable to leave the airport or return to Krakozhia, Viktor instead lives in the terminal, carrying his luggage and a mysterious Planters peanut can.Customs and Border Protection (CBP) Head Frank Dixon (Stanley Tucci) wants Navorski removed from the airport. Navorski collects money for food by retrieving vacant baggage trolleys for the 25-cent reward from the machine, until Dixon prevents this. He then befriends a catering car driver named Enrique (Diego Luna) who gives him food in exchange for information about a female Customs and Border Protection officer (Zoë Saldana), who Enrique is infatuated with. With Viktor's help, Enrique and Dolores eventually marry each other. He meets flight attendant Amelia Warren (Catherine Zeta-Jones), who asks him out to dinner, but he tries to earn money in order to ask Amelia out instead. He finally gets an off-the-books job as a construction worker at the airport earning $19 an hour.Viktor is asked to interpret for a desperate Russian man with undocumented drugs for his sick father. Viktor claims it is \"medicine for goat,\" barring the drug from confiscation and resolving the crisis. Under pressure and the watchful eye of the Airport Ratings committee, who is evaluating Dixon for an upcoming promotion, Dixon has a falling out with Viktor. Though Dixon is advised that sometimes rules must be ignored, he becomes obsessed with getting Viktor ejected from the airport. An airport janitor, Gupta Rajan (Kumar Pallana), exaggerates the \"goat\" incident to his fellow co-workers and as a result, Viktor earns the respect and admiration of all of the airport staff.One day, Viktor explains to Amelia that the purpose of his visit to New York is to collect an autograph from the tenor saxophonist Benny Golson. It is revealed that the peanut can Viktor carries with him contains nothing more than an autographed copy of the \"Great Day in Harlem\" photograph. His late father was a jazz enthusiast who had discovered the famous portrait in a Hungarian newspaper in 1958, and vowed to get an autograph of all the 57 jazz musicians featured on the photograph. He succeeded in obtaining 56, but died before he could finish his collection.A few months later, the war in Krakozhia ends, but Dixon will still not allow Viktor to enter the United States. Amelia reveals that she had asked her 'friend' actually a married government official with whom she had been having an affair to assist Viktor in obtaining permission to travel within the US, but Viktor is disappointed to learn she has renewed her relationship with the man during this process.To make matters worse, Dixon needs to sign the form granting Viktor the right to remain in the United States, but refuses. He instead blackmails Viktor into returning to Krakozhia, or he will have Enrique fired for allowing Viktor into the restricted food preparation area and deport Gupta back to his native India, where he is wanted for assaulting a corrupt police officer. Upon hearing this, Gupta runs in front of Viktor's plane and asks Viktor to go anyway. The plane is delayed, giving Viktor enough time to go into the city and obtain the autograph. With the blessing of the entire airport staff, Viktor leaves the airport after receiving a uniform coat from a U.S. Customs and Border Protection Assistant Port Director and hails a taxi. Dixon, watching Viktor leave the airport, decides not to pursue him. As Viktor prepares to take the taxi to a Ramada Inn where Benny Golson is performing, he observes Amelia exiting from a cab, where she gives him a wistful smile. He has a short conversation with the cab driver, telling him how to avoid traffic on the way to the hotel and that he is from Krakozhia. The driver tells Viktor that he is from Albania and arrived earlier that week. He attends the show and collects the autograph, finally completing the collection. Afterwards, Viktor leaves and hails a taxi, telling the driver, \"I am going home.\"",
+  "imdb_score": 7.4
+}

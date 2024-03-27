@@ -1,0 +1,376 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/bVmSXNgH1gpHYTDyF9Q826YwJT5.jpg",
+  "id": 122917,
+  "title": "The Hobbit: The Battle of the Five Armies",
+  "poster_path": "https://image.tmdb.org/t/p/w500/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
+  "release_date": "2014-12-10",
+  "vote_average": 7.315,
+  "vote_count": 13606,
+  "popularity": 127.706,
+  "overview": "Immediately after the events of The Desolation of Smaug, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
+  "imdb_id": "tt2310332",
+  "budget": 250000000,
+  "homepage": "https://www.warnerbros.com/movies/hobbit-battle-five-armies/",
+  "revenue": 956019788,
+  "runtime": 144,
+  "tagline": "Witness the defining chapter of the Middle-Earth saga",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "New Line Cinema",
+    "Metro-Goldwyn-Mayer",
+    "WingNut Films",
+    "Warner Bros. Pictures"
+  ],
+  "production_countries": [
+    "NZ",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Martin Freeman",
+        "character": "Bilbo Baggins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vhs7quOGDG2mtFHvL7Lu7rU2dED.jpg"
+      },
+      {
+        "name": "Ian McKellen",
+        "character": "Gandalf",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+      },
+      {
+        "name": "Richard Armitage",
+        "character": "Thorin Oakenshield",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lRWWodfrOd5SaLnFrz7UryFhasI.jpg"
+      },
+      {
+        "name": "Luke Evans",
+        "character": "Bard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qUkYJcrDc4M0LHNYASs30luFvw0.jpg"
+      },
+      {
+        "name": "Orlando Bloom",
+        "character": "Legolas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+      },
+      {
+        "name": "Lee Pace",
+        "character": "Thranduil",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hePfTi5HwU9X0eX2sOmHj9I1Ryp.jpg"
+      },
+      {
+        "name": "Evangeline Lilly",
+        "character": "Tauriel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4wWBoEWUkdsE8dp46zvDLf9jefC.jpg"
+      },
+      {
+        "name": "Ken Stott",
+        "character": "Balin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qmmhRvSwfoJ7TOF5L6p2VMQQz3u.jpg"
+      },
+      {
+        "name": "James Nesbitt",
+        "character": "Bofur",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gdbR1DhI7dOi027mQgnWwYgYGxj.jpg"
+      },
+      {
+        "name": "Aidan Turner",
+        "character": "Kili",
+        "profile_path": "https://image.tmdb.org/t/p/w185/psakQ7qfiXbaotiYNIk9sub86sz.jpg"
+      },
+      {
+        "name": "Dean O'Gorman",
+        "character": "Fili",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2goR6GBeQey7EkTmLufrEi0PZcb.jpg"
+      },
+      {
+        "name": "Graham McTavish",
+        "character": "Dwalin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9IjPwv7Vb4QygA1cPSX179oqjsT.jpg"
+      },
+      {
+        "name": "Benedict Cumberbatch",
+        "character": "Smaug / Necromancer (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fBEucxECxGLKVHBznO0qHtCGiMO.jpg"
+      },
+      {
+        "name": "Billy Connolly",
+        "character": "Dain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/imqsEA1EPet7OvHx80VfTYfFcWf.jpg"
+      },
+      {
+        "name": "Stephen Fry",
+        "character": "Master of Laketown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3GFKdR04dECEGvw3rCN4M8ayv2m.jpg"
+      },
+      {
+        "name": "Ryan Gage",
+        "character": "Alfrid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rPeYxW5QrgI68TTaoP2iK8NfCW7.jpg"
+      },
+      {
+        "name": "Hugo Weaving",
+        "character": "Elrond",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t4ScpYIHlXVD41scEyiGdQDYflX.jpg"
+      },
+      {
+        "name": "Cate Blanchett",
+        "character": "Galadriel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A3nZcGx0qUhbb9fpNK65oPgCJtC.jpg"
+      },
+      {
+        "name": "Ian Holm",
+        "character": "Old Bilbo Baggins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tz81JSiPdcLM7b624W1BcYdxd4D.jpg"
+      },
+      {
+        "name": "Christopher Lee",
+        "character": "Saruman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dA26fBr3t7mKqjn3OYW6kbD1LXM.jpg"
+      },
+      {
+        "name": "Mikael Persbrandt",
+        "character": "Beorn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ppJ6sjgdqzLt5gN5YqqBD1IVxbu.jpg"
+      },
+      {
+        "name": "Sylvester McCoy",
+        "character": "Radagast",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y7spOkUTzwf7WYgeGeNMnvBjStd.jpg"
+      },
+      {
+        "name": "Peter Hambleton",
+        "character": "Gloin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kxIJphwN4RWMKFxg2KatuCmFxnd.jpg"
+      },
+      {
+        "name": "John Callen",
+        "character": "Oin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/edTl1JXe8v0eMLE5uYxuUZaxozZ.jpg"
+      },
+      {
+        "name": "Mark Hadlow",
+        "character": "Dori",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7F4xB8CsTBbDK6IoYeI2QynAJ1u.jpg"
+      },
+      {
+        "name": "Jed Brophy",
+        "character": "Nori",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tMLPV314du8eoumIipLFgn37rTe.jpg"
+      },
+      {
+        "name": "William Kircher",
+        "character": "Bifur",
+        "profile_path": "https://image.tmdb.org/t/p/w185/obiWbH0vUkXUFrRDhDjkUWM7tvp.jpg"
+      },
+      {
+        "name": "Stephen Hunter",
+        "character": "Bombur",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2B1lI5nwKPavixa0JBM0UFnSw4z.jpg"
+      },
+      {
+        "name": "Adam Brown",
+        "character": "Ori",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yveDcolh1BE8DoV2RZ2p31be9VQ.jpg"
+      },
+      {
+        "name": "John Bell",
+        "character": "Bain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mqAAEgGjqbInINb99n5wYNxLYwr.jpg"
+      },
+      {
+        "name": "Manu Bennett",
+        "character": "Azog",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vSIWn2lQuk0fRe6faqusZCiMSWz.jpg"
+      },
+      {
+        "name": "John Tui",
+        "character": "Bolg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2jIc9M5kl2GmK8fZtbtUr2s1jkS.jpg"
+      },
+      {
+        "name": "Peggy Nesbitt",
+        "character": "Sigrid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nT6GPyFFsrRGCde4dNZJKwlX01X.jpg"
+      },
+      {
+        "name": "Mary Nesbitt",
+        "character": "Tilda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/edHzbhA7jYmKvlmf5nIfvGuH0iB.jpg"
+      },
+      {
+        "name": "Kelly Kilgour",
+        "character": "Soury",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hYjTULtIOYDaLRK7RIxMkRVgnUX.jpg"
+      },
+      {
+        "name": "Mark Mitchinson",
+        "character": "Braga",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dBnuglswEEKSQk6kxbSd6D1uS5j.jpg"
+      },
+      {
+        "name": "Sarah Peirse",
+        "character": "Hilda Bianca",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wC9OFU4mFkK1N6r6UU6A0E7pBTr.jpg"
+      },
+      {
+        "name": "Nick Blake",
+        "character": "Percy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eC9GDVX5yo4BPrbF7Syhf6xaDVz.jpg"
+      },
+      {
+        "name": "Simon London",
+        "character": "Feren",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a9N4bRmOIynGrRj8PzC3hoM8ZIR.jpg"
+      },
+      {
+        "name": "Conan Stevens",
+        "character": "Keeper of the Dungeons",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t0yJVjekKzNhM6p7UjEuXA10tgJ.jpg"
+      },
+      {
+        "name": "Allan Smith",
+        "character": "Ragash",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fgRYE51RIh9Ohrqx7LhjTVAVHur.jpg"
+      },
+      {
+        "name": "Miranda Harcourt",
+        "character": "Olga",
+        "profile_path": "https://image.tmdb.org/t/p/w185/226d9sOry0S2ZwUlBftfo5nhgsE.jpg"
+      },
+      {
+        "name": "Thomasin McKenzie",
+        "character": "Astrid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/WOpnEFG5Q8LWxP81MtUrskmVox.jpg"
+      },
+      {
+        "name": "Erin Banks",
+        "character": "Lobelia Sackville Baggins",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Hotter",
+        "character": "Otho Sackville Baggins",
+        "profile_path": ""
+      },
+      {
+        "name": "Timothy Bartlett",
+        "character": "Master Worrywort",
+        "profile_path": ""
+      },
+      {
+        "name": "Mervyn Smith",
+        "character": "Tosser Grubb",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qtUc5ArHdvAEiNSRKgabWUY5Apq.jpg"
+      },
+      {
+        "name": "Martin Kwok",
+        "character": "Ragash (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dee Bradley Baker",
+        "character": "Creature Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+      },
+      {
+        "name": "Olof Johnsson",
+        "character": "Creature Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jon Olson",
+        "character": "Creature Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/crkYY5wcjoDn04BFlkF5WiR3d1A.jpg"
+      },
+      {
+        "name": "Otep Shamaya",
+        "character": "Creature Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Debra Wilson",
+        "character": "Creature Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3anRgUtqohXRNM6HtwGl1ZFgCS8.jpg"
+      },
+      {
+        "name": "Abraham Wream",
+        "character": "Old man in laketown",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Binding",
+        "character": "Laketowner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Terry Binding",
+        "character": "Laketowner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen Gledhill",
+        "character": "Old Gammidge (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lRKScc6PhOnt7l3tN6z6oGc8ciq.jpg"
+      },
+      {
+        "name": "Billy Jackson",
+        "character": "Laketown Refugee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kNX1BvIWnckJM35Xu007Ro45Ju5.jpg"
+      },
+      {
+        "name": "Katie Jackson",
+        "character": "Girl in Laketown (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ypjcaQiVIeTBS6ERImxHaczeZwF.jpg"
+      },
+      {
+        "name": "Peter Jackson",
+        "character": "Painting of Bungo Baggins (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bNc908d59Ba8VDNr4eCcm4G1cR.jpg"
+      },
+      {
+        "name": "Terry Notary",
+        "character": "Laketown Refugee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nYs1Sd11czZNwcDyUYdHPwHHIRO.jpg"
+      },
+      {
+        "name": "Vanessa Cater",
+        "character": "Laketown Refugee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ybri5mdJeBFIPQQ5ZLiTQGloGyX.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Peter Jackson",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bNc908d59Ba8VDNr4eCcm4G1cR.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "corruption",
+    "based on novel or book",
+    "orcs",
+    "elves",
+    "dwarf",
+    "dragon",
+    "battle",
+    "unlikely friendship",
+    "epic battle",
+    "sword and sorcery"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Bilbo and company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness.",
+    "After the Dragon leaves the Lonely Mountain, the people of Lake-town see a threat coming. Orcs, dwarves, elves and people prepare for war. Bilbo sees Thorin going mad and tries to help. Meanwhile, Gandalf is rescued from the Necromancer's prison and his rescuers realize who the Necromancer is.",
+    "Bilbo and the Company of King Thorin Oakenshield are forced into war by the Orcs of Gundabad and Moria lead by Azog and Bolg and chief leader Sauron. Its a remarkable battle with the Dwarves of Erebor and the Iron Hills, The Elves of the Woodland Realm, The people of Laketown, The eagles lead by Radagast and Beorn and the Orcs of Gundabad and Moria. How will this battle end?—lachlan-napier28",
+    "As Smaug breathes fire and destruction onto Laketown, another sort of dragon-danger threatens Thorin Oakenshield - the gold madness that seized his Grandsire Thror, King Under the Mountain of old. The people of Laketown flee to the ruins of Dale, in the shadow of the Lonely Mountain, only to be greeted by an army of Elves led by Thranduil, marching there too. Asking Thorin for their own fair share of the gold, Men and Elves are answered by Dwarvish defiance. Thorin seems overmatched until an army led by Dwarf-Lord Dain, Thorin's kinsman, approaches from the Iron Hills to the northeast. Meantime, Gandalf, imprisoned in the ruins of Dol Guldûr, seems about to be finished off by the Nine Ring Wraiths, led by the deadliest of their lot, Witch King of the ancient, evil realm of Angmar. And what on Middle Earth will happen when an enormous army of Orcs and Wargs suddenly pours out of tunnels under the earth, surrounding and threatening doom to all the other armies gathered at the Lonely Mountain? Orcs and their Fell Beasts, Elves, Dwarves, Men - Five Armies join battle, and the result will determine the fate of the North in the gathering War of the Ring.",
+    "After seizing Erebor from Smaug, Smaug burns down Lake-town and the aftermath causes the people of Lake-town to take up refuge in the ruins of Dale which is in the shadow of Erebor. Gandalf is inprisoned by The Necromancer and is eventually rescued and The Necromancer reveals himself as Sauron. Bilbo and Company must protect Erebor from the Elves of Mirkwood, the Gundabad and Moria Orcs, the Men of Lake-town."
+  ],
+  "synopsis": "The third Hobbit film picks up shortly after the second left off. The people of Lake-town are in a panicked frenzy as the dragon Smaug (voice: Benedict Cumberbatch) flies down to exact his revenge. The Master of Lake-town (Stephen Fry) and his deputy Alfrid (Ryan Gage) try to evacuate with the town's treasure while the rest of the townsfolk also try to escape. Smaug descends and breathes fire all over the town, destroying a whole row of houses and killing many people.Meanwhile, Bard the bowman (Luke Evans) tries to break free from his cell while his children are leaving with Tauriel (Evangeline Lilly), Kili (Aidan Turner), Fili (Dean O'Gorman), Bofur (James Nesbitt), and Oin (John Callen). On the boat, Bard's son Bain (John Bell) sees his father as he climbs the bell tower to get high enough to shoot at Smaug. Before he was captured in the previous movie, Bard told Bain to hide the last Black Arrow. Realizing that Bard needs the arrow, Bain grabs a cargo hook, swings out of the boat, and goes to retrieve the Black Arrow from the small boat where he left it hidden.From atop the Lonely Mountain, Bilbo Baggins (Martin Freeman), Dwalin (Graham McTavish), Balin (Ken Stott), Dori (Mark Hadlow), Nori (Jed Brophy), Ori (Adam Brown), Bifur (William Kircher), Gloin (Peter Hambleton), and Bombur (Stephen Hunter) watch as the dragon terrorizes Lake-town. Their leader Thorin Oakenshield (Richard Armitage) is unable to watch with them.Bard shoots his arrows at Smaug as the dragon flies by, scoring several direct hits, but they are unable to penetrate his scaled hide. Bain arrives with the Black Arrow, which is big enough to do the job. Smaug wrecks the bell tower, cracking Bard's bow. The dragon taunts Bard and his son as Bard aims the black arrow while balancing it on Bain's shoulder, using a makeshift bow he rigs out of his broken one. As Smaug flies toward them, Bard shoots the arrow. It strikes the dragon, hitting the weak spot in his armor. He screams in pain as the light leaves his body. Smaug plummets into the lake, where his body crushes the Master and the gold supply. The dwarves see that Smaug is dead and they rejoice.The surviving people of Lake-town gather the supplies they have left. Alfrid tries to swipe some, but Bard stops him. The people recognize Bard as their savior for killing Smaug. They grab Alfrid and try to punish him, but Bard stops them. He decides they will take refuge in the town of Dale.Kili and the other dwarves leave for the mountain to rejoin the rest of the company, Kili asking Tauriel to join him. Legolas (Orlando Bloom) stops her, telling Tauriel to say goodbye to Kili. Kili hands her the carved stone that he showed her when they first met.In the Lonely Mountain, the dwarves return to Bilbo, who tells them that Thorin has slowly begun to lose his mind after being corrupted by the hoarded gold in the mountain. He is also becoming madly obsessed in his search for the Arkenstone. It turns out that Bilbo had it all along, but heeded Smaug's warning that the stone would drive Thorin mad. Bilbo goes to Balin and asks about the Arkenstone without admitting he has it; Balin says possessing the stone might make Thorin even more irrational.The orcs and their leader Azog (Manu Bennett) are marching toward Erebor when Bolg (John Tui) arrives to inform Azog that the Elf army is approaching closely. Azog orders Bolg to go to Gundabad, an Orc stronghold, to rally a greater army of Orcs to join them.In Dol Goldur, Gandalf (Ian McKellen) is still caged after learning that the Necromancer (voice: Benedict Cumberbatch) was Sauron. A giant Orc threatens him until Galadriel (Cate Blanchett) arrives and vanquishes it. The Nazgul (nine ghost-like men who fell victim to Sauron) show up to attack, but Elrond (Hugo Weaving) and Saruman (Christopher Lee) come in to fight them. The two of them defeat the Nazgul as Galadriel tends to Gandalf. Radagast (Sylvester McCoy) comes back in his rabbit-drawn sleigh to take Gandalf away. The image of Sauron appears and tries to tempt Galadriel, but she overpowers him and casts him out. She falls in a weakened state. Elrond suggests they warn everyone of Sauron, but Saruman tells them to help Galadriel and says they can leave Sauron to him.Legolas and Tauriel learn that Bolg is going to Gundabad. They decide to follow him after learning from a messenger that Tauriel has been banished from the Elf kingdom by Thranduil (Lee Pace).Thranduil arrives in Dale with his army close by. He speaks to Bard about forming an alliance, as Thranduil wants to get into the Lonely Mountain to reclaim some white gems denied him by the dwarves many years before, including a necklace made of them.Bard rides over to the Lonely Mountain's main gate, hoping to persuade Thorin to join forces with him to avoid any more bloodshed. Hiding behind a quickly constructed barrier, Thorin refuses to listen or to give away any part of his treasure, despite his promises when the people of Lake-town helped the dwarves. Bard leaves angrily.The dwarves suit up in their armor to prepare for battle. Thorin gives Bilbo a shirt of mithril mail that he says is so strong that no blade can pierce it. As they speak, Thorin continues to sound distorted and dazed as he vows not to share the treasure.Gandalf arrives in Dale, and Bilbo sneaks out of the mountain at night to a tent where Gandalf, Bard, and Thranduil are talking. Bilbo gives them the Arkenstone, claiming it as his share of Thorin's treasure. Thranduil tells Gandalf that he will finish this fight to protect his people.The next day, the Elvish and Lake-town armies stand before Erebor. Thorin and the dwarves come out on the wall. Bard displays the Arkenstone to offer in trade for the gold. Thorin thinks it's a trick until Bilbo admits that he gave it to them. Feeling betrayed, Thorin orders the Dwarves to throw Bilbo over the side of the wall they'd constructed. They refuse, and Thorin nearly does it himself. Gandalf arrives to stop him, allowing Bilbo to escape and join his wizard friend. Bard asks Thorin if he will have peace or war, and Thorin growls that he will have war. Just then an army of Dwarves led by Thorin's cousin Dain Ironfoot (Billy Connolly) arrives to help Thorin and his company. They are on the verge of attacking the Elf army when the Orc army arrives. The armies of dwarves, elves, and humans join together to fight the villains, and the Battle of the Five Armies begins.Legolas and Tauriel get to Gundabad and discover Bolg summoning the rest of the Orc forces, along with a horde of giant bat creatures.In the mountain, Dwalin attempts to reason with Thorin, who has become more disillusioned and angry. Thorin threatens to kill him if he does not leave. Dwalin does so, disappointed. Thorin goes down to the Gallery of Kings and walks over the hardened gold floor where he had tried to trap Smaug. He hallucinates seeing the dragon swimming beneath him, as well as himself sinking into the gold. Thorin snaps out of it and overcomes his madness. Using a giant bell as a wrecking ball, the Dwarves smash through the wall they built across the gate into the mountain and emerge to join the fight.Bard sends the women and children to safety while the men fight. He hands Alfrid a sword, but the coward is more concerned about staying hidden and getting some treasure. Meanwhile, many innocent civilians are slaughtered in the battle.With Dwalin, Fili, and Kili (\"his best warriors,\" Gandalf says), Thorin resolves to ride to the top of Ravenhill, the orcs' command post, and kill Azog. He knows that the loss of their leader will make it possible to defeat the orcs. Elsewhere, Legolas and Tauriel return. Thranduil finds Tauriel going off to help the Dwarves and warn them of Bolg's army, but Thranduil doesn't think they are worth it and believes her love for Kili isn't real. Tauriel holds her bow and arrow to Thranduil, but he cu. Legolas stands in the way to defend her. They join forces with Bilbo, who made it through the battle with the One Ring, and go off to warn their friends.The heroes find the Orcs, but in the chaos, Bilbo is knocked unconscious while Fili is impaled by Azog. Enraged, Kili runs to the top of the tower, decapitating nearly every Orc in his path. He comes before Bolg as Tauriel joins in the fight. Bolg overpowers her and throws her against the wall. Kili comes to her defense, but Bolg stabs him through the heart. Tauriel watches him die. In her fury, she grabs onto Bolg and pulls him down the edge of a precipice. Legolas watches from a distance and gropes for an arrow, but he's all out. He gets a giant Orc to ram a tower that falls and forms a bridge, letting him run to Tauriel's aid. He battles Bolg on the crumbling tower, adroitly running up cascades of falling debris. From atop on the icy falls, he sees Thorin, weaponless, nearly killed by an Orc, so Legolas throws his sword into the Orc's chest. (Thorin retrieves the sword from the body and continues to fight with it.) Legolas takes out his knives and drives one into Bolg's head. The Orc falls through the tower, which crumbles completely. He hits the ground and is crushed by a piece of the tower.Radagast and Beorn (Mikael Persbrandt) swoop in on the Great Eagles as they take down the rest of the Orcs. Beorn morphs into his bear form and runs the Orcs down.Thorin battles Azog on a frozen pool above the icy falls. Azog swings a chained boulder to try and slam Thorin, only to break the ice around him. Thorn grabs the boulder and throws it to Azog, causing him to sink into the water. Thorin watches Azog float by him beneath the ice, seemingly dead, until the Orc opens his eyes, stabs Thorin in the foot, and bursts through the ice. He pins Thorin down and tries to impale him, but Thorin holds him back. However, realizing the Orc is too strong, Thorin lets Azog impale him, until he has a clear moment to kill the orc: Thorin drives his sword through Azog's body into the ice as the Orc finally dies.Thorin walks over to watch the rest of the battle. He collapses as Bilbo comes by his side. Thorin says he is sorry to Bilbo for how he acted and for what he's put him through. He acknowledges Bilbo's friendship before he dies. Bilbo weeps for his fallen friend. The surviving Dwarves come and kneel beside Thorin.Legolas tells Thranduil that he is leaving the kingdom. Thranduil tells his son to look for one of the Dunedain, a man who is referred to as Strider (Aragorn). After Legolas leaves, Thranduil finds Tauriel crying over Kili's body. She rejects love and asks why it hurts so much. Thranduil responds, \"Because it was real.\" Tauriel kisses Kili's lips and plans to properly bury him.Bilbo leaves the mountain and tells Balin to tell the Dwarves goodbye for him. He turns around to find them standing behind him. Bilbo properly bids them farewell and invites them to come by his home should they ever find themselves traveling toward Bag End.Gandalf guides Bilbo back to the borders of the Shire. He knows that Bilbo had the ring with him, but Bilbo claims he lost it. Gandalf provides him with a word of caution before they depart. When Bilbo gets close to Bag End, he sees people walking off with his belongings. Since he was presumed dead, his belongings are being auctioned off. He demands to have them back while trying to find something that proves his identity -- he hands the auctioneer the contract he'd signed with Thorin's company. He goes inside his hole and takes out the ring.The final scene shows the older Bilbo (Ian Holm) holding the ring in his hand. There's a knock at the door. Bilbo says he wants no visitors, but jumps up when he hears Gandalf's voice. He goes to the door to greet his old friend, and the last thing we see is Thorin's map of Erebor (thus beginning the very first scene of the second Middle Earth trilogy of The Lord of the Rings).",
+  "imdb_score": 7.4
+}

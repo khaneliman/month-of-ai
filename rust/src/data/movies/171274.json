@@ -1,0 +1,572 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/zwC3N0QQC2OCPDz2UWKNoq5vXm7.jpg",
+  "id": 171274,
+  "title": "Inherent Vice",
+  "poster_path": "https://image.tmdb.org/t/p/w500/hyan5Uc0lGpPuad94DM1pLxneiP.jpg",
+  "release_date": "2014-12-12",
+  "vote_average": 6.579,
+  "vote_count": 2367,
+  "popularity": 31.143,
+  "overview": "In Los Angeles at the turn of the 1970s, drug-fueled detective Larry \"Doc\" Sportello investigates the disappearance of an ex-girlfriend.",
+  "imdb_id": "tt1791528",
+  "budget": 20000000,
+  "homepage": "http://inherentvicemovie.com/",
+  "revenue": 14710975,
+  "runtime": 149,
+  "tagline": "Love usually leads to trouble.",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Comedy"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "IAC Films",
+    "JoAnne Sellar Productions",
+    "Ghoulardi Film Company"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Joaquin Phoenix",
+        "character": "Larry \"Doc\" Sportello",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ls72wfQl8AhRVFeBnotmnAdy3JR.jpg"
+      },
+      {
+        "name": "Josh Brolin",
+        "character": "Lt. Det. Christian F. \"Bigfoot\" Bjornsen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+      },
+      {
+        "name": "Owen Wilson",
+        "character": "Coy Harlingen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/op8sGD20k3EQZLR92XtaHoIbW0o.jpg"
+      },
+      {
+        "name": "Katherine Waterston",
+        "character": "Shasta Fay Hepworth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5xndFxJuB2QYmtoYwl1MFtFHM24.jpg"
+      },
+      {
+        "name": "Reese Witherspoon",
+        "character": "Deputy D.A. Penny Kimball",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7kczey006fMUuKiAu1ZENw864T4.jpg"
+      },
+      {
+        "name": "Benicio del Toro",
+        "character": "Sauncho Smilax",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s1EVFX10YJZTcvkAAq4AcPniS3t.jpg"
+      },
+      {
+        "name": "Jena Malone",
+        "character": "Hope Harlingen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1qmkanVCFr3ZaXcxSXVDO8andb0.jpg"
+      },
+      {
+        "name": "Joanna Newsom",
+        "character": "Sortilège",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9WQWtFg0AAMVE8smXbsZkj5Vanl.jpg"
+      },
+      {
+        "name": "Jordan Christian Hearn",
+        "character": "Denis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yNJiAAggfW7aJmwDccYWfHKA7TP.jpg"
+      },
+      {
+        "name": "Hong Chau",
+        "character": "Jade",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tRQnoEzqSq5TU0nYTzNXnLsKmET.jpg"
+      },
+      {
+        "name": "Jeannie Berlin",
+        "character": "Aunt Reet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tZ0n99LpnTmZFF0UrypLmJJ6W45.jpg"
+      },
+      {
+        "name": "Maya Rudolph",
+        "character": "Petunia Leeway",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9QTtEfAmQOQcGhD12zzxdouLRh4.jpg"
+      },
+      {
+        "name": "Michael Kenneth Williams",
+        "character": "Tariq Khalil",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kQCO55YZsQGuE4b8ukRsCMqrREh.jpg"
+      },
+      {
+        "name": "Martin Short",
+        "character": "Dr. Rudy Blatnoyd, D.D.S.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vWoZIOk7K8TSKu1IN90akswsWjZ.jpg"
+      },
+      {
+        "name": "Sasha Pieterse",
+        "character": "Japonica Fenway",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cwoR5JWudzy1TnUEM5e2HqsJQv8.jpg"
+      },
+      {
+        "name": "Martin Donovan",
+        "character": "Crocker Fenway",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wTCmpcmd8mcAbsX6Yc7zFs2J98Q.jpg"
+      },
+      {
+        "name": "Eric Roberts",
+        "character": "Michael Z. Wolfmann",
+        "profile_path": "https://image.tmdb.org/t/p/w185/NiWg1TaUcal7xn1ZQeyA2dLd5F.jpg"
+      },
+      {
+        "name": "Serena Scott Thomas",
+        "character": "Sloane Wolfmann",
+        "profile_path": "https://image.tmdb.org/t/p/w185/98oEsiUoJ4yocCKvdURzhvPnsw3.jpg"
+      },
+      {
+        "name": "Christopher Allen Nelson",
+        "character": "Glenn Charlock",
+        "profile_path": "https://image.tmdb.org/t/p/w185/chp4JPOJRMjJAfA5AjfHyhxdUsp.jpg"
+      },
+      {
+        "name": "Sam Jaeger",
+        "character": "Agent Flatweed",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8t4wSekn6vUyEmg9etTnvTaGJEV.jpg"
+      },
+      {
+        "name": "Timothy Simons",
+        "character": "Agent Borderline",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rl965RAjdwyVyVycjG4UGlbMceZ.jpg"
+      },
+      {
+        "name": "Jillian Bell",
+        "character": "Chlorinda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8p5fxbm4Jr8TxqMgPGQXs0rMxCE.jpg"
+      },
+      {
+        "name": "Taylor Bonin",
+        "character": "Ensenada Slim",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Dew",
+        "character": "Dr. Buddy Tubeside",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7NqJ8j5PUUOR4CQ02VgiSjoqifI.jpg"
+      },
+      {
+        "name": "Shannon Collis",
+        "character": "Bambi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dldREmrSMa4CQPSZxiCvdOEkapn.jpg"
+      },
+      {
+        "name": "Catherine Haena Kim",
+        "character": "News Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uXqd6dR0GC0ffjqAHrvaBY0UcCY.jpg"
+      },
+      {
+        "name": "Vivienne Khaledi",
+        "character": "Amethyst Harlingen",
+        "profile_path": ""
+      },
+      {
+        "name": "Yvette Yates Redick",
+        "character": "Luz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wmgXhPSBKL1sh8LIfwTSvDW3DVi.jpg"
+      },
+      {
+        "name": "Andrew Simpson",
+        "character": "Riggs Warbling",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Dioletto",
+        "character": "Cop with Bigfoot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cfVusFSblLuAeCzZ29rYwY9JQrk.jpg"
+      },
+      {
+        "name": "Jack Kelly",
+        "character": "Burke Stodger (archive footage)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tkahtmyAriB9KCNw2j4buEtYwJ5.jpg"
+      },
+      {
+        "name": "The Growlers",
+        "character": "The Boards",
+        "profile_path": ""
+      },
+      {
+        "name": "Belladonna",
+        "character": "Clancy Charlock",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xCaW4ldn9o5PMeYTHjL5GtvJmJP.jpg"
+      },
+      {
+        "name": "Alina Gatti",
+        "character": "Howdy Doper's Phone Voice (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Elaine Tan",
+        "character": "Xandra",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jCI51ktCpWANi1WywmvdPRyjL61.jpg"
+      },
+      {
+        "name": "Wilson Bethel",
+        "character": "LAPD Officer #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uvPPBnOVp3QKZGYGZPF5ntDLRc3.jpg"
+      },
+      {
+        "name": "Anders Holm",
+        "character": "LAPD Officer #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fgH6wEjj5tzEUcncUifBRVuidug.jpg"
+      },
+      {
+        "name": "Emmet Unverzagt",
+        "character": "Bigfoot's Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Erica Sullivan",
+        "character": "Dr. Lily Hammer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mP3JpqkBeEwsRj6JTmAFXI7AKmx.jpg"
+      },
+      {
+        "name": "Eva Fisher",
+        "character": "Dr. Threeply's Assistant #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hzmeQmbisr4VnGxcIsjMesyoHbT.jpg"
+      },
+      {
+        "name": "Jackie Michele Johnson",
+        "character": "Dr. Threeply's Assistant #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ydhVuX5I02JZLVQcnjVogbrAhYU.jpg"
+      },
+      {
+        "name": "Katie Schwartz",
+        "character": "Kimberly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Q8hqmmN45av6w9qJynkcqWgcjT.jpg"
+      },
+      {
+        "name": "Charley Morgan",
+        "character": "Dr. Igor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4UtwuIXX7pCCkTAzDMRPf4FGVlo.jpg"
+      },
+      {
+        "name": "Keith Jardine",
+        "character": "Puck Beaverton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/emN5dXAoqW9Naab4g3yOwxSfkvh.jpg"
+      },
+      {
+        "name": "Delaina Mitchell",
+        "character": "Mrs. Chastity Bjornsen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hi4piPD7egezP5wYYtd3UoXKj1M.jpg"
+      },
+      {
+        "name": "Michael Cotter",
+        "character": "Rhus Frothingham",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter McRobbie",
+        "character": "Adrian Prussia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dzqI3wITKVTrnFBxYGFswDxALjf.jpg"
+      },
+      {
+        "name": "Shannon C. Sullivan",
+        "character": "Adrian Prussia's Secretary",
+        "profile_path": ""
+      },
+      {
+        "name": "Samantha Lemole",
+        "character": "Golden Fang Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jGFrsJaAGrzG2Znc5njaZAnC3Cj.jpg"
+      },
+      {
+        "name": "Madison Leisle",
+        "character": "Golden Fang Daughter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t5DI68mBwPBP4R7lfGmMcw71eaO.jpg"
+      },
+      {
+        "name": "Liam Van Joosten",
+        "character": "Golden Fang Son",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Doyle",
+        "character": "Golden Fang Father",
+        "profile_path": ""
+      },
+      {
+        "name": "Christian Williams",
+        "character": "Smedley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/caVHKVPw2XSTYqQ9yaOaQMXz7Tp.jpg"
+      },
+      {
+        "name": "Jefferson Mays",
+        "character": "Dr. Threeply",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5W9RapvctoJpGfjaQFQHsaLlGc9.jpg"
+      },
+      {
+        "name": "David Prak",
+        "character": "Buddhist Monk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uLS6mAwk4XpCS9lXDmLN5tP3dlX.jpg"
+      },
+      {
+        "name": "Amy Ferguson",
+        "character": "Bodhi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/JKVyXMemjTvL4Bl4O27mUU9bx6.jpg"
+      },
+      {
+        "name": "Emma Dumont",
+        "character": "Zinnia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ewbPhI5SRsOFFkHFaIO6Fk24Zfn.jpg"
+      },
+      {
+        "name": "Scott Aschenbrenner",
+        "character": "Jesus Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Christina Bobrowsky",
+        "character": "Patient (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u7MSE0h2uUrF10CVT4bsjnYUQaX.jpg"
+      },
+      {
+        "name": "Peter Bonilla",
+        "character": "Police Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gregoer Boru",
+        "character": "Recording Tech (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marianne Bourg",
+        "character": "Beach Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ppnYHvg1042y6U4VO5Muc0NdBf.jpg"
+      },
+      {
+        "name": "Toyia Brown",
+        "character": "Harmony (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Stu Brumbaugh",
+        "character": "Groupie (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Seth Cash",
+        "character": "Detective (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Laura Lyon Rossi",
+        "character": "Groupie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zOI0LmFtjQ4gwraisIyb6apM4yg.jpg"
+      },
+      {
+        "name": "Ashleigh Biller",
+        "character": "Patient (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pXWYiRl4Np5GfviwIZjvW1B4Q11.jpg"
+      },
+      {
+        "name": "Elizabeth Colunga",
+        "character": "Patient (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qAYbtYO1PL5k8Jy8qPm9zMXrESY.jpg"
+      },
+      {
+        "name": "Emma Cooper",
+        "character": "Groupie (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nick de Graffenreid",
+        "character": "Patient (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3PPydyVtcCmLOUeNpDzPnbeDLpn.jpg"
+      },
+      {
+        "name": "Adam Dorsey",
+        "character": "Jesus Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Kw0OoDCD9shxZ5RdYOHvxHSR6h.jpg"
+      },
+      {
+        "name": "Ken Edling",
+        "character": "Judge (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g8JAXalEHsaZQ8r8hGyFkBIYXH8.jpg"
+      },
+      {
+        "name": "Jenna Emery",
+        "character": "Groupie (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Al Function",
+        "character": "Biker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brandy Futch",
+        "character": "Flight Attendant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9TPlvULdYSa06SHZDSrR6xxnp2w.jpg"
+      },
+      {
+        "name": "Lauren Goncher",
+        "character": "Dental Assistant (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ellen Ho",
+        "character": "Chinese Waitress (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jessica Huss",
+        "character": "Speed Freak (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q6rtkNxb69vzA5mD2e8Gf5HHcp3.jpg"
+      },
+      {
+        "name": "Raiden Integra",
+        "character": "Patient (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ueeeZ5R9bcCBzIG0mf5A9bkb6O3.jpg"
+      },
+      {
+        "name": "Dallas James",
+        "character": "Auto Mechanic (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Karl Johnson",
+        "character": "Mr. Robinson (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uZBPHWgMVuClHKsoFOr1s0VZo05.jpg"
+      },
+      {
+        "name": "Timothy Lally",
+        "character": "Commando (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Adeana Lane",
+        "character": "Beach Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/huUVuOVhDG0lriA1YBsmgnecrlU.jpg"
+      },
+      {
+        "name": "Kira Legg",
+        "character": "Groupie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rZWydGz5kLMTMj6ARkz52F1Db8p.jpg"
+      },
+      {
+        "name": "Tracy Ann Lisa",
+        "character": "District Attorney (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Blue LoLan",
+        "character": "Patient (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v9V3oqcJG4H2VqYl215IErKvRyy.jpg"
+      },
+      {
+        "name": "Jacob Lyman",
+        "character": "Mormon FBI Agent (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Amanda Maddox",
+        "character": "Flight Attendant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pTRCwOSkxb7fzxXWPxbUQxmakI.jpg"
+      },
+      {
+        "name": "Emilee Madrak",
+        "character": "Groupie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tJpozWnwSv6Ga6I1hk3TGzGHF4O.jpg"
+      },
+      {
+        "name": "Kirstin Masters",
+        "character": "Dental Assistant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/66vyU1I2naeD1WRHLU6Xd5ZFj9G.jpg"
+      },
+      {
+        "name": "Zach McMahon",
+        "character": "Police Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chelsea O'Toole",
+        "character": "Patient (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pWBtIgo8WGVfUYf8Z30LzuOecP2.jpg"
+      },
+      {
+        "name": "Shaun Parker",
+        "character": "Commando (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rodney J. Richards",
+        "character": "Adrian Prussia's Friend (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Philip Roosevelt",
+        "character": "Hippie in Commune (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Osamu Saito",
+        "character": "Japanese Waiter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joel Shock",
+        "character": "Police Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew Skomo",
+        "character": "Detective (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/to0uzLnLiR0Fbt0ZGKXYYFi6Hfr.jpg"
+      },
+      {
+        "name": "Chantal Thuy",
+        "character": "Groupie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6tjhoI5tHfXEeVAIfX1c6Myfs0Y.jpg"
+      },
+      {
+        "name": "Diana Elizabeth Torres",
+        "character": "Lourdes (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zQ1yKUdvvHguLs6Fx1cYaKQrcEU.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Paul Thomas Anderson",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wKAs2LtLYSUzt3ZZ8pnxMwuEWuR.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "california",
+    "based on novel or book",
+    "boat",
+    "detective",
+    "1970s",
+    "ex-girlfriend",
+    "surreal",
+    "hippie lifestyle",
+    "pot smoking",
+    "private investigator",
+    "disappearance",
+    "lawyer",
+    "los angeles, california",
+    "drugs",
+    "loan shark",
+    "neo-noir",
+    "1960s",
+    "heroin cartel"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "In 1970, drug-fueled Los Angeles private investigator Larry \"Doc\" Sportello investigates the disappearance of a former girlfriend.",
+    "During the psychedelic 60s and 70s Larry \"Doc\" Sportello is surprised by his former girlfriend and her plot for her billionaire boyfriend, his wife, and her boyfriend. A plan for kidnapping gets shaken up by the oddball characters entangled in this groovy kidnapping romp based upon the novel by Thomas Pynchon.—bignicknasty97",
+    "1971. Larry Sportello - better known as Doc - is a pot head hippie private eye based in Gordita Beach in southern California. He is approached by ex-lover Shasta Fay Hempworth, who believes her current boyfriend, married land developer Mickey Wolfmann, is the target of an abduction attempt by his wife and her lover. In helping Shasta, Doc not only goes on a search for Wolfmann, but others who go missing, including Shasta, and one who is assumed to be murdered. Along the way, Doc gets involved with a crazy cast of characters and a wide array of issues from politics, cults, prostitution, the drug trade and dentistry, much of it surrounding the mysterious \"Golden Fang\". Along for most of the ride is LAPD detective Christian Bjornsen - Bigfoot to most who know him - who is straight-laced on the outside, but who has a dark underside, which is supported by a hefty therapy bill.—Huggo",
+    "Joaquin Phoenix stars as Larry \"Doc\" Sportello, a pot-smoking private eye at the tail end of the psychedelic '60s who investigates a kidnapping case involving his old flame Shasta Fay Hepworth (Katherine Waterston) and her missing sugar daddy Mickey Wolfmann (Eric Roberts), a powerful real-estate mogul. In the course of his investigation Doc butts heads with Lt. Det. Christian F. \"Bigfoot\" Bjornsen (Josh Brolin), a part-time actor with a palpable disdain for the free-love generation, and a reputation for committing civil-rights violations. Later, as clues to Wolfmann's disappearance begin to suggest a conspiracy involving the FBI and a mysterious underworld syndicate known as the Golden Fang, Doc seeks the help of his lawyer Sauncho Smilax, Esq. (Benicio Del Toro) and Deputy D.A. Penny Kimball (Reese Witherspoon). Meanwhile, Doc also agrees to search for Coy Harlingen (Owen Wilson), a reportedly deceased saxophone player who may not be as dead as rumors suggest, and who seems somehow tied to the ongoing Wolfmann investigation."
+  ],
+  "synopsis": "The movie opens on a rickety beach house. It is the year 1970 in Gordita Beach, a fictional town in Los Angeles. A young woman, Shasta Fay (Katherine Waterston), walks to this home; we are told she is the homeowner's \"ex-old lady\" and \"Tonight she was all in flatland gear, hair a lot shorter than he remembered, looking just like she swore shed never look.\" These are passages from Thomas Pynchon's novel and this eloquent prose is inserted throughout the movie. Shasta's ex-boyfriend is revealed as Doc Sportello (Joaquin Phoenix), who is both a private investigator and a hippie/dope head who always seems a bit dazed and confused. Shasta tells him about her new lover, Mickey Wolfmann (Eric Roberts), and asks Doc to help prevent a plot by Mickey's wife and her lover to have Mickey abducted and committed to an insane asylum. He asks why she came to his place and she suspects she is being watched and by showing up at his home, it just looks like a secret rendezvous.Wolfmann is a wealthy real estate developer that Doc remembers from TV ads. He watches one where, in his drug-state, Wolfmann appears as Doc's arch rival, the police officer, Bigfoot. Doc calls his Aunt Reet, who tells him that Wolfmann is technically Jewish but wants to be a Nazi. He is associated with white supremacists and has a lot of ties to criminals.We meet Sortilège (Joanna Newsom) who is serving as our narrator. She tells Doc to change his hair; we later see it with pieces of blue ribbon tied into it.Doc meets with Tariq Khalil (Michael Kenneth Williams), a member of a Black Panther-esque group called the Black Guerilla Family, who hires Doc to help him find one of Mickey's bodyguards, Glen Charlock, a white supremacist who he met in jail who owes him money. Khalil discusses the history of Los Angeles land Mexicans losing their homes so the Dodger Stadium can be built, American Indians being kicked out for the Music Center, his own neighborhood gone to build Channel View Estates (Wolfmann's real estate). Doc writes on his pad with stoned out notes like PARANOIA ALERT and HALLUCINATING.Doc visits Channel View Estates, followed by dozens of police officers that do a poor job at remaining hidden. Doc enters the home, which ends up being a brothel. Behind a door with a cartoon drawing of a naked woman, a prostitute named Jade (Hong Chau) emerges and tells about the $14.95 special on eating pussy. She demonstrates on her colleague, Bambi, while Doc searches the premises for Charlock but he is knocked on the head by someone with a baseball bat and collapses, theatrically.He awakens outside, lying next to Charlock's dead body and surrounded by policemen. Doc is brought to the police station and interrogated by Det. Christian F. \"Bigfoot\" Bjornsen (Josh Brolin) of the LAPD who harshly interrogates about the murder of Charlock and the disappearance of both Mickey Wolfmann and Shasta Fay. Doc is helped by an attorney, Sauncho Smilax (Benicio Del Toro) but he is not an actual criminal lawyer and is willing to help the police or Doc indiscriminately. It is clear that Doc and Bigfoot have a love/hate relationship despite a deep respect for each other. A running joke is Bigfoot is always simulating oral sex on bananas or popsicles, which intrigues Doc in a nonjudgmental way. Bigfoot tries to get Doc to become an informant for the police but he does not want to.Doc is also hired by Hope Harlingen (Jena Malone), a former heroin addict who is looking for her missing husband, Coy, a saxophone player. She tells Doc about her own drug problems and how drugs have ruined her teeth and made her breasts hairy (she shows Doc a photo of her daughter at which he screams). She tells him she's now working as a drug counselor.Impersonating a patent lawyer, Doc makes his way to the Wolfmann residence and meets his wife, Sloane (Serena Scott Thomas), as well as her lover, the hunky yoga instructor, Riggs Warbling (Andrew Simpson). The house is run on debauchery including a housekeeper who is openly willing to perform sexual favors for guests. Doc tours the house and finds a closet filled with ties, each with a naked woman drawn on them. Each woman is a live-in houseguest one of them is his own ex-girlfriend, Shasta, who has now gone missing.Back at the police station, Doc expresses his distaste for the police and seems to be afraid of officers.Doc meets with Deputy D.A. Penny Kimball (Reese Witherspoon), who he also is having an affair with on the side. She asks him about Wolfmann and Sasha's disappearances and the murder of Charlock. She suggests maybe Doc has killed him given that he is always so drug-induced, he passes out and doesn't remember things; he has no defense against this hypothesis. She directs him to the FBI, who take him to an estate; among the guests is a man with a swastika on his face. Doc spots Coy Herlingen (Owen Wilson) there; the two speak privately about the Golden Fang, which Coy reveals is the name of a secret organization with shady business. It is also the name of their boat which is used to smuggle heroin into the country.While being questioned at the police station again, Doc mocks the two inept FBI agents conducting the interrogation, each picking their nose at different intervals (the film has an over-the-top goofy tone). When he leaves the station, the secretary, Petunia (Maya Rudolph), tells him he has a message. It is from Jade who apologizes for setting him up and tells him to be aware of the Golden Fang.That evening, Jade meets Doc in an alley where she explains about the Golden Fang, a group that is smuggling drugs into the country. He then runs into Coy Harlingen, who is not dead at all. Coy is a saxophone player in a local surf band who is hiding undercover at a house on Topanga Canyon no one recognizes him because he plays bass with the band that resides there. Coy disappears in the fog and Doc struggles to find his way out (a metaphor but also shows the world from his drugged-out point of view).Sauncho Smilax, the attorney, gives Doc more information on the Golden Fang, including the fact that it was stuck in the Bermuda Triangle for 50 years. Doc spots the boat in the ocean off-shore.Doc is watching a Richard Nixon rally on TV; Coy Harlingen appears on the screen, protesting Hitler's speech. When he talks to Coy about it, he learns that Coy dabbled in Communism years ago and that he is now a police informant. He explains that he fears for his life and now only wants to return to his wife and daughter.At his home, Doc receives a postcard from Shasta that reminds him of an experience they had there with a Ouija board. Sortilège is there, helping them use the board, but they don't seem to acknowledge her (flirting with the idea that she is a figment of Doc's imagination). The board spells out a phone number and when Shasta and Doc call it, it leads them to the Howdy Doper office downtown. They visit it in person but it is closed; they wait outside the building, snuggling up in the cold.Doc goes to the same building from his memory and waits in the office of a dentist, Dr. Rudy Blatnoyd, D.D.S. (Martin Short). Rudy is hedonistic, constantly having sexual relations with his staff and snorting cocaine. He is later joined by Japonica Fenway (Sasha Pieterse), a young 18-year-old girl, who is the daughter of a rich man named Crocker Fenway. She drives the group home, despite them all being high on cocaine; they are pulled over by a police officer who explains her headlights are off; Japonica says she doesn't need them because she can see in the dark. The officer continues, telling them that any group over three people may be indicative of a cult; a high Dr. Rudy worries that its Charles Manson again. The police officer lets them go, not realizing they are all obviously high on cocaine.The next morning, Bigfoot meets with Doc in a Japanese restaurant where he tells him that Dr. Rudy Blatnoyd has just been found dead with a neck injury fang bites. Bigfoot also informs Doc that there may be a link between Puck Beaverton (another one of Wolfmann's bodyguards) and Coy Harlingen. The two have a long conversation about how the city is changing for the worse Doc mentions extra work is drying up. Later, Doc watches television at home and sees Bigfoot working as an extra on a police television series \"Adam-12\" (in the vein of Dragnet).Doc goes to a casino several miles away to find Puck Beaverton. It is run by a sort of cult, including a man with a swastika on his face. Doc notices two FBI agents escorting Wolfmann through the premises; he manages to talk with him and learns that Wolfmann has given up on the state of the world and feels guilty for the negativity that his real-estate business has caused; he now is a happy member of the cult.When Doc returns to Los Angeles, he is greeted by Shasta who has returned. She says she was up north but he points out the puka shells she are wearing are from the beach. She confesses to being on a three-hour tour (i.e., on the Golden Fang) and that she was brought along as inherent vice. She admits to not knowing what this means. We are told by Sortilège in voice-over that inherent vice is listed as an insurance policy as something that will inevitably be damaged like chocolate which will melt or glass which will break. In other words, a sort of defect in a product, which will lead to it being deteriorated; if the defect is not noticeable and nobody has been warned of it, neither the insurance company or the insured are liable for any claim.Shasta and Doc engage in a conversation and when she emerges from another room, she is completely naked. Shasta says that Doc should pretend she is a Manson girl, easily duped and controlled by a man, all while rubbing her nipples. As their conversation continues, she rubs his leg, sexually, and then bends over the couch all in a long, six-minute unbroken shot. It concludes with them having sex. When she tells him \"It doesn't mean we're back together,\" Doc replies, \"Of course not!\"Doc meets with Penny again at her office who is willing to provide him with confidential files he reviews them and learns that Adrian Prussia, a loan shark, is paid by the police department to kill people for them one of their victims was Docs former partner. Prussia is tied to the Golden Fang and he learns that Glen Charlock was involved with a deal which is how he ended up dead.Doc visits Adrian Prussia (Peter McRobbie) noticing his obsession with baseball bats, but is abducted and drugged by his partner Puck. He manages to escape, killing both Puck and Adrian. Bigfoot appears and rescues him but after being driven home by Bigfoot, Doc learns that he has been set up: Bigfoot has planted some smuggled heroin in his car. Doc successfully meets with Japonica's father Crocker (Martin Donovan) and arranges for the drugs to be returned to the Golden Fang in exchange for Coy's freedom.Sauncho and Doc go to the ocean and watch the Golden Fang becomes repossessed. Doc then picks up Coy from the retreat and drives him home where Coy is finally reunited with his family.The next day, Bigfoot breaks into Doc's house while he is smoking pot and offers him some. The troubled police detective takes a hit from Doc's joint, and then scarfs down the whole silver plate of the marijuana before walking out.The film ends as Doc and Shasta ride in a car going to an unknown destination. Doc states that this doesn't mean they are back together. She replies, jokingly, \"Of course not.\"At the end of the closing credits is the quote, \"Under the paving-stones, the beach!\"",
+  "imdb_score": 6.6
+}

@@ -1,0 +1,355 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/krDjqWqLAewVYiU8fDQLHO7gPmf.jpg",
+  "id": 8967,
+  "title": "The Tree of Life",
+  "poster_path": "https://image.tmdb.org/t/p/w500/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg",
+  "release_date": "2011-05-17",
+  "vote_average": 6.7,
+  "vote_count": 2924,
+  "popularity": 19.3,
+  "overview": "The impressionistic story of a Texas family in the 1950s. The film follows the life journey of the eldest son, Jack, through the innocence of childhood to his disillusioned adult years as he tries to reconcile a complicated relationship with his father. Jack finds himself a lost soul in the modern world, seeking answers to the origins and meaning of life while questioning the existence of faith.",
+  "imdb_id": "tt0478304",
+  "budget": 32000000,
+  "homepage": "http://www.twowaysthroughlife.com/",
+  "revenue": 54700000,
+  "runtime": 139,
+  "tagline": "Nothing stands still.",
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "River Road Entertainment",
+    "Plan B Entertainment",
+    "Cottonwood Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Brad Pitt",
+        "character": "Mr. O'Brien",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+      },
+      {
+        "name": "Sean Penn",
+        "character": "Jack",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+      },
+      {
+        "name": "Jessica Chastain",
+        "character": "Mrs. O'Brien",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bFjC63gYFmGRcyJ2OF5FOcY7pIn.jpg"
+      },
+      {
+        "name": "Hunter McCracken",
+        "character": "Young Jack",
+        "profile_path": ""
+      },
+      {
+        "name": "Laramie Eppler",
+        "character": "R.L.",
+        "profile_path": ""
+      },
+      {
+        "name": "Tye Sheridan",
+        "character": "Steve",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d5ZS2fjqC98cIGkhEGX0fRYhku4.jpg"
+      },
+      {
+        "name": "Fiona Shaw",
+        "character": "Grandmother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tjM74LcxwnYM77Csg1EtlXb1F9a.jpg"
+      },
+      {
+        "name": "Jessica Fuselier",
+        "character": "Guide",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicolas Gonda",
+        "character": "Mr. Reynolds",
+        "profile_path": ""
+      },
+      {
+        "name": "Will Wallace",
+        "character": "Architect",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n6AI0SA91DV2bubLxAtfKuSERRy.jpg"
+      },
+      {
+        "name": "Kelly Koonce",
+        "character": "Father Haynes",
+        "profile_path": ""
+      },
+      {
+        "name": "Bryce Boudoin",
+        "character": "Robert",
+        "profile_path": ""
+      },
+      {
+        "name": "Jimmy Donaldson",
+        "character": "Jimmy",
+        "profile_path": ""
+      },
+      {
+        "name": "Kameron Vaughn",
+        "character": "Cayler",
+        "profile_path": ""
+      },
+      {
+        "name": "Cole Cockburn",
+        "character": "Harry Bates",
+        "profile_path": ""
+      },
+      {
+        "name": "Dustin Allen",
+        "character": "George Walsh",
+        "profile_path": ""
+      },
+      {
+        "name": "Brayden Whisenhunt",
+        "character": "Jo Bates",
+        "profile_path": ""
+      },
+      {
+        "name": "Joanna Going",
+        "character": "Jack's Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cqYMJFlkkAc2n1FTGaOmom4IFFL.jpg"
+      },
+      {
+        "name": "Irene Bedard",
+        "character": "Messenger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nCm5940cLixwcSoB5kIqLAKNmGL.jpg"
+      },
+      {
+        "name": "Michael Koeth",
+        "character": "Jack @ 2",
+        "profile_path": ""
+      },
+      {
+        "name": "Finnegan Williams",
+        "character": "Jack @ 5",
+        "profile_path": ""
+      },
+      {
+        "name": "John Howell",
+        "character": "R. L. @ 2",
+        "profile_path": ""
+      },
+      {
+        "name": "Samantha Martinez",
+        "character": "Samantha",
+        "profile_path": ""
+      },
+      {
+        "name": "Savannah Welch",
+        "character": "Mrs. Kimball",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iu3QC7vcZhJdSwtQNYjkp65AM5M.jpg"
+      },
+      {
+        "name": "Tamara Jolaine",
+        "character": "Mrs. Stone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cL9pYIMolSdT4gBu9vNcmqxRqx3.jpg"
+      },
+      {
+        "name": "Julia M. Smith",
+        "character": "Beth",
+        "profile_path": ""
+      },
+      {
+        "name": "Anne Nabors",
+        "character": "Rue",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Ryan",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Tyler Thomas",
+        "character": "Tyler Stone",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Showers",
+        "character": "Mr. Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7QAkmhrZVgRYflui9rj9Jf8fiYS.jpg"
+      },
+      {
+        "name": "Kimberly Whalen",
+        "character": "Mrs. Brown",
+        "profile_path": ""
+      },
+      {
+        "name": "Margaret Hoard",
+        "character": "Jane",
+        "profile_path": ""
+      },
+      {
+        "name": "Wally Welch",
+        "character": "Clergyman",
+        "profile_path": ""
+      },
+      {
+        "name": "Hudson Lee Long",
+        "character": "Mr. Bagley",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Dixon",
+        "character": "Dusty Walsh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zDxnPEgYE2CC777IjZ8oW6yWlVl.jpg"
+      },
+      {
+        "name": "William Hardy",
+        "character": "Jack's Work Colleague",
+        "profile_path": ""
+      },
+      {
+        "name": "Tommy Hollis",
+        "character": "Tommy",
+        "profile_path": ""
+      },
+      {
+        "name": "Cooper Franklin Sutherland",
+        "character": "Robert #2",
+        "profile_path": ""
+      },
+      {
+        "name": "John Cyrier",
+        "character": "Bi-Plane Pilot",
+        "profile_path": ""
+      },
+      {
+        "name": "Erma Lee Alexander",
+        "character": "Erma",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicholas Yedinak",
+        "character": "Nicholas Swimmer",
+        "profile_path": ""
+      },
+      {
+        "name": "Erinn Allison",
+        "character": "Mrs. Bates (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary Anzalone",
+        "character": "School Teacher (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5rzpcfF1uWJn2qqhbxDoFYysMy8.jpg"
+      },
+      {
+        "name": "Charlotte Biggs",
+        "character": "1950s' Woman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Benjamin Dane",
+        "character": "Symphony Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael E. Harvey",
+        "character": "Lame Man (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Hislope",
+        "character": "Clown (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jackson Hurst",
+        "character": "Uncle Ray (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aizQOKQVc4mD9pyssS5eCf2vuiO.jpg"
+      },
+      {
+        "name": "Zach Irsik",
+        "character": "Jack's Son (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Scottie Jefferies",
+        "character": "Businessman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gregory Kelly",
+        "character": "Prisoner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2MJssw3UbzQJBQU7F1OJH8b4jAL.jpg"
+      },
+      {
+        "name": "Carlotta Maggiorana",
+        "character": "Ragazza-angelo (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uDRouHFI4DIdW7Ov1OIJzn8wmVJ.jpg"
+      },
+      {
+        "name": "Crystal Mantecon",
+        "character": "Elisa (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q4WFBh2U6evfTtbvZo8E6VWRsA0.jpg"
+      },
+      {
+        "name": "Jodie Moore",
+        "character": "Mr. Walsh (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qKSfKFRZ77DVlEzpGitdYyJZGQR.jpg"
+      },
+      {
+        "name": "Kathryn Rawson",
+        "character": "Capitol Secretary (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Danielle Rene",
+        "character": "Woman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Debbi Tucker",
+        "character": "Neighbor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o81iOTkjSCFJC9wqrq282IItpmB.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Terrence Malick",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6FSi5aeyCNxJp96gxOmX7R4hCFu.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "sibling relationship",
+    "red hair",
+    "parent child relationship",
+    "afterlife",
+    "philosophy",
+    "tree",
+    "sun",
+    "texas",
+    "telegram",
+    "meteor",
+    "coming of age",
+    "spirituality",
+    "space",
+    "dinosaur",
+    "childhood",
+    "1950s",
+    "brother brother relationship"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "The story of a family in Waco, Texas in 1956. The eldest son witnesses the loss of innocence and struggles with his parents' conflicting teachings.",
+    "The impressionistic story of a Texas family in the 1950s. The film follows the life journey of the eldest son, Jack, through the innocence of childhood to his disillusioned adult years as he tries to reconcile a complicated relationship with his father (Brad Pitt). Jack (played as an adult by Sean Penn) finds himself a lost soul in the modern world, seeking answers to the origins and meaning of life while questioning the existence of faith.—alfiehitchie",
+    "The life of middle-aged Jack O'Brien has been shaped largely by his formative growing-up period in suburban Waco, Texas in the 1950's with his parents, and his two younger brothers, R.L. and Steve. It is primarily the dichotomy between his parents that is causing an emotional conflict within him, now specifically with his father. Although both his parents loved him and his siblings, they demonstrated that love in different ways which was often at odds with each other. His mother was overly caring and nurturing, and tried to provide a sense of wonderment about the world to her children. His father was unbending, and did not tolerate disobedience as he wanted to prepare his children practically for a difficult world. Mr. O'Brien's actions were also shaped by his own internal conflicts about what he did and what he wanted to do in life. Middle-aged Jack's current thoughts also reflect back on the death of his brother R.L., who was killed in military duty at age nineteen.—Huggo",
+    "The story of Jack O'Brien who as an adult recalls his life as a young boy and particularly his sometimes demanding and overly strict father. Jack childhood was not a happy one though he remembers his mother as an angel who would do anything for her children. His father was a hard working man and a loving father in many ways. He is frustrated however by his lack of success in life, something that he takes out on the rest of the family. Director Terrence Malick presents a highly visual mosaic to contrast the lives of his characters and the world in which they've evolved.—garykmcd",
+    "Director Terrence Malick traces the evolution of an 11-year-old boy in the Midwest, from his first experiences of joy love and mercy (from his mother, played by Chastain), to his introduction to the 'ways of the world' (from his father, played by Pitt). Each parent contends for his allegiance, and the boy must reconcile their claims. His experience of the world, once a thing of glory, becomes a labyrinth as he seeks unselfish love."
+  ],
+  "synopsis": "Tree of Life is a period piece centered around three boys in the 1950s. The eldest son (Hunter McCracken none SAG) of two characters (Brad Pitt and Jessica Chastain) witnesses the loss of innocence.The movie, which exists as a metaphysical meditation and a lyrical poem, focuses at a microcosmic level on the story of Jack, a jaded, middle aged man (played by Sean Penn) scarred by the memories of an oppressive upbringing by his father (Brad Pitt), as well as the untimely death of his younger brother.We trace the evolution of an eleven-year-old boy in the Midwest, Jack, one of three brothers. At first all seems marvelous to the child. He sees as his mother does, with the eyes of his soul. She represents the way of love and mercy, where the father tries to teach his son the world's way, of putting oneself first. Each parent contends for his allegiance, and Jack must reconcile their claims. The picture darkens as he has his first glimpses of sickness, suffering and death. The world, once a thing of glory, becomes a labyrinth.Framing this story is that of adult Jack, a lost soul in a modern world, seeking to discover amid the changing scenes of time that which does not change: the eternal scheme of which we are a part. When he sees all that has gone into our world's preparation, each thing appears a miracle precious, incomparable. Jack, with his new understanding, is able to forgive his father and take his first steps on the path of life.The story ends in hope, acknowledging the beauty and joy in all things, in the everyday and above all in the family -- our first school -- the only place that most of us learn the truth about the world and ourselves, or discover life's single most important lesson, of unselfish love.",
+  "imdb_score": 6.8
+}

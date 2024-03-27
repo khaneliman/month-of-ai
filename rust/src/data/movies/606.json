@@ -1,0 +1,229 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/oGYRCq5eBhgXuLX20czONxa0uC8.jpg",
+  "id": 606,
+  "title": "Out of Africa",
+  "poster_path": "https://image.tmdb.org/t/p/w500/3ao9wNPTdpFDWVMyqDZGZnSGpz5.jpg",
+  "release_date": "1985-12-20",
+  "vote_average": 7.167,
+  "vote_count": 1291,
+  "popularity": 21.87,
+  "overview": "Out of Africa tells the story of the life of Danish author Karen Blixen, who at the beginning of the 20th century moved to Africa to build a new life for herself. The film is based on the autobiographical novel by Karen Blixen from 1937.",
+  "imdb_id": "tt0089755",
+  "budget": 31000000,
+  "homepage": "",
+  "revenue": 227514205,
+  "runtime": 161,
+  "tagline": "Based on a true story.",
+  "genres": [
+    "History",
+    "Romance",
+    "Drama"
+  ],
+  "production_companies": [
+    "Universal Pictures",
+    "Mirage Entertainment",
+    "Mirage Enterprises"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Robert Redford",
+        "character": "Denys George Finch Hatton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vNUABwck6CdDFtuZUxYIBA8VY83.jpg"
+      },
+      {
+        "name": "Meryl Streep",
+        "character": "Karen Christence Dinesen Blixen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/emAAzyK1rJ6aiMi0wsWYp51EC3h.jpg"
+      },
+      {
+        "name": "Klaus Maria Brandauer",
+        "character": "Baron Bror Blixen/Baron Hans Blixen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mE4polIdi4QdzDvIuHgfM37n7l9.jpg"
+      },
+      {
+        "name": "Michael Kitchen",
+        "character": "Berkeley Cole",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gssCZjXmRcRhuOrGOR9cwd6TcXj.jpg"
+      },
+      {
+        "name": "Malick Bowens",
+        "character": "Farah",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lcib1dnY0bDLfb2VbjDIOauxCrq.jpg"
+      },
+      {
+        "name": "Michael Gough",
+        "character": "Lord Delamere",
+        "profile_path": "https://image.tmdb.org/t/p/w185/owcwnV6dymBd9YIQKDPzVA5EtZX.jpg"
+      },
+      {
+        "name": "Suzanna Hamilton",
+        "character": "Felicity",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7kI6osmvPcYgPacyiQO40EvfMkN.jpg"
+      },
+      {
+        "name": "Rachel Kempson",
+        "character": "Lady Belfield",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eghAORBNMHogskqugKjgF5XFCwM.jpg"
+      },
+      {
+        "name": "Graham Crowden",
+        "character": "Lord Belfield",
+        "profile_path": "https://image.tmdb.org/t/p/w185/QNv7JeolqotvkcphWnlYH8888n.jpg"
+      },
+      {
+        "name": "Leslie Phillips",
+        "character": "Sir Joseph",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c46Qnx1QFEknR4pNWA2hTyDmrhA.jpg"
+      },
+      {
+        "name": "Shane Rimmer",
+        "character": "Belknap, farm manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/morFcla0R2Bv3vu3B1HgCmm0eiv.jpg"
+      },
+      {
+        "name": "Joseph Thiaka",
+        "character": "Kamante",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen Kinyanjui",
+        "character": "Kinanjui",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Bugara",
+        "character": "Juma",
+        "profile_path": ""
+      },
+      {
+        "name": "Job Seda",
+        "character": "Kanuthia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tBdLpdXgPxCOXdB0TDl9J6Qx5J4.jpg"
+      },
+      {
+        "name": "Mohammed Umar",
+        "character": "Ismail",
+        "profile_path": ""
+      },
+      {
+        "name": "Donal McCann",
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xGjV73QUTFPvNwWSv6R1dNqsMt.jpg"
+      },
+      {
+        "name": "Kenneth Mason",
+        "character": "Banker",
+        "profile_path": ""
+      },
+      {
+        "name": "Tristram Jellinek",
+        "character": "First Commissioner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/phD5IvHSxtSBOhrKN3wKcrYABPf.jpg"
+      },
+      {
+        "name": "Stephen B. Grimes",
+        "character": "Second Commissioner",
+        "profile_path": ""
+      },
+      {
+        "name": "Annabel Maule",
+        "character": "Lady Byrne",
+        "profile_path": ""
+      },
+      {
+        "name": "Benny Young",
+        "character": "Minister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vI5bKSrLhHBiOAXSy28QZrLKvcb.jpg"
+      },
+      {
+        "name": "Sbish Trzebinski",
+        "character": "Beefy Drunk",
+        "profile_path": ""
+      },
+      {
+        "name": "Allaudin Qureshi",
+        "character": "Rajiv",
+        "profile_path": ""
+      },
+      {
+        "name": "Niven Boyd",
+        "character": "Young Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Iman",
+        "character": "Mariammo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xhJ7gUVUP1TzkC4RuNStV1Bzng1.jpg"
+      },
+      {
+        "name": "Peter Strong",
+        "character": "Huge Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Abdulla Sunado",
+        "character": "Esa",
+        "profile_path": ""
+      },
+      {
+        "name": "Amanda Parkin",
+        "character": "Victoria",
+        "profile_path": ""
+      },
+      {
+        "name": "Muriel Gross",
+        "character": "Lady Delamere",
+        "profile_path": ""
+      },
+      {
+        "name": "Ann Palmer",
+        "character": "Dowager",
+        "profile_path": ""
+      },
+      {
+        "name": "Keith Pearson",
+        "character": "Missionary Teacher",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Sydney Pollack",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j3iXrQDiceGrAzEF6HE49zA7Wwj.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "farm",
+    "infidelity",
+    "africa",
+    "lion",
+    "safari",
+    "nairobi",
+    "romance",
+    "kenya",
+    "based on memoir or autobiography",
+    "syphilis",
+    "danish",
+    "historical drama",
+    "1910s",
+    "big game hunter",
+    "cuckolded husband"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+    "Follows the life of Karen Blixen, who establishes a plantation in Africa. Her life is complicated by a husband of convenience (Bror Blixen), a true love (Denys), troubles on the plantation, schooling of the natives, war, and catching VD from her husband.—Tony Bridges <tbridges@spicer.com>",
+    "Initially set on being a dairy farmer, the aristocratic Karen Blixen travels to Africa to join her husband, Bror, who instead spends their money on a coffee plantation. After discovering Bror is unfaithful, Karen develops feelings for hunter Denys, but realizes he prefers a simplistic lifestyle compared to her upper class background. The two continue on until a series of events force Karen to choose between her love and personal growth.—Jwelch5742",
+    "Karen Blixen, a Danish woman, marries a friend for the title of Baroness and they move to Africa and start a coffee plantation. Things unfold when her husband begins cheating on her and is away on business often, so she's at home alone, working on the farm and bonding with two men she met in her first day in Africa. She eventually falls in love with the one, Denys Finch-Hatton and goes on safari and whatnot with him. Later, she begins to want more from him than the simple friendship/relationship they have and pushes marriage, but Denys still wants his freedom. By the end, she's gained a much better understanding and respect for the African culture than when she came.—KKaliforniApril22",
+    "A study of the life of Danish noblewoman and storyteller Karen Blixen ('Isak'), from her marriage and departure for Kenya in 1913 until her return to Denmark in 1931. As she struggles to maintain a coffee farm through various struggles and disasters, and strives to improve relations with the local natives, her marriage of convenience to a titled aristocrat gradually gives way to an enduring romance with the noted hunter and adventurer Denys Finch Hatton.—scgary66"
+  ],
+  "synopsis": "[Out Of Africa]A well-heeled Danish lady (Meryl Streep) goes to an English colony in Africa and buys 1000 acres. Her beau dies and to avoid loneliness she proposes marriage to his gentleman (Klaus Maria Brandauer) but rascally brother whom she got along well with as a friend. He agrees, in no small part because she has money. They agree to start a cattle farm and she goes back to Denmark to get funding from her family, but when she returns she is distraught to find her husband Bror has decided on his own they would grow coffee instead, despite the fact it has never been grown at that altitude.The First World War breaks out and most of the men go south to protect some front we don't see much of, but the lady leads a long and dangerous supply run to them herself, learning much about survival, resourcefulness and leadership along the way, and gaining the grudging respect of the men, who didn't think a woman would be up to it.After the fighting, her husband continues to live more independently than she would like, and eventually he transmits syphilis to her, although he suffers no noticeable effects of it. He is apologetic that he gave it to her, but he's not apologetic for being unfaithful or fiercely independent. She returns to Denmark for treatment, is cured after three years and returns to the farm, never to have conjugal relations with him again. He moves out of her house after soliciting a sum of money from her one last time.The coffee crops start coming in but turning a profit proves difficult. She enlists the services of a local tribe to work her farm and eventually much of the tribe works for her, and they wind up living on her uncultivated acres. She builds a school and hires a teacher to educate the black children, somewhat to the disapproval of many of the English settlers who would rather see the natives remain uneducated and easily manipulated.She is taken by a freelance hunter (Michael Kitchen) but her affections to Berkeley are not returned and he dies. His partner Denys (Robert Redford) gradually becomes enamored with her and she reciprocates. He is honest and loyal but very independent as he lives a live of adventure in the wilderness, as he regretfully notes the inroads of civilization. She wants him to be more domesticated but he travels a lot and comes and goes as he pleases.The farm is just barely getting by as she mortgages it further with a local backer. She has a bumper crop but her barn catches fire, causing her to go bankrupt. She had no insurance as it was considered pessimistic in those freewheeling pioneer times.Her lover Denys dies in a crash in his private plane and she buries him on her land. Her farm and lover gone, her life in Africa is over and she leaves, never to return. She has loved and lost, but it was better than never having loved at all. We are told at the end that she went on to write some books under a pseudonym about her adventures.",
+  "imdb_score": 7.1
+}

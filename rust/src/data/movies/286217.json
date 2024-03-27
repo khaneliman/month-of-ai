@@ -1,0 +1,343 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/9pubUbDX3eKB6ZuKxbFgv4cBZrz.jpg",
+  "id": 286217,
+  "title": "The Martian",
+  "poster_path": "https://image.tmdb.org/t/p/w500/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
+  "release_date": "2015-09-30",
+  "vote_average": 7.683,
+  "vote_count": 18889,
+  "popularity": 61.656,
+  "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+  "imdb_id": "tt3659388",
+  "budget": 108000000,
+  "homepage": "https://www.20thcenturystudios.com/movies/the-martian",
+  "revenue": 630600000,
+  "runtime": 141,
+  "tagline": "Bring Him Home",
+  "genres": [
+    "Drama",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Scott Free Productions",
+    "Genre Films",
+    "TSG Entertainment",
+    "20th Century Fox"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Matt Damon",
+        "character": "Mark Watney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
+      },
+      {
+        "name": "Jessica Chastain",
+        "character": "Melissa Lewis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bFjC63gYFmGRcyJ2OF5FOcY7pIn.jpg"
+      },
+      {
+        "name": "Kristen Wiig",
+        "character": "Annie Montrose",
+        "profile_path": "https://image.tmdb.org/t/p/w185/43lFW3Ed6tNaVMsr9cwg0eP9n5n.jpg"
+      },
+      {
+        "name": "Jeff Daniels",
+        "character": "Teddy Sanders",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r0mkZJZnTSJO3HJRsMW5HtszxE8.jpg"
+      },
+      {
+        "name": "Michael Peña",
+        "character": "Rick Martinez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+      },
+      {
+        "name": "Kate Mara",
+        "character": "Beth Johanssen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rwyzVP1Rm6Hev9lTXAdjvNQoD2N.jpg"
+      },
+      {
+        "name": "Sean Bean",
+        "character": "Mitch Henderson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
+      },
+      {
+        "name": "Sebastian Stan",
+        "character": "Chris Beck",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg"
+      },
+      {
+        "name": "Aksel Hennie",
+        "character": "Alex Vogel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sceuNjVXtsHOS3cn0MsLfZRkAQx.jpg"
+      },
+      {
+        "name": "Chiwetel Ejiofor",
+        "character": "Vincent Kapoor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+      },
+      {
+        "name": "Donald Glover",
+        "character": "Rich Purnell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nilV7NtnML6PDa9VrvxD79F85K9.jpg"
+      },
+      {
+        "name": "Benedict Wong",
+        "character": "Bruce Ng",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+      },
+      {
+        "name": "Mackenzie Davis",
+        "character": "Mindy Park",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ekQbEIKh26jbz17P0wwLbo6uNs9.jpg"
+      },
+      {
+        "name": "Naomi Scott",
+        "character": "Ryoko",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d140yTWCle6rYUGE9GIVZVPaPng.jpg"
+      },
+      {
+        "name": "Nick Mohammed",
+        "character": "Tim Grimes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2cFSHotCLLauzqq8iDKWK6meRAY.jpg"
+      },
+      {
+        "name": "Chen Shu",
+        "character": "Zhu Tao",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uAFwHLWJKgqhxphXeOZfK2unUYq.jpg"
+      },
+      {
+        "name": "Eddy Ko",
+        "character": "Guo Ming",
+        "profile_path": "https://image.tmdb.org/t/p/w185/arl8s5Ac3CJOWLFvAUSr6mRN9mq.jpg"
+      },
+      {
+        "name": "Enzo Cilenti",
+        "character": "Mike Watkins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lGFHPUsOlAnncpZLfdFXCGq2nji.jpg"
+      },
+      {
+        "name": "Jonathan Aris",
+        "character": "Brendan Hatch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/46T3x7CePc22Z5KvkR4OulmVORU.jpg"
+      },
+      {
+        "name": "Gruffudd Glyn",
+        "character": "Jack",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kQwCugu2CaSHKUWfE2lbLYOo5ai.jpg"
+      },
+      {
+        "name": "Geoffrey Thomas",
+        "character": "U.S. President",
+        "profile_path": ""
+      },
+      {
+        "name": "Yang Haiwen",
+        "character": "Chinese Flight Director",
+        "profile_path": ""
+      },
+      {
+        "name": "Narantsogt Tsogtsaikhan",
+        "character": "Wen Jiang",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2RK5nnXbyCIRzrupHcUEmIHLWcr.jpg"
+      },
+      {
+        "name": "Brian Caspe",
+        "character": "Timer Controller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/orGBrMh5z8Ao7jopzjgbxk0qDAn.jpg"
+      },
+      {
+        "name": "Szonja Oroszlán",
+        "character": "Launch Control",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o7P7n2XV30B81S15H4qeczlEaGP.jpg"
+      },
+      {
+        "name": "Mark O'Neal",
+        "character": "Guidance",
+        "profile_path": ""
+      },
+      {
+        "name": "Karen Gagnon",
+        "character": "Reporter 2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Qq7SWS0H2A8g4E67o2XihuYpUF.jpg"
+      },
+      {
+        "name": "Lili Bordán",
+        "character": "Blair",
+        "profile_path": "https://image.tmdb.org/t/p/w185/neylG7XGQuZpIPouQNOyI3YsQTk.jpg"
+      },
+      {
+        "name": "Nikolett Barabas",
+        "character": "Reporter 1",
+        "profile_path": ""
+      },
+      {
+        "name": "Dilyana Bouklieva",
+        "character": "Police Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lbQBQWnn9hBV1r3tZbRjlGw3IiW.jpg"
+      },
+      {
+        "name": "Björn Freiberg",
+        "character": "Nasa Staff Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wlombW8NqDM9nQg4n4TIZaZ6Nvg.jpg"
+      },
+      {
+        "name": "James Fred Harkins Jr.",
+        "character": "Pathfinder Developer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sam Spruell",
+        "character": "NASA Psychologist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mV62no6D4yYtYS4A6dkHCGPTugZ.jpg"
+      },
+      {
+        "name": "Matt Devere",
+        "character": "Satcon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5rgHPFJ028clroKVryimQWfQxUY.jpg"
+      },
+      {
+        "name": "Mike Kelly",
+        "character": "Launcher Interface",
+        "profile_path": ""
+      },
+      {
+        "name": "Greg De Cuir",
+        "character": "Capcom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fkHJuY0YST5JqPHPkynTif2MB7i.jpg"
+      },
+      {
+        "name": "Peter Linka",
+        "character": "Telemetry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4AiCsFDtzRTaH4nKF5m8QWxKLD3.jpg"
+      },
+      {
+        "name": "Declan Hannigan",
+        "character": "Comms",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aPT5SwDjnbU1RJSHu5KbNKeTxVh.jpg"
+      },
+      {
+        "name": "Peter Schueller",
+        "character": "NASA Break Room Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xeQte9pYSmWn4xaXfEEXd4WVo5p.jpg"
+      },
+      {
+        "name": "Waleska Latorre",
+        "character": "Vincent's Secretary",
+        "profile_path": ""
+      },
+      {
+        "name": "Frederik Pleitgen",
+        "character": "CNN Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlie Gardner",
+        "character": "Robert Lewis",
+        "profile_path": ""
+      },
+      {
+        "name": "Nóra Lili Hörich",
+        "character": "Vogel's Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tPm5K5fNWfNaTMGxUXOm3zH6Fs6.jpg"
+      },
+      {
+        "name": "Kamilla Fátyol",
+        "character": "Marissa Martinez",
+        "profile_path": ""
+      },
+      {
+        "name": "Yang Liu",
+        "character": "Chinese Translator",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Rifkin",
+        "character": "JPL Store Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hJqJF9ewD3HZwQ8KaT5rwI4NLb2.jpg"
+      },
+      {
+        "name": "Nicholas Wittman",
+        "character": "JPL White Room Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vx5qk9u45rsJdwqeuLvavfq2cat.jpg"
+      },
+      {
+        "name": "Ben O'Brien",
+        "character": "JPL Pathfinder Team",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lGcEDXBAVaiHuyb6d7PBXAV7VF1.jpg"
+      },
+      {
+        "name": "Scott Alexander Young",
+        "character": "JPL Pathfinder Team",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dBROs1QHWtte2pPq6rY3opMUOZg.jpg"
+      },
+      {
+        "name": "Jason Ryan",
+        "character": "JPL Pathfinder Team",
+        "profile_path": ""
+      },
+      {
+        "name": "James Dougherty",
+        "character": "JPL Pathfinder Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Xue Xuxing",
+        "character": "Ming's Secretary",
+        "profile_path": ""
+      },
+      {
+        "name": "Balázs Medveczky",
+        "character": "JPL White Room Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1J9vrlkSuqU7n5BobgMKm8cTM81.jpg"
+      },
+      {
+        "name": "Dora Endre",
+        "character": "Receptionist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zQaPjlwGtHrARX0mbTMP02DLcX3.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Ridley Scott",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "spacecraft",
+    "planet mars",
+    "based on novel or book",
+    "nasa",
+    "isolation",
+    "botanist",
+    "alone",
+    "survival",
+    "space",
+    "engineering",
+    "stranded",
+    "astronaut",
+    "struggle for survival",
+    "duringcreditsstinger",
+    "deep space",
+    "potatoes",
+    "2030s"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive and can survive until a potential rescue.",
+    "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive. Millions of miles away, NASA and a team of international scientists work tirelessly to bring \"the Martian\" home, while his crewmates concurrently plot a daring, if not impossible, rescue mission. As these stories of incredible bravery unfold, the world comes together to root for Watney's safe return.—20th Century Fox",
+    "During their mission in Mars, a team of astronauts is hit by an unpredicted storm and have to abort their mission and leave for Earth. During the evacuation one of the crew members, Mark Watney, is hit by a projectile due to the storm and is thrown away. The crew is forced to leave him thinking he died due to rupture in his space suit. However Mark survives and now has to find ingenious ways to make it till the next scheduled Mars mission fours years later with the remaining meagre supplies. Being a botanist he manages to cultivate food and survives by scavenging parts of previous missions. NASA soon learns about him and attempts a daring and dangerous mission to bring him back. Will they succeed in bringing him back alive? Only time will tell.—Keith Francis",
+    "After an exploratory mission goes awry, lone astronaut Mark Watney is left for dead on the hostile surface of Mars and must use his scientific ingenuity to homestead an enclosed habitat where he can survive. Meanwhile, the astronauts he left behind realize the severity of his plight and join forces with an international coalition of scientists to launch a rescue mission in defiance of NASA protocol..",
+    "In a not-so-distant 2035, the intrepid crew of the Ares III expedition safely lands on the arid red landscape of the distant planet Mars. However, when a sudden space-storm forces them to abort the ambitious mission, the injured botanist, Mark Watney, finds himself marooned on the Red Planet, left for dead by friends and colleagues. All alone on a lifeless rock--140 million miles away from Earth, and in the face of limited resources--the stranded astronaut must do everything in his power to survive, as unexpected satellite photos prove that Mark is still alive. Now, NASA's brilliant minds need to come up with an effective solution. Will the brave \"Martian\" return home?—Nick Riganas"
+  ],
+  "synopsis": "At the landing site of the shuttle Ares III, Acidalia Planitia, Mars, at a time in the near future, the crew of the Hermes; including Commander Melissa Lewis (Jessica Chastain), botanist Mark Watney (Matt Damon), IT guru Beth Johanssen (Kate Mara), pilot Rick Martinez (Michael Peña), flight surgeon Chris Beck (Sebastian Stan), and navigator and chemist Alex Vogel (Aksel Hennie); are gathering samples before re-entering their living facility, the HAB.The crew learns that a storm is approaching. The storm's intensity and high winds lead Commander Lewis to order a mission abort. Watney argues for waiting it out and brings up the rear as the crew heads toward the MAV (Mars Ascent Vehicle), the ship that will take them back to the orbiting Hermes, in their suits. Heavy winds and sand gusts surround them. A satellite dish breaks off and strikes Watney, knocking him out of sight of the rest of the crew. Lewis tries to guide the others to find Watney, but visibility is very poor and the storm is way too strong for them. They head back into the MAV without Watney and lift off. The pilot, Martinez, is barely able to keep the rocket from toppling but the launch from the planet is successful.Back on Earth, NASA Director Teddy Sanders (Jeff Daniels) holds a press conference to announce that while the Hermes crew succeeded in leaving Mars, Mark Watney was lost, and he is declared dead.Watney wakes up on Mars on what is Sol 21 (mission day 21) after the storm has passed. His oxygen is depleting rapidly, so he makes his way back to the habitat station. He's been impaled by part of an antenna, which still protrudes from his abdomen; the combination of the antenna and his own blood sealed the suit just enough to keep most of his air from leaking out. In a painful procedure, Watney pulls the antenna out, uses forceps to fish out a piece that broke off in the wound, then staples the wound shut.He sits down to make a video log, where he outlines the situation: he's alive, but he can't contact Earth or Hermes; it'll be four years before the next manned mission is launched; and with the food supply in the habitat meant for him and the other five crew members, he has almost a year's worth of food, or a little longer if he rations. Therefore, Watney determines that he has to grow three years' worth of food on a planet where nothing grows. Luckily for him, he's a botanist and devises a plan to grow potatoes.At NASA in Houston, Texas, Sanders has just returned from a memorial service for Mark Watney, where he spoke about Watney's dedication to exploration. Mars Mission Director Vincent Kapoor (Chiwetel Ejiofor) talks to Sanders about getting satellite time to locate Watney's body. Sanders refuses on the grounds that the satellite feeds are public and broadcasting pictures of Watney's corpse would be a political and budgetary disaster for NASA. Later, engineer Mindy Park (Mackenzie Davis) meets with Kapoor after she discovers evidence of activity in satellite photos of the Ares III site (low-resolution images apparently taken in a routine fly-by): the solar panels have been cleaned and the rover has moved. They bring in Sanders and Director of Media Relations Annie Montrose (Kristen Wiig) to show them that Watney is still alive.A few sols (Martian days) later, inside the habitat, Watney has planted potatoes using Martian soil and vacuum-sealed packets of the crew's feces as fertilizer (to his disgust). Needing more water for the potato crop, he burns hydrazine rocket fuel; a byproduct of the reaction is water. On his first attempt to ignite the hydrazine, he causes a moderate explosion, singeing his clothing and hair. Watney notes that this explosive tendency is the reason that NASA does not use pure hydrogen. As he continues to work on his food supply, he keeps going with the video logs and decides to use a rover to make it to the Schiaparelli crater that will be the landing site for Ares IV in four years. Since the battery-powered rover can't cover the whole distance, he modifies it, adding solar cells and an extra battery. To conserve battery power, the pod of plutonium used to get the crew to Mars in their original spacecraft serves as a heat source in the cabin.Watney uses the rover to find a Pathfinder probe that stopped transmitting in 1997; he hopes to use it to get in touch with NASA. He digs the old probe out of the sand, spreads its solar panels to charge the batteries, and discovers that it still works. Using hand-written signs for the Pathfinder's camera, he is able to send a message to NASA confirming that he is alive. Kapoor is able to receive the message because he and colleagues at the Jet Propulsion Lab (JPL), who built the Pathfinders, have pulled another Pathfinder out of storage, rounded up the engineers who worked on it, and got it working again. They manage to communicate with Watney, first by panning the Mars Pathfinder's camera to point at 'yes' or 'no' signs when Watney asks if his signal is being received, and then by panning around a hexadecimal clock that Watney has scratched out on the ground around his Pathfinder. NASA uses this system to tell him how to hack the rover's operating system so it can transmit text back to Earth. When Watney, finally able to type his messages chat-style, asks how the Hermes crew took the news that he wasn't dead, Kapoor regretfully tells him that the crew hasn't been told. Watney responds with obscenities (which are broadcast all over the world).Watney's story becomes a worldwide sensation. His communications with NASA are logged, and at the request of PR Director Annie Montrose he uses the Pathfinder's camera to take a spacesuited selfie (in a two-thumbs-up Fonzie pose) which Montrose doesn't like because she can't see his face. Kapoor reminds her that Mark can't remove his helmet near the camera, which is outside the HAB.Meanwhile, the crew aboard Hermes has spent the last couple of months quietly flying back toward Earth while keeping in touch with their loved ones. The flight director of Ares III, Mitch Henderson (Sean Bean), contacts the crew and informs them that Watney is alive, and that NASA has kept it from them for the last two months so as to not distract them from their mission. The news only makes them angry and guilt-ridden, but Henderson tells them that Watney has stressed repeatedly that it wasn't their fault and they had reason to believe that he was dead.The folks at NASA determine that they can reach Watney by Sol 868. The food he's growing plus the rations in the HAB will run out in a bit over 900 days. Sanders frets that the margin of error is too small.Back on Mars, things begin to go bad for Watney when the habitat's worn-out airlock explosively decompresses, throwing the airlock some distance while he's inside it and causing his helmet to crack and leak. He uses duct tape to seal the cracks and stumbles back to the habitat to discover his potato crop frozen and dead. With less food, he now figures he can last only a little more than 300 Sols, or slightly longer if he rations.NASA and JPL work overtime and quickly launch a probe to resupply Watney. To make their launch window they bypass routine inspections, and moments after launching, the probe's trajectory shifts severely and it swerves off course and explodes. Meanwhile in China, two directors from the Chinese National Space Administration, Zhu Tao (Chen Shu) and Guo Ming (Eddy Ko), witness the explosion and discuss helping NASA by offering their classified booster rocket technology to launch a supply craft. Guo Ming asks Zhu Tao why NASA has not already asked for their help and Zhu Tao reminds him that it is a top secret program that NASA would not have any knowledge of. They decide that in the interests of international scientific co-operation, they will contact NASA and offer their booster rocket.Rich Purnell (Donald Glover) an eccentric and absent-minded but brilliant astrodynamicist, devises a plan to accelerate the returning Hermes around Earth, gaining a gravitational boost and sending it back to Mars to get Watney. The Chinese rocket will resupply the Hermes for its extended voyage. Sanders vetoes this plan because it risks the lives of the five Hermes crew members and will extend their mission by hundreds of days, but Henderson secretly sends the plan and Purnell's course calculations to the crew. The crew talks it over; they understand that the surreptitious arrival of the plan means that NASA brass have rejected the idea. They assume that if they go back to Mars, the two military members, Lewis and Martinez, will be court-martialed for mutiny and the three civilians will never be allowed to fly another mission. Lewis calls for a unanimous vote, and they all agree to go back for Watney. Johanssen hacks the Hermes computers to prevent NASA from taking control and they change course, sending a cryptic message to Houston: \"Rich Purnell is a steely-eyed missile man.\"Sanders is angry with Henderson, who he assumes sent the plan to Hermes. Henderson doesn't deny, but will not confirm his actions either. Sanders explains that his priority is for NASA to keep flying, but Congress is very sensitive to public opinion and the bad publicity that would result if Purnell's plan failed would likely reduce NASA's budget for years to come. He asks for Henderson's resignation when the mission is over. Then he's forced to announce that NASA is sending Hermes back to Mars to rescue Watney.Seven months pass on Mars. Watney has lost a lot of weight, has grown a lot of facial hair, and his teeth are rotting. He's started losing hope in his survival and rescue. He records a video log asking Commander Lewis to let his parents know of his fate. NASA sends him instructions to make extensive modifications to the rover, which Watney bemusedly performs. He packs up the rover and leaves the Ares III site; having spent 461 sols there; and heads for the Ares IV MAV, which was dropped on Mars well ahead of the Ares IV mission. It's a 3200-kilometer drive across a trackless and inhospitable Martian landscape. He stops every day for 13 hours to sleep and re-charge the rover's batteries with solar panels. During his excursion, he reasons that Mars is legally international waters; that is, it's subject to maritime law because it can't be claimed by any country on Earth. As he has not gotten explicit permission from NASA to take the MAV, and cannot get permission until after taking off, commandeering the MAV will make him a space pirate. He would like to be called \"Captain Blondbeard.\" Mark also pontificates about how he's the first person to see the Martian landscape that he travels across and seems to be quite in awe of it.After the Hermes has swung around Earth and collected the supplies, they travel back to Mars. NASA and the rest of the world watch with anticipation; with 12 minutes' delay, no one on Earth can help by radio. Watney has to remove 5000 kg of weight from the MAV to make it light enough to reach Hermes' orbit. He jettisons most of the seats, all the navigation and control systems, and replaces the nose-cone airlock, a crucial structural piece and the single heaviest component, with a tarp.Martinez, flying the MAV by remote control, launches Watney into orbit. The MAV comes up too low to reach the Hermes spaceship. Vogel constructs a quickly-made sugar and oxygen explosive to blow the front hatch and cause escaping air to slow the huge ship down so they can match speeds and still get to Watney. Lewis herself decides to use the EVA MMA suit with a tether to reach Watney, but she can't get close enough. Watney punctures the palm of his glove to propel himself toward Lewis with the escaping air jet. (\"Like Ironman!\" he says gleefully.) He has very little control, so he misses her. However, he runs into the tether, which his momentum causes to wind around himself and Lewis, and the crew is able to reel them in. Lewis announces to NASA that they have Watney, and people all over the world cheer. (Crowds have gathered in Houston, Times Square, Beijing, and elsewhere, anxiously waiting to hear whether the rescue worked.) The crew hugs Watney and jokes about the stench resulting from his lack of showering for many months.Back on Earth about one year later, Watney begins Day 1 as an instructor to aspiring astronauts. He tells them of his struggle on Mars, confirming that he did in fact grow food using his own excrement and humorously says he doesn't want to discuss that aspect of the mission again. He tells them that if things should go south for them, they can either accept their fate or start solving problems, because that's how you survive; by overcoming one problem after another.During the closing credits, we see the characters years later as they watch the launch of Ares V, in which Martinez is the commander. Kapoor, Montrose, Park, and Sanders watch from NASA along with Guo Ming & Zhu Tau. Henderson is retired and golfing with his son. Lewis watches at home with her husband, while Vogel is at home with his family. Beck and Johanssen have gotten married and watch from the hospital with their new baby.",
+  "imdb_score": 8
+}

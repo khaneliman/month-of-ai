@@ -1,0 +1,675 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/hjypZf7Juayon8emI6HNSyjbqWF.jpg",
+  "id": 791373,
+  "title": "Zack Snyder's Justice League",
+  "poster_path": "https://image.tmdb.org/t/p/w500/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+  "release_date": "2021-03-18",
+  "vote_average": 8.175,
+  "vote_count": 9508,
+  "popularity": 97.859,
+  "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+  "imdb_id": "tt12361974",
+  "budget": 70000000,
+  "homepage": "https://www.hbomax.com/zacksnydersjusticeleague",
+  "revenue": 0,
+  "runtime": 242,
+  "tagline": "Us united.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "The Stone Quarry",
+    "Atlas Entertainment",
+    "Access Entertainment",
+    "Dune Entertainment",
+    "DC Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Ben Affleck",
+        "character": "Bruce Wayne / Batman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+      },
+      {
+        "name": "Henry Cavill",
+        "character": "Clark Kent / Superman / Kal-El",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dgTD7Q9owL3DyX9uYoSX9KZeUUz.jpg"
+      },
+      {
+        "name": "Gal Gadot",
+        "character": "Diana Prince / Wonder Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg"
+      },
+      {
+        "name": "Jason Momoa",
+        "character": "Arthur Curry / Aquaman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6dEFBpZH8C8OijsynkSajQT99Pb.jpg"
+      },
+      {
+        "name": "Ezra Miller",
+        "character": "Barry Allen / The Flash",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hLtxNK8eeWZkFSeaAASFWm15Qv0.jpg"
+      },
+      {
+        "name": "Ray Fisher",
+        "character": "Victor Stone / Cyborg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/310snvA05xDOQZDn2fJSp242GHw.jpg"
+      },
+      {
+        "name": "Amy Adams",
+        "character": "Lois Lane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1bJUW9KPefhBfAS0UxbM05OL3lG.jpg"
+      },
+      {
+        "name": "Jeremy Irons",
+        "character": "Alfred Pennyworth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+      },
+      {
+        "name": "Connie Nielsen",
+        "character": "Queen Hippolyta",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lvQypTfeH2Gn2PTbzq6XkT2PLmn.jpg"
+      },
+      {
+        "name": "Diane Lane",
+        "character": "Martha Kent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tUPAKAtstqeQrAKhkQge9jV7Owz.jpg"
+      },
+      {
+        "name": "J.K. Simmons",
+        "character": "Commissioner James Gordon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+      },
+      {
+        "name": "Ciarán Hinds",
+        "character": "Steppenwolf (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+      },
+      {
+        "name": "Amber Heard",
+        "character": "Mera",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vnDolRlZWiOLBg1N0hsUTz4OH4C.jpg"
+      },
+      {
+        "name": "Joe Morton",
+        "character": "Silas Stone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w7rGWWSGKWWukojLbZOQJ5yh9jv.jpg"
+      },
+      {
+        "name": "Ray Porter",
+        "character": "Darkseid (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AsTrRNAZzYYF0nYkZzGiO0kAGbr.jpg"
+      },
+      {
+        "name": "Jesse Eisenberg",
+        "character": "Lex Luthor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg"
+      },
+      {
+        "name": "Jared Leto",
+        "character": "The Joker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "Nudis Vulko",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+      },
+      {
+        "name": "Kiersey Clemons",
+        "character": "Iris West",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sOXELJHizB1cK0OzWRubGGg4l8S.jpg"
+      },
+      {
+        "name": "Peter Guinness",
+        "character": "DeSaad (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pqR8SWSR9Ik8PHp5a0NkpMXsbbb.jpg"
+      },
+      {
+        "name": "Harry Lennix",
+        "character": "General Calvin Swanwick / J'onn J'onzz / Martian Manhunter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kNGiizWpetf4pyAkINkjkWacmCL.jpg"
+      },
+      {
+        "name": "Karen Bryson",
+        "character": "Elinore Stone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/edzmJGpGoX2DLjDIVB4zhWAj5no.jpg"
+      },
+      {
+        "name": "Marc McClure",
+        "character": "Jerry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c8DFehNqNEDLBALTdAWZzUEN2tD.jpg"
+      },
+      {
+        "name": "Sergi Constance",
+        "character": "Zeus",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael McElhatton",
+        "character": "Black Clad Alpha",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aPjuV6N10zAJMr55lAIvnpdsNgE.jpg"
+      },
+      {
+        "name": "Lara Decaro",
+        "character": "School Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oK9FkuZ8VihpG5By58s6k1H7l2Q.jpg"
+      },
+      {
+        "name": "Ryan Zheng Kai",
+        "character": "Ryan Choi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jWB0e7UzTzuvnEfWya9eQ046jva.jpg"
+      },
+      {
+        "name": "David Thewlis",
+        "character": "Ares",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gJqz8h5AKaVvOLS0hm5Vdvel6JB.jpg"
+      },
+      {
+        "name": "Samantha Win",
+        "character": "Euboea",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vizHwiI9JXCtNxIM3bx2F6Gr7iF.jpg"
+      },
+      {
+        "name": "Lisa Loven Kongsli",
+        "character": "Menalippe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hQetQ4NdzuJETQ57DZAssCF9hOD.jpg"
+      },
+      {
+        "name": "Julian Lewis Jones",
+        "character": "Ancient Atlantean King",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iccX4WBo6t6Wwj3a5BLxehHFNde.jpg"
+      },
+      {
+        "name": "John Dagleish",
+        "character": "Black Clad Beta",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5qngpi8kAQktdSCN8ApSQ8NPvNn.jpg"
+      },
+      {
+        "name": "Francis Magee",
+        "character": "Ancient King of Men",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zSUfloXa9Mhy8dkcILq4Jl6iWZU.jpg"
+      },
+      {
+        "name": "Doutzen Kroes",
+        "character": "Venelia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/slM4KMpwLWwKnX0FMWK5rx5WK1O.jpg"
+      },
+      {
+        "name": "Brooke Ence",
+        "character": "Penthiselea",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1xm90B63kg6q3dYVIiRjl56OPhH.jpg"
+      },
+      {
+        "name": "Hari James",
+        "character": "Antiope's Crew",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wYqYMPc4A9yn05jP9bDwpwma7yD.jpg"
+      },
+      {
+        "name": "Ann Ogbomo",
+        "character": "Philippus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5EGoq8xksh6w1MZJBDgEi7LofDC.jpg"
+      },
+      {
+        "name": "Russell Crowe",
+        "character": "Jor-El (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fbzD4utSGJlsV8XbYMLoMdEZ1Fc.jpg"
+      },
+      {
+        "name": "C. Amanda Maud",
+        "character": "Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jd6N1lSCmnFYYvs4q6spywN02Jf.jpg"
+      },
+      {
+        "name": "Ágústa Eva Erlendsdóttir",
+        "character": "Young Icelandic Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/171K7Zm8tzBqdj4YJne0EFg2Y0U.jpg"
+      },
+      {
+        "name": "Björt Sigfinnsdóttir",
+        "character": "Young Icelandic Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/laRn4UrB4qrLhM1BrbGPC0r7w9h.jpg"
+      },
+      {
+        "name": "Salome R. Gunnarsdottir",
+        "character": "Singing Icelandic Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k2VjwleDnkLuTUIP5PAtEN34UvL.jpg"
+      },
+      {
+        "name": "Kristbjörg Kjeld",
+        "character": "Old Icelandic Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6pLWMsIbWFaicJcAYjXZnspLaf9.jpg"
+      },
+      {
+        "name": "Ingvar E. Sigurðsson",
+        "character": "Mayor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rRzLj3miinQxIpPxJUzMdV9ZJb6.jpg"
+      },
+      {
+        "name": "Védís Vífilsdóttir",
+        "character": "Icelandic Child (Girl)",
+        "profile_path": ""
+      },
+      {
+        "name": "Snæfríður Rán Aðalsteins",
+        "character": "Icelandic Child (Girl)",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlotte Comer",
+        "character": "School Chaperone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mYGnCrVHKxwKHNQUh7v5Xh15lVH.jpg"
+      },
+      {
+        "name": "Serene Angus",
+        "character": "School Girl's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Anna Burgess",
+        "character": "School Girl's Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5hqCuXQg245xODkCBd2X8ZILsL5.jpg"
+      },
+      {
+        "name": "Alison Chang",
+        "character": "School Girl's Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jN48DNDFigHZRlhueInPvdsB9Vl.jpg"
+      },
+      {
+        "name": "Constance Bole",
+        "character": "School Girl's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Shahla Ayamah",
+        "character": "School Girl's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Courtenay",
+        "character": "Old Bailey Judge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rbDYkxUKDCzbOMgwYSzFkguHjQL.jpg"
+      },
+      {
+        "name": "Heather Imbeah",
+        "character": "Old Bailey Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dCYntGGu77D7ocRDG7vHOfDLe25.jpg"
+      },
+      {
+        "name": "Carla Turner",
+        "character": "School Teacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Grace Cookey-Gam",
+        "character": "Old Bailey Lawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fqdTmXHhBs96MAFFthgf5igg40G.jpg"
+      },
+      {
+        "name": "Matthew Bates",
+        "character": "Old Bailey Hostage",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3lBqXSSJMxjjI5SvqBjM6msywg0.jpg"
+      },
+      {
+        "name": "Gary Reimer",
+        "character": "Task Force Sniper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pCFD08IZcQZZDFkwD5y8RdwqbQs.jpg"
+      },
+      {
+        "name": "Robbie Gee",
+        "character": "Task Force Lead",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mzzfbA0e4DWgxvIYjaryMolkiqm.jpg"
+      },
+      {
+        "name": "Jim Sturgeon",
+        "character": "Task Force Deputy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hPAHxntKezlMndO0NsyuB5qzRMz.jpg"
+      },
+      {
+        "name": "Eleanor Matsuura",
+        "character": "Epione",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Ofh0PO64AxMEdvfaoaYLc43a3G.jpg"
+      },
+      {
+        "name": "Anthony Wise",
+        "character": "Howard the Janitor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wLWCoJxkMoMTpumwalLSiKJTvFV.jpg"
+      },
+      {
+        "name": "Jérôme Pradon",
+        "character": "Louvre Conservationist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vqf3oVQ41fCWRk2PLNVJRjGqgyk.jpg"
+      },
+      {
+        "name": "Richard Clifford",
+        "character": "French Archaeologist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2aIJ0omA2KlicAyo7C6xkzi8LGZ.jpg"
+      },
+      {
+        "name": "Rebecca C. Perfect",
+        "character": "News Reporter at Isle of Crete",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jdd7OtWd7I6PUVR3EZrWpUc2sQm.jpg"
+      },
+      {
+        "name": "Vincent Riotta",
+        "character": "CID Chief Detective",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3f5C77CbV5pvR98KQCwiq8fDPtu.jpg"
+      },
+      {
+        "name": "Edward Mitchell",
+        "character": "CID Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nJCh6CDomfmRBFndGMhv6PR3WFo.jpg"
+      },
+      {
+        "name": "Mark Arnold",
+        "character": "Containment Centre Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dTfoxBUC6jpZry0ijlS8g4Y5cuS.jpg"
+      },
+      {
+        "name": "Martin Troakes",
+        "character": "Welsh Tavern Barkeep",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tLWA3WCoJsqmfauUBRTRezrbeJB.jpg"
+      },
+      {
+        "name": "Aurore Lauzeral",
+        "character": "Artemis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kcP7z4RJT38YlnnUhf5hKgHxMwN.jpg"
+      },
+      {
+        "name": "Lucy Briers",
+        "character": "Dog Day Care Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rEIqaTVMMMZzzi1BZZpIml5AUby.jpg"
+      },
+      {
+        "name": "David Mara",
+        "character": "Produce Truck Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Wil Coban",
+        "character": "Tortured Atlantean Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/73REwJckTBMNJoiGIrrGhcCdTqf.jpg"
+      },
+      {
+        "name": "Stewart Alexander",
+        "character": "College Dean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/najx2f4DAKt7DtQkPEyNXJURyNe.jpg"
+      },
+      {
+        "name": "Christy Meyer",
+        "character": "Emergency Room Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/abJUb0FtGxhNi6VZuBZosirfDbx.jpg"
+      },
+      {
+        "name": "Granville Saxton",
+        "character": "Homeless Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tU66hoqq97QoLoGlE6k4MYnG3V1.jpg"
+      },
+      {
+        "name": "Gianpiero Cognoli",
+        "character": "Central City Prison Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zqcBSeZiqYlEveRKQ7kcDePChMB.jpg"
+      },
+      {
+        "name": "Kobna Holdbrook-Smith",
+        "character": "Detective Crispus Allen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6KNQjNWVdosnKAehV7FHpxQV2dD.jpg"
+      },
+      {
+        "name": "Kevin Mathurin",
+        "character": "Sketch Witness",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cA4EgGqOOdCn93p4ImtkdoVSc3J.jpg"
+      },
+      {
+        "name": "Joyce Veheary",
+        "character": "Gotham Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qVOvz2Le5Gb4yGNiX7VyQIgZp0.jpg"
+      },
+      {
+        "name": "Taylor James",
+        "character": "Atlantean Military Messenger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sMMCf0O7GcbJZoxmyWAbU6CsN6B.jpg"
+      },
+      {
+        "name": "Hadrian Howard",
+        "character": "Atlantean General",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zNnuXJlPm8LQaOHPauDD8HIH6jD.jpg"
+      },
+      {
+        "name": "Victor Gardener",
+        "character": "Atlantean General #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4r1iIlai0oeqvMPXTXjCufpvGgY.jpg"
+      },
+      {
+        "name": "Bruce Chong",
+        "character": "Atlantean General #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r6HfbtqInwCFlA9j8324KqMb14o.jpg"
+      },
+      {
+        "name": "Orion Lee",
+        "character": "Star Labs Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jHz7papyoOAFvMql64cXQVQqKYu.jpg"
+      },
+      {
+        "name": "Oliver Gatz",
+        "character": "Star Labs Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q0Bo83zTXvPehLmTls7AnPmVyso.jpg"
+      },
+      {
+        "name": "Rachel Blenkiron",
+        "character": "Star Labs Scientist",
+        "profile_path": ""
+      },
+      {
+        "name": "Lynne Anne Rodgers",
+        "character": "Star Labs Cleaning Staff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k7kRefRiyeKTFlr5V2xcj2JdAXW.jpg"
+      },
+      {
+        "name": "Oliver Powell",
+        "character": "Star Labs Cleaning Staff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vimjbeLAB9tEyluZk56FqMOoJeZ.jpg"
+      },
+      {
+        "name": "Kelly Burke",
+        "character": "Air Force Security",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x3cZAtZPkoEIisvPGxbrU8U4nkp.jpg"
+      },
+      {
+        "name": "Keith Simpson",
+        "character": "Air Force Security",
+        "profile_path": ""
+      },
+      {
+        "name": "Omri Rose",
+        "character": "Moonsuit Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/54P6wIuouBB0MIDQAO3s94DWMVi.jpg"
+      },
+      {
+        "name": "Will Austin",
+        "character": "MP Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hwlsIMEImnpOc046cROxtVyJ2Ao.jpg"
+      },
+      {
+        "name": "William Atkinson",
+        "character": "Military Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Sam Benjamin",
+        "character": "Military Police",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oYapRODIfg74c7Obh2IWPqQidIv.jpg"
+      },
+      {
+        "name": "Shalini Peiris",
+        "character": "Bio Hazard Suit Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rwbNpkYv2MVhoyZBgRwySJX0DIw.jpg"
+      },
+      {
+        "name": "Carla Gugino",
+        "character": "Ship Voice (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dAqGOsHSzlP6RhaUURX2NrwITaq.jpg"
+      },
+      {
+        "name": "Adam Forman",
+        "character": "Pickup Truck Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Brooke",
+        "character": "Defense Department Official",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5fRrmo1Xi9IkiVyypMgOPgZq5ed.jpg"
+      },
+      {
+        "name": "Peter Henderson",
+        "character": "Bald Inmate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6weu2JILUzqtowclJCLracNhySS.jpg"
+      },
+      {
+        "name": "Bruce Lester-Johnson",
+        "character": "Prison Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qcDYGUloUe2thCpaBWHJ1yOWqWY.jpg"
+      },
+      {
+        "name": "Katia Elizarova",
+        "character": "Lex's Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bQBgjTNlhEDiObJJuEo2NVkLE7W.jpg"
+      },
+      {
+        "name": "Gemma Refoufi",
+        "character": "Lex's Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/drwGzHpj54bWNZQHUCxrLcOMl1w.jpg"
+      },
+      {
+        "name": "Leila Reid",
+        "character": "Lex's Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/im58BSK65EUHvb0PIxQkfmmfjoh.jpg"
+      },
+      {
+        "name": "Suan-Li Ong",
+        "character": "Lex's Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rAEyqsVGVoXCR7zSsqfaxZNgELU.jpg"
+      },
+      {
+        "name": "Tina Balthazar",
+        "character": "Lex's Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Penny Lane",
+        "character": "Lex's Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wuD5efzydu9bRGYS3PqOuFYEeXF.jpg"
+      },
+      {
+        "name": "Stephanie Haymes-Roven",
+        "character": "Amazon Cavalry General",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tlewZaPghRepYIY4xexCxDCbL2Y.jpg"
+      },
+      {
+        "name": "Gary A. Hecker",
+        "character": "Creature Vocals (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cEs5VifZGciPAXiCCYlGqzTnhmX.jpg"
+      },
+      {
+        "name": "Steve West",
+        "character": "MoBo Priest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dY4UkERCaNsdRNkRuMmnrj5epNd.jpg"
+      },
+      {
+        "name": "Laura Waddell",
+        "character": "MoBo Priest #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u0b5I93SGT4FGANy5jmXG4R5mEq.jpg"
+      },
+      {
+        "name": "Kevin Costner",
+        "character": "Jonathan Kent (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/608blZipRDZkDpzp8VItB64qMaT.jpg"
+      },
+      {
+        "name": "Swaylee Loughnane",
+        "character": "Cop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6W58Qoekhsuswa7Wm1OSmkoeZH8.jpg"
+      },
+      {
+        "name": "Robin Wright",
+        "character": "Antiope (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3IvlZd2PpT3Tuxy8lr6ymWLyoNU.jpg"
+      },
+      {
+        "name": "Billy Crudup",
+        "character": "Henry Allen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pYblSarjmmIUggmOafanD2yk0Zj.jpg"
+      },
+      {
+        "name": "Zack Snyder",
+        "character": "Man in Coffee Shop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iD0GDqkvJXDXiNEZej198hjt3Tt.jpg"
+      },
+      {
+        "name": "Clem So",
+        "character": "Armies of Men Mongolian Warlord (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/elyNvdqbWo2v2teDKFQ3jpoapU0.jpg"
+      },
+      {
+        "name": "Greg Draven",
+        "character": "Viking (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qWit2kbqOmt9vpie5AJyzkUQZJ9.jpg"
+      },
+      {
+        "name": "Joe Manganiello",
+        "character": "Slade Wilson / Deathstroke (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mTdACmitdrwor0Nrv5sr0u123vZ.jpg"
+      },
+      {
+        "name": "Nick McKinless",
+        "character": "Ares Body Double (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7EE9cDfjV0eAHhGyeIQOOw4UEZK.jpg"
+      },
+      {
+        "name": "Craig Douglas",
+        "character": "Policeman London (Uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hoSisBDgkdqNs6ITXg9spiVmwkk.jpg"
+      },
+      {
+        "name": "Tineke Ann Robson",
+        "character": "Amazonian Warrior (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nBUgH8J7Ltjd8fHFOJ57qLIwCnA.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Zack Snyder",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iD0GDqkvJXDXiNEZej198hjt3Tt.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "saving the world",
+    "superhero",
+    "resurrection",
+    "based on comic",
+    "superhero team",
+    "planet invasion",
+    "action hero",
+    "dc extended universe (dceu)",
+    "superhero teamup",
+    "director's cut"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Determined to ensure that Superman's ultimate sacrifice wasn't in vain, Bruce Wayne recruits a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+    "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions. The task proves more difficult than Bruce imagined, as each of the recruits must face the demons of their own pasts to transcend that which has held them back, allowing them to come together, finally forming an unprecedented league of heroes. Now united, Batman, Wonder Woman, Aquaman, Cyborg and The Flash may be too late to save the planet from Steppenwolf, DeSaad and Darkseid and their dreadful intentions.",
+    "A new threat has emerged from the darkest corner of the Universe: Darkseid, the lord of the planet Apokolips. To stop this brutally ambitious ruler from unleashing his relentless army upon the world , The Justice League must unite as one and save the Earth from the Universe's most dangerous warlord.—Johnny"
+  ],
+  "synopsis": "The film opens just after Superman (Henry Cavill) and Doomsday kill each other. Superman's death scream echoes throughout the world, awakening the power of the Mother Boxes in the Stone home, Atlantis, and in Themyscira. The Amazons witness their Box crack, and they go to alert Queen Hippolyta (Connie Nielsen).PART ONE - \"Don't Count on It, Batman\"\nBruce Wayne (Ben Affleck) rides a horse through Iceland until he reaches a village where he hopes to find Aquaman (Jason Momoa). He enters a tavern where he finds the man himself, Arthur Curry. The locals think Bruce is mocking them by talking about a man from the sea who visits the village, but after Bruce shows off his money to Arthur, they step outside to talk. Bruce is rounding up his team after Superman's death, but Arthur has no interest in joining. He returns to the ocean while the local women sing a traditional Icelandic song. Bruce returns home to Alfred (Jeremy Irons) to let him know Aquaman said no to him.In Smallville, Martha Kent (Diane Lane) is moving away from her home with her dog Dusty since it was foreclosed. Meanwhile, in Metropolis, Lois Lane (Amy Adams) is still mourning Clark and visits the Superman memorial every day.London - A group of terrorists invade a museum and kill off the guards before taking hostages. They plan to set off a bomb that will destroy four city blocks. As they prepare the countdown, Diana Prince/Wonder Woman (Gal Gadot) is standing on the roof. She jumps in and fights off the terrorists until the leader aims at the hostages. Wonder Woman deflects the bullets with her gauntlets and then uses them to obliterate the leader. She then comforts the children at the scene.On Themyscira, Hippolyta joins the Amazons in the temple where the Mother Box is kept. After a while, it appears to power down. A portal then comes down, bringing Steppenwolf (Ciaran Hinds) and his army of Parademons through. They battle the Amazons to seize the Box, but Hippolyta grabs it and runs out as the Amazons sacrifice themselves to seal the temple and bring it crumbling down off the edge of a cliff. Before Hippolyta can mourn her sisters, Steppenwolf and the Parademons fly toward her, and she runs with the Box. Steppenwolf chases Hippolyta through the field and kills more Amazons that stand in his way before he causes Hippolyta and another Amazon to fly off their horse. He takes the Mother Box and taunts Hippolyta once more before he retreats. Hippolyta then tells her general to light the ancient fire in the temple to warn Diana.PART TWO - The Age of Heroes\nAt STAR Labs, a Parademon goes looking for the Mother Box after sensing its presence there, even attacking a custodian who spots it. Victor Stone/Cyborg (Ray Fisher) keeps an eye on it in his closet, and he resents his father Silas (Joe Morton) for using its power on him to turn him into what he is now.Diana sees news of the ancient fire and investigates at the temple. She finds the arrow of Artemis sent by her mother. Diana checks out the temple underground and sees drawings of the Mother Boxes, as well as the being known as Darkseid (Ray Porter).After Arthur rescues a sailor from the storm, he returns to the ocean and goes toward Atlantis. He encounters Nuidis Vulko (Willem Dafoe), who reminds him of his duties to Atlantis but also warns him that the Parademons are looking for the Mother Box that the Atlanteans are guarding.Steppenwolf contacts Darkseid's servant DeSaad (Peter Guiness), to inform him that he secured the first Mother Box. DeSaad chastises Steppenwolf for going off on what is believed to be a futile mission when he could be serving Darkseid on their home planet.Diana goes to find Bruce in his home. She explains the history of the Mother Boxes to them and why Darkseid and his minions want it. Together, they create \"The Unity\", which will transform the planet they are united on and will replicate their planet of Apokolips. He created the Parademons by using loyal followers and draining them of their humanity. Centuries earlier, Darkseid and the Parademons battled against Amazons, Atlanteans, Green Lanterns, and the gods led by Zeus (Sergi Constance) and Ares (David Thewlis). After an intense and bloody battle, Zeus and Ares greatly wounded Darkseid and forced the Parademons to retreat. The Boxes were separated and taken by the Amazons and Atlanteans, while the third Box was hidden by man. Diana makes it urgent to Bruce that they find the Boxes before Steppenwolf does.PART THREE - Beloved Mother, Beloved Son\nIn Central City, Barry Allen (Ezra Miller) goes for a job interview at a dog walker store. He bumps into Iris West (Kiersey Clemons) and is smitten with her. Outside, a truck driver gets distracted after dropping his burger on the floor and tries to pick it up while driving. He crashes into a hot dog cart, and Iris crashes into the truck. Barry uses his super speed Flash powers to run outside and save Iris (and also grabbing a hot dog). He later visits his father Henry (Billy Crudup) in prison, who is serving a life sentence for the murder of his wife and Barry's mother Nora, even though he didn't do it. Henry is dismayed to see Barry going through dead-end jobs and not applying himself.Steppenwolf and the Parademons find several Atlantean warriors and attack them. He uses a device on one Atlantean to project the images of his mind, revealing the location of the second Mother Box.Diana and Bruce go over the files of Arthur, Barry, and Victor. Flashbacks are shown of Victor's life before his current situation. He was a star football player who already had a bumpy relationship with Silas, but was close with his mother Elinor (Karen Bryson). On the way home from a game, the two were involved in a terrible car accident that claimed Elinor's life and left Victor missing almost all of his limbs and vision in his left eye. Silas vowed to keep him alive and used the power of the Mother Box kept in STAR Labs to turn him into Cyborg. This not only gave him enhanced strength and power, but also access to limitless information and control of technology. Cyborg is seen on the streets using his ability to put money into the account of a single mother, but he hides his face from weary onlookers.Barry goes home and finds Bruce there waiting for him. Bruce already knows who Barry really is, and he reveals himself as Batman by flinging a boomerang, knowing Barry will be quick enough to catch it. It takes little convincing for Barry to agree to join Bruce in his mission.While working on Bruce's computer, Diana receives a message from Cyborg to meet him. She does and asks him for his help, but he is also not ready to accept her invitation. He goes to the graveyard where his mother's and his own graves are, and he buries the Mother Box there.Silas learns from his colleague Ryan Choi (Ryan Zheng) that the sample they retrieved from Superman's ship becomes incredibly hot when hit with their electron laser. He returns home and finds Victor having trashed the place. Silas is then taken by a Parademon.In Gotham City, Commissioner Jim Gordon (JK Simmons) learns about several people kidnapped by the Parademons for information on the whereabouts of the Mother Boxes. Gordon turns on the bat signal to call Batman, just as he arrives to meet Diana with Barry.Steppenwolf and the Parademons invade Atlantis as they come across the second Box. Princess Mera (Amber Heard) and the Atlanteans try to defend it and fight back, but the villains overpower them. Before Steppenwolf can kill Mera, Aquaman comes in to save her, but Steppenwolf leaves with the Box. As Aquaman tries to leave, Mera tries to talk to him about his mother, Atlanna, but he is bitter and resentful over hearing her name since he believes she abandoned him and his father. Steppenwolf brings the second Box back to his base to create a red dome over it.PART FOUR - \"Change Machine\"\nBatman arrives with Wonder Woman and The Flash to meet Gordon before Cyborg joins them after he saw the bat signal. He tells them about the kidnappings, and Cyborg learns from the information provided that the prisoners are being kept on Stryker's Island. The four head there and encounter Steppenwolf and the Parademons keeping the prisoners down in an underground facility beneath Gotham City Harbor. As Steppenwolf interrogates Silas, Cyborg jumps in to fight and save his dad. The other heroes join in and start fighting the villains. After freeing the prisoners, the places starts to get flooded, but Aquaman shows up to keep the water back to let the others get out safely. Cyborg then flies away and returns with the last Mother Box.Steppenwolf is taken to a piece of land where he smashes his gun into the ground, revealing a massive symbol called the Anti-Life Equation. He reports it to Darkseid, who wants to use its power to control the population.The heroes meet in Bruce's place where Cyborg explains how the Box came into the possession of STAR Labs. The Nazis originally had it after World War II and was with the Pentagon for 70 years before being taken out when researchers wanted to study Superman's ship. Silas eventually got it and used the power from the Box to give Victor his robotic form. Realizing the Mother Boxes have incredible powers, the group decides to use the last Box to revive Superman and use him to fight back.Martha visits Lois in her apartment. As she is still grieving, Martha encourages Lois to move on and continue living her life. As she leaves, it is revealed that this is a disguise of the Martian Manhunter (Harry Lennix), who resumes his civilian identity as General Swanwick.PART FIVE - All The King's Horses\nBarry helps Cyborg exhume Superman's body, while Arthur and Diana bond over the history of their peoples' relationship. They then manage to sneak into STAR Labs to get access into the Kryptonian ship. Silas spots the team entering, and he has the building evacuate to not see what they are doing.When they get to the genesis chamber of the ship, they set Superman into the water while The Flash says he can get the Box activated by creating a powerful electrical current. Before it happens, Cyborg experiences a vision of the future where it appears that Darkseid has taken over. Superman is evil, Wonder Woman is dead and given a funeral by Hippolyta and the Amazons, and Darkseid slays Aquaman in Atlantis. The Flash hits the Box and creates the current, which resurrects Superman. This is witnessed by many people on the outside. Wonder Woman, Aquaman, Flash, and Cyborg all stand outside as Superman comes down. However, he doesn't remember who he is and starts scanning the others. Cyborg's self-defense system activates without his control, and he unintentionally fires at Superman. He begins to attack everyone, including police and the military. Batman tries to intervene but gets caught in the crossfire. Superman nearly fries him until Lois, who had been at the scene, comes out to get Superman to calm down. He goes down to Lois and flies away with her.Steppenwolf then shows up for the Box, which Silas has taken into a chamber in the lab. He seals himself in there and activates the laser, just as Cyborg comes down to try and stop Steppenwolf. Silas looks at his son one last time as the laser disintegrates him while heating the Box. Steppenwolf takes it, but Cyborg can now track the heat from the Box. Cyborg mourns his father but understands what he did.PART SIX - \"Something Darker\"\nClark and Lois return to Smallville where he reunites with Martha. After talking to them and remembering who he is, he goes to the Fortress of Solitude where he hears the voices of his adoptive father Jonathan (Kevin Costner) and his biological father Jor-El (Russell Crowe). This reminds him of his true destiny. He dons a new black suit and flies to find Alfred, who tells him that the others are expecting him.The League comes up with their plan to infiltrate Steppenwolf's stronghold after tracking the location of the Mother Boxes, which Steppenwolf has now synchronized. They storm the place and battle the Parademons. Batman fires from the Batmobile, Cyborg uses his lasers, Wonder Woman and Aquaman fly to fight them, and Flash speeds through them. When they reach Steppenwolf, he attempts to taunt Diana by telling her she couldn't protect her sisters, and lies about killing her mother. While she and Aquaman fight him, Cyborg and Flash attempt to create a charge to destroy The Unity. Flash runs at the speed of light and creates the charge, but is disrupted by Steppenwolf. Before he can swing his gun to kill Cyborg, Superman joins the fight and knocks the villain against the wall. Flash is injured by a Parademon, which stops the charge. The Unity opens a portal where Darkseid overlooks the scene with DeSaad and Granny Goodness. After Flash heals, he runs the fastest that he can to recreate the charge, and with his touch, The Unity is undone. The power in the Boxes tried to manipulate Cyborg by saying he can be unbroken like he once was, even projecting an image with his parents. He knows he is greater than that, and with his power, the Mother Boxes are destroyed. Aquaman impales Steppenwolf with his trident and flings him upward, with Superman pushing him toward the portal before Wonder Woman decapitates him, sending his head and body flying toward Darkseid. Before the portal closes, the League looks at him victoriously. Darkseid notes Steppenwolf's failure and still plans to collect Anti-Life using \"the old ways\". The League then stands together as a team in triumph.EPILOGUE\nCyborg overhears a final recorded message from Silas, just as the rest of the League is getting ready to move forward. Silas tells his son to be greater with his newfound abilities. Bruce, Diana, and Alfred find a building where they plan to establish the Hall of Justice. Arthur still chooses to stay away from Atlantis, to Mera's dismay. Barry gets a job at STAR Labs, making Henry proud. Clark helps Martha fix up her new home while he resumes his relationship with Lois. When the time comes, he gets his suit back on.Lex Luthor (Jesse Eisenberg) makes his escape from Arkham Asylum and leaves a decoy in his cell. He goes to his yacht where he is met by Slade Wilson/Deathstroke (Joe Manganiello). They discuss plans to get to Batman, and Lex reveals to Slade that Batman is Bruce Wayne.Cut to what appears to be the dark future from Cyborg's vision. Batman teams up with him, Flash, Mera, and Deathstroke, now that Aquaman, Wonder Woman, and Lois are all dead. Batman then finds his archenemy, The Joker (Jared Leto), sitting there, taunting him about the ones he has lost in his life, but he twists the knife by mentioning how he killed Robin. Batman turns the tables on him by saying that he held Harley Quinn in his arms as she died, and her last wish was that Batman kill Joker slowly. The clown laughs menacingly just before they are found by a corrupted Superman.Bruce wakes up from this dream and is met outside his home by Martian Manhunter. He warns Bruce that Darkseid is still planning to come for Earth. He also thanks Bruce for his heroic efforts and lets him know they will stay in touch.",
+  "imdb_score": 7.9
+}

@@ -1,0 +1,543 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/fGbM2cqPauRu7ALFPSTDBH9FgpU.jpg",
+  "id": 2118,
+  "title": "L.A. Confidential",
+  "poster_path": "https://image.tmdb.org/t/p/w500/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg",
+  "release_date": "1997-09-19",
+  "vote_average": 7.79,
+  "vote_count": 4627,
+  "popularity": 34.095,
+  "overview": "Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner.",
+  "imdb_id": "tt0119488",
+  "budget": 35000000,
+  "homepage": "",
+  "revenue": 126200000,
+  "runtime": 138,
+  "tagline": "Everything is suspect... Everyone is for sale... And nothing is what it seems.",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Regency Enterprises",
+    "Warner Bros. Pictures",
+    "The Wolper Organization"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Russell Crowe",
+        "character": "Wendell \"Bud\" White",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fbzD4utSGJlsV8XbYMLoMdEZ1Fc.jpg"
+      },
+      {
+        "name": "Guy Pearce",
+        "character": "Edmund \"Ed\" Exley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
+      },
+      {
+        "name": "Kevin Spacey",
+        "character": "Jack Vincennes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rwIMhGHMq0nh7CJY7EYjGJZBkVt.jpg"
+      },
+      {
+        "name": "Kim Basinger",
+        "character": "Lynn Bracken",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iqQ4o2sRna7J1Z9KkB9Avp9CIsk.jpg"
+      },
+      {
+        "name": "Danny DeVito",
+        "character": "Sid Hudgens",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gNHF2SNXFFCRqwIQ2Xv6r6aV6UD.jpg"
+      },
+      {
+        "name": "James Cromwell",
+        "character": "Dudley Smith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
+      },
+      {
+        "name": "David Strathairn",
+        "character": "Pierce Patchett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fhkvTcrCDPTAclTnE7sqQS1NZKq.jpg"
+      },
+      {
+        "name": "Ron Rifkin",
+        "character": "D.A. Ellis Loew",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fj2u4t6nG0HGYFtRVDUTNbUtEtl.jpg"
+      },
+      {
+        "name": "Matt McCoy",
+        "character": "\"Badge of Honor\" Star Brett Chase",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4VkRnRc7h4JatbBKZMEQV7n4w0R.jpg"
+      },
+      {
+        "name": "Paul Guilfoyle",
+        "character": "Mickey Cohen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
+      },
+      {
+        "name": "Paolo Seganti",
+        "character": "Johnny Stompanato",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qbnw8pKwHVzVATSweEK1iUt34Dc.jpg"
+      },
+      {
+        "name": "Elisabeth Granli",
+        "character": "Mickey Cohen's Mambo Partner",
+        "profile_path": ""
+      },
+      {
+        "name": "Sandra Taylor",
+        "character": "Mickey Cohen's Mambo Partner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8NHNTDoOEkL0JaTrN9uq6T6J3Fk.jpg"
+      },
+      {
+        "name": "Steve Rankin",
+        "character": "Officer Arresting Mickey Cohen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z7I2eJItmYHgUpwxn65YngOYEit.jpg"
+      },
+      {
+        "name": "Graham Beckel",
+        "character": "Dick Stensland",
+        "profile_path": "https://image.tmdb.org/t/p/w185/duFny0c11zVA37XG1bHFTNOCvRG.jpg"
+      },
+      {
+        "name": "Allan Graf",
+        "character": "Wife Beater",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lF8WR4XVnfkE55RfX9LDssZxygC.jpg"
+      },
+      {
+        "name": "Precious Chong",
+        "character": "Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6eH5IgwiRkL6nNoz5fVDOCBgT70.jpg"
+      },
+      {
+        "name": "Symba",
+        "character": "Jack's Dancing Partner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jwIgwGA00Bu78SOlhh0qOo8m2xr.jpg"
+      },
+      {
+        "name": "Bob Clendenin",
+        "character": "Reporter at Hollywood Station",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bB8teXzKyQsJ4avnPLqbkSww23R.jpg"
+      },
+      {
+        "name": "Lennie Loftin",
+        "character": "Photographer at Hollywood Station",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oAIvMdMhJPIBGQAvxZZkXWCXRco.jpg"
+      },
+      {
+        "name": "Will Zahrn",
+        "character": "Liquor Store Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5JDnuufySepQ1fig7Hga4xL4nio.jpg"
+      },
+      {
+        "name": "Amber Smith",
+        "character": "Susan Lefferts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6zUCOaxoRvIZLzDWbWWLOgeZMrf.jpg"
+      },
+      {
+        "name": "Darrell Sandeen",
+        "character": "Buzz Meeks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2CDtYLzJGGPgXWR2c8scuVia7K.jpg"
+      },
+      {
+        "name": "Michael Warwick",
+        "character": "Sid's Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xRAel5gHNEXntrvZZjrshWCrT2A.jpg"
+      },
+      {
+        "name": "Simon Baker",
+        "character": "Matt Reynolds",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oay0Lo2zl0lJdguptxgx1BK9Xq7.jpg"
+      },
+      {
+        "name": "Shawnee Free Jones",
+        "character": "Tammy Jordan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kMGSLzwCMjc9cXkmQa17IA9x3Ar.jpg"
+      },
+      {
+        "name": "Matthew Allen Bretz",
+        "character": "Officer Escorting Mexicans",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Rosales Jr.",
+        "character": "First Mexican",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tlJzLctGc6UmB7JQrkFcdMEuRx3.jpg"
+      },
+      {
+        "name": "Shane Dixon",
+        "character": "Officer / Detective at Hollywood Station",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6rftaiH1k2S57OxLkyYQtjDT6vB.jpg"
+      },
+      {
+        "name": "Norman Howell",
+        "character": "Officer / Detective at Hollywood Station",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pgKSdCN2kA17u7P5HZClWUmXJTb.jpg"
+      },
+      {
+        "name": "Brian Lally",
+        "character": "Officer / Detective at Hollywood Station",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y9driLfBkfIVE0ahqbe8cEspbv2.jpg"
+      },
+      {
+        "name": "Don Pulford",
+        "character": "Officer / Detective at Hollywood Station",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Short",
+        "character": "Officer / Detective at Hollywood Station",
+        "profile_path": ""
+      },
+      {
+        "name": "John Mahon",
+        "character": "Police Chief",
+        "profile_path": "https://image.tmdb.org/t/p/w185/HQ5v471RZCcWhl9qY4cImUf5tP.jpg"
+      },
+      {
+        "name": "Tomas Arana",
+        "character": "Breuning - Dudley's Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qMuQWxUQ2sXDiN2d9EDVT5VXHo2.jpg"
+      },
+      {
+        "name": "Michael McCleery",
+        "character": "Carlisle - Dudley's Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e75eNLboS4uXJgZnSfYuIWqCA4u.jpg"
+      },
+      {
+        "name": "George Yager",
+        "character": "Gangster at Victory Motel",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Conley",
+        "character": "Vice Captain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/78bceHx2BdTJLhhomIbpQKm15TR.jpg"
+      },
+      {
+        "name": "Ginger Slaughter",
+        "character": "Secretary in Vice",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Knight",
+        "character": "Detective at Detective Bureau",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8FPcLAlqmBDyfwUDcJvF1Fw7Jxy.jpg"
+      },
+      {
+        "name": "John H. Evans",
+        "character": "Patrolman at Nite Owl Cafe",
+        "profile_path": ""
+      },
+      {
+        "name": "Gene Wolande",
+        "character": "Forensic Chief",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1im3IfFZOwu3urwKSVolqwOqCBv.jpg"
+      },
+      {
+        "name": "Brian Bossetta",
+        "character": "Forensic Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Chieffo",
+        "character": "Coroner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zKRG5CKvP861Gec5jDfmfBkGNfV.jpg"
+      },
+      {
+        "name": "Gwenda Deacon",
+        "character": "Mrs. Lefferts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8lmA0qE2pX9RTvHAd2SUWxlzXiu.jpg"
+      },
+      {
+        "name": "T.J. Kennedy",
+        "character": "Bud's Rejected Partner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tjK3V2I5Lz5IBpNjN84dREtMvju.jpg"
+      },
+      {
+        "name": "Ingo Neuhaus",
+        "character": "Jack's Rejected Partner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/suBdPRrIqLgewixis6GlkMfGxXj.jpg"
+      },
+      {
+        "name": "Robert Harrison",
+        "character": "Pierce Patchett’s Bodyguard",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Metzler",
+        "character": "City Councilman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1suCtSYliqGRdN6BOSWsvPZoHDz.jpg"
+      },
+      {
+        "name": "Robert Barry Fleming",
+        "character": "Boxer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rXUZATJxortX3sXzNZZX1AMbPpp.jpg"
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "character": "Ray Collins - Nite Owl Suspect",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8iFr7rPmJ2YpjFANVCpL9T3UvcK.jpg"
+      },
+      {
+        "name": "Salim Grant",
+        "character": "Louis Fontaine - Nite Owl Suspect",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fNIk2gyWTarKhCvddIjHfECyV60.jpg"
+      },
+      {
+        "name": "Karr Washington",
+        "character": "Ty Jones - Nite Owl Suspect",
+        "profile_path": ""
+      },
+      {
+        "name": "Noel Evangelisti",
+        "character": "Stenographer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wMvLFKoBgA8FrpNWi2NO9LoDHw3.jpg"
+      },
+      {
+        "name": "Marisol Padilla Sánchez",
+        "character": "Inez Soto - Rape Victim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ti5kghqauMq0qgfrMAiaesPWAmk.jpg"
+      },
+      {
+        "name": "Jeff Sanders",
+        "character": "Sylvester Fitch",
+        "profile_path": ""
+      },
+      {
+        "name": "Steven Lambert",
+        "character": "Roland Navarette",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4xXQXJHECq50ea7C8VeBY0uN3ms.jpg"
+      },
+      {
+        "name": "Jordan Marder",
+        "character": "Officer at Detective Bureau",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mGWM1cEX7OUnDFmnEmcYgxiIC8h.jpg"
+      },
+      {
+        "name": "Gregory White",
+        "character": "Mayor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hk0O0RjogFOc6VhmS29kNgg23Zs.jpg"
+      },
+      {
+        "name": "April Breneman",
+        "character": "Look-Alike Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Worthy",
+        "character": "Look-Alike Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Beverly Sharpe",
+        "character": "Witness on Badge of Honor",
+        "profile_path": ""
+      },
+      {
+        "name": "Colin Mitchell",
+        "character": "Reporter at Hospital",
+        "profile_path": ""
+      },
+      {
+        "name": "John Slade",
+        "character": "Photographer at Hospital",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nysKYvdDknh3pQsItdfMRhdpKjz.jpg"
+      },
+      {
+        "name": "Brenda Bakke",
+        "character": "Lana Turner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nCef3oKQVRsCi95s8fpUH9IXRsx.jpg"
+      },
+      {
+        "name": "Kevin Maloney",
+        "character": "Frolic Room Bartender",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrice Walters",
+        "character": "Police File Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rUPyCzNY7VRu4O5HeAcn1LZRzFW.jpg"
+      },
+      {
+        "name": "Rebecca Klingler",
+        "character": "Police File Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m7r1J0YOYVeiBfz0BWAgrcA4mAv.jpg"
+      },
+      {
+        "name": "Irene Roseen",
+        "character": "D.A. Ellis Loew's Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7jkkMP6Mxw9pIbUsgAqI139DqYh.jpg"
+      },
+      {
+        "name": "Scott Eberlein",
+        "character": "West Hollywood Sheriff's Deputy",
+        "profile_path": ""
+      },
+      {
+        "name": "David St. James",
+        "character": "Detective at Hush-Hush Office",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bj8ICLc3bMlAwnIWtDyP57ApQt8.jpg"
+      },
+      {
+        "name": "Bodie Newcomb",
+        "character": "Officer at Hush-Hush Office",
+        "profile_path": "https://image.tmdb.org/t/p/w185/twB0Nu9JQW4FM2Bej8H0nzCFlO.jpg"
+      },
+      {
+        "name": "Jeff Austin",
+        "character": "Detective",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5CXdrwmfCAnJXz95OUBtpu0Pn3P.jpg"
+      },
+      {
+        "name": "Robert Foster",
+        "character": "Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Patrick Kelly",
+        "character": "Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "Henry Marder",
+        "character": "Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "Monty McKee",
+        "character": "Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "Henry Meyers",
+        "character": "Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Ossmann",
+        "character": "Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "Dick Stilwell",
+        "character": "Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "Jess Thomas",
+        "character": "Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Thompson",
+        "character": "Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "Jody Wood",
+        "character": "Detective",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m4zhiyPJTn0BrwzCE2G1jMldBD1.jpg"
+      },
+      {
+        "name": "Jimmy Ortega",
+        "character": "Second Mexican (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/KwQuw0UHHXSwj6JTgnnHRUoO0w.jpg"
+      },
+      {
+        "name": "Nectar Rose",
+        "character": "Marilyn Monroe (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/495hGLhsjm0CwjJCgMO5q50czPq.jpg"
+      },
+      {
+        "name": "Rocco Salata",
+        "character": "Uniformed Patrol Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dell Yount",
+        "character": "Court Bailiff (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b8IYFkj3dTA8md9WfcEpOYhJcgK.jpg"
+      },
+      {
+        "name": "Scott McKinley",
+        "character": "Cop (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gilbert Rosales",
+        "character": "Third Mexican (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gb60pzm0vP0X56BiHKIEkyg7wRq.jpg"
+      },
+      {
+        "name": "J.P. Romano",
+        "character": "Deuce Perkins (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yO4cpRtV2RaeNRd7YmrM3f6cC7r.jpg"
+      },
+      {
+        "name": "Chris Palermo",
+        "character": "Anthony Trombino (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ni3d2IaSUk651Yq9HWfoa1Pezya.jpg"
+      },
+      {
+        "name": "April Audia",
+        "character": "Mayor's Wife (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gILAKmSuVxRHTLZrDhLAt5uM23Q.jpg"
+      },
+      {
+        "name": "Priscilla Cory",
+        "character": "Brunette Police Woman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Fred Lerner",
+        "character": "Dudley's Guy with Shotgun (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pkuaIXJKC8ETC66Rtybtnk63xlY.jpg"
+      },
+      {
+        "name": "Anne Zogby",
+        "character": "Movie Star (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Curtis Hanson",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1ht0tJ0Icxc134W3ZpcGtwMtNLA.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "corruption",
+    "based on novel or book",
+    "call girl",
+    "shotgun",
+    "detective",
+    "femme fatale",
+    "domestic violence",
+    "whodunit",
+    "corpse",
+    "district attorney",
+    "movie star",
+    "good cop bad cop",
+    "neo-noir",
+    "1950s"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+    "1950's Los Angeles is the seedy backdrop for this intricate noir-ish tale of police corruption and Hollywood sleaze. Three very different cops are all after the truth, each in their own style: Ed Exley, the golden boy of the police force, willing to do almost anything to get ahead, except sell out; Bud White, ready to break the rules to seek justice, but barely able to keep his raging violence under control; and Jack Vincennes, always looking for celebrity and a quick buck until his conscience drives him to join Exley and White down the one-way path to find the truth behind the dark world of L.A. crime.—Greg Bole <bole@life.bio.sunysb.edu>",
+    "Three policemen, each with his own motives and obsessions, tackle the corruption surrounding an unsolved murder at a downtown Los Angeles coffee shop in the early 1950s. Detective Lieutenant Exley (Guy Pearce), the son of a murdered detective, is out to avenge his father's killing. The ex-partner of Officer White (Russell Crowe), implicated in a scandal rooted out by Exley, was one of the victims. Sergeant Vincennes (Kevin Spacey) feeds classified information to a tabloid magnate (Danny DeVito).",
+    "It's the early 1950s Hollywood where organized crime is taking hold. Bud White, Ed Exley, and Jack Vincennes are three vastly different members of the LAPD. White is the epitome of the muscle, he, who, acting more on emotion, uses his fists before he asks questions in exacting his brand of justice. He is especially protective of women victims, potential or actual. Of the types, his mentality most closely matches that of Captain Dudley Smith, the two, among others, who systematically corral and rough up the foot soldiers in organized crime to show them who's boss in town. The son of a famed detective who was killed by an unknown assailant on the job, Exley is by-the-books, none of the beat cops and detectives liking him for willing to rat out what he sees as corruption on the force. Exley is, however, politically savvy and knows how to play the system to his advantage. Vincennes is the slick cop who likes the glamour of Hollywood. As such, he most enjoys his role as technical advisor on the police television show Badge of Honor. He is also in an unofficial partnership with sleazy reporter Sid Hudgens of the tell-all tabloid magazine Hush-Hush, Hudgens digging up dirt for potential busts on minor celebrities while Vincennes allows him to cover exclusively the busts themselves, which often includes titillating photos in being at the right place at the right time. Many on the force, including the three, are involved in investigating a mass murder at the Night Owl Diner. Despite Exley being the first first responder on the scene, Smith takes over as lead of the investigation due to its high profile, which is only ramped up with the discovery of one of the victims. In the process, White is reacquainted with Lynn Bracken, a prostitute with who he becomes obsessed partly in that sense of protection he has for women. She works for wealthy Pierce Patchett whose service specializes in celebrity lookalikes, Bracken his \"Veronica Lake\". With the Night Owl Diner case solved and thus closed, White, Exley, and Vincennes all come back to the case from three different directions in they each believing not all that appears on the surface is the truth. Their individual investigations may bind them together or further tear them apart.—Huggo",
+    "LA in the 50's: someone's killing imprisoned mob boss Mickey Cohen's gang. The police, led by Captain Dudley, convince wiseguys from Jersey, Cleveland, and elsewhere to go home. Rich developer, Pierce Patchett, runs a stable of high-class hookers who are ringers for movie stars. The plot to replace Cohen blindsides three plainclothes cops: White watched his father beat his mother to death then vanish, he punishes abusers with quick violence; Exley's father was a hero cop killed mysteriously, he seeks justice by the book; Vicennes, a clothes horse, consults for a Dragnet-like TV show. Will they escape corruption and murder, will they find their own morality?—<jhailey@hotmail.com>"
+  ],
+  "synopsis": "In early 1950s Los Angeles, LAPD Sergeant Edmund \"Ed\" Exley (Guy Pearce) is determined to live up to the reputation of his father, famed detective Preston Exley, who was killed by an unknown assailant whom Exley nicknamed \"Rollo Tomasi\". Already isolated from other officers by his intelligence and career ambitions, he volunteers to testify against them in the \"Bloody Christmas\" case (6 Mexicans were brought into the station for allegedly beating up 2 officers. The rumors grew through the night till the cops believed one man lost an eye and the other died. They launch a full on assault on the 6 Mexicans while they were in the locker. Exley was locked up as he didn't participate and instead threatened to name everyone in his report) in exchange for promotion to Detective Lieutenant, against the advice of precinct captain Dudley Smith (James Cromwell). Exley is very \"by the book\" and refuses to plant evidence or stage an encounter even when it is clear that the perpetrator is guilty.Plainclothes Officer Wendell \"Bud\" White (Russell Crowe), whom Exley considers a \"mindless thug\", is obsessed with viciously reprimanding woman-beaters. White hates Exley due to his partner, Dick Stensland (Graham Beckel), being fired thanks to Exley's testimony in the \"Bloody Christmas\" case.\nWith crime boss Mickey Cohen (Paul Guilfoyle) imprisoned for 10 yrs for tax evasion while his underlings are being mysteriously killed, Cpt. Smith recruits White to torture out-of-town criminals trying to gain a foothold in Los Angeles to encourage them to leave town.\nWhile at a liquor store, White also encounters Lynn Bracken (Kim Basinger), a hooker resembling Veronica Lake, and former cop Leland \"Buzz\" Meeks (Darrell Sandeen). Both work for Pierce Patchett (David Strathairn), whose Fleur-de-Lis service runs high-end prostitutes altered by plastic surgery to resemble film stars.\nSergeant Jack Vincennes (Kevin Spacey) is a narcotics detective who moonlights as a technical advisor on Badge of Honor, a TV police drama series. Sid Hudgens (Danny DeVito), publisher of the Hush-Hush tabloid magazine, tips him off on celebrity criminal activity in order to facilitate high-profile arrests that Hudgens can then feature prominently in his publication.Exley soon investigates a robbery and multiple homicide at the Nite Owl coffee shop. Stensland was one of the victims. Exley and Vincennes track down & arrest three African-American felons for the crime; Exley interrogates them and cleverly gets them to confess that they raped and bled a white girl (but they technically never confessed to the Night Owl murders; White gets the address and is able to rescue the white girl they had been raping (White kills the 4th perpetrator who was holding the girl hostage and plants evidence to make it look like he was shot at, which Exley doesn't appreciate); The perpetrators later escape from police custody and are killed by Exley in a shootout. Exley is decorated for bravery. Although the Nite Owl case appears solved, Exley and White individually investigate further, discovering evidence of corruption all around them.\nThe rape survivor admits that the rapists were with her the entire night, on the night of the Night Owl incident.White begins a relationship with Lynn, and recognizes Nite Owl victim Susan Lefferts (Amber Smith) as one of Patchett's escorts. White is surprised when Patchett tells him that Meeks no longer works for him.\nLefferts' mother tells White that Stensland was Susan's \"boyfriend\"; He smells something odd in the Leffert house; White searches the crawl space under the mother's house and finds Meeks' corpse. He then interrogates Johnny Stompanato (Paolo Seganti), Mickey Cohen's ex-bodyguard, who says Meeks was trying to sell a large stash of heroin he had stolen.\nExley finds that White was looking around the Night Owl files and follows him to the Leffert house. After White leaves, he brings Meeks body to the morgue for identification and asks for Vincennes's help.Hudgens, with Vincennes' knowledge, paid struggling actor Matt Reynolds (Simon Baker Denny) to engage in a homosexual tryst with District Attorney Ellis Loew (Ron Rifkin) with the intent to set Loew up for arrest and public humiliation. After Reynolds is found murdered, a guilt-ridden Vincennes joins Exley's investigation to find the killer. Vincennes & Exley follow White and find out that he met Stompanato and that he is seeing Lynn as well.\nExley and Vincennes find that they body belonged to Meeks, an ex-cop. Vincennes looks at his old files in the archives. Exley goes over to Lynn to find out why she has been fucking White. Lynn seduces Exley and he starts fucking her, only for Hudgens to take photos of them having sex (on Patchett's instructions, who was concerned when both Vincennes and Exley came over to his house for interrogation on Leffert and Reynolds)..Vincennes later confronts Smith with evidence that Meeks and Stensland worked together under Smith's command a decade earlier, and dropped an investigation on Patchett, who had Hudgens photographing businessmen with hookers in a blackmail scam. Smith suddenly shoots Vincennes, who dies after murmuring \"Rollo Tomasi\", a name that Exley told him in confidence.The next day, Exley's suspicions are aroused when Smith asks him who \"Rollo Tomasi\" is. During an interrogation of Hudgens, Smith arranges for White to see photos of Lynn having sex with Exley, which sends White leaving in a rage to find him.\nAt the police station, White and Exley fight, but stop when both realize that Smith is corrupt. They deduce that Stensland killed Meeks over the stolen heroin, and that the Nite Owl killings were to allow Smith to kill Stensland. The three African-Americans were framed by evidence planted by Smith's men. Finally collaborating together, Exley and White interrogate Loew, and learn that Smith and Patchett (aided by Hudgens' blackmail photos of Reynolds with Loew) have been taking over Mickey Cohen's criminal empire (Reynolds had heard the whole thing and hence was killed), and that the killings were because of Smith tying up loose ends. They later find Patchett and Hudgens murdered. They manage to save Lynn before Smith and his goons get to her.Smith lures Exley and White into an ambush. After the pair kill Smith's hit-men in a gunfight, White and Smith wound each other. Exley holds Smith at gunpoint, but when Smith tries to surrender to arriving police, Exley shoots him dead (against his own principles). At the police station, Exley explains what he, Vincennes and White learned about Smith's corruption. The LAPD thus decides to protect their image by saying Smith died a hero in the shootout, whilst awarding Exley a second medal for bravery. Outside city hall, Exley says goodbye to Lynn and White before watching them drive off to Lynn's home in Arizona.",
+  "imdb_score": 8.2
+}

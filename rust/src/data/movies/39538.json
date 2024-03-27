@@ -1,0 +1,784 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/2Dma33SmE4qAiEcOyjf5iw9FpFc.jpg",
+  "id": 39538,
+  "title": "Contagion",
+  "poster_path": "https://image.tmdb.org/t/p/w500/qL0IooP0bjXy0KXl9KEyPo22ll0.jpg",
+  "release_date": "2011-09-08",
+  "vote_average": 6.638,
+  "vote_count": 5777,
+  "popularity": 25.288,
+  "overview": "As an epidemic of a lethal airborne virus - that kills within days - rapidly grows, the worldwide medical community races to find a cure and control the panic that spreads faster than the virus itself.",
+  "imdb_id": "tt1598778",
+  "budget": 60000000,
+  "homepage": "http://contagionmovie.warnerbros.com/",
+  "revenue": 137551594,
+  "runtime": 106,
+  "tagline": "Nothing spreads like fear",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Participant",
+    "Imagenation Abu Dhabi FZ",
+    "Double Feature Films",
+    "Regency Enterprises",
+    "Warner Bros. Pictures"
+  ],
+  "production_countries": [
+    "US",
+    "AE"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Marion Cotillard",
+        "character": "Leonora Orantes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/biitzOF0GffIqFYLyOPkoiaOngQ.jpg"
+      },
+      {
+        "name": "Matt Damon",
+        "character": "Mitch Emhoff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
+      },
+      {
+        "name": "Laurence Fishburne",
+        "character": "Ellis Cheever",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iwx7h0AfWMm9K4sMmhru3ShSra.jpg"
+      },
+      {
+        "name": "Jude Law",
+        "character": "Alan Krumwiede",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pj75cHQ3oLSFPJ0IyB6Bkg6ytHu.jpg"
+      },
+      {
+        "name": "Kate Winslet",
+        "character": "Erin Mears",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg"
+      },
+      {
+        "name": "Jennifer Ehle",
+        "character": "Ally Hextall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kMddVKineLFpxsUoGrb3E6edkOv.jpg"
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "character": "Beth Emhoff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/slPWN0VvYJtNOEuxlFSsXSNQMaF.jpg"
+      },
+      {
+        "name": "Bryan Cranston",
+        "character": "Lyle Haggerty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg"
+      },
+      {
+        "name": "Elliott Gould",
+        "character": "Ian Sussman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ismZMvs8QxRR33OAVp9AKr3TokP.jpg"
+      },
+      {
+        "name": "Chin Han",
+        "character": "Sun Feng",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3XJXmYm6r4Hvm3izOArU58fhQrT.jpg"
+      },
+      {
+        "name": "John Hawkes",
+        "character": "Roger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vzQ5SdCcu9ZCeUyfAT0bnzyfeJh.jpg"
+      },
+      {
+        "name": "Anna Jacoby-Heron",
+        "character": "Jory Emhoff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wNpKJBDDnFquT8NpGQtVUPQ12e2.jpg"
+      },
+      {
+        "name": "Sanaa Lathan",
+        "character": "Aubrey Cheever",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mYrlBt33pPbdsgscTuWdHScu7md.jpg"
+      },
+      {
+        "name": "Demetri Martin",
+        "character": "David Eisenberg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5BvSLisPAaoGMjxNen9OPf20lRA.jpg"
+      },
+      {
+        "name": "Armin Rohde",
+        "character": "Damian Leopold",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h1CuhGgADJFD9vw1IYFskJK9q9V.jpg"
+      },
+      {
+        "name": "Enrico Colantoni",
+        "character": "Dennis French",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yxxy8IrGRwnRPbLmgyfwF26Feve.jpg"
+      },
+      {
+        "name": "Larry Clarke",
+        "character": "Dave",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kbp92RtguHWARGDW91S4rBVcv2H.jpg"
+      },
+      {
+        "name": "Monique Gabriela Curnen",
+        "character": "Lorraine Vasquez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lJgLQs7cfM49m8VzVviwxIByz76.jpg"
+      },
+      {
+        "name": "Daria Strokous",
+        "character": "Irina",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kpydEWJWzY7njskcwRSBaUB2OxN.jpg"
+      },
+      {
+        "name": "Rick Uecker",
+        "character": "Minnesota Health",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8jAodYLYpzCWTB96xoBoWM7GU81.jpg"
+      },
+      {
+        "name": "Jamie Newell",
+        "character": "Siphon Woman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Griffin Kane",
+        "character": "Clark Morrow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jGV5KbjYeIlAeLBcyeJznyypf1x.jpg"
+      },
+      {
+        "name": "Rebecca Spence",
+        "character": "Jon Neal's Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c284xbwhHvFsd38W71hL0H6HVQE.jpg"
+      },
+      {
+        "name": "Yoshiaki Kobayashi",
+        "character": "Japanese Bus Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3lWFDttIcImpr7bdvlboj5ViQsO.jpg"
+      },
+      {
+        "name": "Teri McEvoy",
+        "character": "School Nurse",
+        "profile_path": ""
+      },
+      {
+        "name": "Sue Redman",
+        "character": "ER Nurse #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xfMlbYUXJbBulYuwuDRvluOzN15.jpg"
+      },
+      {
+        "name": "Teri Campbell",
+        "character": "ER Nurse #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Stef Tovar",
+        "character": "Dr. Arrington",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oJCaDdqgZIHultpOVw4k3Pjb7LE.jpg"
+      },
+      {
+        "name": "Mary Jo Faraci",
+        "character": "Social Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uCaeM7EzXR50kT2lsvJwmYzqSN.jpg"
+      },
+      {
+        "name": "Grace Rex",
+        "character": "Carrie Anne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g6BiwPLVnSdlpAin52eLHHcMQ37.jpg"
+      },
+      {
+        "name": "Joseph Anthony Foronda",
+        "character": "WHO Official",
+        "profile_path": "https://image.tmdb.org/t/p/w185/53nFxt1nQ6NmG9Vm1VEORFwUc99.jpg"
+      },
+      {
+        "name": "Annabel Armour",
+        "character": "Beth's Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pBoFYZ0OO0aDJZlzzDb4gTeJi6y.jpg"
+      },
+      {
+        "name": "Jim Ortlieb",
+        "character": "Funeral Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ehQGmHYLxnkZrxVklSgof2KfAvD.jpg"
+      },
+      {
+        "name": "Kara Zediker",
+        "character": "Elizabeth Nygaard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1uZ9V3DQzZivXYdmfFrRtV9fe9l.jpg"
+      },
+      {
+        "name": "Laura Fisher",
+        "character": "Sick Lady",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lGi1zW8dm4S9A61sNZyq79OG9Wi.jpg"
+      },
+      {
+        "name": "Mary Beth Dolan",
+        "character": "Nun",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pGvLLTGeCIg7Ck3RwXXXFN7fc9l.jpg"
+      },
+      {
+        "name": "Dan Flannery",
+        "character": "Hextall's Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nbc8T2b0ZNyNeRXk0aq0yw3uJzD.jpg"
+      },
+      {
+        "name": "Jason Babinsky",
+        "character": "Shivering Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Y1d7LH1NIvO6bKe6D2HZGm7Wok.jpg"
+      },
+      {
+        "name": "Howie Johnson",
+        "character": "Morgue Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/19Q8iLSoFB4zcfC3ZpsI636TEnu.jpg"
+      },
+      {
+        "name": "Sanjay Gupta",
+        "character": "Sanjay Gupta",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dvdz0HnEKI7IBKRJzUx3jxKiPVy.jpg"
+      },
+      {
+        "name": "Chui Tien-You",
+        "character": "Li Fai",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tJLC6hww4ZKDaaehAGEwQwc2UIM.jpg"
+      },
+      {
+        "name": "Josie Ho",
+        "character": "Li Fai's Sister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1khpobMCU7leh97aLvJenusJehq.jpg"
+      },
+      {
+        "name": "Steven Soderbergh",
+        "character": "John Neal (voice, uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2eJL4Eb9hyLwlgHX9IHRf5peIDm.jpg"
+      },
+      {
+        "name": "Phillip James Brannon",
+        "character": "Paramedic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zPcCLQwawphYGYcU2UGE06owtFQ.jpg"
+      },
+      {
+        "name": "David Lively",
+        "character": "Minnesota Medical Examiner",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew White",
+        "character": "Assistant Medical Examiner",
+        "profile_path": ""
+      },
+      {
+        "name": "Ira Blumen",
+        "character": "Helpful Doctor",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Stangland",
+        "character": "Minnesota Health #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Jimmy Chung",
+        "character": "Minnesota Health #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Tara Mallen",
+        "character": "Minnesota Health #4",
+        "profile_path": ""
+      },
+      {
+        "name": "John Hines",
+        "character": "AIMM Employee #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Joshua Weinstein",
+        "character": "AIMM Employee #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah Charipar",
+        "character": "AIMM Employee #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a43sKxyr5TaO9szqEi5e4DkUi03.jpg"
+      },
+      {
+        "name": "Mark Czoske",
+        "character": "AIMM Employee #4",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Aho",
+        "character": "Aaron Barnes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r2Z9d2CKf9KBxwYcntAO4B3iXGY.jpg"
+      },
+      {
+        "name": "Hee-Wan Kwon",
+        "character": "Japanese Official",
+        "profile_path": ""
+      },
+      {
+        "name": "Phil Tang",
+        "character": "Village Man #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Chi",
+        "character": "Village Man #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Blair Robertson",
+        "character": "Sussman's Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Randy Lowell",
+        "character": "Hedge Fund Man in Park",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bcc28LHZ1qvHeaOQ0JDRijE2W09.jpg"
+      },
+      {
+        "name": "Pete Sack",
+        "character": "TV Anchor",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian J. O'Donnell",
+        "character": "Andrew",
+        "profile_path": ""
+      },
+      {
+        "name": "Kwok-Wah Wong",
+        "character": "Chinese Health Official #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Sau-Ming Tsang",
+        "character": "Chinese Health Official #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Josh Pollock",
+        "character": "Coughing Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter A Kelly",
+        "character": "National Guardsman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kij9CF0CtaCx2r66MAAwvpcxTor.jpg"
+      },
+      {
+        "name": "Thomas Gebbia",
+        "character": "Man with Megaphone",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Sanders-Joyce",
+        "character": "Home Invasion Thug",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zCjXIiz4wVxATCa0ojEqeWJVeoP.jpg"
+      },
+      {
+        "name": "Joshua Seiden",
+        "character": "Anthony",
+        "profile_path": ""
+      },
+      {
+        "name": "Kam Tong Wong",
+        "character": "Chef",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Anderson",
+        "character": "Police Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bambadjan Bamba",
+        "character": "Dread (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Uk5XX0zRDYJeeIkjgtScS5zjFG.jpg"
+      },
+      {
+        "name": "Rodolfo C Barrios",
+        "character": "Sick Guy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bryan Basil",
+        "character": "Senate Staffer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Raphael Bonacchi",
+        "character": "Police Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ahmed Boulane",
+        "character": "Doctor Haddad (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o7iaexFSLxXCzrBg1OtzqzspB5x.jpg"
+      },
+      {
+        "name": "Liz Clare",
+        "character": "Vaccine Recipient (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oolb61uU7xkJNBb4vbNqbcbTEQD.jpg"
+      },
+      {
+        "name": "Rashida Clendening",
+        "character": "Interviewee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "David Cohen",
+        "character": "News Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mmQRD99KbWOoPfjyh7Z6ezEw0G2.jpg"
+      },
+      {
+        "name": "James Anthony Cotton",
+        "character": "Tough Guy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Duke Czlonka",
+        "character": "National Guard Sergeant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r0nf9BAnnz4wmy0iFchHteROJd5.jpg"
+      },
+      {
+        "name": "Andrew Dasz",
+        "character": "Airport Passager (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eq9bO6zS3uYAseyLEH9ot7Vzpuc.jpg"
+      },
+      {
+        "name": "Joe DeBartolo",
+        "character": "Food Drop Recipient (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eduardo Ambriz DeColosio",
+        "character": "Interviewee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Amanda Dyar",
+        "character": "Vaccinated Citizen (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryan Ebert",
+        "character": "Sick Person (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Shannon Edwards",
+        "character": "Michael Giannes - Minnesota Health Department (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Anas El Baz",
+        "character": "Ahraf (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ilYOj0WDVjr4frEhx9Ivohw43qe.jpg"
+      },
+      {
+        "name": "Olivia Francessca",
+        "character": "Nurse (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Logan Fry",
+        "character": "Washington D.C. Lobbyist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kenley Gaffke",
+        "character": "Vaccine Patient (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Christian Heep",
+        "character": "Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Hill III",
+        "character": "Press Room Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Mn4LUS1spTnyCgxp5YMNR7TaQ7.jpg"
+      },
+      {
+        "name": "John Hoogenakker",
+        "character": "Rafik's Lawyer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wjA5d3Mcv0uqwQqKqEKbQtF7BuH.jpg"
+      },
+      {
+        "name": "Matt Iwinski",
+        "character": "Photographer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah Kliban",
+        "character": "Interviewee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Iris Kohl",
+        "character": "Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Suzanne Lang",
+        "character": "ER Nurse (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Elester Latham",
+        "character": "Doctor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9UG3D6ZPKguMgWhy2jhj9B2bpg2.jpg"
+      },
+      {
+        "name": "Ina Lereine",
+        "character": "Pedestrian (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Seth Leslie",
+        "character": "Stage Performer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Josiah Lyricq",
+        "character": "Protestor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mino Mackic",
+        "character": "Airport Businessman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Carl Marino",
+        "character": "Pharmacy Fighter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jwhZJHhcMefNvl473Z02zBHrJ5J.jpg"
+      },
+      {
+        "name": "Mary Lu Marr",
+        "character": "Physician (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vT21iuJqq0FM9gerngMlDX1Bg2M.jpg"
+      },
+      {
+        "name": "James Mastel",
+        "character": "FBI Agent (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Timothy W. Mather",
+        "character": "Print Journalist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas McCormick",
+        "character": "Photographer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave McNulty",
+        "character": "Doctor in Lobby (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "E. Roger Mitchell",
+        "character": "Driver (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qdcwrdA1IYvuRe0A2abSvzVLZVS.jpg"
+      },
+      {
+        "name": "Paul D. Morgan",
+        "character": "Hazmat Doctor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dWVir9aOLKXqEgZfzOfvHtPqhWi.jpg"
+      },
+      {
+        "name": "Jesse Muick",
+        "character": "Vaccine Recipient (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry Nazimek",
+        "character": "CDC Employee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Nitzke",
+        "character": "Epidemic Victim (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew Parry-Jones",
+        "character": "Sick Child (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bnw4XbVbz9WglkoIceitB7wHvqa.jpg"
+      },
+      {
+        "name": "Eric Pierson",
+        "character": "Driver (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Steven Potts",
+        "character": "Sick Man (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Steven James Price",
+        "character": "Lt. Col Ginsberg (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kyle Quesnoy",
+        "character": "Redhead Interviewee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brandi Quinn",
+        "character": "Sickly Victim (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kenya Robertson",
+        "character": "Waitress (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joshua Rollins",
+        "character": "Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nGK0cQ4JYa91w5AbU9HwMVEGSEH.jpg"
+      },
+      {
+        "name": "Sandy Rouge",
+        "character": "Medical Staff (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Helen Sadler",
+        "character": "Polish Maid (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p0plAmQNO6KCNRECPKji8hiDK4e.jpg"
+      },
+      {
+        "name": "Peggy Sandow",
+        "character": "Sick Woman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jane Santos",
+        "character": "Survivor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xEW6tDkWycK4XK9n3BufBfu4Hup.jpg"
+      },
+      {
+        "name": "Hester Schell",
+        "character": "Epidemic Victim (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jon Komp Shin",
+        "character": "On Air News Reporter San Francisco (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Walt Sloan",
+        "character": "Hospital Physician (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gfm8nda8Sj5HnlioIJTZkLEBI3L.jpg"
+      },
+      {
+        "name": "Ylian Alfaro Snyder",
+        "character": "Sick Citizen (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joshua Squire",
+        "character": "Vaccine Patient (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "January Stern",
+        "character": "Congress Woman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iNJdndYyUO3WhCwa5FgfpFCD3iT.jpg"
+      },
+      {
+        "name": "Michael T Stewart",
+        "character": "Citizen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fsQEbWmcCPatbVP5FCyzSSHgcmT.jpg"
+      },
+      {
+        "name": "Thomas W. Stewart",
+        "character": "Doctor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Audra Todd",
+        "character": "CDC Employee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Giota Trakas",
+        "character": "Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1o82GfQmMhkOIpmQyEBdi5ZhEcD.jpg"
+      },
+      {
+        "name": "Ken Venzke",
+        "character": "On Air Reporter San Francisco Channel 7 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p5yjtPjiM3ixxJL0lVXXYvWgZzi.jpg"
+      },
+      {
+        "name": "Abby Wait",
+        "character": "Girl In Cafe (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Amr Waked",
+        "character": "Rafik (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5rMQibz1vTvs8nfNQOvd4gpQvCX.jpg"
+      },
+      {
+        "name": "James D. Weston II",
+        "character": "FBI Agent (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5Syon9PTMAdxPMkFNcfgxe91pji.jpg"
+      },
+      {
+        "name": "Roger Wiggins",
+        "character": "CDC Employee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lRAnKbYPl8eI8WNBCIJfktDtYgB.jpg"
+      },
+      {
+        "name": "Robert A. Young",
+        "character": "Capital Police (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bobby Watson",
+        "character": "Dying Man (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Steven Soderbergh",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2eJL4Eb9hyLwlgHX9IHRf5peIDm.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "quarantine",
+    "saving the world",
+    "mutation",
+    "infection",
+    "terminal illness",
+    "outbreak",
+    "disease",
+    "vaccine",
+    "lethal virus",
+    "scientist",
+    "epidemic",
+    "prophetic",
+    "medical drama"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Healthcare professionals, government officials and everyday people find themselves in the midst of a pandemic as the CDC works to find a cure.",
+    "Soon after her return from a business trip to Hong Kong, Beth Emhoff dies from what is a flu or some other type of infection. Her young son dies later the same day. Her husband Mitch however seems immune. Thus begins the spread of a deadly infection. For doctors and administrators at the U.S. Centers for Disease Control, several days pass before anyone realizes the extent or gravity of this new infection. They must first identify the type of virus in question and then find a means of combating it, a process that will likely take several months. As the contagion spreads to millions of people worldwide, societal order begins to break down as people panic.—garykmcd",
+    "Beth Emhoff (Gwenyth Paltrow) returns from a business trip to Hong Kong with a stop over at the Chicago airport, where she has sex with her former lover. Beth feels ill, but thinks the problem is jet leg. She travels back home to Minneapolis and spreads the virus to her son Clark and her husband, Mitch. When Beth and Clark die, Mitch goes in quarantine where the doctors realise he is immune to the mysterious virus. Meanwhile in Hong Kong, London and in a small province, cases of the mystery illness are cropping up, as the American CDC and the World Health Organization give their best effort researching the virus. A race against the clock begins, as the virus is spreading in a geometric progression, and if no solution is found - very fast - humanity will cease to be.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "Unable to accept the sudden death of his fit-as-a-fiddle wife and equally healthy son, grieving father Mitch Emhoff finds himself quarantined. In the meantime, a virulent pathogen has infected thousands around the globe. As a result, the Centre for Disease Control and the World Health Organisation struggle to pinpoint the virus' origin. However, their efforts are fruitless. And as the authorities embark on a desperate mission to locate Patient Zero, self-appointed prophets manipulate the masses, riots erupt, economies collapse, and people perish by the thousands. After all, the invisible adversary is everywhere. More or less, the average person touches his face nearly 3,000 times a day. With this in mind, can humankind survive the fatal contagion?—Nick Riganas"
+  ],
+  "synopsis": "DAY 2Beth Emhoff (Gwyneth Paltrow) is coughing in an airport lounge and gets a call from John Neal (voice of director Steven Soderbergh, in his uncredited cameo role), an old acquaintance. She informs him about the 6 hour layover she has and would love to see him (to have sex). A montage where we see several other people ensues.A young man in Hong Kong gets off a boat, sweating. He goes home to his family and his sister looks at him concerned.In London, a model gets sick and goes back to her hotel room. Hotel staff come into the room and find her dead on the bathroom floor.On a plane, a businessman comes out of the lavatory with a pained expression on his face. He is traveling back home to Tokyo. He is on a bus when he collapses to the floor, convulsing. His death is captured on a camera phone.The young man from Hong Kong leaves his apartment, coughing near several people in an elevator. He walks the streets, his vision getting more hazy. He walks into traffic and is hit by a truck and killed.Finally, in Minnesota, Beth comes home to her husband Mitch (Matt Damon) and son Clark (Griffin Kane), hugging them both.DAY 3Dr. Ellis Cheever (Laurence Fishburne) comes into work at the Atlanta-based Center for Disease Control and Prevention (CDC). On the way in, he passes a janitor named Roger (John Hawkes) who he is on friendly terms with due to the football pool they have. Roger asks Cheever about his son since the school thinks he has ADHD. Roger asks if Cheever could look at him but Cheever says he is not that kind of doctor. However, he knows some people so he will try to refer a good doctor to Roger for his son.Meanwhile, Mitch goes to pick up from Clark from school from what they think is a fever. Mitch tells Clark he will beat it by Thanksgiving.At a news office a blogger journalist and conspiracy theorist, named Alan (Jude Law), is talking to an editor, named Lorraine, about the Tokyo bus incident. Alan thinks it may have to do with mercury poisoning in fish worldwide. Lorraine says they don't have the budget for this kind of freelance work but Allen says this story can go worldwide in 24 hours. Lorraine says she will pass it to another editor. Allen tells her he recorded this conversation and if she steals his story he will sue her.DAY 4Beth is at home, getting worse. She stares at a cup of coffee and tries to pick it up as Mitch talks about his day. She instead makes it fall off the counter and shatter. Mitch comes to help clean it up, when Beth starts to have a seizure. Mitch is scared, and he sees Clark at the doorway looking at his mother convulsing. Mitch tells him to go upstairs as he calls 911.At the hospital, Mitch tries to explain what happened and Beth's allergies when she has another seizure and Mitch is pushed out of the room. A doctor comes to see him later and tells him Beth has just died. Mitch is in shock and asks to talk to her, not computing the news. The doctor tries to explain that his wife might have picked something up in China but there are no health alerts there to match to any of her symptoms. The medical board is going to order an autopsy in order to determine what killed her. Mitch is aghast and screams, \"What happened?!\"Mitch is being driven home when he gets a call. His son is sick. He tells the babysitter to call 911. When he gets home, the babysitter says Clark had a headache so she put him to bed. By the time Mitch gets there, it is too late, his son is dead.DAY 5In Switzerland, Dr. Leonora Orantes (Marion Cotillard), goes to work at the World Health Organization (WHO). She handles a briefing on this unknown virus and the cases of infection in the U.S., China, London and Japan. She expresses the need for the WHO to be thorough in its investigations. She mentions Beth as being the potential start of the infection.Back in Hong Kong, the sister of the young man that was infected has his body cremated and goes to take his ashes away for burial via bus. A cleaning lady is checking the bus when she finds the girl dead. Her brother clearly infected her too before he died.In Chicago, Beth's lover John Neal is being carried out on a stretcher. He has been infected as well. His wife looks on in shock, wondering what is wrong.Two medical morticians do the autopsy on Beth, opening up her skull. They notice something strange about her brain. One of the men asks if he should take a sample. \"Actually, I want you stand away from the table!\" The other technician tells him. The technician tells his partner to call EVERYONE.DAY 6In Atlanta, Dr. Erin Mears (Kate Winslet) is being briefed by Ellis on her job on the mysterious virus outbreak. She is to investigate and contain cases of infection. If she needs anything she can call him, no questions asked. Erin travels to Minnesota to be transported to a nearby CDC office.Mitch is taken back to the hospital and put under quarantine watch. His teenage daughter from his previous marriage, Jory Emhoff (Anna Jacoby-Heron), arrives. They talk on a phone. Jory feels guilty of not being there when Clark died, but Mitch says it is not her fault. In addition, if she had been, she could have been infected too. She is all he has left. Mitch tells Jory to go home to her mother, but Jory says she will not leave him. She is staying with him.Dr. Erin Mearsgives a briefing about the virus and the precautions they need to take. One woman asks if they are panicking about something they know little of. \"We don't even know what to tell people to be afraid of.\" Mears notes that the virus is a contagion of touch. So the littlest things people touch and interact with, including each other, are potential harbors for infection. The problem, Mears says, is the carriers and the number they will potentially infect, the R-naught number. Flu is usually one person. Polio, pre-vaccine, was between four and six. Until they know more, this virus' R-naught number could be much greater.Two doctors, Ally Hextall (Jennifer Ehle) and David Eisenberg (Demetri Martin) go into a secure bio lab and look at the samples taken from Beth's body among others. Hextall says they need to send it to Dr. Ian Sussman (Elliott Gould). Ian is another doctor in a less secure bio medical facility then theirs. He is leaving when he is accosted by Allen about accusations that this virus is being manufactured as a potential profiting scheme by drug companies. Sussman tells him to make an appointment and insults Allen's journalism saying, \"Blogging is graffiti with punctuation.\"DAY 7Cheever is met at the CDC doors by Homeland Security agents. He is briefed by their liaison, Lyle Haggerty (Bryan Cranston). Homeland Security believes the virus might be a terrorist action as it is the only way terrorists have not tried to kill people. Cheever is intrigued by the theory but unconvinced. Haggerty mentions that someone could try to weaponize the Avian flu but Cheever counters that by saying, \"They don't need to. The birds are doing it for us.\"A news report states that the school Clark attended is being closed after three nurses and two other children die. A panic starts to form.Mears goes to the AIMM offices where Beth worked. Many interacted with Beth before she left the country for China, so their fears are assuaged by Mears. Mears notes none had direct contact with Beth after she came home. One remembers Eric Barnes, another co-worker, drove her home from the airport. Mears calls him as he is on a bus. She tells him to get off as he is infected. He waits at the stop until Mears arrives with a containment crew.Meanwhile, Mitch is being asked by a doctor about Beth. Mitch knows little of substance. The doctor asks about her Chicago layover, and if Beth knew anyone there. Mitch mentions that his wife was with John Neal before they married. Realisation hits Mitch. He asks if Neal is infected. The doctor is resistant but eventually nods. Mitch is stunned that his wife was cheating on him with her former boyfriend.Hextall and Eisenberg give a briefing to Cheever about the virus sample taken from Beth's body. It latches onto the host cell, taking over completely. The body doesn't know what to do and the virus continues to attack. They noticed there are traces of bat and pig in the virus DNA code so it mostly originated from an infected bat. Understanding the severity of the issue, Cheever orders Sussman to be shut down and their secure lab is the only place where research will be done. Hextall calls Sussman and reluctantly tells him to shut down and destroy his samples.DAY 8Cheever briefs the CDC on the outbreak on cases of the virus worldwide. The numbers of infected reach 80,000+ and could reach as high as 267,000.Allen continues to blog about the virus and how the government is conspiring with the drug companies to turn a profit on tragedy. He claims that a drug is available to treat the virus, but it is being suppressed by the CDC.Meanwhile, Dr. Orantes goes to Hong Kong. Her job is to track the movements Beth made while there. Her liaison is Sun Feng who is ambivalent as Hong Kong being the focal point of the viral outbreak but Orantes concludes it is Beth that started it all. After hearing several workers at a casino got sick where Beth attended, Orantes tells Feng to get tapes of the security footage. Feng mentions his rural village where he grew up is infected and his mother is sick.Meanwhile, Dr. Sussman defies orders and runs some further tests on the virus samples.DAY 12Hextall briefs Cheever on Sussman's findings. He was able to make a stable cultured version of the virus. He was able to do it by growing it in a particular bat cell line they didn't have. Now that they know what they are up against, they can start developing and testing vaccines. Cheever is outraged that Sussman defied orders. Realizing he might publish his results, Cheever asks what he wants. Hextall says he just wants credit for his work. He could have given the work to drug companies and made a fortune but he gave it to the CDC instead.The news report on the virus, now called MEV-1 and crediting Sussman for discovering the findings. The news stresses that government states that it will take potentially months for a full vaccine to be ready.Allen is contacted by a news source. They want him to continue his investigations on MEV-1 and the government's alleged involvement with the problem. Allen agrees.Back in Minnesota, still in quarantine, Mitch asks Mears if he is immune since he has not shown any symptoms and he also asks why they cannot use his blood to make a vaccine. Mears tells him even though his intentions are noble, plasma vaccines are tricky and time consuming to make and are not guaranteed to work. Mears then travels to an inside stadium where they will place a triage center. Mears tells her liaison she will need three more locations like it. Mears calls Cheever. Cheever asks if she is fine.Mitch is at home with Jory when there is a knock at the door. It is a boy Jory likes, Andrew. Andrew has come to pay his respects with flowers for the deaths of Beth and Clark. Mitch says that while he is touched by the gesture, he cannot let him in because he could infect them. Jory is crushed, but Mitch tells her they have to be very careful.We see security footage of Beth in the Hong Kong casino, enjoying herself with several people. She is playing a casino game when she is asked by a man, the Japanese businessman who died on the bus, to blow on his chip for good luck. She does so.DAY 14Dr. Mears wakes up in her hotel room coughing. She goes into the bathroom and takes her temperature, praying to God that she is not infected. But all her symptoms point to it. She calls the front desk and tells them to track down everyone who serviced her room. Mears calls Cheever and tells him she's infected. Cheever says he will do everything he can to get her home, but she should stay in her room for now. They hang up and Cheever is stunned that Mears is infected. He sent her there, so he feels responsible.Meanwhile, Mitch goes to a funeral home and learns that because his wife and son died due to the virus, the funeral home will not accept the bodies for burial. Mitch is shocked but the funeral director says there is nothing they can do. Mitch talks to his mother-in-law and discusses cremation but the mother in law wants her family to be buried together. His mother-in-law said Beth made mistakes by cheating but she did love Mitch. He has to forgive her. Jory texts Andrew, telling him how sad her dad is.We see more security footage of Beth in the Hong Kong casino. She calls John Neal saying she can get an earlier flight so they can meet up. She accidentally leaves her phone at the bar and a woman picks it up and hands it to her. It was the European model that was found dead in London. We see a table where she had sat and had drinks with several people. A waiter picks up the glasses. It is the young man that later died. That is how Beth infected them both.Orantes realizes that Beth is \"Patient Zero\" for the entire outbreak. Orantes asks about Feng's mother. Feng says she died. Orantes says she is sorry. They go to leave and Feng makes a call. On the way to their destination, Feng pulls her out of the car into a van at gunpoint. He tells her that his village is dying, and he and his friends are going to hold her for ransom for the vaccine doses when they are first produced. Orantes sees the remaining villagers. Most are children.Cheever attempts to get Mears out of Minnesota but hits roadblocks on every turn. The transport he was going to use is being used for a Congressman, as he learns from Haggerty. After that, all air travel is grounded. Haggerty tells Cheever there are plans in place to quarantine Chicago, but he is to tell no one until the government makes it public. The president is being moved underground, and congress is working online. There is nothing Cheever can do.Meanwhile, Allen is blogging live. He is apparently sick with the virus. He shows he is taking the homeopathic remedy Forsythia, and dips it into his water and drinks it. He tells his audience that if he is here tomorrow then it worked.Cheever speaks to his wife Aubrey (Sanaa Lathan) and tells her how bad he feels Mears is going to die and there is nothing he can do. Cheever then tells her to leave Chicago and not tell a soul where she is going. As he hangs up, he sees that Roger was standing there the whole time. Roger is disgusted with Cheever noting everyone has loved ones.Aubrey goes shopping for supplies when she is called by her friend whom she was supposed to meet for dinner. Aubrey reveals the real reason she can't come, urging her to not repeat it to anyone.DAY 18Around the U.S. people are listening to Allen and are lining up for the drug to suppress MEV-1 that Allen has alleged works. However, demand becomes insatiable and people begin to riot and loot all over the country.Mitch goes for groceries with Jory in a looted store. A woman coughs nears him and he tells Jory they need to leave. They get to the car without food. They attempt to leave the state but the National Guard is shutting down the roads. Even though they are not infected, no one is getting through. They are forced to turn around and go back home.Allen has been running around town in a bio suit seeing the destruction and decline of human civilization in the aftermath of the outbreak. He gets home to see Lorraine there, begging for the medicine he says helps, because she is pregnant. Allen says he has none due to a break-in, but he will get her some as soon as possible.Meanwhile in Minnesota, Dr. Mears is being told she cannot be moved out. She is laying on a cot in a triage center and very close to death. Next to her, a man is complaining of being cold, but the triage center has run out of blankets. Mears attempts to comfort him and give him her coat but cannot reach far enough. It falls right next to her bed as she shudders.Some hours later, Mears is shown in a translucent plastic bag. She is dead. Her liaison, Dave is nearby, holding flowers, trying his best to pay his respects considering she will be part of a mass grave. Dave notes they ran out of body bags days ago and they attempted to get some from Canada but they were unwilling to help.Dr. Cheever goes on TV with Dr. Gupta talking about the virus and its implications. Cheever notes coordination is a problem because each state has its own health organization and protocols. Allen is also on via satellite and when it is his turn to speak he goes on the attack, blaming the CDC and WHO for being in bed with the drug companies. Allen surmises that up to 1 billion people could actually be infected and/or die before it is over. He also reveals that Aubrey's friend posted on Facebook about him warning her to leave Chicago. Cheever cannot respond.Cheever talks to Haggerty. Haggerty says he has now just become a scapegoat. Furthermore, they have no choice to investigate the claims he leaked sensitive information to his wife. Cheever nods, understanding.DAY 21Eisenberg gets an email in the lab. A sample of a mutated strain of the MEV-1 virus has arrived from Africa; this strain is even more deadly. The death toll is rising into the hundreds of thousands all over the continent.Eisenberg and Hextall begin animal trials with monkeys to test vaccine variants. None work. They wind up bagging up a bunch of dead monkeys.We see the world practically abandoned at this place. Empty streets, airports, gyms etc. Everyone is staying in, afraid. The end of the world has begun.We see posters of Allen posted around the cities. One says prophet. The other says Profit (probably signifying he too is in it for the money).We see a shrine for Lorraine. She and her child died. Allen looks at it stoically. He apparently was unable to get her medicine in time (or possibly did nothing).DAY 26Mitch goes for an MRE handout when they announce they have run out. Riots ensue, and Mitch saves a woman from getting her food stolen. Mitch goes home and looks outside. He hears gunshots in his neighbors house. Looters come out holding rifles. They apparently killed the family inside. Mitch tries to call 911, but gets the runaround with an automated message. He hangs up.DAY 29Mitch goes around his neighbors to look for them. Finding none, he breaks into one of their homes and steals a shotgun for his and Jory's protection. When he gets home he sees Jory is gone and notices footprints in the snow moving away from the house. Jory is with Andrew making snow angels. Andrew tries to kiss her saying she is immune and he is healthy so there should be no problem. Just before he does, Mitch comes up and pulls him off her, telling him to go home. He tells Jory to get up and they go home.Back at the CDC lab, Hextall is talking to Cheever. She notes even with a complete vaccine it would take months for it to be viable for use, and many more would die in the meantime. Hextall notices the monkey treated with vaccine #57 has no symptoms. Vaccine #57 successfully protected the monkey from infection. Deciding to be proactive, she injects herself with the vaccine. She seems to be fine and goes to the hospital to visits her infected father. She refers to the Nobel prize winning research done by Barry Marshall where he intentionally infected himself with H. pylori to prove that stomach ulcers were caused by the bacterium. She tells him she has given herself the vaccine and spending time with him is the test to see whether it may protect humans. Her father cries, proud of his daughter and her work.We see another news report. The cure has been fast-tracked for approval and production. The first batch can be ready in about 90 days. The current death toll worldwide from the virus is estimated to be 26 million.DAY 131Aubrey is at home when it is broken into by looters. They want the MEV-1 Vaccine and think Cheever has it. Aubrey says 'no', they had to wait like everyone else. Cheever rushes home just as the looters flee. Aubrey was not killed. Cheever is afraid they touched her (as they are just about to receive the vaccine) but Aubrey denies it.Allen goes to see his news contact. Allen is still adamant that the vaccine should not be used. He has 12 million people who listen to him every day. Allen sees a garbage man and gets paranoid. He runs off. He was right to do so. His contact sold him out to the police in a sting operation. He is being arrested for securities fraud and manslaughter (probably for Lorraine) among other things.DAY 133Haggerty goes on television doing a vaccine lottery. Since they do not have enough yet they will hold lotteries using birthdays to see who gets it first.Cheever finds Hextall on a computer and tells her to take a break. Hextall says she cannot, not when he is being investigated, Mears died, and her father nearly died treating the sick. She clearly feels she doesn't deserve all the credit. She had plenty of help.Back in Minnesota, Mitch and Jory watch the lottery. Her birthday didn't come up so she is stuck in isolation for 144 days. She relates her woes to Andrew via text messaging.Back in Hong Kong, in Sun Feng's village, Dr. Orantes is slowly adjusting to her captivity. She is seen teaching an art class to a group of young children. Just then, Feng pulls her away and tells her that the authorities have caved into his demands and it's time to make the exchange. They meet the contact on a deserted freeway near Hong Kong. 100 vaccine shots for Orantes. Orantes is finally freed as she leaves with her contact and Feng and his men leave to go back to the village with the vaccines. At the airport, her contact reveals the vaccines they handed over were ordinary flu virus placebos and he gives her an injection of the real one. The Chinese told them to do it. This kind of action has apparently been happening all over the world with desperate people holding doctors and other VIPs for ransom in order to receive the vaccine, but governments don't cater to terrorists. Orantes is horrified that they would condemn a village of mostly children to death and runs off... perhaps to catch her flight home, or perhaps back to the village.Mitch goes to a nearly deserted shopping mall, being stopped at several checkpoints to make sure he is immune by scanning his vaccination bracelet. It is unclear whether he really received the vaccine or simply the bracelet after he was assumed to be immune.In a police interrogation room, the lead detective tells Allen they looked at his blood work. He was never sick with the virus; he has no antibodies to it. He lied about his condition. And now he has millions of people against the vaccination that could save them, instead using a drug that probably doesn't work at all. They are going to charge Allen with fraud put him in jail and his money he made ($4.5 million) will be locked away too. The detective says to Allen, \"If I could lock up your computer too, I would!\" Just then, another cop comes in. Allen apparently has posted bail with help from his millions of followers. A smug Allen leaves the police station, defiant and unapologetic to the end about his actions.Cheever is presented two doses by Haggerty. One for him, one for his wife. Cheever says his wife will want to do them together. Instead, he gives one to Roger's son. Cheever explains where shaking hands originated; \"It came from showing you didn't have a weapon in your hand and you meant no harm\". Roger thanks Cheever, then shakes his hand. Cheever puts on the vaccine bracelet to keep the charade going. He goes home and gives the other shot to his wife.DAY 135Allen is seen back on the street resuming his video blog of video taping long lines at vaccination centers and then going back to his apartment to make more lies and groundless accusations about the U.S. government being responsible for the origins of the MEV-1 virus for personal profit to his millions of duped Internet followers.Things finally seem to be slowly getting back under control as worldwide looting and anarchy begins to wear off. The death toll from the outbreak is declining and people are slowly getting back to their regular lives. Hextall and Eisenberg are seen in the lab putting the MEV-1 virus into long-term liquid nitrogen storage next to some other nearly eradicated virus cultures, hopefully never to be seen again.Jory finds a box in her room from her father telling her to be ready at 8:00 pm. Inside there is a dress. Mitch is in the bedroom, looking for his camera, when he turns it on and sees pictures of Beth during that final business trip that cost her her life. He breaks down crying. Jory goes downstairs and sees her father has made up the living room for a makeshift prom night since she is unable to leave the house yet. The doorbell rings: it is Andrew, who got the vaccine and is now sporting his vaccination bracelet proudly - they can finally be near each other. He is going to be her date for the night. Mitch goes downstairs to take pictures of Jory and Andrew. Mitch watches them dance. In that moment, there is hope for the future.A final flashback occurs. We finally see what caused the global pandemic. A construction crew from Beth's company AIMM was cutting down trees in a forest in China. That caused some bats to fly out. One bat was infected with the virus. It grabbed a piece of banana and perched above a pig's pen. It dropped the banana piece which we are to assume had the virus on it. A pig eats it and is eventually slaughtered at market for food. A chef handles the dead pig, touching the inside of the infected pig's mouth with his bare hands. He goes out to dining room and poses in a picture with Beth holding hands, transferring the virus to her and starting the chain of events.An end title states it is Day 1....",
+  "imdb_score": 6.8
+}

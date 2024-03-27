@@ -1,0 +1,234 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/5IbE8joIeUUowIVC2TNsyAd0nFv.jpg",
+  "id": 290,
+  "title": "Barton Fink",
+  "poster_path": "https://image.tmdb.org/t/p/w500/hazd5nnOvjYEYYM6cSXFM3avTht.jpg",
+  "release_date": "1991-08-01",
+  "vote_average": 7.5,
+  "vote_count": 1566,
+  "popularity": 17.344,
+  "overview": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+  "imdb_id": "tt0101410",
+  "budget": 9000000,
+  "homepage": "",
+  "revenue": 6153939,
+  "runtime": 117,
+  "tagline": "There's only one thing stranger than what's going on inside his head...what's going on outside.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    "Working Title Films",
+    "Circle Films",
+    "20th Century Fox"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "John Turturro",
+        "character": "Barton Fink",
+        "profile_path": "https://image.tmdb.org/t/p/w185/63zA58rSyJxBMLBdgeMjjETmpDQ.jpg"
+      },
+      {
+        "name": "John Goodman",
+        "character": "Charlie Meadows",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+      },
+      {
+        "name": "Judy Davis",
+        "character": "Audrey Taylor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9IBUY8cachbrlpabqHmeHjVcsYX.jpg"
+      },
+      {
+        "name": "Michael Lerner",
+        "character": "Jack Lipnick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2b1PLnbBU1zdz06AXNGSAo226Is.jpg"
+      },
+      {
+        "name": "Tony Shalhoub",
+        "character": "Ben Geisler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1zfBSuAmOr1xXjNg4WzFWPm5B0Z.jpg"
+      },
+      {
+        "name": "John Mahoney",
+        "character": "W.P. Mayhew",
+        "profile_path": "https://image.tmdb.org/t/p/w185/paVSw7Brdp6MKa2j4UPukA0KHs3.jpg"
+      },
+      {
+        "name": "Jon Polito",
+        "character": "Lou Breeze",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4HjxMy4Ir2dWz7ycX5l3sgxOY4g.jpg"
+      },
+      {
+        "name": "Steve Buscemi",
+        "character": "Chet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lQKdHMxfYcCBOvwRKBAxPZVNtkg.jpg"
+      },
+      {
+        "name": "David Warrilow",
+        "character": "Garland Stanford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vbVVpDTz172DPT4fQQOK4CB6p9O.jpg"
+      },
+      {
+        "name": "Richard Portnow",
+        "character": "Det. Mastrionotti",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uQZ3vSa2HHXywkDjGY8dN0oH5oY.jpg"
+      },
+      {
+        "name": "Christopher Murney",
+        "character": "Det. Deutsch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kvQoimcKxNX5ow2yOmwK0UnmkKv.jpg"
+      },
+      {
+        "name": "I.M. Hobson",
+        "character": "Derek",
+        "profile_path": ""
+      },
+      {
+        "name": "Meagen Fay",
+        "character": "Poppy Carnahan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/scvzl6Ym40hdIx8yYBOw9TrlXPM.jpg"
+      },
+      {
+        "name": "Lance Davis",
+        "character": "Richard St. Claire",
+        "profile_path": "https://image.tmdb.org/t/p/w185/csHtRg0Ivlt2vJBXpn3NkVWveOL.jpg"
+      },
+      {
+        "name": "Harry Bugin",
+        "character": "Pete",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Gordon",
+        "character": "Maitre D'",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Denbo",
+        "character": "Stagehand",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9pCTzwxWN6423O0mQ77OzDCQ6tO.jpg"
+      },
+      {
+        "name": "Max Grodénchik",
+        "character": "Clapper Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7OqXbOYUytuWwkvEEJG31RpsSuE.jpg"
+      },
+      {
+        "name": "Robert Beecher",
+        "character": "Referee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8uYs1ZA7aQhx5UneheV19QkMv89.jpg"
+      },
+      {
+        "name": "Darwyn Swalve",
+        "character": "Wrestler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dGTL4h5dyXUVq2OCADVh5LeeA3b.jpg"
+      },
+      {
+        "name": "Gayle Vance",
+        "character": "Geisler's Secretary",
+        "profile_path": ""
+      },
+      {
+        "name": "Johnny Judkins",
+        "character": "Sailor",
+        "profile_path": ""
+      },
+      {
+        "name": "Jana Marie Hupp",
+        "character": "USO Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/imdCGTsMbd93657sPSjJuOfPBf1.jpg"
+      },
+      {
+        "name": "Isabelle Townsend",
+        "character": "Beauty",
+        "profile_path": ""
+      },
+      {
+        "name": "William Preston Robertson",
+        "character": "Voice (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6QWBYpUhzf2DY9F87eO6TfP4NZB.jpg"
+      },
+      {
+        "name": "Mamie Jean Calvert",
+        "character": "Background (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Frances McDormand",
+        "character": "Stage Actress (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r0A7hZsM1zuavTr0jN7bwmBcliR.jpg"
+      },
+      {
+        "name": "Bubba Dean Rambo",
+        "character": "Banquet Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/62MjDPJQN8vDmjPX7ybPrKn14Ay.jpg"
+      },
+      {
+        "name": "Barry Sonnenfeld",
+        "character": "Page Calling for Barton Fink (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n6y6vaAFfSqsJodgkwTxAey4NoG.jpg"
+      },
+      {
+        "name": "Vincent Tumeo",
+        "character": "Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vDrBWq6D6CHiEEhBsg8PuMszaaH.jpg"
+      },
+      {
+        "name": "Rob Wegner",
+        "character": "Police Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Linda Wood",
+        "character": "Secretary to Head of Movie Studio (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "William H. Macy",
+        "character": "Navy Sailor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r8L4rJlEZXKo91nJjoMXaMHHt0P.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Joel Coen",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rgVaJNkZCgMarUcZuUAsVfXMWk3.jpg"
+      },
+      {
+        "name": "Ethan Coen",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ccvoiEe3gEMAth1Oy8SJxVeMcAk.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "hotel",
+    "screenplay",
+    "mass murder",
+    "movie business",
+    "screenwriter",
+    "neighbor",
+    "los angeles, california",
+    "neo-noir",
+    "1940s"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+    "In the wake of his early but undeniable theatrical success in Broadway, the idealistic author of the proletariat and self-pitying 1940s New York playwright, Barton Fink, finds himself lured to dazzling Hollywood to write scripts for eccentric Jack Lipnick's Capitol Pictures. But, instead of writing a story pivoting around the common man, Fink's first screenplay turns out to be a Wallace Beery wrestling movie, and, before he knows it, he develops a severe case of writer's block. Now, holed up in the seedy, run-down Hotel Earle, before his silent Underwood typewriter, Barton comes to realise that his only hope to meet the deadline is to take inspiration from the burly insurance salesman living next door, Charlie Meadows, and the unassuming secretary, Audrey Taylor. In the meantime, the suffocating stranglehold of artistic bankruptcy tightens. Does self-destructive Barton Fink have the stomach for confronting Hollywood's bitter reality?—Nick Riganas",
+    "The film opens in New York City during the year 1941. Barton Fink is a novice Jewish-American playwright, who has just had his first great success at the Broadway stage. He wrote a play about the struggles and aspirations of common fishmongers. He aspires to write more plays about the lives of the working class, as he finds them more interesting than the kings and the aristocracy. His agent instead convinces him to sign a lucrative screenwriting contract with Capitol Pictures, a Los Angeles-based film studio. Fink settles into the life of a hack writer, though he is not truly suited for the job. His first assignment is to work on the script of a B-Movie about wrestling, though he does not even know the basics about this form of entertainment. Fink becomes a long-term resident of the Hotel Earle, a decaying relic of the art deco era. Feeling lonely, Fink befriends his next door-neighbor, the insurance salesman Charlie Meadows. He views Meadows as a typical working stiff, but he likes sharing drinks with him. Fink seeks writing advice from the experienced novelist and screenwriter W. P. Mayhew, but soon realizes that the man is an abusive alcoholic whose career has declined. Fink finds a love interest in Audrey Taylor, Mayhew's personal secretary, long-term mistress, and the ghost writer behind most of Mayhews' recent works. After Taylor is murdered in Fink's bedroom, a traumatized Fink becomes increasingly emotionally dependent on Meadows. Shortly after, two police detectives inform Fink that Meadows is actually wanted serial killer Karl Mundt, who typically decapitates his victims. Fink slowly realizes Meadows' hidden agenda, while finding himself out of favor with his boss at the film studio.—Dimos I",
+    "In 1941, New York intellectual playwright Barton Fink comes to Hollywood to write a Wallace Beery wrestling picture. Staying in the eerie Hotel Earle, Barton develops severe writer's block. His neighbor, jovial insurance salesman Charlie Meadows, tries to help, but Barton continues to struggle as a bizarre sequence of events distracts him even further from his task.—Scott Renshaw <as.idc@forsythe.stanford.edu>",
+    "Barton Fink is a troubled New York playwright obsessed with bringing his new idea of \"Theater of the Common Man\" to the producers he loves to hate. After his first budding success his agent convinces him to travel to Los Angeles to write for Capital Pictures. When he arrives he checks into the dark Hotel Earle and meets with Capital Pictures President Jack Lipnick, who tells him of the movie he's writing: a B-Movie wrestling picture for Wallace Beery. Fink travels back to his hotel room to begin, but when he arrives he types one sentence and then falls into the horror of writer's block. He tries getting help from his neighbor, \"Common Man\" Charlie Meadows; famed writer Mayhew; Mayhew's girlfriend Audrey and producer Ben Geisler. But as Fink drifts further away from his script strange things start happening, and eventually two detectives show up at his door...—Monte_Man167"
+  ],
+  "synopsis": "Barton Fink (John Turturro) is a playwright who while he's just released his first play on Broadway garnering good reviews, he doubts his own talent. He gets called to Hollywood to write screenplays, and accepts. He checks in at the Earle, a huge hotel with an eerie atmosphere where Chet (Steve Buscemi), the receptionist and manager, welcomes him and gives him his key.At the Earle, everything seems to disturb Fink: First it's the noise of the neighbouring guest. Then there's the picture of a woman at the beach in his room, and he seems to hear the sound of crashing waves. To add to his disquiet, Fink is blocked, and cannot get past the first few sentences of his work. He takes to correcting the peeling wallpaper, which is constantly falling off because of the heat. A mosquito bites him, which his future boss will notice in his job interview. Fink also complains about the laughter and crazy cries of a male's voice.Jack Lipnick (Michael Lerner), the boss of Universal Pictures, refuses to define his movies as b-movies. He's loud and pushy, and his timid secretary, Garland Standord (David Warrilow) used to be a big shot but now he's basically a butler to a crazy boss á la Miranda Priestly in The Devil Wears Prada. Lipnick decides that Fink is going to write a film about boxing starring Wallace Beery, but Fink seems paralyzed in the face of his situation. Nevertheless, the Universal deal is all set, and Fink sets out to write. He asks for help from Ben Geisler (Tony Shalhoub), who calls Universal and tells them to offer some images of another movie -- still on the montage board -- to inspire Fink, but it doesn't work.Back at the hotel, the wallpaper is peeling off and the heat is overwhelming. The noisy neighbour Fink complained about, insurance salesman Charlie Meadows (John Goodman), apologizes for the noise, adding that he's quite successful at his work. He advises Fink to look for inspiration to any of the many successful writers residing in Hollywood. There is a weird mishap with their shoes, which are switched after they'd left them outside their rooms. They exchange shoes again.Fink talks to W. P. Mayhew (John Mahoney) -- a writer with a serious aim in mind whom he admires -- who tells Fink that he has been offered every kind of film possible. Mayhew drinks a lot, and invites Fink over. When Fink passes Mayhew's secretary and personal assistant Audrey Taylor (Judy Davis), she tells him to call on Mayhew some other time, as Mayhew is completely drunk, demanding to know where his honey is, and will probably become quite violent.Meadows tells Fink that he's had a terrible day at work, and that he's going to be moving back and forth to and from New York. Fink gives him the address of some relatives of his to visit.As Fink's block continues, he is faced with the fact that he needs to present a first draft the next morning. Unable to write, he calls Audrey in desperation to ask her whether she found an old script of Mayhew's about boxing. Even though he can hear Mayhew rambling on the background, he insists that she call on him. She does, eventually, and they end having sex in Fink's suffocating room.The next morning, Barton wakes to the buzz of the mosquito. When he smashes it against Audrey's skin, he notices more blood than usual: Audrey is dead, and a huge bloodstain spreads on the mattress. Fink panics and asks for help from Meadows, who tells him that he'll take care of everything and that Fink should go to his meeting with Lipnick. Geisler is panicking now, because he doesn't want to have his head cut off if Fink doesn't perform.While Fink knows that he's written nothing so far, he tells Lipnick that he doesn't usually show anything to anybody until he's finished. When Stanford says that Fink is unacceptable, Lipnick tells Stanford to kiss Fink's feet to ask for his forgiveness. When Fink returns to the Earle, it is empty. Charlie says that he's leaving for New York and leaves all his most prized possessions in a box in Fink's hands.Two detectives, Mastrionotti (Richard Portnow) and Deutsch (Christopher Murney) appear asking for Charlie Meadows, whose nickname is Mad Mutt, a psychopath who cuts his victims' heads off. Fink gives them useless data, so they're are really angry with him and leave their card with him.Fink has been talking to the detectives at the entrance of the Earle. He comes back to his room, watches the blood-stained matress, shakes the box to hear the sound of the cut-off head, and suddenly has a burst of inspiration and sets out to write like a maniac, keeping the box unopened on his desk. He writes the entire screenplay of a boxing film and gives it to Lipnick, goes out dancing to celebrate, and gets into a fight with a sailor over his girl. Mayhem ensues and Army and Navy soldiers fight.When Fink comes back to his hotel room, he finds that the detectives are already in and have seen the bloodstain. They ask where the heads of the victims are, but Fink says he doesn't know. They handcuff Fink to the bed because they believe that Charlie is coming back. At that moment, Charlie appears. There is smoke rising from the elevator, and soon everything is burning down. Charlie shoots, killing one of the detectives and wounding the other. He tells Fink that he couldn't stand his complaining about him and that Fink has been a voyeur to the seedy side of life while Charlie lives it all the time. Charlie releases Fink from the cuffs and enters his own room while the hotel burns down.Fink meets Lipnick, who's dressed as a colonel as he's been put on reserves because of the war, and who says that the script is rubbish: he doesn't want any of the psychotrash Fink has written; he just wants just one or two brushstrokes so that the critics give the film good reviews, but ultimately all he wanted was a b-film without much originality but with many long fights. He tells Fink that he's not really special or talented, and that the studio has hundreds of writers on contract that will give its films the Barton Fink touch: a slice of middle-class life. Lipnick tells Fink that he wants Fink to stay in Hollywood. While Fink is forced by contract to give everything he writes to Universal, nothing he'll write will ever see the light of day. He doesn't even try to fight the situation.At the end, Fink is walking along the beach. He meets a girl. She sits and then looks out toward the water, looking exactly like the picture in Fink's hotel room as the credits roll.",
+  "imdb_score": 7.6
+}

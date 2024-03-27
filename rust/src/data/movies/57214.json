@@ -1,0 +1,317 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/7bjSK3jQZf7lwEcwsux7Lso5eWi.jpg",
+  "id": 57214,
+  "title": "Project X",
+  "poster_path": "https://image.tmdb.org/t/p/w500/lUPDGT3lyRrq8SvWuNWG2DP64bR.jpg",
+  "release_date": "2012-03-01",
+  "vote_average": 6.852,
+  "vote_count": 6009,
+  "popularity": 70.538,
+  "overview": "Three high school seniors throw a party to make a name for themselves. As the night progresses, things spiral out of control as word of the party spreads.",
+  "imdb_id": "tt1636826",
+  "budget": 12000000,
+  "homepage": "https://www.warnerbros.com/movies/project-x",
+  "revenue": 102731865,
+  "runtime": 88,
+  "tagline": "The party you've only dreamed about.",
+  "genres": [
+    "Comedy"
+  ],
+  "production_companies": [
+    "Silver Pictures",
+    "Green Hat Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Thomas Mann",
+        "character": "Thomas Kub",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cJO10vU19SL82pgMB6LdAijDSJv.jpg"
+      },
+      {
+        "name": "Oliver Cooper",
+        "character": "Costa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dZyCpnWaW7gkTWOyhGUgg1xy19y.jpg"
+      },
+      {
+        "name": "Jonathan Daniel Brown",
+        "character": "JB",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xDsPJNDnrn3N0jelVrxdOchzhoo.jpg"
+      },
+      {
+        "name": "Dax Flame",
+        "character": "Dax",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zbGGWLa02rIPSnFL9V5A6PFhpBz.jpg"
+      },
+      {
+        "name": "Kirby Bliss Blanton",
+        "character": "Kirby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ocjvHecG7af2WxqUbZhWg6o4ZC9.jpg"
+      },
+      {
+        "name": "Brady Hender",
+        "character": "Everett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/diYYejeaDe6SF6oOpLoTfCYxCGO.jpg"
+      },
+      {
+        "name": "Nick Nervies",
+        "character": "Tyler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zTKeeCxb5VemjVL9v9EQNJ03Jmp.jpg"
+      },
+      {
+        "name": "Alexis Knapp",
+        "character": "Alexis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dgbhsyMfvDzB4dB2TcA1tDYdwGh.jpg"
+      },
+      {
+        "name": "Miles Teller",
+        "character": "Miles Teller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cg3LW0xX6RKr8dmescxq1bepcb5.jpg"
+      },
+      {
+        "name": "Peter MacKenzie",
+        "character": "Dad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cIh0AFTpukyo7O7I4AeWpGnFpic.jpg"
+      },
+      {
+        "name": "Caitlin Dulany",
+        "character": "Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cV9L0433IwPa90Op9negB0zC1wM.jpg"
+      },
+      {
+        "name": "Rob Evors",
+        "character": "Rob",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uQaCxyJ0I5RQ5deXCBGEY4Nh3ap.jpg"
+      },
+      {
+        "name": "Rick Shapiro",
+        "character": "T-Rick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u4AghXYJsRANpotasj9jfk25WsW.jpg"
+      },
+      {
+        "name": "Martin Klebba",
+        "character": "Angry Little Person",
+        "profile_path": "https://image.tmdb.org/t/p/w185/schnhMaXtfv5EC7EJODTgMcfzPe.jpg"
+      },
+      {
+        "name": "Pete Gardner",
+        "character": "Older Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/76GF2TxPsrioQKa6xxfmyfTNI2P.jpg"
+      },
+      {
+        "name": "Nichole Sakura",
+        "character": "JB's Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j7QUSfmbUNR89imZs3ZOt4tW2uH.jpg"
+      },
+      {
+        "name": "Sam Lant",
+        "character": "Freshman Party Crasher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/63Mcp7I3PVqtQe5lre00qqver8X.jpg"
+      },
+      {
+        "name": "Henry Michaelson",
+        "character": "Freshman Party Crasher",
+        "profile_path": ""
+      },
+      {
+        "name": "Brendan Miller",
+        "character": "Brendan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u7IE43miwP00JCSnIKDq8tHg0zI.jpg"
+      },
+      {
+        "name": "Brent Tarnol",
+        "character": "Locker Room Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cXL8lbkURt0slxkvmYDgZEqMlB7.jpg"
+      },
+      {
+        "name": "Kyle Kwasnick",
+        "character": "Locker Room Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "David Sanchez",
+        "character": "High School Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Ayydé Vargas",
+        "character": "High School Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Chelsea Carbaugh-Rutland",
+        "character": "High School Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Zach Lasry",
+        "character": "High School Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael C. Stretton",
+        "character": "High School Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Harbour",
+        "character": "High School Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Allan Chanes",
+        "character": "High School Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Holden Morse",
+        "character": "High School Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Raz Mataz",
+        "character": "Partygoer",
+        "profile_path": ""
+      },
+      {
+        "name": "Briana Mari Wilde",
+        "character": "Partygoer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jarod Einsohn",
+        "character": "Partygoer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/81Se6VlfdOI5XKvgwCBbfFaUwWz.jpg"
+      },
+      {
+        "name": "Chet Hanks",
+        "character": "Party Goer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rk4WtugPbBHtx9FtsC4spM89kMY.jpg"
+      },
+      {
+        "name": "Julian Evans",
+        "character": "Partygoer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jesse Marco",
+        "character": "DJ",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gHbpxrh0ELHNKqmwu0DlzaCg7Cc.jpg"
+      },
+      {
+        "name": "Chic Daniels",
+        "character": "Police Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Dunigan",
+        "character": "Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zJaDx9wjjWvh9OxcxlJ33wNwtdg.jpg"
+      },
+      {
+        "name": "Colleen Flynn",
+        "character": "Mrs. Stillson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nFO6Nn4hatGACowlN2gqGhUXeXh.jpg"
+      },
+      {
+        "name": "Sophia Santi",
+        "character": "Hispanic Neighbor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/21742a5rDxKSwNWYKrJj1YR1cJK.jpg"
+      },
+      {
+        "name": "Jodi Harris",
+        "character": "Older Guy's Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2VohOdYnLvRjH8te9UmLCcLTGSg.jpg"
+      },
+      {
+        "name": "Frank Buckley",
+        "character": "Channel 6 Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4SMbHSA11iRtQ002yvZcBtTcETl.jpg"
+      },
+      {
+        "name": "Serene Branson",
+        "character": "Channel 8 Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r5uH8wcnLTedF85Bv9L2cT0PJyi.jpg"
+      },
+      {
+        "name": "Robb Reesman",
+        "character": "Police Captain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1ChpBW0Wq8H20JlHcTkWwoUpoWJ.jpg"
+      },
+      {
+        "name": "Kevin Ryder",
+        "character": "Kevin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/41OuQdelCcu6vOaoUyLKiSB4MnN.jpg"
+      },
+      {
+        "name": "Gene Baxter",
+        "character": "Bean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1kg6zpZPTrgBAOzekvpm3dLMyrs.jpg"
+      },
+      {
+        "name": "Big Boy",
+        "character": "Big Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4bhx7eZcjNW65tknD5wP3kFinhI.jpg"
+      },
+      {
+        "name": "Jimmy Kimmel",
+        "character": "Jimmy Kimmel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wVVvvIwDtCgArdp0fsmjcM2tYyr.jpg"
+      },
+      {
+        "name": "Jillian Warry Barberie",
+        "character": "Herself",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5dwHBiivcxJEWFNnpHMzwumplhA.jpg"
+      },
+      {
+        "name": "Ciara Hanna",
+        "character": "Ecstasy Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o9ZXZiAOE5FAJuvQyPIgs9xeUVA.jpg"
+      },
+      {
+        "name": "Catherine Lidstone",
+        "character": "Partygoer (Uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xB5UiSA2Ans54bMLu3QQvM5cpOx.jpg"
+      },
+      {
+        "name": "Patrick Phan",
+        "character": "Partygoer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Shawn Turner",
+        "character": "Party Jock (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Nima Nourizadeh",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s8jof2uGXSXmo0El4D1RYZaXxeL.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "high school",
+    "birthday",
+    "birthday party",
+    "house party",
+    "teen movie",
+    "high school student",
+    "fake documentary"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Three high-school seniors throw a birthday party to make a name for themselves. As the night progresses, things spiral out of control as word of the party spreads.",
+    "It's Thomas Kub's 17th birthday and all he wants to do is throw a small party with some friends to help raise his social status and maybe even get lucky. But when his best friend Costa starts calling radio stations and putting ads up on Craigslist, you can be sure that this party is going to get really out of hand really fast.",
+    "High-school senior Thomas Kub wants to have a small get-together while his parents leave town. His two friends convince him not to worry, and to invite a couple more people than intended. Once people start showing up, the party begins to spiral out of control, leading to a uncontrollable situation.",
+    "Three seemingly-anonymous high-school seniors attempt to finally make a name for themselves. Their idea is innocent enough: let's throw a party that no one will forget, and have a camera there to document history in the making. But nothing could prepare them for this party. Word spreads quickly as dreams are ruined, records are blemished, and legends are born.—Warner Bros. publicity"
+  ],
+  "synopsis": "In Pasadena, high school students Costa and J.B. plan to throw a party for their friend Thomas's birthday, aiming to increase their popularity. Thomas's parents go away for the weekend, leaving him alone in the house, but warn him not to have too many people over, and not to drive his father's Mercedes. Thomas is reluctant to have the party at his house, but Costa continues with his plan. Costa hires AV-student Dax to chronicle the night's events. Costa and J.B. advertise the party throughout the school. Thomas himself invites Alexis, the hottest girl at school, and his best friend Kirby, who has a crush on Thomas.Costa, Thomas, and J.B. go to buy marijuana from drug-dealer T-Rick. While T-Rick gets the marijuana, Costa steals his lawn gnome to use as a party mascot. As they leave, T-Rick discovers his gnome stolen and chases after them, but they escape in Thomas' mini-van. As night falls, the party's start time passes but no one turns up and Thomas worries that the party will fail.Suddenly, party-goers arrive all together. Thomas intends to limit the party to the backyard and pool house with the house guarded by two young security guards, Everett and Tyler. However, more and more people begin to arrive, and the party moves beyond their control and into the house. Thomas questions Costa on how he advertised the party, forcing him to confess that he put ads on Craigslist and on a local radio station, worried that no one would attend.As the party grows, T-Rick's gnome is smashed, revealing that it contains a large amount of ecstasy tablets, which are quickly consumed by the party-goers. The police arrive, responding to a noise complaint, but the party goers remain silent, convincing the officers that the party has already ended. After the police leave and the party resumes, Thomas kisses Kirby and reveals that he loves her. Alexis meanwhile flirts with Thomas throughout the night and eventually seduces him. Kirby walks in on the pair as they are about to have sex and leaves the party upset.The noise and chaos of the party, which has now spilled out into the surrounding neighborhood, receives televised news coverage with helicopters flying over the house. A dwarf guest drives Thomas' dad's Mercedes into the pool after being put into an oven by other party-goers.The police return in force but are overwhelmed and repelled by the guests. They decide to let the party end naturally before moving in. T-Rick arrives armed with a flamethrower in an attempt to reclaim his gnome. He begins setting fire to the trees and cars in search of Costa, forcing the guests to flee and the party to end. The police shoot his flamethrower pack, and it explodes. Thomas, Costa, J.B., and Dax flee with the other guests as Thomas' house burns and the SWAT team moves in to retake the neighborhood. The neighborhood is left aflame.By morning, the friends return to their respective homes to discover what punishment awaits them. After his parents return, Thomas' father commends him for managing to throw the party because he thought he was a loser, but he uses Thomas' college fund to pay for the damages. At school, Thomas, Costa and J.B. are cheered by the students and Thomas reconciles romantically with Kirby.In the epilogue, T-Rick is recovered alive following the explosion, Thomas is convicted for disturbing the peace, contributing to the delinquency of minors, and inciting a riot, and Costa and J.B. are acquitted; Costa because of his expensive lawyer and J.B. because his parents convince the court that he is mentally incapable and unfit to stand trial. Costa, however, is currently waiting for the results of three paternity tests. Dax, meanwhile, is under investigation for the disappearance of his parents. In an interview with Jillian Reynolds, Costa promises his next party will be even better.",
+  "imdb_score": 6.7
+}

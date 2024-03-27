@@ -1,0 +1,395 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/jQbebNCnS4Dqv8jGulLfSEmjuE7.jpg",
+  "id": 9040,
+  "title": "Serpico",
+  "poster_path": "https://image.tmdb.org/t/p/w500/c7fENg2o6SBBtL3z4V9xTAnEoDJ.jpg",
+  "release_date": "1973-12-18",
+  "vote_average": 7.544,
+  "vote_count": 1783,
+  "popularity": 16.521,
+  "overview": "Frank Serpico is an idealistic New York City cop who refuses to take bribes, unlike the rest of the force. His actions get Frank shunned by the other officers, and often placed in dangerous situations by his partners. When his superiors ignore Frank's accusations of corruption, he decides to go public with the allegations. Although this causes the Knapp Commission to investigate his claims, Frank has also placed a target on himself.",
+  "imdb_id": "tt0070666",
+  "budget": 3000000,
+  "homepage": "",
+  "revenue": 29800000,
+  "runtime": 130,
+  "tagline": "Many of his fellow officers considered him the most dangerous man alive - An honest cop.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    "Artists Entertainment Complex",
+    "Produzioni De Laurentiis - International Manufacturing Company",
+    "Paramount",
+    "Dino De Laurentiis Company"
+  ],
+  "production_countries": [
+    "IT",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Al Pacino",
+        "character": "Officer Frank Serpico",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2dGBb1fOcNdZjtQToVPFxXjm4ke.jpg"
+      },
+      {
+        "name": "John Randolph",
+        "character": "Sidney Green",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lJzBpptZD3d39y9WpNk7i7ibvOc.jpg"
+      },
+      {
+        "name": "Jack Kehoe",
+        "character": "Tom Keough",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bwsY19BaN9vF21XuH8nVZrEAplo.jpg"
+      },
+      {
+        "name": "Biff McGuire",
+        "character": "Captain McClain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/udU1EI146qn3e5VkHgs04idoL2W.jpg"
+      },
+      {
+        "name": "Barbara Eda-Young",
+        "character": "Laurie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vo7toj3kN38ZLqewvDM7RyyacQH.jpg"
+      },
+      {
+        "name": "Cornelia Sharpe",
+        "character": "Leslie Lane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cKlMj9sVOY5RdEUTMPa3Rke1788.jpg"
+      },
+      {
+        "name": "Tony Roberts",
+        "character": "Bob Blair",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s77tJx3jt2tA6zNjfikaDKswobW.jpg"
+      },
+      {
+        "name": "John Medici",
+        "character": "Pasquale",
+        "profile_path": ""
+      },
+      {
+        "name": "Allan Rich",
+        "character": "D. A. Tauber",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3dfwxm2AcwgGBlTxwl3OtQft2dS.jpg"
+      },
+      {
+        "name": "Norman Ornellas",
+        "character": "Rubello",
+        "profile_path": ""
+      },
+      {
+        "name": "Edward Grover",
+        "character": "Lombardo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mIzpFgp9hMZCccLvoA6lRNrwJfe.jpg"
+      },
+      {
+        "name": "Albert Henderson",
+        "character": "Peluce",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6MJrBpBpHYtemSHqGGeYmtkSHYT.jpg"
+      },
+      {
+        "name": "Hank Garrett",
+        "character": "Malone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rsWD0TmxSgHLFISXXqYbHVnOknL.jpg"
+      },
+      {
+        "name": "Damien Leake",
+        "character": "Joey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7E0kD9z3lSXnAxNIC4ijnsAUsgf.jpg"
+      },
+      {
+        "name": "Joseph Bova",
+        "character": "Potts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cd2wc7GRjzUkyXMHCBTo6oduyzh.jpg"
+      },
+      {
+        "name": "Gene Gross",
+        "character": "Captain Tolkin",
+        "profile_path": ""
+      },
+      {
+        "name": "John Stewart",
+        "character": "Waterman",
+        "profile_path": ""
+      },
+      {
+        "name": "Woodie King Jr.",
+        "character": "Larry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i2N89X2nBCUf5Fmiv4l48hkDRrW.jpg"
+      },
+      {
+        "name": "James Tolkan",
+        "character": "Steiger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/euEktcyVXm1pq5UBC16v3zuBq7J.jpg"
+      },
+      {
+        "name": "Ed Crowley",
+        "character": "Barto",
+        "profile_path": ""
+      },
+      {
+        "name": "Bernard Barrow",
+        "character": "Palmer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/konb8cSk0AopchAxAIOx7nL9o45.jpg"
+      },
+      {
+        "name": "Sal Carollo",
+        "character": "Mr. Serpico",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dYyaImBcHAOMxVP9xzhKEiNUtuK.jpg"
+      },
+      {
+        "name": "Mildred Clinton",
+        "character": "Mrs. Serpico",
+        "profile_path": ""
+      },
+      {
+        "name": "Nathan George",
+        "character": "Smith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cbnZvpPEzz998iEk6aO3LUcILsn.jpg"
+      },
+      {
+        "name": "Gus Fleming",
+        "character": "Dr. Metz",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Foronjy",
+        "character": "Corsaro",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zNerBPOQawN4PxT35WmqwFd9PMu.jpg"
+      },
+      {
+        "name": "Alan North",
+        "character": "Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3aMTGX3cy2siUCkxwvHbB9ovC0K.jpg"
+      },
+      {
+        "name": "Lewis J. Stadlen",
+        "character": "Berman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5BCzGntqbxu1m09G2EP5MPQuqTO.jpg"
+      },
+      {
+        "name": "John McQuade",
+        "character": "Kellogg",
+        "profile_path": ""
+      },
+      {
+        "name": "Ted Beniades",
+        "character": "Sarno",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1JmNxxxqlQINZFxKhIUix9RAI0.jpg"
+      },
+      {
+        "name": "John Lehne",
+        "character": "Gilbert",
+        "profile_path": ""
+      },
+      {
+        "name": "M. Emmet Walsh",
+        "character": "Gallagher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7qhQ8VZ8cFHV5c5y1GQ9ISTxwQZ.jpg"
+      },
+      {
+        "name": "George Ede",
+        "character": "Daley",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles White",
+        "character": "Delaney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/orT3HLIlZPlxrFjtA1F0Td8D8NG.jpg"
+      },
+      {
+        "name": "F. Murray Abraham",
+        "character": "Detective Partner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg"
+      },
+      {
+        "name": "P.J. Benjamin",
+        "character": "Man (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Don Billett",
+        "character": "Detective Threatening Serpico (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Val Bisoglio",
+        "character": "Weapons Storage Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hxHOZKWalOfKXSiYr3jEuQEiL0k.jpg"
+      },
+      {
+        "name": "John Brandon",
+        "character": "Police Lieutenant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3dshU2iQbyy1lEXDrfBt1II7MV0.jpg"
+      },
+      {
+        "name": "James Bulleit",
+        "character": "Det. Styles (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Roy Cheverie",
+        "character": "Cop (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sam Coppola",
+        "character": "Cop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wVFzWq1Nq3jdKSpZ2LPdKNMmooi.jpg"
+      },
+      {
+        "name": "Marjorie Eliot",
+        "character": "Rape Victim (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "René Enríquez",
+        "character": "Cervantes Teacher (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nZqwDRgZYvoMSZWOw3ETF1No8oV.jpg"
+      },
+      {
+        "name": "Conard Fowkes",
+        "character": "Cop - Narcotics Raid (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Gio",
+        "character": "Police Lieutenant (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Trent Gough",
+        "character": "Cop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2R0R8MhbhpzJina7CYhe48sT9EQ.jpg"
+      },
+      {
+        "name": "Paul E. Guskin",
+        "character": "Police Academy Classmate (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nick Hardin",
+        "character": "Television Cameraman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oFzKvVnIM7QqVTlurWxfzc6QaWW.jpg"
+      },
+      {
+        "name": "Judd Hirsch",
+        "character": "Cop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7rJ0TZfMoPLTcO203tHhE6tcPKP.jpg"
+      },
+      {
+        "name": "Richard Kuss",
+        "character": "Detective (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8rMMPn7CDlPFayKKZoqsI756TfW.jpg"
+      },
+      {
+        "name": "Tony Lo Bianco",
+        "character": "Cop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lF9CzAOd2UdAelotxgHOB12ce5j.jpg"
+      },
+      {
+        "name": "George Loros",
+        "character": "Det. Glover (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nf6K3hGNxVuaietWkOh1qlT8bKv.jpg"
+      },
+      {
+        "name": "Kenneth McMillan",
+        "character": "Charlie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iGRcxZOLPMCsgg06kYW1aVfxGqi.jpg"
+      },
+      {
+        "name": "Stephen Pearlman",
+        "character": "Desk Sergeant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ij2xrHgkbsYEjqs4rWq2QB2ENAe.jpg"
+      },
+      {
+        "name": "Tim Pelt",
+        "character": "Black Hood (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "William Pelt",
+        "character": "Black Hood (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jay Rasumny",
+        "character": "Television Cameraman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nLUXyuLzK6bx2hZSj99hr2w7zaW.jpg"
+      },
+      {
+        "name": "Franklin Scott",
+        "character": "Black Prisoner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Signorelli",
+        "character": "Bookmaker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pfaWtNisdGji8lO4AgfwjZCZjRu.jpg"
+      },
+      {
+        "name": "Ben Slack",
+        "character": "Detective Sitting At Desk (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gJA5r56CRyt64ZfSD1KYwRQVM4c.jpg"
+      },
+      {
+        "name": "Jaime Sánchez",
+        "character": "Cop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jqqdVlOGVNokKXz6NTrlM7cuOOr.jpg"
+      },
+      {
+        "name": "Tracey Walter",
+        "character": "Street Urchin (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/brqhinzxGKzqfAhOq6Npi3GFVWW.jpg"
+      },
+      {
+        "name": "Mary Louise Weller",
+        "character": "Sally - Girl at Party (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5SYmsari6g7xNnohwuTJWDLNf8f.jpg"
+      },
+      {
+        "name": "Judd Omen",
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ZL0ztbCS2WmN4aVRdegl0Gq16I.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Sidney Lumet",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hjj3V2DkPJ46zo5uz9bsZQzAk6R.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "corruption",
+    "hippie",
+    "police",
+    "idealism",
+    "idealist",
+    "money",
+    "undercover cop",
+    "internal affairs",
+    "police corruption",
+    "social justice",
+    "police vigilantism",
+    "whistleblower",
+    "fighting the system"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "An honest New York cop named Frank Serpico blows the whistle on rampant corruption in the force only to have his comrades turn against him.",
+    "Serpico is a cop in the 1960s-early 1970s. Unlike all his colleagues, he refuses a share of the money that the cops routinely extort from local criminals. Nobody wants to work with Serpico, and he's in constant danger of being placed in life threatening positions by his \"partners\". Nothing seems to get done even when he goes to the highest of authorities. Despite the dangers he finds himself in, he still refuses to 'go with the flow', in the hope that one day the truth will be known.—Rob Hartill",
+    "In 1960s New York City, idealistic Italian descendant Frank Serpico joins the New York Police Department and on his first day, he learns that his colleagues are dirty, sharing money received from the extortion of criminals. Serpico refuses to receive the money and reports to a superior. Along the years, his superior does not take any attitude against the corruption and Serpico is an outcast police officer, rejected by his fellows. Further, his personal life is affected and he is harassed and threatened by his colleagues. In 1971, in a drug bust, Serpico is betrayed and shot in the face. He recovers with minor consequences and testifies to the Knapp Commission about the police corruption. Finally, Switzerland gives him political asylum and he moves to that country.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "Frank Serpico is an inexperienced young cop who starts out on patrol. Later, he starts to work as an undercover cop who busts all sorts of criminals, but mostly drug dealers and pushers. Since Serpico is a young man living in the 1960s and early 1970s, he lives as one. His image, based on how others see him, shows him as just a 'hippie' and the criminals he busts have no idea he is really an undercover officer. Everything is working out well, except the money situation. Serpico refuses to accept money like the other officers do. He feels this isn't right, and wants to expose the situation. Who he thought were his friends now turn into his enemies when Serpico takes the stand on a grand jury investigation. He continues to work undercover, and his life is placed into jeopardy at the hands of his colleagues.—Anonymous",
+    "Biopic of the New York City detective whose anti-corruption efforts in the 1960s and early 1970s led to the creation of the Knapp Commission and the uncovering of widespread corruption of police officials at all levels. All his life, Frank Serpico had wanted to be a policeman. However, he learns at an early stage in his career that even the cop on the beat is somewhat corrupt, accepting free meals and the like. As he advances in his career he finds that corruption is rampant, particularly in the Plainclothes Division, where they collect more in graft that they do in salary. His refusal to take any money puts him in bad stead with his colleagues to the point that his life could be in danger. Transferred to the Narcotics Squad, he is shot by a drug dealer when his partners fail to support him. Serpico resigned from the NYPD in 1972.—garykmcd"
+  ],
+  "synopsis": "Frank Serpico (Al Pacino) covered in blood and slumped in the backseat of a police car as it races to a hospital with lights and sirens blaring. He has just been shot in the face. The rest of the movie tells the story of Serpico's career up to this moment, starting with him becoming a police officer in 1960. He is very idealistic and believes in non-brutal methods to catch criminals. Serpico also refuses to join in on police corruption, specifically that which involves shaking down and taking payoffs from gambling and drug dealing organizations. His refusal to take bribes earns him the suspicion of his fellow officers throughout the majority of the precincts to which he is assigned. Additionally, Serpico finds trouble fitting in due to his embrace of the counterculture of the 1960s: He moves to Greenwich Village, grows his hair and beard long to the point where he must maintain a plainclothes appearance, and associates with a more left-wing crowd that is distrusting of the NYPD.At first Serpico tries appealing to his bosses about the corruption, but gets nowhere. He enlists a highly-connected fellow officer, Bob Blair (Tony Roberts) in his fight against corruption, but not even he can crack the city administration's general indifference. His campaign and the resulting complications and harassment within the department take a toll on his mental health and his relationship with fiancee Laurie (Barbara Eda-Young), who ultimately leaves him. After meeting a sympathetic police inspector who agrees to assist him with both disrupting the gambling rackets and later calling attention to the problem by going to the New York Times, he is transferred to narcotics, as he has always wanted. However, he finds himself in an even more corrupt and hostile atmosphere than before, where he has mostly enemies and almost no allies due to the reputation he has garnered. As a result, he is shot in the face during a raid on a heroin lab due to his fellow officers' reluctance to come to his aid. After being left for dead and eventually discovered by two uniformed officers, the story takes over from the beginning and shows a recuperating Serpico being tended to by his family and few remaining friends as well as being anonymously harassed with hate mail.At the end of the film, Serpico testifies to the Knapp Commission on police corruption. The film ends with him waiting to board a ship; despite being promoted to detective (a lifelong ambition of his) and being decorated by the department for \"conspicuous bravery in action\" (along with the two officers who abandoned him during the drug raid) he resigns from the NYPD and emigrates to Switzerland.",
+  "imdb_score": 7.7
+}

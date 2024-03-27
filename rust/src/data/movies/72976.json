@@ -1,0 +1,754 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/q8p5JPFmdRiRcoUFKefxW1gq8Ec.jpg",
+  "id": 72976,
+  "title": "Lincoln",
+  "poster_path": "https://image.tmdb.org/t/p/w500/oOo905cttAIkHERDBya5sX6HbIV.jpg",
+  "release_date": "2012-11-09",
+  "vote_average": 6.861,
+  "vote_count": 3584,
+  "popularity": 18.758,
+  "overview": "The revealing story of the 16th US President's tumultuous final months in office. In a nation divided by war and the strong winds of change, Lincoln pursues a course of action designed to end the war, unite the country and abolish slavery. With the moral courage and fierce determination to succeed, his choices during this critical moment will change the fate of generations to come.",
+  "imdb_id": "tt0443272",
+  "budget": 65000000,
+  "homepage": "",
+  "revenue": 275300000,
+  "runtime": 149,
+  "tagline": "",
+  "genres": [
+    "History",
+    "Drama"
+  ],
+  "production_companies": [
+    "DreamWorks Pictures",
+    "Amblin Entertainment",
+    "Dune Entertainment",
+    "The Kennedy/Marshall Company",
+    "Participant",
+    "Reliance Entertainment",
+    "20th Century Fox",
+    "Touchstone Pictures"
+  ],
+  "production_countries": [
+    "IN",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Daniel Day-Lewis",
+        "character": "Abraham Lincoln",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3kNA9VcmymoEwT0btQ4bvMYxzcP.jpg"
+      },
+      {
+        "name": "Sally Field",
+        "character": "Mary Todd Lincoln",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5fBK36MdmdwQQMuP0W70rXADXih.jpg"
+      },
+      {
+        "name": "David Strathairn",
+        "character": "William Seward",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fhkvTcrCDPTAclTnE7sqQS1NZKq.jpg"
+      },
+      {
+        "name": "Joseph Gordon-Levitt",
+        "character": "Robert Lincoln",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z2FA8js799xqtfiFjBTicFYdfk.jpg"
+      },
+      {
+        "name": "James Spader",
+        "character": "W.N. Bilbo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uET0mbf2bMkUXbRb1Oxi8Qjqcw3.jpg"
+      },
+      {
+        "name": "Hal Holbrook",
+        "character": "Preston Blair",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jiO9R8Bc6wkwOWl7GvfQ9jDOq70.jpg"
+      },
+      {
+        "name": "Tommy Lee Jones",
+        "character": "Thaddeus Stevens",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+      },
+      {
+        "name": "John Hawkes",
+        "character": "Robert Latham",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vzQ5SdCcu9ZCeUyfAT0bnzyfeJh.jpg"
+      },
+      {
+        "name": "Jackie Earle Haley",
+        "character": "Alexander Stephens",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xDPeiyklN8f9Ilowsti4lGVbioj.jpg"
+      },
+      {
+        "name": "Bruce McGill",
+        "character": "Edwin Stanton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9zF43TgWiO3AlKC4I48S7ZK09lK.jpg"
+      },
+      {
+        "name": "Tim Blake Nelson",
+        "character": "Richard Schell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dcfdSmVmklb1HXHbB9kySdrl9Nq.jpg"
+      },
+      {
+        "name": "Joseph Cross",
+        "character": "John Hay",
+        "profile_path": "https://image.tmdb.org/t/p/w185/exxcI1BPy7BFQvXWM5DiH7xpwPO.jpg"
+      },
+      {
+        "name": "Jared Harris",
+        "character": "Ulysses S. Grant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8GvXtLomIdCjROjlwKQYURKJwIq.jpg"
+      },
+      {
+        "name": "Lee Pace",
+        "character": "Fernando Wood",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hePfTi5HwU9X0eX2sOmHj9I1Ryp.jpg"
+      },
+      {
+        "name": "Peter McRobbie",
+        "character": "George Pendleton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dzqI3wITKVTrnFBxYGFswDxALjf.jpg"
+      },
+      {
+        "name": "Gulliver McGrath",
+        "character": "Tad Lincoln",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jRoQtykJg3bsfrpNu38ao1ep3Nf.jpg"
+      },
+      {
+        "name": "Gloria Reuben",
+        "character": "Elizabeth Keckley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Ttd3nj1M9P8YE9LzCvGZcvPUQR.jpg"
+      },
+      {
+        "name": "Jeremy Strong",
+        "character": "John Nicolay",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jcMhXWICSi4QjQttJVhFSiKVvpF.jpg"
+      },
+      {
+        "name": "Michael Stuhlbarg",
+        "character": "George Yeaman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+      },
+      {
+        "name": "Boris McGiver",
+        "character": "Alexander Coffroth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mwVp5Pt7gMhEHPsijU8niPRljiW.jpg"
+      },
+      {
+        "name": "David Costabile",
+        "character": "James Ashley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yUkn29MWWPctB6SyScsn4sdE14O.jpg"
+      },
+      {
+        "name": "Stephen Spinella",
+        "character": "Asa Vintner Litton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lJahZcmWjggljySaqnPyGIuOeXs.jpg"
+      },
+      {
+        "name": "Walton Goggins",
+        "character": "Clay Hawkins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nPH7NL6wLUFJaXo5V3jBisgH84c.jpg"
+      },
+      {
+        "name": "David Warshofsky",
+        "character": "William Hutton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pLABX1wyaVE4CcEZVmoM2Y5XbQU.jpg"
+      },
+      {
+        "name": "Colman Domingo",
+        "character": "Private Harold Green",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2tu6T9ugnf82qIMGVKWSb0dvvq5.jpg"
+      },
+      {
+        "name": "David Oyelowo",
+        "character": "Corporal Ira Clark",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7UZHRwOKe2cYxj8SeNUklyPYkns.jpg"
+      },
+      {
+        "name": "Lukas Haas",
+        "character": "First White Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6LNGu3o2aBiYNTDkbXMDIGyQtBh.jpg"
+      },
+      {
+        "name": "Dane DeHaan",
+        "character": "Second White Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vZ7ix8UeRYgepFPFc4FIVKDLKDX.jpg"
+      },
+      {
+        "name": "Carlos Thompson",
+        "character": "Navy Yard – Shouting Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Camp",
+        "character": "Mr. Jolly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yZFata0EVr7TbIAz8vZFyiDKDts.jpg"
+      },
+      {
+        "name": "Elizabeth Marvel",
+        "character": "Mrs. Jolly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w4hd2oPgmpQZd7v69BJ8aL59b6V.jpg"
+      },
+      {
+        "name": "Byron Jennings",
+        "character": "Montgomery Blair",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2I51lhM3Ya5Cp5aMIp6OxBDUgkv.jpg"
+      },
+      {
+        "name": "Julie White",
+        "character": "Elizabeth Blair Lee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/siiNmtZZldFSc2DwnfUJf0Teouh.jpg"
+      },
+      {
+        "name": "Charmaine White",
+        "character": "Minerva – Blair's Servant",
+        "profile_path": ""
+      },
+      {
+        "name": "Ralph D. Edlow",
+        "character": "Leo – Blair's Servant",
+        "profile_path": ""
+      },
+      {
+        "name": "Grainger Hines",
+        "character": "Gideon Welles",
+        "profile_path": "https://image.tmdb.org/t/p/w185/76yr0UTlb72dWWbfCIGaYkWMyWR.jpg"
+      },
+      {
+        "name": "Richard Topol",
+        "character": "James Speed",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hdEES13KzuFGNtXI8OfqlRlZU3j.jpg"
+      },
+      {
+        "name": "Walt Smith",
+        "character": "William Fessenden",
+        "profile_path": ""
+      },
+      {
+        "name": "Dakin Matthews",
+        "character": "John Usher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y0r9HdW9RFzQWoeciOFq9eFr92.jpg"
+      },
+      {
+        "name": "James 'Ike' Eichling",
+        "character": "William Dennison",
+        "profile_path": ""
+      },
+      {
+        "name": "Wayne Duvall",
+        "character": "Senator Bluff Wade",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lLCBQSWbxtl1oWK3pCS2oQff7Y9.jpg"
+      },
+      {
+        "name": "Bill Raymond",
+        "character": "Schuyler Colfax",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v8x97buvWoFj3di8eCuhc0hBlow.jpg"
+      },
+      {
+        "name": "Michael Stanton Kennedy",
+        "character": "Hiram Price",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4FKCYFGNmjKNJ0HrV2mdds5Qdwx.jpg"
+      },
+      {
+        "name": "Ford Flannagan",
+        "character": "White House Doorkeeper – Tom Pendel",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Ayers",
+        "character": "White House Petitioner",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Peters",
+        "character": "Jacob Graylor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ub1u7ydCng5T71w1gtHfH3KC2Hl.jpg"
+      },
+      {
+        "name": "John Moon",
+        "character": "Edwin LeClerk",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Lawrence O'Donnell",
+        "character": "Charles Hanson",
+        "profile_path": ""
+      },
+      {
+        "name": "Jamie Horton",
+        "character": "Giles Stuart",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Dellinger",
+        "character": "Nelson Merrick",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Warner",
+        "character": "Homer Benson",
+        "profile_path": ""
+      },
+      {
+        "name": "Elijah Chester",
+        "character": "Union Army Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave Hager",
+        "character": "Captain Nathan Saunders – River Queen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2pPODg9dNp2qfFEXG75wrWTlmwG.jpg"
+      },
+      {
+        "name": "Sean Haggerty",
+        "character": "Officer in Peace Commissioners Exchange",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Shiflett",
+        "character": "Senator R.M.T. Hunter",
+        "profile_path": ""
+      },
+      {
+        "name": "Gregory Itzin",
+        "character": "Judge John A. Campbell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lUACgFTvuhRhAC3GwnpcWMGLxo4.jpg"
+      },
+      {
+        "name": "Stephen Dunn",
+        "character": "Petersburg Siege Lines – Confederate Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen McKinley Henderson",
+        "character": "William Slade",
+        "profile_path": "https://image.tmdb.org/t/p/w185/utsApLREJWm13jyCLMkFwPYYU0M.jpg"
+      },
+      {
+        "name": "Chase Edmunds",
+        "character": "Willie Lincoln",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s69Ae9ok6PwrefrE6nvqEWLgwWb.jpg"
+      },
+      {
+        "name": "John Hutton",
+        "character": "Senator Charles Sumner",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Ruffin",
+        "character": "Major Thompson Eckert",
+        "profile_path": ""
+      },
+      {
+        "name": "Drew Sease",
+        "character": "David Homer Bates",
+        "profile_path": ""
+      },
+      {
+        "name": "John Lescault",
+        "character": "Gustavus Fox",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Wichmann",
+        "character": "Charles Benjamin",
+        "profile_path": ""
+      },
+      {
+        "name": "Adam Driver",
+        "character": "Samuel Beckwith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mG2vwd6hJHTiCh8zIxPFND3ibAj.jpg"
+      },
+      {
+        "name": "Jean Kennedy Smith",
+        "character": "House of Representatives – Woman Shouter",
+        "profile_path": ""
+      },
+      {
+        "name": "Shirley Augustine",
+        "character": "House of Representatives – Woman Shouter",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah Wylie",
+        "character": "House of Representatives – Woman Shouter",
+        "profile_path": ""
+      },
+      {
+        "name": "Margaret Ann McGowan",
+        "character": "House of Representatives – Woman Shouter",
+        "profile_path": ""
+      },
+      {
+        "name": "Hilary Montgomery",
+        "character": "House of Representatives – Woman Shouter",
+        "profile_path": ""
+      },
+      {
+        "name": "Asa-Luke Twocrow",
+        "character": "Ely Parker",
+        "profile_path": ""
+      },
+      {
+        "name": "Lancer Dean Shull",
+        "character": "Union Soldier – Bodyguard",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Wilharm",
+        "character": "Wounded Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Kline",
+        "character": "Wounded Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "John Jones",
+        "character": "Wounded Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Gowans",
+        "character": "Wounded Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Miller",
+        "character": "Wounded Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "John Bellemer",
+        "character": "Faust",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary Dunleavy",
+        "character": "Marguerite",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Evan Welch",
+        "character": "Clerk – Edward McPherson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/midyg7Ni0QCHGgqaHyld7tpAzND.jpg"
+      },
+      {
+        "name": "Alan Sader",
+        "character": "Sergeant At Arms",
+        "profile_path": ""
+      },
+      {
+        "name": "Gannon McHale",
+        "character": "Aaron Haddam",
+        "profile_path": ""
+      },
+      {
+        "name": "Ken Lambert",
+        "character": "Augustus Benjamin",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Belgrey",
+        "character": "Arthur Bentleigh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gBbMzrCrOswd2ZYKRapnmYOcAMy.jpg"
+      },
+      {
+        "name": "Ted Johnson",
+        "character": "John Ellis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/beWVm4KyYdjW5YRMScqJKyUbss.jpg"
+      },
+      {
+        "name": "Don Henderson Baker",
+        "character": "Walter Appleton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/coHsghqDc48iiGktWI7VWJbkigN.jpg"
+      },
+      {
+        "name": "Raynor Scheine",
+        "character": "Josiah S. 'Beanpole' Burton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gqj3nFgq2W83RrJNyqHm2xw8Efw.jpg"
+      },
+      {
+        "name": "Armistead Wellford",
+        "character": "Nehemiah Cleary",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Ruff",
+        "character": "Harold Hollister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hLrcrqwmzgWfpMqM8CmiKsGWtAQ.jpg"
+      },
+      {
+        "name": "Rich Wills",
+        "character": "House of Representatives – Soldier One",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen Bozzo",
+        "character": "House of Representatives – Soldier Two",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Alan Stewart",
+        "character": "Sergeant – Grant's HQ",
+        "profile_path": ""
+      },
+      {
+        "name": "Teddy Eck",
+        "character": "Corporal – Grant's HQ",
+        "profile_path": ""
+      },
+      {
+        "name": "Todd Fletcher",
+        "character": "Walter H. Washburn",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Kinney",
+        "character": "Myer Strauss",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Carlson",
+        "character": "Joseph Marstern",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Goodwin",
+        "character": "Chilton A. Elliot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7PQlrNdQBRUyql1l9aYG9W00o9m.jpg"
+      },
+      {
+        "name": "Edward McDonald",
+        "character": "Daniel G. Stuart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/88qPPoaANa6qky49sRY6yJplhJn.jpg"
+      },
+      {
+        "name": "Jim Batchelder",
+        "character": "Howard Guillefoyle",
+        "profile_path": ""
+      },
+      {
+        "name": "Gregory Hosaflook",
+        "character": "John F. McKenzie",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Kerkes",
+        "character": "Andrew E. Finck",
+        "profile_path": ""
+      },
+      {
+        "name": "William Kaffenberger",
+        "character": "John A. Casson",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry Van Hoose",
+        "character": "Avon Hanready",
+        "profile_path": ""
+      },
+      {
+        "name": "C. Brandon Marshall",
+        "character": "Rufus Warren",
+        "profile_path": ""
+      },
+      {
+        "name": "David Russell Graham",
+        "character": "House of Representatives – Rebel Shouter",
+        "profile_path": ""
+      },
+      {
+        "name": "Benjamin Shirley",
+        "character": "House of Representatives – Rebel Shouter",
+        "profile_path": ""
+      },
+      {
+        "name": "Henry Kidd",
+        "character": "House of Representatives – Rebel Shouter",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Frances Filipowski",
+        "character": "House of Representatives – Rebel Shouter",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Aldridge",
+        "character": "House of Representatives",
+        "profile_path": ""
+      },
+      {
+        "name": "Sidney Blackmer Jr.",
+        "character": "House of Representatives",
+        "profile_path": ""
+      },
+      {
+        "name": "Billy Caldwell",
+        "character": "House of Representatives",
+        "profile_path": ""
+      },
+      {
+        "name": "Glenn T. Crone",
+        "character": "House of Representatives",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Dew",
+        "character": "House of Representatives",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7NqJ8j5PUUOR4CQ02VgiSjoqifI.jpg"
+      },
+      {
+        "name": "Theodore Ewald",
+        "character": "House of Representatives",
+        "profile_path": ""
+      },
+      {
+        "name": "Todd Hunter",
+        "character": "House of Representatives",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Inscoe",
+        "character": "House of Representatives",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kqkZzgrCb4a9nhnItinl3QL6sLA.jpg"
+      },
+      {
+        "name": "Raymond H. Johnson",
+        "character": "House of Representatives",
+        "profile_path": ""
+      },
+      {
+        "name": "Gary Keener",
+        "character": "House of Representatives",
+        "profile_path": ""
+      },
+      {
+        "name": "Randolph Meekins",
+        "character": "House of Representatives",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Moran",
+        "character": "House of Representatives",
+        "profile_path": ""
+      },
+      {
+        "name": "Charley Morgan",
+        "character": "House of Representatives",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4UtwuIXX7pCCkTAzDMRPf4FGVlo.jpg"
+      },
+      {
+        "name": "Chad Pettit",
+        "character": "House of Representatives",
+        "profile_path": ""
+      },
+      {
+        "name": "Barry Privett",
+        "character": "House of Representatives",
+        "profile_path": ""
+      },
+      {
+        "name": "Leslie Rogers",
+        "character": "House of Representatives",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcello Rollando",
+        "character": "House of Representatives",
+        "profile_path": ""
+      },
+      {
+        "name": "Keith Tyree",
+        "character": "House of Representatives",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin J. Walsh",
+        "character": "House of Representatives",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Wray",
+        "character": "House of Representatives",
+        "profile_path": ""
+      },
+      {
+        "name": "S. Epatha Merkerson",
+        "character": "Lydia Smith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w7FXLDZdJ4RtEGs5guVwya4pCW9.jpg"
+      },
+      {
+        "name": "Christopher Boyer",
+        "character": "General Robert E. Lee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1QaPkKYDRwkSJVzdiUc0NXkpx12.jpg"
+      },
+      {
+        "name": "Stephen Dunford",
+        "character": "Actor Swordsman",
+        "profile_path": ""
+      },
+      {
+        "name": "David Doersch",
+        "character": "Actor Demon Affrit",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Cartmill",
+        "character": "Leonard Grover",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Shepherd",
+        "character": "Dr. Joseph K. Barnes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a6GEFcOrNgT8dNGwp1FcIXaWWpp.jpg"
+      },
+      {
+        "name": "Lucas N. Hall",
+        "character": "Grover's Theater Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h5nm3zQHAzQRTQQPFos7K7dCCDd.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Steven Spielberg",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "mutiny",
+    "usa president",
+    "based on true story",
+    "speech",
+    "battlefield",
+    "historical fiction",
+    "family conflict",
+    "mourning",
+    "american civil war",
+    "cultural conflict",
+    "battle of gettysburg",
+    "secession",
+    "presidential cabinet",
+    "gettysburg address",
+    "conflagration",
+    "ethical dilemma",
+    "emancipation",
+    "19th century",
+    "abraham lincoln",
+    "abraham"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "As the Civil War rages on, U.S President Abraham Lincoln struggles with continuing carnage on the battlefield as he fights with many inside his own cabinet on his decision to emancipate the slaves.",
+    "In 1865, as the American Civil War winds inexorably toward conclusion, U.S. president Abraham Lincoln endeavors to achieve passage of the landmark constitutional amendment which will forever ban slavery from the United States. However, his task is a race against time, for peace may come at any time, and if it comes before the amendment is passed, the returning southern states will stop it before it can become law. Lincoln must, by almost any means possible, obtain enough votes from a recalcitrant Congress before peace arrives and it is too late. Yet the president is torn, as an early peace would save thousands of lives. As the nation confronts its conscience over the freedom of its entire population, Lincoln faces his own crisis of conscience -- end slavery or end the war.—Jim Beaver <jumblejim@prodigy.net>",
+    "It's January, 1865, and US President Abraham Lincoln has just started his second term in office as an immensely popular leader, especially among his supporters, because of his down home attitude. However, the country is in turmoil with the Civil War entering its fourth year and having taken the lives of many a soldier on both sides. Lincoln believes that passage of the Thirteenth Amendment to the Constitution - which would abolish slavery - would most importantly achieve something in which he believes to his core, but also end the war as slavery is a large part of the raison d'etre for it. The Amendment has already passed in the Senate, and is scheduled for vote in the House of Representatives at the end of the month. While he is assured of yes votes from his fellow Republicans, he and his team have to work hard behind the scenes to assure enough yes votes from Democrats, which may require some compromise in other areas. But other factors may also come into play on the vote, such as the Confederate forces in the war issuing their own compromise to end the war but keep slavery. Meanwhile, Lincoln also deals with his oft supportive but oft tumultuous relationship with wife Mary Todd Lincoln, and their latest possible rift in oldest son, Robert Todd Lincoln's want to leave law school to enlist.—Huggo",
+    "With the nation embroiled in still another year with the high death count of Civil War, President Abraham Lincoln brings the full measure of his passion, humanity and political skill to what would become his defining legacy: to end the war and permanently abolish slavery through the 13th Amendment. Having great courage, acumen and moral fortitude, Lincoln pushes forward to compel the nation, and those in government who oppose him, to aim toward a greater good for all mankind.—Jwelch5742",
+    "January 1865. Four years into the destructive American Civil War and with the nation divided by conflict, newly re-elected US President Abraham Lincoln sought a way to end the bloodshed. More than anything, the influential politician wanted to pass the 13th Amendment to abolish slavery, restore peace, and reunite the country. As the war drew to a close, Lincoln enlisted the help of Secretary of State William H. Seward to secure Democratic support and find twenty House Democrats to vote for the bill to outlaw slavery. With unwavering dedication and courage, Abraham Lincoln inspired a pivotal decision that changed the course of history.—Nick Riganas"
+  ],
+  "synopsis": "The opening scene is a brutal, muddy melee. At close quarters in that wet place, the men on whom the camera closes in are attacking one another with bayonets, swords, fists, or even by holding an enemy's face in the mud to drown him. Many of the combatants are black. A voice-over says that the rebels (Confederates, or rebs) \"killed every negro soldier they captured at Poison Springs... so at Jenkins Ferry, we decided we weren't taking no reb prisoners.\" The camera cuts to show the speaker, a black soldier in an army camp talking to someone who after a few seconds is revealed to be President Abraham Lincoln (Daniel Day-Lewis). The soldier (Private Harold Green, Colman Domingo) and his comrade (Corporal Ira Clark, David Oyelowo) tell Lincoln their names, ranks, and where they're headed next (Wilmington). They're pleased that they're finally being paid as much as the white soldiers, but Clark complains about the lack of commissioned negro officers and sarcastically predicts that whites might be able to tolerate a negro colonel in 50 years -- and \"in 100 years, the vote.\" A couple of white soldiers who heard Lincoln speak at Gettysburg come up; one repeats the beginning of the Gettysburg address and his friend recites the next lines. They're called away, but Corporal Clark finishes the speech as he walks off.In January 1865, the recently reëlected Lincoln notes the imminence of the Civil War's end, wondering out loud what will become of the former slaves. He finds insufficiency, even hypocrisy, in his Emancipation Proclamation of 1863, which had freed most slaves as a war measure but had not made slavery illegal. Only a constitutional amendment illegalizing slavery, he realizes, will spell its permanent end in America.Debate rages even within his own cabinet, but as Lincoln sees it, the passage of the constitutional amendment cannot wait until the end of the war, for Southern slaves who had been freed as a war measure might fall into forced servitude once again. In an interview with a white couple from Missouri, it becomes clear that some, at least, of the popular support for the antislavery amendment is based on the belief that passing the amendment will hasten the end of the war. Under the questioning of Secretary of State William Seward (David Strathairn), the two admit that should peace break out without the amendment passing, they would no longer support it, fearing the effects the freed slaves would have on their local economy.The proposed Thirteenth Amendment has passed in the Senate but does not have sufficient backing in the House of Representatives. Lincoln takes it upon himself and his staff to find the votes needed by the end of January, which requires the granting of many political favors to members of their rival party. Lincoln and Seward will not stoop to outright cash bribery (not knowingly, anyway), but Seward hires three lobbyists to promote their cause by promising government jobs to Democratic members of the House who failed to win reëlection -- the lame ducks. The lobbyists are W.N. Bilbo (James Spader), Robert Latham (John Hawkes), and Richard Schell (Tim Blake Nelson).To pass the amendment, Lincoln needs the support of Preston Blair (Hal Holbrook) and his son Montgomery (Byron Jennings), the influential founders of the Republican Party and leaders of its conservative wing. The Blairs are eager to end the war. As a condition of his support, Preston Blair demands permission to visit the Confederate leadership in Richmond, Virginia, and invite them to send a peace delegation to Washington. This is awkward for Lincoln because he can't afford to end the war until the amendment passes, but he allows Blair to go secretly to Richmond.The bedrock of support for the amendment lies at the other end of the party: the Radicals, lead by the creatively abusive Thaddeus Stevens (Tommy Lee Jones) of Pennsylvania. The Radicals are abolitionists, and Stevens goes so far as to support full racial equality, including voting rights for black men -- an idea that angers and frightens most white people outside his own wing of the Republican Party.Lincoln's family life is emotionally fraught. His wife Mary Todd Lincoln (Sally Field) suffers constant headaches as the result of a carriage accident that she believes was an assassination attempt against her husband. Mary is deeply interested in the passage of the amendment, but Lincoln and Mary are still grieving the death of their son Willie three years before. The Lincoln household includes their youngest son Tad (Gulliver McGrath); Mary's dressmaker and friend Elizabeth Keckley (Gloria Reuben), a former slave who accompanies Mary on outings to the theater and the visitors' gallery of the House of Representatives; William Slade (Stephen McKinley Henderson), Lincoln's black valet; and eventually Tad's older brother Robert (Joseph Gordon-Levitt). Robert has been studying law at Harvard but comes home because his self respect demands that he enlist in the Army. Both his parents oppose the idea, being unable to face the prospect of losing another son. Robert eventually prevails upon his father to let him join up; Lincoln placates Mary by attaching Robert to the staff of General Ulysses Grant (Jared Harris), where he's unlikely to come to harm.Debate rages in the House of Representatives over the advisability of the amendment. Some politicians see peace as a necessary precursor to the passing of the amendment, but others see the passing of the amendment as a step on the road to the end of the Civil War. Lincoln's challenge is to play the middle, and he does so very effectively.The vote on the amendment is nearly postponed due to the rumor that a Confederate peace delegation is in Washington, ready to negotiate. James Ashley (David Costabile), the amendment's sponsor, is able to deny that a delegation is in Washington or on the way because Lincoln has cannily ordered the Confederate emissaries to be held at Hampton Roads, Virginia. The Thirteenth Amendment passes by two votes after Lincoln himself lobbies a few fence-sitting congressmen.Congressman Stevens borrows the official copy of the amendment and takes it home to show to his biracial housekeeper and common-law wife, Lydia Smith (S. Epatha Merkerson).Days after the vote, Lincoln and Seward meet with the Confederate delegation at Hampton Roads. The Confederates make negotiation conditional on Lincoln's written assurance that the Thirteenth Amendment will not be ratified. Lincoln responds that all the northern states will ratify it, and he has assurances that at least three Confederate states will do the same upon readmission to the Union; this makes the end of slavery a certainty. No agreements are made at the Hampton Roads Conference.About two months later, General Robert E. Lee (Christopher Boyer) surrenders at Appomattox Court House. Lincoln's double coup has paved the way for the peaceful readmission of the Confederate states to the Union, but he will not live to see it, as he is assassinated days after the surrender. In the closing scene, Lincoln delivers his second inaugural address.",
+  "imdb_score": 7.3
+}

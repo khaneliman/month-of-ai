@@ -1,0 +1,615 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/5vDuLrjJXFS9PTF7Q1xzobmYKR9.jpg",
+  "id": 1895,
+  "title": "Star Wars: Episode III - Revenge of the Sith",
+  "poster_path": "https://image.tmdb.org/t/p/w500/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+  "release_date": "2005-05-17",
+  "vote_average": 7.418,
+  "vote_count": 13052,
+  "popularity": 37.473,
+  "overview": "The evil Darth Sidious enacts his final plan for unlimited power -- and the heroic Jedi Anakin Skywalker must choose a side.",
+  "imdb_id": "tt0121766",
+  "budget": 113000000,
+  "homepage": "http://www.starwars.com/films/star-wars-episode-iii-revenge-of-the-sith",
+  "revenue": 850000000,
+  "runtime": 140,
+  "tagline": "The saga is complete.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Lucasfilm Ltd."
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Hayden Christensen",
+        "character": "Anakin Skywalker / Darth Vader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/RuwAecNK9VDeTrfw6LUE4q4rIt.jpg"
+      },
+      {
+        "name": "Ewan McGregor",
+        "character": "Obi-Wan Kenobi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qYRGu6NIqkUYIO7ftso110WNQ6P.jpg"
+      },
+      {
+        "name": "Natalie Portman",
+        "character": "Padmé Amidala",
+        "profile_path": "https://image.tmdb.org/t/p/w185/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+      },
+      {
+        "name": "Ian McDiarmid",
+        "character": "Chancellor Palpatine / Darth Sidious",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jeoA2UQdKoz5rp4xLv0O32gzJ38.jpg"
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "character": "Mace Windu",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nCJJ3NVksYNxIzEHcyC1XziwPVj.jpg"
+      },
+      {
+        "name": "Jimmy Smits",
+        "character": "Senator Bail Organa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dD04JlfW5N8bVrx7Cawn4A6g1xp.jpg"
+      },
+      {
+        "name": "Frank Oz",
+        "character": "Yoda (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg"
+      },
+      {
+        "name": "Anthony Daniels",
+        "character": "C-3PO",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c876ZM5ObwYgXksrRWNNrL9KeZg.jpg"
+      },
+      {
+        "name": "Christopher Lee",
+        "character": "Count Dooku",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dA26fBr3t7mKqjn3OYW6kbD1LXM.jpg"
+      },
+      {
+        "name": "Keisha Castle-Hughes",
+        "character": "Queen of Naboo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9lBukGiFVV0pKNwndaNhRQVnNmt.jpg"
+      },
+      {
+        "name": "Silas Carson",
+        "character": "Nute Gunray / Ki-Adi Mundi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kCAq5Ma1usCYLtJAFd2iwx6eQn1.jpg"
+      },
+      {
+        "name": "Jay Laga'aia",
+        "character": "Captain Typho",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qVe5pz15VIypXZoI7tMvzXZrMPI.jpg"
+      },
+      {
+        "name": "Bruce Spence",
+        "character": "Tion Medon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kuaIudFTIBahGAdCamThG13jPp7.jpg"
+      },
+      {
+        "name": "Wayne Pygram",
+        "character": "Governor Tarkin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/RwUJl5PyR5k7YavpXFI6Y2Tajs.jpg"
+      },
+      {
+        "name": "Temuera Morrison",
+        "character": "Commander Cody",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1ckHDFgKXJ8pazmvLCW7DeOKqA0.jpg"
+      },
+      {
+        "name": "David Bowers",
+        "character": "Mas Amedda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2ZvS3GVZyS86gJbRHTTfRYLGBnZ.jpg"
+      },
+      {
+        "name": "Oliver Ford Davies",
+        "character": "Sio Bibble",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hDdpoEWtNd0c46PcuORomdEI5j0.jpg"
+      },
+      {
+        "name": "Ahmed Best",
+        "character": "Jar Jar Binks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aLWfIEy3wqZN5GdhHQss9KyqOXN.jpg"
+      },
+      {
+        "name": "Rohan Nichol",
+        "character": "Captain Antilles",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mqNxD91XTbraKHJUHnRK3zh3sp3.jpg"
+      },
+      {
+        "name": "Jeremy Bulloch",
+        "character": "Captain Colton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sioJ1UcQPgHktGgUXrb5FKBjiYp.jpg"
+      },
+      {
+        "name": "Amanda Lucas",
+        "character": "Terr Taneel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hJluJFrBJPGNQBFq7VeWLVzmffi.jpg"
+      },
+      {
+        "name": "Kenny Baker",
+        "character": "R2-D2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uo3RorCoGDWHecLtqjviwzFExxR.jpg"
+      },
+      {
+        "name": "Peter Mayhew",
+        "character": "Chewbacca",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bWv4RHLhjH6Ujrfhzm6ZC8ms3f2.jpg"
+      },
+      {
+        "name": "Rebecca Jackson Mendoza",
+        "character": "Queen of Alderaan",
+        "profile_path": ""
+      },
+      {
+        "name": "Joel Edgerton",
+        "character": "Owen Lars",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uFLxGHmPaNoTD6EMpMmu5bfP9Fr.jpg"
+      },
+      {
+        "name": "Bonnie Piesse",
+        "character": "Beru Lars",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cF0HuGFh9Sk0ik1bAoaiVEedkou.jpg"
+      },
+      {
+        "name": "Jett Lucas",
+        "character": "Zett Jukassa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uLaFz6VhvLxHe6CLu8W5d3L86Lc.jpg"
+      },
+      {
+        "name": "Tux Akindoyeni",
+        "character": "Agen Kolar",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Rowan",
+        "character": "Senator Orn Free Taa",
+        "profile_path": ""
+      },
+      {
+        "name": "Kenji Oates",
+        "character": "Saesee Tiin",
+        "profile_path": ""
+      },
+      {
+        "name": "Amy Allen",
+        "character": "Aayla Secura",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ceIsmQ3Ca9YjDFfvmZ8iX9UpMHu.jpg"
+      },
+      {
+        "name": "Bodie Taylor",
+        "character": "Clone Trooper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xFwb47qD6bBKSxJshPntYEYu3kb.jpg"
+      },
+      {
+        "name": "Graeme Blundell",
+        "character": "Ruwee Naberrie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gvJBWfxW9VJmi17ts7NEjsghKVZ.jpg"
+      },
+      {
+        "name": "Trisha Noble",
+        "character": "Jobal Naberrie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jBaJOkMgXJ76TwHwXmSvXcCtDYo.jpg"
+      },
+      {
+        "name": "Claudia Karvan",
+        "character": "Sola Naberrie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zT4CSbrJwHAtqyyJtACOcosg3qZ.jpg"
+      },
+      {
+        "name": "Keira Wingate",
+        "character": "Ryoo Naberrie",
+        "profile_path": ""
+      },
+      {
+        "name": "Hayley Mooy",
+        "character": "Pooja Naberrie",
+        "profile_path": ""
+      },
+      {
+        "name": "Sandi Finlay",
+        "character": "Sly Moore",
+        "profile_path": ""
+      },
+      {
+        "name": "Katie Lucas",
+        "character": "Chi Eekway",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aWwd7B7mFqy6RR99Co8lvHmmKri.jpg"
+      },
+      {
+        "name": "Genevieve O'Reilly",
+        "character": "Mon Mothma",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xXPoflf99SEkK8yRpZPssH6y6S2.jpg"
+      },
+      {
+        "name": "Warren Owens",
+        "character": "Fang Zar",
+        "profile_path": ""
+      },
+      {
+        "name": "Kee Chan",
+        "character": "Malé-Dee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e52bZCgtWRfCfi29oM7996PiIbF.jpg"
+      },
+      {
+        "name": "Rena Owen",
+        "character": "Nee Alavar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8s0ePZ1ifvE7NlvtLOAWNXLjdx4.jpg"
+      },
+      {
+        "name": "Christopher Kirby",
+        "character": "Giddean Danu",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qH3GUTOQv4WvcCJdzn3WOv2OE7.jpg"
+      },
+      {
+        "name": "Matthew Wood",
+        "character": "General Grievous (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u1UjHLTeS5Dregg85A3GICf7Nkf.jpg"
+      },
+      {
+        "name": "Kristy Wright",
+        "character": "Moteé",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aeLn0lqd5KlIgP6NfDKxIh89tCb.jpg"
+      },
+      {
+        "name": "Coinneach Alexander",
+        "character": "Whie",
+        "profile_path": ""
+      },
+      {
+        "name": "Mousy McCallum",
+        "character": "Bene",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Kingma",
+        "character": "Wookiee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2sO5Y0VflsWcU1MSgz82quEwpnr.jpg"
+      },
+      {
+        "name": "Axel Dench",
+        "character": "Wookiee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qGP6o8vYhfSUhovXHnc7BaEgd6q.jpg"
+      },
+      {
+        "name": "Steven Foy",
+        "character": "Wookiee",
+        "profile_path": ""
+      },
+      {
+        "name": "Julian Khazzouh",
+        "character": "Wookiee",
+        "profile_path": ""
+      },
+      {
+        "name": "James Rowland",
+        "character": "Wookiee",
+        "profile_path": ""
+      },
+      {
+        "name": "David Stiff",
+        "character": "Wookiee",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Cope",
+        "character": "Wookiee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eXBmspFKEw5hirse3YHgwkVW6gx.jpg"
+      },
+      {
+        "name": "George Lucas",
+        "character": "Baron Papanoida (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/WCSZzWdtPmdRxH9LUCVi2JPCSJ.jpg"
+      },
+      {
+        "name": "Nick Gillard",
+        "character": "Cin Drallig (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zzQbNLekhEo6geuWO6hMSYbTSde.jpg"
+      },
+      {
+        "name": "Aidan Barton",
+        "character": "Luke Skywalker / Leia Organa (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "James Earl Jones",
+        "character": "Darth Vader (voice - uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg"
+      },
+      {
+        "name": "Ben Cooke",
+        "character": "Kit Fisto (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tuMetGw8QNRbWEEtMP3SITwBFc2.jpg"
+      },
+      {
+        "name": "David Acord",
+        "character": "GH-7 Medical Droid (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xhk4GEFBVYyp7iJQqMEjTenAt6W.jpg"
+      },
+      {
+        "name": "Paul Bateman",
+        "character": "Meena TIlls (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ross Beadman",
+        "character": "Sors Bandeam (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jerome St. John Blake",
+        "character": "Mas Amedda (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mJo6VvE5RTTaRwvnYcvXIn63BTg.jpg"
+      },
+      {
+        "name": "Robert M. Bouffard",
+        "character": "Clone Trooper (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jill Brooks",
+        "character": "Opera House Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gene Bryant",
+        "character": "Darth Vader (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Josh Canning",
+        "character": "Jedi Knight (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dominique Chionchio",
+        "character": "Jedi Knight (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rob Coleman",
+        "character": "Opera House Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yNQeBPiJSytjdt3Mx4Uz7VMuunL.jpg"
+      },
+      {
+        "name": "Fay David",
+        "character": "Luminara Unduli (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Caroline de Souza Correa",
+        "character": "Bail Organa's Aide #1 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/znb3zXrG7AtKDrjdk2u5EZd4cjF.jpg"
+      },
+      {
+        "name": "Eliana Dona",
+        "character": "Hand Maiden (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Malcolm Eager",
+        "character": "Naboo Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nina Fallon",
+        "character": "Stass Allie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ifgrJzYwA8Jpm0nMQtpRF3S6asc.jpg"
+      },
+      {
+        "name": "Tim Gibbons",
+        "character": "Aqualish Senator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Roger Guyett",
+        "character": "Opera House Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nv17tsiyf2eIkXluUjUpBuHjB26.jpg"
+      },
+      {
+        "name": "Chantal Harrison",
+        "character": "Elle (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Philip Harvey",
+        "character": "Female Nikto (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Pablo Hidalgo",
+        "character": "Janu Godalhi (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9FiDJTFvjoLPrASDdi4VuOB9oBc.jpg"
+      },
+      {
+        "name": "Ali Keshavji",
+        "character": "Fire Speeder Pilot (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Shaun R.L. King",
+        "character": "Naboo Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Goran D. Kleut",
+        "character": "Lampay Fay (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vsN8BI3t4c8JHLoLznCZxO9gZ6r.jpg"
+      },
+      {
+        "name": "John Knoll",
+        "character": "Fire Ship Pilot (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fI7BXLxINkUnGr51mllgOb4a7Gz.jpg"
+      },
+      {
+        "name": "Gervais Koffi",
+        "character": "Jedi Knight (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John M. Levin",
+        "character": "Jedi Knight (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Janet Lewin",
+        "character": "Opera House Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bai Ling",
+        "character": "Senator Bana Breemu (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4NB0MRVFjwutFQCPy8kbq6MEFrb.jpg"
+      },
+      {
+        "name": "Dean Mitchell",
+        "character": "Cellheim Anujo (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul James Nicholson",
+        "character": "Senator Po Nudo (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Blake Nickle",
+        "character": "Senator Calek Kelbin (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Denise Ream",
+        "character": "Opera House Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Reyna",
+        "character": "Opera Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Rodriguez",
+        "character": "Gilgamour (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Hamish Roxburgh",
+        "character": "Naboo Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Savva",
+        "character": "Clone Jedi Knight (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacqui Louez Schoorl",
+        "character": "Senator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Shaunessy",
+        "character": "Senator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nD7QaD70wnwojKMW4y9wuQHtbwO.jpg"
+      },
+      {
+        "name": "Orli Shoshan",
+        "character": "Shaak Ti (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dMbMLtByrDx1cMw2Gj8eI4LjCey.jpg"
+      },
+      {
+        "name": "John Sigurdson",
+        "character": "Runway Worker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Christian Simpson",
+        "character": "BD-3000 Luxury Droid (movements) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9jnziSb8VZUBWQsaDiEk4wAaDK5.jpg"
+      },
+      {
+        "name": "Paul Spence",
+        "character": "Senator Ask Aak (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1KpovKaRZ8KKchA95eszChO1W2Y.jpg"
+      },
+      {
+        "name": "Suzie Steen",
+        "character": "Hand Maiden 3 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p6nFDyc9jHKrJwnPG1KXpm81zyk.jpg"
+      },
+      {
+        "name": "Richard Stride",
+        "character": "Poggle the Lesser (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marty Wetherill",
+        "character": "Magistrate Passel Argente (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Aaliyah Williams",
+        "character": "Jedi Knight (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/96DvhE7nZlIemL0dSZ6KGryordY.jpg"
+      },
+      {
+        "name": "Masa Yamaguchi",
+        "character": "Senator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Sloan",
+        "character": "Plo Koon",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Davies",
+        "character": "Meena Tills, Mon Calamari Senator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marton Csokas",
+        "character": "Poggle the Lesser (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jKtjjwf8MHnUsQ3YA56LH9pJjee.jpg"
+      },
+      {
+        "name": "Lawrence Foster",
+        "character": "Blue Senate Guard (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "George Lucas",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/WCSZzWdtPmdRxH9LUCVi2JPCSJ.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "showdown",
+    "cult figure",
+    "vision",
+    "hatred",
+    "dream sequence",
+    "expectant mother",
+    "space opera",
+    "chancel"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Three years into the Clone Wars, Obi-Wan pursues a new threat, while Anakin is lured by Chancellor Palpatine into a sinister plot to rule the galaxy.",
+    "Nearly three years have passed since the beginning of the Clone Wars. The Republic, with the help of the Jedi, take on Count Dooku and the Separatists. With a new threat rising, the Jedi Council sends Obi-Wan Kenobi and Anakin Skywalker to aid the captured Chancellor. Anakin feels he is ready to be promoted to Jedi Master. Obi-Wan is hunting down the Separatist General, Grievous. When Anakin has future visions of pain and suffering coming Padmé's way, he sees Master Yoda for counsel. When Darth Sidious executes Order 66, it destroys most of all the Jedi have built. Experience the birth of Darth Vader. Feel the betrayal that leads to hatred between two brothers. And witness the power of hope.",
+    "The Jedi Order is on the brink of collapse and Anakin Skywalker no longer believes in the wisdom of his master, Obi-Wan Kenobi. As The Force calls him to decide Padme's fate, Anakin will desperately explore every possibility to save his wife from imminent death in childbirth.—Johnny",
+    "Three years after the events of Episode II, a new threat emerges. The commander of the Droid Army, General Grievous, kidnaps Chancellor Palpatine. The Jedi send Anakin and Obi-Wan to rescue the Chancellor and put an end to the Separatists wrath on the galaxy. But with an unfortunate turn of events, things don't turn out the way they'd envisioned...",
+    "Discover the true power of the dark side in Star Wars:Episode III-Revenge of the Sith. Years after the onset of the Clone Wars;the noble Jedi Knights lead a massive clone army into a galaxy-wide battle against the Separatists. When the sinister Sith unveil a thousand-year-old plot to rule the galaxy;The Republic crumbles and from its ashes rises the evil Galactic Empire. Jedi hero Anakin Skywalker is seduced by the dark side of the Force to become the Emperor's new apprentice-Darth Vader. The Jedi are decimated;as Obi-Wan Kenobi and Jedi Master Yoda are forced into hiding.—smrichardson-48806"
+  ],
+  "synopsis": "For three years, The Clone Wars have raged across the galaxy, as Republic and Separatist forces fight for dominance.A crucial battle high over the planet Coruscant, has Jedi Knight Anakin Skywalker (Hayden Christensen) and Jedi Master Obi-Wan Kenobi (Ewan McGregor), attempt a daring rescue of Supreme Chancellor Palpatine (Ian McDiarmid) from General Grievous' command ship.upon finding the Chancellor, they encounter Count Dooku (Christopher Lee), who engages the two Jedi. He manages to incapacitate Obi-Wan, but Anakin ends up getting the upper-hand, leading to the Chancellor requesting that Dooku be killed. Anakin hesitates, but eventually decapitates Dooku.The three attempt to escape the ship, before Grievous finds out where they are, and captures them. Bringing them to his ship's bridge, the Jedi thanks to R2-D2), create a diversion, causing Grievous to flee his ship, but also jettison all the escape pods.As the ship begins to plummet into the planet's upper-atmosphere, Anakin attempts a daring crash-landing, that manages to get them back onto the planet, rescuing the Chancellor.After these events, Anakin is reunited with his wife, Padmé Amidala (Natalie Portman), who tells him that she is pregnant. Despite Padmé's worries over their secret marriage, Anakin is overjoyed at this news, and the couple begin making plans to raise their child. However, Anakin is troubled by visions of Padmé dying in childbirth, and the fears of how he was unable to save his mother resurface. Seeking council from Jedi Master Yoda (Frank Oz), Anakin is unwilling to take the master's advice to not develop strong attachments, lest greed lead him to The Dark Side of the Force.Following the meeting, Palpatine meets with Anakin, and requests he be the chancellor's \"personal representative\" on the Jedi Council. Such an appointment would automatically make Anakin a Jedi Master, but as the council did not make this decision, they reach a compromise: Anakin may sit on the council per the Chancellors wishes, but not be given the rank of Master, leading to Anakin becoming angered at this decision.Following a council meeting wherein it is decided that Yoda is to go to Kashyyk to assist the Wookies in fighting against the Separatists, Anakin is concerned when Obi-Wan tells him off-the-record, that that council wish him to spy on the Chancellor, suspicious of his actions. Anakin appears to accept the request, but grows further disillusioned by the council, asking him to spy on someone he trusts.Anakin grows even more upset when Padme claims she feels the Republic is growing more corrupt, and asks him to talk to the Chancellor to help end the war and resume diplomacy.One evening, Anakin is called to the Coruscant Opera House for a private meeting with the Chancellor, who tells him that they have found General Grievous and the Separatist leaders hiding on the planet Utapau. Palpatine then requests Anakin sit with him, and confides in Anakin, that he believes the Jedi want to overthrow him, and take over the Republic. Anakin attempts to defend the Jedi, but finds himself conflicted.It is then that Palpatine starts telling him about a Sith legend, revolving around Darth Plagueis the Wise, who could use the powers of the Dark Side to save people from dying. This catches Anakin's attention, but Palpatine warns Anakin, that such powers cannot be wielded by a Jedi.Following the news of Grievous' whereabouts, the council decides to send Obi-Wan Kenobi to take on Grievous, going against the Chancellor's recommendation to have Anakin sent. Anakin is at first upset, but after some time to reflect, he sees Obi-Wan off, and apologizes for his frustrations as of late. Obi-Wan confides in his friend that he feels that Skywalker will eventually become a master, but just needs to be patient.Obi-Wan eventually engages General Grievous, and Anakin is sent by the council to tell the news to Palpatine.Upon reaching Palpatine's office, the chancellor then reveals to Anakin that he is a Sith Lord. However, given what Palpatine has told him, Anakin is unable to bring himself to strike down Palpatine, feeling he knows how to save Padme.Anakin then returns to the Jedi Temple, only to find that Obi-Wan has killed Grievous, and Mace Windo (Samuel L Jackson) and other Jedi are going to make sure that the emergency powers the chancellor has, are returned to the Senate...which is when Anakin reveals that Palpatine is a Sith Lord. This news changes Windu's plans, and he orders Anakin to wait in the council chambers until he and the others return.Anakin attempts to stay calm, but figures the Jedi will kill Palpatine...and with him, will go the secret to keeping his wife alive.Jumping into a ship, Anakin returns to the Chancellor's office, only to find Windu holding Palpatine at saber-point. The chancellor attempts to fight off Windu with force-lightning, which the Jedi deflects back on Palpatine, causing his face to take on a hideous visage.Anakin claims Palpatine must stand trial, but Windu is determined to kill the Sith Lord, but not before Anakin intervenes, slicing off Windu's hand, and leading to Palpatine blasting the Jedi Master with force lightning, and throwing him out a nearby window.Reeling from the realization that he attacked one of his superiors, Anakin is unsure what to do, until Palpatine requests he become his apprentice and learn the powers of the Dark Side. Anakin pledges his service to the dark lord, and is then 'knighted,' as Darth Vader.Palpatine then claims that every single Jedi is now an enemy of the Republic, and that the entire order must be destroyed, otherwise they will plunge the Republic into a perpetual state of civil war. Anakin is then tasked with destroying those in The Jedi Temple, before going to Mustafar, to destroy the Separatist Leaders and end the war.While Anakin leads an attack on the temple, Palpatine reaches out to clone commanders across the galaxy, executing 'Order 66,' which causes all the clones to turn on their Jedi Generals. Once his dark deeds are finished, Anakin goes to Padme, claiming he saw Mace Windu attempt to kill Palpatine, and claiming that his allegiance now lies with the Chancellor. He then tells Padme he must go to Mustafar, and intends to end the war, once and for all.Senator Bail Organa (Jimmy Smits) happens to see the temple attack, but is turned away by clone troopers. As he is about to leave, he sees a young Jedi attempting to fight them off, before the troopers kill him. Escaping from the temple, Organa is concerned for the Jedi, and going aboard his ship, heads off into space to see if he can find others who have survived the purge. He soon encounters Yoda and Obi-Wan Kenobi, who managed to escape. Yoda claims a retreat signal is also being broadcast from the Jedi Temple, and Obi-Wan recommends they go back there to stop it, to keep any other Jedi from returning and being killed.Upon their return to Coruscant, Bail is requested to attend an emergency meeting of the Congress. While the Yoda and Obi-Wan sneak off to the temple, Bail meets with Amidala in the Senate, where the two hear Palpatine declare that 'the Jedi rebellion has been foiled,' after they attempted to overthrow the Senate. Promising to wipe out every remaining Jedi, Palpatine then declares that the Republic will now be re-organized into the First Galactic Empire, much to the horror of Padme and Bail, but to thunderous applause from those around them who believe the Emperor's lies.Back at the temple, Obi-Wan and Yoda have succeeded in infiltrating the ruins, but the massacre of even the temple's Younglings has Obi-wan shaken. After taking care of the code, Obi-Wan finds security hologram footage...and is shaken when he sees Anakin has committed these acts, pledging his fealty to Palpatine. Yoda claims they must destroy the Sith, and goes off to fight Palpatine, leaving Obi-Wan to seek out Anakin.The following day, Obi-Wan goes to Padme, who is unwilling to believe the claims that her husband has turned to the Dark Side and that Palpatine is behind everything including the war, or tell Obi-Wan that she knows where he is. Obi-Wan also senses that Padme is pregnant, but can only apologize for what he knows he must do concerning the baby's father.Meanwhile, Anakin has eliminated the Separatist Leaders per Palpatine's orders. After reporting on these events to Palpatine, the Sith Lord tells his apprentice to have the Separatist's droid units be shut down immediately.After her meeting with Obi-Wan, Padme heads to Mustafar, where she confronts Anakin. Telling of what Obi-Wan explained to her, Anakin claims Obi-Wan is lying, and that he is now powerful enough to not only protect her, but powerful enough that the two of them can rule the galaxy. These words cause Padme to feel Anakin is too far-gone, but as she desperately tries to make him see reason, Anakin sees Obi-Wan aboard her ship, and angrily assumes she brought Kenobi there to kill him. In a blind rage, Anakin attempts to choke his wife, before she passes out. When Anakin claims those not with him are his enemy, Obi-Wan reluctantly pulls out his lightsaber, and the two begin a fierce duel.Back on Coruscant, Yoda confronts Palpatine. a lightsaber fight ensues, and the two soon find themselves in the Senate chambers, eventually using the senate's pods as weapons, before Yoda realizes the Sith Lord is too powerful to overcome. Using a commlink, Yoda calls for Bail to come to the Senate, and the Jedi Master is saved, but sadly feels he has failed to stop the Sith.Back on Mustafar, the duel between Anakin and Obi-Wan takes them through the Separatist's hideout, then out onto a river of lava. Eventually, Obi-Wan force-jumps onto a nearby bank. When he claims Anakin should not follow, the Sith Apprentice refuses to back down, and attempts to jump over the Jedi. Kenobi takes the chance to slice at Anakin, cutting off his limbs, and send him tumbling down to the edge of the lava river.As Obi-Wan watches, Anakin's clothing catches fire from the river, and the Master's apprentice screams in pain and agony, as Kenobi takes Anakin's saber and leaves, unable to help Anakin and unwilling to kill him.Some time later, having sensed that his apprentice was in danger, Palpatine arrives on Mustafar. The apprentice is then taken to an Imperial medical facility on Coruscant, where begins the painful task of trying to save Anakin.Meanwhile, Obi-Wan has taken Padme to a distant asteroid, wherein they are met by Yoda and Bail Organa. A medical examination shows Padme appears to be healthy, but seems to have lost the will to live. It is also revealed that she is pregnant with twins, and the medical droids work quickly to save the babies. Padme manages to see each of them, naming them Luke and Leia. Following the births, Padme tells Obi-Wan that she still believes some good exists in Anakin, before she expires.Back on Coruscant, Anakin has been rebuilt into an imposing figure in black, the suit he is now inside, the one thing keeping him alive. As he inquires about Padme, Palpatine claims in Anakin's anger, he killed her. This becomes a bitter blow to the once promising Jedi, who sacrificed everything...but now realizes out he has lost everything to his greed.Following Padme's death, her body is returned to Naboo. To keep her children safe, Bail Organa takes Leia to be his adopted daughter on Alderaan, while Obi-Wan takes Luke to his uncle and aunt on Tatooine. Yoda also tells Obi-Wan that while he will watch over Luke, he has training for him to conduct.On Bail's ship, he also leaves C-3PO and R2-D2 in the care of the ship's Captain, telling the loyal crew member to have the protocol droid's mind wiped.On Naboo, a massive funeral is held for the former Queen.On a Star Destroyer, the Emperor and Vader are now supervising the early stages of a super-weapon, called The Death Star.On Alderaan, Bail returns to his wife, and hands her their new, adopted daughter.On Tatooine, Obi-Wan hands Luke over to his uncle and aunt. As he walks off into the desert, the young couple stare at the twin suns rising over their homestead.",
+  "imdb_score": 7.6
+}

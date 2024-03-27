@@ -1,0 +1,403 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/9Ebn8atCcGk5OZrx4xmoTobAxoh.jpg",
+  "id": 1581,
+  "title": "The Holiday",
+  "poster_path": "https://image.tmdb.org/t/p/w500/6fbqG49Q7IWBWdyJ7asNTcNbnG6.jpg",
+  "release_date": "2006-12-08",
+  "vote_average": 7.086,
+  "vote_count": 4780,
+  "popularity": 35.827,
+  "overview": "Two women, one from the United States and one from the United Kingdom, swap homes at Christmas time after bad breakups with their boyfriends. Each woman finds romance with a local man but realizes that the imminent return home may end the relationship.",
+  "imdb_id": "tt0457939",
+  "budget": 85000000,
+  "homepage": "http://www.sonypictures.com/movies/theholiday/",
+  "revenue": 194168700,
+  "runtime": 136,
+  "tagline": "It's Christmas Eve and we are going to go celebrate being young and being alive.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    "Columbia Pictures",
+    "Universal Pictures",
+    "Relativity Media",
+    "Waverly Films",
+    "GH One"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Cameron Diaz",
+        "character": "Amanda Woods",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+      },
+      {
+        "name": "Kate Winslet",
+        "character": "Iris Simpkins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg"
+      },
+      {
+        "name": "Jude Law",
+        "character": "Graham Simpkins / Mr. Napkin Head",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pj75cHQ3oLSFPJ0IyB6Bkg6ytHu.jpg"
+      },
+      {
+        "name": "Jack Black",
+        "character": "Miles Dumont",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
+      },
+      {
+        "name": "Eli Wallach",
+        "character": "Arthur Abbott",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kk7VPq8yf0oQ1e9tDnptXn2u0tV.jpg"
+      },
+      {
+        "name": "Edward Burns",
+        "character": "Ethan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zmpieUNuPgoRg7xTluTaNNVxQZ7.jpg"
+      },
+      {
+        "name": "Rufus Sewell",
+        "character": "Jasper Bloom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yc2EWyg45GO03YqDttaEhjvegiE.jpg"
+      },
+      {
+        "name": "Miffy Englefield",
+        "character": "Sophie",
+        "profile_path": ""
+      },
+      {
+        "name": "Emma Pritchard",
+        "character": "Olivia",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah Parish",
+        "character": "Hannah",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vWcEkSmENll9Oauqq7C9nPxreO1.jpg"
+      },
+      {
+        "name": "Shannyn Sossamon",
+        "character": "Maggie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wb8IqhUm3j5epCiw6UwIV3nfNQR.jpg"
+      },
+      {
+        "name": "Bill Macy",
+        "character": "Ernie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gs6oJkNvogz8mr1azGiPBNY0yyw.jpg"
+      },
+      {
+        "name": "Shelley Berman",
+        "character": "Norman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2BSAgiQ1vuD7I04mteW0BGw89ro.jpg"
+      },
+      {
+        "name": "Kathryn Hahn",
+        "character": "Bristol",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg"
+      },
+      {
+        "name": "John Krasinski",
+        "character": "Ben",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pmVGDb6Yl6OyFcHVGbu1EYNfyFK.jpg"
+      },
+      {
+        "name": "Alex O'Loughlin",
+        "character": "Kissing Couple",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l3Cd7jD3r3TLkqWaDijmK7GgWxo.jpg"
+      },
+      {
+        "name": "Odette Annable",
+        "character": "Kissing Couple",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fWPmTC9QfqAKi3JKJKp2LKrm8Ix.jpg"
+      },
+      {
+        "name": "Bundle Williams",
+        "character": "Girl in Pub",
+        "profile_path": ""
+      },
+      {
+        "name": "Suzanne Dizon",
+        "character": "Newspaper Party Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Terry Diab",
+        "character": "Night Editor",
+        "profile_path": ""
+      },
+      {
+        "name": "Kenneth Danziger",
+        "character": "Editor",
+        "profile_path": ""
+      },
+      {
+        "name": "Hope Riley",
+        "character": "Sarah Smith-Alcott",
+        "profile_path": ""
+      },
+      {
+        "name": "Gilbert Esquivel",
+        "character": "Gardener",
+        "profile_path": ""
+      },
+      {
+        "name": "Steven Bruns",
+        "character": "Couple on Plane",
+        "profile_path": ""
+      },
+      {
+        "name": "Nikki Novak",
+        "character": "Couple on Plane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pd8J9sZTopKutgnxGmzEj2NDiBS.jpg"
+      },
+      {
+        "name": "Judith Drake",
+        "character": "Woman on Plane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7ou1hID0A4rmixEx2QDib97Pkgh.jpg"
+      },
+      {
+        "name": "Pamela Dunlap",
+        "character": "Woman on Plane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yiLlwzo2HhDO14YUdYYuDxhHbpx.jpg"
+      },
+      {
+        "name": "Hal Douglas",
+        "character": "Movie Trailer Narrator (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j9kaspOndThAN9tmibHoMuCyvr9.jpg"
+      },
+      {
+        "name": "Jay Simpson",
+        "character": "Limo-Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4UDQaaRqvMqPwJbUxJVZ7u6P7Wt.jpg"
+      },
+      {
+        "name": "Siobhan Pestano",
+        "character": "Couple with Dog",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Dinsdale",
+        "character": "Couple with Dog",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah Flind",
+        "character": "Market Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lBa8fpzY0sUsfU10PjE7VWsEbvB.jpg"
+      },
+      {
+        "name": "Darline Ann Harris",
+        "character": "Arthur's Nurse",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcell Brown",
+        "character": "Airport Security",
+        "profile_path": ""
+      },
+      {
+        "name": "Marina Morgan",
+        "character": "Graham's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Lynden Edwards",
+        "character": "Graham's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Lydia Blanco Garza",
+        "character": "Marta",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dB5klZc1MhXjyxL07esAFNJDoLF.jpg"
+      },
+      {
+        "name": "Jon Prescott",
+        "character": "Maggie's Boyfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rL7WQgJjQADITLxKazcEyWD2msD.jpg"
+      },
+      {
+        "name": "Patrick Cavanaugh",
+        "character": "Young Man at WGA",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5SCHkIGBfmc2aeFE1kKtWZ6mxBx.jpg"
+      },
+      {
+        "name": "Justin Collins",
+        "character": "Young Man at WGA",
+        "profile_path": ""
+      },
+      {
+        "name": "James Franco",
+        "character": "James Franco (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pgEe68922Ba20vAwPmAFQFm8U0c.jpg"
+      },
+      {
+        "name": "Lindsay Lohan",
+        "character": "Lindsay Lohan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ss9FsgHbaGlKZRPfrDdU9yPMhY6.jpg"
+      },
+      {
+        "name": "Dustin Hoffman",
+        "character": "Dustin Hoffman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
+      },
+      {
+        "name": "Dani Lennon",
+        "character": "Model (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sKwttRrhLKHtU82he9kTT5hnUNb.jpg"
+      },
+      {
+        "name": "Steven Quale",
+        "character": "News Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5egEoUCfyEMxjznMwYU27PbTrkn.jpg"
+      },
+      {
+        "name": "Lasco Atkins",
+        "character": "Embankment Pedestrian (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q0o1l6ss7ZEENyD9mk4hDPL0g5b.jpg"
+      },
+      {
+        "name": "Patrizia Barretto",
+        "character": "Traveler (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Drew Bayers",
+        "character": "Man in Airport (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brad Carr",
+        "character": "Jakob Ethridge - Airport Passenger (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Freddie De Grate",
+        "character": "Coach Passenger (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicholas Downs",
+        "character": "Peter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fi7OXmQcYzJdw5aEck2EO9q1Hg9.jpg"
+      },
+      {
+        "name": "Amber Elizabeth",
+        "character": "Shop Customer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Andy Gates",
+        "character": "Man on Tube (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1mECMq7oh6oXpCvne26uyNZE3q4.jpg"
+      },
+      {
+        "name": "Elizabeth Hara",
+        "character": "Girl in Restaurant (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jake Head",
+        "character": "Mixer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Halbert Hernandez",
+        "character": "Man in Resturant (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Humphreys",
+        "character": "Jeffrey (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Kellam",
+        "character": "Man in Airport (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Samantha Kelly",
+        "character": "Mrs. Ames - Schultz's Friend (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucy Lewendon",
+        "character": "Passerby (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jamie McCall",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark A. Nash",
+        "character": "Newsroom (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ka33m0G0mneehLzP9aNDkIP7kZY.jpg"
+      },
+      {
+        "name": "Ian Novotny",
+        "character": "WGA Man (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Vanessa Ross",
+        "character": "Lindsay Lohan's Friend (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Aqz4EXrvi1XlTOwsnKSq790oQfu.jpg"
+      },
+      {
+        "name": "Scott Slifer",
+        "character": "Passenger (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Arne Starr",
+        "character": "Man in Airport (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "David Venafro",
+        "character": "Usher (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Leanne Wilson",
+        "character": "Girl in Bar (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a6Z8cq2nZP7DSOMrDuqS2oF1Jo7.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Nancy Meyers",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oguBZ1ubDnY1FTrUXxjULulbXKV.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "london, england",
+    "holiday",
+    "movie business",
+    "christmas party",
+    "country house",
+    "surrey",
+    "los angeles, california",
+    "multiple storylines",
+    "woman director",
+    "christmas",
+    "house swapping"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Two women troubled with guy-problems swap homes in each other's countries, where they each meet a local guy and fall in love.",
+    "Iris is in love with a man who is about to marry another woman. Across the globe, Amanda realizes the man she lives with has been unfaithful. Two women who have never met and live 6000 miles apart, find themselves in the exact same place. They meet online at a home exchange website and impulsively switch homes for the holiday. Iris moves into Amanda's L.A. house in sunny California as Amanda arrives in the snow covered English countryside. Shortly after arriving at their destinations, both women find the last thing either wants or expects: a new romance. Amanda is charmed by Iris' handsome brother Graham and Iris, with inspiration provided by legendary screenwriter Arthur, mends her heart when she meets film composer Miles.—Anonymous"
+  ],
+  "synopsis": "Iris Simpkins (Kate Winslet), a society column editor for The Daily Telegraph in London, has been in love with Jasper Bloom (Rufus Sewell) for over three years, despite his infidelities. When she finds out that he is engaged to the \"other woman,\" Iris begins despairing over the state of affairs in her life. Meanwhile, Amanda Woods (Cameron Diaz), a workaholic who owns a company that produces movie trailers in Los Angeles, discovers that her live-in boyfriend Ethan Ebbers (Edward Burns) has cheated on her with his 24-year-old secretary. She decides she wants to get away for the holidays. She visits a home swap website on which Iris had previously listed her \"quaint cottage in Surrey. Amanda contacts Iris about her interest. Iris quickly agrees and the two agree to swap homes for two weeks.Iris revels in the luxury of Amanda's Los Angeles home, while Amanda is disappointed by the slower, quieter pace of life in Surrey. Amanda grows bored after just a few hours, and books a flight back for the next day. Later that night, Iris brother Graham (Jude Law) knocks at the door assuming Iris is home. Graham asks Amanda to let him spend the night despite the fact that he is a stranger, as he has been drinking at the pub and doesn't want to drive. They end up sleeping together.In the morning, Graham receives a number of phone calls from Sophie and Olivia, which rouses the suspicions of Amanda that Graham is a womanizer. Graham, knowing that Amanda is leaving to return home, says to Amanda that \"if the flight gets cancelled, [he is] having dinner at the pub\" with friends. At the airport Amanda decides to stay and goes to the pub. Graham enters the pub and looks for her but cannot see her until he meets his friends and then sees Amanda. Amanda drinks far too much that night. Graham suggests they go to lunch to get to know one another better. During lunch, Amanda shares with Graham that her parents divorced when she was fifteen and since then she has been unable to cry. Graham responds that he cries all the time: movies, books, sad stories, etc. While obviously enjoying each other's company, Amanda is worried that the relationship will become \"complicated,\" and tries to keep Graham at arm's length.Meanwhile, Iris is enjoying the stay at Amanda's house. She meets Ethan's friend Miles (Jack Black) when he comes with his girlfriend Maggie (Shannyn Sossamon) to Amanda's house. Later, she finds an old man, Arthur Abbott (Eli Wallach) standing lost at the corner, and she escorts him home. She learns that he was a script writer during the Golden Age of Hollywood. The two become fast friends. Arthur notes that Iris' behavior toward Jasper does not match her strong personality, and he suggests movies for her to watch that include strong female characters, in hopes that she can acquire what he calls \"gumption.\"Amanda chooses not to see Graham again but once alone in the house she has a change of heart and surprises Graham at his house. He looks extremely nervous at the door, Amanda asks Graham whether he is alone, and he says he isn't. Before she can turn away, Olivia and Sophie come to the door, revealing that they are Graham's young daughters. Amanda is shocked and asks Graham in a whisper if he is married. He says no, because his wife died two years ago. Amanda asks him why he did not reveal the existence of his daughters to her during their sharing at lunch. Graham explains that he doesn't usually tell women about them because he doesn't know how to date and be a dad. Amanda fits in beautifully, making Graham reconsider his decision to keep their relationship strictly casual.Iris finds out that the Screenwriters' Guild wants to throw a grand celebration in Arthur's honor, but he is reluctant to go for several reasons, chief among them being that he cannot walk without the assistance of his walker, and does not want to embarrass himself. Iris encourages him to go because it's a real honor, and promises to help him prepare to attend the award function with her. She undertakes an exercise program with him, determined to help him walk without his walker. During these days Jasper contacts her several times to get her to help with the book he is writing. She agrees to look over his pages, but ends up being so busy that she doesn't have time.Iris and Miles have slowly become friends, and one night go to the video store to rent some movies that Arthur had recommended. Miles sings his favorite songs from movies while he is holding the DVDs in his hand. He holds up a copy of 'The Graduate' and goes, \"Uh oh...Where have you gone, Joe DiMaggio? - I bet you didn't know, it was all written for the movie, it was a score, technically.\" We see Dustin Hoffman looking at DVDs and saying, \"I can't believe this... I can't go anywhere!\"From the video store, Miles sees his girlfriend Maggie in the arms of another guy. He is shocked, as she told him that she would be in Santa Fe on an extended film shoot and would not be in L.A. for this Christmas Eve. He runs out of the store to find out the truth and realizes that she has betrayed him. Iris and Miles return to Amanda's house, where they discuss their tendencies to fall for people that they know are wrong for them, and they grow closer for it. They are now both single, and begin to spend more time together. But one day while Miles and Iris are eating lunch together, Maggie calls Miles and wants to see him. Miles leaves to see her, but promises to come to Arthur's award ceremony that night. Iris goes back to Amanda's, where she is shocked to find Jasper. Iris is touched at first, but then asks if he is still engaged. When he responds that he is, she finally breaks up with him for good. Meanwhile, Maggie tries in vain to convince Miles to forgive her. He realizes that Maggie was never meant for him and he can never trust her anymore. He breaks up with her and rushes to attend Arthurs award ceremony.Iris and Arthur arrive at the ceremony and are very surprised to find the hall filled with people all standing and applauding his achievements. That, plus the song that Miles wrote especially for Arthur for this moment, gives him the confidence to walk onto the stage unassisted. Miles arrives and asks Iris for a date on New Year's Eve. Iris responds that she will be back in London by then; Miles replies \"I have never been to London.\" Iris responds that she would love to spend the evening with Miles. Meanwhile, Graham confesses his love for Amanda on the night before she is scheduled to depart. Amanda insists it is over, she is certain a long-distance relationship will never work. On her way to the airport, she cries for the first time since she was fifteen years old, and returns to the house to find Graham crying. Amanda tells him that she has decided to stay until New Year's Eve with him. Iris and Miles celebrate the New Year with Amanda and Graham and his daughters, enjoying the evening laughing and dancing together.",
+  "imdb_score": 6.9
+}

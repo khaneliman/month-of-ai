@@ -1,0 +1,527 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/gHtCBCQrzT6MvCylcvgFWPMZ1E2.jpg",
+  "id": 9880,
+  "title": "The Princess Diaries",
+  "poster_path": "https://image.tmdb.org/t/p/w500/wA4lgl8gmoICSShviCkEB61nIBB.jpg",
+  "release_date": "2001-08-03",
+  "vote_average": 6.947,
+  "vote_count": 4698,
+  "popularity": 37.502,
+  "overview": "A socially awkward but very bright 15-year-old girl being raised by a single mom discovers that she is the princess of a small European country because of the recent death of her long-absent father, who, unknown to her, was the crown prince of Genovia. She must make a choice between continuing the life of a San Francisco teen or stepping up to the throne.",
+  "imdb_id": "tt0247638",
+  "budget": 37000000,
+  "homepage": "",
+  "revenue": 165335153,
+  "runtime": 115,
+  "tagline": "She rocks. She rules. She reigns.",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Romance"
+  ],
+  "production_companies": [
+    "Bottom of the Ninth Productions",
+    "Walt Disney Pictures",
+    "BrownHouse Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Anne Hathaway",
+        "character": "Amelia \"Mia\" Thermopolis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg"
+      },
+      {
+        "name": "Julie Andrews",
+        "character": "Queen Clarisse Renaldi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kTXM2KfsXh2vSav0s9vaDKfs4lR.jpg"
+      },
+      {
+        "name": "Patrick John Flueger",
+        "character": "Jeremiah Hart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gfUmEGjAUwXJOJs0YekWx8aV2ZP.jpg"
+      },
+      {
+        "name": "Heather Matarazzo",
+        "character": "Lilly Moscovitz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/afZhMKmsAHZA9jHq7F9tNUFZci6.jpg"
+      },
+      {
+        "name": "Hector Elizondo",
+        "character": "Joe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Mfx9xeOFKXtzVpAc1488LiHs0b.jpg"
+      },
+      {
+        "name": "Mandy Moore",
+        "character": "Lana Thomas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gEMfAKZAbBRzvBDj42DambFs9to.jpg"
+      },
+      {
+        "name": "Caroline Goodall",
+        "character": "Helen Thermopolis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4cagGtMqACvkuw6Llq8Li8UJ1AR.jpg"
+      },
+      {
+        "name": "Robert Schwartzman",
+        "character": "Michael Moscovitz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aA0kVZY28PHOmCfWfDALS4oYZ6u.jpg"
+      },
+      {
+        "name": "Erik von Detten",
+        "character": "Josh Bryant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7fHjKnLKmqzR0kmvRPLxpQE7BsK.jpg"
+      },
+      {
+        "name": "Sean O'Bryan",
+        "character": "Patrick O'Connell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nS6ZEJvn6O7FCNcDSeIFfbwpW03.jpg"
+      },
+      {
+        "name": "Sandra Oh",
+        "character": "Vice Principal Gupta",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
+      },
+      {
+        "name": "Kathleen Marshall",
+        "character": "Charlotte Kutaway",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jXYjUK0kCbVn18B9wm6Tdv1trfV.jpg"
+      },
+      {
+        "name": "Mindy Burbano",
+        "character": "Ms. Harbula",
+        "profile_path": ""
+      },
+      {
+        "name": "Kimleigh Smith",
+        "character": "Ms. Wells",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qVPEoFvvC1LQCyyfvTbxxtxI0CB.jpg"
+      },
+      {
+        "name": "Elizabeth Gudenrath",
+        "character": "Anna",
+        "profile_path": ""
+      },
+      {
+        "name": "Bianca Lopez",
+        "character": "Fontana",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mfiMebY1XSnFEDplwN3aExUThEO.jpg"
+      },
+      {
+        "name": "Tamara Levinson",
+        "character": "Lupe",
+        "profile_path": ""
+      },
+      {
+        "name": "Lenore Thomas",
+        "character": "Melissa",
+        "profile_path": ""
+      },
+      {
+        "name": "Erik Bragg",
+        "character": "Bobby Bad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ocBkakwTsFAlwofzmtKXR10RS9q.jpg"
+      },
+      {
+        "name": "Meredith Shevory",
+        "character": "Meredith",
+        "profile_path": ""
+      },
+      {
+        "name": "Anita Marie Curran",
+        "character": "Anita",
+        "profile_path": ""
+      },
+      {
+        "name": "Cassie Rowell",
+        "character": "Alice",
+        "profile_path": ""
+      },
+      {
+        "name": "Todd Lowe",
+        "character": "Eric",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4TAmLB4DGNZnAzYAskNZtVWMMPB.jpg"
+      },
+      {
+        "name": "Joe Unitas",
+        "character": "Coach Joe Ewe",
+        "profile_path": ""
+      },
+      {
+        "name": "Joel McCrary",
+        "character": "Prime Minister Motaz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2zFMn8HRSkjz1PwVrev9P3dm9if.jpg"
+      },
+      {
+        "name": "Clare Sera",
+        "character": "Maria Motaz",
+        "profile_path": ""
+      },
+      {
+        "name": "Greg Lewis",
+        "character": "Siegfried von Troken",
+        "profile_path": ""
+      },
+      {
+        "name": "Bonnie Aarons",
+        "character": "Joy von Troken",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iEtWuoXKx4ZKbIWwJp1V76Heavy.jpg"
+      },
+      {
+        "name": "Darwood Chung",
+        "character": "Emperor Sakamoto",
+        "profile_path": ""
+      },
+      {
+        "name": "Julie Paris",
+        "character": "Princess Palisades",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff Michalski",
+        "character": "Scottish Duke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3PkPMrxFMQDnlJt2Zqjr543JXlt.jpg"
+      },
+      {
+        "name": "Erin O'Reilly",
+        "character": "Scottish Duchess",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Restivo",
+        "character": "Count Vitello",
+        "profile_path": ""
+      },
+      {
+        "name": "Brigitta Lauren",
+        "character": "Lady Lindenlaub",
+        "profile_path": ""
+      },
+      {
+        "name": "Jane Morris",
+        "character": "Lady Evergreen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8rNS5qEl8ALKa5spSExpuIUA4vR.jpg"
+      },
+      {
+        "name": "Gary Combs",
+        "character": "Lord Fricker",
+        "profile_path": ""
+      },
+      {
+        "name": "Marvin Braverman",
+        "character": "State Dinner Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Allan Kent",
+        "character": "State Dinner Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Glaudini",
+        "character": "Adolpho",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Ferrell",
+        "character": "Darrell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/juuz32NIZWhrR6WjqrqLZ6GyhQ8.jpg"
+      },
+      {
+        "name": "Joe Ross",
+        "character": "Consulate Maitre D'",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Guardino",
+        "character": "Mel",
+        "profile_path": ""
+      },
+      {
+        "name": "Sparrow Heatley",
+        "character": "Gretchen",
+        "profile_path": ""
+      },
+      {
+        "name": "Gwenda Perez",
+        "character": "Helga",
+        "profile_path": ""
+      },
+      {
+        "name": "Barbara Marshall",
+        "character": "Lady Jerome",
+        "profile_path": "https://image.tmdb.org/t/p/w185/irxfgI3BafRwZTzYxnCz47ShvQf.jpg"
+      },
+      {
+        "name": "Sam Denoff",
+        "character": "Lord Jerome",
+        "profile_path": ""
+      },
+      {
+        "name": "Tracy Reiner",
+        "character": "Spencer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tfIh2dPe4tGITdlsPZXBNeqvZwW.jpg"
+      },
+      {
+        "name": "Daru Kawalkowski",
+        "character": "Countess Puck",
+        "profile_path": ""
+      },
+      {
+        "name": "Diane Frazen",
+        "character": "Ball Guest Diane",
+        "profile_path": ""
+      },
+      {
+        "name": "Stanley Frazen",
+        "character": "Stanley",
+        "profile_path": ""
+      },
+      {
+        "name": "Barbara Nabozny",
+        "character": "Barbara",
+        "profile_path": ""
+      },
+      {
+        "name": "Ira Glick",
+        "character": "Dr. Glunk",
+        "profile_path": ""
+      },
+      {
+        "name": "Sol Rosenthal",
+        "character": "Lawyer Ball Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Hope Alexander-Willis",
+        "character": "Lady Caroline",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e3SRG8yhIHxC3KPq8KN30fz68jO.jpg"
+      },
+      {
+        "name": "Joe Allen Price",
+        "character": "Father Joseph",
+        "profile_path": ""
+      },
+      {
+        "name": "Willie Brown",
+        "character": "Himself",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick Richwood",
+        "character": "Mr. Robutusen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sSp6c5VrBfARdCLwbDBJvtAkePM.jpg"
+      },
+      {
+        "name": "Terry Brown",
+        "character": "Arthur Washington",
+        "profile_path": ""
+      },
+      {
+        "name": "James Brown Orleans",
+        "character": "Dr. Motors",
+        "profile_path": ""
+      },
+      {
+        "name": "Rob Zylowski",
+        "character": "Pizza Delivery Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Karl Makinen",
+        "character": "Schiavone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ygsPhDLug9eHe6Yg5GmdZrfGrfi.jpg"
+      },
+      {
+        "name": "Sunny Hawks",
+        "character": "Vivian",
+        "profile_path": ""
+      },
+      {
+        "name": "Kathy Garver",
+        "character": "Cable Tourist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fdRtDVk0uoXkImDbhDTVhgSFe0n.jpg"
+      },
+      {
+        "name": "Erika Young",
+        "character": "Umbrella Lady",
+        "profile_path": ""
+      },
+      {
+        "name": "Ethan Sandler",
+        "character": "Tour Bus Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i6FAeTszriXIuqJbGIKpmOswfzg.jpg"
+      },
+      {
+        "name": "Shan Elliot",
+        "character": "Michael's Bandmate",
+        "profile_path": ""
+      },
+      {
+        "name": "Trey Carter",
+        "character": "Michael's Bandmate",
+        "profile_path": ""
+      },
+      {
+        "name": "Bud Markowitz",
+        "character": "Pear Juggler",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Thompson",
+        "character": "DJ Mark",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uQLEE9AzJsZcZcdzgTbNiTUWFWw.jpg"
+      },
+      {
+        "name": "Brian Phelps",
+        "character": "DJ Brian",
+        "profile_path": ""
+      },
+      {
+        "name": "Lily Marshall-Fricker",
+        "character": "Kid Autograph Seeker",
+        "profile_path": ""
+      },
+      {
+        "name": "Sandra Taylor",
+        "character": "Suki Sanchez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8NHNTDoOEkL0JaTrN9uq6T6J3Fk.jpg"
+      },
+      {
+        "name": "Tom Hines",
+        "character": "Nelson Davenport",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicholle Tom",
+        "character": "Cassie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vFmRLcY6J5IS9DikiHKmRv4lL1n.jpg"
+      },
+      {
+        "name": "Patrick Noonan",
+        "character": "Suki's Cameraman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kJENW5zGcvbQiASqFs6rpyfjtlS.jpg"
+      },
+      {
+        "name": "Ali Gage",
+        "character": "Beach Reporter Ali",
+        "profile_path": ""
+      },
+      {
+        "name": "John Moran",
+        "character": "Beach Photographer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tanya DiFrancesco",
+        "character": "Beach Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Shannon Wilcox",
+        "character": "Ball Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4GPHCEcw02i2QN94EGfRIu04ymV.jpg"
+      },
+      {
+        "name": "Tonje Larsgard",
+        "character": "Ball Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Rueben Grundy",
+        "character": "Street Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1lKO1XobnDS4F1rCw1jejvy5vME.jpg"
+      },
+      {
+        "name": "Gwen Holloway",
+        "character": "Street Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rbm32MdEVPWXXibWEIv01Kzunim.jpg"
+      },
+      {
+        "name": "Lori Sigrist",
+        "character": "Twin Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Terri Sigrist",
+        "character": "Twin Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Andy Arness",
+        "character": "Teacher (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4QoytkR9sdqQ9H4r0PiFdvXkTm9.jpg"
+      },
+      {
+        "name": "René Auberjonois",
+        "character": "Philippe Renaldi (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1EZ6FnJGzwRl7XndkX8fBo8Tej3.jpg"
+      },
+      {
+        "name": "Ned Brower",
+        "character": "Michael's Bandmate (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gJASkbpnZZEPzbztyZQarP7bqi7.jpg"
+      },
+      {
+        "name": "Jodi Essex",
+        "character": "Model (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kdVw2AFsYe2zRUTQpUw0v3ZzENp.jpg"
+      },
+      {
+        "name": "Larry Miller",
+        "character": "Paolo (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ajnXlXG20LJwAwxne8G94ucVj0v.jpg"
+      },
+      {
+        "name": "Barry Ratcliffe",
+        "character": "Cop #2 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/btQlqpvKhNe0TvOVGGO8sSfbKxU.jpg"
+      },
+      {
+        "name": "Craig Richards",
+        "character": "Student's Father (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7xMTA69DhIA7es4eIX82sfLebrv.jpg"
+      },
+      {
+        "name": "Terry Wayne",
+        "character": "Clark (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5HjCgXE7TiKg1H61I1QCnVgM1Kr.jpg"
+      },
+      {
+        "name": "Charlotte Marshall-Fricker",
+        "character": "Kid Autograph Seeker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3kPolAVl5V6iX3OlCsp8iVppN4p.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Garry Marshall",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ergjvb7J3UnbBnX1f7GvFVZSaci.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "princess",
+    "high school",
+    "based on novel or book",
+    "grandparent grandchild relationship",
+    "heir to the throne",
+    "royalty",
+    "social outcast",
+    "fictitious country",
+    "based on young adult novel"
+  ],
+  "mpaa": "G",
+  "summaries": [
+    "Mia Thermopolis has just found out that she is the heir apparent to the throne of Genovia. With her friends Lilly and Michael Moscovitz in tow, she tries to navigate through the rest of her sixteenth year.",
+    "Mia Thermopolis (Anne Hathaway) is the average teenager - sweet, a little geeky, and pretty much invisible to everyone with the exception of her mother, best friend Lilly (Heather Matarazzo) and Lilly's older brother Michael (Robert Schwartzman). Making it through high school without throwing up is a challenge in itself for Mia, so it doesn't come as welcome news when her estranged grandmother, Queen Clarisse Renaldi (Dame Julie Andrews), shows up out of the blue and calmly informs her that she is in fact the heir to the throne of a European country called Genovia. Suddenly Mia's life is thrown into complete overload. She's being taught about scarves, waves, and pears in order to become a perfect Princess, she gets a makeover and a tough looking, yet sweet bodyguard and limo driver called Joe (Hector Elizondo). Things get out of hand when the media gets a hold of the story and suddenly Mia is thrust into the spotlight in the newspapers and in school. On top of all of that, Mia has a choice to make. She must decide by Genovia's Independence Day Ball whether she longs to relinquish her claim on the throne or to become the Princess and heir to the throne her father, Philippe Renaldi (Rene Auberjonois), and grandmother want her to be.—LadyN1",
+    "A socially awkward but very bright 15-year-old girl being raised by a single mom discovers that she is the princess of a small European country because of the recent death of her long-absent father, who, unknown to her, was the crown prince of Genovia. She must make a choice between continuing the life of a San Francisco teen or stepping up to the throne. While Mia makes up her mind, she's pressed into taking princess lessons from her grandmother.—Anonymous",
+    "Mia Thermopolis (Anne Hathaway), an awkward San Francisco teenager, has just learned her deceased father, Philippe Renaldi (Rene Auberjonois), was the Crown Prince of Genovia. To keep the royal reigns from passing to another family due to a broken bloodline, Queen Clarisse Renaldi (Dame Julie Andrews) seeks the favor of her estranged granddaughter in hopes that she will take her father's place as the Crown Princess. While Mia contemplates her future, her grandmother insists on turning her from a social misfit to a lady fit for the throne. What these two discover about each other is that blood is more important than bloodlines.—Robin <soonerzs@yahoo.com>"
+  ],
+  "synopsis": "Mia Thermopolis (Anne Hathaway) is a fifteen-year-old tenth grade private school student who lives with her mother Helen Thermopolis (Caroline Goodall) and her cat, Fat Louie, in a renovated San Francisco firehouse. Mia is an average, plain-looking student, but extremely unpopular. She is seemingly invisible to her crush, Josh Bryant (Erik von Detten) and his cheerleader girlfriend Lana Thomas (Mandy Moore). Mia, however, has one best friend: Lilly Moscovitz (Heather Matarazzo) as well as Lilly's brother Michael (Robert Schwartzman).A few weeks before Mia's sixteenth birthday, Mia learns her paternal grandmother is visiting from Genovia, a small European kingdom. Mia meets her grandmother, Queen Clarisse Renaldi (Julie Andrews), at the Genovian consulate for the first time in her life. Queen Clarisse explains that the reason she wanted to see her was because of a \"life-changing\" problem. Mia learns that her father was Crown Prince of Genovia and, due to his recent death, she is now next and sole heir to the Genovian throne. She is shocked to learn that she is in fact a princess and runs away, rejecting the notion.Queen Clarisse visits Mia and Helen and explains that if Mia refuses the throne, Genovia will be without a ruler. She also explains that Mia needs to be presented as their princess at the upcoming Genovian State Dinner. Helen convinces Mia to attend \"princess lessons\" with the Queen, who tells Mia need not have to make her decision on accepting the throne until the annual Genovian Independence Day ball. The Queen gives Mia a limousine to use as well as her own bodyguard, Joseph \"Joe\" (Hector Elizondo), the Queen's head of security.Mia begins seeing her grandmother everyday after school for her lessons, which include table manners, dancing, and personal presentation. Mia's frequent absence begins to put Lilly on-edge, and after Mia receives a makeover from Italian hairdresser Paolo (Larry Miller), Lilly confronts her and accuses her of trying to be like the popular girls. Mia breaks down and tells Lilly everything, changing her friends' attitude completely. Mia makes Lilly promise not to tell anyone (including Michael) that she is a princess, because the Queen wants to keep everything a secret until the ball as to avoid a frenzy with the press.The San Francisco Chronicle however learns that Mia is the Genovian Crown Princess after Paolo violates his confidentiality agreement. Although thoroughly annoyed, Queen Clarisse presses onward and prepares for the State Dinner. Mia attends, but publicly humiliates herself and her grandmother with her clumsiness.The following day, Mia agrees to appear on Lilly's public-access television program Shut Up and Listen, and to watch Michael's band perform at a venue that Saturday night. Mia is almost sixteen, so she is almost able to drive a car (her \"baby\", a vintage Ford Mustang). She takes a test drive with her grandmother and they go to an arcade. Mia asks her grandmother if her father wanted to be prince; she replies he did but that he thought of abdicating only once-when he fell in love with Helen. However, he realized his love for his country was greater.While driving back to the Genovian consulate, Mia's car fails on a hill and rams into one of San Francisco's famous cable cars loaded with people. No one is injured, but two nuns call the police. To save Mia a trip to the police station (she was driving without a license), Queen Clarisse appoints the police man and trolley master to the \"Genovian Order of the Rose\" (a fictitious Chivalric order she devised on the spot). The men are so flattered that they drop any charges and give Queen Clarisse and Mia a ride back to the consulate in a police car.Josh Bryant, the cute boy Mia has a crush on, asks her to go with him to the school's annual beach party. She excitedly agrees, but Michael and Lilly are both hurt that she blew them off for the popular kids. Mia's mother wisely points out Josh never liked her before all this princess business, but Mia ignores this observation.The beach party goes well at first, but spirals out of control when the media arrives (Tipped off by Lana). Josh uses Mia to get his fifteen minutes of fame by publicly kissing her, after which Lana and her two popular friends trick Mia into undressing in a tent. They remove the tent as she is semi-nude and humiliate her by calling the paparazzi, who snap photos of her covered in a towel. Mia's gym coach shoos off the paparazzi and takes Mia home. Later that night, Mia cries in her mother's arms.The unflattering photos wind up on tabloid covers the following day and this displeases Queen Clarisse. She chides her granddaughter, then tells her that she may still attend the ball and invite friends, except Josh. Joe later reminds Queen Clarisse that although Mia is a princess, she is still a teenager and Clarisse's granddaughter. To rescue her friendships with Lilly and Michael, Mia apologizes and invites them to the Genovian Independence Day Ball, where she must reveal her decision on accepting the duties of a princess. Around the same time, Mia publicly humiliates Lana by smearing ice cream on her cheerleader dress at school in front of students and calling her a jerk, much to her distress and the amusement of the other students (including Lilly, who is very impressed). The teachers don't intervene, knowing that she deserved it.Upon learning she must personally and publicly announce her decision, the terrified Mia plans to run away. She is stopped when she finds a sixteenth birthday gift (the titular diary) and a letter from her father written before his death. Touched by his words, she changes her mind and makes her way to the ball. Her car breaks down on the way, but she is saved by Joe, who arrives with a limousine (having suspected her plans to run away).When they arrive, Mia makes a speech, voicing her acceptance of the Genovian throne. She shares her first dance with Michael, who then takes her outside to the consulate's garden where they kiss. Clarisse and Joe are seen holding hands, signifying the start of a relationship. The last scene shows Mia on the plane with Joe and her cat, whose name is Fat Louie. Mia is writing in her diary, explaining that she is moving with her mother to Genovia, and that Lilly and Michael will visit her during summer holiday. When Mia looks out of the plane's window, Joe welcomes her to Genovia as she sees the beautiful royal palace and landscape below.",
+  "imdb_score": 6.4
+}

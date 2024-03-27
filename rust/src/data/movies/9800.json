@@ -1,0 +1,376 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/tUeMIPdYo1eXJZdBhxw4118RIAm.jpg",
+  "id": 9800,
+  "title": "Philadelphia",
+  "poster_path": "https://image.tmdb.org/t/p/w500/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+  "release_date": "1993-12-22",
+  "vote_average": 7.728,
+  "vote_count": 4016,
+  "popularity": 24.392,
+  "overview": "Two competing lawyers join forces to sue a prestigious law firm for AIDS discrimination. As their unlikely friendship develops their courage overcomes the prejudice and corruption of their powerful adversaries.",
+  "imdb_id": "tt0107818",
+  "budget": 26000000,
+  "homepage": "",
+  "revenue": 206678440,
+  "runtime": 126,
+  "tagline": "No one would take on his case... until one man was willing to take on the system.",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "TriStar Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Andrew Beckett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg"
+      },
+      {
+        "name": "Denzel Washington",
+        "character": "Joe Miller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+      },
+      {
+        "name": "Jason Robards",
+        "character": "Charles Wheeler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9y0HAtWWBkB02gVzh8QDdz6UYZH.jpg"
+      },
+      {
+        "name": "Mary Steenburgen",
+        "character": "Belinda Conine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eZxnEyh84tYHfadHwCpbOhoeeX6.jpg"
+      },
+      {
+        "name": "Antonio Banderas",
+        "character": "Miguel Alvarez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ougxF1TeCzzHmtVOpZofInUwJZP.jpg"
+      },
+      {
+        "name": "Ron Vawter",
+        "character": "Bob Seidman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f5WDxaiBGOP5bg3JsZEpotnJYbE.jpg"
+      },
+      {
+        "name": "Robert Ridgely",
+        "character": "Walter Kenton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9KXMqTrSeIxcW6hlCJZ6CTzNeMB.jpg"
+      },
+      {
+        "name": "Charles Napier",
+        "character": "Judge Garnett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kXenIuk3NWtwihRQIyrqQKf4d2t.jpg"
+      },
+      {
+        "name": "Lisa Summerour",
+        "character": "Lisa Miller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hN6jxYkoEgwOAExnwuaPMlLQTkS.jpg"
+      },
+      {
+        "name": "Obba Babatundé",
+        "character": "Jerome Green",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jkvxfhETmwR877VluO5kfbxxNER.jpg"
+      },
+      {
+        "name": "Andre B. Blake",
+        "character": "Young Man in Pharmacy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fDqEAu9Y2OyoGSG5W9HQNLbFBF5.jpg"
+      },
+      {
+        "name": "Robert W. Castle",
+        "character": "Bud Beckett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5NIaVNPRVEFCHTrp0o19JzmOJIL.jpg"
+      },
+      {
+        "name": "Daniel Chapman",
+        "character": "Clinic Storyteller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7aD5xIlO9vDxv1YRzyteeCUz6eN.jpg"
+      },
+      {
+        "name": "Roger Corman",
+        "character": "Mr. Laird",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kWvtdBp4AVSOwluWwZ1WhsKlAfk.jpg"
+      },
+      {
+        "name": "Ann Dowd",
+        "character": "Jill Beckett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zo44U71uiMNVW1HSiOa5F9MpqIq.jpg"
+      },
+      {
+        "name": "David Drake",
+        "character": "Bruno",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oC8XaUr5DrZq5DvDPPQokpRAyOd.jpg"
+      },
+      {
+        "name": "Karen Finley",
+        "character": "Dr. Gillman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n87A08kshhdj5CC75DJazCrZkcj.jpg"
+      },
+      {
+        "name": "Charles Glenn",
+        "character": "Kenneth Killcoyne",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Jacobs",
+        "character": "Peter / Mona Lisa",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Lazar",
+        "character": "Dr. Klenstein",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2lZdlxrQaKWBLD8BoolYLzTtzOW.jpg"
+      },
+      {
+        "name": "John Bedford Lloyd",
+        "character": "Matt Beckett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tyNDFeQgf2dyjBZtRAskz1lZG1I.jpg"
+      },
+      {
+        "name": "Roberta Maxwell",
+        "character": "Judge Tate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ejMmpGmtr2FbLWdSZqhMzXKJ0bG.jpg"
+      },
+      {
+        "name": "Warren Miller",
+        "character": "Mr. Finley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ajEuTGvG1gPNYV2eoCoF3IgQx5y.jpg"
+      },
+      {
+        "name": "Harry Northup",
+        "character": "Juror",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1ezyUMnxuYuY21ZstfgZRutuwJ9.jpg"
+      },
+      {
+        "name": "Dan Olmstead",
+        "character": "Randy Beckett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qof2JiKhuq4SwyCOaXIxS5euct6.jpg"
+      },
+      {
+        "name": "Joey Perillo",
+        "character": "Filko",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xlRiQMyme8Ew3mUBD0qXSnz0XyW.jpg"
+      },
+      {
+        "name": "Lauren Roselli",
+        "character": "Iris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v9wncWACcVpr6rGFbfx8kZuv5WW.jpg"
+      },
+      {
+        "name": "Anna Deavere Smith",
+        "character": "Anthea Burton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rh6fPQJ7Eudb2El7B54bHZdcBQr.jpg"
+      },
+      {
+        "name": "Lisa Talerico",
+        "character": "Shelby",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel von Bargen",
+        "character": "Jury Foreman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2S03pvALrrAkXU8TdDSuYevtdBc.jpg"
+      },
+      {
+        "name": "Tracey Walter",
+        "character": "Librarian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/brqhinzxGKzqfAhOq6Npi3GFVWW.jpg"
+      },
+      {
+        "name": "Bradley Whitford",
+        "character": "Jamey Collins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oeDv2qZWTxELLaNtOIoeG72leNY.jpg"
+      },
+      {
+        "name": "Chandra Wilson",
+        "character": "Chandra",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8MKBEjNpwrh7bWa05GdrMfZWmQA.jpg"
+      },
+      {
+        "name": "Kathryn Witt",
+        "character": "Melissa Benedict",
+        "profile_path": ""
+      },
+      {
+        "name": "Joanne Woodward",
+        "character": "Sarah Beckett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/exxVnvJM9oTT1zEjFhcEHidpQ6P.jpg"
+      },
+      {
+        "name": "Buzz Kilman",
+        "character": "Crutches",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Sorensen Jr.",
+        "character": "Clinic Patient",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeffrey Williamson",
+        "character": "Tyrone",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephanie Roth Haberle",
+        "character": "Rachel Smilow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2YDAG6BNifwwtEGG7h2Xg4u9za0.jpg"
+      },
+      {
+        "name": "Bill Rowe",
+        "character": "Dr. Armbruster",
+        "profile_path": ""
+      },
+      {
+        "name": "Ford Wheeler",
+        "character": "Alan",
+        "profile_path": ""
+      },
+      {
+        "name": "Julius Erving",
+        "character": "Himself",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tvBg6Zu1Lgs6QQMaq7Y0XWVyFjz.jpg"
+      },
+      {
+        "name": "Adam LeFevre",
+        "character": "Jill's Husband",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5PHvUM9YwGbwAZIxNHBeSadesnL.jpg"
+      },
+      {
+        "name": "Gary Goetzman",
+        "character": "Guido Paonessa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2TKYocTs7Ev3kNce23HnMhoxIIb.jpg"
+      },
+      {
+        "name": "Kenneth Utt",
+        "character": "Juror",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aRYXUGXoIhSuBXM0SyaPzZynNgt.jpg"
+      },
+      {
+        "name": "Lawrence T. Wrentz",
+        "character": "Juror",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sDi4IxpyGQnId2PETXMep4TuCmL.jpg"
+      },
+      {
+        "name": "Charles Techman",
+        "character": "Ralph Peterson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ywRscc1bqdzMYxSOXTDldbwpBBF.jpg"
+      },
+      {
+        "name": "Jim Roche",
+        "character": "Not Adam and Steve",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Fitzpatrick",
+        "character": "Bartender",
+        "profile_path": ""
+      },
+      {
+        "name": "Gene Borkan",
+        "character": "Bailiff",
+        "profile_path": ""
+      },
+      {
+        "name": "Q Lazzarus",
+        "character": "Party singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucas Platt",
+        "character": "Robert",
+        "profile_path": ""
+      },
+      {
+        "name": "José Castillo",
+        "character": "Miguel's Dad",
+        "profile_path": ""
+      },
+      {
+        "name": "Roy Blount Jr.",
+        "character": "Partygoer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob Bowersox",
+        "character": "PR Director (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ejHaZJ7U0UErPq2g9ZAaDeYKs05.jpg"
+      },
+      {
+        "name": "Quentin Crisp",
+        "character": "Guest at Party (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9kp2xAPdUtZnmSTmpiNxoBQz5Tj.jpg"
+      },
+      {
+        "name": "Tom Detrik",
+        "character": "Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Devon",
+        "character": "Security Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o8KsixveQn7inWu4VrjIGt1i4rH.jpg"
+      },
+      {
+        "name": "Tak Fujimoto",
+        "character": "Doctor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xXuDkPrRjxdJao0QgXkb9DI9N7h.jpg"
+      },
+      {
+        "name": "Ana Leza",
+        "character": "Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jaime Gomez",
+        "character": "Guy in Library (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j7pTqqYGuQTAgcP393TQBwxwPi2.jpg"
+      },
+      {
+        "name": "Elizabeth Roby",
+        "character": "Elizabeth Beckett",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jonathan Demme",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w9Lw3xTEFQUYELkl9AH5i3p5OhJ.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "philadelphia, pennsylvania",
+    "court",
+    "jurors",
+    "aids",
+    "pennsylvania, usa",
+    "homophobia",
+    "lawsuit",
+    "partner",
+    "hiv",
+    "lawyer",
+    "dying",
+    "lgbt",
+    "discrimination",
+    "judiciary",
+    "1980s",
+    "courtroom drama",
+    "gay theme"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "When a man with HIV is fired by his law firm because of his condition, he hires a homophobic small time lawyer as the only willing advocate for a wrongful dismissal suit.",
+    "Fearing it would compromise his career, lawyer Andrew Beckett hides his homosexuality and HIV status at a powerful Philadelphia law firm. But his secret is exposed when a colleague spots the illness's telltale lesions. Fired shortly afterwards, Beckett resolves to sue for discrimination, teaming up with Joe Miller (Denzel Washington), the only lawyer willing to help. In court, they face one of his ex-employers top litigators, Belinda Conine.—SAMUEL AXON",
+    "Hard-working, meticulous, and above all, devoted, the young attorney, Andrew Beckett, sees his efforts pay off, as he rises through the ranks of a prestigious and powerful law firm in Philadelphia. However, right after earning a promotion, the shocking early signs of AIDS will lead to his ignoble dismissal, on account of alleged incompetence. Suspecting that the deadly disease and homosexuality are the only reasons that got him fired, Andy summons up the courage to sue his cruel former employers, enlisting the help of an improbable and reluctant ally: the homophobic African-American lawyer, Joe Miller. Now, two men alone struggle to crush ignorance--the root cause of injustice and prejudice. Can they make a difference?—Nick Riganas",
+    "Andrew Beckett, a young Philadelphia lawyer infected with AIDS, keeps his homosexuality hidden from his employers. When he is suddenly dismissed by his law firm, Andrew hires a small-time, homophobic lawyer as the only willing advocate for a wrongful dismissal suit."
+  ],
+  "synopsis": "Andrew Beckett (Tom Hanks) is a senior associate at the largest corporate law firm in Philadelphia. Although he lives with his partner Miguel Álvarez (Antonio Banderas), Beckett is not open about his homosexuality at the law firm, nor the fact that he has AIDS. On the day he is assigned the firm's newest and most important case, one of the firm's partners notices a small lesion on Beckett's forehead. Shortly thereafter, Beckett stays home from work for several days to try to find a way to hide his lesions. While at home, he finishes the complaint for the case he has been assigned and then brings it to his office, leaving instructions for his assistants to file the complaint in court on the following day, which marks the end of the statute of limitations for the case. Beckett suffers from bowel spasms at home and is rushed to the hospital. Later that morning, while still at the ER, he receives a frantic call from the firm asking for the complaint, as the paper copy cannot be found and there are no copies on the computer's hard drive. However, the complaint is finally discovered and is filed with the court at the last possible moment. The following day, Beckett is dismissed by the firm's partners, who had previously referred to him as their \"buddy\", but now question his professional abilities in light of the misplaced document.\nBeckett believes that someone deliberately hid his paperwork to give the firm a pretext to fire him, and that the firing is actually as a result of his diagnosis with AIDS. He asks several attorneys to take his case, including personal injury lawyer Joe Miller (Denzel Washington), with whom he had been involved in a previous case. Miller, who is admittedly homophobic and knows little about Beckett's AIDS, initially declines to take the case and immediately visits his doctor to find out if he could have contracted the AIDS through shaking Beckett's hand. The doctor explains the methods of HIV infection. The doctor then offers to take a sample of Miller's blood, suspecting that Miller was asking about AIDS because he suspected he had contracted it and was trying to hide it. Miller dismisses the request by laughing it off, thinking it a joke. Unable to find a lawyer willing to represent him, Beckett is compelled to act as his own attorney. While researching a case at a law library, Miller sees Beckett at a nearby table. After a librarian announces that he has found a book on AIDS discrimination for Beckett, others in the library begin to first stare and then move away, and the librarian suggests Beckett retire to a private room. Disgusted by their behavior, Miller approaches Beckett and reviews the material he has gathered. It is obvious he has decided to take the case. Upon receiving a summons by Miller, the head of the firm, Charles Wheeler (Jason Robards), worries about the damage the lawsuit could do to his business and reputation, although one partner (Ron Vawter) unsuccessfully tries to convince them to settle out of court with Beckett.\nAs the case goes before the court, Wheeler takes the stand, claiming that Beckett was incompetent and claiming that he had deliberately tried to hide his condition. The defense repeatedly suggests that Beckett had invited his illness through promiscuity and was therefore not a victim. In the course of testimony, it is revealed that the partner who had noticed Beckett's lesion had previously worked with a woman who had contracted AIDS after a blood transfusion and so would have recognized the lesion as relating to AIDS. To prove that the lesions would have been visible, Miller asks Beckett to unbutton his shirt while on the witness stand, revealing that his lesions were indeed visible and recognizable as such.\nDuring cross-examination, Beckett admits that he was originally planning to tell his law colleagues that he was gay, but changed his mind after hearing them make homophobic jokes in the sauna of a health club. When asked about the truth of how he got infected, he confirms that he engaged in anonymous sex with another man at a pornographic movie theater. However, he and Miller gain an advantage when the partner who advised settling out of court confesses he long suspected Beckett had AIDS but never said anything, and how he regrets his inaction.\nBeckett collapses during Wheeler's testimony. During his hospitalization, the jury votes in his favor, awarding him back pay, damages for pain and suffering, and punitive damages totaling nearly $4.5M. Miller visits Beckett in the hospital after the verdict and overcomes his fear enough to touch Beckett's face. After Beckett's family leaves the room, he tells Miguel that he is ready to die. A short scene immediately afterward shows Miller getting the word that Beckett has died. The movie ends with a reception at Beckett's home following the funeral, where many mourners, including the Millers, view home movies of Beckett as a healthy child.",
+  "imdb_score": 7.7
+}

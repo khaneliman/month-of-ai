@@ -1,0 +1,485 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+  "id": 414906,
+  "title": "The Batman",
+  "poster_path": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+  "release_date": "2022-03-01",
+  "vote_average": 7.692,
+  "vote_count": 9151,
+  "popularity": 121.013,
+  "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+  "imdb_id": "tt1877830",
+  "budget": 185000000,
+  "homepage": "https://www.thebatman.com",
+  "revenue": 771000000,
+  "runtime": 177,
+  "tagline": "Unmask the truth.",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "production_companies": [
+    "6th & Idaho",
+    "Dylan Clark Productions",
+    "DC Films",
+    "Warner Bros. Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Robert Pattinson",
+        "character": "Bruce Wayne / The Batman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6RVxNlNmc0DIfZzaJKCJM43If3M.jpg"
+      },
+      {
+        "name": "Zoë Kravitz",
+        "character": "Selina Kyle / Catwoman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tiQ3TBSvU4YAyrWMmVk6MTrKBAi.jpg"
+      },
+      {
+        "name": "Paul Dano",
+        "character": "Edward Nashton / The Riddler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/as6rmmWKgSrpHs0suNRSbQT8Raw.jpg"
+      },
+      {
+        "name": "Jeffrey Wright",
+        "character": "Lt. James Gordon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yGcuHGW4glqRpOPxgiCvjcren7F.jpg"
+      },
+      {
+        "name": "John Turturro",
+        "character": "Carmine Falcone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/63zA58rSyJxBMLBdgeMjjETmpDQ.jpg"
+      },
+      {
+        "name": "Peter Sarsgaard",
+        "character": "District Attorney Gil Colson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jOc4VjxPaOkWOqnLCxd8BJy9g5i.jpg"
+      },
+      {
+        "name": "Andy Serkis",
+        "character": "Alfred Pennyworth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+      },
+      {
+        "name": "Colin Farrell",
+        "character": "Oswald 'Oz' Cobblepot / The Penguin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hnTaxy9UKnPsMEBUm94PngnRfge.jpg"
+      },
+      {
+        "name": "Jayme Lawson",
+        "character": "Bella Reál",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rT6ZNBhYZaRMQ6dxCTillClDO4J.jpg"
+      },
+      {
+        "name": "Gil Perez-Abraham",
+        "character": "Officer Martinez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/obJ2pGNaRJ8mtIEPshw3ocIfcIj.jpg"
+      },
+      {
+        "name": "Peter McDonald",
+        "character": "Kenzie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ahacAWWP4zzuVumOUB8hZoJcHTA.jpg"
+      },
+      {
+        "name": "Con O'Neill",
+        "character": "Chief Mackenzie Bock",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Fnj1dB9kStTuy29eEVK4IuOxWO.jpg"
+      },
+      {
+        "name": "Alex Ferns",
+        "character": "Commissioner Pete Savage",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3V3L7MJGURXU6lVaqai80zFT4Wa.jpg"
+      },
+      {
+        "name": "Rupert Penry-Jones",
+        "character": "Mayor Don Mitchell, Jr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/50mfkdU5TY8nHuz7vXCz60ywg2c.jpg"
+      },
+      {
+        "name": "Charlie Carver",
+        "character": "The Twins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cQE2TFwuj6eBLdz2x011cDzJvPJ.jpg"
+      },
+      {
+        "name": "Max Carver",
+        "character": "The Twins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wgUd0UiIDuUusGWy0ayyD8I4Ak.jpg"
+      },
+      {
+        "name": "Barry Keoghan",
+        "character": "Unseen Arkham Prisoner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ngoitknM6hw8fffLywyvjzy6Iti.jpg"
+      },
+      {
+        "name": "Kosha Engler",
+        "character": "Mrs. Mitchell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iE4RR7pX5fHOpCpcJgyvdJnvImZ.jpg"
+      },
+      {
+        "name": "Archie Barnes",
+        "character": "Mitchell's Son",
+        "profile_path": ""
+      },
+      {
+        "name": "Janine Harouni",
+        "character": "Carla",
+        "profile_path": ""
+      },
+      {
+        "name": "Hana Hrzic",
+        "character": "Annika",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rnduVoFKrznLbMmAqo3NanoHvJz.jpg"
+      },
+      {
+        "name": "Joseph Walker",
+        "character": "Young Riddler",
+        "profile_path": ""
+      },
+      {
+        "name": "Luke Roberts",
+        "character": "Thomas Wayne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/79vmh7wsAC8zgWlZNTzdEH853Rb.jpg"
+      },
+      {
+        "name": "Oscar Novak",
+        "character": "Young Bruce Wayne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1szSUGDHFQjCZDdnKVBf9iVti1V.jpg"
+      },
+      {
+        "name": "Stella Stocker",
+        "character": "Martha Wayne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ilRVeYRcQrAeHYLMOPPzLzZMJcC.jpg"
+      },
+      {
+        "name": "Sandra Dickinson",
+        "character": "Dory",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uFFNRY2tptP1GRogBM9t7PVtilZ.jpg"
+      },
+      {
+        "name": "Jack Bennett",
+        "character": "Travis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mxIWHMYiPxaWjuPZvhLKhWMyHjA.jpg"
+      },
+      {
+        "name": "Andre Nightingale",
+        "character": "Ritchie",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard James-Neale",
+        "character": "Glen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z3WmqufClRb0CzuE9qKpCWAi5Kw.jpg"
+      },
+      {
+        "name": "Lorraine Tai",
+        "character": "Cheri",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Balderrama",
+        "character": "Lead Detective",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8BwRFsXzWD25dPih6IePcRD3EjT.jpg"
+      },
+      {
+        "name": "James Eeles",
+        "character": "Another Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oUZK8txltbNdY60hetnn5CppbaX.jpg"
+      },
+      {
+        "name": "Dave Simon",
+        "character": "Police Chief Hanrahan",
+        "profile_path": ""
+      },
+      {
+        "name": "Angela Yeoh",
+        "character": "Forensic Photographer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/XGUkZkY01JfpHL5wmwDlgiQ6uk.jpg"
+      },
+      {
+        "name": "Leemore Marrett Jr.",
+        "character": "Muscle Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lrr8xbevZFfCMixuSPnUjwO2Oqa.jpg"
+      },
+      {
+        "name": "Ezra Elliott",
+        "character": "Tactical Medic",
+        "profile_path": ""
+      },
+      {
+        "name": "Itoya Osagiede",
+        "character": "Hushed G.C.P.D. Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "Stewart Alexander",
+        "character": "FBI Leader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/najx2f4DAKt7DtQkPEyNXJURyNe.jpg"
+      },
+      {
+        "name": "Adam Rojko Vega",
+        "character": "SWAT (City Hall)",
+        "profile_path": ""
+      },
+      {
+        "name": "Heider Ali",
+        "character": "Officer (City Hall)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcus Onilude",
+        "character": "Traffic Cop (City Hall)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aiK0T1ln24omJcgQd8XkTein4Xp.jpg"
+      },
+      {
+        "name": "Elena Saurel",
+        "character": "Detective on Phone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j9QlZakIhoGAPmXHbwlH3wHYDbG.jpg"
+      },
+      {
+        "name": "Ed Kear",
+        "character": "Surly Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jB1QY1DSN253bbtz51MHXEBj9O8.jpg"
+      },
+      {
+        "name": "Sid Sagar",
+        "character": "Digital Forensics Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gS3sPHu7zWexkynZYYWscRxQo3w.jpg"
+      },
+      {
+        "name": "Amanda Blake",
+        "character": "Command Crisis Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vb5KDLRkQUawD7IveZEUT3ZaQ8L.jpg"
+      },
+      {
+        "name": "Todd Boyce",
+        "character": "Fire Marshall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kM5syx6Xry0q23Dh1MP3NBJLKvr.jpg"
+      },
+      {
+        "name": "Brandon Bassir",
+        "character": "Young Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jbWbXQFHarJGd1gr7YrD6RAqQ7S.jpg"
+      },
+      {
+        "name": "Will Austin",
+        "character": "Traffic Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hwlsIMEImnpOc046cROxtVyJ2Ao.jpg"
+      },
+      {
+        "name": "Chabris Napier-Lawrence",
+        "character": "Cop (Mayor's Memorial)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u3Kwn6hjMjg33XS51WBDF611KCE.jpg"
+      },
+      {
+        "name": "Douglas Russell",
+        "character": "Bitter Nobody",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7iRHwMRmOmK9yB6zEtGAqq1xEJg.jpg"
+      },
+      {
+        "name": "Phil Aizlewood",
+        "character": "Falcone Bodyguard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yDa7LBFm3vvtEG4mBdSQ80uImBG.jpg"
+      },
+      {
+        "name": "Mark Killeen",
+        "character": "Vinnie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dcsHqbZXmCsQE8Vcw3jufx8C8FX.jpg"
+      },
+      {
+        "name": "Philip Shaun McGuinness",
+        "character": "Elevator Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d7oiOVwBW0LB6JyboRnBuumca0o.jpg"
+      },
+      {
+        "name": "Lorna Brown",
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Ah7ihv7APlYL2zMtOevMp4RiHZ.jpg"
+      },
+      {
+        "name": "Elliot Warren",
+        "character": "Train Gang Leader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fwLxAK6VgKjVi9wdL4lLhev6lJ0.jpg"
+      },
+      {
+        "name": "Jay Lycurgo",
+        "character": "Young Train Gang Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pbsoexLxfXZZvITACzfOB1dsDip.jpg"
+      },
+      {
+        "name": "Stefan Race",
+        "character": "Train Gang Member #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vwGzynRRkji3QqF1gp9ARb3IsuV.jpg"
+      },
+      {
+        "name": "Elijah Baker",
+        "character": "Train Gang Member #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2SWa8f4p9NpUyp5LDHlF4x4VOYQ.jpg"
+      },
+      {
+        "name": "Craige Middleburg",
+        "character": "Train Gang Member #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Akie Kotabe",
+        "character": "Lone Train Passenger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/89qQru3SueSpKPhAb1MgoIZEnen.jpg"
+      },
+      {
+        "name": "Spike Fearn",
+        "character": "Vandal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k9uZag5m4VMrV3iNscYfhxpRDWG.jpg"
+      },
+      {
+        "name": "Urielle Klein-Mekongo",
+        "character": "Cashier",
+        "profile_path": ""
+      },
+      {
+        "name": "Bronson Webb",
+        "character": "Hooded Gunman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/foMvmr6ch16GGM1L413KA9UQKIO.jpg"
+      },
+      {
+        "name": "Madeleine Gray",
+        "character": "Injured Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Ste Johnston",
+        "character": "Paparazzi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9jzzDb50GTCEFe3tx7dXmdt4WPN.jpg"
+      },
+      {
+        "name": "Arthur Lee",
+        "character": "Paparazzo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j0fNPc6TBSfHeoBjjOQn6twsR3S.jpg"
+      },
+      {
+        "name": "Parry Glasspool",
+        "character": "Scared Drophead",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wx712LweaHsshf9506pffNCVKZ6.jpg"
+      },
+      {
+        "name": "Jordan Coulson",
+        "character": "Man in Suit",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j0mT09XzMnEU8P5DKQkDrsn0lkA.jpg"
+      },
+      {
+        "name": "Hadas Gold",
+        "character": "Newscaster",
+        "profile_path": ""
+      },
+      {
+        "name": "Pat Battle",
+        "character": "Newscaster",
+        "profile_path": ""
+      },
+      {
+        "name": "Bobby Cuza",
+        "character": "Newscaster",
+        "profile_path": ""
+      },
+      {
+        "name": "Dean Meminger",
+        "character": "Newscaster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zjCC8h9PoAd8b35X0NPXWajb6jS.jpg"
+      },
+      {
+        "name": "Roma Torre",
+        "character": "Newscaster",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Capozzola",
+        "character": "Mediator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2mwnz1xrfuxnwmcGwfuYAeD2XSE.jpg"
+      },
+      {
+        "name": "Amanda Hurwitz",
+        "character": "Counterwoman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/52FwaIqatdVDEo1A8D932J7TR9O.jpg"
+      },
+      {
+        "name": "Joshua Eldridge-Smith",
+        "character": "Patrol Cop",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Rainford",
+        "character": "Suspicious Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Nathalie Armin",
+        "character": "ATF Leader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/voItB18PUKZ8T5E2MtH3psRTeiB.jpg"
+      },
+      {
+        "name": "Jose Palma",
+        "character": "Command Post #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/27aw7tXkfZZW2Zdqrf3OSVzOus0.jpg"
+      },
+      {
+        "name": "Kazeem Tosin Amore",
+        "character": "Command Post #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6lfF4wi6kom4Yoawwj6ssw4f1o9.jpg"
+      },
+      {
+        "name": "Rodrig Andrisan",
+        "character": "Funeral VIP (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Craig Douglas",
+        "character": "Pallbearer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hoSisBDgkdqNs6ITXg9spiVmwkk.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Matt Reeves",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "police",
+    "psychopath",
+    "secret identity",
+    "crime fighter",
+    "superhero",
+    "nightclub",
+    "politician",
+    "based on comic",
+    "vigilante",
+    "organized crime",
+    "serial killer",
+    "millionaire",
+    "social injustice",
+    "murder investigation",
+    "aftercreditsstinger",
+    "masked superhero",
+    "political corruption",
+    "neo-noir",
+    "vengeance",
+    "mayoral election"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+    "Two years of nights have turned Bruce Wayne into a nocturnal animal. But as he continues to find his way as Gotham's dark knight Bruce is forced into a game of cat and mouse with his biggest threat so far, a manic killer known as \"The Riddler\" who is filled with rage and determined to expose the corrupt system whilst picking off all of Gotham's key political figures. Working with both established and new allies, Bruce must track down the killer and see him brought to justice, while investigating his father's true legacy and questioning the effect that he has had on Gotham so far as \"The Batman.\"—jc-15610",
+    "Two years into the never-ending mission to rid Gotham City of violence and municipal corruption, reclusive billionaire and masked vigilante Bruce Wayne realises that the vast metropolis still oozes with crime. With the mayor killed at the hands of the Riddler, a psychotic terrorist hitting corrupt high-profile targets, Bruce joins forces with Commissioner Gordon to piece clues together and take down the elusive killer obsessed with the Wayne family and Bruce himself. As Gotham's self-appointed dark knight tries to find his feet, a white-knuckle, cat-and-mouse game attracts cryptic allies and dangerous adversaries, and no one is safe from harm. But is The Batman a blessing or a curse? A friend or a foe?—Nick Riganas",
+    "The Batman is an urban legend; a folktale; an all-encompassing presence lurking in the shadows scaring criminals. Or so they say. Reclusive billionaire Bruce Wayne is in his second year fighting crime as The Batman, also known as Vengeance; and the anarchist known only as The Riddler is starting to make Gotham City unravel, and with it the Wayne Family's legacy. With the city on the brink, Batman must save his family's legacy and solve The Riddler's sadistic games before countless innocent people die.—Johnny-the-Film-Sentinel-2187",
+    "Someone is killing off senior political leaders in Gotham: the major, the chief of police, the district attorney. At the scene of each murder is found a note to Batman with a riddle and a clue to what is behind the murders. Batman's investigations lead him to a conspiracy that stretches back to when his father, Thomas Wayne, ran for mayor and, shortly after, was murdered.—grantss"
+  ],
+  "synopsis": "On Halloween, Gotham City mayor Don Mitchell Jr. is murdered by a serial killer calling himself the Riddler. Billionaire Bruce Wayne, who has operated for two years as the vigilante Batman, investigates alongside the Gotham City Police Department (GCPD). Lieutenant James Gordon discovers that the Riddler left a message for Batman, but commissioner Pete Savage berates him for allowing a vigilante to enter the crime scene and forces Batman to leave. The Riddler kills Savage and leaves another message for Batman.Batman and Gordon discover that the Riddler left a thumb drive in Mitchell's car containing images of Mitchell with a woman, Annika, at the Iceberg Lounge, a nightclub operated by mobster Carmine Falcone's lieutenant Penguin. Batman questions the Penguin, who pleads ignorance, but notices that Selina Kyle, Annika's roommate and girlfriend, works there as a waitress. After Annika disappears, Batman sends Selina back to the Iceberg Lounge to search for answers. Through Selina, Batman discovers that Savage was on Falcone's payroll, as is district attorney Gil Colson. Selina shuts off communication when Batman presses her about her relationship with Falcone.The Riddler abducts Colson, straps a timed collar bomb to his neck, and sends him to interrupt Mitchell's funeral. When Batman arrives, the Riddler calls him via Colson's phone and threatens to detonate the bomb if Colson cannot answer three riddles. Batman helps Colson answer the first two, but Colson refuses to answer the third: name of the informant who gave the GCPD information that led to a historic drug bust ending mobster Sal Maroni's operation. The bomb explodes, killing Colson and knocking Batman unconscious.Batman and Gordon deduce that the informant may be the Penguin and track him to a drug deal. They discover that Maroni's operation never actually ended and many GCPD officers are involved. Selina inadvertently exposes them when she arrives to steal money. As the Penguin flees, Selina discovers Annika's corpse in a car trunk. Batman captures the Penguin but learns that he was not the informant.Batman and Gordon follow the Riddler's trail to the ruins of an orphanage operated by Bruce's parents Thomas and Martha. They learn that the Riddler was a resident at the orphanage and holds a grudge against the Wayne family. Bruce's butler and caretaker, Alfred Pennyworth, is hospitalized after opening a letter bomb addressed to Bruce. The Riddler then leaks evidence that Thomas, who was running for mayor when he was murdered, hired Falcone to kill a journalist for threatening to reveal embarrassing details about Martha's history of mental illness. Bruce, who grew up believing his father was morally upstanding, confronts Alfred, who confirms the allegations but states that Thomas decided to turn Falcone over to the police after learning of the murder; Alfred surmises that Falcone had Thomas and Martha killed to prevent this.Selina tells Batman that Falcone is her neglectful father. She learns that Annika was strangled because Mitchell told her that Falcone was the informant, and resolves to kill him. Batman and Gordon arrive at the Iceberg Lounge in time to stop her. Batman physically prevents Selina from killing Falcone, explaining that she shouldn't allow Falcone to destroy her future through murdering him and facing prison. Batman escorts a cocky Falcone to the police, while Falcone tells Batman that he knows of all Gotham's hidden secrets and underworld dealings and that everything he knows dies with him. No sooner does Batman bring Falcone outside to the patrol waiting than Riddler snipes Falcone from his apartment window. Unmasked as forensics accountant Edward Nashton, the Riddler is incarcerated in Arkham State Hospital. Nashton says that, as a neglected orphan, he was envious of the sympathy Bruce received after his parents' murder. He idolizes Batman-who inspired him to target the corrupt-and proposes a partnership, but Batman angrily rejects him.Angered at being rejected by his idol, Nashton begins ranting to which Batman realizes that Nashton still has something planned. Upon realizing Batman hasn't figured out his next course of action, a delighted Nashton gives him one last clue by singing \"Ave Maria,\" the song sung at the Mitchell's funeral to imply that the final part of the plan is mayor-elect Bella Real's assassination. However, Batman fails to realize this and exclaims, \"What have you done!?\"Searching his apartment, Batman is inadvertently aided by a cop who shows him a carpet cutting tool which Riddler had murdered the mayor with at the beginning. Realizing this tool is another clue to uncovering the Riddler's master plan, Batman cuts open the rug of the apartment and discovers via a map drawn on the floor underneath that Nashton has stationed car bombs around Gotham. No sooner has he done this than an online video of Nashton's final transmission before his capture and incarceration plays, explaining gleefully that he had cultivated an online following that plans to assassinate mayor-elect Bella Reál.The bombs destroy the breakwaters around Gotham and flood the city. A shelter is set up in an indoor arena, where Nashton's followers non-fatally shoot Reál but are stopped by Batman and Selina. While battling the cult atop the rafters, Batman defeats them but is almost killed by a last member who is about to execute Batman. Selina arrives and rescues Batman before kissing him, thanking him for preventing her from murdering Falcone. However, the member comes to and almost kills Selina with a knife. Batman is incapacitated from his injuries and unable to get up to protect Selina. He injects himself with adrenaline, gets up, and tackles the member to the ground. He has the member pinned down and beats his face savagely until he is stopped by Gordon and Selina. Gordon approaches the member and tears off his mask to reveal his swollen, bruised face. Gordon asks, \"Who the hell are you?\". The man responds, \"Me? I'm vengeance.\"Batman sees a power line swinging just past the crowds in the flooded water below, throwing sparks everywhere as it flails wildly. Batman uses his grappling hook to swing toward the cord and grab onto it. Once he is hanging onto the cord, he uses his detachable bat emblem to sever it, causing him to be shocked by the electricity and fall down into the water. Batman rises from the water, lights a flare, and leads the survivors to safety. Batman aids recovery efforts and vows to inspire hope in Gotham, having seen that his weapon of fear has fueled the drive of vigilantes.Meanwhile in Arkham, Nashton is upset that his plan failed and wailing in his cell. A neighboring cell mate, who is largely obscured behind the steel door of his cell, proposes Nashton a riddle, asking, \"Riddle me this. The less you have of me, the more I am worth.\" Nashton answers, \"A friend.\" They laugh together.Selina deems Gotham to be beyond saving and tries to convince Batman to leave with her, but he declines. They set out to the streets on their motorcycles, playfully weaving around each other. When they get to a fork in the road, Selina goes right and Batman goes left. He looks back in his mirror as she disappears into the horizon. Then, he looks straight ahead.",
+  "imdb_score": 7.8
+}

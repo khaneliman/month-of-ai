@@ -1,0 +1,394 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/osHKguxvXPIUJJzsO3DEORZZ8QD.jpg",
+  "id": 4564,
+  "title": "Sex and the City",
+  "poster_path": "https://image.tmdb.org/t/p/w500/AhNfnsGW95RKHQNLdgFH48UN0Zy.jpg",
+  "release_date": "2008-05-12",
+  "vote_average": 6.569,
+  "vote_count": 2018,
+  "popularity": 48.841,
+  "overview": "A New York writer on sex and love is finally getting married to her Mr. Big. But her three best girlfriends must console her after one of them inadvertently leads Mr. Big to jilt her.",
+  "imdb_id": "tt1000774",
+  "budget": 65000000,
+  "homepage": "http://www.sexandthecitymovie.com/",
+  "revenue": 418800000,
+  "runtime": 146,
+  "tagline": "Get Carried away.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "Darren Star Productions",
+    "New Line Cinema",
+    "HBO"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Sarah Jessica Parker",
+        "character": "Carrie Bradshaw",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AmW3xHO6nFWoCVWSsU1tQ2s2yw2.jpg"
+      },
+      {
+        "name": "Kim Cattrall",
+        "character": "Samantha Jones",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jDqSho6MUPdlaBfS56FVNSbPyIS.jpg"
+      },
+      {
+        "name": "Kristin Davis",
+        "character": "Charlotte York Goldenblatt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/61TjappibaZ1i8pEFlqwK2yrR2W.jpg"
+      },
+      {
+        "name": "Cynthia Nixon",
+        "character": "Miranda Hobbes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a366FCtQYmT80vQnPMFZ4hsTwuU.jpg"
+      },
+      {
+        "name": "Chris Noth",
+        "character": "Mr. Big",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9awGeDN5MSbSefDMAyMglm96vcy.jpg"
+      },
+      {
+        "name": "Candice Bergen",
+        "character": "Enid Frick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yDthvXPRkcwSVcPj9QZz3Z7ZH5B.jpg"
+      },
+      {
+        "name": "Jennifer Hudson",
+        "character": "Louise, Carrie's assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kxVtkVJP3zHidnIzkf1jUV1yJxo.jpg"
+      },
+      {
+        "name": "David Eigenberg",
+        "character": "Steve Brady",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3JOY715n7Low0Y1a9YZAzhNjvZM.jpg"
+      },
+      {
+        "name": "Evan Handler",
+        "character": "Harry Goldenblatt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yU0OXeZ0K1ppe1o9SpHiAMHy1rc.jpg"
+      },
+      {
+        "name": "Jason Lewis",
+        "character": "Smith Jerrod",
+        "profile_path": "https://image.tmdb.org/t/p/w185/776bXrFQXeha8A60HMcg1GWnxkj.jpg"
+      },
+      {
+        "name": "Mario Cantone",
+        "character": "Anthony Marantino",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ZcWKRPvoOgPSn24M5eQD90FTST.jpg"
+      },
+      {
+        "name": "Lynn Cohen",
+        "character": "Magda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gF2YATtRwDbnLB5eG0DGeHFW2QM.jpg"
+      },
+      {
+        "name": "Willie Garson",
+        "character": "Stanford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kTNR7cyq3ymByKdNxP3kwnHLSjJ.jpg"
+      },
+      {
+        "name": "Joanna Gleason",
+        "character": "Therapist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vBufIrlapxpuRlzeSIMXtuFO5XK.jpg"
+      },
+      {
+        "name": "Joseph Pupo",
+        "character": "Brady",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fPW04oysrecMaKqMfjPw0EwlvEd.jpg"
+      },
+      {
+        "name": "Alexandra Fong",
+        "character": "Lily York Goldenblatt",
+        "profile_path": ""
+      },
+      {
+        "name": "Parker Fong",
+        "character": "Lily York Goldenblatt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kxkLzX3qmGASwdheLPDkKcekikC.jpg"
+      },
+      {
+        "name": "Kerry Bishé",
+        "character": "Twenty-Something Girl Dreaming",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2bUBBFrTgHxAhLS5OxutSrrTPja.jpg"
+      },
+      {
+        "name": "Polina Frantsena",
+        "character": "Twenty-Something Girl #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Kate Rockwell",
+        "character": "Twenty-Something Girl #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qxtgtopQKnaPwaO8zZ1h7S1d9UA.jpg"
+      },
+      {
+        "name": "Amy Flanagan",
+        "character": "Twenty-Something Girl #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Lena Hall",
+        "character": "Twenty-Something Girl #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iVH6raaj451XmMZ99uaIQFLTDCf.jpg"
+      },
+      {
+        "name": "Amanda Setton",
+        "character": "Girl Slapping Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yDEe610GC9DXSlT7jAm8UO2M6j6.jpg"
+      },
+      {
+        "name": "Ching Valdes-Aran",
+        "character": "Real Estate Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Malcolm Gets",
+        "character": "Building Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AqfiiuXiFKKz58GL3btQZZuiwvt.jpg"
+      },
+      {
+        "name": "Lorna Kelly",
+        "character": "Auctioneer",
+        "profile_path": ""
+      },
+      {
+        "name": "Daphne Rubin-Vega",
+        "character": "Baby Voiced Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pbldgdHKhncPZLkyS5AE2ntqqA0.jpg"
+      },
+      {
+        "name": "Patrick DeMarchelier",
+        "character": "Vogue Fashion Photographer",
+        "profile_path": ""
+      },
+      {
+        "name": "André Leon Talley",
+        "character": "Vogue Executive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/guv5bwR3Jq0g9stzQBCg8J8Dhe0.jpg"
+      },
+      {
+        "name": "Plum Sykes",
+        "character": "Vogue Writer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lawren Howell",
+        "character": "Vogue Fashion Editor",
+        "profile_path": ""
+      },
+      {
+        "name": "Gucci Westman",
+        "character": "Vogue Makeup Artist",
+        "profile_path": ""
+      },
+      {
+        "name": "Serge Normant",
+        "character": "Vogue Hairstylist",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary Howard",
+        "character": "Vogue Set Dresser",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave Bradford",
+        "character": "Flower Delivery Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Gilles Marini",
+        "character": "Dante",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sbe1rtvd0DhLy2MW3FT6SvMsPTe.jpg"
+      },
+      {
+        "name": "Monica Mayhem",
+        "character": "Dante's Girl #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sj33wmuuz3oF99pR8rqEfQFih0s.jpg"
+      },
+      {
+        "name": "Gilbert Cruz",
+        "character": "Raoul",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i8PBTzRh8fKAWRMXOnQQkKJ3ctk.jpg"
+      },
+      {
+        "name": "Damian Young",
+        "character": "Karl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a4r1lpQT3OQoyz1WdsZG6WHvFjy.jpg"
+      },
+      {
+        "name": "Rick Aiello",
+        "character": "Angry Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jsdOgza0pIsS5Jcvj3nLJnxgDEP.jpg"
+      },
+      {
+        "name": "Rogelio T. Ramos",
+        "character": "Paulo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sL8NuitxpKOJj8n8Zj133mah9ag.jpg"
+      },
+      {
+        "name": "Rene L. Moreno",
+        "character": "Felix",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4DmwBGesG9EiKa3kttWK3VaHJhT.jpg"
+      },
+      {
+        "name": "Veanne Cox",
+        "character": "Halloween Woman #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nKO4vwztjH353FvGR2fg002UJx7.jpg"
+      },
+      {
+        "name": "Ricardo Molina",
+        "character": "Resort Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ubtiODxiE8Ne0axLW5c0XxiNsNY.jpg"
+      },
+      {
+        "name": "Annaleigh Ashford",
+        "character": "Spoiled Label Queen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AaMsrGdvvNeOzNUMUYOQlcejbfO.jpg"
+      },
+      {
+        "name": "Bridget Everett",
+        "character": "Drunk Party Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2wXPFTxyf2vVwqHMvjiSLfQ727n.jpg"
+      },
+      {
+        "name": "Peter Y. Kim",
+        "character": "Business Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3UtSD87PNU6EdJpnCeSN1hfrwRN.jpg"
+      },
+      {
+        "name": "Suzanne Cryer",
+        "character": "Dog Rescue Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hVqmp8WX9hRhZ3qE6ndk7PfkFDJ.jpg"
+      },
+      {
+        "name": "Joshua Henry",
+        "character": "Will",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hsxj3ljQVCcvnerF1yCCB8dpXiX.jpg"
+      },
+      {
+        "name": "Henriette Mantel",
+        "character": "Activist #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l4je9YondpATFPTeE0Of2HSILCp.jpg"
+      },
+      {
+        "name": "Nancy Shayne",
+        "character": "Activist #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wRbLRzDMVtD70vjmv2zpQzK2QVY.jpg"
+      },
+      {
+        "name": "Kim Shaw",
+        "character": "Valentine's Night Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6btY7SQuDKD2xXSBZRJolPErdeL.jpg"
+      },
+      {
+        "name": "Michelle M. Kim",
+        "character": "Dante's Girl #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Erica K. Evans",
+        "character": "Dante's Girl #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Roxy DeVille",
+        "character": "Dante's Girl #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iT6a5QM7n2eP6kacozsBkgnoNkP.jpg"
+      },
+      {
+        "name": "Van Hughes",
+        "character": "Cater Waiter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/81BZCBSz4ll2lQvSUKZAy0shIl1.jpg"
+      },
+      {
+        "name": "Sara Gettelfinger",
+        "character": "Flight Attendant",
+        "profile_path": ""
+      },
+      {
+        "name": "Bridget Regan",
+        "character": "Hostess",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ri1kEBkWa9ShTYbV2iJAFa0V4VU.jpg"
+      },
+      {
+        "name": "Dreama Walker",
+        "character": "Upper East Side Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/105ENm1xzWlE9iJjw5C2suFfjBC.jpg"
+      },
+      {
+        "name": "Ruby E. Crawford",
+        "character": "Louise's Sister",
+        "profile_path": ""
+      },
+      {
+        "name": "Henry Strozier",
+        "character": "Judge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o8qSiiuqUKIxC7lRKeNe3Jk3ipv.jpg"
+      },
+      {
+        "name": "Lisa Kron",
+        "character": "Junior's Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xuRT7UqeGtxxmg0p8vgH1rqEAkD.jpg"
+      },
+      {
+        "name": "Scott Burn",
+        "character": "Gucci Salesman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9koptoyZSecodLuOhSiZ31L21Nl.jpg"
+      },
+      {
+        "name": "Julie Halston",
+        "character": "Bitsy von Muffling (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p4UcHk02y5eZX6oQ2OV6wONGTbx.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Michael Patrick King",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oSSgEuyYBhPbwR8FF4ayrVI6EU0.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "hotel",
+    "new year's eve",
+    "new york city",
+    "forgiveness",
+    "city portrait",
+    "fashion journal",
+    "saint louis",
+    "female friendship",
+    "romantic comedy",
+    "fashion designer",
+    "malibu",
+    "loss of libido",
+    "botox",
+    "couples therapy",
+    "best friend",
+    "wedding",
+    "break-up",
+    "fashion",
+    "manhattan, new york city",
+    "desire to have children",
+    "female sexuality"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A New York City writer on sex and love is finally getting married to her Mr. Big. But her three best girlfriends must console her after one of them inadvertently leads Mr. Big to jilt her.",
+    "After moving in together in an impossibly beautiful New York apartment, Carrie Bradshaw and Mr. Big make a rather arbitrary decision to get married. The wedding itself proves to be anything but a hasty affair--the guest list quickly blooms from 75 to 200 guests, and Carrie's simple, label-less wedding gown gives way to an enormous creation that makes her look like a gigantic cream puff. An upcoming photo spread in Vogue puts the event--which will take place at the New York Public Library--squarely in the public eye. Meanwhile, Carrie's girlfriends--Samantha, the sexpot; Charlotte, the sweet naïf; and Miranda, the rigid perfectionist--could not be happier. At least, they couldn't be happier for Carrie. Charlotte still has the unrealized hope of getting pregnant. Samantha is finding a loving, committed relationship more grueling than she could have imagined. Miranda unwittingly lets her own unhappiness--created when Steve admits to cheating on her just once--spoil Carrie's. After a heated encounter with Steve, she happens to spot Mr. Big and tells him he's crazy to get married. She's really only thinking of her own marriage. But her angry remark gets Mr. Big to thinking.—J. Spurlin",
+    "New York \"Sex and the City\" columnist Carrie Bradshaw and her three best girlfriends - PR maven Samantha Jones, lawyer Miranda Hobbes and art gallery curator Charlotte York - have long mastered one of the two \"L\"s to which she believes all women arriving in New York aspire: labels. As such, the foursome, three years after John Preston AKA Mr. Big professed his love to Carrie and three books by Carrie on their life later, focus on the other \"L\": love. Charlotte believes she has the perfect love life with husband Harry Goldenblatt and their adopted two year old daughter Lily. She is hyper-vigilant in ensuring that that life remains perfect especially in light of some unexpected news on the home front. Extremely self-confident Samantha, now living in Los Angeles with her younger client/boyfriend, actor Smith Jerrod, is in love with him, but feels that she is losing her sense of identity to Smith's rising star. This revelation is even more troubling to her with a handsome new neighbor moving in next door, he who always seems to be having sex with a different woman every night. Miranda and her bartender husband Steve Brady are facing problems maintaining a healthy sex life as Miranda focuses her attentions on caring for their five year old son, Brady Hobbes. This and a subsequent action by Steve places a strain on their love life and marriage. And Carrie and Big make the decision to buy an apartment together. The lavish apartment they choose and the subsequent financial arrangement they embark upon lead to Carrie and Big deciding to get married. Combined with a request by Vogue editor Enid Frick to Carrie, Carrie and Big come to individual views as to the emotional toll on each other of their decision, which is complicated by a statement by Miranda. A result is that Carrie, for the first time, hires a personal assistant, a young woman named Louise from St. Louis who unwittingly helps Carrie come to grips with her personal problems. Through the trials and tribulations of the four in dealing with their respective love lives, they, as always, lend their emotional support to the other three.—Huggo",
+    "Mr. Big and Carrie buy a magnificent penthouse in Manhattan and they decide to get married. Enid Frick invites Carrie to take pictures for a special edition of Vogue about marriage of women of forty and something years. During the preparation, Carrie raises the guest list from seventy-five to two hundred guests, and a simple wedding dress to a fashionable Vivienne Westwood, intimidating Mr. Big in his third wedding. Meanwhile Miranda has no sex with Steve and he confesses that he had had one night stand with a woman. On the eve of the wedding, in the rehearsal dinner, the upset Miranda tells Mr. Big that marriage ruins everything. On the next day, the scared Mr. Big calls off the wedding leaving Carrie in the church. Carrie feels humiliated and depressed and Samantha, Miranda and Charlotte decide to travel to Mexico with Carrie to the hotel where she was supposed to spend her honeymoon. When Carries returns, she hires the assistant Louise to help her to organize her life. When Miranda discloses what she told to Mr. Big to Carrie in the rehearsal dinner, their friendship is shaken.—Claudio Carvalho, Rio de Janeiro, Brazil"
+  ],
+  "synopsis": "Carrie walks through the streets of New York City thinking about events that have happened to her and her friends during Sex and the City. Charlotte is now happily married to Harry Goldenblatt, but she had a hard time getting pregnant - so they adopted a Chinese girl named Lily; Miranda has settled down in Brooklyn with Steve (David Eigenberg) to raise their son Brady together; and Samantha has relocated her business to Los Angeles to be close to Smith (Jason Lewis), who is now a superstar, although she misses her old life and takes every opportunity to fly East to be with Carrie, Miranda and Charlotte.Carrie herself is now in a relationship with Big (Chris Noth), and they are viewing apartments with plans to move in together. Carrie falls in love with a penthouse far from their price range. Big immediately agrees to pay for it. Carrie offers to sell her own apartment, although she also voices her fear that she would have no legal rights to their home in case they separate, as they are not married. To quell her fears, Big suggests that they marry. Carrie announces the news to her friends. Charlotte and Miranda are happy at the news, but Samantha - as Carrie points out dryly - sounds more excited at the thought of Carrie \"finally getting Botox\". Charlotte suggests her longtime gay friend, Anthony Marantino, as the pushy wedding planner.Miranda confesses to her friends that she has been so busy she hasn't had sex with Steve in six months. When Steve confesses, he has cheated on her, Miranda is devastated and immediately separates from him. At Carrie and Big's rehearsal dinner, Steve tries to reconcile with Miranda, but she rebuffs him. Still upset with Steve, she tells Big bluntly that marriage ruins everything.\nOn the wedding day, (partially due to Miranda's words at the rehearsal dinner) Big is too fearful to go through with the ceremony.Carrie, devastated, flees the wedding. Samantha stays behind to clear the guests. Big changes his mind and catches up with Carrie in an attempt to reconcile in the middle of a one-way street. Carrie furiously attacks him with her bouquet while he earns scathing looks from Miranda and Charlotte, as well as from the crowds of New Yorkers watching the scene unfold. To console Carrie (who is depressed, and at the beginning of the holiday doesn't eat anything for two days), the four women take the honeymoon that Carrie had booked to Mexico, where they undergo stress reduction and collect themselves.Upon returning to New York, Carrie hires an assistant, Louise (Jennifer Hudson), to help her manage her life. Miranda eventually confesses to Carrie about what happened at the rehearsal dinner, and the two briefly fall out as Carrie storms out of a restaurant on Valentine's Day. After reflecting on the argument, she had with Carrie, Miranda agrees to attend couples counseling with Steve, and they are eventually able to reconcile. Samantha finds her five-year-old relationship passionless and begins over-eating to keep from cheating on Smith with a gorgeous neighbor, Dante. She eventually realizes that she needs to put herself first, so she says farewell to Smith and moves back to New York. Around the same time, Louise quits her job as Carrie's assistant to get married and move back permanently to her hometown of St Louis.Charlotte learns she is pregnant, and for most of her pregnancy is fearful that something might happen to her baby, so she stops her regular running around Central Park. Carrie puts her fear to rest by telling her that, since she already soiled herself in Mexico, her bad luck is finished. Later, Charlotte has a surprise encounter with Big that leaves her so outraged that her water breaks. Big takes her to the hospital and waits until baby Rose is born, hoping to see Carrie. Harry passes on the message that Big would like her to call him, and that he has written to her frequently, but never received a reply. Carrie searches her correspondence and finds in Louise's personal assistant file that he has sent her dozens of letters copied from the book she read him before their wedding, culminating with one of his own where he apologizes for screwing up and promises to love her forever.Carrie travels to the exquisite penthouse Big had bought for them to collect a pair of brand-new Manolo Blahnik shoes (that later become one of the icons of the movie) that she had left there. She finds Big in the walk-in closet he had built for her, and the moment she sees him, her anger at his betrayal dissipates. They share a passionate kiss, and Big proposes to Carrie properly, using one of her diamond-encrusted shoes in place of a ring.They later marry alone, in a simple wedding in New York City Hall, with Carrie wearing the simple dress that she had intended to wear before being enticed away by the Vivienne Westwood dress that she had modeled in the bridal issue of Vogue. Miranda, Samantha, and Charlotte turn up to surprise Carrie, having been called by Big.The film ends with the four women sipping cosmopolitans, celebrating Samantha's fiftieth birthday, with Carrie making a toast to the next fifty.",
+  "imdb_score": 5.7
+}

@@ -1,0 +1,433 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/s5svcTbGcdTkA3cj7pCfy1rxy2O.jpg",
+  "id": 8874,
+  "title": "My Best Friend's Wedding",
+  "poster_path": "https://image.tmdb.org/t/p/w500/b5g4bp8gS5ovMyR5439AII6zQ3n.jpg",
+  "release_date": "1997-06-19",
+  "vote_average": 6.6,
+  "vote_count": 2475,
+  "popularity": 14.938,
+  "overview": "When she receives word that her longtime platonic pal Michael O'Neal is getting married to debutante Kimberly Wallace, food critic Julianne Potter realizes her true feelings for Michael -- and sets out to sabotage the wedding.",
+  "imdb_id": "tt0119738",
+  "budget": 38000000,
+  "homepage": "",
+  "revenue": 299288605,
+  "runtime": 105,
+  "tagline": "It's about finding the love of your life. And deciding what to do about it.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    "TriStar Pictures",
+    "Zucker Brothers Productions",
+    "Predawn Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Julia Roberts",
+        "character": "Julianne Potter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AhQMyQ10kz5g8Y3Fp54GPhgDxQS.jpg"
+      },
+      {
+        "name": "Dermot Mulroney",
+        "character": "Michael O'Neal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5gJszOF45KMPB5tmAbKdK0qgQBx.jpg"
+      },
+      {
+        "name": "Cameron Diaz",
+        "character": "Kimberly Wallace",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+      },
+      {
+        "name": "Rupert Everett",
+        "character": "George Downes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g0kqfIxf9eIV7rOMQcbebsgMS9Z.jpg"
+      },
+      {
+        "name": "Christopher Masterson",
+        "character": "Scotty O'Neal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vDpW40I1UMul7j4ZwGylPuWHteC.jpg"
+      },
+      {
+        "name": "M. Emmet Walsh",
+        "character": "Joe O'Neal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7qhQ8VZ8cFHV5c5y1GQ9ISTxwQZ.jpg"
+      },
+      {
+        "name": "Philip Bosco",
+        "character": "Walter Wallace",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gnX1WtpJk7E6hJngFQKkdpDKDi0.jpg"
+      },
+      {
+        "name": "Rachel Griffiths",
+        "character": "Samantha Newhouse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n7rKwLjZmbkBKWBwhj9SYzsRaF6.jpg"
+      },
+      {
+        "name": "Carrie Preston",
+        "character": "Mandy Newhouse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cxqAk6PaZJ92mb9taka3XlcVlUU.jpg"
+      },
+      {
+        "name": "Susan Sullivan",
+        "character": "Isabelle Wallace",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iwm5CedTDDhNhzgj9sVJoCrLRiT.jpg"
+      },
+      {
+        "name": "Raci Alexander",
+        "character": "Title Sequence Performer #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Jennifer Garrett",
+        "character": "Title Sequence Performer #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Kelleia Sheerin",
+        "character": "Title Sequence Performer #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5KRzJ6FaAtwZASI9H8Ag4dFEo3e.jpg"
+      },
+      {
+        "name": "Bree Turner",
+        "character": "Title Sequence Performer #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a6mpCcLHQpnkyjJVBtXH6oxfPGy.jpg"
+      },
+      {
+        "name": "Cassie Creasy",
+        "character": "Flower Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucina Paquet",
+        "character": "Kimmy's Grandma",
+        "profile_path": ""
+      },
+      {
+        "name": "Aida Baggio",
+        "character": "Old Woman #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Shirley Kelly",
+        "character": "Oldest Lady",
+        "profile_path": ""
+      },
+      {
+        "name": "George Bozonelos",
+        "character": "Party Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Loretta Paoletti",
+        "character": "Party Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Giamatti",
+        "character": "Bellman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+      },
+      {
+        "name": "Paul Adelstein",
+        "character": "Brunch Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9qkGnEWPzGayZg9gaB4xbP8UL4g.jpg"
+      },
+      {
+        "name": "Harry Shearer",
+        "character": "Jonathan P.E. Rice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/au1mO0Mb9gni7h0rJCSokBTDnVf.jpg"
+      },
+      {
+        "name": "Davenia McFadden",
+        "character": "Angrier Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/edoxqYrRPUHb7YJ3b5Ijwwn0Yan.jpg"
+      },
+      {
+        "name": "Chelcie Ross",
+        "character": "Preist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yerwaFvmmtkZSfT68Bhbn1U6I5P.jpg"
+      },
+      {
+        "name": "Ray Uhler",
+        "character": "Wedding Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ettyLpYWMkeqwkDgvtt1oWXA6oB.jpg"
+      },
+      {
+        "name": "Rose Abdoo",
+        "character": "Seamstress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6gl2EerGV1p4LS2smamymwgU6jH.jpg"
+      },
+      {
+        "name": "Joseph Sikora",
+        "character": "Stoner Guy #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xql9QZqU9povZhRIkuXym2FtoFq.jpg"
+      },
+      {
+        "name": "Shale Marks",
+        "character": "Stoner Guy #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Phillip Ingram",
+        "character": "Wedding Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "JoBe Cerny",
+        "character": "Tailor",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlie Trotter",
+        "character": "Self",
+        "profile_path": ""
+      },
+      {
+        "name": "Guillermo Téllez",
+        "character": "Chef",
+        "profile_path": ""
+      },
+      {
+        "name": "Ned Schmidtke",
+        "character": "Captain",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Swenson",
+        "character": "Karaoke Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Mara Casey",
+        "character": "Karaoke Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Tonray Ho",
+        "character": "Karaoke Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mbJCJab8tkPPC94DJVUo9G3nJt.jpg"
+      },
+      {
+        "name": "Michelle Hutchison",
+        "character": "Drunken Trashy Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sHURO5OXtbLV9ihSus2sTfRpFL7.jpg"
+      },
+      {
+        "name": "Robert Sutter",
+        "character": "Crabhouse Pianist",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlotte Zucker",
+        "character": "Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "Susan Breslau",
+        "character": "Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "Burton Zucker",
+        "character": "Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sharon Haight",
+        "character": "Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nydia Rodriguez Terracina",
+        "character": "Walter's Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tHxDG9LChaP6wnNdb2fLnjjflpW.jpg"
+      },
+      {
+        "name": "Mike Bacarella",
+        "character": "Office Janitor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iMvu8lPSr5nG2youh11S1RgrvTW.jpg"
+      },
+      {
+        "name": "Larry Santori",
+        "character": "Conductor",
+        "profile_path": ""
+      },
+      {
+        "name": "Gene Janson",
+        "character": "Sport Magazine Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r6kdH3CF4CMORkCGs3y48Bp0CeI.jpg"
+      },
+      {
+        "name": "Kevin Michael Doyle",
+        "character": "Sport Magazine Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Kuhagen",
+        "character": "Werner",
+        "profile_path": ""
+      },
+      {
+        "name": "Sid Hillman",
+        "character": "Dining Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lCZbfN2fJqdFIQyfN3lM3zN04Gu.jpg"
+      },
+      {
+        "name": "Norman Merrill",
+        "character": "Dining Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Renata Scott",
+        "character": "Dining Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Anh Duong",
+        "character": "Dining Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iCUpdQVdsnhQ7VLOqt7RbE3vTcI.jpg"
+      },
+      {
+        "name": "Jennifer McComb",
+        "character": "Excited Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ko3DhsurCwwS6RtVf5oofHyfufe.jpg"
+      },
+      {
+        "name": "Mary-Pat Green",
+        "character": "Angry Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cLqn3eEGnE5zGxT2KBXRSkahrPE.jpg"
+      },
+      {
+        "name": "Jo Farkas",
+        "character": "Loony Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/npdITDYkDC00KHKqqkxBTrcwy4e.jpg"
+      },
+      {
+        "name": "Paul Adelstein",
+        "character": "Brunch Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9qkGnEWPzGayZg9gaB4xbP8UL4g.jpg"
+      },
+      {
+        "name": "Stephanie Burton",
+        "character": "Karaoke Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kathi Copeland",
+        "character": "Singing Chef (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uoVmFNf70vIkCAFVzDzYWt8pJpx.jpg"
+      },
+      {
+        "name": "Amy Danles",
+        "character": "Intro Bridesmaid #2 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff Dlugolecki",
+        "character": "Wedding Family Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Reese Foster",
+        "character": "Dining Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kristi Gescheidler",
+        "character": "Karoake Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Patricia E. Harrington",
+        "character": "",
+        "profile_path": ""
+      },
+      {
+        "name": "Jerod Howard",
+        "character": "Wedding Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wEpU0KWR4MSkV0YQ5qozJLO6fLS.jpg"
+      },
+      {
+        "name": "Chris Lowe",
+        "character": "Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sIAtf9v5qf3MiGfx3oUL7kRWDwC.jpg"
+      },
+      {
+        "name": "Debbie Marks",
+        "character": "",
+        "profile_path": ""
+      },
+      {
+        "name": "Molly Murphy",
+        "character": "Train Conductor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric A. Pot",
+        "character": "Florist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chelcie Ross",
+        "character": "Priest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yerwaFvmmtkZSfT68Bhbn1U6I5P.jpg"
+      },
+      {
+        "name": "Dominic Paolo Testa",
+        "character": "Shopper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1FbQUPq6vm0uYVFSk4dU8m06BX6.jpg"
+      },
+      {
+        "name": "Robert Velo",
+        "character": "Taylor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Johnny White",
+        "character": "Karaoke Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Niko El Santo Zavero",
+        "character": "Singing Waiter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4xa74EhJskXyGUzpeVSWfZZ87FZ.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "P.J. Hogan",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a9nTCDzLrnrEgD81WiRvZ4zN1VX.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "chicago, illinois",
+    "secret love",
+    "new love",
+    "love of one's life",
+    "wedding reception",
+    "restaurant critic",
+    "man woman relationship",
+    "wedding",
+    "relationship sabotage",
+    "rehearsal dinner"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "When a woman's long-time friend reveals he's engaged, she realizes she loves him herself and sets out to get him, with only days before the wedding.",
+    "A woman who, by a promise made years earlier, is supposed to marry her best friend in three weeks, even though she doesn't want to. When she finds out that he's marrying someone else, she becomes jealous and tries to break off the wedding.—Robert Krzanowski <stonedpsycho@homail.com>",
+    "Michael O'Neal and Julianne Potter have been friends for years but when Michael rings Julianne to tell her he is getting married to a lady called Kimberly Wallace she finally realizes he has to tell him her true feelings, which are that she loves him. When she gets there she can't do it so she tries to do everything to get them to break up.—haylzy",
+    "When Julianne's best friend tells her that he met a woman and they are getting married in four days, she finds out that she loves him and wants him for herself. So, she sets out to break off the wedding, but things prove to be really difficult, since the bride seems to be \"the perfect woman\".—Chris Makrozahopoulos <makzax@hotmail.com>",
+    "It's a story of love revealed when Julianne realizes that she is in love...with a man who is going to be married to someone else. The only thought in her head is that she has to break up Michael and Kimmy. George, her boss, comes to the rescue, but helps her open her eyes to see what she needs to do.—Heather"
+  ],
+  "synopsis": "Three weeks before her 28th birthday, New York City food critic Julianne \"Jules\" Potter (Julia Roberts) receives a call from her lifelong friend Michael O'Neal (Dermot Mulroney), a Chicago sportswriter. Years earlier, the two agreed that if they were both unmarried by age 28, they would marry each other. Michael tells her that in four days, he will marry Kimmy Wallace (Cameron Diaz), a college student eight years his junior whose father owns the Chicago White Sox.Isabelle Wallace (Susan Sullivan), wife of Walter, mother of Kimmy, and future mother-in-law of Michael. Joe O'Neal (M. Emmet Walsh), father of Michael and Scotty O'Neal and future father-in-law of Kimmy. Samantha Newhouse (Rachel Griffiths) & Mandy Newhouse (Carrie Preston), twin sisters & Kimmy's bridesmaids. Scotty O'Neal (Christopher Masterson), youngest son of Joe and younger brother of Michael and future brother-in-law of KimmyRealizing that Michael is the love of her life, Jules resolves to sabotage his wedding. Arriving in Chicago, she reunites with Michael and meets Kimmy, who asks her to be the maid of honor. Kim trusts Jules completely and considers her an elder sister. Jules schemes to break up the couple. she turns on her seductive side, trying to lure Michael. Jules's attempt to humiliate Kimmy at a karaoke bar backfires (Kimmy had told her she can't carry a tune and she forces Kimmy on the stage hoping to embarrass her in front of Michael. Instead, Kimmy rocks a song and wins over everybody with her bubbly nature). She manipulates Kimmy into asking her father to offer Michael a job, which Jules knows will anger Michael, but this fails as well. (Michael gets upset when Kimmy asks him, and he gets up to leave. But then Kimmy starts crying and apologizes to Michael and he melts and forgives her)Frustrated, Jules begs her friend George Downes (Rupert Everett) for help, and he flies to Chicago. On George's advice, Jules prepares to tell Michael how much she loves him, but instead tells him that she is engaged to George, hoping to make Michael jealous. George, who is gay, plays along but embarrasses Jules at lunch (by telling a fake, but incredibly romantic story about how they first met) with the wedding party, singing \"I Say a Little Prayer\" as the whole restaurant joins in. George flies' home, and Jules tells Michael that her \"relationship\" with George is over. Michael admits to feeling jealous and gives her the chance to confess her own feelings, but she lets the moment pass. They share a dance as Michael sings their song, \"The Way You Look Tonight\".The day before the wedding, at Kimmy's father's Walter (Philip Bosco) office, Jules uses his email account to forge a message from him to Michael's boss, asking that Michael be fired to allow Kimmy's father to hire him at Kimmy's insistence. She saves the message rather than send it, but later realizes that Kimmy's father has unknowingly sent the email. Jules lies to enlist Michael's help, but they find the office locked. Returning to Jules' hotel, Michael receives a message from his boss notifying him of the email. Furious, he calls Kimmy, calling off the wedding.The next morning, Jules discovers that neither Michael nor Kimmy have told anyone else that the wedding is off. She tries to manipulate the couple into breaking up for good, but Michael and Kimmy decide to get married after all. Jules finally confesses her love to Michael and passionately kisses him. Kimmy witnesses this and drives away, pursued by Michael, who is followed by Jules in a caterer's truck. Jules calls George, who assures her that Michael loves Kimmy. Finding Michael at Chicago Union Station, Jules confesses to everything. He forgives her and tells her that here at the station is where he proposed to Kimmy and she accepted, and they split up to look for Kimmy.Jules finds Kimmy in the bathroom of Comiskey Park. Amid a crowd of onlookers, Kimmy confronts Jules for interfering with Michael. Jules apologizes, assuring Kimmy that Michael truly loves her, and they reconcile. The wedding proceeds, and at the reception, Jules gives a heartfelt speech as Kimmy's maid of honor.\nJules allows the newlyweds to temporarily have \"The Way You Look Tonight\" as their song until they find their own song. Jules and Michael share their goodbyes, both finally moving on. On the phone with George, Jules is surprised to see him at the reception, and they dance together.",
+  "imdb_score": 6.3
+}

@@ -1,0 +1,456 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/3tuWpnCTe14zZZPt6sI1W9ByOXx.jpg",
+  "id": 114,
+  "title": "Pretty Woman",
+  "poster_path": "https://image.tmdb.org/t/p/w500/hVHUfT801LQATGd26VPzhorIYza.jpg",
+  "release_date": "1990-03-23",
+  "vote_average": 7.463,
+  "vote_count": 7699,
+  "popularity": 64.027,
+  "overview": "When a millionaire wheeler-dealer enters a business contract with a Hollywood hooker Vivian Ward, he loses his heart in the bargain.",
+  "imdb_id": "tt0100405",
+  "budget": 14000000,
+  "homepage": "",
+  "revenue": 463406268,
+  "runtime": 119,
+  "tagline": "She walked off the street, into his life and stole his heart.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    "Touchstone Pictures",
+    "Silver Screen Partners IV",
+    "Regency Enterprises",
+    "Arnon Milchan Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Richard Gere",
+        "character": "Edward Lewis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i7wcBNmFldh2E4QInCvmv7CPSIR.jpg"
+      },
+      {
+        "name": "Julia Roberts",
+        "character": "Vivian Ward",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AhQMyQ10kz5g8Y3Fp54GPhgDxQS.jpg"
+      },
+      {
+        "name": "Ralph Bellamy",
+        "character": "James Morse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vC6cdrUUewgurTlVXt36eRAtQKb.jpg"
+      },
+      {
+        "name": "Jason Alexander",
+        "character": "Philip Stuckey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lPmcWTagDgDhB3cNBvL0eHKKaxB.jpg"
+      },
+      {
+        "name": "Laura San Giacomo",
+        "character": "Kit De Luca",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xOPY9e0HN6zYmI5HrmRSbwygEzy.jpg"
+      },
+      {
+        "name": "Alex Hyde-White",
+        "character": "David Morse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1h2jQgYgbqtkZyiHsudlKY1eZED.jpg"
+      },
+      {
+        "name": "Amy Yasbeck",
+        "character": "Elizabeth Stuckey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wDd71vFKUMJutO3fZjY2Pw0HWb.jpg"
+      },
+      {
+        "name": "Elinor Donahue",
+        "character": "Bridget",
+        "profile_path": "https://image.tmdb.org/t/p/w185/irlz1IeDuZpTzozCK0FPtcKDmT6.jpg"
+      },
+      {
+        "name": "Hector Elizondo",
+        "character": "Barney Thompson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Mfx9xeOFKXtzVpAc1488LiHs0b.jpg"
+      },
+      {
+        "name": "Judith Baldwin",
+        "character": "Susan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8eLpmqWUsAM4ZX6LWBoIEUDUV42.jpg"
+      },
+      {
+        "name": "Jason Randal",
+        "character": "Magician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7BLBgSFxhXFggOxV4fpMt7gOHY6.jpg"
+      },
+      {
+        "name": "Bill Applebaum",
+        "character": "Howard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fmugwPy7cmFTXjSJCAvzOkgaFDD.jpg"
+      },
+      {
+        "name": "Tracy Bjork",
+        "character": "Female Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qqVkvZMgnBnZVaUNKLfJNXi243q.jpg"
+      },
+      {
+        "name": "Gary Greene",
+        "character": "Male Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9AaZgBmKYqH7Md22LZU9PA86GBx.jpg"
+      },
+      {
+        "name": "Billy Gallo",
+        "character": "Carlos",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wrSckJnD3kdgDVMcFs1M6NY2gHV.jpg"
+      },
+      {
+        "name": "Abdul Salaam El Razzac",
+        "character": "Happy Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3TwsXzX2WNgoQ4pHJvqDDPmojm8.jpg"
+      },
+      {
+        "name": "Hank Azaria",
+        "character": "Detective",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg"
+      },
+      {
+        "name": "Larry Hankin",
+        "character": "Landlord",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iWJFD0BkfS57rLFQVn3UrsrEvAV.jpg"
+      },
+      {
+        "name": "Julie Paris",
+        "character": "Rachel",
+        "profile_path": ""
+      },
+      {
+        "name": "Rhonda Hansome",
+        "character": "Bermuda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kjuDRxYkfjt0GxlQHb72eLFyMGR.jpg"
+      },
+      {
+        "name": "Harvey Keenan",
+        "character": "Man in Car",
+        "profile_path": ""
+      },
+      {
+        "name": "Marty Nadler",
+        "character": "Tourist Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Lynda Goodfriend",
+        "character": "Tourist Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jK4SRGzk7mJ0d0dqqWPnXF0iivE.jpg"
+      },
+      {
+        "name": "Reed Anthony",
+        "character": "Cruiser",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Campanella",
+        "character": "Pops",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aFKBOIqvarf31YnPlXn8H4OtzAd.jpg"
+      },
+      {
+        "name": "Jackie O'Brien",
+        "character": "Artist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kaeESQC58WBEKcbCf55bAEEzvvB.jpg"
+      },
+      {
+        "name": "Cheri Caspari",
+        "character": "Angel",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Marshall",
+        "character": "Skateboard Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5Vwgp604S7x3Npes4iCuKrm8EZ6.jpg"
+      },
+      {
+        "name": "Patrick Richwood",
+        "character": "Night Elevator Operator Dennis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sSp6c5VrBfARdCLwbDBJvtAkePM.jpg"
+      },
+      {
+        "name": "Kathleen Marshall",
+        "character": "Day Desk Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jXYjUK0kCbVn18B9wm6Tdv1trfV.jpg"
+      },
+      {
+        "name": "Laurelle Mehus",
+        "character": "Night Desk Clerk",
+        "profile_path": ""
+      },
+      {
+        "name": "Don Feldstein",
+        "character": "Male Desk Clerk",
+        "profile_path": ""
+      },
+      {
+        "name": "Marvin Braverman",
+        "character": "Room Service Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Al Sapienza",
+        "character": "Night Doorman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tqgr67aRg1OuuRhQFd8I3JduSRD.jpg"
+      },
+      {
+        "name": "Jeff Michalski",
+        "character": "Day Doorman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3PkPMrxFMQDnlJt2Zqjr543JXlt.jpg"
+      },
+      {
+        "name": "James Patrick Stuart",
+        "character": "Day Bellhop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sFDP6Ahkr3LuMr1kTsLzwB5jV93.jpg"
+      },
+      {
+        "name": "Lloyd T. Williams",
+        "character": "Bellhop",
+        "profile_path": ""
+      },
+      {
+        "name": "R. Darrell Hunter",
+        "character": "Darryl The Limo Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "James Patrick Dunne",
+        "character": "Lounge Pianist",
+        "profile_path": ""
+      },
+      {
+        "name": "Valorie Armstrong",
+        "character": "Woman in Lobby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pJVLvI3jcerCHIx9QDsSEqIlR2p.jpg"
+      },
+      {
+        "name": "Steve Restivo",
+        "character": "Italian Businessman",
+        "profile_path": ""
+      },
+      {
+        "name": "Rodney Kageyama",
+        "character": "Japanese Businessman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aA7h7ywaVBaQYjo62NDzOYWVG6A.jpg"
+      },
+      {
+        "name": "Douglas Stitzel",
+        "character": "American Businessman",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry Miller",
+        "character": "Mr. Hollister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ajnXlXG20LJwAwxne8G94ucVj0v.jpg"
+      },
+      {
+        "name": "Dey Young",
+        "character": "Snobby Saleswoman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wHgYRlGBk5tiwM6r7ZSkdkc8H7f.jpg"
+      },
+      {
+        "name": "Shane Ross",
+        "character": "Marie",
+        "profile_path": ""
+      },
+      {
+        "name": "Carol Williard",
+        "character": "Saleswoman",
+        "profile_path": ""
+      },
+      {
+        "name": "Minda Burr",
+        "character": "Saleswoman",
+        "profile_path": ""
+      },
+      {
+        "name": "Robyn Peterson",
+        "character": "Saleswoman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vVuKEbDjtLjZWX1cAxCytNHptnI.jpg"
+      },
+      {
+        "name": "Mariann Aalda",
+        "character": "Saleswoman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lmgyRRdNon2xyDQ407cAJiymbjx.jpg"
+      },
+      {
+        "name": "RC Everbeck",
+        "character": "Tie Salesman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s3d2lPEdV65jQbeci4WenOoe7qX.jpg"
+      },
+      {
+        "name": "Michael French",
+        "character": "Maitre D'",
+        "profile_path": ""
+      },
+      {
+        "name": "Allan Kent",
+        "character": "Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Stacy Keach, Sr.",
+        "character": "Senator Adams",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucinda Crosby",
+        "character": "Olsen Sister",
+        "profile_path": ""
+      },
+      {
+        "name": "Nancy Locke",
+        "character": "Olsen Sister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cq3pSWcqYskgUlG2bjteSFL6bwZ.jpg"
+      },
+      {
+        "name": "Calvin Remsberg",
+        "character": "Sod Stomping Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qVj6oKcZxZ7g6luMHfKW6fBBlGS.jpg"
+      },
+      {
+        "name": "Lloyd Nelson",
+        "character": "Game Announcer",
+        "profile_path": ""
+      },
+      {
+        "name": "Norman Large",
+        "character": "Polite Husband",
+        "profile_path": ""
+      },
+      {
+        "name": "Tracy Reiner",
+        "character": "Woman at Car",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tfIh2dPe4tGITdlsPZXBNeqvZwW.jpg"
+      },
+      {
+        "name": "Tom Nolan",
+        "character": "Vance",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d4pKybWR7aDwzdy0jUHpM3QZkte.jpg"
+      },
+      {
+        "name": "John David Carson",
+        "character": "Mark",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tSnNQXFJk0prj11Dgo6nYuWujSo.jpg"
+      },
+      {
+        "name": "Daniel Bardol",
+        "character": "Jake",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r9GM0o3ukZKRhH1PnYyZFZ70ObF.jpg"
+      },
+      {
+        "name": "Karin Calabro",
+        "character": "Violetta in \"La Traviata\"",
+        "profile_path": ""
+      },
+      {
+        "name": "Bruce Eckstut",
+        "character": "Alfredo in \"La Traviata\"",
+        "profile_path": ""
+      },
+      {
+        "name": "Amzie Strickland",
+        "character": "Matron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ePyjF4wLPO2F6gnAfbrcOwLcYGJ.jpg"
+      },
+      {
+        "name": "Mychael Bates",
+        "character": "Usher",
+        "profile_path": ""
+      },
+      {
+        "name": "Gary Bohn",
+        "character": "Hotel Desk Clerk (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Bradley",
+        "character": "Man in Theatre Box (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Rp2AoAw2JteJCJZ7GCmfV3xgLO.jpg"
+      },
+      {
+        "name": "Robert Buckingham",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Selby Dessner",
+        "character": "Man with Newspaper (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rio Hackford",
+        "character": "Street Junkie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lzRk0FsLIJU8pNHhAlF5jijcdJr.jpg"
+      },
+      {
+        "name": "Robert Liguori",
+        "character": "Bar Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Garry Marshall",
+        "character": "Bum Tour Guide (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ergjvb7J3UnbBnX1f7GvFVZSaci.jpg"
+      },
+      {
+        "name": "Charles Minsky",
+        "character": "Janitor with Water Hose (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Blair Richwood",
+        "character": "Blair (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Randall Rutledge",
+        "character": "Security Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Simone",
+        "character": "Waiter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jhG4KAVvJvD8OQkYYb3hmKf06ql.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Garry Marshall",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ergjvb7J3UnbBnX1f7GvFVZSaci.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "hotel",
+    "friendship",
+    "prostitute",
+    "sports car",
+    "capitalism",
+    "expensive restaurant",
+    "workaholic",
+    "fire escape",
+    "los angeles, california",
+    "beverly hills",
+    "piano",
+    "bubble bath"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A man in a legal but hurtful business needs an escort for some social events, and hires a beautiful prostitute he meets... only to fall in love.",
+    "Replete with extreme wealth and suave good looks, Edward Lewis could seemingly have any woman he wants, a committed significant other needed on his arm at social events to further how he makes his money as a corporate raider, but since he focuses more on his corporate-raiding pursuits with his lawyer of 10 years and partner-in-crime Philip Stuckey than any woman, every significant other he's had in his life has felt neglected and eventually left him, the fact of which he is just realizing. In Beverly Hills, still in need of a woman on his arm as he and Philip work toward taking over a company owned by the increasingly insolvent James Morse, he decides, from a chance encounter, to hire Hollywood Boulevard hooker Vivian Ward as his escort for the week. It makes sense: a professional who would be committed to the work without having any relationship issues after the week is done. Beyond their chance encounter, he also makes this decision because she surprises him about how unhookerish she is in certain respects. Vivian, relatively new to Los Angeles and the business, must still look and act the part, with Edward, beyond giving her money, leaving her largely to her own devices to do so. She finds a somewhat-unlikely Henry Higgins in Barney Thompson, manager of the Beverly Wilshire Hotel where Edward is staying. Barney draws that fine line of keeping the hotel's upscale clients happy while maintaining the posh decorum of the upper class, which does not include people to the hotel looking for rooms with hourly rates. As Barney and his associates are able to transform Vivian into a Cinderella, the questions become whether Vivian can go back to her Hollywood Boulevard life and whether she does have her Prince Charming beyond this week in the form of Edward (or anyone else) who truly does see her as Cinderella as opposed to a Hollywood Boulevard streetwalker.—Huggo",
+    "Young prostitute Vivian Ward dreams of a knight-like man who will rescue her. In an unexpected event, she meets handsome billionaire Edward Lewis, who's lost his way while driving his friend's sports car. She asked if he wants a date, but he asked her for the direction to his hotel instead. For $20, Vivian drives him to his hotel. As Edward is about to enter the hotel, he looks back. Seeing her sitting at the corner, he suddenly finds her beauty hard to let her go and asks her to accompany him to his penthouse suite. That night, they get acquainted and make love. The next morning, Edward surprises her with a lucrative business proposal: be with him for the next seven days. Delighted, Vivian accepts. Being with Edward for the whole week changes Vivian's world, far from her regular work as a Hollywood Boulevard prostitute. Though knowing professionals should never fall in love, each begins to question this rule.—judytrinidad",
+    "Having recently broken up, Edward Lewis, a successful out-of-town corporate raider and elegant bachelor with an impeccable sense of style, borrows his lawyer's silver 1990 Lotus Esprit SE, only to get lost on bustling Hollywood Boulevard. Looking for directions, Lewis has a chance encounter with beautiful Vivian Ward, a statuesque streetwalker with a heart of gold; and, as one thing leads to another, a mutually beneficial voluntary association commences. Now, to escort suave Edward for an entire week, gawky diamond-in-the-rough Vivian must endure a complete makeover; but, as personal secrets come to light, something starts to change. Both Vivian and Edward have already had their share of unhappiness and hurt, and they also come from different worlds. Is Vivian willing to break her rules and give love a second chance?—Nick Riganas",
+    "Edward is a rich, ruthless businessman who specializes in taking over companies before selling them off piece by piece. He travels to Los Angeles for a business trip and decides to hire a prostitute. They take a liking to each other and he offers her money if she'll stay with him for an entire week while he makes the \"rich and famous\" scene (since it doesn't do for a man of his stature to be alone at society parties and polo matches). Romantic comedy (and complications) ensue.—Afterburner <aburner@erols.com>"
+  ],
+  "synopsis": "A very successful, wealthy lawyer, Edward Lewis, hires a beautiful and unlikely prostitute, Vivian Ward (Julia Roberts), from Sunset Blvd to bring along to various business events. An attraction developes between the two, and Edward finds it harder and harder to let the infectious, kind-hearted Vivian go.Businessman Edward Lewis (Richard Gere) breaks up with his girlfriend, who doesn't want to be at his \"beck and call\" at a swanky party held by his partner Philip Stuckey, and cuts loose in Stuckey's Lotus. He gets lost and stops along Hollywood Boulevard for directions from hooker Vivenne Ward (Julia Roberts). She charges, gets in and ends up driving him to his hotel in Beverley Hills. He asks her up to his penthouse suite on a whim and pays her to stay all night, although seems uncomfortable at first.The following morning he asks her to stay all week for $3000. He also gives her money for clothes and says she needs to be at his \"beck and call\" with no strings attached. She calls her room-mate Kit (Laura San Giacomo) to leave her money for the rent, and goes shopping on Rodeo Drive for more appropriate clothes. However, snooty saleswomen won't serve her as she is still dressed like a hooker, and she returns to the hotel, where she gets stopped by the hotel manager, Barney (Hector Elizondo). He wants to make it clear that they are making an exception having her at the hotel as Edward is such a special guest. Vivienne gets upset as she still has no outfit for dinner, and Barney helps her, along with coaching her on dinner etiquette. When Edwards returns, he is amazed by Vivienne's new look. The business dinner goes well, but Edward is preoccupied with the deal afterwards.The next day, Vivienne tells him about the experience shoppingt the previous day, and Edward takes her back to spend an obscene amount of money on clothes, leaving her to go back to his work as she is transformed from hooker to lady. She goes back to the shop from the previous day to show them the big mistake they made! Back at hotel, she looks like a genuine guest, but when Edward gets home he is still busy with work, and they take a bath together and talk into the night about their pasts and how they ended up where they are today.The following day, Edward takes Vivienne to the polo. While Vivienne chats to David Morse, the grandson of the man involved in Edward's latest deal, Philip is worried she is a spy. Edward reassures him by telling him how they met, and Philip then comes on to Vivienne. When they return to the hotel, she is furious with Edward for telling him, and plans to leave, but he persuades her to see out the week. Edward leaves work early the next day and takes Vivienne on a date to the Opera in his private jet. She clearly is moved by the music, and says \"If I forget to tell you later, I had a wonderful time tonight\". On returning to the hotel, he falls asleep (the first time we have seen this) while she is getting ready for bed, and she kisses him on the lips - she doesn't do this with clients - and they make love as partners, rather than client and hooker. Over breakfast, Edward offers to put her up in an apartment so he can continue seeing her, but she feels insulted and says this is not the fairytale she wants. He then goes off to work without resolving the situation. Kit comes to the hotel and sees that she has fallen for him, but she denies it.Edward meets Morse, about to close the deal, and changes his mind at the last minute. His time with Vivienne has shown him another way of being - taking time off and enjoying life - and working. He wants to create things rather than just making money. Philip is livid, and goes to the hotel. Vivienne is there and he blames her for changing Edward - he comes onto her again, and then hits her before Edward returns and pulls him off and chucks him out.Vivienne leaves, and is seen back at home with Kit, packing up to leave for San Franscisco. Edward gets into the car with the chauffeur that took her home, and rather than going to the airport, he goes to her apartment and climbs up the fire escpae (despite being afraid of heights) with a rose in his mouth, to woo her like in a fairy-story.",
+  "imdb_score": 7.1
+}

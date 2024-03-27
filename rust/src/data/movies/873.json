@@ -1,0 +1,343 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/rhMpAPvoy1beXd8gA6CvYoCSztj.jpg",
+  "id": 873,
+  "title": "The Color Purple",
+  "poster_path": "https://image.tmdb.org/t/p/w500/pcXRsQQcH9Iw9fU5t6TgnxqcroC.jpg",
+  "release_date": "1985-12-18",
+  "vote_average": 7.7,
+  "vote_count": 1629,
+  "popularity": 33.302,
+  "overview": "An epic tale spanning forty years in the life of Celie, an African-American woman living in the South who survives incredible abuse and bigotry. After Celie's abusive father marries her off to the equally debasing 'Mister' Albert Johnson, things go from bad to worse, leaving Celie to find companionship anywhere she can. She perseveres, holding on to her dream of one day being reunited with her sister in Africa.",
+  "imdb_id": "tt0088939",
+  "budget": 15000000,
+  "homepage": "",
+  "revenue": 146300000,
+  "runtime": 154,
+  "tagline": "It's about life. It's about love. It's about us.",
+  "genres": [
+    "Drama",
+    "History",
+    "Crime"
+  ],
+  "production_companies": [
+    "Amblin Entertainment",
+    "The Guber-Peters Company",
+    "Warner Bros. Pictures",
+    "Warner Bros."
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Whoopi Goldberg",
+        "character": "Celie Harris Johnson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+      },
+      {
+        "name": "Danny Glover",
+        "character": "Albert Johnson (Mister)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yjow3MJDkgQuHx1fCpo4FZmXZcq.jpg"
+      },
+      {
+        "name": "Margaret Avery",
+        "character": "Shug Avery",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pvAB2GwE8QCPo7WxwBW7ndqUoPR.jpg"
+      },
+      {
+        "name": "Oprah Winfrey",
+        "character": "Sofia Johnson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nNpYieaDLxKZWw2FY9wsDkjwURu.jpg"
+      },
+      {
+        "name": "Willard E. Pugh",
+        "character": "Harpo Johnson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w5NJlOOdmWpnALYp1b8wnSaK1L9.jpg"
+      },
+      {
+        "name": "Akosua Busia",
+        "character": "Nettie Harris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6QkWy1w5aXiYEI4RqkicJin5Vda.jpg"
+      },
+      {
+        "name": "Desreta Jackson",
+        "character": "Young Celie Harris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z9IsQESOIFMckP0IaFwEXDftOUr.jpg"
+      },
+      {
+        "name": "Adolph Caesar",
+        "character": "Old Mister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/glpbDuY1dfDtfD2Py1PbfbBhvIU.jpg"
+      },
+      {
+        "name": "Rae Dawn Chong",
+        "character": "Squeak (Mary Agnes)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aj9fFFKH3QZX2FSJsj81I4y12M7.jpg"
+      },
+      {
+        "name": "Dana Ivey",
+        "character": "Miss Millie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oQEeRwEb9w4TuSVp334OP9z6Ljm.jpg"
+      },
+      {
+        "name": "Leonard Jackson",
+        "character": "Alphonso \"Pa\" Harris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cmZkWmjxpCJiAa4ciJrhS7DERH3.jpg"
+      },
+      {
+        "name": "Bennet Guillory",
+        "character": "Grady",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mgF3ZXeyXXNA697LCf9fR9jxPe4.jpg"
+      },
+      {
+        "name": "John Patton Jr.",
+        "character": "Preacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Carl Anderson",
+        "character": "Reverend Samuel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4DIhngRreNcozdXCGWmFyqInXGt.jpg"
+      },
+      {
+        "name": "Susan Beaubian",
+        "character": "Corrine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q815QuPzyjV5ERLUgQqJOKnonXg.jpg"
+      },
+      {
+        "name": "James Tillis",
+        "character": "Henry \"Buster\" Broadnax",
+        "profile_path": ""
+      },
+      {
+        "name": "Phillip Strong",
+        "character": "Mayor",
+        "profile_path": ""
+      },
+      {
+        "name": "Laurence Fishburne",
+        "character": "Swain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iwx7h0AfWMm9K4sMmhru3ShSra.jpg"
+      },
+      {
+        "name": "Peto Kinsaka",
+        "character": "Adam",
+        "profile_path": ""
+      },
+      {
+        "name": "Lelo Masamba",
+        "character": "Olivia",
+        "profile_path": ""
+      },
+      {
+        "name": "Margaret Freeman",
+        "character": "Odessa",
+        "profile_path": ""
+      },
+      {
+        "name": "Howard Starr",
+        "character": "Young Harpo",
+        "profile_path": ""
+      },
+      {
+        "name": "Daphaine Oliver",
+        "character": "Young Olivia",
+        "profile_path": ""
+      },
+      {
+        "name": "Jadili Johnson",
+        "character": "Young Adam",
+        "profile_path": ""
+      },
+      {
+        "name": "Lillian Njoki Distefano",
+        "character": "Young Tashi",
+        "profile_path": ""
+      },
+      {
+        "name": "Donna Buie",
+        "character": "Daisy",
+        "profile_path": ""
+      },
+      {
+        "name": "Leon Rippy",
+        "character": "Store Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/55GaqeKzIwbKBDW9RT1CYIZaUKO.jpg"
+      },
+      {
+        "name": "John R. Hart",
+        "character": "Mailman",
+        "profile_path": ""
+      },
+      {
+        "name": "David Thomas",
+        "character": "Road Gang Leader",
+        "profile_path": ""
+      },
+      {
+        "name": "Carrie Murphy",
+        "character": "Loretta",
+        "profile_path": ""
+      },
+      {
+        "name": "Juliet Poe",
+        "character": "Church Sister",
+        "profile_path": ""
+      },
+      {
+        "name": "Katie Simon",
+        "character": "Church Sister",
+        "profile_path": ""
+      },
+      {
+        "name": "Ethel Taylor",
+        "character": "Church Sister",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcus Covington",
+        "character": "Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcus Liles",
+        "character": "Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "April Myers",
+        "character": "Emma",
+        "profile_path": ""
+      },
+      {
+        "name": "Maurice Moore",
+        "character": "Child #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Lechanda Latharp",
+        "character": "Child #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Drew Bundini Brown",
+        "character": "Jook Joint Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6RzwsxsLMPZ3ViAXZhK45r0DyfN.jpg"
+      },
+      {
+        "name": "Arnold F. Turner",
+        "character": "Jook Joint Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9k9nUpp4Mo0I5MOTYe6AyTZu7XM.jpg"
+      },
+      {
+        "name": "Jeris Poindexter",
+        "character": "Jook Joint Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dHKzZRNZWAuO3VMRPJPiSC2afwm.jpg"
+      },
+      {
+        "name": "Hawthorne James",
+        "character": "Jook Joint Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9QvR5gBQkxY7HSFkHegFHxeZXb0.jpg"
+      },
+      {
+        "name": "Sonny Terry",
+        "character": "Jook Joint Musician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/92tdFBiOkTwsCCLyOj7Qx3NTRtZ.jpg"
+      },
+      {
+        "name": "Greg Phillinganes",
+        "character": "Jook Joint Musician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1egahvYkkMKe6tBAkdYcmTFyjCL.jpg"
+      },
+      {
+        "name": "Roy Gaines",
+        "character": "Jook Joint Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Paulinho da Costa",
+        "character": "African Musician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oLgXUvjBkRyZkeSqOvN6CKM2vWm.jpg"
+      },
+      {
+        "name": "Nana Yaw Asiedu",
+        "character": "African Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Clarence Avant",
+        "character": "African Musician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lX0lMZXVDhw6lGDUIQrExzKo2PA.jpg"
+      },
+      {
+        "name": "Bayo Martin",
+        "character": "African Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Ndugu Chandler",
+        "character": "African Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeffrey Kwashi",
+        "character": "African Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Pete Munzhi",
+        "character": "African Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Aniijia Rae Schockley",
+        "character": "African Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Maria Howell",
+        "character": "Church Choir Soloist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yVTrDlQqHNfgXRRL9abOqr1eZi8.jpg"
+      },
+      {
+        "name": "Gayle King",
+        "character": "Church-goer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8pgxwvySCYZ7XXtONVjpPHfSSQR.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Steven Spielberg",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "prison",
+    "rape",
+    "sibling relationship",
+    "jazz",
+    "southern usa",
+    "africa",
+    "black people",
+    "empowerment",
+    "adoption",
+    "violent father",
+    "violent husband",
+    "jazz singer or musician",
+    "letter",
+    "incest"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A black Southern woman struggles to find her identity after suffering abuse from her father and others over four decades.",
+    "This film follows the life of Celie, a young black girl growing up in the early 1900's. The first time we see Celie, she is 14 - and pregnant - by her father. We stay with her for the next 30 years of her tough life...—Colin Tinto <cst@imdb.com>",
+    "Georgia, 1909. With an abusive father, the only person who 14-year old Celie cares for and loves is her younger sister Nettie. Then Celie is married off to Albert Johnson, a brutal, uncaring man. After an incident between Nettie and Albert, Albert bans Nettie from his property and it appears that Celie may never see her again.—grantss",
+    "An epic tale spanning forty years in the life of Celie (Goldberg), an African-American woman living in the South who survives incredible abuse and bigotry. After Celie's abusive father marries her off to the equally debasing 'Mister' Albert Johnson (Glover), things go from bad to worse, leaving Celie to find companionship anywhere she can. She perseveres, holding on to her dream of one day being reunited with her sister in Africa."
+  ],
+  "synopsis": "In the winter of 1909 Georgia, a 14-year-old African American girl named Celie (Desreta Jackson) gives birth to a daughter, whom she names Olivia, as her younger sister, Nettie (Akosua Busia), acts as midwife. Since the baby was conceived through incest, Celie's father, Pa (Leonard Jackson), seizes the infant and warns his daughter to keep the pregnancy a secret. Celie had previously conceived another child through incest, a son named Adam, but he was also removed from her care.Sometime later, a prominent local farmer named Albert Johnson (Danny Glover) asks Pa's permission to marry young Nettie. Refusing, the old man offers Celie instead, and Albert takes the girl to his plantation. There, she calls him \"Mister,\" acts as a domestic servant, and endures his physical abuse.In the spring of 1910, Celie believes she recognizes her seven-month-old daughter, Olivia, in town. She follows Corrine (Susan Beaubian), the baby's supposed mother, to learn the child was adopted by Reverend Samuel. However, Celie remains uncertain whether the child is her own. Back at the farm, Celie is visited by Nettie, who escaped Pa. Celie warns Nettie to leave the farm before Albert has his way with her, but the sisters are inseparable, and Nettie teaches Celie to read.One day, Albert attempts to rape Nettie on her route to school. When she retaliates, Albert violently forces her to leave, and she and Celie are separated yet again. Nettie promises to write to her sister.Sometime later, Albert receives a letter announcing the imminent arrival of his former lover, a diva named Shug Avery (Margaret Avery). Although Celie hopes for mail from Nettie, Albert declares she will never see letters from her sister. Years pass, and the adult Celie (now played by Whoopi Goldberg) improves her reading to escape Albert's brutality.In the summer of 1916, Albert meets his son Harpo's (Willard Pugh) pregnant fiance, Sofia (Oprah Winfrey). Although he forbids the marriage, the two wed shortly after the birth of their first child. When the couple moves to the Johnson farm, both Albert and Celie advise young Harpo to beat the brazen girl into submission. Instead, Sofia punches Harpo in the eye and vows to fight for her dignity.Although Harpo and Sofia have more children over the next few years, their brawls continue and Sofia leaves with their offspring. One day, during a rainstorm, Albert returns home with an ailing Shug Avery and Celie is smitten by the sickly, yet unabashed, starlet. Later, Celie bathes Shug and the woman cries about the loss of her pastor father's affection. Meanwhile, Albert's father, Old Mister Johnson (Adolph Ceasar), arrives unexpectedly and renounces his son's romance with the free-spirited, promiscuous Shug, but Celie secretly spits in his water.In the summer 1922, Albert, Harpo, and their musician friend, Swain (Laurence Fishburne), build a makeshift, lakeside saloon called \"Harpo's\" for Shug to reestablish her singing career. There, crowds defy Prohibition to indulge in alcohol and Shug's seductive spectacles. Celie is mesmerized one night by a suggestive song called \"Miss Celie's Blues.\" Just then, Harpo's estranged wife, Sofia, arrives with a gentleman friend, and Harpo coaxes her onto the dance floor. However, Harpo's latest lover, Squeak (Rae Dawn Chong), is displeased by the reunion and slaps Sofia.After returning home from the ensuing brawl, Celie dresses in Shug's cocktail dress and smiles for the first time. However, her joy dissipates when Shug announces her intention to leave the Johnson farm. As Shug inquires about Celie's relationship with Albert, the girl reveals he has never cared about her happiness, and he beats her when Shug is not around. Declaring her love for the girl, Shug says Celie is still a virgin and kisses her. In the coming days, Shug visits her preacher father and he ignores her. When Shug leaves for Memphis, Tennessee, Celie plans to escape, but Albert interferes.Sometime later, in town, Sofia refuses to be a servant for Miss Millie (Dana Ivey), the mayor's wife, then punches the racist white mayor in retaliation for his verbal abuse against his wife, and racist slurs against her. As a result of this, Sofia is arrested for assaulting a white man.Eight years later, in the spring 1930, a gray-haired and physically and emotionally defeated Sofia is released from prison, only to become Miss Millie's maid since she has no money or job. On Christmas day later that year, Miss Millie drives Sofia to reunite for the day with her three estranged children and extended family, including Harpo. However, the fearful Miss Millie fears the black men outside are attacking her when they help maneuver her car and she orders Sofia to leave with her.During Easter weekend of 1935, Shug returns to the Johnson farm with her new, wealthy husband, named Grady (Bennet Gilroy). As Albert and Grady drunkenly discuss their romantic rivalry, Shug checks the mail and finds a letter from Celie's sister, Nettie, who is now living in Africa. The letter confirms that Celie's two children, Olivia and Adam, were adopted by Corrine, the lady Celie saw in town, and her husband, Reverend Samuel. Nettie joined the missionaries on their journey to Africa as the children's nanny.Shug and Celie search the house and find Nettie's previous letters hidden under the floorboards. Reading Nettie's old letters, Celie learns about her sister's life in Africa, and the violence of white colonists. However, Nettie promises to return with the children as soon as they meet the approval of U.S. immigration. Sometime later, Albert beats as usual Celie, demanding she shave his face, and she prepares to murder him by cutting his throat with the straight razor, but Shug comes to the rescue. Meanwhile, in Africa, Olivia and Adam are initiated into a native tribe as knives slice through their cheeks.Back in Georgia at Easter dinner, Shug announces she is bringing Celie to Memphis. When Albert objects, Celie defies her husband, and Sofia, who has returned home from her servitude to Miss Millie, regains her impetuous nature. After holding a knife to Albert's throat, Celie leaves the farm, vowing that her husband will suffer for his abuse and offenses.In the fall of 1937, Albert's farm is decrepit and his face unshaven since Celie walked out on him. That winter, Celie returns for Pa's funeral. Realizing the man was really her stepfather, Celie is relieved that her children are exempted from an incestuous lineage, and she inherits the flourishing homestead that once belonged to her biological father.Sometime later, Celie and Shug walk through the field of purple flowers surrounding the house and Shug declares that God is offended when people fail to notice the divine glory of color. Inspired by natural beauty, Shug resumes singing at Harpo's saloon one Sunday. However, Shug's pastor father hears his daughter's song at his nearby parish and orders the chorus to sing louder and drown out Shug's voice. Defying her father's scorn, Shug sings along with the gospel and the saloon patrons, including Celie and Sofia, follow her to the church. There, Shug bellows the Christian verse to her estranged father and they embrace. Meanwhile, back at the Johnson farm, Albert receives a letter addressed to Celie from the U.S. Immigration and Naturalization Service. In an attempt to redeem himself, Albert retrieves his hidden savings of cash, goes to the immigration bureau, and secures the safe return of Celie's family.Sometime later in 1938, Celie sees strangers on the horizon of her purple flower field and realizes the African visitors are Nettie, as well as Adam and Olivia. Watching the joyful reunion from Celie's porch, Shug notices Albert in the distance and recognizes his contribution to Celie's happiness. The film ends with Celie and Nettie walking together in the field, reunited at last forever.",
+  "imdb_score": 7.7
+}

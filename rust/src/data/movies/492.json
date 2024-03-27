@@ -1,0 +1,386 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/hjUrsPQMyL0gT6FK1hGUbw9fCuB.jpg",
+  "id": 492,
+  "title": "Being John Malkovich",
+  "poster_path": "https://image.tmdb.org/t/p/w500/xVSvIwRNzwXSs0CLefiiG6A96m4.jpg",
+  "release_date": "1999-10-29",
+  "vote_average": 7.418,
+  "vote_count": 4069,
+  "popularity": 28.852,
+  "overview": "One day at work, unsuccessful puppeteer Craig finds a portal into the head of actor John Malkovich. The portal soon becomes a passion for anybody who enters its mad and controlling world of overtaking another human body.",
+  "imdb_id": "tt0120601",
+  "budget": 13000000,
+  "homepage": "",
+  "revenue": 22863596,
+  "runtime": 113,
+  "tagline": "Ever wanted to be someone else? Now you can.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "PolyGram Filmed Entertainment",
+    "Propaganda Films",
+    "Single Cell Pictures",
+    "USA Films",
+    "Gramercy Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "John Cusack",
+        "character": "Craig Schwartz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
+      },
+      {
+        "name": "John Malkovich",
+        "character": "John Horatio Malkovich",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vmhs8FRzfFmy8vX63bqQOkK0PuB.jpg"
+      },
+      {
+        "name": "Cameron Diaz",
+        "character": "Lotte Schwartz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+      },
+      {
+        "name": "Catherine Keener",
+        "character": "Maxine Lund",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+      },
+      {
+        "name": "Mary Kay Place",
+        "character": "Floris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2kMJaI9g9kOMw7BXb8tlztUxQZe.jpg"
+      },
+      {
+        "name": "Orson Bean",
+        "character": "Dr. Lester",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kcMc3ZdcSZzt4ZNpcvsNM7gWrK6.jpg"
+      },
+      {
+        "name": "Charlie Sheen",
+        "character": "Charlie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qgqHqsmiZVW3suEVONpofJNhOJk.jpg"
+      },
+      {
+        "name": "Reggie Hayes",
+        "character": "Don",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2DrcyfJ9ZIHEdPVl7IiIfRBVxTD.jpg"
+      },
+      {
+        "name": "W. Earl Brown",
+        "character": "First J.M. Inc. Customer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oBHcJc65nUmopx6lVc9ZvYYARZz.jpg"
+      },
+      {
+        "name": "Carlos Jacott",
+        "character": "Larry the Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wBwHJ5f8OBOoHACkSEGaczvt060.jpg"
+      },
+      {
+        "name": "Willie Garson",
+        "character": "Guy in Restaurant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kTNR7cyq3ymByKdNxP3kwnHLSjJ.jpg"
+      },
+      {
+        "name": "K.K. Dodds",
+        "character": "Wendy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nGou7wXgXAKr5oJEyUIuX9RCgFl.jpg"
+      },
+      {
+        "name": "Byrne Piven",
+        "character": "Captain Mertin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9N30a5ul9KofbabWDHgmqf3nZYP.jpg"
+      },
+      {
+        "name": "Judith Wetzell",
+        "character": "Tiny Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sJKAk33MvZ9cSV4aSjWCzUnEH4H.jpg"
+      },
+      {
+        "name": "Gregory Sporleder",
+        "character": "Drunk at Bar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qcCA7hMP8rEEGQDfNCKKl3XZrHn.jpg"
+      },
+      {
+        "name": "Octavia Spencer",
+        "character": "Woman in Elevator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zDGydyM1fmvNWzQlTAns9IZjNxT.jpg"
+      },
+      {
+        "name": "Ned Bellamy",
+        "character": "Derek Mantini",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9qj6thu0g6iUc2hvfoEYlO4GSbY.jpg"
+      },
+      {
+        "name": "Eric Weinstein",
+        "character": "Father at Puppet Show",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yPYIjSrc1SLiVHAsBaB5RAOhINh.jpg"
+      },
+      {
+        "name": "Madison Lanc",
+        "character": "Daughter at Puppet Show",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Carroll",
+        "character": "Cab Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4SiddRCkzh1IEDAWghewExKK2IM.jpg"
+      },
+      {
+        "name": "Gerald Emerick",
+        "character": "Sad Man in Line",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kv4mgJeEzxm7FREHQ2RF8aYm1QN.jpg"
+      },
+      {
+        "name": "Richard Fancy",
+        "character": "Johnson Heyward",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x99fMibFGHfXe3L6FD5cHWXDhU2.jpg"
+      },
+      {
+        "name": "Patti Tippo",
+        "character": "Malkovich's Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/68mCQgI46gAO4YdVnbaZGnXW8gZ.jpg"
+      },
+      {
+        "name": "Daniel Hansen",
+        "character": "Boy Malkovich",
+        "profile_path": ""
+      },
+      {
+        "name": "Mariah O'Brien",
+        "character": "Girl Creeped Out by Malkovich",
+        "profile_path": "https://image.tmdb.org/t/p/w185/caScJZPCb9yoxiRY9sQiNzZynI0.jpg"
+      },
+      {
+        "name": "Kelly Teacher",
+        "character": "Emily",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill M. Ryusaki",
+        "character": "Mr. Hiroshi",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacqueline Benoît",
+        "character": "Lester's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "William Buck",
+        "character": "Lester's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Christine D. Coleman",
+        "character": "Lester's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeanne Diehl",
+        "character": "Lester's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Audrey Gelfund",
+        "character": "Lester's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Yetta Ginsburg",
+        "character": "Lester's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Sylvester Jenkins",
+        "character": "Lester's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Roy C. Johnson",
+        "character": "Lester's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Eddie J. Low",
+        "character": "Lester's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Ralph W. Spaulding",
+        "character": "Lester's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "David Wyler",
+        "character": "Lester's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Flori Wyler",
+        "character": "Lester's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Lee",
+        "character": "Ballet Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Marlowe Bassett",
+        "character": "Ballet Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jennifer Canzoneri",
+        "character": "Ballet Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kristie Cordle",
+        "character": "Ballet Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Denise Dabrowski",
+        "character": "Ballet Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kristin Condon",
+        "character": "Ballet Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k8oqXey7mSB4WTIQqSeHhLePJFh.jpg"
+      },
+      {
+        "name": "Charlene Grimsley",
+        "character": "Ballet Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Christine Krejer",
+        "character": "Ballet Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Erica Long",
+        "character": "Ballet Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Yvonne Montelius",
+        "character": "Ballet Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jessica Neuberger",
+        "character": "Ballet Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sara Rifkin",
+        "character": "Ballet Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Elizabeth Rivera",
+        "character": "Ballet Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Chelsa Sjostrom",
+        "character": "Ballet Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Pamela Hayden",
+        "character": "Featured Character Voice (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mPMtuVB6AEulRhlfn69y5RvgmNT.jpg"
+      },
+      {
+        "name": "Jayne Hess",
+        "character": "Featured Character Voice (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michelle Madden",
+        "character": "Featured Character Voice (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Greg O'Neill",
+        "character": "Featured Character Voice (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Neil Ross",
+        "character": "Featured Character Voice (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pNgkQKw5k6z9kscDnOAwstcmNnt.jpg"
+      },
+      {
+        "name": "Bill Wittman",
+        "character": "Featured Character Voice (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "David Fincher",
+        "character": "Christopher Bing (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yV36WTsLBAGyYVUQshNdI8hyk9l.jpg"
+      },
+      {
+        "name": "Sean Penn",
+        "character": "Sean Penn (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+      },
+      {
+        "name": "Brad Pitt",
+        "character": "Brad Pitt (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+      },
+      {
+        "name": "James Murray",
+        "character": "Student Puppeteer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zzftfhnwepDC0y4HIOxmPap3Znh.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Spike Jonze",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x2QeqEXvi3QjgTybvZ4mmqUf4qO.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "witch",
+    "sexual identity",
+    "individual",
+    "secret love",
+    "transvestism",
+    "identity",
+    "subconsciousness",
+    "new identity",
+    "pet",
+    "chimp",
+    "puppeteer",
+    "appropriation of another human being",
+    "externally controlled action",
+    "pet shop",
+    "actor playing themself"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A puppeteer discovers a portal that leads literally into the head of movie star John Malkovich.",
+    "Puppeteer Craig Schwartz and animal lover and pet store clerk Lotte Schwartz are just going through the motions of their marriage. Despite not being able to earn a living solely through puppeteering, Craig loves his profession as it allows him to inhabit the skin of others. He begins to take the ability to inhabit the skin of others to the next level when he is forced to take a job as a file clerk for the off-kilter LesterCorp, located on the five-foot tall 7½ floor of a Manhattan office building. Behind one of the filing cabinets in his work area, Craig finds a hidden door which he learns is a portal into the mind of John Malkovich, the visit through the portal which lasts fifteen minutes after which the person is spit into a ditch next to the New Jersey Turnpike. Craig is fascinated by the meaning of life associated with this finding. Lotte's trips through the portal make her evaluate her own self. And the confident Maxine Lund, one of Craig's co-workers who he tells about the portal if only because he is attracted to her, thinks that it is a money making opportunity in selling trips into Malkovich's mind after office hours for $200 a visit. Craig, Lotte and Maxine begin to understand that anyone entering the portal has the ability to control Malkovich's mind, which also alters his entire being. This experience makes Maxine fall in love with a composite. This ability to control Malkovich's mind begs the question of the ultimate psychedelic trip for Malkovich himself, who begins to feel that something is not right in the world as he knows it.—Huggo",
+    "Street entertainer Craig Schwartz doesn't seem to have much luck somehow always managing to offend someone - which occasionally leads to a black eye. He eventually gets a job as a file clerk for a company located in an office tower on Floor 7½ - where the ceilings are only 5½ feet high. No one seems to think the arrangement is odd and Craig just gets on with his work. Things take a shift into the bizarre when Craig moves a filing cabinet behind which he finds a tunnel that leads him to see through the eyes of actor John Malkovich. For Craig and the others who become aware of the portal, it represents both risks and opportunities.—garykmcd",
+    "One day filing clerk Craig Schwartz (Cusack) accidentally discovers a door at his job, containing a portal into the mind of character actor John Malkovich (played by Malkovich himself). For 15 minutes, he experiences the ultimate head trip - He is John Malkovich. With his beautiful office mate Maxine (Keener) and his pet-obsessed wife (Diaz), they hatch a plan to let others into John's brain for just $200 a trip.",
+    "Craig, a puppeteer, takes a filing job in a low-ceilinged office in Manhattan. Although married to the slightly askew Lotte, he hits on a colleague, the sexually frank Maxine. She's bored but snaps awake when he finds a portal leading inside John Malkovich: for 15 minutes you see, hear, and feel whatever JM is doing, then you fall out by the New Jersey Turnpike. Maxine makes it commercial, selling trips for $200; also, she's more interested in Lotte than in Craig, but only when Lotte is inside JM. JM finds out what's going on and tries to stop it, but Craig sees the portal as his road to Maxine and to success as a puppeteer. Meanwhile, Lotte discovers others interested in the portal.—<jhailey@hotmail.com>"
+  ],
+  "synopsis": "Craig Schwartz (John Cusack) is an unemployed puppeteer in a forlorn marriage with his pet-obsessed wife Lotte (Cameron Diaz). Gaining a file clerk job through Dr. Lester (Orson Bean) at LesterCorp, in the strange Floor 7½ low-ceiling offices of the Mertin Flemmer Building in New York City, he develops an attraction to his co-worker Maxine (Catherine Keener), who does not return his affections. Schwartz discovers a small door behind a filing cabinet which he enters, finding himself in the mind of actor John Malkovich; able to observe and sense whatever Malkovich does for fifteen minutes before he is ejected and dropped into a ditch near the New Jersey Turnpike. Schwartz reveals the portal to Maxine, and they decide to let others use it at $200 a turn.Schwartz tells Lotte, who becomes obsessed with the experience, allowing her to live out her transgender desires. Lotte becomes attracted to Maxine and they begin a sexual relationship by having Lotte inside Malkovich while Maxine has sexual intercourse with Malkovich. Schwartz, forsaken by both women, locks up Lotte in a cage. Unbeknownst to Maxine, he then enters into Malkovich's mind and has a sexual encounter with Maxine. Drawing on his puppeteer profession, Schwartz discovers that he is able to control Malkovich's actions while in his head, causing the actor to become paranoid. After consulting with his friend Charlie Sheen, Malkovich trails Maxine to the Mertin Flemmer building, where he finds and tries the portal and is placed in a world where everyone looks like him and can only say \"Malkovich\"; he is ejected and meets Schwartz by the turnpike, and angrily demands that the portal be closed, to which Schwartz refuses.Lotte escapes and phones Maxine, revealing that Schwartz was having sex with her. Maxine is annoyed but accepts it as she enjoyed the experience. Seeking help, Lotte finds Dr. Lester, who is well aware of the portal and has a room dedicated to Malkovich. He explains that the person connected to it becomes \"ripe\" for occupation on the eve of their 44th birthday. However, after turning 44, the portal moves to its next host, an unborn child. The former allows one to increase their life before moving on to another host while the latter means being trapped within the unborn child. Dr. Lester, who has been using the portal to prolong his life, reveals his plan to use Malkovich for himself and several of his friends. Offered the chance to join Lester's group, Lotte warns him that Schwartz has control.Meanwhile, Schwartz finds he is able to remain in Malkovich indefinitely. He spends the next eight months in Malkovich's body and through his control, turns Malkovich into a world-famous puppeteer, revitalizing puppetry. Malkovich also gets married to Maxine and learns that she is pregnant, as their relationship grows distant. Malkovich's 44th birthday approaches so Dr. Lester and his friends capture Maxine, threatening to kill her if Schwartz does not leave. Lotte loses hope and attempts to kill Maxine, but they end up at the turnpike after falling through the portal and Malkovich's shame-ridden subconscious. Maxine reveals that she conceived when Lotte was inside Malkovich's body and kept the child because it is theirs. The revelation cements their love for each other.Eventually, Schwartz leaves Malkovich's body voluntarily, hoping to win Maxine back. Malkovich finds that he has regained control of himself, but his joy is cut short as moments later Dr. Lester and his friends enter the portal. Schwartz, discovering that Lotte and Maxine are together again, enters the portal in an attempt to become Malkovich and regain Maxine, but is too late and finds himself in the next host: Emily, the baby of Maxine. Schwartz is permanently imprisoned and must now spend the next 40 years watching Maxine and Lotte live happily ever after through Emily's eyes. Later, an aging Malkovich, under the collective mind of Dr. Lester and his friends, reveals to a now aged Sheen a plan to prolong their lives through Emily.",
+  "imdb_score": 7.7
+}

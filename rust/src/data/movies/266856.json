@@ -1,0 +1,289 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/ke3lanTAgCqPMpOyutIfXzYih2s.jpg",
+  "id": 266856,
+  "title": "The Theory of Everything",
+  "poster_path": "https://image.tmdb.org/t/p/w500/7rIIrOFrbdi2ucAMKoHSaMv8FDN.jpg",
+  "release_date": "2014-11-26",
+  "vote_average": 7.857,
+  "vote_count": 10217,
+  "popularity": 30.278,
+  "overview": "The Theory of Everything is the extraordinary story of one of the world’s greatest living minds, the renowned astrophysicist Stephen Hawking, who falls deeply in love with fellow Cambridge student Jane Wilde.",
+  "imdb_id": "tt2980516",
+  "budget": 15000000,
+  "homepage": "http://www.focusfeatures.com/the_theory_of_everything",
+  "revenue": 123726688,
+  "runtime": 123,
+  "tagline": "His mind changed our world. Her love changed his.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "Working Title Films"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Eddie Redmayne",
+        "character": "Stephen Hawking",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fSvG7qzoBBnJUmgtIuMgrK3EQPN.jpg"
+      },
+      {
+        "name": "Felicity Jones",
+        "character": "Jane Hawking",
+        "profile_path": "https://image.tmdb.org/t/p/w185/35KdWSfTldNEdsn4MUGFIRoxJEu.jpg"
+      },
+      {
+        "name": "Charlie Cox",
+        "character": "Jonathan Hellyer Jones",
+        "profile_path": "https://image.tmdb.org/t/p/w185/20XAZBmuAfVpkPirQy2xSiI9FpM.jpg"
+      },
+      {
+        "name": "Emily Watson",
+        "character": "Beryl Wilde",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg"
+      },
+      {
+        "name": "Simon McBurney",
+        "character": "Frank Hawking",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wwN02i4RBoPHDdOKXBV5AhFALdT.jpg"
+      },
+      {
+        "name": "David Thewlis",
+        "character": "Dennis Sciama",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gJqz8h5AKaVvOLS0hm5Vdvel6JB.jpg"
+      },
+      {
+        "name": "Maxine Peake",
+        "character": "Elaine Mason",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6H2yLBIQDWgDmBkS5exDHGlZgqt.jpg"
+      },
+      {
+        "name": "Harry Lloyd",
+        "character": "Brian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qZSf6OzRpDaZdOCX6pynSRp6jVV.jpg"
+      },
+      {
+        "name": "Tom Prior",
+        "character": "Robert Hawking (Age 17)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v4dLidbwQFWffR3bNDQH9zq2DEn.jpg"
+      },
+      {
+        "name": "Sophie Perry",
+        "character": "Lucy Hawking (Age 14)",
+        "profile_path": ""
+      },
+      {
+        "name": "Finlay Wright-Stephens",
+        "character": "Timothy Hawking (Age 8)",
+        "profile_path": ""
+      },
+      {
+        "name": "Alice Orr-Ewing",
+        "character": "Diana King",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jOtE1FZvzjpWctXEV5ephzgFXaT.jpg"
+      },
+      {
+        "name": "Thomas Morrison",
+        "character": "Carter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a2Te4EVHdetRq63MveAxVQIi7yi.jpg"
+      },
+      {
+        "name": "Michael Marcus",
+        "character": "Ellis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sKIPOyGQUvD9CcFldpiy7poDnNq.jpg"
+      },
+      {
+        "name": "Gruffudd Glyn",
+        "character": "Rees",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kQwCugu2CaSHKUWfE2lbLYOo5ai.jpg"
+      },
+      {
+        "name": "Paul Longley",
+        "character": "Barman - Rowing Club",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uwTrKXiPtFFR7iKKWpNnepItjYk.jpg"
+      },
+      {
+        "name": "Guy Oliver-Watts",
+        "character": "George Wilde",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucy Chappell",
+        "character": "Mary Hawking",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6wrGhl4Gfj3d0jtmECk81xRJfQC.jpg"
+      },
+      {
+        "name": "Charlotte Hope",
+        "character": "Philippa Hawking",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tFyn1QyNPqrhDmTkRKiWMidlCkD.jpg"
+      },
+      {
+        "name": "Abigail Cruttenden",
+        "character": "Isobel Hawking",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gLLLwCtZv5Kjst7N4ErsWuaOeh7.jpg"
+      },
+      {
+        "name": "Nicholas Gerard-Martin",
+        "character": "Physicist #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Brett Brown",
+        "character": "Physicist #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Skrimshire",
+        "character": "Physicist #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Christian McKay",
+        "character": "Roger Penrose",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mF8XtoeRqFGnG0fN8uKfNC9BSWh.jpg"
+      },
+      {
+        "name": "Adam Godley",
+        "character": "Senior Doctor - Cambridge Hospital",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xOM0zOb2KZ2q8M6lRrDo9bEBeJE.jpg"
+      },
+      {
+        "name": "Nicola Sloane",
+        "character": "Bedder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/blWSecB0y80tJCfLEdd3sfIC23f.jpg"
+      },
+      {
+        "name": "Lottie Hamilton",
+        "character": "Robert Hawking (New Born)",
+        "profile_path": ""
+      },
+      {
+        "name": "Enzo Cilenti",
+        "character": "Kip Thorne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lGFHPUsOlAnncpZLfdFXCGq2nji.jpg"
+      },
+      {
+        "name": "Rufus Taylor",
+        "character": "Robert Hawking (Age 2)",
+        "profile_path": ""
+      },
+      {
+        "name": "Delilah Sexton",
+        "character": "Lucy Hawking (New Born)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eileen Davies",
+        "character": "Eileen Bond",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6dIEVzSn5VfQ0Sh1rPutzhtTOk.jpg"
+      },
+      {
+        "name": "Simon Chandler",
+        "character": "John Taylor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uqiDrIp84VEJY3vPCr95Cxp4mKY.jpg"
+      },
+      {
+        "name": "Georg Nikoloff",
+        "character": "Khalatnikov",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vhGgKtOP855NbFCv2IakOeEyL1i.jpg"
+      },
+      {
+        "name": "Oliver Payne",
+        "character": "Robert Hawking (Age 8)",
+        "profile_path": ""
+      },
+      {
+        "name": "Raffiella Chapman",
+        "character": "Lucy Hawking (Age 6)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u3vzRCht6RaULefF6EpBocmD30d.jpg"
+      },
+      {
+        "name": "Sam Houston",
+        "character": "Timothy Hawking (Baby)",
+        "profile_path": ""
+      },
+      {
+        "name": "Victoria Emslie",
+        "character": "Sarah (Geneva Student)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cJl8803vrh000NwHOTUtgbsicyT.jpg"
+      },
+      {
+        "name": "Frank Lebœuf",
+        "character": "Swiss Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tC4l4Ig9NvHd12NKvXiZpKDPdAk.jpg"
+      },
+      {
+        "name": "Will Barton",
+        "character": "Technician",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucy Challenger",
+        "character": "Female Fan",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicola Victoria Buck",
+        "character": "Cockcroft Guest #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Stuart Benson",
+        "character": "Cockcroft Guest #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Bridgmont",
+        "character": "Cockcroft Guest #5",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h7RaUzUnaJxkz7dsK47MRJIue3b.jpg"
+      },
+      {
+        "name": "Jamie Edwards",
+        "character": "Cockcroft Guest #4",
+        "profile_path": ""
+      },
+      {
+        "name": "Jumaane Brown",
+        "character": "Cockcroft Guest #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Becky Bush",
+        "character": "Undergraduate (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ncZvHT4j1Lmwgmu6bKtIRbmBjrj.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "James Marsh",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pvAWSznf3Ou5KWnPHgvKprB1qPV.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "husband wife relationship",
+    "biography",
+    "based on true story",
+    "physicist",
+    "based on memoir or autobiography",
+    "fictional biography",
+    "motor neuron disease",
+    "als",
+    "cambridge university"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A look at the relationship between the famous physicist Stephen Hawking and his wife.",
+    "The Theory of Everything is the story of the most brilliant and celebrated physicist of our time, Stephen Hawking, and Jane Wilde, the arts student he fell in love with while studying at Cambridge in the 1960s. Little was expected from Hawking, a bright but shiftless student of cosmology, after he was given just two years to live following the diagnosis of a fatal illness (ALS) at 21 years of age. He became galvanized, however, by the love Jane Wilde, and went on to be called the \"successor to Einstein,\" as well as a husband and father to their three children. Over the course of their marriage, however, as Stephen's body collapsed and his academic renown soared, fault lines were exposed that tested the resolve of their relationship and dramatically altered the course of both of their lives.—The Times",
+    "In the 1960s, Cambridge University student and future physicist Stephen Hawking falls in love with fellow collegian Jane Hawking. At 21, Hawking learns that he has motor neuron disease. Despite this -- and with Jane at his side -- he begins an ambitious study of time, of which he has very little left, according to his doctor. He and Jane defy terrible odds and break new ground in the fields of medicine and science, achieving more than either could hope to imagine.—Jwelch5742",
+    "The University of Cambridge, early 1960s England. Harbouring mutual curiosity for each other, future theoretical physicist and cosmologist Stephen Hawking and medieval Spanish poetry student Jane Hawking fall in love. Then, at 21, Hawking was diagnosed with Amyotrophic Lateral Sclerosis, a degenerative motor neurone disease paralysing his nervous system. But as Stephen's physical decline progressed, with doctors giving him only a few years to live, Hawking's mind prevailed. And having no plans to give up or retire, Stephen Hawking always remained focused on his quest for the elusive Theory of Everything, a master equation explaining and unifying all aspects of the universe.—Nick Riganas"
+  ],
+  "synopsis": "The movie starts as the Cambridge student Stephen Hawking meets Jane, and although shy at first, eventually they both get close. Stephen soon learns about his illness and decides to shut Jane off from his life. But Jane insists they stay together, knowing the illness will progress and slowly take Stephen away from her. They get married soon after, and Stephen soon graduates his doctoral study, having more interest to cosmological physics. Jane stands by Stephen as the illness progresses, impairing his locomotion, balance, speech and even swallowing. They have two children and Stephen's work starts to gain spotlight. But little by little, Jane starts to lose her spirit, though she doesn't reveal it.Jane's mother advises her to join the church choir to help fill her spare time so she goes. There she meets the choir's tutor Jonathan. Jonathan gets close to Jane and her family, even with Stephen. He goes as far as being a helping hand for Stephen when the family goes on an outdoors trip. Jane ultimately starts to feel attracted to Jonathan. But Jonathan backs away when friends and families start to whisper. As Jane goes with Jonathan, Stephen goes to watch an opera. But Stephen has an episode and goes into a coma, and the doctors hesitate in doing a tracheotomy on him due to his muscles already having atrophied which means Stephen's ability to speak will be impaired. Jane insists on a tracheotomy, but the family then struggle communicating with Stephen.Jane hires a help, Elaine, who quickly suits Stephen's needs while Jane slowly slips away from him. Stephen then gets the robotic speech aid program which helps him a lot. But then Jane reaches her limit and she and Stephen get a divorce. Jane goes on to marry Jonathan. But Stephen calls for Jane, as the first spouse, to accompany him in receiving a title from the Queen.",
+  "imdb_score": 7.7
+}

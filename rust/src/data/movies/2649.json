@@ -1,0 +1,399 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/k7GM13qRYSour3lk90Dq1EwdpoW.jpg",
+  "id": 2649,
+  "title": "The Game",
+  "poster_path": "https://image.tmdb.org/t/p/w500/4UOa079915QjiTA2u5hT2yKVgUu.jpg",
+  "release_date": "1997-09-12",
+  "vote_average": 7.561,
+  "vote_count": 6159,
+  "popularity": 23.977,
+  "overview": "In honor of his birthday, San Francisco banker Nicholas Van Orton, a financial genius and a cold-hearted loner, receives an unusual present from his younger brother, Conrad: a gift certificate to play a unique kind of game. In nary a nanosecond, Nicholas finds himself consumed by a dangerous set of ever-changing rules, unable to distinguish where the charade ends and reality begins.",
+  "imdb_id": "tt0119174",
+  "budget": 50000000,
+  "homepage": "https://www.criterion.com/films/28058-the-game",
+  "revenue": 109423648,
+  "runtime": 129,
+  "tagline": "What do you get for the man who has everything?",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Mystery"
+  ],
+  "production_companies": [
+    "PolyGram Filmed Entertainment",
+    "Propaganda Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Michael Douglas",
+        "character": "Nicholas Van Orton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kVYGPIZowzXLEQfAGUNOqKjAbBb.jpg"
+      },
+      {
+        "name": "Sean Penn",
+        "character": "Conrad Van Orton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+      },
+      {
+        "name": "Deborah Kara Unger",
+        "character": "Christine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/evY74tOR3o5zvU6lQFfRNNzE3y.jpg"
+      },
+      {
+        "name": "James Rebhorn",
+        "character": "Jim Feingold",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jRdR3q28gTPQU6eWRgiIqzGuMKU.jpg"
+      },
+      {
+        "name": "Peter Donat",
+        "character": "Samuel Sutherland",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9oxRUlGgSZCx58I8GKRKDbOIKyC.jpg"
+      },
+      {
+        "name": "Carroll Baker",
+        "character": "Ilsa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4aSER7OWnFM2MGDWvYeqowQDPzt.jpg"
+      },
+      {
+        "name": "Anna Katarina",
+        "character": "Elizabeth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hnwiiEA975IPOLRf8QwGE5TPTvV.jpg"
+      },
+      {
+        "name": "Armin Mueller-Stahl",
+        "character": "Anson Baer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yDT9hMg3osAbiWl5YZXTYG4SmGj.jpg"
+      },
+      {
+        "name": "Charles Martinet",
+        "character": "Nicholas' Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3IP5hH7697STIaU006WzQaI2phR.jpg"
+      },
+      {
+        "name": "Scott Hunter McGuire",
+        "character": "Young Nicholas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8HemKCCcMHDgvIteb3YZ2Cmnfz9.jpg"
+      },
+      {
+        "name": "Florentine Mocanu",
+        "character": "Nicholas' Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5kl8YB3DG2dfbv1t33jJFLnVXkG.jpg"
+      },
+      {
+        "name": "Elizabeth Dennehy",
+        "character": "Maria",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dQ8Tew6Q2CAA1Iy5akWMkef0TIp.jpg"
+      },
+      {
+        "name": "Caroline Barclay",
+        "character": "Maggie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4FiJn7yVwH64EjHqlFLLsHbiKQZ.jpg"
+      },
+      {
+        "name": "Daniel Schorr",
+        "character": "Daniel Schorr",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uS1ZvqfNeJZiy6wnD6t0vJv7LXq.jpg"
+      },
+      {
+        "name": "John Aprea",
+        "character": "Power Executive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iq82BuycS1mni4wBGjNJti3FCje.jpg"
+      },
+      {
+        "name": "Harrison Young",
+        "character": "Obsequious Executive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/97zWl5VsJ3uvJ6MWFX0HGyhZeqc.jpg"
+      },
+      {
+        "name": "Kimberly Russell",
+        "character": "Cynthia, CRS Receptionist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/shdU4xS8mYlS8N6KFGaT07aYVXc.jpg"
+      },
+      {
+        "name": "Joe Frank",
+        "character": "CRS Data Collating Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iOuFvLPIIsgEhbWJxCYf9oxvGER.jpg"
+      },
+      {
+        "name": "James Brooks",
+        "character": "James the Bartender",
+        "profile_path": ""
+      },
+      {
+        "name": "Gerry Becker",
+        "character": "New Member Ted",
+        "profile_path": "https://image.tmdb.org/t/p/w185/il1r1Iym5WFJyo8SQon60aqu4nC.jpg"
+      },
+      {
+        "name": "Jarion Monroe",
+        "character": "New Member Victor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ahLAUsrZfNah1bVTyELXY0nAR1q.jpg"
+      },
+      {
+        "name": "Tommy Flanagan",
+        "character": "Solicitor / Taxi Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5OnvT1KpEk3juZavqOCSAEYOtwl.jpg"
+      },
+      {
+        "name": "Bill Flannery",
+        "character": "Tubercular Commuter",
+        "profile_path": ""
+      },
+      {
+        "name": "Kat Kilkenny",
+        "character": "Rattle Gatherer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4aArIYosyLm9O0pwJo2PVdOrClv.jpg"
+      },
+      {
+        "name": "John Cassini",
+        "character": "Man in Airport",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kn2Rtn0I8ivCR7ydZTY74XUBh1K.jpg"
+      },
+      {
+        "name": "Harris Savides",
+        "character": "Ankles",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4q3oGotUGSl9DA3Um7q2ds81dlx.jpg"
+      },
+      {
+        "name": "Aaron Lucich",
+        "character": "City Club Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Talmadge",
+        "character": "City Club Maitre D'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yhlUYkcQP17D4z8DlCtircdf3Xd.jpg"
+      },
+      {
+        "name": "Marc Siegler",
+        "character": "City Club Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "André Brazeau",
+        "character": "Heart Attack Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Keena Turner",
+        "character": "Officer Hicks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t348rSHI2Q2sPmF7wstOCTC5gHp.jpg"
+      },
+      {
+        "name": "Carlos Hoy",
+        "character": "Paramedic Graves",
+        "profile_path": ""
+      },
+      {
+        "name": "Edward Campbell",
+        "character": "Paramedic Stern",
+        "profile_path": ""
+      },
+      {
+        "name": "Sean Lanthier",
+        "character": "Paramedic Kirkland",
+        "profile_path": ""
+      },
+      {
+        "name": "Curtis Vanterpool",
+        "character": "Ambulance EMT",
+        "profile_path": ""
+      },
+      {
+        "name": "Jay Gordon",
+        "character": "Triage Doctor",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeffrey Michael Young",
+        "character": "Officer Walker",
+        "profile_path": ""
+      },
+      {
+        "name": "Owen Masterson",
+        "character": "Pickpocket",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1LKLNASM94TIEUlDpPqdMXywDQl.jpg"
+      },
+      {
+        "name": "Yuji Okumoto",
+        "character": "Nikko Hotel Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eACYrrdj8kZnYMCpUTghbpJ9nVk.jpg"
+      },
+      {
+        "name": "Hideo Kimura",
+        "character": "Nikko Hotel Bellhop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oMepTyh5wigxy3pR96zkZGDpI8O.jpg"
+      },
+      {
+        "name": "Rachel Flanagan",
+        "character": "Nikko Hotel Maid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pI10KQrfCaUI87MJTgb5wlzsk4L.jpg"
+      },
+      {
+        "name": "Mark Boone Junior",
+        "character": "Shady Private Investigator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rcncVr356hpfKX9qOrKL3SJlEO7.jpg"
+      },
+      {
+        "name": "Joy Ann Ryan",
+        "character": "Kaleigh Baer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gGxxlG0vAYaaG5B3EBNhXfgtK7o.jpg"
+      },
+      {
+        "name": "Peter Davidian",
+        "character": "Mr. Garcia",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Kehoe",
+        "character": "Lieutenant Sullivan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bwsY19BaN9vF21XuH8nVZrEAplo.jpg"
+      },
+      {
+        "name": "Christopher John Fields",
+        "character": "Detective Boyle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3ASDmbBZQnk526pPeNtb8LOJXBX.jpg"
+      },
+      {
+        "name": "Linda Manz",
+        "character": "Christine's Roomate Amy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pP4vEMiEFIE3K4fPkhv7DRm9xrr.jpg"
+      },
+      {
+        "name": "Vic Ferreira",
+        "character": "Assassin Mobubbi",
+        "profile_path": ""
+      },
+      {
+        "name": "Duffy Gaver",
+        "character": "Assassin Brodi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/14yzdJuofSlzYvzfa4v8cSrSxFe.jpg"
+      },
+      {
+        "name": "Bob Stephenson",
+        "character": "Assassin Kartmann",
+        "profile_path": "https://image.tmdb.org/t/p/w185/htF2P5zyyFFB1jpBNGVvTiGH01F.jpg"
+      },
+      {
+        "name": "Sean Moloney",
+        "character": "Assassin Rankin",
+        "profile_path": ""
+      },
+      {
+        "name": "John Hammil",
+        "character": "U.S. Embassy Counselor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nPBVGIcsTBcUfKAD2XzaozIPWVu.jpg"
+      },
+      {
+        "name": "Rachel Steinberg",
+        "character": "Sheraton Desk Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kHibKcR5j0s6mQVDVEfFeXSG9i0.jpg"
+      },
+      {
+        "name": "George Maguire",
+        "character": "Sheraton Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Trish Summerville",
+        "character": "Hot Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mBLxulkFOaMzFqagJNpOKTtHO9a.jpg"
+      },
+      {
+        "name": "Jason Kristofer",
+        "character": "Teen Thug",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c1CCuxsbiCuObnsNmkpWUfbSnBy.jpg"
+      },
+      {
+        "name": "Lily Froehlich",
+        "character": "New Moon Cafe Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Tammy Koehler",
+        "character": "Tammy Fisher",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Lynwood",
+        "character": "Michael Fisher",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Lynwood",
+        "character": "Alex Fisher",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Branklyn",
+        "character": "CRS Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9GLISE7V7sQ6Q0BjCdlj1RDXPRE.jpg"
+      },
+      {
+        "name": "Spike Jonze",
+        "character": "Airbag EMT Beltran",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x2QeqEXvi3QjgTybvZ4mmqUf4qO.jpg"
+      },
+      {
+        "name": "Michael Massee",
+        "character": "Airbag EMT Galliano",
+        "profile_path": "https://image.tmdb.org/t/p/w185/swlvVVcDhaJztxr3fgB04YGoX6I.jpg"
+      },
+      {
+        "name": "Sara Davallou",
+        "character": "Rachel",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen Cowee",
+        "character": "Mel",
+        "profile_path": ""
+      },
+      {
+        "name": "J. Anthony Pena",
+        "character": "CRS Security Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/73687WPnjxzpbuVyQXk5cLOmNBp.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "David Fincher",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yV36WTsLBAGyYVUQshNdI8hyk9l.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "suicide",
+    "sibling relationship",
+    "san francisco, california",
+    "birthday",
+    "gun",
+    "key",
+    "manipulation",
+    "restaurant",
+    "danger of life",
+    "birthday party",
+    "game",
+    "millionaire",
+    "surprising",
+    "trapped in an elevator",
+    "birthday present",
+    "investment banker",
+    "puzzlement"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "After a wealthy San Francisco banker is given an opportunity to participate in a mysterious game, his life is turned upside down as he begins to question if it might really be a concealed conspiracy to destroy him.",
+    "Nicholas Van Orton is a very wealthy San Francisco banker, but he is an absolute loner, even spending his birthday alone. In the year of his 48th birthday (the age his father committed suicide) his brother Conrad, who has gone long ago and surrendered to addictions of all kinds, suddenly returns and gives Nicholas a card giving him entry to unusual entertainment provided by something called Consumer Recreation Services (CRS). Giving in to curiosity, Nicholas visits CRS and all kinds of weird and bad things start to happen to him.—Anonymous",
+    "Michael Douglas plays Nicholas Van Orton, a Scrooge-like San Francisco investment banker following in his father's Scrooge-like footsteps. On Nicholas's 48th birthday (the age at which his father committed suicide), his younger, free-spirited brother Conrad (Sean Penn) blows into town and gives Nicholas a special gift for \"the man who has everything\" -- a ticket to CRS (Consumer Recreation Services), a company that constructs games custom-fit for each participant to provide, as CRS salesman Jim Feingold (James Rebhorn) cryptically puts it, \"whatever is lacking.\" Nicholas's secure life begins a downhill slide as CRS masterminds a series of elaborate pranks, harmless at first, that quickly become malicious and life-threatening. Stripped of financial resources and convinced that he can trust no one, Nicholas begins to wonder if CRS is a front for a more covert operation, and if the game is in fact an attempt to steal his fortune and leave him for dead. Determined to fight back alone, Nicholas infiltrates CRS in order to \"pull back the curtain and meet the wizard.\"",
+    "Nicholas Van Orton (Douglas) is a joyless San Francisco investment banker who receives an unusual birthday present from his estranged younger brother, Conrad (Penn). The gift enrols Nicholas in CRS (Consumer Recreation Services), a company that designs elaborate real-life games for each specific participant. Nicholas then becomes the victim of a series of pranks that quickly turn malicious and dangerous."
+  ],
+  "synopsis": "Nicholas Van Orton (Douglas) is a successful and extremely wealthy investment banker, but his success has come at the cost of his personal life. He is estranged from both his ex-wife and his only brother. He remains haunted from having seen his father commit suicide on the latter's 48th birthday. On his own 48th birthday, Conrad (Sean Penn), Nicholas' rebellious younger brother, presents Nicholas with an unusual gift-a voucher for a \"game\" offered by a company called Consumer Recreation Services (CRS). Conrad promises that it will change Nick's life.Nicholas has doubts about the gift and delays calling CRS. A chance encounter with fellow club members who enjoyed the Game changes Nicholas' mind. He goes to the organization's offices to apply and is irritated by the lengthy and time-consuming series of psychological and physical examinations required. He is later informed that his application has been rejected.This is a ruse however: the Game has already begun. Starting with the merely invasive and rapidly escalating to the potentially criminal, Nicholas believes that his business, reputation, finances, and safety are at risk. He encounters a waitress, Christine (Deborah Kara Unger), who appears to have been caught up in the game and also comes under risk. Nicholas contacts the police to investigate CRS, but they find the offices abandoned.Eventually, Conrad appears to Nicholas and apologizes for the Game claiming that he too has come under attack by CRS. With no one else to turn to, Nicholas finds Christine's home. He soon discovers that she is a CRS employee and that her apartment has simply been staged to look like a real apartment. Christine tells Nicholas that they are being watched. Nicholas attacks a camera, and armed CRS troops begin to swarm the house and fire upon them. Nicholas and Christine are forced to flee. Nicholas realizes that CRS has drained his financial accounts, and he is now broke. Christine tells him that some of his closest associates are part of the Game. Just as he begins to trust Christine, he realizes she has drugged him, and he falls unconscious.Nicholas wakes up to find himself entombed in a cemetery in Mexico. He is forced to sell his gold watch to return to the United States. Upon his return, he finds that his mansion has been ransacked and vandalized by CRS. He retrieves a hidden gun, and seeks the aid of his estranged wife. While talking with her and apologizing for his neglect and mistreatment of her, he discovers that Jim Feingold (James Rebhorn), the CRS employee who had conducted his psychological test, is an actor who works in television advertisements. He locates Feingold and forces him to take Nicholas to CRS, where he takes Christine hostage. He demands to be taken to the leader of the organization.Attacked by CRS troops, Nicholas takes Christine to the roof and bars the door behind them. The CRS troops begin cutting through the door. Christine realizes that Nicholas' gun is not a prop and is terrified. She frantically tells Nicholas that the conspiracy is a hoax, a fiction that is just part of the Game, that his finances are intact and that his family and friends are waiting on the other side of the door. He refuses to believe her. The door bursts open, and Nicholas shoots the first person to emerge: his brother Conrad, bearing an open bottle of champagne. Distraught, Nicholas leaps off the roof, just as his late father did.Nicholas' life passes before his eyes as he falls. He smashes through a glass roof and lands on a giant air bag. Emergency medical technicians carefully remove him, warning him to keep his eyes closed until they remove the fragments of breakaway glass. Nicholas finds he is in a ballroom full of his friends, family, and every figure involved in his Game; it had been just a game all along. Conrad is alive and well, and explains that he initiated the game to get his brother to embrace life and not end up like their father.Nicholas breaks into tears, relaxes, and begins to enjoy the party once his shock has dissipated. Later, Nicholas splits the bill for the game with Conrad (and is surprised to discover how expensive it all was). When he sees that Christine has left the party, he follows her outside to her cab. He asks her to dinner, and she offers to enjoy a private coffee with him now before her flight takes her to her next Game assignment.",
+  "imdb_score": 7.7
+}

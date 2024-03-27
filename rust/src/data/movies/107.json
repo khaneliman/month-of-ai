@@ -1,0 +1,401 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/ysKahAEPP8h6MInuLjr0xuZOTjh.jpg",
+  "id": 107,
+  "title": "Snatch",
+  "poster_path": "https://image.tmdb.org/t/p/w500/56mOJth6DJ6JhgoE2jtpilVqJO.jpg",
+  "release_date": "2000-09-01",
+  "vote_average": 7.807,
+  "vote_count": 8547,
+  "popularity": 39.086,
+  "overview": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+  "imdb_id": "tt0208092",
+  "budget": 10000000,
+  "homepage": "",
+  "revenue": 83600000,
+  "runtime": 103,
+  "tagline": "Stealin' stones and breakin' bones.",
+  "genres": [
+    "Crime",
+    "Comedy"
+  ],
+  "production_companies": [
+    "SKA Films",
+    "Columbia Pictures",
+    "Screen Gems"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jason Statham",
+        "character": "Turkish",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lldeQ91GwIVff43JBrpdbAAeYWj.jpg"
+      },
+      {
+        "name": "Alan Ford",
+        "character": "Brick Top Polford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nSlngfcFsCPENxiqCwZnB1twKuC.jpg"
+      },
+      {
+        "name": "Brad Pitt",
+        "character": "Mickey O'Neil",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+      },
+      {
+        "name": "Stephen Graham",
+        "character": "Tommy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wjDQ7MzciEsRwWDFbemcM1hS0aq.jpg"
+      },
+      {
+        "name": "Dennis Farina",
+        "character": "Cousin Avi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4hEWe0ZcDpGlB3nRizLkVMcG13B.jpg"
+      },
+      {
+        "name": "Robbie Gee",
+        "character": "Vincent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mzzfbA0e4DWgxvIYjaryMolkiqm.jpg"
+      },
+      {
+        "name": "Lennie James",
+        "character": "Sol",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hfZrdEkBHxYYbMoGHAaVomlgMi.jpg"
+      },
+      {
+        "name": "Benicio del Toro",
+        "character": "Franky Four Fingers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s1EVFX10YJZTcvkAAq4AcPniS3t.jpg"
+      },
+      {
+        "name": "Rade Šerbedžija",
+        "character": "Boris \"The Blade\" Yurinov",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eGK40yJnDCJOhtGXZrhkrkfVOwu.jpg"
+      },
+      {
+        "name": "Vinnie Jones",
+        "character": "Bullet-Tooth Tony",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tkYWG9gY2QpoBfOh4OWNz8yQfsw.jpg"
+      },
+      {
+        "name": "Ade",
+        "character": "Tyrone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vDLKOLFlGkoLkEbc3RlVmwnw70y.jpg"
+      },
+      {
+        "name": "Mike Reid",
+        "character": "Doug \"The Head\" Denovitz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oGZPYtbKw15dFhjb7jQ61crB3d0.jpg"
+      },
+      {
+        "name": "Jason Flemyng",
+        "character": "Darren",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nYl0180ACnLzVlGbaAfuPtdGr9K.jpg"
+      },
+      {
+        "name": "Ewen Bremner",
+        "character": "Mullet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d8ZVdFiJHRl43tApt2w43Ha6prf.jpg"
+      },
+      {
+        "name": "Andy Beckwith",
+        "character": "Errol",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9fL7P2yETzD74Yli7IEpP14RJlG.jpg"
+      },
+      {
+        "name": "Charles Cork",
+        "character": "MC",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bSTR9ax1fjbve2r1r5448PP5AfG.jpg"
+      },
+      {
+        "name": "Sorcha Cusack",
+        "character": "Mum O'Neil",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fx1pP6u555MJ5qCOt80OHmHROVY.jpg"
+      },
+      {
+        "name": "Dave Legeno",
+        "character": "John",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rqTATsZ15cUVT9TrkeZ6qANwSey.jpg"
+      },
+      {
+        "name": "Trevor Steedman",
+        "character": "Bomber Harris",
+        "profile_path": ""
+      },
+      {
+        "name": "Yuri Stepanov",
+        "character": "Himy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fD1J1Mp9JMFkEEAOeOZdzB8Hoqw.jpg"
+      },
+      {
+        "name": "Velibor Topic",
+        "character": "The Russian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A1bzG46kIEpNlZBLqv5jum5s7xj.jpg"
+      },
+      {
+        "name": "William Beck",
+        "character": "Neil",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v1zl9EQ9kQ7hboy29oLYRf1ckGE.jpg"
+      },
+      {
+        "name": "Sam Douglas",
+        "character": "Rosebud",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hGtVDo5BF4utyCbrEUm3RDNA28B.jpg"
+      },
+      {
+        "name": "Adam Fogerty",
+        "character": "Gorgeous George",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hiGlO5VCNHMgaAFlk2c2TIiBRVv.jpg"
+      },
+      {
+        "name": "Eric Meyers",
+        "character": "Avi's Colleague",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nmR4ZZsvprYWyBJQGJ7tSC8Lcb6.jpg"
+      },
+      {
+        "name": "Jason Buckham",
+        "character": "Gary",
+        "profile_path": ""
+      },
+      {
+        "name": "Mickey Cantwell",
+        "character": "Liam",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicola Collins",
+        "character": "Alex",
+        "profile_path": ""
+      },
+      {
+        "name": "Teena Collins",
+        "character": "Susi",
+        "profile_path": ""
+      },
+      {
+        "name": "James Cunningham",
+        "character": "Horrible Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Mickey Dee",
+        "character": "Jack",
+        "profile_path": ""
+      },
+      {
+        "name": "Goldie",
+        "character": "Bad Boy Lincoln",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wStM7m3FdboeKRKGG2bwv8gcy21.jpg"
+      },
+      {
+        "name": "Sid Hoare",
+        "character": "Reuben",
+        "profile_path": ""
+      },
+      {
+        "name": "Ronald Isaac",
+        "character": "Referee",
+        "profile_path": ""
+      },
+      {
+        "name": "Chuck Julian",
+        "character": "Michael",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Ninh Cao",
+        "character": "Charlie",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul O'Boyle",
+        "character": "Patrick",
+        "profile_path": ""
+      },
+      {
+        "name": "Jimmy Roussounis",
+        "character": "Paulie",
+        "profile_path": ""
+      },
+      {
+        "name": "Sidney Sedin",
+        "character": "Pauline",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Szakacs",
+        "character": "Sausage Charlie",
+        "profile_path": ""
+      },
+      {
+        "name": "John Taheny",
+        "character": "Salt Peter",
+        "profile_path": ""
+      },
+      {
+        "name": "Mick Theo",
+        "character": "Mad Fist Willy",
+        "profile_path": ""
+      },
+      {
+        "name": "Andy Till",
+        "character": "John the Gun",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Welch",
+        "character": "Horace \"Good Night\" Anderson",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Hughes",
+        "character": "Gypsy Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Liam McMahon",
+        "character": "Gypsy Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dB0SCXoHUx3I2czPaxZyEcia9cH.jpg"
+      },
+      {
+        "name": "James Warren",
+        "character": "Gypsy Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oHggWG9CfhOAO3xQrkw9oESDsJi.jpg"
+      },
+      {
+        "name": "Austin Drage",
+        "character": "Gypsy Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Liam Donaghy",
+        "character": "Gypsy Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Williams",
+        "character": "Gypsy Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "John Farnell",
+        "character": "Brick Top's Henchman",
+        "profile_path": ""
+      },
+      {
+        "name": "Shaun Pearson",
+        "character": "Brick Top's Henchman",
+        "profile_path": ""
+      },
+      {
+        "name": "Dean Smith",
+        "character": "Brick Top's Henchman",
+        "profile_path": ""
+      },
+      {
+        "name": "Roy Snell",
+        "character": "Brick Top's Henchman",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Faraday",
+        "character": "Policeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rsvGQ50FcCJg2yfcZV3mTbgXoYL.jpg"
+      },
+      {
+        "name": "Andrew Shield",
+        "character": "Policeman",
+        "profile_path": ""
+      },
+      {
+        "name": "Guy Ritchie",
+        "character": "Man Reading Newspaper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9pLUnjMgIEWXi0mlHYzie9cKUTD.jpg"
+      },
+      {
+        "name": "Elwin 'Chopper' David",
+        "character": "Boxer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Andreas",
+        "character": "Pikey Man (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dian Bachar",
+        "character": "Brick Henchman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hAWmksHpp0ZiUN5e9RkJcRlYHgm.jpg"
+      },
+      {
+        "name": "Sol Campbell",
+        "character": "Bouncer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q7NHXMVSfTlFOykKvHMwNuJFJH7.jpg"
+      },
+      {
+        "name": "Tom Delmar",
+        "character": "Thug with Head Crushed in Door (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Fosh",
+        "character": "Bricktop's Henchman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Hathaway",
+        "character": "Bricktop's Barman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uhvxDdLgPBbOzHkvrzlTiap9LId.jpg"
+      },
+      {
+        "name": "Arnold Montey",
+        "character": "Man Reading Newspaper (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Packham",
+        "character": "Gypsy Man (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Rnic",
+        "character": "Irish Traveller (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Guy Ritchie",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9pLUnjMgIEWXi0mlHYzie9cKUTD.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "robbery",
+    "trailer park",
+    "england",
+    "gypsy",
+    "gambling",
+    "bare knuckle boxing",
+    "slang",
+    "antwerp",
+    "pig",
+    "gangster",
+    "boxer",
+    "underground fighting",
+    "diamond heist",
+    "pikey"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+    "Turkish and his close friend/accomplice Tommy get pulled into the world of match fixing by the notorious Brick Top. Things get complicated when the boxer they had lined up gets badly beaten by Mickey, who comes into the equation after Turkish, an unlicensed boxing promoter wants to buy a caravan off of Travellers. They then try to convince Mickey not only to fight for them, but to lose for them too. Whilst all this is going on, a huge diamond heist takes place, and a fistful of motley characters enter the story, including 'Cousin Avi', 'Boris The Blade', 'Franky Four Fingers' and 'Bullet Tooth Tony'. Things go from bad to worse as it all becomes about the money, the guns, and the damned dog.—Filmtwob <webmaster@filmfreak.co.za>",
+    "Turkish, an unlicenced boxing promoter is pulled into trouble when he becomes involved in big time criminal Brick Top, who wants him to arrange a fight and fix it. Meanwhile, a diamond theft goes down but the 84 karat stone goes missing. This leads Avi, the boss who was supposed to receive the stone, to come to England to search for it, with the help of his cousin, Doug The Head and Bullet Tooth Tony. As events twist and turn, the two situations blending into one with a chain reaction of events carrying on for each and each every character.—~^Æ~§íX~^Æ~"
+  ],
+  "synopsis": "After stealing an 86-carat (17 g) diamond in a heist in Antwerp, Frankie \"Four-Fingers\" (Benicio Del Toro) goes to London to deliver the gemstone to diamond dealer Doug \"The Head\" (Mike Reid) on behalf of New York jeweler \"Cousin Avi\" (Dennis Farina), who bankrolled the theft. One of the other robbers advises Frankie to first see his arms-dealing brother, ex-KGB agent Boris \"The Blade\" (Rade Serbedzija), to obtain a gun. Unbeknownst to Frankie, the brothers plan to rob him of the diamond, using a third party to avoid implicating themselves.Meanwhile, unlicensed boxing promoter and casino owner Turkish (Jason Statham) convinces local gangster \"Brick Top\" (Alan Ford)-head of an unlicensed boxing and dog fighting circuit-to add the matches of his boxer \"Gorgeous George\" (Adam Fogerty) to the bets at his bookies. However, when Turkish sends his partner Tommy (Stephen Graham) and Gorgeous George to purchase a caravan from a group of Pikeys, George gets into an impromptu boxing match with Mickey O'Neil (Brad Pitt), who turns out to be a bare-knuckle boxing champ and badly injures George with a single punch. With George injured, Turkish recruits Mickey to replace him in his upcoming match by agreeing to purchase a new caravan for Mickey's mother (Sorcha Cusack).Brick Top agrees to the change on the condition that Mickey throws the fight in the fourth round.\nBoris gives Frankie a gun in exchange for a favor: Frankie is to place a bet on Boris' behalf at Brick Top's bookies, since Boris has an outstanding debt there and cannot go himself. Avi learns of this and, knowing that Frankie has a gambling problem, flies to London with his bodyguard \"Rosebud\" (Sam Douglas) in tow to claim the diamond. Boris hires Vinnie (Robbie Gee) and Sol (Lennie James), two pawnbrokers and small-time crooks, to rob Frankie of the diamond while he is at the bookies. The robbery goes comically awry, and Sol, Vinnie, and their driver Tyrone (Ade) are caught on-camera but manage to kidnap Frankie.Instead of throwing the boxing match as instructed, Mickey knocks his opponent out with a single punch, causing Brick Top's investors to lose their bets. Infuriated, Brick Top robs Turkish of his savings and demands that Mickey fight again and lose this time. Meanwhile, Boris retrieves the diamond and executes Frankie, leaving Sol, Vinnie, and Tyrone to dispose of the body. As they and their accomplice \"Bad Boy\" Lincoln (Goldie) are puzzling over how to do this, Brick Top arrives to execute them for robbing his bookies. He details to them his preferred method of body disposal, which is to feed the corpses to ravenous pigs. Sol bargains for their lives by promising Brick Top the stolen diamond, and he gives them 48 hours to retrieve it.Avi and Doug hire the mercenary \"Bullet-Tooth\" Tony (Vinnie Jones) to help them find Frankie. When the trail leads to Boris, they kidnap him and retrieve the gemstone, closely pursued by Sol, Vinnie, and Tyrone. As they are driving, Tommy carelessly throws Turkish's carton of milk out the window of their car; it splashes over Tony's windshield, causing him to crash. Rosebud is killed, and Boris escapes from the wreck only to be hit by Tyrone's car. Tony and Avi regroup at a pub where they are confronted by Sol, Vinnie, and Tyrone. Tony quickly realizes that their pistols are replicas loaded with blanks and intimidates them into leaving him alone.The wounded Boris arrives with an assault rifle and is killed by Tony, but Sol and Vinnie escape with the diamond, which Vinnie hides in his pants. When Tony catches up to them, they tell him that the diamond is back at their pawn shop. Once there, they run out of stall tactics and produce the diamond, but it is promptly swallowed by a dog that Vinnie got from the Pikeys. Avi fires wildly at the fleeing dog and accidentally kills Tony. He gives up his pursuit and returns to New York.Mickey refuses to fight again unless Turkish buys an even more lavish caravan for his mother, but Turkish has no money left. Furious, Brick Top has his men vandalize Turkish's gambling arcade and burn down Mickey's mother's caravan while she is asleep inside it. Mickey agrees to fight in order to avoid more carnage but gets so drunk after his mother's wake the night before that Turkish fears he won't even make it to the fourth round. If he fails to go down as agreed, Brick Top's men will execute Turkish, Tommy, Mickey, and the entire campsite of Pikeys. Mickey takes a heavy beating but makes it to the fourth round, when he makes a sudden recovery and knocks out his opponent with a powerful blow. As they flee the building, Brick Top is killed by the Pikeys, who have turned the tables on him: Mickey had bet on himself to win and waited until the fourth round to allow the other Pikeys time to ambush and kill Brick Top's men at the campsite.The next morning, Turkish and Tommy find the Pikey campsite deserted. They are confronted by the police and don't know what to say, until Vinnie's dog suddenly arrives, and they claim to be walking it. They are released, while Sol and Vinnie are arrested when the police find the corpses of Frankie and Tony in their car. Turkish and Tommy take the dog to a veterinarian to extract a squeaky toy that it had swallowed earlier and discover the diamond in its stomach as well. They consult Doug about selling the diamond, and he calls Avi who returns to London.",
+  "imdb_score": 8.2
+}

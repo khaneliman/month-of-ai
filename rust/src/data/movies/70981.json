@@ -1,0 +1,298 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/vMDdWQuvOjg9yUjMJrNunXq9cmw.jpg",
+  "id": 70981,
+  "title": "Prometheus",
+  "poster_path": "https://image.tmdb.org/t/p/w500/m7nZCtHJyDLncBUarfM5h5mrppx.jpg",
+  "release_date": "2012-05-30",
+  "vote_average": 6.546,
+  "vote_count": 11522,
+  "popularity": 56.574,
+  "overview": "A team of explorers discover a clue to the origins of mankind on Earth, leading them on a journey to the darkest corners of the universe. There, they must fight a terrifying battle to save the future of the human race.",
+  "imdb_id": "tt1446714",
+  "budget": 130000000,
+  "homepage": "https://www.20thcenturystudios.com/movies/prometheus",
+  "revenue": 403354469,
+  "runtime": 124,
+  "tagline": "The search for our beginning could lead to our end.",
+  "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Mystery"
+  ],
+  "production_companies": [
+    "Dune Entertainment",
+    "Scott Free Productions",
+    "20th Century Fox",
+    "Brandywine Productions"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Noomi Rapace",
+        "character": "Dr. Elizabeth Shaw",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vdlUULsiwxEgxTwxn3vVQqmolcx.jpg"
+      },
+      {
+        "name": "Michael Fassbender",
+        "character": "David",
+        "profile_path": "https://image.tmdb.org/t/p/w185/44HPVHj1DijOuUe0zYuQfSZujKH.jpg"
+      },
+      {
+        "name": "Charlize Theron",
+        "character": "Meredith Vickers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+      },
+      {
+        "name": "Idris Elba",
+        "character": "Janek",
+        "profile_path": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+      },
+      {
+        "name": "Guy Pearce",
+        "character": "Peter Weyland",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
+      },
+      {
+        "name": "Logan Marshall-Green",
+        "character": "Charlie Holloway",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oogXh2Osxw43bfjMVCcCH8SGsUB.jpg"
+      },
+      {
+        "name": "Sean Harris",
+        "character": "Fifield",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aYXyzt4MZWmGNYKLgZ2mlg2P2ZZ.jpg"
+      },
+      {
+        "name": "Rafe Spall",
+        "character": "Millburn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5tGhC9MGT4FGaJHr2LGYcRV4rbJ.jpg"
+      },
+      {
+        "name": "Emun Elliott",
+        "character": "Chance",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A0PGkWHpgbus4t76hKSTqoey8HP.jpg"
+      },
+      {
+        "name": "Benedict Wong",
+        "character": "Ravel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+      },
+      {
+        "name": "Kate Dickie",
+        "character": "Ford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mlFYUmZycpRa7TGgDTfP0xanE1Q.jpg"
+      },
+      {
+        "name": "Branwell Donaghey",
+        "character": "Mercenary #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gC0idonPVZ5LlHCDis7MDuAAbBa.jpg"
+      },
+      {
+        "name": "Vladimir \"Furdo\" Furdik",
+        "character": "Mercenary #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1661o64vCOQyFMswIMZBB3MsOb8.jpg"
+      },
+      {
+        "name": "C.C. Smiff",
+        "character": "Mercenary #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/glhejpqIphvfpeOagIvxC1gHJyo.jpg"
+      },
+      {
+        "name": "Shane Steyn",
+        "character": "Mercenary #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f1xpvlYGIKKfEVlB1UrYr1luPO9.jpg"
+      },
+      {
+        "name": "Ian Whyte",
+        "character": "Last Engineer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/svlJyDgPbTHoGjbQKU4S2J6g5hi.jpg"
+      },
+      {
+        "name": "John Lebar",
+        "character": "Ghost Engineer",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel James",
+        "character": "Sacrifice Engineer",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick Wilson",
+        "character": "Shaw's Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tc1ezEfIY8BhCy85svOUDtpBFPt.jpg"
+      },
+      {
+        "name": "Lucy Hutchinson",
+        "character": "Young Shaw",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4LSXzDg18tdFaB1SPITKixHL1jZ.jpg"
+      },
+      {
+        "name": "Giannina Facio",
+        "character": "Shaw's Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8ndgZB1rkkee3jwFB9Lx7i2ebJT.jpg"
+      },
+      {
+        "name": "Anil Biltoo",
+        "character": "Linguist Teacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Louisa Staples",
+        "character": "Greeting Message Violinist",
+        "profile_path": ""
+      },
+      {
+        "name": "James Embree",
+        "character": "Mechanic #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wfoYAGY9KF8LZSvvZ6FqLdvCyEb.jpg"
+      },
+      {
+        "name": "Florian Robin",
+        "character": "Mechanic #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iRXSyqY65hq8lZHSZNDEyx8JX4Y.jpg"
+      },
+      {
+        "name": "Matthew Burgess",
+        "character": "Mechanic #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hUAmnwEh37GMGMxzpIRZG5hrITe.jpg"
+      },
+      {
+        "name": "Eugene O'Hare",
+        "character": "Mechanic #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e3ScZAjqQUyj2P09eCL1cU8EqQr.jpg"
+      },
+      {
+        "name": "Richard Thomson",
+        "character": "Archaeological Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vHu7vSgxKQarJzk6B7KdUCRVN3z.jpg"
+      },
+      {
+        "name": "Philip McGinley",
+        "character": "Archaeological Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9desdU4jIFT0Y03oTFi9MQaNhf9.jpg"
+      },
+      {
+        "name": "Jenny Rainsford",
+        "character": "Archaeological Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pVwR9hsEiHzVTo9giCjR3vIfa8W.jpg"
+      },
+      {
+        "name": "Rhona Croker",
+        "character": "Archaeological Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fiZNY8RUgGPkWems3q7mGjpzQnZ.jpg"
+      },
+      {
+        "name": "Wambui Wa-Ngatho",
+        "character": "Automated Voice (Swahili) (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Wannaporn Rienjang",
+        "character": "Automated Voice (Thai) (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Zed Sevcikova",
+        "character": "Automated Voice (Czech) (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sonam Dugdak",
+        "character": "Automated Voice (Tibetan) (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Reynir Thor Eggertsson",
+        "character": "Automated Voice (Icelandic) (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Shin-Ichiro Okajima",
+        "character": "Automated Voice (Japanese) (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Charalambos Dendrinos",
+        "character": "Automated Voice (Greek) (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Berhane Woldegabriel",
+        "character": "Automated Voice (Amharic) (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Annie Penn",
+        "character": "Ship Computer Voice (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Robin Atkin Downes",
+        "character": "Ship Computer Voice (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg"
+      },
+      {
+        "name": "James Currie",
+        "character": "Weyland Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Dewhirst",
+        "character": "Peter Weyland Files (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Phill Martin",
+        "character": "Elephantine Engineer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wKdO0FqPdz0nh8KZnMcqjgabA7S.jpg"
+      },
+      {
+        "name": "Arnold Montey",
+        "character": "Elephantine Engineer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Rook",
+        "character": "Elder Engineer (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Ridley Scott",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "android",
+    "alien",
+    "space",
+    "creature",
+    "spin off",
+    "creation",
+    "emergency surgery",
+    "stasis",
+    "archeological dig",
+    "god complex",
+    "cave drawing",
+    "prometheus",
+    "genetic mutation",
+    "origins of life",
+    "2090s"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Following clues to the origin of mankind, a team finds a structure on a distant moon, but they soon realize they are not alone.",
+    "Following a faint trail of clues, the accomplished archaeologist, Doctor Elizabeth Shaw, and her partner, Charlie Holloway, along with a seventeen-man crew, embark on an ambitious, deep-space scientific expedition. Aboard the revolutionary space-exploration starship, USCSS Prometheus, the team sets foot on the rocky terrain of the desolate exomoon, LV-223, in 2093, to investigate the existence of the superior extraterrestrial species known as the \"Engineers\". But, there, inside a mysterious, complex structure of cavernous dark chambers and an intricate underground system of tunnels, more enigmas await. Now, a terrifying discovery threatens not only the outcome of the bold outer-space mission but also the very future of humankind. Is the world prepared for the answers to the fundamental questions of human existence?—Nick Riganas"
+  ],
+  "synopsis": "Millions of years ago, a spacecraft of an advanced humanoid alien race arrives on a primordial planet, possibly Earth. One of the aliens consumes a dark liquid, causing its body to disintegrate and fall into a nearby waterfall. We see its DNA break down and recombine, seeding the planet with the building blocks of life.In the year 2089 on the Isle of Skye off the shore of Scotland, archaeologist couple Elizabeth Shaw (Noomi Rapace) and her boyfriend Charlie Holloway (Logan Marshall-Green) discover a star map in a cave which they record among the remnants of several otherwise unconnected ancient cultures. They interpret this as an invitation from humanity's forerunners. Peter Weyland (Guy Pearce), the elderly founder and CEO of the Weyland Corporation, funds the creation of the scientific deep space research vessel called the USS Prometheus to follow the map to the distant moon of LV-223 several light years from Earth.The ship's crew travels in hibernation stasis at light speed while the android David (Michael Fassbender) stays awake at the pilot control to monitor their entire voyage. In 2093, the ship arrives in the orbit around LV-223 (Note: it is not the same planet first seen in the 1979 movie Alien but is in a nearby region of space, as confirmed by Ridley Scott on Friday June 1st on BBC radio 5 live. Alien is set on LV-426). After being awakened from hibernation, the crew are informed of their mission to find the ancient aliens, called \"Engineers\" who may be the creators of the human race. They also view a holographic message from Weyland himself, who tells them about his funding for the mission and that he has since died. Weyland also informs everyone that Charlie and Elizabeth are in charge of the mission.The Prometheus enters the atmosphere of the planet, encountering turbulence which dissipates when they break through the cloud cover and can see the surface. The Prometheus lands near an alien structure (resembling a large temple-like pyramid) and a team including Shaw, Holloway, and David explores it, while Vickers and Captain Janek (Idris Elba) remain aboard the ship and monitor their progress. Mission director Meredith Vickers (Charlize Theron) orders them to avoid any direct contact and to return if the aliens are found.Inside the pyramid, they discover a pocket of breathable air. In a dank chamber that David unlocks, they find hundreds of cylinder-like artifacts, a monolithic statue of a humanoid head, and the decapitated corpse of a giant alien, thought to be one of the Engineers. Other bodies are later found in the structure, and the species is presumed to be extinct. They view archive footage of holographic Engineers running down the corridors reacting to a long-ago emergency (also of note: the alien Engineers are dressed in the exact same bio-mechanical spacesuits that the dead alien \"Space Jockey\" wears in the crashed spaceship in the original Alien movie, thus confirming the connection between them as one and the same extraterrestrial species).David secretly returns a cylinder to the ship, while the remaining cylinders in the chamber begin leaking a dark fluid, activated by the change in temperature or atmosphere when the chamber was opened. A rapidly approaching storm forces the crew to return to Prometheus, leaving crew members Milburn (Rafe Spall) and Fifield (Sean Harris) stranded in the pyramid structure after becoming lost trying to find the way out. Shaw insists they take the Engineer's head back to the ship with them and they barely make it back alive, David rescuing the couple when they're blown off the loading platform.In the ship, Shaw and medic Ford (Kate Dickie) analyze the Engineer's head, removing a heavy helmet with David's help. They discover that its DNA is identical to that of the human race. Using an electrified needle, they bring the head temporarily back to life. However, exposure to the breathable atmosphere, causes the severed Engineer's head to decompose rapidly and it disintegrates. Later, David investigates the cylinder and discovers several ampoules containing a viscous black fluid.The crew of Prometheus discuss the meaning of life, the android David questions why he was created by man and Shaw questions her own existence as she is infertile and unable to create life.David intentionally infects Holloway with the substance he found within the ampoule, hiding it in a drop of liquid on his finger and briefly dipping it into a glass of champagne Holloway drinks to celebrate their discovery. Later, Shaw and the infected Holloway have sex. Holloway later looks in a mirror and sees his eyes are changing; they are rheumy and he sees a small, silver worm-like organism emerge from one of his corneas.Back inside the structure, Fifield and Milburn see a strange, snake-like creature emerge from a pool of the black fluid that has leaked from the cylinders. When Milburn tries to examine the creature, it quickly grabs his hand and wraps itself around his arm, breaking it in a matter of seconds. When Fifield tries to cut it off, a corrosive fluid (yellow acidic blood) from one of the creatures melts Fifield's helmet, exposing him to the dark liquid leaking from the cylinders. The creature then works its way into his suit and forces itself down his throat.The next morning after the storm subsides, the Prometheus crew returns to the structure and finds Milburn's corpse. David discovers a room containing a living Engineer in stasis and a holographic star map highlighting several distant planetary systems. He watches as holograms of the Engineers activate a navigational system. One of the planets that eventually appears is Earth. Suddenly the system shuts down, leaving the hologram of Earth behind. David finds a single Engineer in a nearby stasis pod and can hear its heart beating.Holloway's infection rapidly ravages his body, and he is rushed back to the ship. As he visibly deteriorates, Vickers refuses to let him aboard, citing quarantine protocols. When he approaches Vickers, begging her to kill him, she burns him to death with a flamethrower. Shaw is devastated.A medical scan reveals that Shaw, despite being sterile, is pregnant. David subdues her in order to return her to Earth in stasis. He takes the cross her father gave her, saying that it could be contaminated. She escapes and uses an automated medical surgery pod in Vickers' quarters to extract a horrific cephalopod-like creature from her abdomen while she is still conscious. Weyland is found to have been in stasis aboard the ship, and it's revealed that Vickers is his daughter. Weyland explains to Shaw that he intends to ask the Engineers to help him avoid his impending death.A mutated Fifield is discovered just outside the hanger bay and attacks and kills several crew members before being killed himself. Janek theorizes that the moon they are on was used by the Engineers as a military base until they lost control of their biological weapons, namely the cylinders and the black fluid they contain. The remaining crew return to the structure and awaken the Engineer, who is occupying what is discovered to be a space ship (the same design as the derelict alien space ship seen in Alien (1979)).David speaks an alien language to the Engineer, asking him why they made mankind and asking him to extend the life of his own creator, Mr. Weyland. The Engineer responds by ripping his head out and killing Weyland and Ford. Shaw escapes from the alien ship as it is activated by the Engineer.The still-active David suggests the Engineer is going to release the ampoules of black fluid on Earth, thus killing every living creature in the planet. Vickers orders Janek to return to Earth, but Shaw convinces him to stop the Engineer's ship. Janek and his two surviving crewmen take off and crash the Prometheus into the Engineer's ship while Vickers flees in an escape pod. The disabled Engineer ship crashes onto the planet, falling onto Vickers, crushing her. Shaw barely escapes being crushed herself.Shaw goes to the escape pod to retrieve supplies and finds that her aborted-but-still-alive alien offspring has grown to gigantic size. The Engineer survives the crash, enters the escape pod and attacks Shaw, who releases the tentacled creature. It subdues the Engineer by thrusting an ovipositor down its throat. Shaw believes she's stranded on the planet until David contacts her and tells her that there are more of the Engineers ships elsewhere on the planet. She recovers David's remains from the alien ship, taking back the cross David had taken from her, and together they travel to and activate another Engineer ship. Shaw and the remains of android David then take off to travel to the Engineers' homeworld, Paradise, in an attempt to understand why they created humanity and why they later attempted to destroy it.In the final shot, in Vickers' escape pod, an alien creature (very similar to the xenomorph seen in the other Alien (1979) movies) bursts out of the dying Engineer's chest.",
+  "imdb_score": 7
+}

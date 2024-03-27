@@ -1,0 +1,489 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/xIoWDHSA2ymOewcCpoUID4PpDb3.jpg",
+  "id": 2300,
+  "title": "Space Jam",
+  "poster_path": "https://image.tmdb.org/t/p/w500/6h3FIr5CQFCBV8Xrv7XZLZbIQR0.jpg",
+  "release_date": "1996-11-15",
+  "vote_average": 6.831,
+  "vote_count": 5722,
+  "popularity": 33.547,
+  "overview": "Jokes fly as the Tune Squad takes on the Nerdlucks in a hardcourt game to decide if the Looney Tunes remain here... or become attractions at a far-off galactic off-ramp called Moron Mountain. The Nerdlucks have a monstrous secret weapon: they've stolen the skills of top NBA stars like Charles Barkley and Patrick Ewing and become Monstars. But that's not all, folks. The Tune Squad’s secret weapon just happens to be the finest player in this or any other universe. He's outta this world. So's the fun.",
+  "imdb_id": "tt0117705",
+  "budget": 80000000,
+  "homepage": "https://spacejam.com",
+  "revenue": 250200000,
+  "runtime": 88,
+  "tagline": "Get ready to jam.",
+  "genres": [
+    "Family",
+    "Animation",
+    "Comedy",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Warner Bros. Family Entertainment",
+    "Ivan Reitman Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Michael Jordan",
+        "character": "Michael Jordan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tCqjwlROe98wYbcRhCcp3qYsUc5.jpg"
+      },
+      {
+        "name": "Wayne Knight",
+        "character": "Stan Podolak",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xlGqbZjn48xAUa7eqTybZP360w0.jpg"
+      },
+      {
+        "name": "Theresa Randle",
+        "character": "Juanita Jordan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/myBU9qG6wXHJfYF9cl07rvQmhUB.jpg"
+      },
+      {
+        "name": "Manner Washington",
+        "character": "Jeffery Jordan",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Gordon",
+        "character": "Marcus Jordan",
+        "profile_path": ""
+      },
+      {
+        "name": "Penny Bae Bridges",
+        "character": "Jasmine Jordan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ebIfTtoNxMigFCMpNXC4QHjNB5I.jpg"
+      },
+      {
+        "name": "Brandon Hammond",
+        "character": "Michael Jordan (10 Years Old)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qni4SWV6QLQ302Y8CURsRJ5OP00.jpg"
+      },
+      {
+        "name": "Larry Bird",
+        "character": "Larry Bird",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dsRO5QaHFY3hcN9fc2kIBiKA23s.jpg"
+      },
+      {
+        "name": "Bill Murray",
+        "character": "Bill Murray",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+      },
+      {
+        "name": "Thom Barry",
+        "character": "James Jordan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9XhXqoqKqfQHZ5kGtuSkldcKYSF.jpg"
+      },
+      {
+        "name": "Charles Barkley",
+        "character": "Charles Barkley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ceRTD8xYs13kcyPcV6feH9vkDwb.jpg"
+      },
+      {
+        "name": "Patrick Ewing",
+        "character": "Patrick Ewing",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mip0EjLO4aVRIk9YKWEuQHLiDR8.jpg"
+      },
+      {
+        "name": "Muggsy Bogues",
+        "character": "Muggsy Bogues",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Cla971Uwt6nUqQHU5Xj3BbD8OV.jpg"
+      },
+      {
+        "name": "Larry Johnson",
+        "character": "Larry Johnson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i3GHXn7TZQM5slSxIP1UTQ5uaRy.jpg"
+      },
+      {
+        "name": "Shawn Bradley",
+        "character": "Shawn Bradley",
+        "profile_path": ""
+      },
+      {
+        "name": "Del Harris",
+        "character": "Del Harris",
+        "profile_path": ""
+      },
+      {
+        "name": "Vlade Divac",
+        "character": "Vlade Divac",
+        "profile_path": ""
+      },
+      {
+        "name": "Cedric Ceballos",
+        "character": "Cedric Ceballos",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2MAdbJsZOkG42Sp3Dq5tEodNkUJ.jpg"
+      },
+      {
+        "name": "Paul Westphal",
+        "character": "Paul Westphal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gxBxsuSigOxoEjh4rQpxRavsxMx.jpg"
+      },
+      {
+        "name": "Danny Ainge",
+        "character": "Danny Ainge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/54HJW8RzsjOqEIYv4kMRsjO4m8p.jpg"
+      },
+      {
+        "name": "Bebe Drake",
+        "character": "Jordan Housekeeper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pSIS3aBdOlxlTzw6MKinGqK3OC9.jpg"
+      },
+      {
+        "name": "Patricia Heaton",
+        "character": "Woman Fan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1iQoh3R98mC16WzMMZCru9ZcssK.jpg"
+      },
+      {
+        "name": "Dan Castellaneta",
+        "character": "Male Fan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg"
+      },
+      {
+        "name": "Linda Lutz",
+        "character": "Female Seer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7pwtdCpRgEgrha0krnNE1vxSvvy.jpg"
+      },
+      {
+        "name": "Nicky McCrimmon",
+        "character": "Basketball Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Kelly Vint Castro",
+        "character": "Little League Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4v7NesrmidCe6P3R9maScS0eu4F.jpg"
+      },
+      {
+        "name": "William G. Schilling",
+        "character": "Golfer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e1gjztDMBp1I0VJcbUDpiBEolFX.jpg"
+      },
+      {
+        "name": "Albert Hague",
+        "character": "Psychiatrist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A2MwYraihVdMnVfavIkrZmPtfoN.jpg"
+      },
+      {
+        "name": "Michael Alaimo",
+        "character": "Doctor",
+        "profile_path": ""
+      },
+      {
+        "name": "James O'Donnell",
+        "character": "NBA Referee",
+        "profile_path": ""
+      },
+      {
+        "name": "David Ursin",
+        "character": "Charlotte Coach",
+        "profile_path": "https://image.tmdb.org/t/p/w185/trBIE7zB4nlXo8hxNsr27EvrJq9.jpg"
+      },
+      {
+        "name": "Douglas Robert Jackson",
+        "character": "Commissioner",
+        "profile_path": ""
+      },
+      {
+        "name": "Alonzo Mourning",
+        "character": "Alonzo Mourning",
+        "profile_path": ""
+      },
+      {
+        "name": "A. C. Green",
+        "character": "A. C. Green",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q3ST9FTx9aMY8nVKFvAHFOI4Yj1.jpg"
+      },
+      {
+        "name": "Charles Oakley",
+        "character": "Charles Oakley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kSN61bNKqVrniFbXsQp1AZaRxKY.jpg"
+      },
+      {
+        "name": "Derek Harper",
+        "character": "Derek Harper",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff Malone",
+        "character": "Jeff Malone",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Miller",
+        "character": "Anthony Miller",
+        "profile_path": ""
+      },
+      {
+        "name": "Sharone Wright",
+        "character": "Sharone Wright",
+        "profile_path": ""
+      },
+      {
+        "name": "Andre Rosey Brown",
+        "character": "Umpire",
+        "profile_path": ""
+      },
+      {
+        "name": "Brad William Henke",
+        "character": "Stars Catcher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6VedPxFRbFblXeWMAkIvURmPEZM.jpg"
+      },
+      {
+        "name": "Connie Ray",
+        "character": "Owner's Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gvJIXnCrzLYFQ3ZSNd2I5vjehOm.jpg"
+      },
+      {
+        "name": "John Roselius",
+        "character": "Baron's Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2r5I69fsHlHExO07GTrQCCT9peM.jpg"
+      },
+      {
+        "name": "Joe Bays",
+        "character": "Baron's Coach",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4FgZuJesfFEH0wUcvuKba03vE0d.jpg"
+      },
+      {
+        "name": "Charles Hoyes",
+        "character": "Baron's Catcher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fTj4CgjK1CXz18zk6oVLHU0oqay.jpg"
+      },
+      {
+        "name": "Luke Torres",
+        "character": "Player #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Steven Shenbaum",
+        "character": "Player #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Bean Miller",
+        "character": "Player #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Billy West",
+        "character": "Bugs Bunny / Elmer Fudd (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+      },
+      {
+        "name": "Dee Bradley Baker",
+        "character": "Daffy Duck / Tazmanian Devil / Bull (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+      },
+      {
+        "name": "Danny DeVito",
+        "character": "Swackhammer (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gNHF2SNXFFCRqwIQ2Xv6r6aV6UD.jpg"
+      },
+      {
+        "name": "Bob Bergen",
+        "character": "Bertie / Hubie / Marvin the Martian / Porky Pig / Tweety (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg"
+      },
+      {
+        "name": "Bill Farmer",
+        "character": "Sylvester / Yosemite Sam / Foghorn Leghorn (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lhezx68R12s5Bsv7d77BrQb7tWA.jpg"
+      },
+      {
+        "name": "June Foray",
+        "character": "Granny (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6s5sWcOPGtVdbMFtZwkWadArj2I.jpg"
+      },
+      {
+        "name": "Maurice LaMarche",
+        "character": "Pepe Le Pew (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+      },
+      {
+        "name": "Kath Soucie",
+        "character": "Lola Bunny (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/62hvT4USvGa9OAsMP9guIBtJqkf.jpg"
+      },
+      {
+        "name": "Jocelyn Blue",
+        "character": "Nerdluck POUND (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gQMpLUeKrPBhgsl8vIVRSJuYrb0.jpg"
+      },
+      {
+        "name": "Charity James",
+        "character": "Nerdluck BLANKO (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r02HGCvFnCrTnhZo0TCOCDXaScy.jpg"
+      },
+      {
+        "name": "June Melby",
+        "character": "Nerdluck BANG (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/inO7bDAqC2Zs0oIcBYkogZT0VJv.jpg"
+      },
+      {
+        "name": "Catherine Reitman",
+        "character": "Nerdluck BUPKUS (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8o7vcMrjk7u2t4a5NatGTxjghmR.jpg"
+      },
+      {
+        "name": "Colleen Wainwright",
+        "character": "Nerdluck NAWT / Sniffles (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/obEz0MAuEqt7WPHr62q1nbpwldf.jpg"
+      },
+      {
+        "name": "Dorian Harewood",
+        "character": "Monstar BUPKUS (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j3Nc0uNpe3MkonLtOrzVegO22QO.jpg"
+      },
+      {
+        "name": "Joey Camen",
+        "character": "Monstar BANG (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8cXGPpPXqZoQSdD4ld2d5CVbcjG.jpg"
+      },
+      {
+        "name": "T.K. Carter",
+        "character": "Monstar NAWT (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rqlDLtg8USZsO07VEiYQpQyjyA2.jpg"
+      },
+      {
+        "name": "Darnell Suttles",
+        "character": "Monstar POUND (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Kehela",
+        "character": "Monstar BLANKO / Announcer (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fzuwseqyMnsZhHa34yLtKwL79JX.jpg"
+      },
+      {
+        "name": "Frank Welker",
+        "character": "Charles the Dog (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+      },
+      {
+        "name": "Ahmad Rashād",
+        "character": "Ahmad Rashād",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ITQrJh9alcmZxSSEpkhalo3S5m.jpg"
+      },
+      {
+        "name": "Jim Rome",
+        "character": "Jim Rome",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sjOC4elKT66hjd4kUXTpBNmhfoO.jpg"
+      },
+      {
+        "name": "Mel Blanc",
+        "character": "Daffy Duck on TV (voice) (archive sound) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8fevv4K06TmHsYom2XfmxgKrTcd.jpg"
+      },
+      {
+        "name": "Greg Bronson",
+        "character": "Basketball Fan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/smF0hrek3d0bVhq0m7ENLPFQpcP.jpg"
+      },
+      {
+        "name": "Amy Chance",
+        "character": "Photographer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Horace Grant",
+        "character": "Horace Grant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tgQNyvbzMYnAEXpMJlx9W6Fr014.jpg"
+      },
+      {
+        "name": "Charles Hallahan",
+        "character": "Baron's Owner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zQr2ytNB23Dy3uzbGkxfIsANw3y.jpg"
+      },
+      {
+        "name": "Kent Kasper",
+        "character": "Team Doctor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2urFqWAS1FBiZgZWizrWRh9O7yg.jpg"
+      },
+      {
+        "name": "Steve Kerr",
+        "character": "Steve Kerr (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7hrMDyMecFJKNNQb7ToIEqDQ3ts.jpg"
+      },
+      {
+        "name": "Barbara Anne Klein",
+        "character": "Police Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nZHsdrMoRQUsMJYnXp433gkI34m.jpg"
+      },
+      {
+        "name": "Luc Longley",
+        "character": "Luc Longley (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brandon Loomis",
+        "character": "Fan (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Scottie Pippen",
+        "character": "Scottie Pippen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uBzeHR11hd67PpcW7btIsfOf65n.jpg"
+      },
+      {
+        "name": "Michael Rothhaar",
+        "character": "Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iWK3bluEzW5Z2MuWCzdbaxEMhyF.jpg"
+      },
+      {
+        "name": "Dylan Tucker",
+        "character": "Baron's Player (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Wennington",
+        "character": "Bill Wennington (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iWFzK6JuOpNJOB7IkY3cHJogdFo.jpg"
+      },
+      {
+        "name": "Jim Wise",
+        "character": "Police Assistant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8DAMGxOM93ygwaMQhERnWMr9jcF.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Joe Pytka",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qL8cJZFN6GNGJiTQ9xMGdjRAsIC.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "sports",
+    "cartoon",
+    "basketball",
+    "slapstick comedy",
+    "alien",
+    "doctor",
+    "cartoon cat",
+    "basketball team",
+    "referee",
+    "cartoon chicken",
+    "cartoon skunk",
+    "live action and animation",
+    "looney",
+    "space jam",
+    "actor playing themself"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired basketball champion, Michael Jordan.",
+    "Swackhammer, owner of the amusement park planet Moron Mountain is desperate get new attractions and he decides that the Looney Tune characters would be perfect. He sends his diminutive underlings to get them to him, whether Bugs Bunny and Co. want to go or not. Well armed for their size, Bugs Bunny is forced to trick them into agreeing to a competition to determine their freedom. Taking advantage of their puny and stubby legged foes, the gang selects basketball for the surest chance of winning. However, the Nerdlucks turn the tables and steal the talents of leading professional basketball stars to become massive basketball bruisers known as the Monstars. In desperation, Bugs Bunny calls on the aid of Michael Jordan, the Babe Ruth of basketball, to help them have a chance at winning their freedom.—Kenneth Chisholm <kchishol@execulink.com>",
+    "After winning the third championship with the Chicago Bulls, Michael Jordan announces his retirement from basketball and declares his intention to play baseball. Meanwhile, deep in space, on another planet called Moron Mountain, an outer space theme park, Mr. Swackhammer sends five tiny aliens known as the Nerdlucks to go to Looney Tune Land and capture all the Looney Tune characters and take them to Moron Mountain. But the Looney Tunes think of a plan to find a way to escape slavery on Moron Mountain. And Bugs Bunny decided to defend themselves by challenging the Nerdlucks to a basketball game. Then the Nerdlucks use their strange powers to steal the talent of five NBA stars such as Charles Barkley, Patrick Ewing, Muggsy Bogues, Larry Johnson, and Shawn Bradley which they'll ultimately transform themselves into the tallest and muscular Monstars. It's up to Michael Jordan to help the Looney Tunes play a basketball game vs. the Monstars. But if the Monstars win, then Swackhammer gets the Looney Tunes, and along with Jordan to Moron Mountain.—Anthony Pereyra <hypersonic91@yahoo.com>",
+    "Retired basketball NBA champion Michael Jordan teams up with the Looney Tunes and forms a basketball team with them. The Tune Squad challenge The Monstars from Moron Mountain to a basketball game and make a deal with Michael Jordan. If The Monstars lose they have to give Michael Jordan's and the other retired players their talents back. If Michael Jordan loses he will be signing autographs all day. Who knows what the outcome will be in this epic battle of basketball.—Steve Shedloski",
+    "The worlds of cartoons and basketball come to a head in the journey of a lifetime: Space Jam! Bugs Bunny and the rest of the Looney Tunes world joins forces with Michael Jordan as they must take on the threatening Monstars, or suffer enslavement for all eternity.—Johnny-the-Film-Sentinel-2187"
+  ],
+  "synopsis": "Michael Jeffery Jordan, as a young 10-year-old boy, has a dream to become a famous sports player at the National Basketball Association.\nMany years later in 1993, Michael retires from his job at NBA and instead plays professional baseball, which he unfortunately is not as good at.up in outer space, there exists a giant dark evil alien space theme amusement park planet called \"The Planet Moron Mountain Theme Park\". The dark evil alien owner, founder and president of the park, Mr Smackhammer, is tired of getting less customers. and decides that the park needs a new attraction. after thinking about it, he comes across a perfect gang of crazy cartoon character animals named the \"Looney Toons\" who live in a cartoon 2-Dimensional animated fictional universe known as the \"Toon World\" underground Planet Earth, he sends his short little mischievously evil Nerdluck Moron alien minions, Pound, Bang, Bupkus, Blanko and Nawt, on a mission to Earth to capture the Looney Toons.\nThey arrive underground Earth in the cartoon universe where Bugs Bunny Esq., the Toons' leader and a clever large gray hare-like rabbit, is being chased through the deep toon forest by his archenemy and a hunter of the dark wild, Elmer J. Fudd, who nearly catches him, but is flattened by the Nerdlucks' spaceship when it lands. Bugs calls up all the Looney Toons for a big emergency meeting at the Toon-Town Schlesinger Union Hall, where the Nerdlucks announce their evil plan to take them as slaves for attractions in the theme park. Bugs convinces them that they need to give the Looney Toons a chance to defend themselves, and challenges them to a big sports battle of basketball since they are too small to jump high and the Nerdlucks accept, knowing very little of basketball but have a secret plan. they break into a basketball game in the NBA back in the real world and force their way inside their best players (Charles Barkley, Patrick Ewing, Shawn Bradley and Mugsy Bogues), and they steal all of their skills and strength. It is not long before the Nerdlucks absorb the abilities and strength of the NBA players and mutate into giant superstar-like monsters, known as the \"Monstars\".Meanwhile in the real world, Michael meets a clumsy publicist named Stanley \"Stan\" Podolack. who wants to be his assistant helper in order to make him happier, to make his life easier and to make sure that no one bothers him. Michael, Stan and their actor friends, William \"Bill\" Murray and Lawrence \"Larry\" Bird go to play golf a day or two later. Bugs, secretly hiding underground, uses his electromagnet to suck Michael's golf ball into the golf hole after he has hit the ball. then uses a lasso to pull and suck Michael in. Bugs explains to him that aliens want to take them as prisoners and that he's their only hope, Michael is not sure at first because he has not had experience of basketball in years, though after being introduced to the Looney Toons, The Monstars and their union hall gym, he decides to join the team. Bugs also meets a female rabbit named \"Lola Bunny\" who is experienced with basketball as well, and he immediately develops a crush on her.Michael soon realises that he needs his sports gear, so Bugs and his jealous frenemy, a large black foolish and selfish duck named Daffy Dumas Horacio Tiberius Armando Sheldon Duck go to his house in the night and grab his shoes and shorts, after narrowly surviving getting attacked by Michael's pet bulldog Charlie (named after Charlie Barkley) by being saved by Michael's children. Bugs tells them about the game but tells them to keep it secret. After practicing for the game, Stan digs underground looking for Michael and finds him underground in the cartoon world. Stan is hired to be a cheerleader.The ultimate sports basketball battle begins that night at the Toon Stadium Arena. The Monstars win the first part, but Michael and the Looney Toons win the second part after drinking some magical powerful sports drink of Michael's that Bugs gives to them \"The Secret Stuff (secretly just water)\". Michael and Smackhammer then make a deal for Michael to go to Moron Mountain if they lose, and the Monstars win the fourth part and the Looney Toons have lots of injuries. Then Stan and Bill (who also makes it to the Toon world with the help of Ivan Reitman) start playing in the game and Michael scores the final goal, the Toons all win. Then the Monstars send Swackhammer off to the moon where he crashes after realising that they have more power than him, and then they shrink back to their normal size again and give their abilities and strength to Michael. the Nerdlucks try to be Looney in order to join the Looney Toons, but accidentally get shot and disintegrated to eyeballs. Michael returns home in time for a baseball game and Bugs falls in love with Lola as they share a kiss.Michael resumes his career of basketball in 1995 and Bill retires. Michael gives the talent and strength back to the NBA using the Nedrlucks' basketball, and the film ends.",
+  "imdb_score": 6.5
+}

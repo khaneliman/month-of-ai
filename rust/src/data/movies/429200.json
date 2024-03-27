@@ -1,0 +1,503 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/5AhkjcqqRxBdpYZ0TeOuTCuOUYq.jpg",
+  "id": 429200,
+  "title": "Good Time",
+  "poster_path": "https://image.tmdb.org/t/p/w500/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+  "release_date": "2017-08-11",
+  "vote_average": 7.203,
+  "vote_count": 2672,
+  "popularity": 19.91,
+  "overview": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
+  "imdb_id": "tt4846232",
+  "budget": 0,
+  "homepage": "http://goodtime.movie/",
+  "revenue": 3283369,
+  "runtime": 102,
+  "tagline": "Are you ready for a Good Time?",
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Elara Pictures",
+    "Rhea Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Robert Pattinson",
+        "character": "Constantine \"Connie\" Nikas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6RVxNlNmc0DIfZzaJKCJM43If3M.jpg"
+      },
+      {
+        "name": "Benny Safdie",
+        "character": "Nikolas \"Nick\" Nikas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gidElVVlUGeAby1trDGW9DlxLh5.jpg"
+      },
+      {
+        "name": "Buddy Duress",
+        "character": "Ray",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eMNWzYdeGU4Ki11KO0b4uI7x3HS.jpg"
+      },
+      {
+        "name": "Taliah Webster",
+        "character": "Crystal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uSxbqtYa4OCsgbQSSmIfvBFUbHw.jpg"
+      },
+      {
+        "name": "Barkhad Abdi",
+        "character": "Dash, the Park Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/utfeg8GnGyW3aVNcRfhII9RCXB6.jpg"
+      },
+      {
+        "name": "Jennifer Jason Leigh",
+        "character": "Corey Ellman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7DbG2AO3nygHAkNC866HLPKkxv9.jpg"
+      },
+      {
+        "name": "Necro",
+        "character": "Caliph",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cq2QTC4cLRnEl88KEarbUSQDAFD.jpg"
+      },
+      {
+        "name": "Peter Verby",
+        "character": "Peter, the Psychiatrist",
+        "profile_path": ""
+      },
+      {
+        "name": "Gladys Mathon",
+        "character": "Annie, Crystal's Grandmother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jwSNjIouKBmGcZdB4uzvrDLtoL6.jpg"
+      },
+      {
+        "name": "Saida Mansoor",
+        "character": "Agapia Nikas",
+        "profile_path": ""
+      },
+      {
+        "name": "Rose Gregorio",
+        "character": "Loren Ellman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f54ECBZet9lc9xgj0NA2isUXnY5.jpg"
+      },
+      {
+        "name": "Eric Paykert",
+        "character": "Eric, the Bail Bondsman",
+        "profile_path": ""
+      },
+      {
+        "name": "Astrid Corrales",
+        "character": "Bail Bondsman's Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Rachel Black",
+        "character": "Rachel, the Public Defender",
+        "profile_path": ""
+      },
+      {
+        "name": "Hirakish Ranasaki",
+        "character": "Trevor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uUxpC0OnjbpZiVonsnYYekrQWWN.jpg"
+      },
+      {
+        "name": "Maynard Nicholl",
+        "character": "Donnie",
+        "profile_path": ""
+      },
+      {
+        "name": "Ben Edelman",
+        "character": "Acid Buying Complainer",
+        "profile_path": ""
+      },
+      {
+        "name": "Laurence Blum",
+        "character": "Nassau County Police Officer A",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2C4LAWeypH1TLwxp4Cikt5P4yi8.jpg"
+      },
+      {
+        "name": "Jason Harvey",
+        "character": "Nassau County Police Officer B",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Clohessy",
+        "character": "6th Floor Elmhurst Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lhNUk6PF0mNhgbvTDxXfIy4uhRe.jpg"
+      },
+      {
+        "name": "Michael Kaufman",
+        "character": "EMT Worker #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Goran Spadina",
+        "character": "EMT Worker #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael McClard",
+        "character": "Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "Eloisa Santos",
+        "character": "Prostitute",
+        "profile_path": ""
+      },
+      {
+        "name": "Bryan Seslow",
+        "character": "Investigating Pol. Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Craig muMs Grant",
+        "character": "Denny, the Access-A-Ride Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h5VRSObBrDxrxr4g8QQ3jhlw0HP.jpg"
+      },
+      {
+        "name": "George Lee Miles",
+        "character": "Annie's Husband, Albert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sQyXOhgeauXBD30610sZwYVM5Ov.jpg"
+      },
+      {
+        "name": "Kate Halpern",
+        "character": "Stringy Haired Man's Wife",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Kirk",
+        "character": "Stringy Haired Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Leticia Ortega",
+        "character": "Mexican Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Souleymane Sy Savane",
+        "character": "African Cab Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qXY5v1UM2i9ChvvfuVTBkTyuUQT.jpg"
+      },
+      {
+        "name": "Mahadeo Shivraj",
+        "character": "Uber Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eoucIegYIsgLbvh8cEJqJPeh3qz.jpg"
+      },
+      {
+        "name": "Dorothi Fox",
+        "character": "Elderly Woman in Hospital",
+        "profile_path": ""
+      },
+      {
+        "name": "Ratnesh Dubey",
+        "character": "Domino's Pizza Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Tessa O'Conner",
+        "character": "Domino's Pizza Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Handley",
+        "character": "NYPD Officer Jim",
+        "profile_path": ""
+      },
+      {
+        "name": "Cliff Moylan",
+        "character": "NYPD Police Officer Patrick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sEVWQ1RMsrs2t58z9GgcZbLkR3V.jpg"
+      },
+      {
+        "name": "Peter Linari",
+        "character": "Elmhurst Hospital Orderly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sMvKhAS7PMkyKAq9dbuLZ9JlqN.jpg"
+      },
+      {
+        "name": "Chris Breslin",
+        "character": "Male Doctor",
+        "profile_path": ""
+      },
+      {
+        "name": "Evonne Walton",
+        "character": "Bank Teller",
+        "profile_path": ""
+      },
+      {
+        "name": "Lewis Dodley",
+        "character": "Lewis Dodley",
+        "profile_path": ""
+      },
+      {
+        "name": "Tara Lynn Wagner",
+        "character": "Tara Lynn Wagner",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Dzurenda",
+        "character": "Captain",
+        "profile_path": ""
+      },
+      {
+        "name": "Roy James Wilson",
+        "character": "C.O. Jim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uJT0JQofSIAoxTMtgh7lfJGApJp.jpg"
+      },
+      {
+        "name": "Brendan M. Burke",
+        "character": "C.O. Burke",
+        "profile_path": ""
+      },
+      {
+        "name": "Jordan Valdez",
+        "character": "C.O. Valdez",
+        "profile_path": ""
+      },
+      {
+        "name": "Laura Sledge",
+        "character": "C.O. Moses",
+        "profile_path": ""
+      },
+      {
+        "name": "Jerome Frazier",
+        "character": "Big Homie",
+        "profile_path": ""
+      },
+      {
+        "name": "Javaughn Swindell",
+        "character": "Biggie",
+        "profile_path": ""
+      },
+      {
+        "name": "Dion McBean",
+        "character": "Lil Pup",
+        "profile_path": ""
+      },
+      {
+        "name": "Sean Miller",
+        "character": "Jazz",
+        "profile_path": ""
+      },
+      {
+        "name": "Benny DeVincenzi",
+        "character": "The Ripper",
+        "profile_path": ""
+      },
+      {
+        "name": "Joey McDevitt",
+        "character": "White Inmate",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Chung",
+        "character": "Ahn",
+        "profile_path": ""
+      },
+      {
+        "name": "Afro",
+        "character": "Arcade Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Shershenovich",
+        "character": "Arcade Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Azul Rodriguez",
+        "character": "Arcade Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Mr Green",
+        "character": "Arcade Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Jarvis",
+        "character": "Arcade Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Roi Cydulkin",
+        "character": "Arcade Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Mavrin Kirill",
+        "character": "Arcade Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Scrooge",
+        "character": "Arcade Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "KJ Rottweiler",
+        "character": "Arcade Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Terrance Williams",
+        "character": "Arcade Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Kim Carter",
+        "character": "Epic Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Gianluca Cirafici",
+        "character": "Epic Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Megan Dodd",
+        "character": "Epic Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Samantha Elisafon",
+        "character": "Epic Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Melissa Gonzalez",
+        "character": "Epic Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Rodney Hankins",
+        "character": "Epic Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Carol Hoverman",
+        "character": "Epic Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Kader",
+        "character": "Epic Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Marissa Lelogeais",
+        "character": "Epic Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Lorch",
+        "character": "Epic Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Melendez",
+        "character": "Epic Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Christian Patane",
+        "character": "Epic Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Ari Sloan",
+        "character": "Epic Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Bakari Williams",
+        "character": "Epic Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Aubrie Therrien",
+        "character": "Epic Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Sebastian Bear-McClard",
+        "character": "Arresting Police Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jRjQ9vivpT2OSiBMAvAtvacSfBx.jpg"
+      },
+      {
+        "name": "Phil Cappadora",
+        "character": "Undercover Cop (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucas Elliot Eberl",
+        "character": "Arcade Guy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m4nLod5Q5IwPgpQMuF8OWPCdJj6.jpg"
+      },
+      {
+        "name": "Marcos A. Gonzalez",
+        "character": "Arresting Police Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xQGLjat6WWBmvnFqwVsAMQSQBbR.jpg"
+      },
+      {
+        "name": "Edgar Morais",
+        "character": "Arcade Guy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y28bnAyQIApcYVJ5fJtCikY31Jz.jpg"
+      },
+      {
+        "name": "Shaun Rey",
+        "character": "Undercover Cop (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sacco Sarkis",
+        "character": "Police Officer (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Josh Safdie",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bNYM97KLLVoICe3fZt6bKbvXV8d.jpg"
+      },
+      {
+        "name": "Benny Safdie",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gidElVVlUGeAby1trDGW9DlxLh5.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "prison",
+    "mentally disabled",
+    "new york city",
+    "brother",
+    "bank robber",
+    "wheelchair",
+    "on the run",
+    "hospital",
+    "drugs",
+    "foot chase",
+    "security guard",
+    "amusement park",
+    "queens, new york city",
+    "one night",
+    "botched robbery",
+    "acid"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
+    "Connie Nikas forcibly removes his developmentally disabled brother Nick from a therapy session. The two rob a New York City bank for $65,000. In the getaway car, a dye pack explodes in a money bag, causing the driver to crash. Connie and Nick flee on foot, washing the dye from their clothes in a restaurant restroom. Stopped by police, Nick panics and runs; Nick is arrested while Connie escapes. Connie attempts to secure a bail bond, but needs $10,000 more to get Nick out of jail. He convinces his girlfriend, Corey, to pay with her mother's credit cards, but her mother cancels the cards. Connie learns that Nick has been hospitalized after a fight with an inmate.",
+    "Motivated by fierce love for his intellectually disabled brother, Nick, and an explosive mix of despair and thirst for a better future, the tough fledgeling outlaw, Connie, involves his sibling in an ill-conceived bank robbery. But, after an unanticipated complication, Nick winds up in Rikers Island, forcing his desperate but determined sibling to embark on a nightmarish, no-holds-barred quest to bail him out. Now, over the course of a long and violent night, Connie will have to go to great lengths to save Nick from a cruel fate; however, he is doomed to do more harm than good. Is it all heading somewhere?—Nick Riganas",
+    "Following a botched bank robbery, Connie Nikkas and his younger, mentally challenged brother Nick are separated, with Nick being apprehended. To pay his brother's $75,000 dollar bail, Connie traverses New York's underworld across one long night, stopping at nothing to complete his goal."
+  ],
+  "synopsis": "Connie Nikas forcibly removes his developmentally disabled brother Nick from a therapy session. The two rob a New York City bank for $65,000. In the getaway car, a dye pack explodes in a money bag, causing the driver to crash. Connie and Nick flee on foot, washing the dye from their clothes in a restaurant restroom. Stopped by police, Nick panics and runs; Nick is arrested while Connie escapes.Connie attempts to secure a bail bond, but needs $10,000 more to get Nick out of jail. He convinces his girlfriend, Corey, to pay with her mother's credit cards, but her mother cancels the cards. Connie learns that Nick has been hospitalized after a fight with an inmate. Connie breaks him out of the hospital, unconscious and bandaged, and convinces a woman to let them stay in her house with her 16-year-old granddaughter Crystal. While they watch TV, the news shows photos of Connie's face; to distract Crystal, he kisses her. Hearing screams from the other room, Connie realizes the man he broke out of the hospital is not Nick but a man released on parole, Ray.The three drive to the Adventureland amusement park, where Ray stowed a bottle of LSD solution worth several thousand dollars before he ran from police and injured himself. Searching for the bottle, Connie and Ray are discovered by a security guard; Connie beats him unconscious. As police arrive, Connie steals the man's uniform and Ray pours LSD down the man's throat to make him incoherent. Connie convinces the police that the guard was the intruder and destroys a hard drive containing security footage. Police arrest Crystal as she waits outside.Ray and Connie break into the guard's high-rise apartment. Ray begins drinking and Connie tells him he is a leech on society. At Connie's insistence, Ray calls his criminal friend Caliph to buy back the LSD so they can get the bail money. When Caliph arrives, Connie demands $15,000; Caliph agrees, but gestures to Ray that he will retrieve a firearm. Connie flees with the drugs, but is caught by police. Ray attempts to escape from a window but falls to his death. Nick joins a therapy class and begins to participate in a group activity.",
+  "imdb_score": 7.3
+}

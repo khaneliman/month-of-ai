@@ -1,0 +1,449 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/rUeqBuNDR9zN6vZV9kpEFMtQm0E.jpg",
+  "id": 499932,
+  "title": "The Devil All the Time",
+  "poster_path": "https://image.tmdb.org/t/p/w500/bVL7LGq528h3KzeNI90HOVbV5uW.jpg",
+  "release_date": "2020-09-11",
+  "vote_average": 7.215,
+  "vote_count": 3124,
+  "popularity": 22.967,
+  "overview": "In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.",
+  "imdb_id": "tt7395114",
+  "budget": 0,
+  "homepage": "http://www.netflix.com/title/81028870",
+  "revenue": 0,
+  "runtime": 138,
+  "tagline": "Everyone ends up in the same damned place.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Nine Stories Productions",
+    "BorderLine Films",
+    "Bronx Moving Co."
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Holland",
+        "character": "Arvin Russell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yxYOaalFh8SUwNE5C0wzOwF89Ny.jpg"
+      },
+      {
+        "name": "Bill Skarsgård",
+        "character": "Willard Russell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6OCBeTRLXrNKqvSz4HIweUWSIn6.jpg"
+      },
+      {
+        "name": "Riley Keough",
+        "character": "Sandy Henderson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wsodGduU4frFdMy1roqeDmj4kZ.jpg"
+      },
+      {
+        "name": "Jason Clarke",
+        "character": "Carl Henderson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jGMOmi7LxpSO6842gJOZKt1gs9N.jpg"
+      },
+      {
+        "name": "Sebastian Stan",
+        "character": "Deputy Lee Bodecker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg"
+      },
+      {
+        "name": "Haley Bennett",
+        "character": "Charlotte Russell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8HRgGypSwHeI27ffmcAELNoxIOw.jpg"
+      },
+      {
+        "name": "Robert Pattinson",
+        "character": "Reverend Preston Teagardin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6RVxNlNmc0DIfZzaJKCJM43If3M.jpg"
+      },
+      {
+        "name": "Harry Melling",
+        "character": "Roy Laferty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b0pHwi2MeqxEpeWnF4Llihu53aJ.jpg"
+      },
+      {
+        "name": "Eliza Scanlen",
+        "character": "Lenora Laferty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bxSr2EH0KLN2SqQBJiITUx35cF6.jpg"
+      },
+      {
+        "name": "Mia Wasikowska",
+        "character": "Helen Hatton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9DjwPFi0aFQKOF6p2OyqH38qKAB.jpg"
+      },
+      {
+        "name": "Douglas Hodge",
+        "character": "Leroy Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/imdVXxy5QxegiXA0HncT7rRmNk5.jpg"
+      },
+      {
+        "name": "Kristin Griffith",
+        "character": "Emma",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t0jwm5HlDYwKMasMLXig5ztFzWm.jpg"
+      },
+      {
+        "name": "Pokey LaFarge",
+        "character": "Theodore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xGuZhSIo4SPpimvOjaG7mgLwluz.jpg"
+      },
+      {
+        "name": "Donald Ray Pollock",
+        "character": "Narrator (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gvKKEDgF8y8zKcztD8X9zZloAqF.jpg"
+      },
+      {
+        "name": "Banks Repeta",
+        "character": "Arvin At 9",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xx6aE6A1RnsDjtDd32CyGecr5tx.jpg"
+      },
+      {
+        "name": "Emilio Subercaseaux Campos",
+        "character": "Baby Arvin",
+        "profile_path": ""
+      },
+      {
+        "name": "David Atkinson",
+        "character": "Earskell",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew Vaughn",
+        "character": "Poacher #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Billy Joe Bradshaw",
+        "character": "Poacher #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Gregory Kelly",
+        "character": "BoBo McDaniels",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2MJssw3UbzQJBQU7F1OJH8b4jAL.jpg"
+      },
+      {
+        "name": "David Maldonado",
+        "character": "Henry Dunlap",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uF6uk6YtCRWAfsGZM2GG7aaHWwO.jpg"
+      },
+      {
+        "name": "Mark Jeffrey Miller",
+        "character": "Hank",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zlrtLb3syoY3kGMxm48yAZxLvCC.jpg"
+      },
+      {
+        "name": "Ryan Anthony Williams",
+        "character": "Marine #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Wes Robinson",
+        "character": "Bus Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wApcmnswXoBQiFdr5qzg0MN0VWX.jpg"
+      },
+      {
+        "name": "Todd Barnett",
+        "character": "Wooden Spoon Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oOnrWeP0t9iHXIG17r2pN5VMlnM.jpg"
+      },
+      {
+        "name": "Michael Harding",
+        "character": "Reverend Albert Sykes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nC93hMQj4hp0BbKoSbAvF9vxM8o.jpg"
+      },
+      {
+        "name": "Lucy Faust",
+        "character": "Cynthia Teagardin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5mpec9zfVfsIp87M8Eb9Rare4Wz.jpg"
+      },
+      {
+        "name": "Abby Glover",
+        "character": "Pamela Sue Reaster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wG6z51xjglMSSSRT57wUaqfMwsU.jpg"
+      },
+      {
+        "name": "Kelly Lind",
+        "character": "Church Member #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rhYFDPEqCf0UsRO0kPPQdwWmdiH.jpg"
+      },
+      {
+        "name": "Cotton Yancey",
+        "character": "Church Member #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Adam Fristoe",
+        "character": "Priest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wh4G9YbcxM9B9zHjPoHR0l3U6Lf.jpg"
+      },
+      {
+        "name": "Morganna Bridgers",
+        "character": "Florence",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pgC0IUVPJJGQQswmkXEXSf6Do7a.jpg"
+      },
+      {
+        "name": "Karson Kern",
+        "character": "Social Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iY1w0XrVBzQqcgjjyZQjxHNb79o.jpg"
+      },
+      {
+        "name": "Ivan Hoey Jr.",
+        "character": "Orville Buckman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lHwlHUyGJwWPD9bT16L9D4tnyBF.jpg"
+      },
+      {
+        "name": "Zack Shires",
+        "character": "Gene Dinwoodie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ApUuc2K2Eyq1m37fWKWT9KnioEG.jpg"
+      },
+      {
+        "name": "Drew Starkey",
+        "character": "Tommy Matson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7MYE1hHt0OIhQYduMpNVB5jSC4p.jpg"
+      },
+      {
+        "name": "Caleb J. Thaggard",
+        "character": "Butcher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y9vjlmJ8YRzED4ZPQxtUjZ2rdK6.jpg"
+      },
+      {
+        "name": "Ever Eloise Landrum",
+        "character": "Lenora At 7",
+        "profile_path": ""
+      },
+      {
+        "name": "Given Sharp",
+        "character": "Susie Cox",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lBfY4PzHqSjeG4BvwtEYGTFAbeJ.jpg"
+      },
+      {
+        "name": "Cory Scott Allen",
+        "character": "Sheriff Thompson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h5mG1ZkXzPHJ08iNf2SqhRwpTkD.jpg"
+      },
+      {
+        "name": "Emma Coulter",
+        "character": "Juanita",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ocZBby3vZRc4yK4dg1TtqZzU9hn.jpg"
+      },
+      {
+        "name": "Cody Jones",
+        "character": "Tecumseh Bouncer",
+        "profile_path": ""
+      },
+      {
+        "name": "Madelyn Wall",
+        "character": "White Cow Waitress",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Collett",
+        "character": "Gary Matthew Bryson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pGv1ViEIXnhapASDIzqmGzLUMHD.jpg"
+      },
+      {
+        "name": "Eric Mendenhall",
+        "character": "Deputy Howser",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kx0k5IdDlliYb879hHAdzhLtqOs.jpg"
+      },
+      {
+        "name": "Teddy Cole",
+        "character": "Hippie",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael H. Cole",
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pRtWHzyBgJ4a1qfDMaktIoTF3b2.jpg"
+      },
+      {
+        "name": "Cort Chandler",
+        "character": "Jim Lacey",
+        "profile_path": ""
+      },
+      {
+        "name": "Bruce Cooper",
+        "character": "Jasper Taps",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel James Vaughn",
+        "character": "Dispatcher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cDXgiBMda6Rj6PIvGKHyDssDZj2.jpg"
+      },
+      {
+        "name": "Edward Hall",
+        "character": "Skinned Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dFsAgktEzJDH0TEQv8uBHYXmvWH.jpg"
+      },
+      {
+        "name": "Jeff McCarthy",
+        "character": "Evangelist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1xyUKIybgVk3raZ054iOO1lhlWE.jpg"
+      },
+      {
+        "name": "Santino Fontana",
+        "character": "AM Radio DJ",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5wo0D9drLtLwdyZyDqNZRejgzoM.jpg"
+      },
+      {
+        "name": "John Rue",
+        "character": "Newscaster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q3VG3GR4OFZjdj8Se7JUZ79pXEy.jpg"
+      },
+      {
+        "name": "Phillip DeVona",
+        "character": "Calvin Claytor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rJyn9WVNyDsMO5UeZUIONHx2OBh.jpg"
+      },
+      {
+        "name": "Kevin Waterman",
+        "character": "Arresting Police Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kFnoNPnSsn7gV3Rczhg0kdYVLUc.jpg"
+      },
+      {
+        "name": "Sarah Hamff",
+        "character": "Beth Ann Reaster (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/reTvw7iOCspOW3eVPoU7zCWNckz.jpg"
+      },
+      {
+        "name": "Shannon Frye",
+        "character": "Alma Reaster (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "James H. Keating",
+        "character": "Meat Processor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1gBCh7cR41Bt1sYIKkpwCFDdqjB.jpg"
+      },
+      {
+        "name": "Scott Rapp",
+        "character": "Teacher (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1AFN4ClBTBW9DeG6BAymd8TSbPU.jpg"
+      },
+      {
+        "name": "Lawrence Hinkle",
+        "character": "Diner Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kyle Sawyer",
+        "character": "Shop Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kE0odFkMABqXHYg2cAbuzlsxSF3.jpg"
+      },
+      {
+        "name": "Emily Towles",
+        "character": "1965 High School Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cuws9k6IvV2AC6SXnFNrpCB0gCJ.jpg"
+      },
+      {
+        "name": "Meagan Bown",
+        "character": "1966 High School Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ben Bailey",
+        "character": "Necking Guy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Beth Scott",
+        "character": "1945 Diner Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kacey Hayes",
+        "character": "1945 Diner Patron / Church Goer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Myles Phillips",
+        "character": "Church Goer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rebecca Douglas",
+        "character": "Necking Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Leslie Sides",
+        "character": "Church Goer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pyrpNdcfT63snOu8RGszWbJ3mYe.jpg"
+      },
+      {
+        "name": "Katie Flaherty",
+        "character": "1965 Cheerleader (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Powell",
+        "character": "1965 Vietnam Soldier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Morgan Monroe",
+        "character": "Diner Patron / Church Goer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff McKinney",
+        "character": "Bull Pen Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Charles Hill",
+        "character": "Local Pool Player (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yozVOpv1PAChPXHIADx0yJ1ABtk.jpg"
+      },
+      {
+        "name": "Andrew Young",
+        "character": "Cody Hamilton",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Antonio Campos",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qbrWd11RqIqa3pYWkjxW9vdRxnx.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "small town",
+    "suicide",
+    "sheriff",
+    "based on novel or book",
+    "war veteran",
+    "gun",
+    "ohio",
+    "west virginia",
+    "murder",
+    "serial killer",
+    "photograph",
+    "church",
+    "gothic",
+    "madness",
+    "post world war ii",
+    "reverend",
+    "violence"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Sinister characters converge around a young man devoted to protecting those he loves in a postwar backwoods town teeming with corruption and brutality.",
+    "Set in rural southern Ohio and West Virginia, The Devil All the Time follows a cast of compelling and bizarre characters from the end of World War II to the 1960s. There's Willard Russell, tormented veteran of the carnage in the South Pacific, who can't save his beautiful wife, Charlotte, from an agonizing death by cancer no matter how much sacrificial blood he pours on his \"prayer log.\" There's Carl and Sandy Henderson, a husband-and-wife team of serial killers, who troll America's highways searching for suitable models to photograph and exterminate. There's the spider-handling preacher Roy and his crippled virtuoso-guitar-playing sidekick, Theodore, running from the law. And caught in the middle of all this is Arvin Eugene Russell, Willard and Charlotte's orphaned son, who grows up to be a good but also violent man in his own right.",
+    "Willard Russell prays over a prayer log for his cancer-ridden wife with his son, Arvin. A spider-eating preacher is convinced he can bring back the dead. A husband and wife pick up hitchhikers, photograph them, and kill them. Their paths intersect in the Midwest town of Knockemstiff."
+  ],
+  "synopsis": "During World War II, while serving in the Solomon Islands, Marine Willard Russell finds the barely alive Gunnery Sergeant Miller Jones skinned and crucified by the Japanese. Willard ends Jones' agony by shooting him in the head. After the war, on his way home to Coal Creek, West Virginia, Willard passes through Meade, Ohio, where he meets Charlotte, a waitress at a diner. Willard and Charlotte marry and move to Knockemstiff, Ohio, where they have a child named Arvin.In 1950, Helen Hatton marries the bizarre yet charismatic evangelical preacher Roy Laferty, who pours venomous spiders over his head in one sermon to demonstrate his faith in God. Helen has a child named Lenora. Roy has a severe allergic reaction to a spider bite, affecting his grip on reality. Believing that he has the ability to resurrect the dead, Roy stabs and kills Helen, but fails to see her revive. Roy realizes his error and flees to return to his daughter.Roy hitchhikes and gets picked up by a pair of married serial killers, Carl Henderson and his wife Sandy. Their serial fetish homicide ritual involves picking up male hitchhikers, encouraging them to have sex with Sandy while Carl takes photographs, and then murdering them. Roy refuses to have sex with Sandy, and Carl shoots him dead.In 1957, Charlotte is diagnosed with cancer. Willard believes he can influence God with fervent prayer to remove cancer from his wife's body. He prays to God and sacrifices the family dog, kneeling before a rustic cross he had erected in the woods behind his house. However, Charlotte dies of her illness, and Willard soon commits suicide. Arvin, now orphaned, goes to live with his grandmother Emma, where he meets Lenora, who has been adopted as his stepsister.In 1965, Arvin is given his father's Luger pistol as a birthday present. The church has a new preacher, Reverend Preston Teagarden, who also exhibits fanatical behavior. After noticing Lenora being repeatedly harassed by bullies at school, Arvin confronts and savagely beats them. Meanwhile, Preston takes advantage of Lenora's loneliness and rapes her. Lenora soon informs Preston of her pregnancy, who blames her for the incident and turns her away. Not wanting to bring shame to the family, Lenora prepares to hang herself. As she stands on a bucket, she changes her mind and tries to remove the noose, but accidentally slips off the bucket and dies. Arvin is told that she was pregnant following her autopsy, and immediately suspects that Preston was the father. He spies on Preston, then confronts him at the church and kills him with the Luger.Arvin hitchhikes and gets picked up by Carl and Sandy. When Carl starts his homicide ritual with Arvin, Arvin defends himself, killing Carl and Sandy with the Luger. In the car's glove box, Arvin finds a collection consisting of several rolls of film. Sandy's brother, Sheriff Lee Bodecker, learns about Sandy's murder, and to protect himself and his coming reelection, goes to Carl and Sandy's apartment, where he finds and destroys Carl's photo collection.Arvin goes to Meade to visit his childhood home. Lee learns that Arvin murdered Preston, and heads to Meade in search of Arvin. They both confront each other in the woods at the location of Willard's rustic cross; Lee with a shotgun and Arvin with the Luger. Shots are exchanged, but Arvin mortally wounds Lee. Arvin confronts Lee with the picture of Sandy with Roy's dead body as Lee bleeds out and dies, then leaves the photo and rolls of film with Lee's corpse.Arvin hitchhikes again and gets picked up by a hippie driving a VW van. The film ends with him daydreaming and contemplating his future as possibly a husband or as a soldier in the Vietnam War.",
+  "imdb_score": 7.1
+}

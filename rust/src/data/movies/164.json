@@ -1,0 +1,481 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/ntZAoOP02Y7Ufu3CLVMKGRiAxww.jpg",
+  "id": 164,
+  "title": "Breakfast at Tiffany's",
+  "poster_path": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+  "release_date": "1961-10-06",
+  "vote_average": 7.67,
+  "vote_count": 3982,
+  "popularity": 37.069,
+  "overview": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+  "imdb_id": "tt0054698",
+  "budget": 2500000,
+  "homepage": "",
+  "revenue": 9500000,
+  "runtime": 115,
+  "tagline": "Audrey Hepburn plays that daring, darling Holly Golightly to a new high in entertainment delight!",
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+  ],
+  "production_companies": [
+    "Paramount",
+    "Jurow-Shepherd"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Audrey Hepburn",
+        "character": "Holly Golightly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nbkNJ8dr6j5vSZ3M6SKwp0F7Q1P.jpg"
+      },
+      {
+        "name": "George Peppard",
+        "character": "Paul Varjak",
+        "profile_path": "https://image.tmdb.org/t/p/w185/td2SN1HGqgGsWLi4YhReMYvH2ik.jpg"
+      },
+      {
+        "name": "Patricia Neal",
+        "character": "2E Failenson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sbPnNXzc4bYCUPgbcgFlZxgQ89O.jpg"
+      },
+      {
+        "name": "Buddy Ebsen",
+        "character": "Doc Golightly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iY3zvIzWDhsrcYoL6jjGONp4Wjv.jpg"
+      },
+      {
+        "name": "Martin Balsam",
+        "character": "O.J. Berman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2j4LJJfTPQtvnjp8LfSGOvWFATO.jpg"
+      },
+      {
+        "name": "José Luis de Vilallonga",
+        "character": "José da Silva Pereira",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t839BL2ATwMtud1aZynu6v7W4J3.jpg"
+      },
+      {
+        "name": "John McGiver",
+        "character": "Tiffany's Salesman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lklJkAP9UKk4qeQQEKZhmmiIizJ.jpg"
+      },
+      {
+        "name": "Dorothy Whitney",
+        "character": "Mag Wildwood",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fvNvR2nmim4I1QtgwL30FtDjJhJ.jpg"
+      },
+      {
+        "name": "Stanley Adams",
+        "character": "Rusty Trawler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zcOvq0nh5llUce33ozlqD8r1Eyc.jpg"
+      },
+      {
+        "name": "Elvia Allman",
+        "character": "Librarian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r8MDamNJNwi83TXXn4lt41PtmTD.jpg"
+      },
+      {
+        "name": "Alan Reed",
+        "character": "Sally Tomato",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ilsEwVPUTQ6f9qSdRtraGhZ5BG6.jpg"
+      },
+      {
+        "name": "Beverly Powers",
+        "character": "Nightclub Stripper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kaMVTp0v0hRhGyjLBZ4ezlsW6ZC.jpg"
+      },
+      {
+        "name": "Claude Stroud",
+        "character": "Sid Arbuck",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5zec2plBG1vhBN16SvYspy64kxk.jpg"
+      },
+      {
+        "name": "Mickey Rooney",
+        "character": "Mr. Yunioshi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eYuayEC3xhXQf3Z1Cy6AVMEcgZb.jpg"
+      },
+      {
+        "name": "Don Anderson",
+        "character": "Bartender (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Al Avalon",
+        "character": "Spieler at Stripjoint (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Janet Banzet",
+        "character": "Woman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nKk34B7Ma6UGaoc4Q76ViuRTYna.jpg"
+      },
+      {
+        "name": "Mel Blanc",
+        "character": "Holly's Drunk Visitor (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8fevv4K06TmHsYom2XfmxgKrTcd.jpg"
+      },
+      {
+        "name": "Joe Scott",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Michael",
+        "character": "Strip Club Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Henry Barnard",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Henry Beckman",
+        "character": "Narcotics Detective Cronberger (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/MgjILlMRbl2VUAwt2ebr4VJIO2.jpg"
+      },
+      {
+        "name": "Arthur Berkeley",
+        "character": "Inmate (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicky Blair",
+        "character": "Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9S0jxwxhqvkaEI2dZNEbvbJlhq5.jpg"
+      },
+      {
+        "name": "Willie Bloom",
+        "character": "Inmate (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Bradley",
+        "character": "Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nPWkeNuscBYTV8ra0uLf4syXeUZ.jpg"
+      },
+      {
+        "name": "Thayer Burton",
+        "character": "Girl in Shower (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Florine Carlan",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sue Casey",
+        "character": "Party Guest in Blue and Green Dress (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Roydon Clark",
+        "character": "Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/87amOBEdiq1Aifil0IgCObfjiGM.jpg"
+      },
+      {
+        "name": "Marian Collier",
+        "character": "Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ohSTBTqC4XRqrQZdfGBP7p3pxFH.jpg"
+      },
+      {
+        "name": "Christine Corbin",
+        "character": "Sing Sing Prison Visitor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dick Crockett",
+        "character": "Cab Driver (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Curtis",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tommy Farrell",
+        "character": "Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i59xkRqsK6q6uEwn0tkkTlXfJ11.jpg"
+      },
+      {
+        "name": "James Field",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "George Fields",
+        "character": "Harmonica Player (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Glick",
+        "character": "Inmate (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Gray",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph J. Greene",
+        "character": "Mr. O'Shaunessy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sam Harris",
+        "character": "Jewelry Shop Clerk (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Pete Kellett",
+        "character": "Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Barbara Kelley",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kip King",
+        "character": "Delivery Boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Kreig",
+        "character": "Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/40mdKdSIjJOTQgsE0qWB6dcOQA4.jpg"
+      },
+      {
+        "name": "Gil Lamb",
+        "character": "Party Guest with Harriet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dfZu2cZ7JrE3iTwZEXvJGACPbsE.jpg"
+      },
+      {
+        "name": "Hanna Landy",
+        "character": "Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p6CLxqMf60SRCYL9bORtgzDErIS.jpg"
+      },
+      {
+        "name": "James Lanphier",
+        "character": "The Cousin (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary LeBow",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Lees",
+        "character": "Floorwalker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Leatrice Leigh",
+        "character": "Telephone Operator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mel Leonard",
+        "character": "Cab Driver (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Leota Lorraine",
+        "character": "Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aDUkQFvZayNAM9Q4qkaKJ8PMPdt.jpg"
+      },
+      {
+        "name": "Mike Mahoney",
+        "character": "Police Desk Sergeant (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Marth",
+        "character": "Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fpiBAx28IF2Ws9VFtC8HxmL6MCw.jpg"
+      },
+      {
+        "name": "Fay McKenzie",
+        "character": "Party Guest Laughing in Mirror (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4chCtqANkxd3yAIuuQxJAXPoHUY.jpg"
+      },
+      {
+        "name": "William Meader",
+        "character": "Jewelry Shop Clerk (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joyce Meadows",
+        "character": "Party Guest Shaking Derrier in White Dress (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ckolAZvXI41qapwhMVNvstZlrKE.jpg"
+      },
+      {
+        "name": "Harold Miller",
+        "character": "Tiffanys Customer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/baYrpaujUdnO5aoQFHJrkLru7l0.jpg"
+      },
+      {
+        "name": "Hollis Morrison",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kate Murtagh",
+        "character": "Policewoman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dkz71GgWkRWGN1smB9z6DqOEopV.jpg"
+      },
+      {
+        "name": "Bill Neff",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Miriam Nelson",
+        "character": "Harriet - Party Guest in Gold Dress (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nps1ihmQZsmAKBlbhBWq87zI8S1.jpg"
+      },
+      {
+        "name": "Chuck Niles",
+        "character": "Sing Sing Prison Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Peggy Patten",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Patten",
+        "character": "Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5LdkirLlW9HEgur3AtCyQsDXQYS.jpg"
+      },
+      {
+        "name": "John Perri",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Quinlivan",
+        "character": "Party Guest with Eyepatch (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "William Benegal Rau",
+        "character": "Hindu at Party (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Regan",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Sherlock",
+        "character": "Reporter at Policed HQ (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9grMCbCJKbfyLgFQK6XqkWOhZ12.jpg"
+      },
+      {
+        "name": "Annabella Soong",
+        "character": "Chinese Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Helen Spring",
+        "character": "Party Guest with Hat on Fire (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4wUN7zv9ouoz3cl9tKCcjSxzduj.jpg"
+      },
+      {
+        "name": "Joan Staley",
+        "character": "Blonde in Low-Cut Cream Dress (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1sCxUZkP6rXxbXlhp4uEw17BY57.jpg"
+      },
+      {
+        "name": "Richard Wyler",
+        "character": "Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iQiwCYrjA42AYezemDVf23JJyfL.jpg"
+      },
+      {
+        "name": "Nino Tempo",
+        "character": "Customer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Towyna Thomas",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Truppi",
+        "character": "Inmate (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Glen Vernon",
+        "character": "Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3lbzZm4rvJHBfbnwWsjAwjhmvUS.jpg"
+      },
+      {
+        "name": "Linda Wong",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Wilson Wood",
+        "character": "Party Guest with Cat on Shoulder (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Zaslow",
+        "character": "Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vLW3a5XUkZNPdyJvbBCMJNIbC7n.jpg"
+      },
+      {
+        "name": "Orangey",
+        "character": "Cat",
+        "profile_path": "https://image.tmdb.org/t/p/w185/92urZPe2W856qh6jKVQ9nW91BNr.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Blake Edwards",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tEUBu225EVmJKGxJSX936OvRet5.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "love of one's life",
+    "broken engagement",
+    "cat",
+    "store window",
+    "cigarette",
+    "free spirit",
+    "writer",
+    "millionaire",
+    "jewelry store",
+    "gold digger",
+    "older woman younger man relationship",
+    "kept man",
+    "rich woman",
+    "best friends"
+  ],
+  "mpaa": "NR",
+  "summaries": [
+    "A young New York socialite becomes interested in a young man who has moved into her apartment building, but her past threatens to get in the way.",
+    "Holly Golightly, an elegant Upper East Side socialite spending her time between wild parties and mysterious day trips to Sing Sing, is confident that she has seen and done everything before. But her life is about to get complicated. As if trying to find an identity weren't challenging enough, the impeccably dressed fortune hunter finds herself off guard when struggling writer Paul Varjak becomes her new neighbour. But Paul, too, isn't impervious to Holly's effortless allure. Little by little, as the handsome tenant surrenders to the moment, eager to hijink around the city in the name of fresh excitement, sublime feelings of tenderness flood Paul's world-weary heart. After all, the uninspired author and the unstoppable dream girl are meant for each other, even though they quietly struggle to keep their past at bay. Now, potent feelings have the final say; there's no room for pride in love. And in New York City's bustling Fifth Avenue, a romance blooms. Can an early morning breakfast at Tiffany's be the prelude to a breezy love affair?—Nick Riganas",
+    "Struggling writer Paul Varjak moves into a New York apartment building and becomes intrigued by his pretty, quirky neighbor Holly Golightly. Holly's lifestyle confuses and fascinates Paul; in public she flits through parties with a sexy, sophisticated air, but when they're alone she changes into a sweetly vulnerable bundle of neuroses.—filmfactsman"
+  ],
+  "synopsis": "Holly Golightly (AUDREY HEPBURN) lives in a brownstone on Manhattan's swank East Side. Totally madcap, she has a partially furnished apartment, owns a cat with no name, gets rid of the \"mean reds\" by visiting Tiffany's jewelry store, and is forever misplacing her door key, much to the dismay of her upstairs neighbor Mr. Yunioshi (MICKEY ROONEY), a Japanese photographer. Holly makes her living in two ways: she receives $50 from her gentlemen escorts whenever she needs powder room money, and she is paid $100 for each weekly trip she makes to Sing Sing Prison, where she visits Sally Tomato (ALAN REED), an ex-mobster. One day Paul Varjak (GEORGE PEPPARD), a young writer who is supported by an older woman nicknamed \"2E\" (PATRICIA NEAL), comes into Holly's life. Following one of Holly's wild cocktail parties hosted by her Hollywood agent, O.J. Berman (MARTIN BALSAM), Paul unexpectedly meets Doc Golightly (BUDDY EBSEN), a gentle Texan whom Holly married when she was only 15 years old. Holly explains to Paul that the marriage was annulled long ago, and he helps her send the heartbroken Doc away. After a day on the town together, Paul realizes that he is in love with Holly and proposes to her; but she is determined to marry José (VILALLONGA), a South American millionaire. However, when it is publicly revealed that Holly has been innocently carrying narcotics ring information from Sally Tomato to his New York associates, the stuffy José abandons her. Furious at everything and everyone, Holly kicks Cat out of her taxicab into the rain and decides to leave town for Brazil, but Paul lectures her and then goes out to find Cat. Holly realizes how much she is giving up and races through the wet New York streets to a happy reunion with Paul and Cat.",
+  "imdb_score": 7.6
+}

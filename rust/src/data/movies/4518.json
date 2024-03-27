@@ -1,0 +1,371 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/cCzvJ95pEB1I5cUX7Zjfl606noN.jpg",
+  "id": 4518,
+  "title": "Elizabeth",
+  "poster_path": "https://image.tmdb.org/t/p/w500/pkmS95lnTOnBFmG5g82aNSE3dkW.jpg",
+  "release_date": "1998-09-13",
+  "vote_average": 7.177,
+  "vote_count": 1304,
+  "popularity": 15.907,
+  "overview": "The story of the ascension to the throne and the early reign of Queen Elizabeth the First, the endless attempts by her council to marry her off, the Catholic hatred of her and her romance with Lord Robert Dudley.",
+  "imdb_id": "tt0127536",
+  "budget": 30000000,
+  "homepage": "",
+  "revenue": 82150642,
+  "runtime": 124,
+  "tagline": "Declared illegitimate aged 3. Tried for treason aged 21. Crowned Queen aged 25.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    "PolyGram Filmed Entertainment",
+    "Working Title Films",
+    "Channel Four Films"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Cate Blanchett",
+        "character": "Elizabeth I",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A3nZcGx0qUhbb9fpNK65oPgCJtC.jpg"
+      },
+      {
+        "name": "Joseph Fiennes",
+        "character": "Robert Dudley, Earl of Leicester",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sg5Z7nTvEPBqDKULvGXWzJRbnrU.jpg"
+      },
+      {
+        "name": "Geoffrey Rush",
+        "character": "Sir Francis Walsingham",
+        "profile_path": "https://image.tmdb.org/t/p/w185/npXFjaFQzBNroCEPllGPTZ5IisA.jpg"
+      },
+      {
+        "name": "Christopher Eccleston",
+        "character": "Duke of Norfolk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eZKYy6lxKFiO89TdKk3sX4gi9tD.jpg"
+      },
+      {
+        "name": "John Gielgud",
+        "character": "The Pope",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rSyG2ypOnMVOuGtDJMYt5VV1bMr.jpg"
+      },
+      {
+        "name": "Richard Attenborough",
+        "character": "Sir William Cecil",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gNfQNsx9SrQpHt8Eq6CUwycH9Iu.jpg"
+      },
+      {
+        "name": "Fanny Ardant",
+        "character": "Mary of Guise",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aBC52NP3VpCavgOAuS73shod1fM.jpg"
+      },
+      {
+        "name": "Éric Cantona",
+        "character": "Monsieur de Foix",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lMIXZd1QiHH7Y5emujCKGnRh6np.jpg"
+      },
+      {
+        "name": "Vincent Cassel",
+        "character": "Duc d'Anjou",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ykBEiVh6YQ9UmMAYUiQkZBH3VV4.jpg"
+      },
+      {
+        "name": "Kathy Burke",
+        "character": "Queen Mary Tudor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q3z7nP1ryyGuwixShrBmghcmm0F.jpg"
+      },
+      {
+        "name": "Edward Hardwicke",
+        "character": "Earl of Arundel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hR8LE66ObEsHKeFk20sHXCRjnca.jpg"
+      },
+      {
+        "name": "Emily Mortimer",
+        "character": "Kat Ashley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wsbq14Pr4jZzHu2fQNISRHpkPtM.jpg"
+      },
+      {
+        "name": "James Frain",
+        "character": "Alvaro de la Quadra",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Ara3C7D53uq7Oefdt4qRF5gGFJ.jpg"
+      },
+      {
+        "name": "Kelly Macdonald",
+        "character": "Isabel Knollys",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
+      },
+      {
+        "name": "Kenny Doughty",
+        "character": "Sir Thomas Elyot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lLsbZLO0JQPIiaRZTcVYbVxfv4m.jpg"
+      },
+      {
+        "name": "Daniel Craig",
+        "character": "John Ballard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg"
+      },
+      {
+        "name": "Alfie Allen",
+        "character": "Arundel's Son",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7gPpG0TBMX20tPhWC8BT47x2lnh.jpg"
+      },
+      {
+        "name": "Jamie Foreman",
+        "character": "Earl of Sussex",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t1sRr6SPX3BBPxa2QX4QuNHvdIL.jpg"
+      },
+      {
+        "name": "Lily Allen",
+        "character": "Lady in Waiting",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eFd1agkLtzEGfFY2IStCjPUxiWe.jpg"
+      },
+      {
+        "name": "Amanda Ryan",
+        "character": "Lettice Howard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yIJH20UUl3x2JulTGXMRrPlTO7j.jpg"
+      },
+      {
+        "name": "Sally Grey",
+        "character": "Lady in Waiting",
+        "profile_path": ""
+      },
+      {
+        "name": "Elika Gibbs",
+        "character": "Lady in Waiting",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah Owen",
+        "character": "Lady in Waiting",
+        "profile_path": ""
+      },
+      {
+        "name": "Kate Loustau",
+        "character": "Lady in Waiting",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uYfj2tQS8FBj28mY1uknfymcr4G.jpg"
+      },
+      {
+        "name": "Daniel Moynihan",
+        "character": "First Bishop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mEknWIDfNWsjL4h4Jio6f5i3mdt.jpg"
+      },
+      {
+        "name": "Jeremy Hawk",
+        "character": "Second Bishop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gnIafyUbTkaZvxJRMcJUUqLZHYN.jpg"
+      },
+      {
+        "name": "Daisy Bevan",
+        "character": "Arundel's Daughter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yMZrlOPLxwqNl666zdiKYxR5CBq.jpg"
+      },
+      {
+        "name": "Hayley Burroughs",
+        "character": "Lady in Waiting",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d5ET8xoHV9RH9RfU6kTnQAj0Csn.jpg"
+      },
+      {
+        "name": "Joe White",
+        "character": "Master of the Tower",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Andrews",
+        "character": "Norfolk's Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Ben Frain",
+        "character": "Young French Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Lewis Jones",
+        "character": "Priest",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Beint",
+        "character": "Bishop Carlisle",
+        "profile_path": ""
+      },
+      {
+        "name": "Angus Deayton",
+        "character": "Waad, Chancellor of the Eschequer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yKNPta0OzsIYPid8krhwovOGZfU.jpg"
+      },
+      {
+        "name": "Joseph O'Conor",
+        "character": "Earl of Derby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7b066eGR5KU3BsePlAl0T49luqm.jpg"
+      },
+      {
+        "name": "Brendan O'Hea",
+        "character": "Lord William Howard",
+        "profile_path": ""
+      },
+      {
+        "name": "Edward Highmore",
+        "character": "Lord Harewood",
+        "profile_path": ""
+      },
+      {
+        "name": "James Rowe",
+        "character": "Bishop (in Cellar)",
+        "profile_path": ""
+      },
+      {
+        "name": "Donald Pelmear",
+        "character": "Third Bishop",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Bevan",
+        "character": "Handsome Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nyeqZJr6QVwD3iuLgK5vRgIdcmP.jpg"
+      },
+      {
+        "name": "Liz Giles",
+        "character": "Female Martyr",
+        "profile_path": ""
+      },
+      {
+        "name": "Rod Culbertson",
+        "character": "Master Ridley",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Stockbridge",
+        "character": "Palace Chamberlain",
+        "profile_path": ""
+      },
+      {
+        "name": "Valerie Gale",
+        "character": "Mary's Dwarf",
+        "profile_path": ""
+      },
+      {
+        "name": "George Antoni",
+        "character": "King Philip II of Spain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cvLWl0uSFMX79ZCUW6WFODgb5B7.jpg"
+      },
+      {
+        "name": "Wayne Sleep",
+        "character": "Dance Tutor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l6wtrz54hbtrVY43cC6wkFJTf3Q.jpg"
+      },
+      {
+        "name": "Charles Cartmell",
+        "character": "Dudley's Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Edward Purver",
+        "character": "Dudley's Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Vladimir Vega",
+        "character": "Vatican Cardinal",
+        "profile_path": ""
+      },
+      {
+        "name": "Jennifer Lewicki",
+        "character": "Arundel's Housemaid",
+        "profile_path": ""
+      },
+      {
+        "name": "Viviane Horne",
+        "character": "Arundel's Wife",
+        "profile_path": ""
+      },
+      {
+        "name": "Nick Smallman",
+        "character": "Walsingham's Man",
+        "profile_path": ""
+      },
+      {
+        "name": "James Britton",
+        "character": "Member of Duc d'Anjou's Group (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean-Pierre Léaud",
+        "character": "(uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eJ6Cz3XPuIwnhvlrLQfcEhNYzZ5.jpg"
+      },
+      {
+        "name": "Ben Mars",
+        "character": "Royal Guard of Honour (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel O'Meara",
+        "character": "Henchman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jocelyn Quivrin",
+        "character": "French Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pkAf1NTirff030AuwBzRthqfrgk.jpg"
+      },
+      {
+        "name": "Matthew Rhys",
+        "character": "(uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1HO4P8rMOPLRUUfz9m43zkzJNCK.jpg"
+      },
+      {
+        "name": "Jason Savin",
+        "character": "Courtier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Christian Simpson",
+        "character": "Royal Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9jnziSb8VZUBWQsaDiEk4wAaDK5.jpg"
+      },
+      {
+        "name": "Liam Foley",
+        "character": "Norfolk's Man",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Shekhar Kapur",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/leGRUMubTyQ3arKUIMnuWYx5M2e.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "queen",
+    "duke",
+    "treason",
+    "queen elizabeth i",
+    "tudor",
+    "historical figure",
+    "catholic",
+    "protestant",
+    "palace intrigue",
+    "16th century",
+    "british monarchy",
+    "lgbt interest"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "The early years of the reign of Elizabeth I of England and her difficult task of learning what is necessary to be a monarch.",
+    "This film details the ascension to the throne and the early reign of Queen Elizabeth the First, as played by Cate Blanchett. The main focus is the endless attempts by her council to marry her off, the Catholic hatred of her and her romance with Lord Robert Dudley.—CharmedGirl47",
+    "Elizabeth Tudor becomes queen of a divided and dangerous England in 1558. She is roundly perceived as weak by threats from within and abroad, and she is strongly advised to marry by counsel William Cecil. But she will be married only to her country. Intelligent and cautious, she must choose where to place her trust: with her shrewd secretary Walsingham, a master of espionage, or her secret lover, Sir Robert Dudley.—Jwelch5742",
+    "When catholic Queen Mary dies the succession goes to Elizabeth, the Protestant half-sister Mary was not prepared to execute. The new queen finds herself surrounded by advisors, some supportive but some plotting to restore the Catholic line by almost any means. She is also under pressure to marry and produce an heir, but her lover Lord Robert Dudley is not considered suitable. Elizabeth realises she has some decisions to make, the most important being who rules England.—Jeremy Perkins {J-26}",
+    "It's 1553 and King Henry VIII has died. His sickly son Edward VI reigns for a short while before dying so his eldest daughter, Mary, a childless Catholic, has ascended to the throne. Under Mary's reign, Protestants, known as heretics, are being burned to death. Mary is ill and her half sister, Protestant Elizabeth, is next in line to the throne. Regardless of Mary being queen, she would never allow a Protestant to rule England. Although there is rumor of a Protestant uprising, Mary knows that Elizabeth is not behind this maneuver, yet Mary brings Elizabeth in under possible charges of treason. Elizabeth denies all and denies Mary's wish to uphold the Catholic faith once on the throne. Upon Mary's death in 1558 and Elizabeth's ascension to the throne, England is weak and in disarray. Many are out to unseat Elizabeth, 'a heretic'. To ensure her security on the throne, Elizabeth has to show some leadership, which includes, according to some of her many advisors, establishment of a single Protestant based Church of England, marriage to a suitable husband and the production of an heir. That husband however is not to be Lord Robert Dudley, Elizabeth's lover. Elizabeth needs to learn which of her advisors to listen to as some are not out for her best interest.—Huggo"
+  ],
+  "synopsis": "In 1558, Catholic Queen Mary (Kathy Burke) dies from a cancerous tumour in her womb. Mary's heir and Protestant half-sister, Elizabeth (Cate Blanchett), under house arrest for conspiracy charges, is freed and crowned the Queen of England.As briefed by her adviser William Cecil (Richard Attenborough), Elizabeth inherits a distressed England besieged by debts, crumbling infrastructure, hostile neighbours, and treasonous nobles within her administration, chief among them the Duke of Norfolk (Christopher Eccleston). Cecil advises Elizabeth to marry, produce an heir, and secure her rule. Unimpressed with her suitors, Elizabeth delays her decision and continues her secret affair with Lord Robert Dudley (Joseph Fiennes). Cecil appoints Francis Walsingham (Geoffrey Rush), a Protestant exile returned from France, to act as Elizabeth's bodyguard and adviser.Mary of Guise (Fanny Ardant) lands an additional 4,000 French troops in neighbouring Scotland. Unfamiliar with military strategy and browbeaten by Norfolk at the war council, Elizabeth orders a military response, which proves disastrous when the professional French soldiers defeat the inexperienced, ill-trained English forces. Walsingham tells Elizabeth that Catholic lords and priests intentionally deprived Elizabeth's army of proper soldiers and used their defeat to argue for Elizabeth's removal. Realising the depth of the conspiracy against her and her dwindling options, Elizabeth accepts Mary of Guise's conditions to consider marrying her nephew Henry of France.To stabilize her rule and heal England's religious divisions, Elizabeth proposes the Act of Uniformity, which unites English Christians under the Church of England and severs their connection to the Vatican. In response to the Act's passage, the Vatican sends a priest to England to aid Norfolk and his cohorts in their growing plot to overthrow Elizabeth. Unaware of the plot, Elizabeth meets Henry of France but ignores his advances in favour of Lord Robert. William Cecil confronts Elizabeth over her indecisiveness about marrying and reveals Lord Robert is married to another woman. Elizabeth rejects Henry's marriage proposal when she discovers he is a cross-dresser and confronts Lord Robert about his secrets, fracturing their idyllic affair and banishing him from her private residence.Elizabeth survives an assassination attempt, whose evidence implicates Mary of Guise. Elizabeth sends Walsingham to meet with Mary secretly in Scotland, under the guise of once again planning to marry Henry. Instead, Walsingham assassinates Guise, inciting French enmity against Elizabeth. When William Cecil orders her to solidify relations with the Spanish, Elizabeth dismisses him from her service, choosing instead to follow her own counsel.Walsingham warns of another plot to kill Elizabeth spearheaded by the priest from Rome carrying letters of conspiracy. Under Elizabeth's orders, Walsingham apprehends the priest, who divulges the names of the conspirators and a Vatican agreement to elevate Norfolk to the English crown if he weds Mary, Queen of Scots. Walsingham arrests Norfolk and executes him and every conspirator except Lord Robert. Elizabeth grants Lord Robert his life as a reminder to herself how close she came to danger.Drawing inspiration from the divine, Elizabeth cuts her hair and models her appearance after the Virgin Mary. Proclaiming herself married to England, she ascends the throne as \"the Virgin Queen.\"",
+  "imdb_score": 7.4
+}

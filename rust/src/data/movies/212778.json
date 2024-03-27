@@ -1,0 +1,328 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/12rDMkiQFeXrLhlIbJpArL8wOHf.jpg",
+  "id": 212778,
+  "title": "Chef",
+  "poster_path": "https://image.tmdb.org/t/p/w500/yMtKHR6VG1Yagvv5F7IFpsGBm66.jpg",
+  "release_date": "2014-05-08",
+  "vote_average": 7.118,
+  "vote_count": 3082,
+  "popularity": 33.146,
+  "overview": "When Chef Carl Casper suddenly quits his job at a prominent Los Angeles restaurant after refusing to compromise his creative integrity for its controlling owner, he is left to figure out what's next. Finding himself in Miami, he teams up with his ex-wife, his friend and his son to launch a food truck. Taking to the road, Chef Carl goes back to his roots to reignite his passion for the kitchen -- and zest for life and love.",
+  "imdb_id": "tt2883512",
+  "budget": 11000000,
+  "homepage": "http://chefthefilm.com/",
+  "revenue": 45967935,
+  "runtime": 114,
+  "tagline": "Starting from scratch never tasted so good.",
+  "genres": [
+    "Comedy"
+  ],
+  "production_companies": [
+    "Altus Media",
+    "Fairview Entertainment",
+    "Prescience"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jon Favreau",
+        "character": "Carl Casper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+      },
+      {
+        "name": "John Leguizamo",
+        "character": "Martin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+      },
+      {
+        "name": "Bobby Cannavale",
+        "character": "Tony",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gYQwTbEj5IBPYKLGKgrsNGrWAMl.jpg"
+      },
+      {
+        "name": "Emjay Anthony",
+        "character": "Percy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u7R4CWfmTqsLexejsMNxWrPYKMG.jpg"
+      },
+      {
+        "name": "Scarlett Johansson",
+        "character": "Molly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6NsMbJXRlDZuDzatN2akFdGuTvx.jpg"
+      },
+      {
+        "name": "Dustin Hoffman",
+        "character": "Riva",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
+      },
+      {
+        "name": "Sofía Vergara",
+        "character": "Inez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kLkzvEwCUHwqBu4SXBo3pd7si7P.jpg"
+      },
+      {
+        "name": "Oliver Platt",
+        "character": "Ramsey Michel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/toAVx1NyoVbFkxh0ydRsD1fP6pV.jpg"
+      },
+      {
+        "name": "Amy Sedaris",
+        "character": "Jen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7FX1yxq1SBFxxzgDPEdhrtgS1kk.jpg"
+      },
+      {
+        "name": "Robert Downey Jr.",
+        "character": "Marvin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/im9SAqJPZKEbVZGmjXuLI4O7RvM.jpg"
+      },
+      {
+        "name": "Russell Peters",
+        "character": "Miami Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x0o1NclxcwvvliVR95NKjgMDwD7.jpg"
+      },
+      {
+        "name": "Chase Grimm",
+        "character": "Vendor",
+        "profile_path": ""
+      },
+      {
+        "name": "Will Schutze",
+        "character": "Mr. Bonetangles",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ix3lXqK089TSjxn2h6ewQgHkOL5.jpg"
+      },
+      {
+        "name": "Gloria Sandoval",
+        "character": "Flora",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rOUi5HwAXPfOhd9SkHs9vxLpWaP.jpg"
+      },
+      {
+        "name": "Jose C. Hernandez",
+        "character": "Abuelito",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7i2GjG42caksoF5hxPYYUwu0JgP.jpg"
+      },
+      {
+        "name": "Alberto Salas",
+        "character": "Bandmember",
+        "profile_path": ""
+      },
+      {
+        "name": "Alfredo Ortiz",
+        "character": "Bandmember",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Palacio",
+        "character": "Bandmember",
+        "profile_path": ""
+      },
+      {
+        "name": "Mauricio Del Monte",
+        "character": "Bandmember",
+        "profile_path": ""
+      },
+      {
+        "name": "Leonardo Da Nilo",
+        "character": "Versailles Host",
+        "profile_path": ""
+      },
+      {
+        "name": "Nili Fuller",
+        "character": "Marvin's Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zVzsAMeZ94uh8VCY0jpcTDXmiZC.jpg"
+      },
+      {
+        "name": "Charles Lao",
+        "character": "Kitchen Supply Clerk",
+        "profile_path": ""
+      },
+      {
+        "name": "Benjamin Jacob",
+        "character": "Benjamin Jacob",
+        "profile_path": ""
+      },
+      {
+        "name": "Aaron Franklin",
+        "character": "Aaron Franklin",
+        "profile_path": ""
+      },
+      {
+        "name": "Gary Clark Jr.",
+        "character": "Gary Clark Jr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w0ePaQi3UUOaejzNGmHpc2V87lK.jpg"
+      },
+      {
+        "name": "Roy Choi",
+        "character": "Roy Choi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/grNNMyYzZ5XM9otDvD8DochasdU.jpg"
+      },
+      {
+        "name": "Santos Caraballo",
+        "character": "Club Salsa Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/idOW0Yyt3xlIA38XIuLUFFwO4dq.jpg"
+      },
+      {
+        "name": "Michael Patrick Carmody",
+        "character": "Waiter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Carretta",
+        "character": "Cuban Restaurant Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Christina Cha",
+        "character": "Shocked Restaurant Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Cody Daniel",
+        "character": "Allen Chipworth (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Safi El Masri",
+        "character": "South Beach Guy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rachel Faulkner",
+        "character": "Food Truck Customer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fYxv7Q1MgANSQUAQXt9iwzBBCYh.jpg"
+      },
+      {
+        "name": "Michael P Gardner",
+        "character": "Himself (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Julian Graham",
+        "character": "Shocked Restaurant Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fi5spsW6lyWpe8sgvFgxMuZOGUr.jpg"
+      },
+      {
+        "name": "Josh Gutiérrez",
+        "character": "El Cabbie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yVLKdvDar8t3O55gBIH1wbylGxu.jpg"
+      },
+      {
+        "name": "Priyom Haider",
+        "character": "Food Truck Patron #1 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tj3Jt9khQZfAH0l15055IUUMmAt.jpg"
+      },
+      {
+        "name": "Miguel Izaguirre",
+        "character": "Food Truck Customer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Colombe Jacobsen-Derstine",
+        "character": "Lisa (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yiPaoeZCANWVT1vWDGgioycnUDT.jpg"
+      },
+      {
+        "name": "Noa Lindberg",
+        "character": "Hungry Jogger (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4c7kBJVQGbh7dpwQqo53k83v4Tg.jpg"
+      },
+      {
+        "name": "Teebone Mitchell",
+        "character": "Inez Chauffeur (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Nunez",
+        "character": "Salsa Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rigo Obezo",
+        "character": "Construction Worker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mI2umXRrINFFbAXJBqmYUK5p1UT.jpg"
+      },
+      {
+        "name": "Jay Pennington",
+        "character": "Cowboy Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tBUJIa55Sr9Z8zk09jk33GpvZtT.jpg"
+      },
+      {
+        "name": "Tanner Priest",
+        "character": "Foodie (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Arley Ryder",
+        "character": "Food Truck Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Rylander",
+        "character": "Farmers Market Shopper (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jenna Saab",
+        "character": "Concert Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pUFpuRjq3gHBa7oHyAcaZuAEvwm.jpg"
+      },
+      {
+        "name": "Sam Stinson",
+        "character": "Customer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gIobl17w2RUsoj3cG7EpvC5x453.jpg"
+      },
+      {
+        "name": "Ty Suite",
+        "character": "Austin Food Truck Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gary Teague",
+        "character": "Franklin Barbecue Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6krRDsrYNOq0iAl9mSC1b7fofqN.jpg"
+      },
+      {
+        "name": "Minn Vo",
+        "character": "Salsa Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "William Shannon Williams",
+        "character": "Food Truck Customer (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jon Favreau",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "parent child relationship",
+    "restaurant owner",
+    "road trip",
+    "food",
+    "chef",
+    "ex-husband ex-wife relationship",
+    "twitter",
+    "social media",
+    "duringcreditsstinger",
+    "food truck",
+    "gastronomia"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A head chef quits his restaurant job and buys a food truck in an effort to reclaim his creative promise, while piecing back together his estranged family.",
+    "Carl Casper is an acclaimed chef with a family life that seems as decaying as his artistic freedom. Those frustrations boil over into a raucous viral-videoed public confrontation against a restaurant critic who panned his cooking of food that his boss ordered him to make against his instincts. Now with his career ruined, Carl's ex-wife offers an unorthodox solution in Miami: refit an old food truck to offer quality cooking on his own terms. Now with his young son, Percy, and old colleague, Martin, helping, Carl takes a working trip across America with that truck to rediscover his gastronomic passion. With Percy's tech savvy and Martin's enthusiasm, Carl finds that he is creating a traveling sensation on the way home. In doing so, Carl discovers he is serving up more than simply food, but also a deeper connection with his life and his family that is truly delicious in its own way.—Kenneth Chisholm (kchishol@rogers.com)",
+    "Miami-born Carl Casper is the head chef of Gauloise in Brentwood, California. While popular with his kitchen staff and hostess Molly, the restaurant owner Riva wants Carl to stick to \"classics\" rather than innovative dishes. Carl has a strained relationship with his tech-savvy preteen son Percy and rich ex-wife Inez. When Carl has the chance to serve prestigious critic and blogger Ramsey Michel, Riva demands he stick with old favorites at the last minute; Carl concedes, leading to a scathing review. On Twitter, Carl insults Ramsey for the review, not realizing that his reply is public, and gains a large Twitter following. Carl comes up with a new menu that his staff loves and invites Ramsey to a \"rematch\"; however, he quits after confronting Riva, who wants the old menu again..",
+    "Los Angeles-based executive chef Carl Casper was once deemed the one to watch within the business. But years working for Riva at upscale Gauloise, Riva who promised him creative control but who has ended up dictating that he cater the menu and his cooking to the tastes of the masses, Carl has lost that promise, although his staff, including his sous chef Tony, the sommelier Molly, but especially one of the line cooks Martin, still admire his talent. Carl may not realize how much this stifling has affected his psyche, that negativity which led to the dissolution of his marriage to Inez, and he having a strained relationship with his and Inez's ten year old son Percy, who only wants to spend quality time with his physically present but mentally absent father in their mandated time together. In being a social media newbie, Carl ends up having a very public breakdown. In the aftermath, Carl, with nothing else he wants to do but be a chef, has to reinvent himself in some manner to get back on his feet. He decides to take Inez up a long standing offer concerning her first husband, Miami-based entrepreneur Marvin who has a hygiene fetish. Despite not fully trusting Marvin, Carl may rediscover his passion for cooking and in the process his passion for life in general, that passion which may bring those things of importance that he has lost in the ten years back.—Huggo",
+    "Carl Casper is a disillusioned chef fed up with his restaurant's management, poor reviews and lack of creativity. After an online battle with a well-known critic leads to further frustration, Carl decides to leave and go solo as a food truck operator in a bid to rediscover his flair for cooking."
+  ],
+  "synopsis": "Miami-born Carl Casper (Jon Favreau) is the head chef of Gauloise in Brentwood, Los Angeles. While popular with his kitchen staff and hostess Molly (Scarlett Johansson), Carl clashes with the restaurant's owner, Riva (Dustin Hoffman), who wants him to stick to \"classics\" rather than innovative dishes. Carl has a strained relationship with his tech-savvy preteen son, Percy (Emjay Anthony), and rich ex-wife, Inez (Sofía Vergara).When Carl has the chance to serve prestigious food critic and internet food blogger Ramsey Michel (Oliver Platt), Riva demands he prepare old favorites at the last minute (Riva asks Carl to stick to the tried and the tested, which he thinks is what people come to the restaurant for. Carl says the place has been in a creative rut for 5 years, but Riva would have none of it); Carl concedes, leading to a scathing review (2 stars and a personal insult insinuating that Carl gained weight because he ate all the food sent back to the kitchen).Carl works all night in his kitchen and cooks up a new menu, which his staff loves. They tell him not to worry about twitter. Carl is intrigued as he is not on twitter and his staff won't tell him what's going on. Percy signs Carl up on twitter. Percy shows Carl how Ramsey's review has gone viral and has been re-tweeted many times over.Carl insults Ramsey on Twitter (saying he wouldn't know a good meal if it sat on his face), not realizing that his reply is public (with Ramsey replying and re-tweeting to his 185K followers. He wrote he would rather have Carl sit on his face than go through the lava cake again :)) and gains a large online following. Carl invites Ramsey to a \"rematch\" but leaves after confronting Riva (who wants Carl to tweet and apology to Ramsey and serve the same menu), who wants the old menu again.\nAt home, Carl prepares the menu he wanted, while his sous-chef Tony (Bobby Cannavale) (who refuses to leave with Carl when he asked him to) serves Ramsey the same dishes from his prior visit. Ramsey tweets negatively about Carl calling him a no show, causing Carl to confront him at the restaurant and publicly berate him. Videos of Carl's meltdown go viral, leaving him humiliated and unemployable. Inez's PR rep Jen (Amy Sedaris) tells Carl that he might have a shot at Hell's kitchen after his \"stunt\". He has 20K followers on twitters now.\nMolly encourages Carl not to get a new job, working for someone else and wants him to do his own thing. She also proposes a trip so that Carl gets to spend time with his son Percy.Carl reluctantly accepts Inez's invitation to accompany her and Percy to Miami, where he rediscovers his love for Cuban cuisine. At Inez's encouragement, her ex-husband Marvin (Robert Downey Jr.) offers Carl a dilapidated food truck. Carl gets down to fixing it and its very hard work. Carl and Percy bond while restoring the truck and buying groceries, and Carl gives him a chef's knife. Martin (John Leguizamo), Carl's friend and former line cook, turns down his promotion at Gauloise to join Carl, who has reignited his passion as a chef. Martin gathers some Cubans from Marvin's work site (he owns an equipment rental company) who agree to work for Carl, cleaning the truck and loading all the new equipment if Carl cooks them a good meal. In no time, the truck is ready.\nCarl also teaches Percy to have pride in what he is doing and not take short cuts, when Percy tries to serve a burnt sandwich to the workers as it is free for them. Martin calls in a favor from his cousin to give the truck a fresh paint. He names the truck \"El Jeffe\".Carl, Martin, and Percy drive the truck across the country to Los Angeles, serving Cuban sandwiches and Yuca fries. Percy promotes them on social media (posting 6 second videos of their entire trip, taking 1 second daily snippets, as well as their live Geo-tagged location when they set up shop in a city) (Percy learns to use cornstarch on the balls to suck up extra moisture), and they find success in New Orleans and Austin, where their daily specials include Po' boys and barbecued brisket, made with local ingredients.Back in Los Angeles, having strengthened his relationship with Percy (Carl sits Percy down and says that eventually Percy will have to go back to school and things between them will go back to before, and not like what they were in the last 2 weeks), Carl accepts his son's offer to help with the food truck. Ramsey visits the truck to explain his bad review: though an early fan of Carl, he was disappointed by a meal he felt was beneath Carl's skills. Impressed with the chef's return to form, Ramsey offers to bankroll a new restaurant where Carl will have full creative control.\nSix months later, the successful new restaurant is closed for a private event: Carl and Inez's remarriage ceremony.",
+  "imdb_score": 7.3
+}

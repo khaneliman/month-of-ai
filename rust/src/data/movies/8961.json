@@ -1,0 +1,621 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/gxSVZCUlDd8upT1G2wdrUdz2hxG.jpg",
+  "id": 8961,
+  "title": "Bad Boys II",
+  "poster_path": "https://image.tmdb.org/t/p/w500/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg",
+  "release_date": "2003-07-18",
+  "vote_average": 6.6,
+  "vote_count": 5049,
+  "popularity": 33.363,
+  "overview": "Detectives Marcus Burnett and Mike Lowrey of the Miami Narcotics Task Force are tasked with stopping the flow of the drug ecstasy into Miami. They track the drugs to the whacked-out Cuban drug lord Johnny Tapia, who is also involved in a bloody war with Russian and Haitian mobsters. If that isn't bad enough, there's tension between the two detectives when Marcus discovers that playboy Mike is secretly romancing Marcus’ sister, Syd.",
+  "imdb_id": "tt0172156",
+  "budget": 130000000,
+  "homepage": "https://www.sonypictures.com/movies/badboysii",
+  "revenue": 273300000,
+  "runtime": 147,
+  "tagline": "If you can't stand the heat, get out of Miami.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Comedy"
+  ],
+  "production_companies": [
+    "Columbia Pictures",
+    "Don Simpson/Jerry Bruckheimer Films",
+    "Jerry Bruckheimer Films",
+    "Columbia Pictures Corporation"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Will Smith",
+        "character": "Detective Mike Lowrey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1QqaRZ8neYlqLx7ODZC4as47wUV.jpg"
+      },
+      {
+        "name": "Martin Lawrence",
+        "character": "Detective Marcus Burnett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/36GdxkrHWyaQkZ8e9icDOd5f5bl.jpg"
+      },
+      {
+        "name": "Gabrielle Union",
+        "character": "Sydney 'Syd' Burnett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/toeSCybsYufRKfgz77AKy4C8axD.jpg"
+      },
+      {
+        "name": "Jordi Mollà",
+        "character": "Hector Juan Carlos 'Johnny' Tapia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2XEuPT0T9SRwcpsOXD9vMpm4Vad.jpg"
+      },
+      {
+        "name": "Peter Stormare",
+        "character": "Alexei",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5muzSVt66Qxc8KuVbq0phZIN9tj.jpg"
+      },
+      {
+        "name": "Joe Pantoliano",
+        "character": "Captain C. Howard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cXMOad9KKVBK1lg8EjEbcNPn1OT.jpg"
+      },
+      {
+        "name": "Theresa Randle",
+        "character": "Theresa Burnett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/myBU9qG6wXHJfYF9cl07rvQmhUB.jpg"
+      },
+      {
+        "name": "Michael Shannon",
+        "character": "Floyd Poteet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+      },
+      {
+        "name": "Jon Seda",
+        "character": "Roberto",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4Wwgtvieu2j4f6AHqUMgnDFufa5.jpg"
+      },
+      {
+        "name": "Yul Vazquez",
+        "character": "Mateo Reyes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8AeBmhIMia6gF5PO5SF3PRznD3M.jpg"
+      },
+      {
+        "name": "Jason Manuel Olazabal",
+        "character": "Marco Vargas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z5YiTOGBvWfKwy8ZEhTenCYwrDc.jpg"
+      },
+      {
+        "name": "Otto Sanchez",
+        "character": "Carlos",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jnW64yR3TUQk9o3EBLeIR6bZ01r.jpg"
+      },
+      {
+        "name": "Henry Rollins",
+        "character": "TNT Leader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2E0cZdoJsdt1Lv4waG3s6fsfJeU.jpg"
+      },
+      {
+        "name": "Antoni Corone",
+        "character": "DEA Tony Dodd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/85G9purVJGnYwu1wCVQO8ZNHr8Z.jpg"
+      },
+      {
+        "name": "Gary Nickens",
+        "character": "TNT Fanuti",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kM2suyXtG9BVpOKbBSz5GE2oqPr.jpg"
+      },
+      {
+        "name": "Rey Hernandez",
+        "character": "TNT Zank",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A5sN9Mr9uKvOmqz0zXTiMge7lVS.jpg"
+      },
+      {
+        "name": "Charlie Johnson Jr.",
+        "character": "TNT Lockman",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Villaverde",
+        "character": "TNT Dexter",
+        "profile_path": ""
+      },
+      {
+        "name": "John Salley",
+        "character": "Fletcher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/efN5d1FEOVsnvxospYfvn9ebwsk.jpg"
+      },
+      {
+        "name": "Reynaldo Gallegos",
+        "character": "Tito Vargas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x1JFYhTI4Pu1Dtj45YRf5mIHBtK.jpg"
+      },
+      {
+        "name": "Veryl Jones",
+        "character": "DEA Taylor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mkkSHQHTQQV245YOvmMb4FHbC4F.jpg"
+      },
+      {
+        "name": "Tim Powell",
+        "character": "DEA Snell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bRtzJb88LnkQAOkXQx8qpc0ziS9.jpg"
+      },
+      {
+        "name": "Phil Owens",
+        "character": "AC DEA",
+        "profile_path": ""
+      },
+      {
+        "name": "Timothy Adams",
+        "character": "DEA Van Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fJgSUWCVxCgbyarN5DnTyx081a4.jpg"
+      },
+      {
+        "name": "Keith Hudson",
+        "character": "DEA Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s4m9nHJRaOYeQkYdh5pLt5bqmx5.jpg"
+      },
+      {
+        "name": "Rich Kelley",
+        "character": "DEA Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4tFIz2j9iYwLXLCVp2oQjYmydHk.jpg"
+      },
+      {
+        "name": "Dave Corey",
+        "character": "FBI Eames",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Erfurth",
+        "character": "Alpha 12",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sLZSTEIqopOXzJuj3CClVJsj4RF.jpg"
+      },
+      {
+        "name": "Jennifer Diaz",
+        "character": "Lupe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qcDfUHQkPuBYhnk1C4d5bl7QGtv.jpg"
+      },
+      {
+        "name": "R.E. Rodgers",
+        "character": "Delongpre",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dD6rZpx7V60eTIoL7dr5hn7gBSG.jpg"
+      },
+      {
+        "name": "Chris Charles Herbert",
+        "character": "Coast Guard Radio Operator",
+        "profile_path": ""
+      },
+      {
+        "name": "Nelson J. Perez",
+        "character": "Coast Guard Captain",
+        "profile_path": ""
+      },
+      {
+        "name": "Bobby Talbert",
+        "character": "AWAC Techie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pT3On0i5Cw4O9qjHpwbcQtbzwcV.jpg"
+      },
+      {
+        "name": "Nancy Duerr",
+        "character": "Marcus' Police Psychologist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pgFNyMwhURnetSEW30bhYfN4NXK.jpg"
+      },
+      {
+        "name": "Ivelin Giro",
+        "character": "Mike's Police Psychologist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ihx0eW3RZUyxIjFo5eLENZRjatJ.jpg"
+      },
+      {
+        "name": "Damaris Justamante",
+        "character": "Group Therapist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r8a4DF2v1uZBYjgAGCSRT2KL07y.jpg"
+      },
+      {
+        "name": "Bill Cordell",
+        "character": "Doctor",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Warren",
+        "character": "Medical Examiner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gX2gm3KCyBAhWc7WViGY7jyhlyv.jpg"
+      },
+      {
+        "name": "Dennis Greene",
+        "character": "Reggie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1tCnSYtjMtm4kbfNTzLbl0FwkC7.jpg"
+      },
+      {
+        "name": "Bianca Bethune",
+        "character": "Megan Burnett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p3XdSCPD2pmoj52mAKDnl87fG2U.jpg"
+      },
+      {
+        "name": "Scott Cumberbatch",
+        "character": "Quincy Burnett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qN4KnzaPF0QeMoSWaJ9zMPuHV7T.jpg"
+      },
+      {
+        "name": "Mason Rock Bay",
+        "character": "Mason the Mastiff",
+        "profile_path": ""
+      },
+      {
+        "name": "Gloria Irizarry",
+        "character": "Donna Maria Tapia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hPg6pGfiajqcuf1CSdCiQ0V7RH0.jpg"
+      },
+      {
+        "name": "Alissa Mullins-Diaz",
+        "character": "Tapia's Daughter",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Francis",
+        "character": "Ice Van Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Pedro Telémaco",
+        "character": "Baseball Cap Cuban",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Campbell",
+        "character": "Shadowy Figure",
+        "profile_path": ""
+      },
+      {
+        "name": "Jay A. Boutwell",
+        "character": "Mortuary Security Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Correa",
+        "character": "Mortuary Security Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qcg1q4zZZOdTPvDMSGUibZTrjwU.jpg"
+      },
+      {
+        "name": "Gino Salvano",
+        "character": "Tapia Muscle Crew",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f2MF86LpUGMkYrxosi9LQvhWzBL.jpg"
+      },
+      {
+        "name": "Ralph Navarro",
+        "character": "Tapia Muscle Crew",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4wxfDkHHSl6DxWN4nVirAv8Raly.jpg"
+      },
+      {
+        "name": "Fernando Gaviria",
+        "character": "Tapia Muscle Crew",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Y0gpwaNIOahLHeYWAIRB9IFtGU.jpg"
+      },
+      {
+        "name": "Renee Reilly",
+        "character": "Hot South Beach Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cswTTfCvfc7GO80KdmxIqbdO76S.jpg"
+      },
+      {
+        "name": "Cash Casia",
+        "character": "Hot South Beach Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5paeMZ8EShbVQHLtnsjK3o4AhGk.jpg"
+      },
+      {
+        "name": "James Zelley",
+        "character": "Klan Leader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qV3oHLRYLFnK4i5b3ndkWlVTmze.jpg"
+      },
+      {
+        "name": "Bubba Baker",
+        "character": "Klansman",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Gibb",
+        "character": "Klansman",
+        "profile_path": ""
+      },
+      {
+        "name": "Emerson Forth",
+        "character": "Boat Dock Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Charles",
+        "character": "Swamp Rat",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j4EYfkpt4DIofyZUcoaVl4ugd6E.jpg"
+      },
+      {
+        "name": "Oleg Taktarov",
+        "character": "Josef",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ueTdaRKPxbevozBVkdLgtuLFBvK.jpg"
+      },
+      {
+        "name": "J. Michael Tiedeberg",
+        "character": "Cigar Smoking Thug",
+        "profile_path": ""
+      },
+      {
+        "name": "Treva Etienne",
+        "character": "Icepick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4fbALszVEROvVmlg04Z0aqQwGn7.jpg"
+      },
+      {
+        "name": "Kiko Ellsworth",
+        "character": "Blond Dread",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w2oHXWFFgejzhxpNUZ5iZwISTvd.jpg"
+      },
+      {
+        "name": "Dieudonne S. Abel",
+        "character": "Haitian Gang",
+        "profile_path": ""
+      },
+      {
+        "name": "Gregory Bastien",
+        "character": "Haitian Gang",
+        "profile_path": ""
+      },
+      {
+        "name": "Shannon Briggs",
+        "character": "Haitian Gang",
+        "profile_path": ""
+      },
+      {
+        "name": "Greg Wayne Elam",
+        "character": "Haitian Gang",
+        "profile_path": ""
+      },
+      {
+        "name": "Irwin Gould",
+        "character": "Haitian Gang",
+        "profile_path": ""
+      },
+      {
+        "name": "Carlos Guity",
+        "character": "Haitian Gang",
+        "profile_path": "https://image.tmdb.org/t/p/w185/seJWDooNw72fOxZw4VR37RcQYAb.jpg"
+      },
+      {
+        "name": "Merdock Malcolm Mercer",
+        "character": "Haitian Gang",
+        "profile_path": ""
+      },
+      {
+        "name": "Reggie Pierre",
+        "character": "Haitian Gang",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yCAxUxnslIwpFPNWAmQ6qTgzVRv.jpg"
+      },
+      {
+        "name": "Bruno Ramos",
+        "character": "Haitian Gang",
+        "profile_path": ""
+      },
+      {
+        "name": "Reggie Mann Stanley",
+        "character": "Haitian Gang",
+        "profile_path": ""
+      },
+      {
+        "name": "Todd Rogers Terry",
+        "character": "Haitian Gang",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bURC1hXV2DFVoRtEARIGK269L1G.jpg"
+      },
+      {
+        "name": "Raymond Tong",
+        "character": "Haitian Gang",
+        "profile_path": ""
+      },
+      {
+        "name": "Tiara Harris",
+        "character": "Haitian Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Edward Finlay",
+        "character": "Rave Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i5oTobuI7F409PGUbSTME9FNJKp.jpg"
+      },
+      {
+        "name": "Sharon Wilkins",
+        "character": "Heavy Black Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fVvxdXzgh9rKTZ7yeqSlwobG8v8.jpg"
+      },
+      {
+        "name": "Anthony Giaimo",
+        "character": "Gay Hairdresser",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g9wc6V6ZArCYUAcm8evXK5ClZpn.jpg"
+      },
+      {
+        "name": "Jamaica Carter",
+        "character": "Gay Hairdresser",
+        "profile_path": ""
+      },
+      {
+        "name": "Bryan Bottinelli",
+        "character": "Little Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "J.D. Walsh",
+        "character": "Sales Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5wjykrpgwY1DoaRGJOE8ViTf4DY.jpg"
+      },
+      {
+        "name": "Michael McDunough",
+        "character": "Store Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Sean Lampkin",
+        "character": "Zook Pest Control Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ufxnU4kjd0PB5bU1NKMHrFMM5pu.jpg"
+      },
+      {
+        "name": "Michael Bay",
+        "character": "Crappy Car Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rkC7lei20x5xlFH4SivAXXBh6uR.jpg"
+      },
+      {
+        "name": "Terrence J. Crowley",
+        "character": "Car Salesman",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Marino",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/baSy4h3NjMlJYP69TSzqPcwUYYn.jpg"
+      },
+      {
+        "name": "Peter Donald Badalamenti II",
+        "character": "Guy in Holding Area",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hvLW1m2vQJTraIkrOmVYiKk93hk.jpg"
+      },
+      {
+        "name": "Jessica Karr",
+        "character": "Female Corpse",
+        "profile_path": ""
+      },
+      {
+        "name": "Omar Avila",
+        "character": "Rebel (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gUhKo81FNJ7dKRZNcmnR4EHlfGS.jpg"
+      },
+      {
+        "name": "Jon Beshara",
+        "character": "Alpha 66 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Flint Beverage",
+        "character": "Air Force Radar Tech (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9NtLiqWtX9YlepJEZzpFcNrhtOm.jpg"
+      },
+      {
+        "name": "John Cenatiempo",
+        "character": "Undercover DEA (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6cEyUFyS5Tw2LGY0HkjpMjMZDmG.jpg"
+      },
+      {
+        "name": "Smith Cho",
+        "character": "Customer in Electronics Store (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xUujfyPyDGKnTVN7j1L16mWUFpu.jpg"
+      },
+      {
+        "name": "Dexter Fletcher",
+        "character": "Swat Leader (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hLE0KdXJNHC7tmFjhsqXs1E7hh3.jpg"
+      },
+      {
+        "name": "Deborah Smith Ford",
+        "character": "Mourner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jWW3gxRthJ3IJ56RBLlbEcqKXPn.jpg"
+      },
+      {
+        "name": "Megan Fox",
+        "character": "Stars-and-Stripes Bikini Kid Dancing Under Waterfall (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/md63W0fNTyP6DrdzDHwFnxxo1VO.jpg"
+      },
+      {
+        "name": "Tony Gomez",
+        "character": "Morgue Attendant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m6DsMnZVp2dvT6hv7dUsCbeBSoZ.jpg"
+      },
+      {
+        "name": "Paul Lawrence",
+        "character": "Mortuary Worker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mFn2wulooA7jpmmJ7DFeHfdHBB9.jpg"
+      },
+      {
+        "name": "Rick Michaels",
+        "character": "Plainclothes Detective (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/joN56YSSG1zfob4HBsC0aNLzkzq.jpg"
+      },
+      {
+        "name": "Nevin Millan",
+        "character": "Ecstasy Clubber (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zeFYmLFDz8e3OMQvRPhqr3lwMwp.jpg"
+      },
+      {
+        "name": "Yamil Piedra",
+        "character": "Tapia Muscle (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eOfYjjoUKJi8kUJr3yoANCu0bVT.jpg"
+      },
+      {
+        "name": "Denise Quiñones",
+        "character": "Streetwalker in Cuba (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rojBBECTQqH5fGfKiJuWiPP1rwJ.jpg"
+      },
+      {
+        "name": "Jay Rasumny",
+        "character": "Limo Guy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nLUXyuLzK6bx2hZSj99hr2w7zaW.jpg"
+      },
+      {
+        "name": "Joe Vida",
+        "character": "Police Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fmG7N6X7sedAxpsTtlOoCi1VXs8.jpg"
+      },
+      {
+        "name": "Jasmine Waltz",
+        "character": "Video Store Customer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8ROTLKXSR1bCuEfA5FywLt19S4p.jpg"
+      },
+      {
+        "name": "Sincerely A. Ward",
+        "character": "Bartender (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gtHhaEe7CjkE0ddNK7PJ780hHvr.jpg"
+      },
+      {
+        "name": "Brian Anthony Wilson",
+        "character": "Tapia Muscle Crew (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hclegxaGvuBIT3N6q6OrFFter6p.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Michael Bay",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rkC7lei20x5xlFH4SivAXXBh6uR.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "drug smuggling",
+    "miami, florida",
+    "undercover agent",
+    "cuba",
+    "ku klux klan",
+    "kidnapping",
+    "money laundering",
+    "mexican standoff",
+    "ecstasy",
+    "male friendship",
+    "guantánamo",
+    "sequel",
+    "shootout",
+    "criminal underworld",
+    "drug lord",
+    "exploding house",
+    "dea agent",
+    "undercover operation",
+    "buddy cop",
+    "narcotics detective",
+    "action hero",
+    "buddy movie",
+    "haitian gang",
+    "dead bodies",
+    "buddy detective duo",
+    "police partners",
+    "russian mobster"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Two loose-cannon narcotics cops investigate the flow of Ecstasy into Florida from a Cuban drug cartel.",
+    "Miami is being flooded with ecstasy that's coming from Cuba through drug lord Johnny Tapia. Detectives Mike Lowrey and Marcus Burnett are on the case, and are determined to bring the man to justice. Additional drama is provided by friction with the DEA, which counts Marcus' younger sister Sydney among its agents, and from Marcus possibly transferring out of the department, leaving Mike without his longtime partner.",
+    "Narcotics cops Mike Lowrey (Will Smith) and Marcus Burnett (Martin Lawrence) head up a task force investigating the flow of ecstasy into Miami. Their search leads to a dangerous kingpin Johnny Tapia (Jordi Mollà), whose plan to control the city's drug traffic has touched off an underground war. Meanwhile, things get sexy between Mike and Syd (Gabrielle Union), Marcus's sister.—Anonymous",
+    "Mike Lowrey (Will Smith) and Marcus Burnett (Martin Lawrence), who are part of the Miami PD's Tactical Narcotics Team (TNT), still don't always get along, and now they're keeping secrets from each other. Mike's secret is that he's been seeing Marcus' sister, Sydney \"Syd\" Burnett (Gabrielle Union) who is a reported paper pusher for the DEA's New York office. Marcus's secret is that he has asked for a transfer, because he wants to spend more time with his family, and less time with Mike. That's all set aside when their boss, Captain Howard (Joe Pantoliano) assigns them to stop the flow of record amounts of ecstasy into the city. This puts Mike and Marcus on the trail of the most dangerous enemy that they have ever faced...Cuban drug kingpin Hector Juan Carlos \"Johnny\" Tapia, who wants to take control of the entire ecstasy trade in the USA, and is working with local dealers and club owners such as Russian mafia boss Alexei. Every time the Miami PD has ever arrested Tapia, Tapia has sued the Miami PD for false arrest, and won millions of dollars. This has caused the department to back off and not go after Tapia. Well, everyone has backed off except for Mike and Marcus, who have never faced Tapia before. Now, it seems that Tapia is using a mortuary as a cover for his operations, smuggling ecstasy hidden inside dead bodies, while sending his money to Cuba in hidden compartments in the coffins. While Mike and Marcus try to bring Tapia down, they also deal with the discovery that Syd is actually working undercover for the DEA to bring down a money laundering operation run by Alexei, and as part of her undercover job, Syd is in deep with Tapia. When Haitian gangsters try to steal Tapia's money and kill Syd, the two investigations cross paths. Syd's cover is later blown, and she is kidnapped by Tapia, who takes her to his compound in Cuba. With the unofficial help of people from the CIA, the Miami PD, and anti-Castro forces in Cuba, Mike and Marcus head out to rescue Syd, and bring Tapia down. How far will Tapia go to keep his drug empire? And how far will Marcus and Mike go to rescue Syd?—Todd Baldridge"
+  ],
+  "synopsis": "Eight years after the events of the first film, Miami police detectives Marcus Barnett (Martin Lawrence) and Mike Lowrey (Will Smith) are investigating the flow of highly-potent ecstasy into the city. Their surveillance of boats coming in from Cuba leads them to a Ku Klux Klan meeting and drug drop in a swamp. The subsequent raid on the Klan members proves to be a disaster; malfunctioning radios delay back-up, causing a firefight where Mike accidentally shoots Marcus in the buttocks, while the Klan members are revealed to be mere small-time buyers and not the distributors of the ecstasy. The incident leaves Marcus to further question if he still wants to partner with Mike, while Mike frets that Marcus may discover his relationship with Marcus' sister, Syd (Gabrielle Union).Unbeknownst to Mike and Marcus, Syd is an undercover operative with the DEA, as a money laundering agent for Russian gangsters; the Russian gangsters are in fact the distributors of the ecstasy on behalf of neurotic Cuban drug lord Johnny Tapia (Jordi Mollà). During her first assignment in Miami, a violent Haitian gang attempts to hijack the money transport between the Russians and Tapia, putting Syd in danger. Mike and Marcus inadvertently stumble into the action, and an intense fire fight and car chase ensues between the gang members and the Miami Police/DEA, devastating the local area and enraging Police Captain Conrad Howard (Joe Pantoliano). Marcus and Mike learn of Syd's actual work, which makes Marcus unhappy, while Capt. Howard demands they find the supplier of ecstasy.Marcus and Mike go to confront the Haitian gang leader, which results in a firefight and the leader revealing that his information about the transport came from his friend's camcorder. After viewing the footage, Marcus and Mike find out that a local business, the Spanish Palms Mortuary, is possibly being used as a front by Tapia. Disguised as pest terminators, the detectives penetrate Tapia's mansion and discover that Tapia has eliminated his Russian distributors and begun to woo their former associate Syd, who is still undercover with the DEA and has refocused the investigation towards Tapia. The detectives also recover evidence linking Tapia to one of the boats involved in the Klan raid.After pressuring one of the arrested Klansman into making Tapia's boat, the detectives find themselves involved in another firefight, this time while pursuing a morgue van from the docks carrying emptied cadavers. Mike and Marcus decide to infiltrate Tapia's mortuary, where they learn that the drug lord is using dead bodies to smuggle his drugs and money. The mission is nearly sabotaged when the pair are almost discovered, resulting in Marcus accidentally ingesting some of the ecstasy and Mike ordering the disguised officers outside the building to crash an ambulance into it, creating an diversion. After Mike and an intoxicated Marcus obtain a search warrant from Capt. Howard, the mortuary and Tapia's mansion are raided, with the drugs and money being intercepted by the Coast Guard. However, the mansion raid is botched when a vengeful Russian gangster, Alexei (Peter Stormare), violently storms the mansion on his own. Alexei is killed by the police, while Syd is discovered by Tapia and kidnapped to Cuba. With Syd held prisoner in Tapia's compound and guarded by the Cuban military, the drug lord demands the return of his money in two days in exchange for Syd's life.Mike and Marcus, along with their voluntary SWAT team and Syd's DEA co-workers, prepare a military assault to rescue Syd from Tapia's fortress. During the battle, Mike and Marcus extract Syd and escape, pursued by the infuriated Tapia. After a lengthy pursuit, they end up in a minefield outside the U.S. Naval Base at Guantanamo Bay, where Tapia holds Mike at gunpoint. Marcus rescues Mike with a skillful head-shot to Tapia's skull in the middle of the minefield with his last bullet; in a nod to the previous film, Mike exclaims \"That's how you shoot!\". Later, at the Burnett house, Mike has bought Marcus a new pool (replacing a previous pool that had been destroyed in a prior gag), and Marcus finally makes peace with Mike dating Syd and no longer doubts their partnership. Despite the sentiment, Mike's new pool breaks, washing the two into a river, as they sing the \"Bad Boys\" theme song.",
+  "imdb_score": 6.6
+}

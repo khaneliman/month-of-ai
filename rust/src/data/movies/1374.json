@@ -1,0 +1,316 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/ufUdEHvs31M8yw3HMFjhTaVJIVp.jpg",
+  "id": 1374,
+  "title": "Rocky IV",
+  "poster_path": "https://image.tmdb.org/t/p/w500/v33qcJ5NTYIcoII9CB0A8rSU8VA.jpg",
+  "release_date": "1985-11-21",
+  "vote_average": 7.079,
+  "vote_count": 4148,
+  "popularity": 64.155,
+  "overview": "Rocky Balboa proudly holds the world heavyweight boxing championship, but a new challenger has stepped forward: Ivan Drago, a six-foot-four, 261-pound fighter who has the backing of the Soviet Union.",
+  "imdb_id": "tt0089927",
+  "budget": 31000000,
+  "homepage": "https://www.mgm.com/movies/rocky-iv",
+  "revenue": 300500000,
+  "runtime": 91,
+  "tagline": "He's facing the ultimate challenge. And fighting for his life.",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Winkler Films",
+    "United Artists"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Sylvester Stallone",
+        "character": "Robert \"Rocky\" Balboa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mJHmLVLctqZd30CSEUKuVFEPrnt.jpg"
+      },
+      {
+        "name": "Talia Shire",
+        "character": "Adrianna \"Adrian\" Balboa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/RkFJejmEKM80ly6fPSN7octO5c.jpg"
+      },
+      {
+        "name": "Burt Young",
+        "character": "Paulie Pennino",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6QWnsSbjYog0D6hkPhg7Frty54D.jpg"
+      },
+      {
+        "name": "Carl Weathers",
+        "character": "Apollo Creed",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Tot1ywxTQA3vFCcAjyK6h9Dao3.jpg"
+      },
+      {
+        "name": "Brigitte Nielsen",
+        "character": "Ludmilla Vobet Drago",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7PjOtSKahi6nsMyp8byLzO2JWUE.jpg"
+      },
+      {
+        "name": "Tony Burton",
+        "character": "Tony \"Duke\" Evers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iG51d1Ck1doZNGseRMqGTnNC8t8.jpg"
+      },
+      {
+        "name": "Michael Pataki",
+        "character": "Nicoli Koloff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sBhGgVS3o8oWiD85lmh4W3n15OK.jpg"
+      },
+      {
+        "name": "Dolph Lundgren",
+        "character": "Ivan Drago",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fisJpm05tw6GCJ4v62TKBCoWuZM.jpg"
+      },
+      {
+        "name": "Stu Nahan",
+        "character": "Commentator #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zqk4y3uuI27WYstzXPgxEeGliAG.jpg"
+      },
+      {
+        "name": "R.J. Adams",
+        "character": "Sports Announcer",
+        "profile_path": ""
+      },
+      {
+        "name": "Al Bandiero",
+        "character": "American Commentator #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zawWujVDuWBrPfjp46ypNiZl0BW.jpg"
+      },
+      {
+        "name": "Dominic Barto",
+        "character": "Russian Government Official",
+        "profile_path": "https://image.tmdb.org/t/p/w185/20vkhxfA3NriMVIYOAuzwNKXyfz.jpg"
+      },
+      {
+        "name": "Danial Brown",
+        "character": "Rocky Jr.'s Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "James Brown",
+        "character": "The Godfather of Soul",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q9Q3c7HsZEEqrwNIY9yDgsJ74uE.jpg"
+      },
+      {
+        "name": "Rose Mary Campos",
+        "character": "Maid",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Carpenter",
+        "character": "KGB Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark De Alessandro",
+        "character": "Russian Cornerman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i8OVPh4axVPhTAso3fPEJ86V0v2.jpg"
+      },
+      {
+        "name": "Marty Denkin",
+        "character": "Russian Referee",
+        "profile_path": ""
+      },
+      {
+        "name": "Lou Fillipo",
+        "character": "Las Vegas Referee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uYbcwKoaXX52CK4u9LyKONDDgLA.jpg"
+      },
+      {
+        "name": "James 'Cannonball' Green",
+        "character": "Manuel Vega",
+        "profile_path": ""
+      },
+      {
+        "name": "Dean Hammond",
+        "character": "Interviewer",
+        "profile_path": ""
+      },
+      {
+        "name": "Rocky Krakoff",
+        "character": "Robert \"Rocky\" Balboa Jr.",
+        "profile_path": ""
+      },
+      {
+        "name": "Sergei Levin",
+        "character": "Russian Ring Announcer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Maffatone",
+        "character": "KGB Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Sylvia Meals",
+        "character": "Mrs. Creed",
+        "profile_path": "https://image.tmdb.org/t/p/w185/slmFHjEPzUVJeupo2Eaf8jZOGco.jpg"
+      },
+      {
+        "name": "Dwayne McGee",
+        "character": "Limo Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "LeRoy Neiman",
+        "character": "Ring Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kyvujNQIDhDB8g40fmq9T8vUnPs.jpg"
+      },
+      {
+        "name": "George Pipasik",
+        "character": "Caretaker",
+        "profile_path": ""
+      },
+      {
+        "name": "George Rogan",
+        "character": "Igor Rimsky",
+        "profile_path": ""
+      },
+      {
+        "name": "Barry Tompkins",
+        "character": "American Commentator #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Warner Wolf",
+        "character": "Commentator #2 in Las Vegas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ci6KP9XNomY4C5ZgA8C5UArjDDC.jpg"
+      },
+      {
+        "name": "Robert Doornick",
+        "character": "Sico the Robot (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Blum",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Gerald Berns",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zcwwAuAPuhX7NdYSAnztknplMK.jpg"
+      },
+      {
+        "name": "Ray Glanzmann",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Julie Inouye",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zZCN5RCNuWLizRElDOOnGMth0ar.jpg"
+      },
+      {
+        "name": "Patrick Pankhurst",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yRSMURHidtknScqM21f53PfDEmu.jpg"
+      },
+      {
+        "name": "Jean Thoreau",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Bullock",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank D'Annibale",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Rose Dursey",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard A. Kelley",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pMuuydvbRQmUS6fkMT6Y52Y0h8t.jpg"
+      },
+      {
+        "name": "Craig Schaefer",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff Austin",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5CXdrwmfCAnJXz95OUBtpu0Pn3P.jpg"
+      },
+      {
+        "name": "Leslie Morris",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob Giovane",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Julio Herzer",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "George Spaventa",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Rolf Williams",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Hodges",
+        "character": "Reporter",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Sylvester Stallone",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mJHmLVLctqZd30CSEUKuVFEPrnt.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "dying and death",
+    "friendship",
+    "transporter",
+    "sports",
+    "loss of loved one",
+    "cold war",
+    "soviet union",
+    "boxer",
+    "kgb",
+    "training",
+    "victory",
+    "matter of life and death",
+    "loss of powers",
+    "revenge",
+    "siberia",
+    "christmas",
+    "boxing"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Rocky Balboa proudly holds the world heavyweight boxing championship, but a new challenger has stepped forward: Drago, a six-foot-four, 261-pound fighter who has the backing of the Soviet Union.",
+    "Rocky Balboa accompanies his friend Apollo Creed to the ring in a boxing match against a Russian Boxer named Ivan Drago. Drago is too strong for Creed, and unfortunately kills him in his match. Balboa blames himself for Creed's death and is determined to defeat Drago in a boxing match. He gains the help of Creed's former manager, Duke and travels to U.S.S.R. to take on Drago.—Film_Fan",
+    "Heavyweight boxing champion Rocky Balboa accompanies his friend Apollo Creed, who will be in a match against Ivan Drago, a Russian boxer who has been scientifically trained, using high tech equipment. When Drago kills Apollo in the match, Rocky blames himself for Apollo's death, and promises to get revenge on Drago in the ring, in the name of Apollo and the United States. Against the wishes of his wife Adrian, Rocky is off to the USSR to take on Drago, and hires Apollo's former manager Duke to help him prepare for the fight. While Drago enhances his amazing punching power using high-tech equipment, Rocky toughens up under the guidance of Duke in a compound in the frozen Soviet countryside, with his mind set on destroying Drago.—Todd Baldridge"
+  ],
+  "synopsis": "Rocky has been living a happy married life with Adrian. They have been together 9 yrs. Rocky Jr. (Rocky Krakoff) is a toddler now.\nIn 1985, Ivan Drago (Dolph Lundgren), the Soviets' prize Champion boxer \"The Siberian Express\" and a Soviet Army infantry captain, arrives in the United States with his wife, Ludmilla (Brigitte Nielsen), a Soviet swimmer and a team of trainers from the Soviet Union and Cuba. His manager, Nicolai Koloff (Michael Pataki), takes every opportunity to promote Drago's athleticism as a hallmark of Soviet superiority. Avg boxer punches at 700 psi, while Ivan has a right punch landing at 1850 psi on opponents.\nMotivated by patriotism and an innate desire to prove himself, Apollo Creed (Carl Weathers) (221 Pounds) challenges Drago (261 pounds) to an exhibition bout. Rocky (Sylvester Stallone) has reservations, but agrees to train Apollo, despite his misgivings about the match.During a press conference regarding the match, hostility sparks between Apollo's and Drago's respective camps. The boxing exhibition takes place at the MGM Grand Hotel in Las Vegas. Apollo enters the ring in an over-the-top patriotic entrance with James Brown performing \"Living in America\" complete with showgirls. The bout starts tamely with Apollo landing several punches that are ineffective against Drago, but Drago suddenly retaliates with devastating effects. By the end of the first round, Rocky and Apollo's trainer, Tony \"Duke\" Evers (Tony Burton), plead with him to stop the match, but Apollo refuses to do so and tells Rocky to not stop the match \"no matter what.\" Drago continues to pummel him in the second round and Duke begs Rocky to throw in the towel. Rocky honors Apollo's wishes, which allows Drago to land one final punch on Apollo, killing him. In the aftermath, Drago displays no sense of contrition, commenting to the assembled media: \"Tonight I have beaten a great champion. If he dies, he dies.\"Frustrated by the Soviets' cold indifference, Rocky decides to challenge Drago himself, but has to surrender his championship to do so. Drago's camp agrees to an unsanctioned 15-round fight in the Soviet Union on Christmas Day, an arrangement meant to protect Drago from the threats of violence he has been receiving in the United States. Rocky travels to the Soviet Union without his wife Adrian (Talia Shire) due to her disapproval of the match.\nHe sets up his training base in a remote cabin in Krasnogourbinsk with only Duke and Paulie (Burt Young) to accompany him. Duke opens up to Rocky, stating that he actually raised Apollo and that his death felt like a father losing his son, and expresses his faith in Rocky that he will emerge victorious. To prepare for the match, Drago uses high-tech equipment, a team of trainers and doctors monitoring his every movement, and regular doses of Anabolic steroids. Rocky, on the other hand, does roadwork in deep snow over mountainous terrain and workouts utilizing antiquated farm equipment. Adrian arrives unexpectedly to give Rocky her support, which gives Rocky a new vigor.Before the match begins, Balboa is the first to enter to a hostile crowd. As he waits nervously in the ring, the lights in the arena suddenly go out, and Drago is introduced with an elaborate patriotic ceremony, with the Soviet general secretary and the Politburo in attendance. The home crowd is squarely on Drago's side and hostile to Rocky.\nIn contrast to his match with Apollo, Drago immediately goes on the offensive. Rocky takes a fierce pounding in the first round, but goes on the offensive toward the end of the second round after landing a brutal right hook that cuts Drago's left eye, stunning both Drago and the crowd. Duke encourages Rocky by reminding him that he just proved Drago is a man, and not a machine as he's been made out to be. In contrast, Drago comments to his trainers that Rocky \"is not human, he is like a piece of iron,\" after his trainers reprimand him for his performance against the \"weak\" American.The two boxers spend the next dozen rounds trading blows, with Rocky managing to continually hold his ground despite Drago's best efforts. As the 12th round begins, the previously hostile Soviet crowd, suddenly start chanting and cheering for Balboa. After being berated by Koloff, Drago rebels, throwing him from the ring and directly addressing Gorbachev (David Lloyd Austin), stating he fights only for himself. In the final round, with both fighters exhausted, Rocky initially takes more punishment, but manages to stay on his feet. Both fighters trade blows, before Balboa seizes an opening, unleashing a series of vicious blows, eventually knocking him out.Rocky gives a victory speech, acknowledging that the local crowd's disdain of him had turned to mutual respect during the fight. Rocky finally declares, \"If I can change and you can change, everybody can change!\" The Soviet premier stands up and reluctantly applauds Rocky, and his aides follow suit. Rocky ends his speech by wishing his son watching the match on TV a Merry Christmas, and raises his arms into the air in victory as the crowd applauds.",
+  "imdb_score": 6.9
+}

@@ -1,0 +1,354 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/a8UAXIEf83pyvP0dBhnUIzvEYmE.jpg",
+  "id": 8536,
+  "title": "Superman II",
+  "poster_path": "https://image.tmdb.org/t/p/w500/jw0tYFCbzjBN8SIhvRC2kdh7pzh.jpg",
+  "release_date": "1980-12-04",
+  "vote_average": 6.728,
+  "vote_count": 2130,
+  "popularity": 21.484,
+  "overview": "Three escaped criminals from the planet Krypton test the Man of Steel's mettle. Led by General Zod, the Kryptonians take control of the White House and partner with Lex Luthor to destroy Superman and rule the world. But Superman, who attempts to make himself human in order to get closer to Lois, realizes he has a responsibility to save the planet.",
+  "imdb_id": "tt0081573",
+  "budget": 54000000,
+  "homepage": "https://www.warnerbros.com/movies/superman-ii",
+  "revenue": 190458706,
+  "runtime": 127,
+  "tagline": "The Man of Steel meets his match!",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "production_companies": [
+    "Dovemead Films",
+    "Alexander and Ilya Salkind Productions",
+    "International Film Production"
+  ],
+  "production_countries": [
+    "GB",
+    "US",
+    "CA"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Gene Hackman",
+        "character": "Lex Luthor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xPmETCv0APDoIK5CvIIJwbTcjPA.jpg"
+      },
+      {
+        "name": "Christopher Reeve",
+        "character": "Clark Kent / Superman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vAGrPf3ajy6OVE3FhgABynZfybP.jpg"
+      },
+      {
+        "name": "Ned Beatty",
+        "character": "Otis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j71jw78zrLkucqXraEpjb5EN6DN.jpg"
+      },
+      {
+        "name": "Jackie Cooper",
+        "character": "Perry White",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pbdUaMBfLq2qUP1jg7dM9hINRcI.jpg"
+      },
+      {
+        "name": "Sarah Douglas",
+        "character": "Ursa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rITQHmOLnZK0TrTSaSrANCtqdRf.jpg"
+      },
+      {
+        "name": "Jack O'Halloran",
+        "character": "Non",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e7mGR37EUMd0JgIbvKxg871LR4e.jpg"
+      },
+      {
+        "name": "Margot Kidder",
+        "character": "Lois Lane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xUoIzY5fRBOsFUMpp8P8qkEio53.jpg"
+      },
+      {
+        "name": "Valerie Perrine",
+        "character": "Eve Teschmacher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dOCVB0kK79ndxIp1ybdArlgka4j.jpg"
+      },
+      {
+        "name": "Susannah York",
+        "character": "Lara",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w3gt7qr4npe9NMQJnvzQoK3t3iA.jpg"
+      },
+      {
+        "name": "Clifton James",
+        "character": "Sheriff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4XRoVhgoeQEZdg4BAKCWRkI1UfR.jpg"
+      },
+      {
+        "name": "E.G. Marshall",
+        "character": "The President",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bZeu3BhYFP99dwIMobFR2xuRfRy.jpg"
+      },
+      {
+        "name": "Marc McClure",
+        "character": "Jimmy Olsen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c8DFehNqNEDLBALTdAWZzUEN2tD.jpg"
+      },
+      {
+        "name": "Terence Stamp",
+        "character": "General Zod",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ept9urkuhPbGndVXkERw39R9oid.jpg"
+      },
+      {
+        "name": "Leueen Willoughby",
+        "character": "Leueen",
+        "profile_path": ""
+      },
+      {
+        "name": "Robin Pappas",
+        "character": "Alice",
+        "profile_path": ""
+      },
+      {
+        "name": "Roger Kemp",
+        "character": "Spokesman",
+        "profile_path": ""
+      },
+      {
+        "name": "Roger Brierley",
+        "character": "Terrorist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bfiYOtHWWSxftf74tqle8kcNUT2.jpg"
+      },
+      {
+        "name": "Anthony Milner",
+        "character": "Terrorist",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Griffiths",
+        "character": "Terrorist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iZLE14qeU9ytbJVrfpZ8S08Qmnf.jpg"
+      },
+      {
+        "name": "Melissa Wiltsie",
+        "character": "Nun",
+        "profile_path": ""
+      },
+      {
+        "name": "Alain Dehay",
+        "character": "Gendarme",
+        "profile_path": ""
+      },
+      {
+        "name": "Marc Boyle",
+        "character": "C.R.S. Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Alan Stuart",
+        "character": "Cab Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "John Ratzenberger",
+        "character": "Controller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e5aNU09v1q6WYTx9pNzC7yjSpve.jpg"
+      },
+      {
+        "name": "Shane Rimmer",
+        "character": "Controller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/morFcla0R2Bv3vu3B1HgCmm0eiv.jpg"
+      },
+      {
+        "name": "John Morton",
+        "character": "Nate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dIm3kjbVzhqd8Xog3UWv7HRtCyU.jpg"
+      },
+      {
+        "name": "Jim Dowdall",
+        "character": "Boris",
+        "profile_path": ""
+      },
+      {
+        "name": "Angus MacInnes",
+        "character": "Prison Warder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dOguFZS0jlFREigfMpcS8aitMBj.jpg"
+      },
+      {
+        "name": "Antony Sher",
+        "character": "Bell Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e0V4i0avYfcfZORkt1tuORrIkGS.jpg"
+      },
+      {
+        "name": "Elva Mai Hoover",
+        "character": "Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v5Kv40afGpP0ADOsusHUWwZDNyc.jpg"
+      },
+      {
+        "name": "Hadley Kay",
+        "character": "Jason",
+        "profile_path": ""
+      },
+      {
+        "name": "Todd Woodcroft",
+        "character": "Father",
+        "profile_path": ""
+      },
+      {
+        "name": "John Hollis",
+        "character": "Krypton Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6PKo9EBcT96t2aHcpKJ0epwipp6.jpg"
+      },
+      {
+        "name": "Gordon Rollings",
+        "character": "Fisherman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g8CKwOHttw3JO0n8QgzQp7AXiLf.jpg"
+      },
+      {
+        "name": "Peter Whitman",
+        "character": "Deputy",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Bailey",
+        "character": "J.J.",
+        "profile_path": ""
+      },
+      {
+        "name": "Dinny Powell",
+        "character": "Boog",
+        "profile_path": ""
+      },
+      {
+        "name": "Hal Galili",
+        "character": "Man at Bar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vv4aM4BgGqjYFWDQYzN5iWCTmok.jpg"
+      },
+      {
+        "name": "Marcus D'Amico",
+        "character": "Willie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xCTjgqihIzxwGgoK1tVMfVUyhwl.jpg"
+      },
+      {
+        "name": "Richard LeParmentier",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sxKfuif3ngW26TZOhKgyc1beJzC.jpg"
+      },
+      {
+        "name": "Don Fellows",
+        "character": "General",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n0QbeIGhfpepdTgaTpNPe3IBfjY.jpg"
+      },
+      {
+        "name": "Tony Sibbald",
+        "character": "Presidential Imposter",
+        "profile_path": ""
+      },
+      {
+        "name": "Tommy Duggan",
+        "character": "Diner Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p5NxFiyrRlrj2SE6hIwVq19ZlDz.jpg"
+      },
+      {
+        "name": "Pamela Mandell",
+        "character": "Waitress",
+        "profile_path": ""
+      },
+      {
+        "name": "Pepper Martin",
+        "character": "Rocky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lRDezTRPRGVAekrlpeq7bfYIJ88.jpg"
+      },
+      {
+        "name": "Eugene Lipinski",
+        "character": "Newsvendor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n9SC7Ka8pVcSZnJadTpSFswBNyo.jpg"
+      },
+      {
+        "name": "Cleon Spencer",
+        "character": "Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Carl Parris",
+        "character": "Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Cooper",
+        "character": "Dino",
+        "profile_path": ""
+      },
+      {
+        "name": "Norman Chancer",
+        "character": "White House Aide (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xxj8VqbDm4chXUF4A7Z3BnEpOVB.jpg"
+      },
+      {
+        "name": "Jean-Pierre Cassel",
+        "character": "French Officer at the White House (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iCZ9CFw55lwdERGuIEFrkpOdaBi.jpg"
+      },
+      {
+        "name": "Richard Donner",
+        "character": "Man Walking by Diner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wjRecQiVLUAm6jwyT5craxhg3lD.jpg"
+      },
+      {
+        "name": "Jeff East",
+        "character": "Teenage Clark Kent (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rU43pn639rgSA1DsS0UJrdTjVaM.jpg"
+      },
+      {
+        "name": "Glenn Ford",
+        "character": "Jonathan Kent in Opening Montage (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d6Vk69m5NAgMSgo4LmDm748wwm7.jpg"
+      },
+      {
+        "name": "Trevor Howard",
+        "character": "Krypton Elder (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AbsAbElTbDYpI8gMzrvoToemcwh.jpg"
+      },
+      {
+        "name": "Michael Shannon",
+        "character": "President's Aide",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ktIBsqGGZDkEmaoDWWTEL1IKPWT.jpg"
+      },
+      {
+        "name": "John Cannon",
+        "character": "Prison Inmate (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/efj4laUmLcw4nP4E1izHN57fQCH.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Richard Lester",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jrn6FzuFmn2NnNx9CBzv5KCbC0Z.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "saving the world",
+    "superhero",
+    "loss of virginity",
+    "based on comic",
+    "sequel",
+    "niagara falls",
+    "criminal",
+    "super power",
+    "phantom zone",
+    "rocket fired grenade",
+    "crystal machine",
+    "superhuman strength",
+    "duringcreditsstinger"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "Superman agrees to sacrifice his powers to start a relationship with Lois Lane, unaware that three Kryptonian criminals he inadvertently released are conquering Earth.",
+    "Picking up where \"Superman: The Movie\" left off, three criminals, General Zod (Terence Stamp), Ursa, (Sarah Douglas), and Non (Jack O'Halloran) from the planet Krypton are released from the Phantom Zone by a nuclear explosion in space. They descend upon Earth where they could finally rule. Superman, meanwhile, is in love with Lois Lane (Margot Kidder), who finds out who he really is. Lex Luthor (Gene Hackman) escapes from prison and is determined to destroy Superman by joining forces with the three criminals.—Keith Howley <lald@ptdprolog.net>",
+    "Terrorists have taken over the Eiffel Tower, and threaten to blow it up with a hydrogen bomb. Once again, Superman is there and saves Paris by throwing the bomb into outer space. Unfortunately, the explosion releases the three bad guys,General Zod (Terence Stamp), Ursa, (Sarah Douglas), and Non (Jack O'Halloran) imprisoned in the first Superman movie. They then move in on Earth, taking it over, but little do they know who they will have to defeat.—ahmetkozan",
+    "The meta-human heritage of the Last Son Of Krypton is tested as never before when a series of misadventures unlocks in Superman a very human emotion - love. Superman's love for journalist Lois Lane (Margot Kidder) reaches a seemingly impossible peak, but requires the ultimate sacrifice - as the incompatible molecular structure of Kal-El (Superman's birth name) and Lois would gravely complicate the inevitable bearing of children, Kal-El must be purged of his superpower, to live as a mortal. Kal-El, despite the pleas of the spirit of his long-lost mother, willingly agrees, and now a normal human being, consummates his love for Lois - a decision that dooms the Earth as three criminals from Krypton, freed from their extra-dimensional prison, lay waste to the planet in a path of conquest aided by the planet's most arrogant criminal, Lex Luthor, who intends to smoke out Superman for his destruction - unaware as he is of The Man Of Steel's helplessness, a condition that only one last hope can rectify.—Michael Daly",
+    "A group of terrorists seize the Eiffel Tower & threaten Paris with a hydrogen bomb if the French government does not meet their demands. Superman immediately heads to Paris, where he launches the elevator carrying the bomb into outer space before it can detonate. Unfortunately, when the bomb explodes, it disintegrates the 'Phantom Zone', where 3 Kryptonian criminals, ,General Zod (Terence Stamp), Ursa, (Sarah Douglas), and Non (Jack O'Halloran) who had been imprisoned years before by Jor-El. Immediately, the 3 criminals, led by the psychopathic General Zod, head to Earth with the intention of enslaving the people Superman protects. The Man of Steel, however, is unaware of their arrival, and is forced to sacrifice his powers for a life with Lois Lane. When he finds out about Zod & his companions, Superman returns to the Fortress of Solitude to regain his powers and confront the horrible Kryptonian criminals - on his terms. Can Superman defeat the 3 villains who are armed with identical powers to his own?—Derek O'Cain"
+  ],
+  "synopsis": "Prior to the destruction of Krypton, the criminals General Zod, Ursa and Non disable a security guard at a crystalline matrix table. The general removes a red spire from the table and destroys it; the thunderclap as the piece is shattered resonates through the city and sets off a trap that ensnares the three brigands. The red spire's destruction is clearly an act of treason, and for this and other crimes they are sentenced by Jor-El and the Krypton council to banishment into the Phantom Zone.On Earth, in the present day, Clark Kent arrives at the Daily Planet for work. He talks to his editor Perry White, who's working on the latest cover story. Kent asks Perry what's going on and Perry tells him a small group of terrorists are holding hostages at the top of the Eiffel Tower in Paris and are threatening to detonate a hydrogen bomb. Perry had sent his ace reporter, Lois Lane, to Paris on a Concorde jet to get the story. Kent leaves the Planet building, ducks into an alley and transforms into Superman, flying off to Paris.At the Eiffel Tower, Lois is able to sneak past security and stows away on the bottom of the elevator that brings the hostages down from the top. When a French commando team determines the hostages are safe and they believe the terrorists have taken the bomb out of the elevator, they cut the power and destroy the chain drive. The elevator plummets, taking the bomb and Lois with it. Superman arrives and stops the car, helping Lois off. He then flies the car out into space, past the Moon, where it explodes.The Phantom Zone is nearby and cracked by the shockwave. The three criminals are freed, finding themselves with super powers granted by the yellow light of Earth's sun. After attacking human astronauts on the moon and the small town of East Houston, Idaho, the three travel to the White House and force the President of the United States to surrender to Zod (on behalf of the entire planet) during an international television broadcast. When the President warns Zod that Superman will stop them, Zod announces his demand for Superman to come and \"kneel before Zod!\"Prior to Zod's arrival, Clark Kent and Lois Lane are sent on assignment for the Daily Planet to Niagara Falls. Lois becomes suspicious that Clark is Superman and tries to lure him into revealing his identity by throwing herself into the Niagara River gorge downstream, but Clark manages to save her with subtle use of his powers. That night, Clark accidentally reaches into the room's fireplace to recover his glasses after he trips; when Lois discovers his hand isn't the slightest burnt, Clark is forced to admit he is Superman.Superman takes her to his Fortress of Solitude near the North Pole and shows her the traces of his past stored in the energy crystals of the Fortress, one of which is the green crystal that created the Fortress and opened Superman's contact with his long-deceased parents. Lois misplaces the green crystal under her purse. Superman, talking to a hologram of his mother, Lara, decides to undergo a transformation to make himself human by exposing himself to the red Kryptonian sunlight to become romantically closer to Lois, despite Lara's warnings. The process destroys many of the energy crystals, except the green crystal, lying a considerable distance away. After spending the night together, the two return to populated areas by conventional means.In a remote truck stop, Clark becomes the target of a brash, bullying trucker who beats him up. Clark realizes he's just as vulnerable as a human, shocked by the sight of his own blood. Suddenly, he and Lois see a live broadcast of Zod with the US President, demanding that Superman reveal himself and kneel to Zod. Realizing that humanity cannot fight Zod themselves, Clark decides to return to the Fortress to try to reverse the transformation. His hike to the Fortress is nearly impossible and one he arrives, he admits to his father that he made a grave mistake and that his adopted homeworld is in more danger than ever. As he's ready to give up, he notices the green crystal lying nearby.Lex Luthor, who has managed to escape from jail (with Eve Teschmacher's assistance), has tracked down the Fortress using an alpha wave detector, and infiltrated the Fortress before Superman and Lois arrived, learning from the crystal of Superman's mother of Superman's connection to Jor-El and of General Zod. He traces Zod to Washington, D.C., and offers to lead Zod to Jor-El's son in exchange for control of Australia. Accepting his offer, the three Kryptonians are directed by Luthor to the offices of the Daily Planet where they abduct Lois. Though Zod is initially disappointed, Luthor convinces him that any threat to Lois will bring Superman to her aid.Superman arrives, after having reversed his transformation process, and attempts to fight the three. The battle wages over much of Metropolis with Superman courageously holding his own until Zod realizes Superman cares for the innocent humans and take advantage of this weakness. To protect Metropolis, Superman flies off in retreat. Zod declares his victory but Luthor scoffs until he reveals that he knows the location of the Fortress of Solitude. Zod, Ursa, and Non fly to the Arctic, taking Luthor and Lois with them.At the Fortress, Superman attempts to lay one last trap to stop Zod but fails and stops his fight with the three when they threaten to kill Lois. Knowing that the three Kryptonians pose a threat to the entire world, Luthor listens as Superman tells him to try and trick them all into the crystal chamber that will transform them into humans. Zod catches on and forces Superman to enter the chamber himself. Luthor himself initiates the process by placing the green crystal in the remaining control panel. While Superman is in the transformation chamber, the rest of the Fortress is bathed in red light. Zod demands that Superman kneel to him and take his hand. Superman slowly crushes Zod's hand in his and flings him into a pit. Luthor realizes that Superman had reversed the power of the chamber to protect him and transform the criminals. Non, unable to fly, falls into the pit and Lois punches Ursa, who suffers the same fate as her comrades.Superman returns Luthor to the authorities, despite the criminal's pleas that he was in on his plan. Superman returns Lois to her home. At the Daily Planet the following day, Superman (as Clark) kisses Lois, using his telepathic abilities to wipe Lois' mind of all the events surrounding Zod's arrival on Earth including her knowledge that Clark and Superman are the same person. At the truck stop where he was beaten up by the bullying driver, Clark takes revenge on the bullying truck driver who assaulted him.Superman restores the damage done by Zod, and as he replaces the flag on top of the White House, promises the President to never again abandon his duty.",
+  "imdb_score": 6.8
+}

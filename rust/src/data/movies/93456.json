@@ -1,0 +1,265 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/fOipappvgVtUbbHOtmCkHzcwJjC.jpg",
+  "id": 93456,
+  "title": "Despicable Me 2",
+  "poster_path": "https://image.tmdb.org/t/p/w500/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg",
+  "release_date": "2013-06-26",
+  "vote_average": 6.919,
+  "vote_count": 10728,
+  "popularity": 133.755,
+  "overview": "Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.",
+  "imdb_id": "tt1690953",
+  "budget": 76000000,
+  "homepage": "",
+  "revenue": 970800000,
+  "runtime": 98,
+  "tagline": "When the world needed a hero, they called a villain.",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    "Illumination",
+    "Universal Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Steve Carell",
+        "character": "Gru (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dzJtsLspH5Bf8Tvw7OQC47ETNfJ.jpg"
+      },
+      {
+        "name": "Kristen Wiig",
+        "character": "Agent Lucy Wilde (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/43lFW3Ed6tNaVMsr9cwg0eP9n5n.jpg"
+      },
+      {
+        "name": "Benjamin Bratt",
+        "character": "Eduardo 'El Macho' Pérez (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg"
+      },
+      {
+        "name": "Miranda Cosgrove",
+        "character": "Margo (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qIGeoyXEVu1LxTH34TWx1YSHyQr.jpg"
+      },
+      {
+        "name": "Russell Brand",
+        "character": "Dr. Nefario (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AzRt43rdeK5nH7w6uWyyVwYla0.jpg"
+      },
+      {
+        "name": "Ken Jeong",
+        "character": "Floyd Eagle-san (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9OAUwY25yPxItnkcnnJdtpNwMSp.jpg"
+      },
+      {
+        "name": "Steve Coogan",
+        "character": "Silas Ramsbottom (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg"
+      },
+      {
+        "name": "Elsie Fisher",
+        "character": "Agnes (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lSmrN828nMMXHvwr7IgO1qlYPSa.jpg"
+      },
+      {
+        "name": "Dana Gaier",
+        "character": "Edith (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oZD7cXIHfdeTdFpc16UNptf99WS.jpg"
+      },
+      {
+        "name": "Moisés Arias",
+        "character": "Antonio Pérez (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fc7krDmEA4VkIY4KOJjpMXGdsfg.jpg"
+      },
+      {
+        "name": "Nasim Pedrad",
+        "character": "Jillian (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/43rcDWcZHQXhC9COWQKdkLMufRj.jpg"
+      },
+      {
+        "name": "Kristen Schaal",
+        "character": "Shannon (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s3LSHVTx8gxHP2twYsXEGa8JbLl.jpg"
+      },
+      {
+        "name": "Pierre Coffin",
+        "character": "Kevin / Bob / Stuart / Additional Minions / Evil Minions (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg"
+      },
+      {
+        "name": "Chris Renaud",
+        "character": "Additional Minions / Evil Minions / Italian Waiter (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sumBJgBqRkK4XEJ2JYXpad3MTJs.jpg"
+      },
+      {
+        "name": "Nickolai Stoilov",
+        "character": "Arctic Lab Guards (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dd0hxWQ9VEdFiFYehUB1alPSvHw.jpg"
+      },
+      {
+        "name": "Vanessa Bayer",
+        "character": "Flight Attendant (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8IUjlVY8l7S7BEVhfHzKNgVGpUX.jpg"
+      },
+      {
+        "name": "Ava Acres",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sYMwB6534I4vpfHyxvkdkDo3spa.jpg"
+      },
+      {
+        "name": "Lori Alan",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pdqefVlTbIpNObYdIlyWQGYLEBd.jpg"
+      },
+      {
+        "name": "Jack Angel",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5MsVwIULYJotUSbDs61uSJff7ei.jpg"
+      },
+      {
+        "name": "Eva Bella",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8XmnkpEEEtXYXTQ9PFBBtIUAaBR.jpg"
+      },
+      {
+        "name": "Georgia Cook",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nRnG7utATMs7TfM1zlPSTkAiyMn.jpg"
+      },
+      {
+        "name": "John Cygan",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sIcRLzUyeOL9ayYOUye3LFWkfuA.jpg"
+      },
+      {
+        "name": "Debi Derryberry",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aCVgHnvGBw7ssZA9kl1Pnr5pJjU.jpg"
+      },
+      {
+        "name": "Jess Harnell",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+      },
+      {
+        "name": "Danny Mann",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/980QYqXIZCMn5Knx0vjROkw9vKo.jpg"
+      },
+      {
+        "name": "Mona Marshall",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A2RCAt0Xmm3jLBKZogQAJX6eD9n.jpg"
+      },
+      {
+        "name": "Mickie McGowan",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4K1HF10EvDjdaIoDAnWqFZjnmvk.jpg"
+      },
+      {
+        "name": "Mason McNulty",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k0d6Ql15ImYbCCZEOQuKUcm3yYx.jpg"
+      },
+      {
+        "name": "Alec Medlock",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e4xRLtdu4QkstJ7mSUgwVGpvwKt.jpg"
+      },
+      {
+        "name": "Laraine Newman",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/62i0sFf0IwmkQkBW9Osucgx8qGr.jpg"
+      },
+      {
+        "name": "Jan Rabson",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8IBFupx53arTqxOYhGkGwyVSaOn.jpg"
+      },
+      {
+        "name": "Andre Robinson",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/94IRACbuilkND9xTK7DG5s1dDVI.jpg"
+      },
+      {
+        "name": "Katie Silverman",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s3Z8ZfvlxYto38ip40LooxPxvx.jpg"
+      },
+      {
+        "name": "Casey Simpson",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1PiAQ8n6lkSuyFirNYFpy5D3lsP.jpg"
+      },
+      {
+        "name": "Claira Nicole Titman",
+        "character": "Additional Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Ward",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yQklzBUmaHbcS00DXq73J1HYUrE.jpg"
+      },
+      {
+        "name": "April Winchell",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aRIUYseEeOSfI7a4EqPbKIyPR1o.jpg"
+      },
+      {
+        "name": "Joe Matthews",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eRIT2vvX4yJxBdiKrb12xhxtQ8O.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Pierre Coffin",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg"
+      },
+      {
+        "name": "Chris Renaud",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sumBJgBqRkK4XEJ2JYXpad3MTJs.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "parent child relationship",
+    "adoptive father",
+    "secret agent",
+    "bakery",
+    "sequel",
+    "falling in love",
+    "family",
+    "single father",
+    "audition",
+    "female agent",
+    "duringcreditsstinger",
+    "first date",
+    "supervillain",
+    "despicable",
+    "masked supervillain",
+    "minions"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "When Gru, the world's most super-bad turned super-dad has been recruited by a team of officials to stop lethal muscle and a host of Gru's own, He has to fight back with new gadgetry, cars, and more minion madness.",
+    "While Gru, the ex-supervillain is adjusting to family life and an attempted honest living in the jam business, a secret Arctic laboratory is stolen. The Anti-Villain League decides it needs an insider's help and recruits Gru in the investigation. Together with the eccentric AVL agent, Lucy Wilde, Gru concludes that his prime suspect is the presumed dead supervillain, El Macho, whose his teenage son is also making the moves on his eldest daughter, Margo. Seemingly blinded by his overprotectiveness of his children and his growing mutual attraction to Lucy, Gru seems on the wrong track even as his minions are being quietly kidnapped en masse for some malevolent purpose.—Kenneth Chisholm (kchishol@rogers.com)",
+    "The ex-villain Gru is raising his daughters Margo, Edith and Agnes and researching a legitimate jelly and jam business with Dr. Nefarion and the minions. Meanwhile, a laboratory in Arctic is stolen by a powerful aircraft using magnetism. The Anti-Villain league (AVL) agent Lucy Wilde recruits Gru to help her agency discover who has stolen the laboratory and its research. They know that the thief has a store in a mall, and Gru suspects that the owner of the Mexican restaurant Salsa & Salsa, Eduardo Perez, may be the villain El Macho that is presumed dead.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "Having settled into a new life of fatherhood and jelly-making with his adorable three little girls, rehabilitated former supervillain Gru is in for a big surprise when Anti-Villain League Agent Lucy Wilde approaches him seeking assistance. And under pressing circumstances, reluctant Gru is back in the game, chasing down the mysterious perpetrator who stole an unstable, highly experimental transmutation serum. However, this is easier said than done, especially after the events of Despicable Me (2010). Is infamous criminal mastermind Gru humankind's best chance at saving the world from a delirious madman and his irrepressible need for global dominion?—Nick Riganas",
+    "A good villain and his team investigate a villain who is plotting to destroy everything in sight. With the help of an agent, the team must find a way to put a stop to the evil plan before it is too late and end up in danger and everyone else in a dilemma that they cannot get out of.—RECB3"
+  ],
+  "synopsis": "A secret laboratory near the Arctic Circle is stolen by a mysterious vehicle using a giant magnet. The Anti-Villain League (AVL) recruits former super-villain Gru (Steve Carell), now a devoted father to Margo, Edith and Agnes, to find out which evil person stole the lab, (which contained a powerful mutagen known as PX-41 which can make indestructible and extremely aggressive monsters out of living organisms) because Gru, being an ex-villain knows how villains work but refuses. Gru learns that Dr. Nefario, his friend and assistant, has decided to leave him for new employment, because he \"missed being evil.\" In his new avatar, Gru had Nefario produce a new line of Jams and Jellies, a task that Dr Naferio was terrible at.Gru reluctantly partners with undercover AVL agent Lucy Wilde, and together they search The Paradise Shopping Mall (where traces of PX41 have been spotted), where they are given a bakery called \"Bake My Day\" as their headquarters. AVL also gives Gru and Lucy a list of shop owners whom they think are behind the theft.Gru suspects Mexican restaurant owner Eduardo Perez of being a super-villain called \"El Macho\", a bad guy who became Gru's inspiration for a villain who supposedly died after sky-surfing a TNT-laden shark into the center of an active volcano. Gru and Lucy break into Eduardo's restaurant at night, but only find a jar of secret-recipe salsa and nothing to prove that Eduardo is the culprit. Meanwhile, Agnes expresses her wish of having a mother someday and suspects that Gru will fall in love with Lucy. Gru tells her that his relationship with Lucy is strictly professional.Meanwhile Margo meets Eduardo's son Antonio in the mall & has a huge crush on him.\nGru and Lucy investigate wig merchant Floyd Eagle-San, but Gru is still suspicious of Eduardo. After the investigation, Gru is set up on a horrible dinner date with a woman named Shannon, who notices Gru's wig and threatens to humiliate him. Luckily, Lucy bumps into them and rescues him from the date by shooting Shannon with a tranquilizer dart. They take Shannon home, and after they say good night, Gru realizes that Agnes was right: he has romantic feelings for Lucy.The next day, the AVL arrests Floyd Eagle-San (who claims that he was framed) because an almost-empty mutagen jar was found in his shop. The investigation is closed, and Lucy is reassigned to Australia. Before leaving, Lucy gives Gru her lipstick taser to remind him of her. This leaves Gru heartbroken because he loves her, but he cannot find the courage to ask her out on a date. Instead, he brings the girls to Eduardo's Cinco De Mayo party and finds proof that the Mexican restaurateur is in fact the super-villain El Macho.Gru discovers that Eduardo (and his helper, Dr. Nefario) have captured and mutated a large number of Gru's minions using the PX-41, turning them into insane, savage, purple-furred monsters. El Macho plans to send rockets full of mutated Minions to major cities and achieve world domination. El Macho emphasizes that he and Gru could team up and they would become evil again followed by ruling the city, but Gru avoids answering and leaves with his daughter Margo, who in the meantime has broken up with Eduardo's two-timing son, Antonio, who had left Margo for another girl. For breaking Margo's heart, Gru uses his freeze-ray to freeze Antonio in a block of ice.On her flight to Australia, Lucy realizes she has feelings for Gru, so she jumps out of the plane and hang-glides down to the party. She is captured by El Macho, who knows she is an AVL agent after Pollito, his pet chicken, retrieves her AVL ID badge from her purse. Fortunately, Dr. Nefario lets Gru know what is happening.In order to rescue Lucy, Gru visits El Macho along with two minions covered in purple cupcake frosting, pretending he was captured by two of the mutant creatures. Dr Nefario decides to go back to Gru's lab & develops an antidote for the PX41. He rescues the girls from the mutated minions & takes them to fight El Macho. Fighting alongside his daughters and Dr. Nefario, Gru and his team spray all of the mutated minions with awful-tasting jelly containing a powerful antidote that Dr. Nefario made, whereupon they revert to their friendly yellow state. El Macho then takes the mutagen himself, but Gru and Dr. Nefario easily overcome him using a fart gun and Lucy's lipstick-taser.Lucy is, however, already strapped to a TNT-loaded shark rocket. Gru starts to untie her, but the rocket-launch remote button is pressed by El Macho's pet chicken Pollito. The rocket flies towards the same lava-spewing volcano where El Macho had previously faked his death. Lucy accepts Gru's invitation for a date, and the pair dives into the safety of the ocean seconds before the rocket enters the volcano.One hundred and forty-seven dates later, Gru and Lucy are married, and Margo, Edith and Agnes finally have a mother. The minions close with a rendition of \"I Swear\" (sung in Minionese as \"Underwear\") and \"Y.M.C.A\" while the whole family dances. Then, a purple furry minion shows up, surprising the family.",
+  "imdb_score": 7.3
+}

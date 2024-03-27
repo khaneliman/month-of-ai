@@ -1,0 +1,827 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/gum3tuO1zKHBdElSQPS08PJ1w67.jpg",
+  "id": 783,
+  "title": "Gandhi",
+  "poster_path": "https://image.tmdb.org/t/p/w500/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+  "release_date": "1982-12-01",
+  "vote_average": 7.545,
+  "vote_count": 2170,
+  "popularity": 17.645,
+  "overview": "In the early years of the 20th century, Mohandas K. Gandhi, a British-trained lawyer, forsakes all worldly possessions to take up the cause of Indian independence. Faced with armed resistance from the British government, Gandhi adopts a policy of 'passive resistance', endeavouring to win freedom for his people without resorting to bloodshed.",
+  "imdb_id": "tt0083987",
+  "budget": 22000000,
+  "homepage": "",
+  "revenue": 77737889,
+  "runtime": 191,
+  "tagline": "His triumph changed the world forever.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    "Goldcrest",
+    "Indo-British",
+    "International Film Investors",
+    "National Film Development Corporation of India",
+    "Columbia Pictures"
+  ],
+  "production_countries": [
+    "IN",
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Ben Kingsley",
+        "character": "Mahatma Gandhi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vQtBqpF2HDdzbfXHDzR4u37i1Ac.jpg"
+      },
+      {
+        "name": "Candice Bergen",
+        "character": "Margaret Bourke-White",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yDthvXPRkcwSVcPj9QZz3Z7ZH5B.jpg"
+      },
+      {
+        "name": "Edward Fox",
+        "character": "General Dyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mRAgZvRscftn6roAKdLQwrrrWrS.jpg"
+      },
+      {
+        "name": "John Gielgud",
+        "character": "Lord Irwin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rSyG2ypOnMVOuGtDJMYt5VV1bMr.jpg"
+      },
+      {
+        "name": "Trevor Howard",
+        "character": "Judge Broomfield",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AbsAbElTbDYpI8gMzrvoToemcwh.jpg"
+      },
+      {
+        "name": "John Mills",
+        "character": "Lord Chelmsford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jMqhI1NeTwgdKsrj9vMshk1r5hP.jpg"
+      },
+      {
+        "name": "Rohini Hattangadi",
+        "character": "Kasturba Gandhi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Fm21uY6pDoktRkahCFQLddAJKy.jpg"
+      },
+      {
+        "name": "Martin Sheen",
+        "character": "Vince Walker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5W4OuI6evOYyPc3pUnKAEnpLtX3.jpg"
+      },
+      {
+        "name": "Ian Charleson",
+        "character": "Reverend Charlie Andrews",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ajjETMq3zGvABN7tmB8AA4nYLOi.jpg"
+      },
+      {
+        "name": "Harsh Nayyar",
+        "character": "Nathuram Godse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1ThQ7mfGUC7zpFswuZ5JXA89NnQ.jpg"
+      },
+      {
+        "name": "Athol Fugard",
+        "character": "General Jan Christiaan Smuts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vr4iRP4Mvc8QWYUtceVKKEpebbB.jpg"
+      },
+      {
+        "name": "Günther Maria Halmer",
+        "character": "Dr. Herman Kallenbach",
+        "profile_path": ""
+      },
+      {
+        "name": "Saeed Jaffrey",
+        "character": "Sardar Vallabhbhai Patel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vfESx8h4d8xfGfGasqreTdJgYQP.jpg"
+      },
+      {
+        "name": "Geraldine James",
+        "character": "Mirabehn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wnqmn77oKtHiZFZuwxU2HWSAILF.jpg"
+      },
+      {
+        "name": "Alyque Padamsee",
+        "character": "Mohammad Ali Jinnah",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6hbMpRolNUV38v4ji0fngC4RHzt.jpg"
+      },
+      {
+        "name": "Amrish Puri",
+        "character": "Khan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uhMGFS7tuG71LDv2wk9LfZZ4EG6.jpg"
+      },
+      {
+        "name": "Roshan Seth",
+        "character": "Pandit Nehru",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4TbHkaZxPegaTns250cVXr8F91F.jpg"
+      },
+      {
+        "name": "Ian Bannen",
+        "character": "Senior Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4WrkyylbxsSNsVlfXDctE7KDOuP.jpg"
+      },
+      {
+        "name": "Michael Bryant",
+        "character": "Principal Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ytSwr1kt43fIFPIXzW7q3UuFeAu.jpg"
+      },
+      {
+        "name": "John Clements",
+        "character": "Advocate General",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bZDN08dAUkdYljFpTFXizXXfnQB.jpg"
+      },
+      {
+        "name": "Richard Griffiths",
+        "character": "Collins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iZLE14qeU9ytbJVrfpZ8S08Qmnf.jpg"
+      },
+      {
+        "name": "Nigel Hawthorne",
+        "character": "Kinnoch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v8bin2HUa9gayqxmCnlRlh0taxq.jpg"
+      },
+      {
+        "name": "Bernard Hepton",
+        "character": "G.O.C.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ud9XqroQkWEdR58W5bK0aRZhGqR.jpg"
+      },
+      {
+        "name": "Michael Hordern",
+        "character": "Sir George Hodge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bdnxQrWH4hM7jo8fzGpcqSQeCSq.jpg"
+      },
+      {
+        "name": "Shreeram Lagoo",
+        "character": "Gopal Krishna Gokhale",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6tVwvit8BUsz39ddEBnDP6Hivo7.jpg"
+      },
+      {
+        "name": "Virendra Razdan",
+        "character": "Maulana Azad",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Vernon",
+        "character": "Sir Edward Gait",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uSFGSsK4MZgL7G0YRinZeSQYRxY.jpg"
+      },
+      {
+        "name": "Prabhakar Patankar",
+        "character": "Prakash",
+        "profile_path": ""
+      },
+      {
+        "name": "Vijay Kashyap",
+        "character": "Apte",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bus9Lj8KeUdaZlKN62hPqqhwRiJ.jpg"
+      },
+      {
+        "name": "Nigam Prakash",
+        "character": "Karkare",
+        "profile_path": ""
+      },
+      {
+        "name": "Supriya Pathak",
+        "character": "Manu",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cDvNa9XL425kBiyT4xqRGM8kK4H.jpg"
+      },
+      {
+        "name": "Neena Gupta",
+        "character": "Abha",
+        "profile_path": "https://image.tmdb.org/t/p/w185/znCPPYR79c1DU2MvA61JXhdMeCs.jpg"
+      },
+      {
+        "name": "Shane Rimmer",
+        "character": "Commentator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/morFcla0R2Bv3vu3B1HgCmm0eiv.jpg"
+      },
+      {
+        "name": "Peter Harlowe",
+        "character": "Lord Mountbatten",
+        "profile_path": ""
+      },
+      {
+        "name": "Anang Desai",
+        "character": "J.B. Kripalani",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c5QbV2LHo1AFtavHO6owAObONBC.jpg"
+      },
+      {
+        "name": "Winston Ntshona",
+        "character": "Porter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uwtYuKAfjqncfD1lyYQ1uAavQRH.jpg"
+      },
+      {
+        "name": "Peter Cartwright",
+        "character": "European Passenger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vS6w6Egt2Q5wlg9mfp5zUXDThcl.jpg"
+      },
+      {
+        "name": "Marius Weyers",
+        "character": "Conductor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tKgcFsfy9StwWj6vfNaJyxlRNEY.jpg"
+      },
+      {
+        "name": "Richard Mayes",
+        "character": "Baker",
+        "profile_path": ""
+      },
+      {
+        "name": "Alok Nath",
+        "character": "Tyeb Mohammed",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fMtqIj07e2HD0i5YbV91kgjrZzm.jpg"
+      },
+      {
+        "name": "Dean Gasper",
+        "character": "Singh",
+        "profile_path": ""
+      },
+      {
+        "name": "Ken Hutchison",
+        "character": "Police Sergeant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cxIwZOEewWBtyxKRTJlQwaKtaVQ.jpg"
+      },
+      {
+        "name": "Norman Chancer",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xxj8VqbDm4chXUF4A7Z3BnEpOVB.jpg"
+      },
+      {
+        "name": "Gulshan Kapoor",
+        "character": "Rich Merchant",
+        "profile_path": ""
+      },
+      {
+        "name": "Charu Bala Chokshi",
+        "character": "Ayah",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zCOt2Uf6HkWBy0X3B6Oo4E3Pgkv.jpg"
+      },
+      {
+        "name": "Raj Chaturvedi",
+        "character": "Harilal Gandhi",
+        "profile_path": ""
+      },
+      {
+        "name": "Avpar Jhita",
+        "character": "Manilal Gandhi",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Sagger",
+        "character": "Ramdas Gandhi",
+        "profile_path": ""
+      },
+      {
+        "name": "Om Puri",
+        "character": "Nahari (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3xENmjr7CA8ACRViHnjOI5jPQUt.jpg"
+      },
+      {
+        "name": "David Gant",
+        "character": "Daniels",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s5XZhuzETEbEIv4YanpR2Ng2URq.jpg"
+      },
+      {
+        "name": "Daniel Day-Lewis",
+        "character": "Colin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3kNA9VcmymoEwT0btQ4bvMYxzcP.jpg"
+      },
+      {
+        "name": "Ray Burdis",
+        "character": "Youth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mp3q2lsXkHH0AoZOnoippbV8CJv.jpg"
+      },
+      {
+        "name": "Daniel Peacock",
+        "character": "Youth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9zswikxywUBpGJo5G4Ln4psq6KJ.jpg"
+      },
+      {
+        "name": "Avis Bunnage",
+        "character": "Colin's Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fgGWKda5acSLOTsq5jLnuzTz4hH.jpg"
+      },
+      {
+        "name": "Caroline Hutchison",
+        "character": "Sonja Schlesin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/raaMFe7LSMyPrRWSFNHDkQZn1dm.jpg"
+      },
+      {
+        "name": "Mohan Agashe",
+        "character": "Tyeb Mohammed's Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p3LfmPZ0cZD0eUVb4LvH0Sm3jOw.jpg"
+      },
+      {
+        "name": "Sudhanshu Mishra",
+        "character": "Man in Gallery",
+        "profile_path": ""
+      },
+      {
+        "name": "Dina Nath",
+        "character": "Miner",
+        "profile_path": ""
+      },
+      {
+        "name": "John Savident",
+        "character": "Manager of the Mine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fAbTwsOLn0W6Cagb8mFasTzWW7V.jpg"
+      },
+      {
+        "name": "John Patrick",
+        "character": "Mounted Police Sergeant",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Godley",
+        "character": "Clergyman",
+        "profile_path": ""
+      },
+      {
+        "name": "Stewart Harwood",
+        "character": "Prison Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Stanley McGeagh",
+        "character": "Prison Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Good",
+        "character": "Young Englishman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iH9Hq2jJst0IF7NpOocfq2jL0Ce.jpg"
+      },
+      {
+        "name": "David Markham",
+        "character": "Older Englishman",
+        "profile_path": ""
+      },
+      {
+        "name": "Jyoti Sarup",
+        "character": "Young Indian Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "John Naylor",
+        "character": "English Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Wilson George",
+        "character": "American Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Hanshu Mehta",
+        "character": "Older Indian Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Sudarshan Sethi",
+        "character": "Motilal Nehru",
+        "profile_path": ""
+      },
+      {
+        "name": "Sunila Pradhan",
+        "character": "Mrs. Motilal Nehru",
+        "profile_path": ""
+      },
+      {
+        "name": "Moti Makan",
+        "character": "Traveller on Train Roof",
+        "profile_path": ""
+      },
+      {
+        "name": "Jalal Agha",
+        "character": "Traveller on Train Roof",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uLhINCStPUEkXtOwdB1e31fhOEU.jpg"
+      },
+      {
+        "name": "Rupert Frazer",
+        "character": "Cavalry Troop Leader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u5Gns0q6jv2Jv9z1VWUG3A91Dze.jpg"
+      },
+      {
+        "name": "Manohar Pitale",
+        "character": "Shukla",
+        "profile_path": ""
+      },
+      {
+        "name": "Homi Daruvala",
+        "character": "Nehru's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "K.K. Raina",
+        "character": "Nehru's Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eh2IJNYaawqClxksenUjeHqxey4.jpg"
+      },
+      {
+        "name": "Vivek Swaroop",
+        "character": "Nehru's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Raja Biswas",
+        "character": "Nehru's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Dominic Guard",
+        "character": "Subaltern",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nR90H8aL1CFi4FkofgfI5Shn2Zy.jpg"
+      },
+      {
+        "name": "Bernard Hill",
+        "character": "Sergeant Putnam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5i8bj2nsTrFU2ddSynleOjapxor.jpg"
+      },
+      {
+        "name": "Rama Kant Jha",
+        "character": "Village Leader",
+        "profile_path": ""
+      },
+      {
+        "name": "Nana Palsikar",
+        "character": "Villager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iVC6oyjy7EhuiILdIGsIrqxVBar.jpg"
+      },
+      {
+        "name": "Alpna Gupta",
+        "character": "Villager's Wife",
+        "profile_path": ""
+      },
+      {
+        "name": "Chandrakant Thakkar",
+        "character": "Policeman",
+        "profile_path": ""
+      },
+      {
+        "name": "John Quentin",
+        "character": "Batsman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nYkAL1uWONlU38lqXJZsnoDNAf3.jpg"
+      },
+      {
+        "name": "Graham Seed",
+        "character": "Wicket-Keeper",
+        "profile_path": ""
+      },
+      {
+        "name": "Keith Drinkel",
+        "character": "Major",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9pnhElvFHMPu5nMMrq44VgpVNPL.jpg"
+      },
+      {
+        "name": "Bob Barbenia",
+        "character": "Police Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Gerald Sim",
+        "character": "Magistrate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2OMGg61nszlGw3ZCNJAQnTcWlSW.jpg"
+      },
+      {
+        "name": "Colin Farrell",
+        "character": "Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h19BfuFuE7FBmdtTD7n3z4JTg5q.jpg"
+      },
+      {
+        "name": "Sanjeev Puri",
+        "character": "Young Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Gareth Forwood",
+        "character": "Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cSkiLvEdptauHuEMENVWMA0s9GZ.jpg"
+      },
+      {
+        "name": "Vijay Crishna",
+        "character": "Chauffeur",
+        "profile_path": ""
+      },
+      {
+        "name": "Sankalp Dubey",
+        "character": "Servant",
+        "profile_path": ""
+      },
+      {
+        "name": "James Cossins",
+        "character": "Brigadier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i0xmXmli13odEyslR85JhlkQ7wI.jpg"
+      },
+      {
+        "name": "Gurcharan Singh",
+        "character": "Speaker in Jallianwalla Bagh",
+        "profile_path": ""
+      },
+      {
+        "name": "John Vine",
+        "character": "A.D.C.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j7w5imzMYAOMLjd4EqQtF7Up3fA.jpg"
+      },
+      {
+        "name": "Geoffrey Chater",
+        "character": "Government Advocate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lVwhU8Om8yIxRWHUDW9M6GtBOof.jpg"
+      },
+      {
+        "name": "Ernest Clark",
+        "character": "Lord Hunter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e7j2hO1C907ifPEet8lbvsxG9Wq.jpg"
+      },
+      {
+        "name": "Habib Tanvir",
+        "character": "Indian Barrister",
+        "profile_path": ""
+      },
+      {
+        "name": "Pankaj Mohan",
+        "character": "Mahadev Desai",
+        "profile_path": ""
+      },
+      {
+        "name": "Subhash Gupta",
+        "character": "Policeman at Chauri Chaura",
+        "profile_path": ""
+      },
+      {
+        "name": "Aadil",
+        "character": "Policeman at Chauri Chaura",
+        "profile_path": ""
+      },
+      {
+        "name": "Rajeshwar Nath",
+        "character": "Marcher at Chauri Chaura",
+        "profile_path": ""
+      },
+      {
+        "name": "S.S. Thakur",
+        "character": "Marcher at Chauri Chaura",
+        "profile_path": ""
+      },
+      {
+        "name": "Rahul Gupta",
+        "character": "Boy with Goat",
+        "profile_path": ""
+      },
+      {
+        "name": "Barry John",
+        "character": "Police Superintendent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7eHSfubsgI3qfSFLoe3WUH4Djva.jpg"
+      },
+      {
+        "name": "Brian Oulton",
+        "character": "Clerk of Court",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uOgp6kuUPaeru6uX1BUAD4ySI67.jpg"
+      },
+      {
+        "name": "James Snell",
+        "character": "Court Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "John Boxer",
+        "character": "Court Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Gerard Norman",
+        "character": "Court Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Bernard Horsfall",
+        "character": "General Edgar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iSCmf8oKWpmnszVlJK7fVeRODOO.jpg"
+      },
+      {
+        "name": "Richard Leech",
+        "character": "Brigadier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eSjNge4j2Jl2IW2R4L58lqX5Hvt.jpg"
+      },
+      {
+        "name": "Pankaj Kapur",
+        "character": "Pyarelal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q1ILNa9c4bVT7sr6yE6TUzGYaPu.jpg"
+      },
+      {
+        "name": "Tarla Mehta",
+        "character": "Sarojini Naidu",
+        "profile_path": ""
+      },
+      {
+        "name": "David Sibley",
+        "character": "Subaltern",
+        "profile_path": "https://image.tmdb.org/t/p/w185/97j1onIMZMZtUaqFgbWf9W1WpCg.jpg"
+      },
+      {
+        "name": "Dalip Tahil",
+        "character": "Zia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4kgTd5aKh3IRxrJ7uG5h9mojb57.jpg"
+      },
+      {
+        "name": "Stanley Lebor",
+        "character": "Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vVSUPNPnSPzrqYpgaGAhxb326a4.jpg"
+      },
+      {
+        "name": "Terrence Hardiman",
+        "character": "Ramsay MacDonald",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jbues6vQgKbCOvLdGuktrkNp0iW.jpg"
+      },
+      {
+        "name": "Monica Gupta",
+        "character": "Little Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Jon Croft",
+        "character": "Colonel",
+        "profile_path": ""
+      },
+      {
+        "name": "William Hoyland",
+        "character": "Adjutant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hWUqIfZoErW1y1ubkz5vKo01gVQ.jpg"
+      },
+      {
+        "name": "John Ratzenberger",
+        "character": "American Lieutenant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e5aNU09v1q6WYTx9pNzC7yjSpve.jpg"
+      },
+      {
+        "name": "Jack McKenzie",
+        "character": "Major at Aga Khan Palace",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Alter",
+        "character": "Doctor at Aga Khan Palace",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3NtQ4zx3dxaeGcymWFfRKndPMqe.jpg"
+      },
+      {
+        "name": "Jane Myerson",
+        "character": "Lady Mountbatten",
+        "profile_path": ""
+      },
+      {
+        "name": "Roop Kumar Razdan",
+        "character": "Hindu Youth at Ashram",
+        "profile_path": ""
+      },
+      {
+        "name": "Bani Sharad Joshi",
+        "character": "Woman Refugee",
+        "profile_path": ""
+      },
+      {
+        "name": "Vagish Kumar Singh",
+        "character": "Man Refugee",
+        "profile_path": ""
+      },
+      {
+        "name": "Dilsher Singh",
+        "character": "Abdul Ghaffar Khan",
+        "profile_path": ""
+      },
+      {
+        "name": "Sudhir Dalvi",
+        "character": "Police Commissioner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bESGpvnujk8K59nCYojfh5v5qka.jpg"
+      },
+      {
+        "name": "Tilak Raj",
+        "character": "Tahib",
+        "profile_path": ""
+      },
+      {
+        "name": "Irpinder Puri",
+        "character": "Sushila Nayyar",
+        "profile_path": ""
+      },
+      {
+        "name": "Pren Kapoor",
+        "character": "Hindu Youth in Calcutta Street",
+        "profile_path": ""
+      },
+      {
+        "name": "Vinay Apte",
+        "character": "Hindu Youth in Calcutta Street",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Plx8USdwcfQbkcSxnQwvZ83KLV.jpg"
+      },
+      {
+        "name": "Aswini Kumar",
+        "character": "Hindu Youth in Calcutta Street",
+        "profile_path": ""
+      },
+      {
+        "name": "Avinash Dogra",
+        "character": "Hindu Youth in Calcutta Street",
+        "profile_path": ""
+      },
+      {
+        "name": "Shreedhar Joshi",
+        "character": "Hindu Youth in Calcutta Street",
+        "profile_path": ""
+      },
+      {
+        "name": "Suhas Palshikar",
+        "character": "Hindu Youth in Calcutta Street",
+        "profile_path": ""
+      },
+      {
+        "name": "Karkirat Singh",
+        "character": "Nehru's Aide",
+        "profile_path": ""
+      },
+      {
+        "name": "Shekhar Chatterjee",
+        "character": "Suhrawardy",
+        "profile_path": ""
+      },
+      {
+        "name": "Amarjeet",
+        "character": "Goonda",
+        "profile_path": ""
+      },
+      {
+        "name": "Pratap Desai",
+        "character": "Goonda",
+        "profile_path": ""
+      },
+      {
+        "name": "Bhatawadekar Prakash",
+        "character": "Goonda",
+        "profile_path": ""
+      },
+      {
+        "name": "Sunil Shende",
+        "character": "Goonda",
+        "profile_path": ""
+      },
+      {
+        "name": "Rovil Sinha",
+        "character": "Goonda",
+        "profile_path": ""
+      },
+      {
+        "name": "Derek Lyons",
+        "character": "Radio Reporter at Funeral (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3rz4mRzDsS3PgdnOaeDH3VmmFVL.jpg"
+      },
+      {
+        "name": "Fred Wood",
+        "character": "Man in the Crowd (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jcQIbcwcLYTS7JAVMg1n1f36Hsv.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Richard Attenborough",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gNfQNsx9SrQpHt8Eq6CUwycH9Iu.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "muslim",
+    "strike",
+    "prayer",
+    "freedom",
+    "independence",
+    "release from prison",
+    "demonstration",
+    "world war ii",
+    "imprisonment",
+    "colony",
+    "hunger strike",
+    "hindu",
+    "british army",
+    "political negotiations",
+    "conference",
+    "nonviolent resistance",
+    "apartheid",
+    "british empire",
+    "protest",
+    "independence movement",
+    "biography",
+    "idealism",
+    "based on true story",
+    "idealist",
+    "fighting the system"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.",
+    "In 1893, Mohandas K. Gandhi is thrown off a South African train for being an Indian and traveling in a first class compartment. Gandhi realizes that the laws are biased against Indians and decides to start a non-violent protest campaign for the rights of all Indians in South Africa. After numerous arrests and the unwanted attention of the world, the government finally relents by recognizing rights for Indians, though not for the native blacks of South Africa. After this victory, Gandhi is invited back to India, where he is now considered something of a national hero. He is urged to take up the fight for India's independence from the British Empire. Gandhi agrees, and mounts a non-violent non-cooperation campaign of unprecedented scale, coordinating millions of Indians nationwide. There are some setbacks, such as violence against the protesters and Gandhi's occasional imprisonment. Nevertheless, the campaign generates great attention, and Britain faces intense public pressure. Too weak from World War II to continue enforcing its will in India, Britain finally grants India's independence. Indians celebrate this victory, but their troubles are far from over. Religious tensions between Hindus and Muslims erupt into nation-wide violence. Gandhi declares a hunger strike, saying he will not eat until the fighting stops. The fighting does stop eventually, but the country is divided. It is decided that the northwest area of India, and eastern part of India (current day Bangladesh), both places where Muslims are in the majority, will become a new country called Pakistan (West and East Pakistan respectively). It is hoped that by encouraging the Muslims to live in a separate country, violence will abate. Gandhi is opposed to the idea, and is even willing to allow Muhammad Ali Jinnah to become the first prime minister of India, but the Partition of India is carried out nevertheless. Gandhi spends his last days trying to bring about peace between both nations. He thereby angers many dissidents on both sides, one of whom finally gets close enough to assassinate him.—gavin (gunmasterM@hotmail.com)",
+    "The last fifty years of the life of Mahatma Gandhi leading to his assassination in 1948 is portrayed. In the late 1800's South Africa, then Indian-British attorney Mohandas K. Gandhi takes up the cause of fighting what he sees as racially discriminatory laws against colored people such as himself and other ethnic Indians. Being that South Africa is part of the British Empire, he is hoping that news of such in the British press will support his cause. Although violence is used against him by the authorities, his protests are only by peaceful means. Having made a name for himself as a motivator of peaceful action which he does not want confused with passivity, Gandhi returns to India in 1915, when he has now abandoned his western clothing for more basic self-made garb of shawls and loincloths. He is asked by prominent Indian figures of the day, such as Jawaharlal Nehru, Vallabhbhai Patel and Muhammad Ali Jinnah, to join the fight for Indian independence from the British, despite some within that group believing Gandhi's methods ineffective. Because of internal religious conflicts between the Hindus and minority Muslims among others, the British believe that an Indian self-government would lead to chaos, which to Gandhi is beside the point. But Gandhi's ability to rally the troops is enough to strike fear in the British controlled authorities, who do whatever they feel they need to quash his quiet revolution while trying not to make him appear the martyr. Even if Gandhi and his cohorts are able to achieve independence for their homeland, Gandhi must figure out how to control the dissent between the Hindus and the Muslims. Among those documenting the process are American journalist Vince Walker and American photojournalist Margaret Bourke-White, both on the most part sympathetic to Gandhi's cause.—Huggo",
+    "This acclaimed biographical drama presents major events in the life of Mohandas K. Gandhi, the beloved Indian leader who stood against British rule over his country. Dedicated to the concept of nonviolent resistance, Gandhi is initially dismissed by English officials, including the influential Lord Irwin, but eventually he and his cause become internationally renowned, and his gatherings of passive protest move India towards independence.—Jwelch5742",
+    "When Mohandas Gandhi first set foot in British India, he had already been to Britain and South Africa, and had created quite a stir for the betterment of the people. But in India, he realized that he had first to live the life of a peasant to understand what it is to be an Indian. This resolve will lead him to shed his westerners clothing, don a simple loincloth, mobilize awareness of local industry, lessen dependence on imported clothing and material, the historic Dandee march for withdrawal of the salt tax, a fast unto death to stop the virtual slaughter of British troops, and be imprisoned several times. His resolve was to work with stalwarts such as Mohammed Ali Jinnah, Sardar Valabhbhai Patel, Professor Gokhale, J.B. Kripalani, Maulana Azad, and Pandit Jawaharlal Nehru to ensure first of all to get the British to quit India, and then run an Indian Government under the Congress party. Gandhi will soon realize that it is not enough to be just an Indian, for India has many facets - Muslim, Hindu, Sikh, Jewish, and Christian. The British relied on these many facets as an excuse for their continuance as they wanted to ensure that the minorities are not oppressed. Concerned over the inroads made by Gandhi to unite the Hindus, Muslims, and all others under a common umbrella, the British invited Jinnah for talks, and it is here that a seed was laid for a separate country called Pakistan. When Gandhi came to know about this, he pleaded with Jinnah to unite the Muslims, even take over as the first Prime Minister with his choice of Muslim candidates for Parliament, but separatist Jinnah had already made up his mind. The World Wars of 1914 and 1944 having taken its toll on Europe, and on Britain in particular, the weary British finally decided to leave India in 1947 - not the India they had conquered - but an India that was ready to be divided in East Pakistan and West Pakistan. Now after the much awaited independence was the real test for Gandhi - a test that will make him or break him - as he started a fast unto death to try and stop the violence that was threatening to break out into a civil war.—rAjOo (gunwanti@hotmail.com)"
+  ],
+  "synopsis": "On 30 January 1948, on his way to an evening prayer service, an elderly Gandhi (Ben Kingsley) is helped out for his evening walk to meet a large number of greeters and admirers. One visitor, Nathuram Godse (Harsh Nayyar), shoots him point blank in the chest. Gandhi exclaims, \"Oh, God!\", and then falls dead. Manu (Supriya Pathak) & Abha (Neena Gupta) were at his side during his last moment. His state funeral is shown, the procession attended by millions of people from all walks of life, with a radio reporter speaking eloquently about Gandhi's world-changing life and works.Jawaharlal Nehru (Roshan Seth), Sardar Vallabhbhai Patel (Saeed Jaffrey), Maulana Azad (Virendra Razdan) & Lord Louis Mountbatten (Peter Harlowe) along with many other dignitaries attended the funeral with state honors.In 1893, the 23-year-old Gandhi is thrown off a South African train for being an Indian sitting in a first-class compartment despite having a first-class ticket. Khan (Amrish Puri) (in South Africa) is a Indian Muslim trader and tells Gandhi (who has been in the country for only a week) on how things have been for Indians under apartheid. Realizing the laws are biased against Indians, he then decides to start a non-violent protest campaign (by burning the passes issued by the British for which he is brutally man-handled by the police, but Gandhi never retaliates) for the rights of all Indians in South Africa, arguing that they are British subjects and entitled to the same rights and privileges. Kasturba Gandhi (Rohini Hattangadi) supports Gandhi from the very beginning. They have 3 young kids.Reverend Charles Freer Andrews (Ian Charleson) comes from India to meet Gandhi in South Africa. Gandhi tells Charles about his philosophy of non-violence that can be found in all religious scriptures. South Africa is where Vince Walker (Martin Sheen), a fictional journalist from the NYT based partially on Webb Miller, meets Gandhi for the first time. General Jan Smuts (Athol Fugard) is the British in charge of SA and responds to Gandhi's protest by further tightening the law (all Indians must be fingerprinted and all marriages except a Christian one is void. As per law, any policeman may enter an Indian house and demand papers from any Indian female). Gandhi's following grows, but he is committed to the path of non-violence and controls the extremists in his movement.Gandhi establishes an ashram as a way of a Utopian society with no caste and freedom of religion. But he has resistance from Kasturba, when he forces her to clean the toilets as per the cleaning schedule.\nAfter numerous arrests and unwelcome international attention (English press reports how thousands of workers court arrest by not following the law, which forced the mines to be shut down), the government finally relents by recognizing some rights for Indians (Smuts is forced to repeal the law to get the workers back to the mines).In 1915, as a result of his victory in South Africa, Gandhi is invited back to India, where he is now considered something of a national hero. He is urged to take up the fight for India's independence (Swaraj, Quit India) from the British Empire by Nehru and Patel. He meets Muhammad Ali Jinnah (Alyque Padamsee) for the first time, who is a member of the Congress party. Gopal Krishna Gokhale (Shreeram Lagoo) is a mentor to Charles and asks Gandhi to tour the country first and understand its rhythm. Gandhi tours India and sees the poverty and destitution firsthand. The WWI is over and Congress party plans to demand Independence.Jinnah wants to sideline Gandhi, but he says things that connects with the populace (he says ordinary Indians are fighting for bread and salt, not independence). Gandhi tells Nehru about picking grass root issues that impact poor Indians and not about transfer of power to some rich Indians, so they can rule instead of the British. Gandhi learns about the struggle of farmers at Champaran. Farmers are forced to grow Indigo, but cannot sell it, as all cloth is now imported from England. They still have to pay rent to Brit Landlords in cash. As Gandhi interacts more with the farmers, his popularity grows. He is arrested by the nervous British police. He is christened Bapu, by the loving public. The magistrate is forced to release Gandhi as the military won't get to Champaran till the next day. The Brit Govt takes notice and repeals the repressive farm laws.Gandhi becomes the face of Indian Independence, and mounts a non-violent non-cooperation campaign of unprecedented scale, coordinating millions of Indians nationwide. Its starts with a day of prayer on the day when repressive arrest laws are to come into effect.\nThere are some setbacks, such as violence against the protesters, Gandhi's occasional imprisonment, and the 1919 Jallianwala Bagh massacre. Brigadier General Reginald Dyer (Edward Fox) opens live fire at peaceful gatherings (with women and children) in Amritsar, since it was against the law. By God's grace the streets were too narrow to bring in a tank, so he only brought in rifles. 1516 casualties with 1650 bullets fired.Nevertheless, the campaign generates great attention, and Britain faces intense public pressure. Gandhi launches the Quit India movement. He tells the British Viceroy that 100K Brits cannot control 350 MM Indians and they should see the wisdom in leaving. Gandhi calls for Indian Khadi to be worn instead of Manchester cloth.Mirabehn (Madeleine Slade) (Geraldine James) is the daughter of an English admiral and comes to live in his Ashram. In a riot, some policemen are killed. Gandhi withdraws the Quit India movement, saying that India is not ready yet. He goes on an indefinite fast to plead his countrymen to stop. Nehru stops the campaign and it is clear that he is a favorite of Gandhi. Gandhi is arrested for sedition & Judge R. S. Broomfield (Trevor Howard), the presiding judge in Gandhi's sedition trial, sentences him to 6 yrs in prison.In 1930, Gandhi protests against the British-imposed salt tax via the highly symbolic Salt March from Dandi (Walker from the NYT covers the event and gives it global coverage). British new Viceroy decides to ignore the march, but this proves counterproductive as it galvanizes the nation. Viceroy is under pressure to act and arrests the entire Congress leadership. But the movement continues with no violence from the Indian side. This culminates in a march on the Dharsana salt works plant where waves of India civil protesters are beaten back by armed police, without any retaliation from their side.Gandhi is invited to London for an all-government conference concerning Britain's possible departure from India; this, however, proves fruitless (as the British want to divide India along religious and Princely state lines). Gandhi decides not to press the claim just before WWII. Gandhi is jailed in Agha Khan's palace for speaking against the war. Margaret Bourke-White (Candice Bergen) from LIFE magazine visits him for an interview. Kasturba dies of a heart attack.After the Second World War, Mountbatten arrives as the new Viceroy to India & India finally wins its independence. Indians celebrate this victory, but their troubles are far from over. The country is subsequently divided by religion. It is decided that the northwest area and the eastern part of India (current-day Bangladesh), both places where Muslims are in the majority, will become a new country called Pakistan.It is hoped that by encouraging the Muslims to live in a separate country, violence will abate. Gandhi is opposed to the idea and is even willing to allow Muhammad Ali Jinnah to become the first Prime Minister of India, but the Partition of India is carried out nevertheless (Nehru decided not to give up his ambition and refuses to abdicate the PM post in favor of Jinnah). Religious tensions between Hindus and Muslims erupt into nationwide violence (the largest human migration in history begins on the western border between India and Pakistan). Horrified, Gandhi declares a hunger strike, saying he will not eat until the fighting stops. The fighting does stop eventually.Gandhi spends his last days trying to bring about peace between both nations. He, thereby, angers many dissidents on both sides, one of whom (Godse) is involved in a conspiracy to assassinate him. Gandhi is cremated and his ashes are scattered on the holy Ganga. As this happens, viewers hear Gandhi in another voiceover from earlier in the film.",
+  "imdb_score": 8
+}

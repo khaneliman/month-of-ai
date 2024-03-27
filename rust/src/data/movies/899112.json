@@ -1,0 +1,300 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/sBOenwOZGRN5nZZGw4TxwtnfrEf.jpg",
+  "id": 899112,
+  "title": "Violent Night",
+  "poster_path": "https://image.tmdb.org/t/p/w500/e8CpMgdyihz9Td7amQDqubPuzfN.jpg",
+  "release_date": "2022-11-30",
+  "vote_average": 7.4,
+  "vote_count": 1857,
+  "popularity": 70.939,
+  "overview": "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn’t prepared for a surprise combatant: Santa Claus is on the grounds, and he’s about to show why this Nick is no saint.",
+  "imdb_id": "tt12003946",
+  "budget": 20000000,
+  "homepage": "https://www.violentnightmovie.com",
+  "revenue": 75734910,
+  "runtime": 111,
+  "tagline": "You better watch out.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Fantasy",
+    "Horror"
+  ],
+  "production_companies": [
+    "87North Productions",
+    "Universal Pictures",
+    "Original Pictures",
+    "dentsu"
+  ],
+  "production_countries": [
+    "CA",
+    "JP",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "David Harbour",
+        "character": "Santa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/chPekukMF5SNnW6b22NbYPqAStr.jpg"
+      },
+      {
+        "name": "John Leguizamo",
+        "character": "Scrooge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+      },
+      {
+        "name": "Beverly D'Angelo",
+        "character": "Gertrude",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8fYQIA8dAaA4GOTxOFSKIvTqzi.jpg"
+      },
+      {
+        "name": "Alex Hassell",
+        "character": "Jason",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1VvnpDdLJ8WBBceDayjnAG9efNC.jpg"
+      },
+      {
+        "name": "Alexis Louder",
+        "character": "Linda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fCLuN1yyzMYPIuw7WndyYQ02cfv.jpg"
+      },
+      {
+        "name": "Edi Patterson",
+        "character": "Alva",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ecVF2n0OrZcbDlPEkNnrAUyWQuH.jpg"
+      },
+      {
+        "name": "Cam Gigandet",
+        "character": "Morgan Steel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg"
+      },
+      {
+        "name": "Leah Brady",
+        "character": "Trudy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4KzEubHWaRbpFrKEGiORNEgLJZI.jpg"
+      },
+      {
+        "name": "André Eriksen",
+        "character": "Gingerbread",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n2TRohxYgXXM4jphEnUYsS6Io9b.jpg"
+      },
+      {
+        "name": "Brendan Fletcher",
+        "character": "Krampus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dSXct01FSuMQmuTt2PuBlV4veTY.jpg"
+      },
+      {
+        "name": "Mike Dopud",
+        "character": "Commander Thorp",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qJn6v7auGZjaQhDkIjFqVrAoBIq.jpg"
+      },
+      {
+        "name": "Alexander Elliot",
+        "character": "Bert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gWgu5EvU2IOP0pZD7O2SRQdnoPv.jpg"
+      },
+      {
+        "name": "Mitra Suri",
+        "character": "Candy Cane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yYfJcAYcupuXYa1ON7JxG6NZCqV.jpg"
+      },
+      {
+        "name": "Can Aydin",
+        "character": "Frosty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ayE3dQbjISEgTvYV7xmysjwnw02.jpg"
+      },
+      {
+        "name": "Phong Giang",
+        "character": "Tinsel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s4Bx4cSiQHn7hevaNMZhqv6zIBV.jpg"
+      },
+      {
+        "name": "Finn McCager Higgins",
+        "character": "Jingle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nWvzmUc3xkh6dJTPgmkHc7OHJk7.jpg"
+      },
+      {
+        "name": "Rawleigh Clements-Willis",
+        "character": "Peppermint",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gFt3rCN0dpg3Wbkzsq3B66KESJ8.jpg"
+      },
+      {
+        "name": "Stephanie Sy",
+        "character": "Sugarplum",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o2LxSIY7kbSh8WNpnM0FOPP6CVK.jpg"
+      },
+      {
+        "name": "Yoon Cha-Lee",
+        "character": "Techie",
+        "profile_path": ""
+      },
+      {
+        "name": "Marina Stephenson Kerr",
+        "character": "UK Barkeeper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sLEOfwtdFCzpemIhOmpB1xpz6p0.jpg"
+      },
+      {
+        "name": "John B. Lowe",
+        "character": "UK Mall Santa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j2Ra0REYuP9Ipdx6nG7tkukyycG.jpg"
+      },
+      {
+        "name": "Ray Strachan",
+        "character": "Al the Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aFmZebuMI5OL45y3PsKb3WXsdlS.jpg"
+      },
+      {
+        "name": "Sean Skene",
+        "character": "Lead Bodyguard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nCpq5xa35rZaqrogZ3kUyMEjsj5.jpg"
+      },
+      {
+        "name": "Thomas Lorber",
+        "character": "Bodyguard",
+        "profile_path": ""
+      },
+      {
+        "name": "Erik Athavale",
+        "character": "Drunk Dad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v5J8qSMldAixR3PcUoQmbAPlOOM.jpg"
+      },
+      {
+        "name": "Adam Hurtig",
+        "character": "Head Waiter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nLOpEqGZkalzE74sXP3JMx4oq43.jpg"
+      },
+      {
+        "name": "Ron Borges",
+        "character": "Eggnog Security Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrian Persad",
+        "character": "Kill Squad",
+        "profile_path": ""
+      },
+      {
+        "name": "Marc-André Brisebois",
+        "character": "Kill Squad",
+        "profile_path": ""
+      },
+      {
+        "name": "Dylan Rampulla",
+        "character": "Kill Squad",
+        "profile_path": ""
+      },
+      {
+        "name": "Maxime Laurin",
+        "character": "Kill Squad",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Sean Nott",
+        "character": "Kill Squad",
+        "profile_path": ""
+      },
+      {
+        "name": "Jake Kennerd",
+        "character": "Kill Squad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p39iLELw78R5OXwFBMRTmQpg9Nm.jpg"
+      },
+      {
+        "name": "Carson Nattrass",
+        "character": "Kill Squad",
+        "profile_path": ""
+      },
+      {
+        "name": "Lance Cartwright",
+        "character": "Kill Squad",
+        "profile_path": ""
+      },
+      {
+        "name": "Alan Castanga",
+        "character": "Kill Squad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pbMXKmPWd1C8qdHPDpQ4E1VGxmC.jpg"
+      },
+      {
+        "name": "Jeff Strome",
+        "character": "Mansion Staff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kU33R3zq69lITBIun1ZvpBQgMLz.jpg"
+      },
+      {
+        "name": "Shannon Guile",
+        "character": "Lightstone Staff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5D6Ac1ocggcVFgrx3YWutaHuba0.jpg"
+      },
+      {
+        "name": "Anders Strome",
+        "character": "Lightstone Staff",
+        "profile_path": ""
+      },
+      {
+        "name": "Darren Ross",
+        "character": "Lightstone Staff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7RZiPVPaOXZes8mvTlJ37UB4oiv.jpg"
+      },
+      {
+        "name": "BJ Verot",
+        "character": "Lightstone Security",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z7w65HwJSR5AIosjJQiNqohyNt7.jpg"
+      },
+      {
+        "name": "Tristan Carlucci",
+        "character": "Lightstone Security",
+        "profile_path": ""
+      },
+      {
+        "name": "James Durham",
+        "character": "Lightstone Security",
+        "profile_path": ""
+      },
+      {
+        "name": "Brent Poplawski",
+        "character": "Lightstone Security",
+        "profile_path": ""
+      },
+      {
+        "name": "Frederick Allen",
+        "character": "Bar Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x7wglPuqdO4xZXJFZfgqbYaUaCg.jpg"
+      },
+      {
+        "name": "DJ Brotherson",
+        "character": "Mercenary (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eC6FbkW4cluQzLLyNGhlodHNUQQ.jpg"
+      },
+      {
+        "name": "Vance Halldorson",
+        "character": "Grounds Security (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Tommy Wirkola",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lhvD0FltdzJqrI5xr5IN90nyh6f.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "holiday",
+    "santa claus",
+    "mercenary",
+    "saving christmas",
+    "booby trap",
+    "duringcreditsstinger",
+    "christmas"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "An elite team of mercenaries breaks into a family compound on Christmas Eve, taking everyone hostage. However, they aren't prepared for a surprise combatant: Santa Claus is on the grounds, and he's about to show why this Nick is no saint.",
+    "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn't prepared for a surprise combatant: Santa Claus is on the grounds, and he's about to show why this Nick is no saint.—Official Synopsis",
+    "Christmas Eve, 2022. Having spent centuries bringing gifts and spreading holiday cheer to children around the world, disillusioned Santa Claus now toys with the idea of hanging up his boots. Instead, he is in for a nasty surprise when he sets foot in the lavish Lightstone mansion and realises Christmas-hating Scrooge and his armed-to-the-teeth mercenaries have taken 7-year-old Trudy and her family hostage. Now, there's no turning back. Are the bad guys prepared for an unlikely opponent and a long, bloody, violent night?—Nick Riganas",
+    "It's Christmas Eve and a jaded, cynical, alcoholic Santa Claus is making his deliveries to all the children of the world. He happens to be in the house of the super-wealthy Gertrude Lightstone when a gang of ruthless thugs break in, seeking the $300 million stashed in the vault. A bumbling, overweight, drunk Santa is now the Lightstones only hope of survival.—grantss"
+  ],
+  "synopsis": "On Christmas Eve, Santa Claus drinks at a pub in Bristol where he laments to a mall Santa how the kids have begun to lose their Christmas spirit and have become increasingly materialistic. He leaves on his sleigh pulled by his reindeer, shocking and delighting the pub's bartender, before accidentally vomiting on her from his sleigh.Jason Lightstone, his estranged wife Linda, and their daughter Trudy travel to the countryside mansion of Jason's wealthy and crude mother Gertrude to celebrate Christmas at her lavish estate that has been funded by the profitable family business. They are joined by Jason's alcoholic sister Alva, her new boyfriend and wannabe-action star Morgan Steele, and Alva's son Bertrude. After realizing he didn't take Trudy to the mall to see Santa, Jason implores Linda to make up with him with Jason promising to quit his job working for Gertrude and leave it all behind. He finds an old walkie talkie which he gives to Trudy to \"talk to Santa.\"Santa arrives at the Lightstone estate to deliver gifts, when the catering staff and some servants reveal themselves to be part of a group of mercenaries, led by a man known as \"Mr. Scrooge\" where they all use Christmas code-names, and take the family hostage. Santa gets into a fight with one of the henchmen whose gunfire scares away the reindeer. Santa inadvertently kills the henchman when a string of Christmas lights pulls him out of the window and is impaled on an icicle decoration outside. Santa later kills another henchman, stabbing him in the eye with a tree topper, before plugging it in and electrocuting him. Taking the henchman's walkie talkie, Santa accidentally finds Trudy's channel and, seeing that she is on his nice list, decides to help save her while also finding that all the mercenaries are on his naughty list.Over the course of the night, it is revealed that Mr. Scrooge is after $300 million given to the Lightstone company to funnel oil into the Middle East, but was stolen by Gertrude and kept in the mansion's vault. When Trudy's walkie talkie is discovered, Jason and Linda attempt to convince the mercenaries that Trudy is simply playing make-believe. When she refuses to go along, Jason tells her that Santa isn't real causing her to run and hide in the attic. Over the walkie, Santa reveals that before he was Santa, he was a Viking warrior, giving context to his barbaric nature. He confirms to her that he is real by telling her about the letters she wrote to him. Santa is taken hostage by Scrooge, who wants to ruin Christmas because his father was laid off in his childhood, so he never had a good Christmas. He snuck into a house to steal gifts and inadvertently caused the death of an elderly man. Scrooge and his henchmen Gingerbread and Candy Cane are stunned when Santa reveals his knowledge of their identities before Santa escapes through the chimney.Gertrude's \"kill squad\" arrives to the mansion, but they are on Scrooge's payroll, killing Morgan in the process. The squad's commander Thorpe opens the vault which contains nothing. With a gun to Linda's head, Jason confesses that he stole the money and was planning to escape with Linda and Trudy, which shocks everyone but Gertrude, who learned of this from Jason's gift that she was forced to open by Scrooge's lead henchman Krampus but acknowledged as part of a Lightstone rite of passage.Santa retreats to a shed where he discovers a hammer. Inspired, he brutally slaughters the kill squad before rushing to save Trudy. Upstairs, Trudy creates traps inspired by Home Alone. This leads to Gingerbread being killed by a bowling ball driving a nail into his head. Candy Cane escapes her traps and prepares to kill Trudy, but she is rescued by Santa who kills Candy Cane.The family is taken outside by Scrooge and Commander Thorpe. Jason surrenders the money, but Scrooge intends to kill the family anyway. Santa arrives, forcing Scrooge, Commander Thorpe and the remaining soldiers to flee. Santa crashes into an old cabin in the woods where Scrooge, finding the list, acknowledges Santa is real, but wants to kill him to end Christmas. Scrooge gains the upper hand, but Santa flies up the cabin's chimney, eviscerating Scrooge's body. Commander Thorpe shoots Santa, but he is quickly killed by Gertrude. Santa succumbs to his wounds.Trudy is able to get her family to believe in Santa, and burn $500,000 in paper money to keep Santa's body warm. Eventually, Santa is revived, stunning the family and Santa himself. The reindeer return and Santa bids goodbye to Trudy before flying off to finish delivering gifts with his inspiration and love for Christmas renewed.",
+  "imdb_score": 6.7
+}

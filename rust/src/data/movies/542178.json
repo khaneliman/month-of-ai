@@ -1,0 +1,1730 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/4XKqxgjRJs3YtH5j1Eli5y6gtno.jpg",
+  "id": 542178,
+  "title": "The French Dispatch",
+  "poster_path": "https://image.tmdb.org/t/p/w500/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+  "release_date": "2021-10-21",
+  "vote_average": 7.077,
+  "vote_count": 2354,
+  "popularity": 29.243,
+  "overview": "The staff of an American magazine based in France puts out its last issue, with stories featuring an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.",
+  "imdb_id": "tt8847712",
+  "budget": 25000000,
+  "homepage": "https://www.searchlightpictures.com/thefrenchdispatch/",
+  "revenue": 46333545,
+  "runtime": 108,
+  "tagline": "",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "production_companies": [
+    "Searchlight Pictures",
+    "Indian Paintbrush",
+    "American Empirical Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Benicio del Toro",
+        "character": "Moses Rosenthaler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s1EVFX10YJZTcvkAAq4AcPniS3t.jpg"
+      },
+      {
+        "name": "Adrien Brody",
+        "character": "Julian Cadazio",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1dBItgLFBNGEXnI48VvnnN2vFaX.jpg"
+      },
+      {
+        "name": "Tilda Swinton",
+        "character": "J.K.L. Berensen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gWbX3a7V2MgRMRzekfITNcb27xV.jpg"
+      },
+      {
+        "name": "Léa Seydoux",
+        "character": "Simone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tUfoM95x70Qsb1ElClPSpSrZQ2v.jpg"
+      },
+      {
+        "name": "Frances McDormand",
+        "character": "Lucinda Krementz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r0A7hZsM1zuavTr0jN7bwmBcliR.jpg"
+      },
+      {
+        "name": "Timothée Chalamet",
+        "character": "Zeffirelli",
+        "profile_path": "https://image.tmdb.org/t/p/w185/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
+      },
+      {
+        "name": "Lyna Khoudri",
+        "character": "Juliette",
+        "profile_path": "https://image.tmdb.org/t/p/w185/88mUQz0icP53YIQ6O7b0NSVPCc3.jpg"
+      },
+      {
+        "name": "Jeffrey Wright",
+        "character": "Roebuck Wright",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yGcuHGW4glqRpOPxgiCvjcren7F.jpg"
+      },
+      {
+        "name": "Mathieu Amalric",
+        "character": "The Commissaire",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fMhfoTbjlXQy2Iojp7oYx49hLQl.jpg"
+      },
+      {
+        "name": "Steve Park",
+        "character": "Nescaffier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4VJHB0du5M5khzcCeapKlbxxDxc.jpg"
+      },
+      {
+        "name": "Bill Murray",
+        "character": "Arthur Howitzer, Jr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+      },
+      {
+        "name": "Owen Wilson",
+        "character": "Herbsaint Sazerac",
+        "profile_path": "https://image.tmdb.org/t/p/w185/op8sGD20k3EQZLR92XtaHoIbW0o.jpg"
+      },
+      {
+        "name": "Bob Balaban",
+        "character": "Uncle Nick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tLUlpF9EDxxRh6nM8AZ5BsPKc2B.jpg"
+      },
+      {
+        "name": "Henry Winkler",
+        "character": "Uncle Joe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c35LVOjB1gbY5iYzhN9PGIXUHWt.jpg"
+      },
+      {
+        "name": "Lois Smith",
+        "character": "Upshur 'Maw' Clampette",
+        "profile_path": "https://image.tmdb.org/t/p/w185/unvPSZshdNoj7c5wl6D30gPwKtS.jpg"
+      },
+      {
+        "name": "Tony Revolori",
+        "character": "Young Rosenthaler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
+      },
+      {
+        "name": "Denis Ménochet",
+        "character": "Prison Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l8OrSjr7ajuWzYTv70mbYIUpiGX.jpg"
+      },
+      {
+        "name": "Larry Pine",
+        "character": "Chief Magistrate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wJRarkKBRVxDzKIB5O22tLd3wAT.jpg"
+      },
+      {
+        "name": "Morgane Polanski",
+        "character": "Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jOs1fYh7lMjuKb9jATv1CDx328s.jpg"
+      },
+      {
+        "name": "Félix Moati",
+        "character": "Head Caterer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yUOjywBDEK3L18JPtUFna4tCR7S.jpg"
+      },
+      {
+        "name": "Mohamed Belhadjine",
+        "character": "Mitch-Mitch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qNMs6dFcE8NFhXd38wq4KYV9xIz.jpg"
+      },
+      {
+        "name": "Nicolas Avinée",
+        "character": "Vittel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dpL7oZ04F1cbdbgMjn21Zw43wNk.jpg"
+      },
+      {
+        "name": "Christoph Waltz",
+        "character": "Paul Duval",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Hhztd4mUEV9Y25rfkXDwzL9QI9.jpg"
+      },
+      {
+        "name": "Cécile de France",
+        "character": "Mrs. B",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jVhNVm8PLkGhFb4jNaDkfZpkoyz.jpg"
+      },
+      {
+        "name": "Guillaume Gallienne",
+        "character": "Mr. B",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nponKvpwED1CivIY3f2NlQGLWE9.jpg"
+      },
+      {
+        "name": "Rupert Friend",
+        "character": "Drill-Sergeant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mYgY8LrMkQ4OkGTIOf6MtkbMnnW.jpg"
+      },
+      {
+        "name": "Alex Lawther",
+        "character": "Morisot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg"
+      },
+      {
+        "name": "Tom Hudson",
+        "character": "Mitch-Mitch (on stage)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4YZPq6vxaozuVMzenqx0E6gE9at.jpg"
+      },
+      {
+        "name": "Lily Taïeb",
+        "character": "Juliette's Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1HLJSP3xewf4M3l6Bpc1IliKRfN.jpg"
+      },
+      {
+        "name": "Stéphane Bak",
+        "character": "Communications Specialist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g7SSry50u4DZvCRNlbE8Iv1PNiW.jpg"
+      },
+      {
+        "name": "Hippolyte Girardot",
+        "character": "Chou-fleur",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1CHjLDZcxugIYpdT8nFDL3Av2GV.jpg"
+      },
+      {
+        "name": "Liev Schreiber",
+        "character": "Talk Show Host",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3wFnwxs1LIZOh1FtWjZWuS2mm8z.jpg"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "Albert 'the Abacus'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+      },
+      {
+        "name": "Edward Norton",
+        "character": "The Chauffeur",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5XBzD5WuTyVQZeS4VI25z2moMeY.jpg"
+      },
+      {
+        "name": "Saoirse Ronan",
+        "character": "Junkie/Showgirl #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4plcgNpHArZUTiYqgpQdGw4PZdT.jpg"
+      },
+      {
+        "name": "Winsen Ait Hellal",
+        "character": "Gigi",
+        "profile_path": ""
+      },
+      {
+        "name": "Mauricette Coudivat",
+        "character": "Maman",
+        "profile_path": ""
+      },
+      {
+        "name": "Damien Bonnard",
+        "character": "Police Detective",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cN9L9PWztvkhvkAllldc3j07HtC.jpg"
+      },
+      {
+        "name": "Rodolphe Pauly",
+        "character": "Patrolman Maupassant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lJLx3MO5Zv2yI3ahETrIXNDFb8c.jpg"
+      },
+      {
+        "name": "Antonia Desplat",
+        "character": "Junkie/Showgirl #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9VNraIyo8CVHBG648kxeUtGveAY.jpg"
+      },
+      {
+        "name": "Elisabeth Moss",
+        "character": "Alumna",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vZDe22EtLtcHvPr28l4ZM0b7qjG.jpg"
+      },
+      {
+        "name": "Jason Schwartzman",
+        "character": "Hermès Jones",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
+      },
+      {
+        "name": "Fisher Stevens",
+        "character": "Story Editor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vfyZMT3t3mGTloYGrC7T3QhGkwp.jpg"
+      },
+      {
+        "name": "Griffin Dunne",
+        "character": "Legal Advisor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oZeAznfOHgK1Kvy9TknkQhag1Um.jpg"
+      },
+      {
+        "name": "Pablo Pauly",
+        "character": "Waiter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cmJ97Qpef4hjwxgBeD6WSaZVM0f.jpg"
+      },
+      {
+        "name": "Wallace Wolodarsky",
+        "character": "Cheery Writer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a6npTg5wUQIHkyH17m5FPc9hJPV.jpg"
+      },
+      {
+        "name": "Anjelica Bette Fellini",
+        "character": "Proofreader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bpx0u5A0EAFquzNh5TiFuFjNJdI.jpg"
+      },
+      {
+        "name": "Anjelica Huston",
+        "character": "Narrator (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6hnYeHa7Rc1w1MmQ3JsLSIb7yCX.jpg"
+      },
+      {
+        "name": "Krishna Bagadiya",
+        "character": "Blind Writer",
+        "profile_path": ""
+      },
+      {
+        "name": "Julien Lecat",
+        "character": "Amanuensis",
+        "profile_path": ""
+      },
+      {
+        "name": "Gaelle Puimaly",
+        "character": "Accountant",
+        "profile_path": ""
+      },
+      {
+        "name": "Leo Jennings",
+        "character": "Copy Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexandre Steiger",
+        "character": "Howitzer's Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Aoh1XmXBRLxHez9TZ66q72lo89.jpg"
+      },
+      {
+        "name": "Philippe Peyraud",
+        "character": "Man Smoking Cigarette",
+        "profile_path": ""
+      },
+      {
+        "name": "Gérard Merle",
+        "character": "Man Outside Café",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean Pierre Grasset",
+        "character": "Weathered Man with Hat",
+        "profile_path": ""
+      },
+      {
+        "name": "Yannick Begoin",
+        "character": "Magazine Delivery Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Yves Gaillard",
+        "character": "Old Man at Wine Shop",
+        "profile_path": ""
+      },
+      {
+        "name": "Jerome Caminotti",
+        "character": "Old Man at Metro Map",
+        "profile_path": ""
+      },
+      {
+        "name": "Pierre-Yves Martron",
+        "character": "Police Cyclist",
+        "profile_path": ""
+      },
+      {
+        "name": "Philippe Pelletier",
+        "character": "Police Cyclist / Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Landry Marinette",
+        "character": "Woman Rolling Groceries",
+        "profile_path": ""
+      },
+      {
+        "name": "Natal Koli",
+        "character": "Kansas Gravedigger",
+        "profile_path": ""
+      },
+      {
+        "name": "Côme Loury",
+        "character": "Bootblack",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Piechaud",
+        "character": "Bootblack",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlie Rosser",
+        "character": "Bootblack",
+        "profile_path": ""
+      },
+      {
+        "name": "Mathys Raynaud",
+        "character": "Bootblack",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Poirson",
+        "character": "Bootblack",
+        "profile_path": ""
+      },
+      {
+        "name": "Gabriel Mesnard",
+        "character": "Bootblack",
+        "profile_path": ""
+      },
+      {
+        "name": "Raphael Delage",
+        "character": "Bootblack",
+        "profile_path": ""
+      },
+      {
+        "name": "Briac Aubin",
+        "character": "Bootblack",
+        "profile_path": ""
+      },
+      {
+        "name": "Raphael Bancarel",
+        "character": "Bootblack",
+        "profile_path": ""
+      },
+      {
+        "name": "Tiago Allaire",
+        "character": "Bootblack",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Frappier",
+        "character": "Bootblack",
+        "profile_path": ""
+      },
+      {
+        "name": "Raphael Dias",
+        "character": "Bootblack",
+        "profile_path": ""
+      },
+      {
+        "name": "Victorien Belly",
+        "character": "Bootblack",
+        "profile_path": ""
+      },
+      {
+        "name": "Samuel Amblard",
+        "character": "Bootblack",
+        "profile_path": ""
+      },
+      {
+        "name": "Sam Poupart",
+        "character": "Bootblack",
+        "profile_path": ""
+      },
+      {
+        "name": "Milo Bancarel",
+        "character": "Bootblack",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Audry",
+        "character": "Bootblack Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "Francois Boussiron",
+        "character": "Bootblack Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean-Pierre Coudert",
+        "character": "Bootblack Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick Morcelli",
+        "character": "Bootblack Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "Bernard Richefort",
+        "character": "Bootblack Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "Djemal Saidoun",
+        "character": "Bootblack Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "Vincent Griere",
+        "character": "Bricklayer",
+        "profile_path": ""
+      },
+      {
+        "name": "Arthur Guillebaud",
+        "character": "Bricklayer",
+        "profile_path": ""
+      },
+      {
+        "name": "Mehdy Hassani",
+        "character": "Bricklayer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jérémy Martincourt",
+        "character": "Bricklayer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicolas Pasciani",
+        "character": "Bricklayer",
+        "profile_path": ""
+      },
+      {
+        "name": "Eutrope Roger",
+        "character": "Bricklayer",
+        "profile_path": ""
+      },
+      {
+        "name": "Marti Torrens",
+        "character": "Bricklayer",
+        "profile_path": ""
+      },
+      {
+        "name": "Pierre Cantaral",
+        "character": "Pickpocket",
+        "profile_path": ""
+      },
+      {
+        "name": "Louis Changeur",
+        "character": "Pickpocket",
+        "profile_path": ""
+      },
+      {
+        "name": "Denis Havard",
+        "character": "Pickpocket",
+        "profile_path": ""
+      },
+      {
+        "name": "Halbo Kool",
+        "character": "Pickpocket",
+        "profile_path": ""
+      },
+      {
+        "name": "Pascal Lefort",
+        "character": "Pickpocket",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean-Benoit Pinot",
+        "character": "Pickpocket",
+        "profile_path": ""
+      },
+      {
+        "name": "Gregory Sacriste",
+        "character": "Pickpocket",
+        "profile_path": ""
+      },
+      {
+        "name": "Antonio Terroso",
+        "character": "Pickpocket",
+        "profile_path": ""
+      },
+      {
+        "name": "Marc Tournier",
+        "character": "Pickpocket",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean Marie Camps",
+        "character": "Butcher",
+        "profile_path": ""
+      },
+      {
+        "name": "Dominique Donnary",
+        "character": "Butcher",
+        "profile_path": ""
+      },
+      {
+        "name": "Claude Gaume",
+        "character": "Butcher",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacques Grattepanch",
+        "character": "Butcher",
+        "profile_path": ""
+      },
+      {
+        "name": "Damien Nadaud",
+        "character": "Butcher",
+        "profile_path": ""
+      },
+      {
+        "name": "Gilbert Papponnaud",
+        "character": "Butcher",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Rabouin",
+        "character": "Butcher",
+        "profile_path": ""
+      },
+      {
+        "name": "Willem Rompen",
+        "character": "Butcher",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacky Souchet",
+        "character": "Butcher",
+        "profile_path": ""
+      },
+      {
+        "name": "Malik Tati",
+        "character": "Butcher",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean-Claude Audouin",
+        "character": "Man Shining Shoe",
+        "profile_path": ""
+      },
+      {
+        "name": "Alban Ploix",
+        "character": "Ticket Vendor",
+        "profile_path": ""
+      },
+      {
+        "name": "Laurent Bauer",
+        "character": "'Brique Rouge' Clubgoer",
+        "profile_path": ""
+      },
+      {
+        "name": "Fanny Taccoen",
+        "character": "'Brique Rouge' Clubgoer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tahnee Peterson Stuart",
+        "character": "'Brique Rouge' Clubgoer",
+        "profile_path": ""
+      },
+      {
+        "name": "Maud Brethenoux",
+        "character": "'Brique Rouge' Clubgoer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bm1JQMcuag1vaA7AsazqRhUGwVN.jpg"
+      },
+      {
+        "name": "Anna Budanova",
+        "character": "'Brique Rouge' Clubgoer",
+        "profile_path": ""
+      },
+      {
+        "name": "Audrey Chemin",
+        "character": "'Brique Rouge' Clubgoer",
+        "profile_path": ""
+      },
+      {
+        "name": "Guillaume Ferrant",
+        "character": "'Brique Rouge' Clubgoer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nisrine Mofaraj",
+        "character": "'Brique Rouge' Clubgoer",
+        "profile_path": ""
+      },
+      {
+        "name": "Polina Glangetat",
+        "character": "Old Lady with Punks",
+        "profile_path": ""
+      },
+      {
+        "name": "Fabien Marcadet",
+        "character": "Punk",
+        "profile_path": ""
+      },
+      {
+        "name": "Luc Louis",
+        "character": "Punk",
+        "profile_path": ""
+      },
+      {
+        "name": "Karim Youssouf",
+        "character": "Punk",
+        "profile_path": ""
+      },
+      {
+        "name": "Rudy Chaperon",
+        "character": "Punk",
+        "profile_path": ""
+      },
+      {
+        "name": "Quentin Fournier",
+        "character": "Punk",
+        "profile_path": ""
+      },
+      {
+        "name": "Orguiene Corniere",
+        "character": "Punk",
+        "profile_path": ""
+      },
+      {
+        "name": "Manon Talandier",
+        "character": "Punk",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucas Bascans",
+        "character": "Punk",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexis Vignaud",
+        "character": "Punk",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Raymond",
+        "character": "Punk",
+        "profile_path": ""
+      },
+      {
+        "name": "Gilles Gauthier",
+        "character": "Man with Camera",
+        "profile_path": ""
+      },
+      {
+        "name": "Nahel Bahnas",
+        "character": "Choirboy",
+        "profile_path": ""
+      },
+      {
+        "name": "Akim Bahnas",
+        "character": "Choirboy",
+        "profile_path": ""
+      },
+      {
+        "name": "Antoine Foo Cheung",
+        "character": "Choirboy",
+        "profile_path": ""
+      },
+      {
+        "name": "Francois Foo Cheung",
+        "character": "Choirboy",
+        "profile_path": ""
+      },
+      {
+        "name": "Samy Guerry Ghindri",
+        "character": "Choirboy",
+        "profile_path": ""
+      },
+      {
+        "name": "Felicien Marais",
+        "character": "Choirboy",
+        "profile_path": ""
+      },
+      {
+        "name": "Nathanael Marfin",
+        "character": "Choirboy",
+        "profile_path": ""
+      },
+      {
+        "name": "Basile Vinueas",
+        "character": "Choirboy",
+        "profile_path": ""
+      },
+      {
+        "name": "Evelyne Chapeau",
+        "character": "Old Lady with Choirboys",
+        "profile_path": ""
+      },
+      {
+        "name": "Paula Kvasnikoff",
+        "character": "Kissing Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Vallier Vaudin",
+        "character": "Kissing Student",
+        "profile_path": ""
+      },
+      {
+        "name": "André Coussy",
+        "character": "Old Man Who Has Failed",
+        "profile_path": ""
+      },
+      {
+        "name": "Hassane Haimoud",
+        "character": "Boy Scout",
+        "profile_path": ""
+      },
+      {
+        "name": "Pauline Chadanson",
+        "character": "Streetwalker",
+        "profile_path": ""
+      },
+      {
+        "name": "Carlotta Costanzi",
+        "character": "Streetwalker",
+        "profile_path": ""
+      },
+      {
+        "name": "Mauricette Genon",
+        "character": "Streetwalker",
+        "profile_path": ""
+      },
+      {
+        "name": "Christelle Grelier",
+        "character": "Streetwalker",
+        "profile_path": ""
+      },
+      {
+        "name": "Rachel Merabet Hrdy",
+        "character": "Streetwalker",
+        "profile_path": ""
+      },
+      {
+        "name": "Sara Lacroix",
+        "character": "Streetwalker",
+        "profile_path": ""
+      },
+      {
+        "name": "Delphine Landrieau",
+        "character": "Streetwalker",
+        "profile_path": ""
+      },
+      {
+        "name": "Louise Laveuve",
+        "character": "Streetwalker",
+        "profile_path": ""
+      },
+      {
+        "name": "Kylian Freslon",
+        "character": "Gigolo",
+        "profile_path": ""
+      },
+      {
+        "name": "Meermout Didier",
+        "character": "John in Car",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicolas Saada",
+        "character": "Lawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pL5F9TPbjfZ0T9iI71nGA2ORoiC.jpg"
+      },
+      {
+        "name": "Yannik Mazzilli",
+        "character": "Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jjis8gmtjTRY2sLSWfbJoF2xukK.jpg"
+      },
+      {
+        "name": "Guillaume Mailland",
+        "character": "Representative Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Nicolas",
+        "character": "Butcher Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean Delabre",
+        "character": "Cruel Man in Tavern",
+        "profile_path": ""
+      },
+      {
+        "name": "François-Pierre Fol",
+        "character": "Vivaldi Trio",
+        "profile_path": ""
+      },
+      {
+        "name": "Bruno Torres",
+        "character": "Vivaldi Trio",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean-Louis Verdier",
+        "character": "Vivaldi Trio",
+        "profile_path": ""
+      },
+      {
+        "name": "Grégory Trouvé",
+        "character": "Caterer",
+        "profile_path": ""
+      },
+      {
+        "name": "Loic Baxas",
+        "character": "'Maw' Clampette's Doctor",
+        "profile_path": ""
+      },
+      {
+        "name": "Eliel Ford",
+        "character": "Cadazio's Nephew",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wzKm2rNJU3zPCseo0gRl2UdC5bp.jpg"
+      },
+      {
+        "name": "Mathéo Sallat Desvard",
+        "character": "Cadazio's Nephew",
+        "profile_path": ""
+      },
+      {
+        "name": "Dominique Barrier",
+        "character": "Magistrate",
+        "profile_path": ""
+      },
+      {
+        "name": "Pascal Champareau",
+        "character": "Magistrate",
+        "profile_path": ""
+      },
+      {
+        "name": "Sacha Seguin",
+        "character": "Maid",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacky Vallantin",
+        "character": "Foreign Legion Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Domingos Enrico",
+        "character": "Rosenthaler Father",
+        "profile_path": ""
+      },
+      {
+        "name": "Abdel Nour Bouaza",
+        "character": "Rosenthaler Son",
+        "profile_path": ""
+      },
+      {
+        "name": "Fanny Rebuffic",
+        "character": "Simone at Six",
+        "profile_path": ""
+      },
+      {
+        "name": "Juliette Raffray",
+        "character": "Simone at Twelve",
+        "profile_path": ""
+      },
+      {
+        "name": "Lou Lampros",
+        "character": "Simone at Sixteen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/934IjhOif2xWeGnyV6KT1Vfj19w.jpg"
+      },
+      {
+        "name": "Odile Fougère",
+        "character": "Simone at Forty",
+        "profile_path": ""
+      },
+      {
+        "name": "Sandro Kopp",
+        "character": "The French Splatter-School Action-Group",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6rIbDw1FfqN7eQoohOR0h4gMkBV.jpg"
+      },
+      {
+        "name": "Pedro Firmino Cunha Da Souza",
+        "character": "The French Splatter-School Action-Group",
+        "profile_path": ""
+      },
+      {
+        "name": "Pascal Battelier",
+        "character": "The French Splatter-School Action-Group",
+        "profile_path": ""
+      },
+      {
+        "name": "Lionel Lassuderie",
+        "character": "The French Splatter-School Action-Group",
+        "profile_path": ""
+      },
+      {
+        "name": "Duc Minh",
+        "character": "The French Splatter-School Action-Group",
+        "profile_path": ""
+      },
+      {
+        "name": "Cyril Morandiere",
+        "character": "The French Splatter-School Action-Group",
+        "profile_path": ""
+      },
+      {
+        "name": "Benoit Nacaud",
+        "character": "The French Splatter-School Action-Group",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean Jacques Peyraud",
+        "character": "The French Splatter-School Action-Group",
+        "profile_path": ""
+      },
+      {
+        "name": "Lubna Playoust",
+        "character": "The French Splatter-School Action-Group",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x466pnkT9ArRxEQ045TTeWmKbBN.jpg"
+      },
+      {
+        "name": "Patricia Richefort",
+        "character": "The French Splatter-School Action-Group",
+        "profile_path": ""
+      },
+      {
+        "name": "Owen Nsimba Soba",
+        "character": "The French Splatter-School Action-Group",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrien Yeung",
+        "character": "The French Splatter-School Action-Group",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean-Michel Audoual",
+        "character": "Prison Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Félix Bouin",
+        "character": "Prison Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick Brousse",
+        "character": "Prison Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Raynald Caraguel",
+        "character": "Prison Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Lhoussine Chinkir",
+        "character": "Prison Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Xavier Dupin",
+        "character": "Prison Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Garaud",
+        "character": "Prison Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Morgan Lorca",
+        "character": "Prison Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Laurent Pizzolato",
+        "character": "Prison Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Romuald Cormeunier",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Didier Da Costa",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Antonio Da Silva",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlie Defraine",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Erick Dues",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacques Fauvel",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Yoann Gaillard",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Poupart",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Thierry Gonzalez",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Sébastien Guignard",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Raphael Lagrue",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Simon Malyon",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "David Robles",
+        "character": "Prisoner",
+        "profile_path": ""
+      },
+      {
+        "name": "Sharif Andoura",
+        "character": "Professor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/szZjLQoIrlVmz6sqWJyXAcN79Cb.jpg"
+      },
+      {
+        "name": "Gilles Gaston-Dreyfus",
+        "character": "Mayor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gqXFUdM162eGPRz9zYbGSx6b1qv.jpg"
+      },
+      {
+        "name": "Laureen Perrocheau",
+        "character": "Zeffirelli's Sister",
+        "profile_path": ""
+      },
+      {
+        "name": "Mallaury Reby Perrocheau",
+        "character": "Zeffirelli's Sister",
+        "profile_path": ""
+      },
+      {
+        "name": "Sophie Fougère",
+        "character": "Aide",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g80TFscoouWqWFRSGEuhSsrqKmu.jpg"
+      },
+      {
+        "name": "Genevieve Brillet",
+        "character": "Secretary",
+        "profile_path": ""
+      },
+      {
+        "name": "Grégoire Leprince-Ringuet",
+        "character": "T.V. Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6LrOXoOefSwGIeeUOia4aagTFvD.jpg"
+      },
+      {
+        "name": "Jarvis Cocker",
+        "character": "Tip-top",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i4EzLcmH0OPoEicgE4hasgFdkIl.jpg"
+      },
+      {
+        "name": "Bruno Delbonnel",
+        "character": "François-Marie Charvet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1egXj9S7Bni5HxeqCUVWTXiJNhz.jpg"
+      },
+      {
+        "name": "Bérénice Bernard",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean Bourdet",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Antoine Bourgeais",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Lou Salomé Brizard",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Zoé Delisle",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Julies Desrosiers",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Simon Ecary",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Ida Fermaud",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Hugo Fontaine",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Raphael Gallego",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Grandadam",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrien Hans",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Yann Hedan",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Adèle Herisson",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Antoine Jové",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Pierre Lamoureux",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Quentin Ledru",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Salomé Lesaffre",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Rémi Larcher",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Hugo Leonard",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Elliot Lienard",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Sybil Marzin",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Thy-Lane Monnet",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Munik Neth",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Florine Paulius",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Emeline Penet",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Coline Peron",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Constantin Rytz",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Bertille Rondard",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Alice Sarrauste",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Igor Secherre",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Laura Studden",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Emilien Wiss",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Boris Zanni",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Angus Henderson",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Gaëtan Billères",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Sally Bruice",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "George Smith Burgess",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Marie Derambure",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Alix Champy",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Chevalarias",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Lise Cordellier",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Arthur Dalle",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Lola Degove",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Sean Delaunay",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Didier",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Juliane Fath",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Julie Gervaos",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Rachel Guerineau",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Guillaume Laverdant",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Théo Malet",
+        "character": "Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Bx2zgYBnYQs2hGtCCjjDGwdPn3.jpg"
+      },
+      {
+        "name": "Titouan Maret",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen Martin",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Nathan Mazeau",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucas Nativel",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Théo Navas",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Marie Lucie Parisot",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Émile Pélissier",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Constance Prost",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Matéo Salanave",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Théo Hollando Sigot",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Manon Taccoli",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Gauthier Rigaud Perut",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Raphael Coutant",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Émilie Tronche",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Toheeb Jimoh",
+        "character": "Cadet #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5GB3bH07gpcxm9TygOTIOCytmeS.jpg"
+      },
+      {
+        "name": "Nick Croucher",
+        "character": "Cadet #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Sam Haygarth",
+        "character": "Cadet #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Uw949Bvn2nnowhiUTdRkoDk5tb.jpg"
+      },
+      {
+        "name": "Samuel Blenkin",
+        "character": "Cadet #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s90RcppdXYuOxw797NJjEFTZFcm.jpg"
+      },
+      {
+        "name": "Jake Gorridge",
+        "character": "Cadet #5",
+        "profile_path": ""
+      },
+      {
+        "name": "Calvin Williams",
+        "character": "Cadet #6",
+        "profile_path": ""
+      },
+      {
+        "name": "Pierre Aloui",
+        "character": "Additional Cadet",
+        "profile_path": ""
+      },
+      {
+        "name": "Louis Blanchard",
+        "character": "Additional Cadet",
+        "profile_path": ""
+      },
+      {
+        "name": "Hugo Bony",
+        "character": "Additional Cadet",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrien Brault",
+        "character": "Additional Cadet",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Chadeffaud",
+        "character": "Additional Cadet",
+        "profile_path": ""
+      },
+      {
+        "name": "Matisse Croizard-Niveau",
+        "character": "Additional Cadet",
+        "profile_path": ""
+      },
+      {
+        "name": "Alfie Flight",
+        "character": "Additional Cadet",
+        "profile_path": ""
+      },
+      {
+        "name": "Théo Fibaque",
+        "character": "Additional Cadet",
+        "profile_path": ""
+      },
+      {
+        "name": "Mathieu Grattard",
+        "character": "Additional Cadet",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Lafon",
+        "character": "Additional Cadet",
+        "profile_path": ""
+      },
+      {
+        "name": "Elie Mazalrey",
+        "character": "Additional Cadet",
+        "profile_path": ""
+      },
+      {
+        "name": "Samuel Montgomery",
+        "character": "Additional Cadet",
+        "profile_path": ""
+      },
+      {
+        "name": "Florian Salasse",
+        "character": "Additional Cadet",
+        "profile_path": ""
+      },
+      {
+        "name": "Quentin Veillon",
+        "character": "Additional Cadet",
+        "profile_path": ""
+      },
+      {
+        "name": "Benjamin Lavernhe",
+        "character": "Toothpowder Spokesman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e0wFxLvNHS0XmdRKpMeIytDFZmO.jpg"
+      },
+      {
+        "name": "Gabriel Ryan",
+        "character": "Younger Gigi",
+        "profile_path": ""
+      },
+      {
+        "name": "Léo Gack",
+        "character": "Cadet/Nanny",
+        "profile_path": ""
+      },
+      {
+        "name": "Cécilia Anseeuw",
+        "character": "Junkie/Showgirl #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Gilberto Fallat Valle",
+        "character": "Stetson van Altman",
+        "profile_path": ""
+      },
+      {
+        "name": "Monique Lapeyre",
+        "character": "Spinster van Altman",
+        "profile_path": ""
+      },
+      {
+        "name": "Christian 'Kiki' Delpey",
+        "character": "Hieronymous van Altman",
+        "profile_path": ""
+      },
+      {
+        "name": "Cyril Sierk",
+        "character": "The Jeroboam",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean-Claude Loulmet",
+        "character": "Ancient Concierge",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean-Pierre Chabernaud",
+        "character": "Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Olivier Lecossois",
+        "character": "Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Philippe Szezepanski",
+        "character": "Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Noël Wojcik",
+        "character": "Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Gontran Bisserier",
+        "character": "Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Christian Cordoba",
+        "character": "Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Thibault Descamps",
+        "character": "Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Herbon",
+        "character": "Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Marceau Jarrossay",
+        "character": "Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Tiburce Oger",
+        "character": "Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Noé Richefeux",
+        "character": "Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Gilles Verdegay",
+        "character": "Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Kublah Diezi",
+        "character": "Kidnapper",
+        "profile_path": ""
+      },
+      {
+        "name": "Stéphane Le Bras",
+        "character": "Kidnapper",
+        "profile_path": ""
+      },
+      {
+        "name": "Armand Pierdon",
+        "character": "Kidnapper",
+        "profile_path": ""
+      },
+      {
+        "name": "Gilles Frougier",
+        "character": "Kidnapper",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Wes Anderson",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5z2WroP0CgQ5vI17M0hzi8o5NAn.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "art collector",
+    "journalist",
+    "small town",
+    "france",
+    "poison",
+    "1970s",
+    "journalism",
+    "editor-in-chief",
+    "artist",
+    "imprisonment",
+    "painter",
+    "riot",
+    "anthology",
+    "magazine",
+    "food poisoning",
+    "murderer",
+    "chef",
+    "lecture",
+    "post world war ii",
+    "child kidnapping",
+    "obituary",
+    "bicycle tour",
+    "poisoning",
+    "father son relationship"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in \"The French Dispatch Magazine\".",
+    "Faced with the impending dissolution of The French Dispatch, a factual weekly report on various subjects, old-school editor-in-chief Arthur Howitzer Jr. assembles the crème de la crème of the magazine's loyal expatriate journalists for one final issue. And against the backdrop of picturesque Ennui-sur-Blasé, Paris, France, three feature articles unfold. The vignettes pivot around tormented genius artists, statuesque prison officers, flamboyant critics, moody idealists, conflicted ace reporters, legendary chefs and, of course, the police.—Nick Riganas",
+    "The film consists of: An obituary (of editor-in-chief Arthur Howitzer, Jr.), a brief travel-guide ('The Cycling Reporter' by Herbsaint Sazerac; a bicycle tour of Ennui-sur-Blasé), and three feature articles ('The Concrete Masterpiece' by J.K.L. Berensen, 'Revisions to a Manifesto' by Lucinda Krementz, and 'The Private Dining Room of the Police Commissioner' by Roebuck Wright) all from The French Dispatch (an American magazine published in Ennui, France).—Peter Brandt Nielsen"
+  ],
+  "synopsis": "The film begins with the narrated obituary of Arthur Howitzer Jr., the editor of the magazine The French Dispatch, who has died suddenly of a heart attack. According to the wishes expressed in his will, publication of the magazine is immediately suspended. A scene shows Howitzer and his editorial staff discussing the publication of the following four magazine pieces.The Cycling ReporterHerbsaint Sazerac delivers a cycling tour of the town of Ennui-sur-Blasé, demonstrating several key areas such as the arcade, Le Sans Blague café and a pick-pocket's alleyway. He compares the past and the present of each place, demonstrating how much and yet how little has changed in Ennui over time.The Concrete MasterpieceJ.K.L. Berensen delivers a lecture at the art gallery of her former employer, Upshur \"Maw\" Clampette, in which she details the career of Moses Rosenthaler. Rosenthaler, a mentally disturbed artist serving a sentence in the Ennui prison for murder, paints an abstract nude portrait of Simone, a prison officer with whom he develops a burgeoning relationship. Julien Cadazio, an art dealer also serving a sentence for tax evasion, is immediately taken by the painting and buys it despite Rosenthaler's protests. Upon his release, Cadazio convinces his family of art exhibitors to put it on display, and Rosenthaler soon becomes a sensation in the art world. Privately, Rosenthaler struggles with inspiration, and devotes himself to a long-term project.Three years later, Cadazio, his uncles, Clampette, Berensen, and a mob of artists inspired by Rosenthaler, all frustrated at the lack of further paintings, bribe their way into the prison to confront him, only to discover that his masterpiece is in fact a series of frescoes in the concrete prison hall. Angered that the paintings are irremovable from the prison, Cadazio gets into a physical altercation with Rosenthaler, but soon comes to appreciate the paintings for what they are, and later arranges for the entire room to be airlifted out of the prison into a private museum in Kansas, owned by Clampette. For his actions in halting a prison riot that breaks out during the reveal of the paintings, Rosenthaler is released on probation. Simone and Rosenthaler maintain correspondence following his release.Revisions to a ManifestoLucinda Krementz reports on a student protest breaking out in the streets of Ennui that soon boils over into the \"Chessboard Revolution\". While the revolution initially is inspired by petty concerns over access to the girls dormitory, the traumatic military conscription of one student, Mitch-Mitch, inspires greater uprising. The students' cause spreads to the working people of Ennui-sur-Blasé.Despite her insistence on maintaining \"journalistic neutrality\", Krementz has a brief romance with Zeffirelli, a self-styled leader of the revolt, and secretly helps him write his manifesto and adds an appendix. Juliette, a fellow revolutionary, is unimpressed with his manifesto. After they briefly express their disagreement about its contents, Krementz tells the two to \"go make love\", which they do.A few weeks later, Zeffirelli is killed attempting repairs on the tower of a revolutionary pirate radio station, and soon a photograph of his likeness becomes symbolic of the movement. Years later, Krementz adapts the story of Mitch-Mitch's conscription, and Zeffirelli and Juliette's relationship, for a play at the National Theatre.The Private Dining Room of the Police CommissionerDuring a television interview, Roebuck Wright recounts the story of his attending a private dinner with The Commissaire of the Ennui police force, prepared by legendary police officer/chef Lt. Nescaffier. Nescaffier is a famous specialist in a kind of haute cuisine specifically designed to be eaten by working police officers. The dinner is disrupted when the Commissaire's son Gigi is kidnapped and held for ransom by criminals, led by a failed musician called The Chauffeur.The kidnappers represent the warring criminal syndicates of Ennui-sur-Blasé, and demand the release of an underworld accountant called \"The Abacus\", who possesses their shared financial records. \"The Abacus\" is being held in a solitary confinement cell at police headquarters. Wright recollects his own imprisonment in that same cell for his homosexuality, for which he was bailed out by Howitzer and offered a job at the Dispatch.Following a shoot-out at the kidnapper's hideout, Gigi manages to sneak out a message in Morse code to \"send the cook\". Lt. Nescaffier is sent into the kidnappers' hideout, ostensibly to provide both them and Gigi with food, but secretly the food is laced with poison. The criminals all succumb to the poison, and Nescaffier just barely survives (due to his strong stomach) after being made to test it first, but The Chauffeur escapes with Gigi, and leads the police on a chase. Gigi manages to escape out of the sunroof and reunites with his father. During his recovery, Nescaffier saves \"The Abacus\" from starving to death by preparing him an omelette, the prisoner having been totally forgotten in the commotion.Back at the Dispatch office, Howitzer tells Wright to reinsert a deleted segment. In it, a recovering Nescaffier tells Wright that the taste of the poison was unlike anything he had ever eaten before, before they commiserate over the state of being foreigners in France. Howitzer and Wright disagree on whether this conversation is important.In an epilogue, the French Dispatch editorial staff mourn Howitzer's death and start to write his obituary for the final issue.",
+  "imdb_score": 7.1
+}

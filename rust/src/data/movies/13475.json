@@ -1,0 +1,979 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/q7M0JpPixbEYT8EhnI7wTEMONxz.jpg",
+  "id": 13475,
+  "title": "Star Trek",
+  "poster_path": "https://image.tmdb.org/t/p/w500/lV5OpzAss1z06YNagOVap1I35mH.jpg",
+  "release_date": "2009-05-06",
+  "vote_average": 7.434,
+  "vote_count": 9496,
+  "popularity": 50.225,
+  "overview": "The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.",
+  "imdb_id": "tt0796366",
+  "budget": 150000000,
+  "homepage": "https://www.paramountmovies.com/movies/star-trek-2009",
+  "revenue": 385700000,
+  "runtime": 127,
+  "tagline": "The future begins.",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "production_companies": [
+    "Paramount",
+    "Spyglass Entertainment",
+    "Bad Robot"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Chris Pine",
+        "character": "James T. Kirk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mi00EsvrAebidnEYK7LZxgbKYyH.jpg"
+      },
+      {
+        "name": "Zachary Quinto",
+        "character": "Spock",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qFqIaNMcDNd693epUSXo9zOTXev.jpg"
+      },
+      {
+        "name": "Karl Urban",
+        "character": "Leonard 'Bones' McCoy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/noh94S1b6t8JIEBC1KMdoh3DPB3.jpg"
+      },
+      {
+        "name": "Zoe Saldaña",
+        "character": "Nyota Uhura",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+      },
+      {
+        "name": "Simon Pegg",
+        "character": "Montgomery 'Scotty' Scott",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kIMnWkZciXXHYyD8GxMYvDLD29x.jpg"
+      },
+      {
+        "name": "John Cho",
+        "character": "Hikaru Sulu",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4Lar4uy8gk78cEocq6ERPRFWt3e.jpg"
+      },
+      {
+        "name": "Anton Yelchin",
+        "character": "Pavel Chekov",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uOMWKYOLezo4ETMtrQt7uQBLSBh.jpg"
+      },
+      {
+        "name": "Leonard Nimoy",
+        "character": "Spock Prime",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6U58BEkktBoLzevAvaMTR9mfGqR.jpg"
+      },
+      {
+        "name": "Bruce Greenwood",
+        "character": "Christopher Pike",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rVpyddWneBBYYzYhMRmWoHMg3Hg.jpg"
+      },
+      {
+        "name": "Eric Bana",
+        "character": "Nero",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j8tbvkg0kyCZihbwrUNRxwhqXXe.jpg"
+      },
+      {
+        "name": "Ben Cross",
+        "character": "Sarek",
+        "profile_path": "https://image.tmdb.org/t/p/w185/11gObExUG7lFCA7WeYgHabnZjDg.jpg"
+      },
+      {
+        "name": "Winona Ryder",
+        "character": "Amanda Grayson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fkMfW3rDBmpPccT6uLmAMxVjEra.jpg"
+      },
+      {
+        "name": "Chris Hemsworth",
+        "character": "George Kirk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xkHHiJXraaMFXgRYspN6KVrFn17.jpg"
+      },
+      {
+        "name": "Jennifer Morrison",
+        "character": "Winona Kirk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i6dkHIME0BOPhbcPESHZND3vmtk.jpg"
+      },
+      {
+        "name": "Rachel Nichols",
+        "character": "Galia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bMv117SLOJoseim6qvuHFc1gntZ.jpg"
+      },
+      {
+        "name": "Faran Tahir",
+        "character": "Captain Robau",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dMsD7h6KiZ5dM0f9MegXUOKnqb0.jpg"
+      },
+      {
+        "name": "Clifton Collins Jr.",
+        "character": "Ayel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ceryVVubF74pgu13Y0KUqIzxOae.jpg"
+      },
+      {
+        "name": "Tony Elias",
+        "character": "Officer Pitts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w9Fq2f5znVW3uJtVO1iwljh1fh2.jpg"
+      },
+      {
+        "name": "Sean Gerace",
+        "character": "Tactical Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Randy Pausch",
+        "character": "Kelvin Crew Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Griffin",
+        "character": "Kelvin Engineer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i3BRPyeBg7CQnGLsHxA6gpnDzDj.jpg"
+      },
+      {
+        "name": "Freda Foh Shen",
+        "character": "Kelvin Helmsman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zxEbCZDN1XFaPU2gs5XKPy9dauJ.jpg"
+      },
+      {
+        "name": "Kasia Kowalczyk",
+        "character": "Kelvin Alien",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Brooks",
+        "character": "Romulan Helmsman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/56jMhjMsKDZWZmyQjwRKfe2jmLU.jpg"
+      },
+      {
+        "name": "Sonita Henry",
+        "character": "Kelvin Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oIBILFSVqHT2warKlXSPDML3llI.jpg"
+      },
+      {
+        "name": "Kelvin Yu",
+        "character": "Medical Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/47m8mUsuNIEyLb3KeDpryyvK0LI.jpg"
+      },
+      {
+        "name": "Marta Martin",
+        "character": "Medical Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/KemgMU3mVKUC6ftlnOU0gDrBTs.jpg"
+      },
+      {
+        "name": "Tavarus Conley",
+        "character": "Kelvin Crew Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff Castle",
+        "character": "Kelvin Crew Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Billy Brown",
+        "character": "Med Evac Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i6xWRaGKMRQeM5GvWYnwlojddo8.jpg"
+      },
+      {
+        "name": "Jimmy Bennett",
+        "character": "Young James T. Kirk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8ktMwTxDqgyiYKdIB5dWEuX2zG1.jpg"
+      },
+      {
+        "name": "Greg Grunberg",
+        "character": "Stepdad (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ir2QunLf6aTaowpEygbIcjiZLDB.jpg"
+      },
+      {
+        "name": "Spencer Daniels",
+        "character": "Johnny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yFePed7zzGyvdoU1c3XdilsHw1r.jpg"
+      },
+      {
+        "name": "Jeremy Fitzgerald",
+        "character": "Iowa Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y5c1hHQ5RHnX9QOXvLRBdmYfKZi.jpg"
+      },
+      {
+        "name": "Zoe Chernov",
+        "character": "Vulcan Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Max Chernov",
+        "character": "Vulcan Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacob Kogan",
+        "character": "Young Spock",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cIH0965MweeicFoHuQQL0RZtpzV.jpg"
+      },
+      {
+        "name": "Lorenzo James Henrie",
+        "character": "Vulcan Bully",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gVpGy64FmvdvpKG8tbwa89SGyBX.jpg"
+      },
+      {
+        "name": "Colby Paul",
+        "character": "Vulcan Bully",
+        "profile_path": ""
+      },
+      {
+        "name": "Cody Klop",
+        "character": "Vulcan Bully",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2tRpxTT9YhownaaFqQ8XTGWVXuu.jpg"
+      },
+      {
+        "name": "Akiva Goldsman",
+        "character": "Vulcan Council Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zjnY7yoXZifRJR9x8hdGIm9ducG.jpg"
+      },
+      {
+        "name": "Anna Katarina",
+        "character": "Vulcan Council Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hnwiiEA975IPOLRf8QwGE5TPTvV.jpg"
+      },
+      {
+        "name": "Douglas Tait",
+        "character": "Long Face Bar Alien",
+        "profile_path": "https://image.tmdb.org/t/p/w185/srV2pY6rPyTpHGW5saOhdbRfcrv.jpg"
+      },
+      {
+        "name": "Tony Guma",
+        "character": "Lew the Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6cK30dYzU9NCYbq7u1Ja7EjRBSZ.jpg"
+      },
+      {
+        "name": "Gerald W. Abrams",
+        "character": "Barfly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rhWsx0de1XoX4yoeHCcVG8941nI.jpg"
+      },
+      {
+        "name": "James McGrath",
+        "character": "Barfly",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Matthew Smith",
+        "character": "Burly Cadet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j8viDfDWQkGHUcMWBnIAfCx2dxA.jpg"
+      },
+      {
+        "name": "Marcus Young",
+        "character": "Burly Cadet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/txBvkZc6W5uTDbFeiMJ9sOPyUof.jpg"
+      },
+      {
+        "name": "Bob Clendenin",
+        "character": "Shipyard Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bB8teXzKyQsJ4avnPLqbkSww23R.jpg"
+      },
+      {
+        "name": "Darlena Tejeiro",
+        "character": "Flight Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Reggie Lee",
+        "character": "Test Administrator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/93my9HnsFT5DFq9oY1nCJ8Ttv22.jpg"
+      },
+      {
+        "name": "Jeffrey Byron",
+        "character": "Test Administrator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Ai9GLUFZCWtBOaF8e12CmWmg6vl.jpg"
+      },
+      {
+        "name": "Jonathan Dixon",
+        "character": "Simulator Tactical Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yPCrlMlTkrICvAfVYLdZsDCm3sa.jpg"
+      },
+      {
+        "name": "Tyler Perry",
+        "character": "Admiral Richard Barnett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8KU0OizemVLrERXt5HJIa0PAkIN.jpg"
+      },
+      {
+        "name": "Ben Binswagner",
+        "character": "Admiral James Komack",
+        "profile_path": ""
+      },
+      {
+        "name": "Margot Farley",
+        "character": "College Council Stenographer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uZtDDxeOtYFzgLO2eV5rrHvsw1k.jpg"
+      },
+      {
+        "name": "Paul McGillion",
+        "character": "Barracks Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/43sfykb5iFosUHZqCnmx5GFFkro.jpg"
+      },
+      {
+        "name": "Lisa Vidal",
+        "character": "Barracks Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sfCwghBjHIVsE09pP9cBD52ee2.jpg"
+      },
+      {
+        "name": "Alex Nevil",
+        "character": "Shuttle Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/411W2HmzZFzU9OIWOfaJOIY79DQ.jpg"
+      },
+      {
+        "name": "Kimberly Arland",
+        "character": "Kimberly Arland",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mL9eEmMbi8sQ3WnqbPEwIqktqPa.jpg"
+      },
+      {
+        "name": "Sufe Bradshaw",
+        "character": "Cadet Alien",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5jfG8O8EKOv2171laVM7A6VCdVW.jpg"
+      },
+      {
+        "name": "Jeff Chase",
+        "character": "Cadet Alien",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Ahj74X5BioIUDRhdWD8i43j0pXM.jpg"
+      },
+      {
+        "name": "Charles Haugk",
+        "character": "Enterprise Crew Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lh0BcJ8B2sdS9RsXPryWXflzE84.jpg"
+      },
+      {
+        "name": "Nana Hill",
+        "character": "Enterprise Crew Member",
+        "profile_path": ""
+      },
+      {
+        "name": "John Blackman",
+        "character": "Enterprise Crew Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Millard",
+        "character": "Enterprise Crew Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cPHJ7lUsmaCyLLF4wt6X4Nl3q5V.jpg"
+      },
+      {
+        "name": "Shaela Luter",
+        "character": "Enterprise Crew Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Sabrina Morris",
+        "character": "Enterprise Crew Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Michelle Parylak",
+        "character": "Enterprise Crew Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vo5RgHvQNIUCFBavtCOnYucst13.jpg"
+      },
+      {
+        "name": "Osgood Perkins",
+        "character": "Enterprise Communiations Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fCEfHXkvkKNPnySxlHvukgVOeTw.jpg"
+      },
+      {
+        "name": "Amanda Foreman",
+        "character": "Hannity",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cvFcPjk2fvvSpazh9jePnzpigw9.jpg"
+      },
+      {
+        "name": "Michael Berry Jr.",
+        "character": "Romulan Tactical Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zBztnwkcw1EVxUfsvK8ieeqUXRV.jpg"
+      },
+      {
+        "name": "Lucia Rijker",
+        "character": "Romulan Communications Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6v7Ec32c70aJWJqkuq4UrMxxEj7.jpg"
+      },
+      {
+        "name": "Pasha D. Lychnikoff",
+        "character": "Romulan Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xftO8wDW9j4RBO91g9wWzDAAHbz.jpg"
+      },
+      {
+        "name": "Matthew Beisner",
+        "character": "Romulan Crew Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Neville Page",
+        "character": "Romulan Crew Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hnmmgoPrQ7wnFHCepzbTkDHIibf.jpg"
+      },
+      {
+        "name": "Jesper Inglis",
+        "character": "Romulan Crew Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Greg Ellis",
+        "character": "Chief Engineer Olsen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8PlVCevV5c2QIdZ1S6bX0ttaRUC.jpg"
+      },
+      {
+        "name": "Marlene Forte",
+        "character": "Transport Chief",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qBhO3tT3VzF1bxUhw3ylmQsfTwP.jpg"
+      },
+      {
+        "name": "Leonard O. Turner",
+        "character": "Vulcan Elder",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Bramhall",
+        "character": "Vulcan Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jKryMT2rr33q3MYVJQ6m5No6Iu1.jpg"
+      },
+      {
+        "name": "Ronald F. Hoiseck",
+        "character": "Vulcan Elder",
+        "profile_path": ""
+      },
+      {
+        "name": "Irene Roseen",
+        "character": "Vulcan Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7jkkMP6Mxw9pIbUsgAqI139DqYh.jpg"
+      },
+      {
+        "name": "Jeff O'Haco",
+        "character": "Vulcan Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p7Qk54yzodYYe9gOxTUohPANx19.jpg"
+      },
+      {
+        "name": "Scottie Thompson",
+        "character": "Nero's Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fx7b87WwORTZxzq8qWvPZS78phg.jpg"
+      },
+      {
+        "name": "Deep Roy",
+        "character": "Keenser",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hXq63dj4WjwcKann7h9Wy7z7Ac7.jpg"
+      },
+      {
+        "name": "Majel Barrett",
+        "character": "Starfleet Computer (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uTnxd737sEFgc6hVrFgUC5TwzfW.jpg"
+      },
+      {
+        "name": "Ronnie Steadman",
+        "character": "Shuttle Pilot (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uS8MkzPV6ExxJGEnbO0et85Vy7R.jpg"
+      },
+      {
+        "name": "Arne Starr",
+        "character": "Lt. Cmdr. Engineering (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rico E. Anderson",
+        "character": "Council Member - Captain Kelley Bogel (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/duON3ZPWQAlW5U0q0mORpJHhvtW.jpg"
+      },
+      {
+        "name": "Richard Arnold",
+        "character": "Romulan Science Tech (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fBIyoTvbuSChmwSRT6XjN4HjoaM.jpg"
+      },
+      {
+        "name": "Tad Atkinson",
+        "character": "Amphibian Prisoner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Zp4ICelJ508clCGopA7YHsUlvy.jpg"
+      },
+      {
+        "name": "Leslie Augustine",
+        "character": "Doctor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8t0G5jECM6QZxPTz5LiRvFk93Yt.jpg"
+      },
+      {
+        "name": "Johnny Baca",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pWgysPtLDVjYKukBbbg02bfz2t5.jpg"
+      },
+      {
+        "name": "Diora Baird",
+        "character": "The Wrong Orion",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8xNfIVNDumyxqGJw71DleJ5YugK.jpg"
+      },
+      {
+        "name": "Sala Baker",
+        "character": "Drill Tower Romulan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zSWNRVboxLJ3bhj7YBIS76HPCrC.jpg"
+      },
+      {
+        "name": "Leo Baligaya",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Corey Becker",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry Blackman",
+        "character": "Transport Chief (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jessica Boss",
+        "character": "Bridgeport Cadet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4NgsmOmrgOWv8fklBFXDvDvqdzr.jpg"
+      },
+      {
+        "name": "Neil S. Bulk",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Etalvia Cashin",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7sIFHIsorEfJedKSMcSRaBJSYSp.jpg"
+      },
+      {
+        "name": "James Cawley",
+        "character": "Enterprise Crewmember (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brad Champagne",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Zachary Culbertson",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pjyMTQk7A5Emk2heZyp3DQK5BOq.jpg"
+      },
+      {
+        "name": "Jeffrey De Serrano",
+        "character": "Cop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qoNYiCx3anWFdFlnUBlRpiKpIzf.jpg"
+      },
+      {
+        "name": "T.C. De Witt",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/osSEbKIPHE5koCnHaNsXEMdsRDd.jpg"
+      },
+      {
+        "name": "Calvin Dean",
+        "character": "Security Officer Daniels (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s9BnUmXGMCKfDtX04V43YPuKjNR.jpg"
+      },
+      {
+        "name": "Christopher Doohan",
+        "character": "Starfleet Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a6UB2p5qicVku1zcNTXQZVa1i6N.jpg"
+      },
+      {
+        "name": "Claire Doré",
+        "character": "Enterprise Crew Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Etienne Eckert",
+        "character": "Vulcan Federation Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z6xl4mqo0YJ1KnRYIXqmfx2VQoP.jpg"
+      },
+      {
+        "name": "Ken Edling",
+        "character": "Doctor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g8JAXalEHsaZQ8r8hGyFkBIYXH8.jpg"
+      },
+      {
+        "name": "Aliza Finley",
+        "character": "Hurried Cadet with Clipboard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ian Fisher",
+        "character": "Shipyard Worker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aKLI7NscFmGsDXeCwPUn8Lr5uHT.jpg"
+      },
+      {
+        "name": "Anna Florence",
+        "character": "Vulcan Cadet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Z4jP9WVhtRgFDe44VDWS90VGS0.jpg"
+      },
+      {
+        "name": "Mathew Thomas Foss",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Massi Furlan",
+        "character": "Missile Launcher (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m374tylu98E7dPkJ1rsnRoARkaZ.jpg"
+      },
+      {
+        "name": "Tommy Germanovich Jr.",
+        "character": "FourSquare (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lo5SKIXVLQYQxDQhgfjCkwKtNgR.jpg"
+      },
+      {
+        "name": "Mary Grace",
+        "character": "Shipyard Bar Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iH6L3KpsADsiGUDKGKJLl2IPOaB.jpg"
+      },
+      {
+        "name": "Wyatt Gray",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jtFYLADUqiyG8tChdwrjeBe2e0V.jpg"
+      },
+      {
+        "name": "Nancy Guerriero",
+        "character": "Crew Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jarrell Hall",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5iVW196lOhU4hgJbB4HIG5ntSX8.jpg"
+      },
+      {
+        "name": "Justin Rodgers Hall",
+        "character": "Starfleet Security Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeffery Hauser",
+        "character": "Kelvin Crew Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1KqsZUsDeUgdv4xZzKZHH7rmnhH.jpg"
+      },
+      {
+        "name": "Brad William Henke",
+        "character": "Uncle Frank (uncredited) (unconfirmed)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6VedPxFRbFblXeWMAkIvURmPEZM.jpg"
+      },
+      {
+        "name": "Ryan T. Husk",
+        "character": "Enterprise Crew Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fOUZmmHmI7PVOgs8zyWM60MlWLg.jpg"
+      },
+      {
+        "name": "Elizabeth Ingalls",
+        "character": "Enterprise Nurse (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fXudtZJ3wj98J39vOgiUD10moXz.jpg"
+      },
+      {
+        "name": "Sierra Kane",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sFZMtLM8JeR8ZMrHU7NCbPnuWse.jpg"
+      },
+      {
+        "name": "Christopher Karl Johnson",
+        "character": "Shipyard Worker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uZBPHWgMVuClHKsoFOr1s0VZo05.jpg"
+      },
+      {
+        "name": "Jolene Kay",
+        "character": "Enterprise Crew Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iwOwcr8133DTlC31RsMBoK0xr8K.jpg"
+      },
+      {
+        "name": "Lauren Mary Kim",
+        "character": "Kelvin Bridge Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h3HyClGURD5QsNSWSFhDiLnx8pq.jpg"
+      },
+      {
+        "name": "Sarah Klaren",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Makiko Konishi",
+        "character": "Enterprise Crew Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tvxp7pc0PybiGye022EBoPY6P00.jpg"
+      },
+      {
+        "name": "Tashana Landray",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v3kxyw7JxKWTbDFPLltnSoMCZmf.jpg"
+      },
+      {
+        "name": "Daniel D. Lee",
+        "character": "Starfleet Commander (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Anne Leighton",
+        "character": "Enterprise Crew Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zdaDMKU4EaCasQ1sbttWPs2dqw9.jpg"
+      },
+      {
+        "name": "James Lew",
+        "character": "Romulan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wuC0B13IutImC1AJ7VUxBCuZJVg.jpg"
+      },
+      {
+        "name": "Jill Lover",
+        "character": "Young Vulcan Midwife (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yaBU3s432P6lq4dmmdhe5Yaylqb.jpg"
+      },
+      {
+        "name": "Steve Luna",
+        "character": "Lieutenant Star Fleet Command (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iHGkjZfBS3kiVzjzVQAyHiBsGLb.jpg"
+      },
+      {
+        "name": "Aaron Lynch",
+        "character": "Flight Operational Air Safety Conductor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Justin Malachi",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nav Mann",
+        "character": "Romulan Crew Member Placing Bomb (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Marshall",
+        "character": "Bar Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z4KC3YAk34m2HypWxj34nNPko7F.jpg"
+      },
+      {
+        "name": "Owen Martin",
+        "character": "Alien Cadet / Enterprise Crew (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jk6dg3Lgi8Oe8vaIOkB5ACpmC3b.jpg"
+      },
+      {
+        "name": "Taylor McCluskey",
+        "character": "Kelvin Alien (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5ADwiraxqOfwdch9IPrv2BmRY6j.jpg"
+      },
+      {
+        "name": "Matthew McGregor",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Caitlin McKenna",
+        "character": "Kelvin Computer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cPfk4htR9X7gUnr1jYsKs0Y5qBq.jpg"
+      },
+      {
+        "name": "Andrew Mew",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dQgBXVbeGYBpRAWivNiJa4FZveL.jpg"
+      },
+      {
+        "name": "Patrizia Milano",
+        "character": "Councilwoman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gPne57P7x9z3N0BuC1BnnUwedZ2.jpg"
+      },
+      {
+        "name": "Heidi Moneymaker",
+        "character": "Kelvin Crewmember (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9OApdwLrP3mpAwCprebKkZRINDy.jpg"
+      },
+      {
+        "name": "Kevin Moser",
+        "character": "Enterprise Crewman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8akRHGQLdXb8FMJ1dvpQxKVNOyn.jpg"
+      },
+      {
+        "name": "Jonathan Dunkerley Newkerk",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Westley Nguyen",
+        "character": "Enterprise Crew Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Nieb",
+        "character": "Sal (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7UPwb8ti0s09NaU9xaoUKpk5Byj.jpg"
+      },
+      {
+        "name": "Andres Perez-Molina",
+        "character": "Romulan Crew Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rbtiwFIGycOUJqhW4dnqCR8Jov8.jpg"
+      },
+      {
+        "name": "Mark Phelan",
+        "character": "Romulan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gHOyEqy7JhTHg2eJ1zDX3g9ZBZv.jpg"
+      },
+      {
+        "name": "Damion Poitier",
+        "character": "Drill Hanson #1 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3BqfT7OMuAhLklO6TzBnhWoIZSA.jpg"
+      },
+      {
+        "name": "Rahvaunia",
+        "character": "Academy Teacher (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/91s0CEXdl5IZdu1ViZks9hLXSOy.jpg"
+      },
+      {
+        "name": "Bertrand Roberson Jr.",
+        "character": "Shuttle Cadet (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Deborah Rombaut",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1c0GtDfFnkoQzlkXBa7ZUV6A9oi.jpg"
+      },
+      {
+        "name": "Leonard Jonathan Ruebe",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Darth Schuhe",
+        "character": "Injured Officer in Sickbay (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ramona Seymour",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "William Morgan Sheppard",
+        "character": "Vulcan Science Minister (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pg6ruMIClxACsA2hBUq9ulKX5AP.jpg"
+      },
+      {
+        "name": "Katie Soo",
+        "character": "Enterprise Crew Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Stephens Jr.",
+        "character": "Cadet Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Steven",
+        "character": "Romulan Engineer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vyKAmm99jZHrLvu0OWiiXv2KGly.jpg"
+      },
+      {
+        "name": "T.J. Storm",
+        "character": "Klingon Agitator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ncldw2ugSqCpGM7WbROD8Ha2Fln.jpg"
+      },
+      {
+        "name": "Kaitlin Sullivan",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Townsend",
+        "character": "Starfleet Security Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Trimble",
+        "character": "Klingon Prison Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bG3HXEa7rWVAGr0tvLXM8RTkMX0.jpg"
+      },
+      {
+        "name": "Errik Tustenuggee",
+        "character": "Federation Captain Cartwright (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ycVViE9HAtF3MRBfctYBQa9T6w9.jpg"
+      },
+      {
+        "name": "Ravi Valleti",
+        "character": "Cadet at Trial (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xGeYd49Cakg9Jy7CKvfRIZp1ISV.jpg"
+      },
+      {
+        "name": "Jason Vaughn",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2uP4oDosW9UAn2bXOl0lDGBxazL.jpg"
+      },
+      {
+        "name": "A.J. Verel",
+        "character": "Enterprise Crewman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Waller",
+        "character": "Vulcan Council Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Wharton",
+        "character": "Star Fleet Cadet (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Wil Wheaton",
+        "character": "Romulan (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yqEW17L7Fdg2RDRLLo4SqRHkjyw.jpg"
+      },
+      {
+        "name": "Brianna Womick",
+        "character": "Starfleet Cadet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hgwzD4HZKalJJQCLudR8P9S64fP.jpg"
+      },
+      {
+        "name": "Rob Wood",
+        "character": "Enterprise Crew Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4B0N8A1jDPRj2GvWWOJQZrQhf8W.jpg"
+      },
+      {
+        "name": "Lynnanne Zager",
+        "character": "Enterprise Computer (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gLQFDGo0l4d84BA5gdLWA13WD7k.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "J.J. Abrams",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k4IWd2RV5kY1kAL2VgKQwFvnCLP.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "spacecraft",
+    "teleportation",
+    "san francisco, california",
+    "time travel",
+    "space mission",
+    "parachute",
+    "black hole",
+    "supernova",
+    "prequel",
+    "futuristic",
+    "warp speed",
+    "warp engine",
+    "space",
+    "romulans",
+    "alternate reality",
+    "space opera",
+    "reboot",
+    "unlikely friendship",
+    "child driving car",
+    "23rd century",
+    "based on tv series",
+    "24th century"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.",
+    "On the day of James T. Kirk's birth, his father dies on his damaged starship in a last stand against a Romulan mining vessel looking for Ambassador Spock, who in this time, has grown on Vulcan disdained by his neighbors for his half-human heritage. 25 years later, James T. Kirk has grown into a young rebellious troublemaker. Challenged by Captain Christopher Pike to realize his potential in Starfleet, he comes to annoy academy instructors like Commander Spock. Suddenly, there is an emergency on Vulcan and the newly-commissioned USS Enterprise is crewed with promising cadets like Nyota Uhura, Hikaru Sulu, Pavel Chekov and even Kirk himself, thanks to Leonard McCoy's medical trickery. Together, this crew will have an adventure in the final frontier where the old legend is altered forever as a new version of the legend begins.—Paramount Pictures",
+    "When a Romulan mining vessel attacks the USS Kelvin, Lt. George Kirk substitutes his captain, who goes to meet the Romulan captain on his vessel to negotiate a ceasefire. He orders the evacuation of the damaged starship, including his wife who goes into labor giving birth to their son James Kirk, and crashes the Kelvin against the vessel. Aboard the USS Enterprise, the most sophisticated starship ever constructed, a novice crew embarks on its maiden voyage. Their path takes them on a collision course with Nero, the Romulan captain from the future whose mission of vengeance threatens the Federation. Once humanity would survive, rebellious young officer James T. Kirk and coolly logical Vulcan officer Spock must move beyond their rivalry and find a way to stop Nero before he destroys Earth.—Blazer346"
+  ],
+  "synopsis": "In 2233, the Federation star ship USS Kelvin is investigating a \"lightning storm\" in space. A Romulan ship, Narada, emerges from the storm and attacks the Kelvin leaving it defenseless. Narada's first officer, Ayel (Clifton Collins, Jr.), demands that Kelvin's Captain Robau (Faran Tahir) come aboard to negotiate a truce. Robau is questioned about the current star date and an \"Ambassador Spock\", whom he does not recognize. Narada's commander, Nero (Eric Bana), kills him, and resumes attacking the Kelvin. George Kirk (Chris Hemsworth), Kelvin's first officer, orders the ship's personnel, including his pregnant wife Winona (Jennifer Morrison), to abandon ship while he pilots the Kelvin on a collision course with Narada. Kirk sacrifices his life to ensure Winona's survival as she gives birth to James Tiberius Kirk (Chris Pine).Seventeen years later on the planet Vulcan, a young Spock (Zachary Quinto) is accepted to join the Vulcan Science Academy. He has always been taunted as a half human, half Vulcan by his peers and dislikes references to his human mother in anyway. Realizing that the Academy views his human mother, Amanda (Winona Ryder), as a \"disadvantage\", he joins Starfleet instead. On Earth, Kirk becomes a reckless but intelligent young adult. Following a bar fight with Starfleet cadets accompanying Nyota Uhura (Zoe Saldana), Kirk meets Captain Christopher Pike (Bruce Greenwood), who encourages him to enlist in Starfleet Academy (\"Your dad was the captain of a star ship for 12 mins and saved 800 lives. I dare you to do better\"), where Kirk meets and befriends Doctor Leonard \"Bones\" McCoy (Karl Urban) (He lost everything in the divorce, except the bones in his body)Three years later, Commander Spock accuses Kirk of cheating during the Kobayashi Maru simulation. The simulation required cadet captains to face death and protect the crew in a no win scenario, but Kirk cheats and inserts a sub routine to change the scenario and beat it.\nKirk argues that cheating was acceptable because the simulation was designed to be unbeatable. Spock argues that Kirk not only cheated but failed to get the most important learning of the simulation that a captain cannot cheat death.The disciplinary hearing is interrupted by a distress signal from Vulcan. With the primary fleet out of range, the cadets are mobilized, with McCoy and Kirk boarding Pike's ship (Kirk is grounded on account of his academic suspension, but McCoy argues that Kirk is his patient and he wont leave for the mission unless he is allowed to bring Kirk along), the Enterprise. Spock considers Uhura as his favorite student and assigns her to the Enterprise.\nThe enterprise is a few minutes late in departing as the new helmsman Pavel Chekov (Anton Yelchin) & Hikaru Sulu had not released the external inertial dampener and hence the warp drive did not engage.Realizing that the \"lightning storm\" observed near Vulcan (shortly after which Vulcan was attacked by a Romulan ship and sent a distress signal to Earth) is similar to the one that occurred when he was born, Kirk breaks protocol to convince Pike that the distress signal is a trap. When the Enterprise arrives, they find the fleet destroyed and Narada drilling into Vulcan's core. Narada attacks Enterprise and Pike surrenders, delegating command of the ship to Spock and promoting Kirk to first officer.\nKirk, Hikaru Sulu (John Cho), and Chief Engineer Olson (Greg Ellis) perform a space jump onto the drilling platform. While Olson is killed mid-jump, Kirk and Sulu successfully reach and disable the drill, but are unable to stop Nero launching \"red matter\" into Vulcan's core, forming an artificial black hole that destroys Vulcan. The Enterprise manages to rescue Spock's father, Sarek (Ben Cross), and the high council before the planet's destruction, but not his mother Amanda, who falls to her death before the transporter can properly lock onto her. Out of 6 Bn Vulcans only 10,000 are saved.\nAs Narada moves toward Earth, Nero tortures Pike to gain access to Earth's defense codes. Nero declares his intention to destroy all federation planets, starting from Earth.\nUhura is shown to have romantic feelings towards Spock. Spock deduces that the Narada is from the future and has used the black hole technology to create a passage through space time. Nero's presence, beginning with the attack on USS Kelvin has altered the flow of history and created an alternate reality.While in pursuit, Spock maroons Kirk on Delta Vega after he attempts mutiny (Kirk wanted to go after Nero and the Narada, while Spock wants to hook up with the rest of Starfleet in the Laurentian system, as per orders from Captain Pike). On the planet, Kirk encounters an older Spock (from the original time line) (Leonard Nimoy), who explains that he and Nero are from 2387. In the future, Romulus was threatened by a supernova, which Spock attempted to stop with an artificial black hole made of \"red matter\". However, his plan failed, resulting in Nero's family perishing along with Romulus, while both the Narada and Spock's vessel were caught in the black hole and sent back in time. Spock quickly found they were sent back 25 years apart, during which time Nero attacked the Kelvin, thus changing history and creating a parallel universe.\nAfter Spock's arrival, Nero stranded him on Delta Vega to watch Vulcan's destruction as revenge. Reaching a Starfleet outpost on Delta Vega, Kirk and the elder Spock meet Montgomery \"Scotty\" Scott (Simon Pegg), who helps them by devising a trans-warp beam system, allowing both him and Kirk to beam onto Enterprise while it is travelling at warp speed.Following the elder Spock's advice, Kirk provokes younger Spock into attacking him, forcing Spock to recognize himself as emotionally compromised and relinquish command to Kirk. After talking with Sarek, Spock decides to help Kirk. While Enterprise hides itself within the gas clouds of Titan, Kirk and Spock beam aboard Narada (Uhura reveals her first name is Nyota to Spock). Kirk fights with Nero and Ayel, killing the latter and rescuing Pike, while Spock uses the elder Spock's ship to destroy the drill. Spock leads Narada away from Earth and sets his ship to collide with Nero's ship. Enterprise beams Kirk, Pike, and Spock aboard. The older Spock's ship and Narada collide, igniting the \"red matter\". Kirk offers Nero help to escape, but Nero refuses, prompting Kirk to give the order to fire, dooming Narada to be consumed in a black hole that Enterprise is only barely able to escape.Kirk is promoted to captain and given command of Enterprise, while Pike is promoted to rear admiral. Spock encounters his older self, who persuades his younger self to continue serving in Starfleet, encouraging him to do, for once, what feels right instead of what is logical. Spock remains in Starfleet, becoming first officer under Kirk's command. Enterprise goes to warp as the elder Spock speaks the \"where no one has gone before\" monologue.",
+  "imdb_score": 7.9
+}

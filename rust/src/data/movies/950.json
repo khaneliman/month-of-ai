@@ -1,0 +1,416 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/wRTZaxAiDP0ZEeQsO0HiiSqYCSp.jpg",
+  "id": 950,
+  "title": "Ice Age: The Meltdown",
+  "poster_path": "https://image.tmdb.org/t/p/w500/zDduhCHasKQ9YOTvlOreHem7Wbi.jpg",
+  "release_date": "2006-03-29",
+  "vote_average": 6.695,
+  "vote_count": 9287,
+  "popularity": 70.693,
+  "overview": "Diego, Manny and Sid return in this sequel to the hit animated movie Ice Age. This time around, the deep freeze is over, and the ice-covered earth is starting to melt, which will destroy the trio's cherished valley. The impending disaster prompts them to reunite and warn all the other beasts about the desperate situation.",
+  "imdb_id": "tt0438097",
+  "budget": 80000000,
+  "homepage": "http://www.iceagemovies.com/films/ice-age-the-meltdown",
+  "revenue": 660998756,
+  "runtime": 91,
+  "tagline": "Kiss Your Nuts Goodbye",
+  "genres": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Adventure"
+  ],
+  "production_companies": [
+    "20th Century Fox Animation",
+    "Blue Sky Studios",
+    "20th Century Fox"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Ray Romano",
+        "character": "Manny (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x1c08NKCRiKwf4HhB38ZRKWXa9K.jpg"
+      },
+      {
+        "name": "John Leguizamo",
+        "character": "Sid (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+      },
+      {
+        "name": "Denis Leary",
+        "character": "Diego (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nAqHuIw8z1QodcXdaJQShKogVFa.jpg"
+      },
+      {
+        "name": "Queen Latifah",
+        "character": "Ellie (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AeNoPcSWTsl1mOxiyXAKjVnzrwl.jpg"
+      },
+      {
+        "name": "Seann William Scott",
+        "character": "Crash (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mKc2YXdh8d4U2jYDwpLWaOY6Jwg.jpg"
+      },
+      {
+        "name": "Josh Peck",
+        "character": "Eddie (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qoapD8slSdb550o1JEoepv1SvT0.jpg"
+      },
+      {
+        "name": "Jay Leno",
+        "character": "Fast Tony (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cplpY6q2VFtR7c1gMHM50wPzdU3.jpg"
+      },
+      {
+        "name": "Will Arnett",
+        "character": "Lone Gunslinger Vulture (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cXupYqk2ERP13XBkw816skYdVDO.jpg"
+      },
+      {
+        "name": "Chris Wedge",
+        "character": "Scrat (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bYiy2vcXgJq5XZdZ15uIhBhnBF8.jpg"
+      },
+      {
+        "name": "Peter Ackerman",
+        "character": "Dung Beetle Dad (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Caitlin Rose Anderson",
+        "character": "Glypto Boy Billy / Beaver Girl (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Connor Anderson",
+        "character": "Rhino Boy / Beaver Boy (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Bologna",
+        "character": "Mr. Start (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kt6spO42yTOaGyazBOztx4tGOTQ.jpg"
+      },
+      {
+        "name": "Jack Crocicchia",
+        "character": "Elk Boy (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter DeSève",
+        "character": "Condor Chick (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ariel Winter",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1h0XaXnieP5CdTAeRGuALBJmD4R.jpg"
+      },
+      {
+        "name": "Clea Lewis",
+        "character": "Female Mini Sloth (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pknJ5IqM1tkSWf9kN6lQENpvE0i.jpg"
+      },
+      {
+        "name": "Stephen Root",
+        "character": "Aardvark Dad (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+      },
+      {
+        "name": "Nicole DeFelice",
+        "character": "Start Girl (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Debi Derryberry",
+        "character": "Diatryma Mom (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aCVgHnvGBw7ssZA9kl1Pnr5pJjU.jpg"
+      },
+      {
+        "name": "Marshall Efron",
+        "character": "Start Dad (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pg5mav3RjhRhbv5IP1TiFVyRtlP.jpg"
+      },
+      {
+        "name": "Tom Fahn",
+        "character": "Stu / Male Ox (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Fricchione",
+        "character": "Molehog Grandpa / Shovelmouth Male (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "James Edmund Godwin",
+        "character": "Traffic Vulture (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "George Jacobs",
+        "character": "Beaver Dad (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Scott McFadden",
+        "character": "Glyptodon (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t8GnwGB0zTtv9RnChipYVJTcTAU.jpg"
+      },
+      {
+        "name": "Jansen Panettiere",
+        "character": "Shovelmouth Boy (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lqE0fKXv4dzhDQZ6wa84bbqMCq8.jpg"
+      },
+      {
+        "name": "Gregory Romano",
+        "character": "Start Boy 1 (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Romano",
+        "character": "Start Boy 2 (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lZ3XfGi7hbU90U1pDeBnEhf7zkg.jpg"
+      },
+      {
+        "name": "Carlos Saldanha",
+        "character": "Dodo (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oxUlCSgxKaoCRYFyS65PC2fZWrk.jpg"
+      },
+      {
+        "name": "Manoela Scarpa Saldanha",
+        "character": "Molehog Kid 1 (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sofia Scarpa Saldanha",
+        "character": "Molehog Kid 2 (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Reyna Shaskan",
+        "character": "Diego's Bird Girl (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "James Sie",
+        "character": "Freaky Male (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yZ8SFsJJNmhgtNizwcWfknyBoBt.jpg"
+      },
+      {
+        "name": "Cindy Slattery",
+        "character": "Aardvark Mom (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mindy Sterling",
+        "character": "Female Ox (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hX99KTTCFxB4a2rB1SpDbr8imrK.jpg"
+      },
+      {
+        "name": "Alex Sullivan",
+        "character": "James (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Renée Taylor",
+        "character": "Mrs. Start (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/XSPvLgklOxoTQZNso2sEsawQdU.jpg"
+      },
+      {
+        "name": "Alan Tudyk",
+        "character": "Cholly (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
+      },
+      {
+        "name": "Claudia Besso",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zmYpYxQ47wHHxHLOr3jHbc01UaC.jpg"
+      },
+      {
+        "name": "Madeleine Martin",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q1jRDFs569OThv5YdGMLg2akS0J.jpg"
+      },
+      {
+        "name": "Sherry Lynn",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cp7SYig9JVbBWgc2YD4wEUNQGzh.jpg"
+      },
+      {
+        "name": "Mickie McGowan",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4K1HF10EvDjdaIoDAnWqFZjnmvk.jpg"
+      },
+      {
+        "name": "Emily Anderson",
+        "character": "Additional Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Angel",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5MsVwIULYJotUSbDs61uSJff7ei.jpg"
+      },
+      {
+        "name": "Shane Baumel",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AqQxm6vwF8b6OUrtwbvuLHoEVb7.jpg"
+      },
+      {
+        "name": "Bob Bergen",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg"
+      },
+      {
+        "name": "Kyle J. Bogert",
+        "character": "Additional Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rodger Bumpass",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lGQkw6adxqB6Hcm7VK8nVHbKupe.jpg"
+      },
+      {
+        "name": "Paul Butcher",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sKgE0eOp4zddirLBEXUu1NVyt7i.jpg"
+      },
+      {
+        "name": "Blanca Camacho",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9a9Wa30BVHPUQUMfuX2dpyVQneQ.jpg"
+      },
+      {
+        "name": "John Cygan",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sIcRLzUyeOL9ayYOUye3LFWkfuA.jpg"
+      },
+      {
+        "name": "Jennifer Darling",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g0sBNqwHOjCHo9KjPzGdYaCqh0h.jpg"
+      },
+      {
+        "name": "Olivia DeLaurentis",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ykkeKVWNtyBaNB7sZBWnmVVm32t.jpg"
+      },
+      {
+        "name": "Harrison Fahn",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5RupZ2yUgLk9upiqaHmXJkt94ms.jpg"
+      },
+      {
+        "name": "Bill Farmer",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lhezx68R12s5Bsv7d77BrQb7tWA.jpg"
+      },
+      {
+        "name": "Crispin Freeman",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rOnOnBVr0EI1YOawxyQsTDwh8tI.jpg"
+      },
+      {
+        "name": "Tim Kirkpatrick",
+        "character": "Additional Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "David H. Kramer",
+        "character": "Additional Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Mann",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/980QYqXIZCMn5Knx0vjROkw9vKo.jpg"
+      },
+      {
+        "name": "Laura Marano",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fpW1Swq6BfAoAw88ZhKf1pssu30.jpg"
+      },
+      {
+        "name": "Matt McCarthy",
+        "character": "Additional Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Laraine Newman",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/62i0sFf0IwmkQkBW9Osucgx8qGr.jpg"
+      },
+      {
+        "name": "Jan Rabson",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8IBFupx53arTqxOYhGkGwyVSaOn.jpg"
+      },
+      {
+        "name": "Zack Shada",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x0YEhC53vhIf2B3hArznPOHbk6e.jpg"
+      },
+      {
+        "name": "Thomas Sharkey",
+        "character": "Additional Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ross Simanteris",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/45P1NydNqpamytrRMWTkEp7XFNP.jpg"
+      },
+      {
+        "name": "Rachel Stand",
+        "character": "Additional Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Spencer Lacey Ganus",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vMWk2FmJ9XFUXvG0aaQZgQFPf4L.jpg"
+      },
+      {
+        "name": "Jess Harnell",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Carlos Saldanha",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oxUlCSgxKaoCRYFyS65PC2fZWrk.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "mammoth",
+    "sloth",
+    "ice age",
+    "barrier ice",
+    "ice melting",
+    "iceberg",
+    "flooding",
+    "deluge",
+    "lovers",
+    "sequel",
+    "saber-toothed tiger"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "Manny, Sid and Diego discover that the ice age is coming to an end, and join everybody for a journey to higher ground. On the trip, they discover that Manny is not in fact the last of the woolly mammoths.",
+    "Manny the woolly mammoth, Sid the sloth, Diego the saber-toothed tiger, and the hapless prehistoric squirrel/rat known as Scrat are still together and enjoying the perks of their now melting world. Manny may be ready to start a family, but nobody has seen another mammoth for a long time; Manny thinks he may be the last one. That is, until he miraculously finds Ellie, the only female mammoth left in the world. Their only problems: They can't stand each other--and Ellie somehow thinks she's a possum! Ellie comes with some excess baggage in the form of her two possum \"brothers\"-- Crash and Eddie, a couple of daredevil pranksters and cocky, loud-mouthed troublemakers. Manny, Sid and Diego quickly learn that the warming climate has one major drawback: A huge glacial dam holding off oceans of water is about to break, threatening the entire valley. The only chance of survival lies at the other end of the valley. So our three heroes, along with Ellie, Crash and Eddie, form the most unlikely family--in any \"Age\"-- as they embark on a mission across an ever-changing, increasingly dangerous landscape towards their salvation.—gavin (gunmasterM@hotmail.com)",
+    "Our prehistoric foursome are back. Manny, the sarcastic but warmhearted mammoth, finds a mate and is now learning the science of being tactful. Sid, the inept sloth, is trying to establish his long overdue respect from others. Diego, the once shady travel companion now turned loyal carnivore of the \"herd\", must confront a fear that he's always kept secret. And Scrat the squirrel is still accidently causing shifts in the landscape. But these four have a bigger problem coming when a flood is about to change their history.—Don Hoffman",
+    "Faced with global warming and the thawing of a gigantic ancient glacier after the white-knuckle prehistoric adventure in Ice Age (2002), sub-zero heroes Manny, Sid, and Diego, find themselves forced to leave their once-hospitable valley to embark on a long-distance journey to safety. However, the unexpected arrival of Ellie, a female mammoth with an identity crisis and her two mischievous opossum companions, Crash and Eddie, is bound to complicate the already challenging quest. Indeed, the road to freedom is long and treacherous. Will the band of prehistoric travellers fulfil their destiny and live to tell the tale?—Nick Riganas",
+    "While Skrat the Saber Toothed Squirrel is still ineffectually trying to regain his precious acorn, the misfit trio of Manny the Mammoth, Sid the Sloth and Diego the Sabretooth Tiger have settled down in an isolated valley with numerous other animals. However, the trio discover that the ice wall surrounding the valley is barely holding back a massive body of water behind it and it's melting state threatens to break and flood the valley. With their one chance of survival being a boat at the other end of the valley, the trio follow the desperate exodus there. Along the way, they meet Ellie, a female mammoth who is convinced she's a opossum like her brothers. While the strange group continues the trek, they must learn to get along even as Manny struggles to find some connection to this strange female who may be the only other one of his kind.—Kenneth Chisholm (kchishol@rogers.com)"
+  ],
+  "synopsis": "In the opening scene, Scrat, the saber-toothed squirrel climbs a glacier and comically zips away as he spits out gallons of water, after gnawing a hole in the ice. The frozen world of ice and snow is slowly thawing, though the creatures, of the Ice Age, pay no attention and continue enjoying themselves on slides and pools made by the melting ice. Among them, also enjoying the weather, are our three protagonists from the first film: Manfred, Sid, and Diego. Through the fun, Sid opens a day camp for children, where none of the younger creatures (nor his mocking friends Manny and Diego) take him seriously. After being teased and insulted by his joking friends, Sid leaves his camp seeking a daring deed to gain respect. After Sid leaves, Manny tells a story to keep the rambunctious toddlers at bay, until a young song bird asks Manny about his \"big, happy family\" leaving him silent (conflicted by old memories).Two boys run in fear after Fast Tony (a six banded armadillo), the valley's local con artist, claims that the earth will flood and that the bark and reeds (which he sells) are crucial for survival. Manfred dismisses the idea, but is quickly distracted after he sees Sid trying to high dive from a giant waterfall. As Manny goes with Diego to the top of the waterfall to save Sid, from his act of daredevilry, they discover that the pleasant weather caused the inner-layers ice of the valley's giant, bowl shaped glacier to melt. Only the glaciers outer layers, which formed a dam, kept the valley from flooding.After they accidentally fall down the waterfall, Manny warns everyone of the valley's impending doom, if the damn should break. However, the animals merely laugh it off, while a pretentious ardvark asks Manny why they should follow his survival advice when his own kind, the mammoths, have gone extinct. The animals good spirits quickly fall, however, as an intimidating vulture convinces the animals that a terrible flood is coming. He then offhandedly mentions a giant boat at the end of the valley which could save them all, much to the valley residents relief. However, as the vulture further explained, the valley had exactly three days before the dam would break and reach the geyser fields until: \"BOOM!\", the water would rise and flood the valley. After the vultures morbid speech, the masses of animals comically head for the boat, leaving in pairs and families and Scrat follows the trio to the boat. Just as the herds leave, a glacier (which contains two sea reptiles from the Mesozoic era, Cretaceous and Maelstrom) breaks off and eventually melts, releasing the aquatic villains into the melting world.Sid continuously antagonized Manny about being the last mammoth alive, with his satirical songs (though he wasn't trying to depress Manny, but was merely being Sid). Though Manny initially took a firm stance that he most definitely was NOT the last mammoth, he eventually gave in and let the realization he was alone sink in. However, during a solo, soul searching walk, Manny meets Ellie, a female mammoth, to his happy relief. However, he soon realized Ellie was a very strange mammal as she believed that she was a opossum, like her brothers Crash and Eddie.Much to Manny's annoyance, Sid later invites Ellie, and her opossum brothers, to tag along with the group to escape the flood (as Diego and Sid agreed it could be Manny's last chance to save his species). After several failed attempts of convincing Ellie she's a mammoth, Manny seemingly gives up, after one last attempt of \"impressing\" her. Then, after a perilous ordeal with Cretaceous and Maelstrom, Sid, alone, discovers that Diego is afraid of water (despite the denial from a very patronized Diego). After settling down for the night, Manny and Ellie discover a willow grove where Ellie recalls a flashback of being taken in by her eventual opossum mother as a mammoth calf. With the help of her lost memory, she finally realizes that she is, in fact, a mammoth. But despite sharing a slightly romantic moment or two with Manny, she quickly distances herself from him after he suggests that they could now \"save their species\", as its their responsibility.Ellie quickly let go of her spite after she and Manny (under the direction of Diego) save the herd from the crumbling Misty Chasm and finally realizes that she and Manny did have chemistry together. As things settle down, the herd sleeps while and unsuspecting Sid is kidnapped by a tribe of mini-sloths, who believe Sid to be a god, referred to as \"fire king\". After Sid lights a fire for them, and gains their worship, he finally believes that he has found the respect he had been searching for. But, things comically take a turn for the worst, when the mini-sloths try to sacrifice him to a volcano, to appease the gods and avert the flood. Sid luckily escapes, and tries to convince his friends of his ordeal, but, as usual, no one believes him. After the gang make it through the vultures Broadway like performance of \"food glorious food\" (describing how the vultures would eat the herd) they finally reach the boat. Unfortunately, they find that the field of hot geysers, stands between them and the safety of the giant, bark boat. After a heated debate between Ellie and Manny about the geyser fields (Manny wanting to go through, and Ellie wanting to go around), the group splits with Sid and Diego going with Manny and Crash and Eddie going with Ellie.As Manny crosses the geyser field and makes it to the boat, he frantically searches for Ellie (beginning to understand the affection he held for her) until, to his horror, Crash and Eddie reveal Ellie's fate. As Ellie, Crash, and Eddie went around the geyser fields, and the three were feet from the giant boat, a mountainside caved in. Instead of crushing Ellie, the fallen boulders and rock slabs piled so that they created a great \"boulder cave\", with no exit large enough for Ellie to escape. Manny dashes off, with Diego and Sid close behind, until he reaches Ellie's cave, however by that time the flood had already began, with water slowly streaming into the cave. After Manny dives after Ellie, Diego overcomes his fear of water as he saves an unconscious Sid, and a marooned Crash and Eddie. Manny soon squares off with Cretaceous and Maelstrom, and, due to his quick thinking, impales the two with a rock slab from Ellie's cave, likely killing both. As the rock slab falls, Manny is able to save Ellie from the completely submerged cave, and reunites her with the others while Manny and Ellie share a tender moment. However, the moment quickly ends, as flood waters rise higher still, and the group huddles together awaiting their impending doom. While, from inside the giant boat, the valley animals animals look out astonished, as they hold to the mercy of the shifting water currents.Meanwhile, Scrat climbs up the glacier, leaving a trail of indents from his acorn, until, he sticks the acorn into the glacier's top. This forms a crack from the glacier's top and splits down the line of indents, widening into a fissure until Scrat unintentionally diverts the flood, saving the animals of the valley. Scrat is then washed away in the draining wave of water, and believed to be deceased. The mini-sloths then catch up with a terrified Sid, and ask him to join their group (believing that he averted the flood). Diego steps in, and tells both Sid and the mini-sloths that Sid can't go with them as he's both the creator of their herd and the glue which holds their friendships together (to which Sid embraces an embarrassed Diego). Then, near the end, a large herd of mammoths enter the valley (through the glacier rift) to the amazement of the animals, none more so than Ellie and Manny. Though initially overjoyed, Manny soon becomes conflicted as he no longer has the excuse of being with Ellie to save their species, and reverts back to old fears and memories dealing with his deceased mate and son.Ellie hints to Manny that he's the one she wants to spend her life with, but she soon leaves with the mammoth herd after Manny's failed attempt of expressing his feelings. Though Manny soon chases after her, after the support of Diego and Sid, and (while hanging from a tree like a opossum) confesses to Ellie that he doesn't want to be with her because they had to, but because he, himself, wanted to. The two lock trunks and embrace and the watching mammoths trumpet in commemoration of their new relationship, while Crash and Eddie weep happily together. As Sid and Diego walk off together, seemingly down trodden, realizing Manny is gone for good, Manny and Ellie, with Crash and Eddie, surprise the two as the mammoths reveal that they have decided to remain together as a herd.",
+  "imdb_score": 6.8
+}

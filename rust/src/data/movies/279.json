@@ -1,0 +1,399 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/4i3Amppd6eW5Qkhjv4gdHk3CCoE.jpg",
+  "id": 279,
+  "title": "Amadeus",
+  "poster_path": "https://image.tmdb.org/t/p/w500/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+  "release_date": "1984-09-19",
+  "vote_average": 8.037,
+  "vote_count": 3960,
+  "popularity": 28.624,
+  "overview": "Wolfgang Amadeus Mozart is a remarkably talented young Viennese composer who unwittingly finds a fierce rival in the disciplined and determined Antonio Salieri. Resenting Mozart for both his hedonistic lifestyle and his undeniable talent, the highly religious Salieri is gradually consumed by his jealousy and becomes obsessed with Mozart's downfall, leading to a devious scheme that has dire consequences for both men.",
+  "imdb_id": "tt0086879",
+  "budget": 18000000,
+  "homepage": "",
+  "revenue": 90000000,
+  "runtime": 161,
+  "tagline": "Everything you've heard is true...",
+  "genres": [
+    "History",
+    "Music",
+    "Drama"
+  ],
+  "production_companies": [
+    "The Saul Zaentz Company",
+    "AMLF",
+    "Orion Pictures"
+  ],
+  "production_countries": [
+    "FR",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "F. Murray Abraham",
+        "character": "Antonio Salieri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg"
+      },
+      {
+        "name": "Tom Hulce",
+        "character": "Wolfgang Amadeus Mozart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sQslzbyYZr4Qjv55VseLbbjpuMY.jpg"
+      },
+      {
+        "name": "Elizabeth Berridge",
+        "character": "Constanze Mozart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hmSuiebPLyv24hHIiA1BL8aC1KL.jpg"
+      },
+      {
+        "name": "Roy Dotrice",
+        "character": "Leopold Mozart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/etXS22XFmYmHiQ7RDYf72pPO4fp.jpg"
+      },
+      {
+        "name": "Simon Callow",
+        "character": "Emanuel Schikaneder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kvYGyshDFDpO1hFcwuUOAtKKaRA.jpg"
+      },
+      {
+        "name": "Christine Ebersole",
+        "character": "Katerina Cavalieri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Y2O0MrCWNsrvDIkjyK6cZ6KjK3.jpg"
+      },
+      {
+        "name": "Jeffrey Jones",
+        "character": "Emperor Joseph II",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zLodpqWUb9OzQLpK1ZY9im1Lh0p.jpg"
+      },
+      {
+        "name": "Charles Kay",
+        "character": "Count Orsini-Rosenberg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/itrjpPBP313mCdyk86YPLmBMPqZ.jpg"
+      },
+      {
+        "name": "Kenneth McMillan",
+        "character": "Michael Schlumberg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iGRcxZOLPMCsgg06kYW1aVfxGqi.jpg"
+      },
+      {
+        "name": "Kenny Baker",
+        "character": "Parody Commendatore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uo3RorCoGDWHecLtqjviwzFExxR.jpg"
+      },
+      {
+        "name": "Lisbeth Bartlett",
+        "character": "Papagena",
+        "profile_path": ""
+      },
+      {
+        "name": "Barbara Bryne",
+        "character": "Frau Weber",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4sjRuLLWfIsn0xctsznV2zteJfO.jpg"
+      },
+      {
+        "name": "Martin Cavina",
+        "character": "Young Salieri",
+        "profile_path": ""
+      },
+      {
+        "name": "Roderick Cook",
+        "character": "Count Von Strack",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fpHoZ2ppBcjHtf9ur8K5iUYRcUT.jpg"
+      },
+      {
+        "name": "Milan Demjanenko",
+        "character": "Karl Mozart",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter DiGesu",
+        "character": "Francesco Salieri",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Frank",
+        "character": "Father Vogler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n0x73rsFrgKA0wbxSP92ub66x5d.jpg"
+      },
+      {
+        "name": "Patrick Hines",
+        "character": "Kappelmeister Bonno",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicholas Kepros",
+        "character": "Archbishop Colloredo",
+        "profile_path": ""
+      },
+      {
+        "name": "Philip Lenkowsky",
+        "character": "Salieri's Servant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1XXxBOgGrtRyUQahEb0CjTQBv0x.jpg"
+      },
+      {
+        "name": "Herman Meckler",
+        "character": "Priest",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Moore",
+        "character": "Baron Van Swieten",
+        "profile_path": ""
+      },
+      {
+        "name": "Cynthia Nixon",
+        "character": "Lorl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a366FCtQYmT80vQnPMFZ4hsTwuU.jpg"
+      },
+      {
+        "name": "Brian Pettifer",
+        "character": "Hospital Attendant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/swfTMwupWIBc1JixOydX812kQOE.jpg"
+      },
+      {
+        "name": "Vincent Schiavelli",
+        "character": "Salieri's Valet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8wq2WF9ohUUZZjfVxEEiUGxLHzp.jpg"
+      },
+      {
+        "name": "Douglas Seale",
+        "character": "Count Arco",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4RFHIJ3xbmOpgsr7JLZeRfY9yhb.jpg"
+      },
+      {
+        "name": "Miroslav Sekera",
+        "character": "Young Mozart",
+        "profile_path": ""
+      },
+      {
+        "name": "Cassie Stuart",
+        "character": "Gertrude Schlumberg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4LRjEkdHGOvkZh0kDqCp99dIwWk.jpg"
+      },
+      {
+        "name": "John Strauss",
+        "character": "Conductor",
+        "profile_path": ""
+      },
+      {
+        "name": "Karl-Heinz Teuber",
+        "character": "Wig Salesman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oXzov7uBszvczp1fX8Pe6LaR66s.jpg"
+      },
+      {
+        "name": "Rita Zohar",
+        "character": "Frau Schlumberg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7lLXJOJqQUi2czY5nsf7YmR2XpX.jpg"
+      },
+      {
+        "name": "Miro Grisa",
+        "character": "Figaro in 'The Marriage of Figaro' (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Karel Gult",
+        "character": "Count Almaviva in 'The Marriage of Figaro' (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ladislav Krečmer",
+        "character": "Antonio in 'The Marriage of Figaro' (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Karel Fiala",
+        "character": "Don Giovanni in 'Don Giovanni' (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a6xCkH2UmWkAidY1fthrMDN6n7M.jpg"
+      },
+      {
+        "name": "John Carrafa",
+        "character": "Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9q54HknOv4izFjrJw2lqx3W6ehH.jpg"
+      },
+      {
+        "name": "Hana Brejchová",
+        "character": "Czechoslovakian Actor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ethNiyWrfswh1kNwQGtxbV8a9OE.jpg"
+      },
+      {
+        "name": "Miriam Chytilová",
+        "character": "Czechoslovakian Actor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e5dk5xC9JYp9oD2E3DrLkpMchb7.jpg"
+      },
+      {
+        "name": "Karel Effa",
+        "character": "Czechoslovakian Actor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/azvg0ZZQ6YjRnw6kq1o3jSX1g6R.jpg"
+      },
+      {
+        "name": "René Gabzdyl",
+        "character": "Czechoslovakian Actor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Karel Hábl",
+        "character": "Czechoslovakian Actor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/btKwrFNh6TXvndf6MIN8N0QZKxw.jpg"
+      },
+      {
+        "name": "Jiří Krytinář",
+        "character": "Czechoslovakian Actor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c0h56XPXlCvb5HSwVOC8KolX3xG.jpg"
+      },
+      {
+        "name": "Jan Kuželka",
+        "character": "Czechoslovakian Actor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hZgZrWwAf5haHSxiE8P60gxriT8.jpg"
+      },
+      {
+        "name": "Jiří Lír",
+        "character": "Czechoslovakian Actor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2hlyXomshZChCJD1VW3uQyfZZsL.jpg"
+      },
+      {
+        "name": "Jitka Molavcová",
+        "character": "Czechoslovakian Actor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nPgW7f79IaePqJYQiwl25RBPlrF.jpg"
+      },
+      {
+        "name": "Pavel Nový",
+        "character": "Czechoslovakian Actor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/it1n1QcNaiq1qNQyyjTt3lcxE34.jpg"
+      },
+      {
+        "name": "Jan Pohan",
+        "character": "Czechoslovakian Actor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oZrFkJ3ev99dD201I4jCrBNaQKX.jpg"
+      },
+      {
+        "name": "Tereza Pokorná-Herzová",
+        "character": "Czechoslovakian Actor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cL6lKRoRQhRyRuLPbr22tb6A2ht.jpg"
+      },
+      {
+        "name": "Ivan Pokorný",
+        "character": "Czechoslovakian Actor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Milan Riehs",
+        "character": "Czechoslovakian Actor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dana Vávrová",
+        "character": "Czechoslovakian Actor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wH1wu9Ld0px9a903uKTuBSUtca0.jpg"
+      },
+      {
+        "name": "June Anderson",
+        "character": "Queen of the Night in 'The Magic Flute' (singing voice) (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Isobel Buchanan",
+        "character": "Susanna in 'The Marriage of Figaro' (singing voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zjogL6DDHsk82qR5ssJLhvRORMN.jpg"
+      },
+      {
+        "name": "Anne Howells",
+        "character": "Cherubino in 'The Marriage of Figaro' (singing voice) (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Robin Leggate",
+        "character": "Don Curzio in 'The Marriage of Figaro' (singing voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m5l6Bol8gk4KLt3vF007f18QApm.jpg"
+      },
+      {
+        "name": "Felicity Lott",
+        "character": "Countess in 'The Marriage of Figaro' (singing voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oQwnCP7Ecz71vRVhZPOJyuZgmDU.jpg"
+      },
+      {
+        "name": "Alexander Oliver",
+        "character": "Basilio in 'The Marriage of Figaro' (singing voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gf5NLD1hmFQpTwbVwFr7iLwbtJZ.jpg"
+      },
+      {
+        "name": "Samuel Ramey",
+        "character": "Figaro in 'The Marriage of Figaro' (singing voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mqxTOwlKY7tOTBUvNsrBWKZtHsJ.jpg"
+      },
+      {
+        "name": "Richard Stilwell",
+        "character": "Count Almaviva in 'The Marriage of Figaro' / Don Giovanni in 'Don Giovanni' (singing voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2GsCvnY5hvTqBSygVXDlJAeyzFR.jpg"
+      },
+      {
+        "name": "John Tomlinson",
+        "character": "Dr. Bartolo in 'The Marriage of Figaro' / Commendatore in 'Don Giovanni' (singing voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f2KtohfPfxdCq0NxMhbzec7HeCJ.jpg"
+      },
+      {
+        "name": "Willard White",
+        "character": "Antonio in 'The Marriage of Figaro' / Leporello in 'Don Giovanni' (singing voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bsq1Sw3uJJUmKXa34LEtLi0kEIC.jpg"
+      },
+      {
+        "name": "Michele Esposito",
+        "character": "Salieri's Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Zdeněk Mahler",
+        "character": "Cardinal (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xroXG4fISEauSnQ0HYYHE2Pokc3.jpg"
+      },
+      {
+        "name": "Vladimír Svitáček",
+        "character": "Pope Clement (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jana Musilová",
+        "character": "Czechoslovakian Actor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3o0LojjCgGSwMI6Kek3QdmuRjgx.jpg"
+      },
+      {
+        "name": "Raymond Kurshals",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8PUHjBWfm9z8p1NAHcFlXp4P0SW.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Miloš Forman",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bVuTuyfkEnAmm7IUucMXjKHV3YC.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "opera",
+    "composer",
+    "musician",
+    "marriage crisis",
+    "italy",
+    "talent",
+    "emperor",
+    "austria",
+    "mozart",
+    "god",
+    "murder",
+    "vienna, austria",
+    "envy",
+    "18th century"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was deeply jealous of Mozart's talent and claimed to have murdered him.",
+    "Antonio Salieri believes that Wolfgang Amadeus Mozart's music is divine and miraculous. He wishes he was himself as good a musician as Mozart so that he can praise the Lord through composing. He began his career as a devout man who believes his success and talent as a composer are God's rewards for his piety. He's also content as the respected, financially well-off, court composer of Austrian Emperor Joseph II. But he's shocked to learn that Mozart is such a vulgar creature, and can't understand why God favored Mozart to be his instrument. Salieri's envy has made him an enemy of God whose greatness was evident in Mozart. He is ready to take revenge against God and Mozart for his own musical mediocrity.—Khaled Salem",
+    "Claiming to have murdered the composer Wolfgang Amadeus Mozart, the elderly Antonio Salieri recounts to a priest his dealings with the brilliant composer. Salieri was court composer to Austrian Emperor Joseph II when Mozart and he first met. The Emperor, a major patron of the arts, immediately commissioned Mozart to write an opera in German, rather than the customary Italian. Mozart is childish, arrogant, annoying and brilliant all at once and Salieri is simultaneously in awe and green with envy at his genius. Salieri uses Mozart's difficult relationship with his father and his guilt over being a bad son to drive him slightly mad and into a downward spiral of ill health, leading to his death.—garykmcd",
+    "It is the early 19th century. An old man is thrown into an insane asylum after trying to commit suicide. He is Antonio Salieri and in the asylum he is visited by a priest, to whom he confesses that he killed Mozart. He then recounts his time as court composer to Emperor Joseph II of Austria. Mozart appears at the court and is hired by the Emperor to produce an opera. His genius is quite evident. Salieri is a devout Christian man and believes all musical talent and inspiration is given by God. Mozart's personal life and extracurricular activities appall Salieri. He cannot reconcile Mozart's talent and his lifestyle and sets out to drive him from the court. Initially his aim is to undermine him but over time his intentions turn deadlier.—grantss",
+    "Wolfgang Amadeus Mozart is a remarkably talented young Viennese composer who unwittingly finds a fierce rival in the disciplined and determined Antonio Salieri. Resenting Mozart for both his hedonistic lifestyle and his undeniable talent, the highly religious Salieri is gradually consumed by his jealousy and becomes obsessed with Mozart's downfall, leading to a devious scheme that has dire consequences for both men.—Jwelch5742"
+  ],
+  "synopsis": "The story begins in 1823 as the elderly Antonio Salieri attempts suicide by slitting his throat while loudly begging forgiveness for having killed Wolfgang Amadeus Mozart in 1791. Placed in a lunatic asylum for the action, Salieri is visited by a young priest who seeks to take his confession. Salieri is sullen and uninterested but eventually warms to the priest and launches into a long \"confession\" about his relationship with Mozart.Salieri's story goes on through the night and into the next day. He reminisces about his youth, particularly about his devotion to God and his love for music and how he pledges to God to remain celibate as a sacrifice if he can somehow devote his life to music. He describes how his father's plans for him were to go into commerce, but suggests that the sudden death of his father, who choked to death during a meal, was \"a miracle\" that allowed him to pursue a career in music. In his narrative, he is suddenly an adult joining the 18th century cultural elite in Vienna, the \"city of musicians\". Salieri begins his career as a devout, God-fearing man who believes his success and talent as a composer are God's rewards for his piety. He is content as the court composer for Holy Roman Emperor Joseph II.Mozart arrives in Vienna with his patron, Count Hieronymus von Colloredo, the Prince-Archbishop of Salzburg. Salieri secretly observes Mozart at the Archbishop's palace, but they are not properly introduced. Salieri sees that offstage, Mozart is irreverent and lewd. He also first recognizes the immense talent displayed in the adult works of Mozart. In 1781, when Mozart meets the Emperor, Salieri presents Mozart with a \"March of Welcome\", which he toiled to create. After hearing the march only once, Mozart plays it from memory, critiques it, and effortlessly improvises a variation, transforming Salieri's \"trifle\" into the \"Non più andrai\" march from his 1786 opera \"The Marriage of Figaro\".Salieri reels at the notion of God speaking through the childish, snappish Mozart: nevertheless, he regards his music as miraculous. Gradually, Salieri's faith is shaken. He believes that God, through Mozart's genius, is cruelly laughing at Salieri's own musical mediocrity. Salieri's struggles with God are intercut with scenes showing Mozart's own trials and tribulations with life in Vienna: pride at the initial reception of his music; anger and disbelief over his subsequent treatment by the Italians of the Emperor's court; happiness with his wife Constanze and his son Karl; and grief at the death of his father Leopold. Mozart becomes more desperate as the family's expenses increase and his commissions decrease. When Salieri learns of Mozart's financial straits, he sees his chance to avenge himself, using \"God's Beloved\" (the literal meaning of \"Amadeus\") as the instrument.Salieri hatches a complex plot to gain ultimate victory over Mozart and God. He disguises himself in a black mask and costume similar to one he saw Leopold wear at a party, and commissions Mozart to write a requiem mass, giving him a down payment and the promise of an enormous sum upon completion. Mozart begins to write the piece, the Requiem Mass in D minor, unaware of the true identity of his mysterious patron and oblivious of his murderous intentions. Glossing over any details of how he might commit the murder, Salieri dwells on the anticipation of the admiration of his peers and the court, when they applaud the magnificent Requiem, and he claims to be the music's composer. Only Salieri and God would know the truth that Mozart wrote his own requiem mass, and that God could only watch while Salieri finally receives the fame and renown he deserves.Mozart's financial situation worsens and the composing demands of the Requiem and \"The Magic Flute\" drive him to the point of exhaustion as he alternates work between the two pieces. Constanze leaves him and takes their son with her. His health worsens and he collapses during the premiere performance of \"The Magic Flute\". Salieri takes the stricken Mozart home and convinces him to work on the Requiem. Mozart dictates while Salieri transcribes through the night. When Constanze returns in the morning, she orders Salieri to leave. Constanze locks the manuscript away despite Salieri's objections, but as she goes to wake her husband, Mozart has died. The Requiem is left unfinished, and Salieri is left powerless as Mozart's body is hauled out of Vienna for burial in a pauper's mass grave during a rainstorm.The film ends as Salieri finishes recounting his story to the visibly shaken young priest. Salieri concludes that God killed Mozart rather than allow Salieri to share in even an ounce of his glory, and that he is consigned to be the \"patron saint of mediocrity\". Salieri mockingly absolves the priest of his own mediocrity and blesses his fellow patients as he is taken away in his wheelchair. The last sound heard before the closing credits roll is Mozart's high-pitched laughter.",
+  "imdb_score": 8.4
+}

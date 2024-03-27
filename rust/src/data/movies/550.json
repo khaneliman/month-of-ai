@@ -1,0 +1,449 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+  "id": 550,
+  "title": "Fight Club",
+  "poster_path": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+  "release_date": "1999-10-15",
+  "vote_average": 8.4,
+  "vote_count": 27982,
+  "popularity": 79.882,
+  "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+  "imdb_id": "tt0137523",
+  "budget": 63000000,
+  "homepage": "http://www.foxmovies.com/movies/fight-club",
+  "revenue": 100853753,
+  "runtime": 139,
+  "tagline": "Mischief. Mayhem. Soap.",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Fox 2000 Pictures",
+    "Regency Enterprises",
+    "The Linson Company",
+    "20th Century Fox",
+    "Taurus Film"
+  ],
+  "production_countries": [
+    "DE",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Edward Norton",
+        "character": "Narrator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5XBzD5WuTyVQZeS4VI25z2moMeY.jpg"
+      },
+      {
+        "name": "Brad Pitt",
+        "character": "Tyler Durden",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+      },
+      {
+        "name": "Helena Bonham Carter",
+        "character": "Marla Singer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3D0dHVJ8YeVP8Uag0JUIIQji7C8.jpg"
+      },
+      {
+        "name": "Meat Loaf",
+        "character": "Robert 'Bob' Paulson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7gKLR1u46OB8WJ6m06LemNBCMx6.jpg"
+      },
+      {
+        "name": "Jared Leto",
+        "character": "Angel Face",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
+      },
+      {
+        "name": "Zach Grenier",
+        "character": "Richard Chesler (Regional Manager)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fSyQKZO39sUsqY283GXiScOg3Hi.jpg"
+      },
+      {
+        "name": "Holt McCallany",
+        "character": "The Mechanic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a5ax2ICLrV6l0T74OSFvzssCQyQ.jpg"
+      },
+      {
+        "name": "Eion Bailey",
+        "character": "Ricky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3DW13W47cKk4LQZwS4EvRaNBoVu.jpg"
+      },
+      {
+        "name": "Richmond Arquette",
+        "character": "Intern at Hospital",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y3b4UzS6DuWtCgdqxdQ5s1D5ipa.jpg"
+      },
+      {
+        "name": "David Andrews",
+        "character": "Thomas at Remaining Men Together",
+        "profile_path": "https://image.tmdb.org/t/p/w185/36LEerIIN7gpG52mM3Ier7YWDbh.jpg"
+      },
+      {
+        "name": "George Maguire",
+        "character": "Group Leader at Remaining Men Together",
+        "profile_path": ""
+      },
+      {
+        "name": "Eugenie Bondurant",
+        "character": "Weeping Woman - Onward and Upward",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9ULAELEKNha7VCJhRWoer58NcJe.jpg"
+      },
+      {
+        "name": "Christina Cabot",
+        "character": "Group Leader - Partners in Positivity",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h1vwbOfITSvDvDq8E9MVvWqMYSr.jpg"
+      },
+      {
+        "name": "Sydney 'Big Dawg' Colston",
+        "character": "Speaker - Free and Clear",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tdzVh7pstj6rcppqbBOX0KA7mX9.jpg"
+      },
+      {
+        "name": "Rachel Singer",
+        "character": "Chloe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o4Hzvy1VRa3IILMrI45Ia08pstK.jpg"
+      },
+      {
+        "name": "Christie Cronenweth",
+        "character": "Airline Check-In Attendant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m9S13jmuBO2VeY0ZspSS7DlAEU.jpg"
+      },
+      {
+        "name": "Tim DeZarn",
+        "character": "Federated Motor Co. - Inspector Bird",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tduRqomAU3LARfuDa2OMKFAd1rR.jpg"
+      },
+      {
+        "name": "Ezra Buzzington",
+        "character": "Federated Motor Co. - Inspector Dent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j3kJRKgQdHAMXvJUtPHXJsGGW5X.jpg"
+      },
+      {
+        "name": "Dierdre Downing-Jackson",
+        "character": "Business Woman on Plane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/81NKNmWmruKfvN6ZTAJmUVgz2yR.jpg"
+      },
+      {
+        "name": "Bob Stephenson",
+        "character": "Airport Security Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/htF2P5zyyFFB1jpBNGVvTiGH01F.jpg"
+      },
+      {
+        "name": "Charlie Dell",
+        "character": "Doorman at Person Towers",
+        "profile_path": ""
+      },
+      {
+        "name": "Rob Lanza",
+        "character": "Man in Suit",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4qhdB9O9G5xm4K0KVxcXTOK35en.jpg"
+      },
+      {
+        "name": "David Lee Smith",
+        "character": "Walter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A3vP0a0CqmQSdslPRnEYDiyIZ3V.jpg"
+      },
+      {
+        "name": "Joel Bissonnette",
+        "character": "Food Court Maitre d'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kOvh6paITOTaE7H1NnuTB01DiVV.jpg"
+      },
+      {
+        "name": "Evan Mirand",
+        "character": "'Steph'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2juze2UWM22dWfoL2E6YLrKwsmH.jpg"
+      },
+      {
+        "name": "Robby Robinson",
+        "character": "Next Month's Opponent",
+        "profile_path": ""
+      },
+      {
+        "name": "Lou Beatty Jr.",
+        "character": "Cop at Marla's Building",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eWEXAHp2VnOBUk0KXorvkSdhjYc.jpg"
+      },
+      {
+        "name": "Thom Gossom Jr.",
+        "character": "Detective Stern",
+        "profile_path": "https://image.tmdb.org/t/p/w185/plFARWSTQ021TOOC5gpChhiUIVu.jpg"
+      },
+      {
+        "name": "Valerie Bickford",
+        "character": "Cosmetics Buyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qg6BYJ9qYYcz8ldT3zzp6h2BhQj.jpg"
+      },
+      {
+        "name": "Peter Iacangelo",
+        "character": "Lou",
+        "profile_path": ""
+      },
+      {
+        "name": "Carl Ciarfalio",
+        "character": "Lou's Body Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yADROfK7uJkmd8p3GyjxH8WZqRL.jpg"
+      },
+      {
+        "name": "Stuart Blumberg",
+        "character": "Car Salesman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/28QBps35AtsONGU8yNXmKdoLmAB.jpg"
+      },
+      {
+        "name": "Todd Peirce",
+        "character": "First Man at Auto Shop",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Fite",
+        "character": "Second Man at Auto Shop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qUbqKE14GAUdRhYqNcGzDkt1yi9.jpg"
+      },
+      {
+        "name": "Matt Winston",
+        "character": "Seminary Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/et38vhCb9y8yGleMRNY2j4nDDyr.jpg"
+      },
+      {
+        "name": "Joon Kim",
+        "character": "Raymond K. Hessel",
+        "profile_path": ""
+      },
+      {
+        "name": "Bennie Moore",
+        "character": "Bus Driver with Broken Nose",
+        "profile_path": ""
+      },
+      {
+        "name": "Lauren Sánchez",
+        "character": "Channel 4 Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ahOwHtOHrFZUoJDOd7VvF7RPiL.jpg"
+      },
+      {
+        "name": "Pat McNamara",
+        "character": "Commissioner Jacobs",
+        "profile_path": "https://image.tmdb.org/t/p/w185/buUUXw9geHBgz73p9IR3H9wscra.jpg"
+      },
+      {
+        "name": "Tyrone R. Livingston",
+        "character": "Banquet Speaker",
+        "profile_path": ""
+      },
+      {
+        "name": "Owen Masterson",
+        "character": "Airport Valet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1LKLNASM94TIEUlDpPqdMXywDQl.jpg"
+      },
+      {
+        "name": "David Jean Thomas",
+        "character": "Policeman",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Carafotes",
+        "character": "Salvator - Winking Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/snbFp9cOcPENH9ky6VKy38To6fC.jpg"
+      },
+      {
+        "name": "Christopher John Fields",
+        "character": "Proprietor of Dry Cleaners",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3ASDmbBZQnk526pPeNtb8LOJXBX.jpg"
+      },
+      {
+        "name": "Anderson Bourell",
+        "character": "Bruised Bar Patron #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Scotch Ellis Loring",
+        "character": "Bruised Bar Patron #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qIvaaeBTZWwtJxJfBqpM4xBnwXE.jpg"
+      },
+      {
+        "name": "Michael Shamus Wiles",
+        "character": "Bartender in Halo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/niY4gYqAUjmnU4KRiguxpsKliWA.jpg"
+      },
+      {
+        "name": "Andi Carnick",
+        "character": "Hotel Desk Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iYP4CL76vHHAhs2t4MUZ0p4MnMc.jpg"
+      },
+      {
+        "name": "Ed Kowalczyk",
+        "character": "Waiter at Clifton's",
+        "profile_path": ""
+      },
+      {
+        "name": "Leonard Termo",
+        "character": "Desk Sergeant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9QummJWlDgiEMClBTGyMfF6nyMX.jpg"
+      },
+      {
+        "name": "Van Quattro",
+        "character": "Detective Andrew",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3W7P7vvdf0HV6i1oL2fVRiULV7a.jpg"
+      },
+      {
+        "name": "Markus Redmond",
+        "character": "Detective Kevin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1nbshlVnSpr72aPq1Ntx7jwbLbw.jpg"
+      },
+      {
+        "name": "Michael Girardin",
+        "character": "Detective Walker",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Arturo",
+        "character": "BMW Salesman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Greg Bronson",
+        "character": "Fight Spectator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/smF0hrek3d0bVhq0m7ENLPFQpcP.jpg"
+      },
+      {
+        "name": "Matt Cinquanta",
+        "character": "Fighter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Dillon",
+        "character": "Irvin (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eadglYBBzdsVMp2hxnfopdnDNFP.jpg"
+      },
+      {
+        "name": "Eddie Hargitay",
+        "character": "Chanting Fighter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Phil Hawn",
+        "character": "Banquet Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7NGVxTRGKjxYRgekHv7NF9kNVzM.jpg"
+      },
+      {
+        "name": "Bruce Holman",
+        "character": "Waiter in Bridgeworth Suites Corporate Video (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1xhSV69K8wiXFECYZQ6HHtKU6qB.jpg"
+      },
+      {
+        "name": "Jawara",
+        "character": "Fight Patron Saying 'I don't know. What's going on?' (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jOfD9tIC9vbnCtWxKtm29U1wTXc.jpg"
+      },
+      {
+        "name": "Baron Jay",
+        "character": "Waiter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Jenkins",
+        "character": "Restaurant Maitre D' (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Scott Mack",
+        "character": "Passenger Clutching Armrest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wsnhGz8PxiHKkXyp7jkOEbVH3LS.jpg"
+      },
+      {
+        "name": "Trey Ore",
+        "character": "Fight Club Patron / Guy #2 in Video Store (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Louis Ortiz",
+        "character": "Fight Spectator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Hugh Peddy",
+        "character": "Fight Club Man (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "J.T. Pontino",
+        "character": "Fight Club Man (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chad Randau",
+        "character": "Waiter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zJeETjhI18I3W7gaJBX4yZsSNGV.jpg"
+      },
+      {
+        "name": "Marcio Rosario",
+        "character": "Fighter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pkSWorrHpHciPjgIHdj35Y91xvV.jpg"
+      },
+      {
+        "name": "Gregory Silva",
+        "character": "Riley Wilde - Fighter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Tochi",
+        "character": "Fight Bully (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oFmxzHpo3bw9wn8yx5fNCt9xTC7.jpg"
+      },
+      {
+        "name": "Michael Zagst",
+        "character": "Support Group Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/khCB4Ww6RXEjghdwsxv4lj545em.jpg"
+      },
+      {
+        "name": "Marc Cinquanta",
+        "character": "Space Monkey (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Summer Moore",
+        "character": "Marla's Neighbor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/38lBOCEvFnWoDBIsZfXO8ENoEwX.jpg"
+      },
+      {
+        "name": "Niall Binnion",
+        "character": "Man (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "David Fincher",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yV36WTsLBAGyYVUQshNdI8hyk9l.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "dual identity",
+    "rage and hate",
+    "based on novel or book",
+    "nihilism",
+    "fight",
+    "support group",
+    "dystopia",
+    "insomnia",
+    "alter ego",
+    "breaking the fourth wall",
+    "split personality",
+    "quitting a job",
+    "dissociative identity disorder",
+    "self destructiveness"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "A nameless first person narrator (Edward Norton) attends support groups in attempt to subdue his emotional state and relieve his insomniac state. When he meets Marla (Helena Bonham Carter), another fake attendee of support groups, his life seems to become a little more bearable. However when he associates himself with Tyler (Brad Pitt) he is dragged into an underground fight club and soap making scheme. Together the two men spiral out of control and engage in competitive rivalry for love and power.—Rhiannon",
+    "A young man leads a pretty humdrum life assessing car crashes to determine if his automobile company should issue recalls to fix problems. He also suffers from insomnia and takes to attending group therapy sessions for people who have survived various diseases. There he meets Marla who like him attends these sessions though she is neither a victim nor a survivor. His life changes when he meets Tyler Durden on a flight home. Tyler seems to be everything that he's not and together they create a men-only group for bare-knuckle fighting. It soon becomes all the rage with fight clubs springing up across the country and the group itself becoming an anti-capitalist domestic terrorist organization. Tyler and Marla develop a relationship leaving him often on the outside of what is going on. He soon finds that the group is out of control and after a major self-revelation decides there is only one way out.—garykmcd",
+    "An insomniac unnamed narrator needs a fantasy to escape from his deadly boring life, he tries joining a cancer support group however the only thing they do in the group is cry into each others chest, but then he is on a plane on his way back from what a viewer would assume is a business trip our unnamed narrator encounters Tyler Durden, a soap selling bad-ass who happens to run a secret fight club in the diner parking lot with his friend who follows 8 simple rules set out by Tyler, our unnamed narrator of course is taken into this scheme ran by Tyler.—ahmetkozan",
+    "Posing as a pitiful sufferer during fruitless late-night sessions in highly addictive support groups for terminal illnesses, an unhappy insomniac struggles to find meaning in his mundane and dysfunctional existence. Then, a fateful encounter with the anarchist philosopher and travelling soap salesman, Tyler Durden, changes his life, as--for the first time in a long while--the bored white-collar worker reconnects with his inner self. Much to his surprise, the formerly depressed loner finds himself deriving pleasure out of pain through bare-knuckle brawls in the Fight Club: an underground society of men who yearn to free themselves from the fetters of a cruel modern life. Now, he is ready to wage war. Are violence and freedom the two sides of the same coin?—Nick Riganas"
+  ],
+  "synopsis": "We back out of the webbing of neurons and brain cells as the title credits appear, finding ourselves emerging from a pore on the sweat-glistened skin of the protagonist: our narrator (Edward Norton), as he looks down the barrel of a gun that's been stuck in his mouth. The gun is held by a man named Tyler (Brad Pitt) who checks his watch, counting down to 'ground zero' before he asks if the narrator has anything to say. The narrator mumbles through the gun before it's removed and says more clearly that he can't think of anything. As Tyler looks out of the high rise window to the dark city below them, the narrator recalls just how he met Tyler before stopping himself and bringing us to the beginning of the story.The narrator tells us he hasn't slept for six months. His job as a traveling product recall specialist for a car company doesn't help his insomnia since he must travel often, experiencing bouts of jet lag in addition to the everyday stress of his position, admiring the 'tiny life' of single-serving soap and shampoo at every location. If he can't sleep, he surfs the channels or browses through \"Furni\" (a parody of IKEA) catalogs purchasing the next piece of decor to add to his apartment; he's a self-proclaimed slave of consumerism. He goes to his doctor seeking help, but all the doctor will do is suggest an herbal supplement instead of drugs and that the narrator visit a support group for testicular cancer to see real pain. There, the narrator meets Robert 'Bob' Paulson (Meat Loaf), the 'big moosie' and an ex-bodybuilder and steroid user who suffers from an extreme case of gynecomastia due to hormone treatment after his testicles were removed. Bob is quite willing to hug the narrator in support. Stuck between Bob's enormous breasts, the narrator finally finds peace and bursts into tears. The emotional release allows him to sleep and he subsequently becomes addicted to support groups, mapping out his week attending different meetings and feigning illness. However, the appearance of a woman named Marla Singer (Helena Bonham Carter) throws the narrator's 'system' out of whack. He recognizes her as a 'tourist', having seen her at multiple meetings -- including testicular cancer -- and he is disturbed by her lies to the point where he can't sleep anymore.After one meeting, he confronts her. She argues that she's doing exactly what he does and quips that the groups are 'cheaper than a movie and there's free coffee'. Instead of ratting each other out, they agree to split up the week and exchange numbers. Despite his efforts, the narrator's insomnia continues. On a flight back from one of his business trips, the narrator meets Tyler Durden. Tyler offers a unique perspective on emergency procedure manuals in the plane and they strike up a casual conversation. Tyler is a soap salesman, if he's not working nights as a projectionist and slipping bits of porn between reels at the movie theater where he also works. The narrator arrives at the baggage claim to discover that his suitcase has been confiscated, most likely due to a mysterious vibration, before he taxis home. However, home, a fifteenth story condominium, and it's contents has been blasted into the night by what was theorized to be a faulty gas line ignited by a spark from the refrigerator. Having nowhere to go, the narrator finds Tyler's business card and calls him up. They meet at a bar and share a few beers. While the narrator laments losing his possessions, Tyler shares his philosophy of evolving beyond consumer culture and eschewing material gain. In the parking lot behind the bar where Tyler invites the narrator to hit Tyler as hard as he can. The narrator, though puzzled, complies and they engage in a fist fight before sharing a couple of drinks. The experience is surprisingly euphoric and the narrator and Tyler return to Tyler's dilapidated house where it's clear that Tyler is squatting.Tyler and the narrator engage in more fights behind the bar over the coming days and they soon attract the attention of other 'tough guys'. Finding their little fighting group growing, Tyler establishes a formal 'fight club' in the basement of the bar where they had their first fight. Membership quickly increases and Tyler and the narrator fashion a series of rules, the first two being the same: 'you do not talk about fight club.' The rules are consistently broken, with members inviting their friends to join them. Time and again, Tyler proves his insightful, if unorthodox and immoral, views on life.The narrator meets up with Marla by chance, telling her that he hasn't attended any other meetings because he's joined a new support group for men only. While he still treats her with mild contempt, it's clear that he considers her with interest. When she overdoses on Xanax, she calls the narrator who, tired of her rambling, sets the phone down without hanging up. He discovers later that Tyler picked up the phone, followed the call to Marla's home, and brought her back to the house where they engaged in vigorous sex, much to the narrator's disgust. The next morning in the kitchen, Marla finds the narrator, who is astonished to see her in his house. The Narrator's astonishment insults her and she leaves in disgust. After she leaves, Tyler enters the kitchen and joyfully reveals that he and Marla had sex the night before. He also gravely makes the narrator promise that he'll never mention Tyler to Marla.That night the narrator joins Tyler while he steals human fat out of the dumpster of a liposuction clinic. Tyler says that the best fat for making the soap he sells comes from human beings. Back in their kitchen, Tyler shows the narrator how to render tallow from the fat. After explaining a bit about the history of soapmaking, Tyler plants a wet kiss on the back of the narrator's hand and dumps pure lye on the spot, causing a horrific chemical burn. Tyler refuses to let the narrator wash the lye off his hand, saying that water will worsen the burn, and tells the narrator that the burn is a rite of passage -- Tyler has burned his own hand in an identical way and that the horrific pain will make him feel alive. Tyler also forces the narrator to accept allegiance to him and then neutralizes the burn with vinegar. Later, when they meet with a cosmetics salesperson at a department store, the narrator remarks that Tyler's soap sells for a very high price.The original fight club continues to gather more members until Tyler shifts its focus: their initial members are invited to the house but must stand on the front porch for three days without food, water or encouragement, after which they'll be allowed inside. They must also endure insults from existing members and physical hazing. After they're allowed to join the new group they are required to shave their heads. Tyler dubs them \"Space Monkeys\". Tyler sets them all to refurbishing the house, performing cleaning chores and cultivating whatever they can in the small backyard garden. Earlier, Tyler had also spend a significant amount of time building bunk beds in the basement for new members.With the narrator, he holds a college dropout (Joon Kim) at gunpoint and threatens to kill him if he doesn't pursue his dream of becoming a veterinarian. He allows Lou (Peter Iacangelo), the owner of the bar where their fight club is held, to beat him horribly before coughing blood all over him and demanding to stay in the basement. Horrified, Lou agrees. Tyler gives the club members a \"homework assignment\": they will all pick a fight with a complete stranger and lose. The narrator says it's a much harder task than anyone would think. Bob accosts people in a downtown plaza; another member antagonizes a priest with a garden hose.After a period of days, Marla leaves and Tyler introduces the narrator to his newest hobby: using his proficient skills in soap-making, Tyler has turned the basement of the house into a laboratory where he uses soap and other ingredients to make explosives. Tyler and the narrator continue managing fight club, but this time, at a much different frequency. Receiving flack at work, the narrator finally confronts his boss (Zach Grenier) with knowledge about substandard practice and negotiates to work from home with increased pay to keep his mouth shut. When his boss objects and calls security, the narrator beats himself up severely so that, by the time security arrives, they are led to believe that the narrator's boss assaulted his employee.Tyler eventually assigns homework to his recruits and preaches to them about the detriments of consumerism and relying on society and authority figures. He proposes to revert back to the time where a man's worth depended on the sweat on his back and where he only used what he needed. This philosophy evolves into what Tyler calls 'Project Mayhem,' and the fighting in basements turns into mischievous acts of vandalism and destruction. Their actions do not go unnoticed, but Tyler manages to show the lead investigator, a police chief, that the very people he's hunting are those that they depend on; waiters, bus drivers, sewer engineers, and more. They threaten the police chief with castration and the investigation is called off. While Project Mayhem grows, the narrator begins to feel more and more distant from Tyler and jealousy sets in, making him go so far as to beat up and disfigure one recruit (Jared Leto) because he 'wanted to destroy something beautiful'. As they walk away from this fight club meeting, Tyler drives the narrator and two members in a large Lincoln Town Car. In the rain, Tyler taunts the narrator, suggesting that he hasn't even begun to live his life to his fullest potential. When he allows the car to drift into oncoming traffic and the narrator grabs the steering wheel, Tyler scolds the narrator for being weak and pathetic. Tyler then admits that he destroyed the narrator's apartment. The narrator finally gives in, Tyler lets the car drift and they slam head-on into another vehicle. They emerge from the wreck with Tyler exclaiming that the narrator has a new life based on his living through a near-death experience.When Tyler disappears for a while, the narrator is left at home with an ever increasing band of Mayhem members who watch television and laugh at their publicized acts of vandalism. When the narrator demands to know more about their mischief, Bob tells him \"The 1st rule of Project Mayhem is you do not ask questions.\"Bob is later killed during a botched sabotage operation and the narrator seeks to disband the group before things get out of control. He tries to find Tyler and discovers a list of phone numbers he recently used. The narrator trails the list all over the country, discovering that fight clubs have sprouted everywhere.At one particular bar, the bartender addresses the narrator as 'Sir' which prompts the narrator to ask if he knows him. The bartender, after being assured that he's not being put through a test, tells the narrator that he is Tyler Durden. In shock, the narrator returns to his hotel room and calls up Marla, asking if they've ever had sex. Though irritated, Marla confirms their relationship and states that she knows him as \"Tyler Durden.\" Marla hangs up and Tyler suddenly appears in the room and confronts the narrator, telling him he broke his promise to not speak about Tyler to Marla. A few minutes of conversation confirms that they are, indeed, one person. The narrator has insomnia; he can't sleep so, whenever he thinks he is (or at random parts of a day), Tyler's persona takes over. The narrator faints at the epiphany. When he wakes up, he finds another phone list beside him with calls from all over the country.He returns to his home to find it completely empty but one bulletin board yields a display of folders detailing certain buildings within the financial district. He finds that each one has been infiltrated by members of Project Mayhem and that Tyler is planning on destroying them, thereby erasing credit card company records and 'wiping the slate clean'. In a panic, the narrator grabs all the information and reports himself to the local police. However, after telling the inspector everything he knows and being left with two officers, the narrator discovers that the officers are Mayhem members and they tell him that they were instructed by him to 'take the balls' of anyone who interfered with Project Mayhem...even him. The narrator manages to escape by stealing one of the officers pistols and runs to one of the buildings set for demolition. He finds an unmarked van in the parking garage filled with nitroglycerin and attempts to disarm the bomb. Tyler appears and goads him but the narrator successfully disarms the bomb. He and Tyler engage in a fierce fight which appears oddly on the surveillance cameras since the narrator is only fighting himself. The Tyler personality wins and reactivates the bomb and the narrator 'brings himself' to another building where they can safely watch the destruction.Back at the opening scene the narrator, with the gun in his mouth, mumbles again and tells Tyler, \"I still can't think of anything\". Tyler smiles and says, \"Ah, flashback humor\". The narrator begs that Tyler abandon the project but Tyler is adamant. He professes that what he's doing is saving mankind from the oppression of consumerism and unnecessary luxuries and that there won't even have to be any casualties; the people who work in the buildings are all Mayhem members, completely aware of the plan. Near breaking point, the narrator comes to realize that whatever Tyler does, he can do. He sees Tyler with the gun in his hand and realizes that it's actually in his hand. He puts it up to his own chin and tells Tyler to listen to him. He says that his eyes are open and then puts the gun in his mouth and pulls the trigger. The bullet shoots out of the side of his jaw and Tyler is 'killed' with a gaping wound to the back of his head. As the narrator recovers, members of Project Mayhem arrive with snacks and Marla in tow (Tyler had previously instructed her to be brought to them).Seeing 'Tyler's' wounds, the Mayhem members leave Marla alone with him to fetch some medical supplies. 'Tyler' stands with Marla and tells her that everything's going to be fine as the first detonation ignites the building in front of them. The others on the block soon follow suit and 'Tyler' takes Marla's hand in his and tells her \"You met me at a very strange time in my life.\" They watch as the explosives go off and the buildings collapse.",
+  "imdb_score": 8.8
+}

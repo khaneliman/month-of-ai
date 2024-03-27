@@ -1,0 +1,588 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/gjZFMKtoJdpEDt3T0dnoiMfXYof.jpg",
+  "id": 2604,
+  "title": "Born on the Fourth of July",
+  "poster_path": "https://image.tmdb.org/t/p/w500/k5HfnMgaREHDNA7CugiETCb9ItM.jpg",
+  "release_date": "1989-12-20",
+  "vote_average": 7.003,
+  "vote_count": 1588,
+  "popularity": 20.584,
+  "overview": "Paralyzed in the Vietnam war, Ron Kovic becomes an anti-war and pro-human rights political activist after feeling betrayed by the country he fought for.",
+  "imdb_id": "tt0096969",
+  "budget": 14000000,
+  "homepage": "",
+  "revenue": 161001698,
+  "runtime": 145,
+  "tagline": "A story of innocence lost and courage found.",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "production_companies": [
+    "Universal Pictures",
+    "Ixtlan"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Cruise",
+        "character": "Ron Kovic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eOh4ubpOm2Igdg0QH2ghj0mFtC.jpg"
+      },
+      {
+        "name": "Raymond J. Barry",
+        "character": "Mr. Kovic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8rJs8BQMoVqEjjCHCS4i7o7joJ6.jpg"
+      },
+      {
+        "name": "Caroline Kava",
+        "character": "Mrs. Kovic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eORoASDF7YvmmKUQ883gYjyzmPU.jpg"
+      },
+      {
+        "name": "Holly Marie Combs",
+        "character": "Jenny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/smZy91UWhB8bZib6A28kTQ8w9sT.jpg"
+      },
+      {
+        "name": "Kyra Sedgwick",
+        "character": "Donna",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cfpLVZWChElvkKegZopC0xDjEWk.jpg"
+      },
+      {
+        "name": "Tom Berenger",
+        "character": "Recruiting Gunnery Sgt. Hayes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zLxzAdAfu7y02yEx29JSLDgXJZ4.jpg"
+      },
+      {
+        "name": "Rob Camilletti",
+        "character": "Tommy Finnelli",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jX0KRJsqkAIijfMPPdLG7iIjgHd.jpg"
+      },
+      {
+        "name": "Stephen Baldwin",
+        "character": "Billy Vorsovich",
+        "profile_path": "https://image.tmdb.org/t/p/w185/34GOuRYIkAcKW8newjrnYeC1QPK.jpg"
+      },
+      {
+        "name": "Mark Moses",
+        "character": "Arzt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c4C6xZoBx3ATQ8yzdiWX8p6LdKq.jpg"
+      },
+      {
+        "name": "Vivica A. Fox",
+        "character": "Hooker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oIzevp0dqjIxqRQ2VoSzjiDCBt.jpg"
+      },
+      {
+        "name": "Lili Taylor",
+        "character": "Jamie Wilson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/if8rbaj1TXlzg0Oq4g0bpU3b5rh.jpg"
+      },
+      {
+        "name": "Jerry Levine",
+        "character": "Steve Boyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xbaUQojYKZGlD7kejb4sQXGrRq0.jpg"
+      },
+      {
+        "name": "Frank Whaley",
+        "character": "Timmy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fYcqfn6nQy8qO40DMBdDzWQuloq.jpg"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "Charlie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+      },
+      {
+        "name": "Josh Evans",
+        "character": "Tommy Kovic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/paLoaxkqFYdsmuUEI9UlmO5JYWh.jpg"
+      },
+      {
+        "name": "Bob Gunton",
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rr2KDCKK4t0f5YhZibCpLCAsJxc.jpg"
+      },
+      {
+        "name": "Cordelia González",
+        "character": "Maria Elena",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aYHaWKZv40VIBX0v2bGfzOusftv.jpg"
+      },
+      {
+        "name": "Tony Frank",
+        "character": "Mr. Wilson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3w5fCWDKy06f5sT7IW21ipm7UY6.jpg"
+      },
+      {
+        "name": "Jayne Haynes",
+        "character": "Mrs. Wilson",
+        "profile_path": ""
+      },
+      {
+        "name": "Anne Bobby",
+        "character": "Suzanne Kovic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8PdeV4EoTgt3LajTWC7ikVgNZa7.jpg"
+      },
+      {
+        "name": "Richard Panebianco",
+        "character": "Joey Walsh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sOCYpKFInoPuVny1qge08vCvGKD.jpg"
+      },
+      {
+        "name": "Tom Sizemore",
+        "character": "Vet - Villa Dulce",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cXikL7I0e2geGVvcM2RT8gQq3Nb.jpg"
+      },
+      {
+        "name": "Michael Wincott",
+        "character": "Vet - Villa Dulce",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z6FtWACKaIivi0khxM6vEHoUH0.jpg"
+      },
+      {
+        "name": "Mike Starr",
+        "character": "Man #1 - Arthur's Bar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hJGhV91dSUiFJ8GwGDTEEri79LX.jpg"
+      },
+      {
+        "name": "Ed Lauter",
+        "character": "Legion Commander",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5q1CNG6M4cKIrFjFmy7typjEPqt.jpg"
+      },
+      {
+        "name": "Daniel Baldwin",
+        "character": "Vet #1 - Democratic Convention",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8dp3G3EvnQrp3awh4gc1nNsI60j.jpg"
+      },
+      {
+        "name": "Brian Tarantina",
+        "character": "Vet #2 - Miami Convention",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1EysTrCLtGQ0rQBg6EqZkOWoamR.jpg"
+      },
+      {
+        "name": "Dale Dye",
+        "character": "Infantry Colonel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bkMcK2hvB1wRJT1YFgNTl7ivlF2.jpg"
+      },
+      {
+        "name": "Norma Moore",
+        "character": "Massapequa Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gmtrJsEsEpRTbFlBccteckqtqFB.jpg"
+      },
+      {
+        "name": "Stacey Moseley",
+        "character": "Young Donna's Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/awX1jJOdCPgS0KiEDu6E242zMFD.jpg"
+      },
+      {
+        "name": "Oliver Stone",
+        "character": "News Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uHdNGBkrI74eYfUP2Uie7nuo0Nn.jpg"
+      },
+      {
+        "name": "Sean Stone",
+        "character": "Young Jimmy Kovic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rGfjHtomnP15MLSNEsA2T601qK3.jpg"
+      },
+      {
+        "name": "Jenna von Oy",
+        "character": "Young Suzanne Kovic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/KSRnePpBORnGzB8V1SYGSjiAZq.jpg"
+      },
+      {
+        "name": "Ellen Pasternack",
+        "character": "Neighbor",
+        "profile_path": ""
+      },
+      {
+        "name": "Joy Zapata",
+        "character": "Neighbor",
+        "profile_path": ""
+      },
+      {
+        "name": "John Getz",
+        "character": "Marine Major - Vietnam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/NL52y1nH5SZMlJKfKpPBnofoJk.jpg"
+      },
+      {
+        "name": "David Warshofsky",
+        "character": "Lieutenant - Vietnam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pLABX1wyaVE4CcEZVmoM2Y5XbQU.jpg"
+      },
+      {
+        "name": "Jason Gedrick",
+        "character": "Martinez - Vietnam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/45Dea89CukCmdk88F7RQMgpAeYC.jpg"
+      },
+      {
+        "name": "Bill Allen",
+        "character": "Platoon - Vietnam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uLMRXLS5kDMr9W1LzJBp5lOnSJD.jpg"
+      },
+      {
+        "name": "William Baldwin",
+        "character": "Platoon - Vietnam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mFCUAl6Rko6ocONhFDCpztcmKXd.jpg"
+      },
+      {
+        "name": "Claude Brooks",
+        "character": "Platoon - Vietnam",
+        "profile_path": ""
+      },
+      {
+        "name": "James Le Gros",
+        "character": "Platoon - Vietnam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rI6wK1WHBTYF9dYC04kUO0kr8oX.jpg"
+      },
+      {
+        "name": "William Mapother",
+        "character": "Platoon - Vietnam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k4TqA37bSoMz1VTyw9wPh3ptGch.jpg"
+      },
+      {
+        "name": "Byron Minns",
+        "character": "Platoon - Vietnam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9El2mo2CDgtAjF64TmEWTqY2pNS.jpg"
+      },
+      {
+        "name": "Markus Flanagan",
+        "character": "Doctor - Vietnam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1k7M13J6dNZtRH6d3gkaD3ZlylX.jpg"
+      },
+      {
+        "name": "R. D. Call",
+        "character": "Chaplain - Vietnam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c1lpGYJgYwXLkmEFeRAJWNDuo5H.jpg"
+      },
+      {
+        "name": "Corkey Ford",
+        "character": "Marvin - VA Hospital",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aQao8QExnMNMLz1BQbgZ00NwWvw.jpg"
+      },
+      {
+        "name": "Rocky Carroll",
+        "character": "Willie - VA Hospital",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pqjqmRChGqhDXXY7Etka3bmOatN.jpg"
+      },
+      {
+        "name": "Chris Pedersen",
+        "character": "Aide #3 - VA Hospital",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qf1P6TXDEqEA2eHsoGrcHa8Spkr.jpg"
+      },
+      {
+        "name": "David Herman",
+        "character": "Patient - VA Hospital",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rMY168K2qAk5eBg368WK3y2yOEI.jpg"
+      },
+      {
+        "name": "Bruce MacVittie",
+        "character": "Patient - VA Hospital",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fSNyxCflKmXRCzQhCy7kESpW82M.jpg"
+      },
+      {
+        "name": "Damien Leake",
+        "character": "Patient - VA Hospital",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7E0kD9z3lSXnAxNIC4ijnsAUsgf.jpg"
+      },
+      {
+        "name": "David Neidorf",
+        "character": "Patient - VA Hospital",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Sanchez",
+        "character": "Patient - VA Hospital",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kMeHRtJGgS1RrThOecSy4wcy3uV.jpg"
+      },
+      {
+        "name": "Billie Neal",
+        "character": "Nurse Washington - VA Hospital",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eW25pC0uolpwK2AKddnXLbSHast.jpg"
+      },
+      {
+        "name": "Richard Poe",
+        "character": "Frankie - VA Hospital",
+        "profile_path": "https://image.tmdb.org/t/p/w185/btsHYAHNQHFcngfXy7ofJzmzzRC.jpg"
+      },
+      {
+        "name": "Jake Weber",
+        "character": "Donna's Boyfriend - Syracuse, NY",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z1RTh4qvyMFha8nKd5Uw1dKwkZz.jpg"
+      },
+      {
+        "name": "Reg E. Cathey",
+        "character": "Speaker - Syracuse, NY",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cgyJJQUdbK4S7ihkL9hgIIwutk3.jpg"
+      },
+      {
+        "name": "Edie Brickell",
+        "character": "Folk Singer - Syracuse, NY",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rCFuFlIntD6l2S2lf0PaFpakPZF.jpg"
+      },
+      {
+        "name": "Joseph P. Reidy",
+        "character": "Student Organizer - Syracuse, NY",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bJ8UYZeu9kKVj2MIP1sfPt0kGWZ.jpg"
+      },
+      {
+        "name": "Beau Starr",
+        "character": "Man #2 - Arthur's Bar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yFNI54Z6lZGZ7jqeDvZ9UhyLEfB.jpg"
+      },
+      {
+        "name": "Rick Masters",
+        "character": "Man #3 - Arthur's Bar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i6CifiHS185YEPapu8bWoQCwLbZ.jpg"
+      },
+      {
+        "name": "John Del Regno",
+        "character": "Friend #1 - Arthur's Bar",
+        "profile_path": ""
+      },
+      {
+        "name": "Melinda Renna",
+        "character": "Barmaid - Arthur's Bar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9hPaSbTX4A98F3dUDU7xkBOa428.jpg"
+      },
+      {
+        "name": "Andrew Lauer",
+        "character": "Vet - Villa Dulce",
+        "profile_path": "https://image.tmdb.org/t/p/w185/frf7HFm6yVUsITZdUrEUptYXBCD.jpg"
+      },
+      {
+        "name": "Ivan Kane",
+        "character": "Vet - Villa Dulce",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ps90jjqtgWo00c1MYOfelhlBwGV.jpg"
+      },
+      {
+        "name": "J.R. Nutt",
+        "character": "Young Tommy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5XJP8S4IcQ3vZ1f1l612x5ZafJx.jpg"
+      },
+      {
+        "name": "Begonya Plaza",
+        "character": "Charlie's Hooker - Villa Dulce",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lt7xH5ttmaJsZnc15FoSJnXTpnE.jpg"
+      },
+      {
+        "name": "Edith Diaz",
+        "character": "Madame - Villa Dulce",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8ZPoNnXBIir5Etjdwr8oWkuDn6b.jpg"
+      },
+      {
+        "name": "Anthony Pena",
+        "character": "Bartender - Villa Dulce",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A529jrdL2xMZT0EceLUUaUPwnD0.jpg"
+      },
+      {
+        "name": "Peter Crombie",
+        "character": "Undercover Vet - Miami Convention",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pMvhE1wwQo3eTSp4vwq8Hb22CwN.jpg"
+      },
+      {
+        "name": "Ken Osborne",
+        "character": "Paraplegic #2 - Miami Convention",
+        "profile_path": ""
+      },
+      {
+        "name": "Alan Toy",
+        "character": "Paraplegic #3 - Miami Convention",
+        "profile_path": "https://image.tmdb.org/t/p/w185/okj4wDau7kfMmDViuPs58BxkiN2.jpg"
+      },
+      {
+        "name": "Chuck Pfeiffer",
+        "character": "Secret Service Agent - Miami Convention",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Mj0D03nFlR5a87Rg18ppiTUmzQ.jpg"
+      },
+      {
+        "name": "William Wallace",
+        "character": "Agent #2 - Miami Convention",
+        "profile_path": ""
+      },
+      {
+        "name": "Eagle-Eye Cherry",
+        "character": "Vet #1 - Miami Convention",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wpsK4wcijxI5yvrgmES2XoIOKEv.jpg"
+      },
+      {
+        "name": "Frank Cavestani",
+        "character": "Vet #3 - Miami Convention",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4IaXU3ZKDKOuXqDTTYSAhsbefrv.jpg"
+      },
+      {
+        "name": "John William Galt",
+        "character": "Fat Republican - Miami Convention",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2OGqivopEc0vcGnBjDXGA7viGb9.jpg"
+      },
+      {
+        "name": "Jack McGee",
+        "character": "Democratic Delegate - Democratic Convention",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xzBLwEdWxxZbZ3qbGrddldXvnSS.jpg"
+      },
+      {
+        "name": "Jodi Long",
+        "character": "Reporter #1 - Democratic Conventon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rLsdDkJMQRGiLfYgfwqQcNW4ZGc.jpg"
+      },
+      {
+        "name": "Michelle Hurst",
+        "character": "Reporter #2 - Democratic Conventon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fVsvGxQntmrDyVNMSdbkk7lxxh2.jpg"
+      },
+      {
+        "name": "John C. McGinley",
+        "character": "Official #1 - Democratic Convention, Pushing Wheelchair",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zNzNzVucekTjoPFZtGD1DZven93.jpg"
+      },
+      {
+        "name": "Wayne Knight",
+        "character": "Official #2 - Democratic Convention",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xlGqbZjn48xAUa7eqTybZP360w0.jpg"
+      },
+      {
+        "name": "Elizabeth Hoffman",
+        "character": "Passerby #1 - Democratic Convention",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4uZVGlRBSVfQ50AF0pmL6IoiYzd.jpg"
+      },
+      {
+        "name": "Lucinda Jenney",
+        "character": "Passerby #2 - Democratic Convention",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ahR0bNUJRi9Phpd7RZWx4ILiMEb.jpg"
+      },
+      {
+        "name": "Annie McEnroe",
+        "character": "Passerby #4 - Democratic Convention",
+        "profile_path": "https://image.tmdb.org/t/p/w185/elB4sLQupC4880XZWDzR33ndkJH.jpg"
+      },
+      {
+        "name": "Réal Andrews",
+        "character": "Vet #2 - Democratic Convention",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mdUSuBL7wJycwpGtQXoZ2akOByk.jpg"
+      },
+      {
+        "name": "Theresa Bell",
+        "character": "Democratic Conventioner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/77jyA3FtqJdLSHNhA5eQKyLlVUg.jpg"
+      },
+      {
+        "name": "Dean Denton",
+        "character": "Marine Recruiter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/swuu2jPLx417Qy71SMWxks2CgJC.jpg"
+      },
+      {
+        "name": "Ron Kovic",
+        "character": "Parade Veteran (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Delia Sheppard",
+        "character": "Protesting War Widow (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/11kMXk6uaHNs1qyeKIQTmy7PgIb.jpg"
+      },
+      {
+        "name": "Nick Nicholson",
+        "character": "Soldier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Henry Strzalkowski",
+        "character": "(uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Ly1hRl39nrVzFLrHWbWrjgn8Jt.jpg"
+      },
+      {
+        "name": "Norman D. Wilson",
+        "character": "Veteran (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gHQ3ROReJWHijUtLNhF1q8TkEa4.jpg"
+      },
+      {
+        "name": "Frank Girardeau",
+        "character": "Agent #1 - Miami Convention",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ycgh674qIhhXJMcA5qWSDxN6vl.jpg"
+      },
+      {
+        "name": "Donald Wilson",
+        "character": "Corpsman - Vietnam",
+        "profile_path": ""
+      },
+      {
+        "name": "Craig T. Nelson",
+        "character": "Marine Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rMh8qdexFKmc7mq7oLzsLLvCCjs.jpg"
+      },
+      {
+        "name": "Jessica Prunell",
+        "character": "Young Donna",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Guess",
+        "character": "Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Ben Wright",
+        "character": "Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Gale Mayron",
+        "character": "Friend #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Bryan Larkin",
+        "character": "young Ron",
+        "profile_path": ""
+      },
+      {
+        "name": "Seth Allen",
+        "character": "Young Tommy",
+        "profile_path": ""
+      },
+      {
+        "name": "Erika Geminder",
+        "character": "Young Patty",
+        "profile_path": ""
+      },
+      {
+        "name": "Samantha Larkin",
+        "character": "Patty Kovic",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Oliver Stone",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uHdNGBkrI74eYfUP2Uie7nuo0Nn.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "vietnam war",
+    "vietnam veteran",
+    "post-traumatic stress disorder (ptsd)",
+    "1970s",
+    "wheelchair",
+    "biography",
+    "based on true story",
+    "based on memoir or autobiography",
+    "desert",
+    "fourth of july",
+    "anti war",
+    "drunkenness",
+    "1950s",
+    "1960s"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "The biography of Ron Kovic. Paralyzed in the Vietnam war, he becomes an anti-war and pro-human rights political activist after feeling betrayed by the country for which he fought.",
+    "Based on the true story of Ron Kovic (Cruise, in an Oscar-nominated performance), an idealistic young American proudly enlists during the Vietnam War and returns home a paraplegic. Struggling to overcome drug-addiction and depression, he turns his life around and becomes an outspoken critic of the war."
+  ],
+  "synopsis": "The film opens when Ron Kovic is a young boy living in Massapequa, Long Island, New York. He grows up in a patriotic and Catholic household, instilling within him a strong sense of pride in his country and his religion. As a teenager, and a top member of his high school's wrestling team, he proves himself physically fit and athletic, as well as an academically exceptional student. When local Marine recruiting NCOs visit his school and give Ron and his fellow seniors an impassioned lecture about the Corps, Ron decides to enlist. He misses his prom, because he is unable to get a date with his love interest, Donna. He confronts her at the prom and has a dance with her on his last night before leaving.The story then jumps to Kovic's second Vietnam tour in October 1967. Now a Marine sergeant and on patrol, his unit massacres a number of Vietnamese villagers, believing them to be enemy combatants. After they encounter enemy fire, they escape the village and abandon its sole survivor, a crying baby. During the retreat, Kovic becomes disoriented and accidentally shoots one of the new arrivals to his platoon, a younger Marine private first class, Wilson, who ends up in the line of fire between sides. Despite the frantic efforts of the Navy Corpsman present who try to save him, Wilson dies from his wounds. Overwhelmed by guilt, Kovic appeals to his executive officer (XO), who harshly tells him to forget the incident. The meeting has a negative effect on Ron, who is crushed at being brushed off by his executive officer.The platoon goes out on another hazardous patrol on January 20, 1968. During a firefight, Kovic is critically wounded, shot first through the ankle and then through the chest, smashing his spine. He lays trapped in a field facing certain death, until a fellow Marine rescues him. Paralyzed from the mid-chest down, he spends several months recovering at the Bronx Veterans Administration hospital. The living conditions in the hospital are deplorable; rats crawl freely on the floors, the staff is generally apathetic to their patients' needs, female nurses sell sexual favors to some of the patients, doctors visit the patients infrequently, drug use is rampant, and equipment is too old and ill-maintained to be useful. He desperately tries to walk again with the use of crutches and braces, despite repeated warnings from his doctors. However, he soon suffers a bad fall that causes a compound fracture of his femur. The injury nearly robs him of his leg and puts Ron in traction for several months, and he vehemently argues with the staff and the doctors who consider resorting to amputation.Ron returns home, permanently in a wheelchair, with his leg intact. At home, he begins to alienate his family and friends, complaining about hippies, students and other young adults staging anti-war rallies across the country and burning the American flag. Though he tries to maintain his dignity as a Marine, Ron gradually begins to become disillusioned, feeling that his government has forgotten and even betrayed him and his fellow Vietnam veterans. In Ron's absence, his younger brother Tommy has already become staunchly anti-war, leading to a rift between them. His highly religious mother also seems unable to deal with Ron's new attitude as a resentful, paralyzed veteran. His problems are as much psychological as they are physical, and he quickly becomes alcoholic and belligerent. During an Independence Day parade, he shows signs of post-traumatic stress when firecrackers explode and when a baby in the crowd starts crying, it reminds him of the village he and his unit massacred, and he is unable to finish his speech. He reunites with his old high school friend, Timmy Burns, who is also a wounded veteran, and the two spend Ron's birthday sharing war stories.Ron goes to visit Donna at her college in Syracuse, New York. The two reminisce and she asks him to attend a vigil for the victims of the Kent State shootings. However, he cannot do so, because his chair prevents him from getting very far on campus because of curbs and stairways. He and Donna are separated after she and her fellow students are arrested by the police at her college for demonstrating against the Vietnam War.Ron's disillusionment grows severe enough that he has an intense fight with his mother after returning home drunk one night after having a barroom confrontation with a World War II veteran that fought on Iwo Jima who expressed no sympathy to Ron, who himself had been acting obnoxiously in the bar. After venting his rage at his mother's embarrassment over having a disabled son, he has an emotional conversation with his father and he later leaves home, traveling to a small town in Mexico (\"The Village of the Sun\") that seems to be a haven for paralyzed Vietnam veterans. He has his first sexual experience with a prostitute he believes he's in love with. Ron wants to ask her to marry him but when he sees her with another customer, the realization of real love versus a mere physical sexual experience sets in, and he decides against it. Hooking up with another wheelchair-bound veteran, Charlie, who is furious over a prostitute mocking his lack of sexual function due to his severe wounding in Vietnam, the two travel to what they believe will be a friendlier village. After annoying their taxicab driver, they end up stranded on the side of the road. They quarrel and fight, spilling each other out of their wheelchairs. Eventually, they are picked up by a man with a truck and driven back to the \"Village of the Sun\".On his way back to Long Island, Ron travels to Armstrong, Texas where he discovers the tombstone of Wilson, the Marine he believes that he killed during his tour. He then makes a side trek to Georgia to visit the parents and family of the deceased Marine. He tells them the real story about how their son died and confesses his guilt to them. Wilson's widow, now the mother of the deceased Marine's toddler son, admits that she cannot find it in her heart to forgive Ron for killing her husband, but God just might. However, Mr. and Mrs. Wilson are more forgiving and even more sympathetic to his predicament and suffering, because Wilson's father fought in the Pacific Theater during World War II and is even disillusioned with the Vietnam War. In spite of the mixed reactions he receives, the confession seems to lift a heavy weight from Ron's conscience.Ron joins Vietnam Veterans Against the War (VVAW) and travels to the 1972 Republican National Convention in Miami. He and his compatriots force their way into the convention hall during Richard Nixon's acceptance speech and cause a commotion that gets brief coverage on the national news. Ron himself tells a reporter about his negative experiences in Vietnam and the horrific VA hospital conditions. His interview is cut short when guards eject him and his fellow veterans from the hall and attempt to turn them over to the police. They manage to break free from the police, regroup, and charge the hall again, though not so successfully this time. The film ends with Kovic speaking at the 1976 Democratic National Convention, shortly after the publication of his autobiography. He tells the reporters who interview him that he feels he's home and that they all have come home.",
+  "imdb_score": 7.2
+}

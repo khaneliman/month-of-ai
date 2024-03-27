@@ -1,0 +1,470 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/tJMvfYI2m6npeKRU9rAlLNTLlIj.jpg",
+  "id": 256591,
+  "title": "Focus",
+  "poster_path": "https://image.tmdb.org/t/p/w500/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg",
+  "release_date": "2015-02-25",
+  "vote_average": 6.879,
+  "vote_count": 7491,
+  "popularity": 33.401,
+  "overview": "Nicky, an accomplished con artist, gets romantically involved with his disciple Jess but later ends their relationship. Years later, she returns as a femme fatale to spoil his plans.",
+  "imdb_id": "tt2381941",
+  "budget": 50100000,
+  "homepage": "http://focusmovie.com/",
+  "revenue": 153962963,
+  "runtime": 105,
+  "tagline": "Never Drop The Con.",
+  "genres": [
+    "Romance",
+    "Comedy",
+    "Crime"
+  ],
+  "production_companies": [
+    "K & S Films",
+    "RatPac Entertainment",
+    "Zaftig Films",
+    "Warner Bros. Pictures",
+    "Di Novi Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Will Smith",
+        "character": "Nicky Spurgeon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1QqaRZ8neYlqLx7ODZC4as47wUV.jpg"
+      },
+      {
+        "name": "Margot Robbie",
+        "character": "Jess Barrett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
+      },
+      {
+        "name": "Rodrigo Santoro",
+        "character": "Garriga",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg"
+      },
+      {
+        "name": "Gerald McRaney",
+        "character": "Owens",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wT7WK9T3ZS3tQTbzPzH9RR1m6NR.jpg"
+      },
+      {
+        "name": "Adrian Martinez",
+        "character": "Farhad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/id70SLEpj9jelZZepJlapaXH8lR.jpg"
+      },
+      {
+        "name": "Robert Taylor",
+        "character": "McEwen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wjeEGFarZNyvrqLL4W52eXnAnXe.jpg"
+      },
+      {
+        "name": "BD Wong",
+        "character": "Liyuan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg"
+      },
+      {
+        "name": "Brennan Brown",
+        "character": "Horst",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ulP8XOTkF1EOfZGiyLXMrpkIZzo.jpg"
+      },
+      {
+        "name": "Dominic Fumusa",
+        "character": "Jared",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cggOfZTrfQTRfmLJURaPQfk6jdS.jpg"
+      },
+      {
+        "name": "Dotan Bonen",
+        "character": "Gordon",
+        "profile_path": ""
+      },
+      {
+        "name": "Griff Furst",
+        "character": "Gareth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kC7MQMSMockWSHpIkAFJp4LwPI8.jpg"
+      },
+      {
+        "name": "Stephanie Honoré",
+        "character": "Janice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zndiOCjMjUCvv6toku9ntzkIM3A.jpg"
+      },
+      {
+        "name": "David Stanford",
+        "character": "Drunken Stranger",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Kim",
+        "character": "Liyuan's Bodyguard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kXhoh3mm3JxcffeBwV3vHqfaRoq.jpg"
+      },
+      {
+        "name": "Don Yesso",
+        "character": "Card Player / Football Coach",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m93AeciV1iGX5siORbhB94njyRn.jpg"
+      },
+      {
+        "name": "Juan Minujín",
+        "character": "Marcello",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mOtugfw1ahXJPCDg3kSLifCDyHd.jpg"
+      },
+      {
+        "name": "Jano Seitun",
+        "character": "Bartender",
+        "profile_path": ""
+      },
+      {
+        "name": "Melania Lenoir",
+        "character": "Pretty Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ql45UBKjVUzXWZOXtOoDOeXPvJ7.jpg"
+      },
+      {
+        "name": "Pietro Gian",
+        "character": "Massive Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mXLkbdbMmcA6yxsqT6H2h9MDfom.jpg"
+      },
+      {
+        "name": "Justina Bustos",
+        "character": "Blonde Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kOta1XWPDVaMQNK4zrLuwZP91Dp.jpg"
+      },
+      {
+        "name": "Paula Brasca",
+        "character": "Saleswoman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e6YRVXpqeMvpT2yFUnEOlWj4srv.jpg"
+      },
+      {
+        "name": "Antonella Macchi",
+        "character": "Apollonia",
+        "profile_path": ""
+      },
+      {
+        "name": "Aaron Jay Rome",
+        "character": "Bartender",
+        "profile_path": ""
+      },
+      {
+        "name": "Armando Leduc",
+        "character": "Bald Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ebaRBXmbrMfFXLJzvazE5tVv3ZJ.jpg"
+      },
+      {
+        "name": "Jon Eyez",
+        "character": "Bruiser",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7leDymYmNbojybUZWFBhB6Y8zJF.jpg"
+      },
+      {
+        "name": "Clay Chamberlin",
+        "character": "Mark #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3W9gJbWWDP4aQgTR5U6EuW970hM.jpg"
+      },
+      {
+        "name": "Danny Ladmirault",
+        "character": "Mark #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Chip Carriere",
+        "character": "Lead Official",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3OZ3fGF2iWwnhk1jM9gulUcQekk.jpg"
+      },
+      {
+        "name": "Daniella Short",
+        "character": "Naked Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank J. Monteleone",
+        "character": "Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b1gdL60URRNK0R49fTmCNUkdvoT.jpg"
+      },
+      {
+        "name": "Alan Sabbagh",
+        "character": "Team Argentina Head Engineer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vFkIq7KoXs3Wi4PrYBvqZrRSLND.jpg"
+      },
+      {
+        "name": "Hervé Segata",
+        "character": "France Team Engineer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aEcebmtufFKaeAqnQ8gAIKDVTUv.jpg"
+      },
+      {
+        "name": "Jorge Takashima",
+        "character": "Team Korea Engineer",
+        "profile_path": ""
+      },
+      {
+        "name": "Pierre Marquille",
+        "character": "HRT Team Owner",
+        "profile_path": ""
+      },
+      {
+        "name": "Nas Mehdi",
+        "character": "Head of Team India",
+        "profile_path": ""
+      },
+      {
+        "name": "Federico Bongiorno",
+        "character": "Head of Team Russia",
+        "profile_path": ""
+      },
+      {
+        "name": "Kate Adair",
+        "character": "Tourist Thief",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vfiNI5MZxGLd3SKMLgt94OWqyIb.jpg"
+      },
+      {
+        "name": "Billy Slaughter",
+        "character": "Passing Thief",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wyKVHwnFodOmNsTgDTcL1GlJzqa.jpg"
+      },
+      {
+        "name": "Lindsay Clift",
+        "character": "Another Thief",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kgvnBZYsUVTxJPigTGcR8QoyXK3.jpg"
+      },
+      {
+        "name": "Thomas Francis Murphy",
+        "character": "Hustler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e7xbhH1ha1g98EPAx5lAilYwxAu.jpg"
+      },
+      {
+        "name": "Nicoye Banks",
+        "character": "Card Shark",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8apVE7FQVVJ9orCsTJbeIf5vH5F.jpg"
+      },
+      {
+        "name": "Ruy Gatti",
+        "character": "French Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/275rqmVQZ5F5FjOV4qfIXKL0sRP.jpg"
+      },
+      {
+        "name": "Cacilie Hughes",
+        "character": "Jenny",
+        "profile_path": ""
+      },
+      {
+        "name": "Alvin Chon",
+        "character": "Liyuan's Bodyguard #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/no3YHFIk9uYgO6eCTneftmqHCPa.jpg"
+      },
+      {
+        "name": "Brett Baker",
+        "character": "Another Thief",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oJMEmsp9yV70KhdDjOohyNmAEUF.jpg"
+      },
+      {
+        "name": "Taylor Persh",
+        "character": "Sous Chef",
+        "profile_path": ""
+      },
+      {
+        "name": "Mariano Bertolini",
+        "character": "Waiter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ktNLAHMFkY6LOG8pNhbXIJRFCzE.jpg"
+      },
+      {
+        "name": "Scott M. Jefferson",
+        "character": "Add'l McEwen Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z03UesO2MAJX3z3o9e56WZyXLlJ.jpg"
+      },
+      {
+        "name": "Billy Louviere",
+        "character": "Rowdy Guy #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Thomason",
+        "character": "Rowdy Guy #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Antonella Saldicco",
+        "character": "Party Guest #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z9iJiCEXe22WdSIidRCfIAKhOMZ.jpg"
+      },
+      {
+        "name": "Joaquín Berthold",
+        "character": "Party Guest #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tsoT8KjkLtDlvdJaVdl0NPAR4bc.jpg"
+      },
+      {
+        "name": "Marina Artigas",
+        "character": "Party Guest #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5PdUwXFILAudVZRe9pSyVpRmKC.jpg"
+      },
+      {
+        "name": "Dario Dukah",
+        "character": "Party Guest #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/71bU5yvxuVXlJr0YnipCujYgYMT.jpg"
+      },
+      {
+        "name": "Martin Covert",
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1aG46YTpob1UVlFA1izF4jm6HKs.jpg"
+      },
+      {
+        "name": "Apollo Robbins",
+        "character": "Apollo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4QpCQdfwikzQcsk8IJCmwEejjC5.jpg"
+      },
+      {
+        "name": "Michael Dardant",
+        "character": "Card Mechanic #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Moran",
+        "character": "Card Mechanic #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric McMullen",
+        "character": "Doc",
+        "profile_path": ""
+      },
+      {
+        "name": "Han Soto",
+        "character": "Head of Team Japan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xurbZkff3yOPmKpEpKrb2pdemYf.jpg"
+      },
+      {
+        "name": "Yeshi Tenzin",
+        "character": "Head of Team Japan #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Laney Chouest",
+        "character": "Head of Team",
+        "profile_path": ""
+      },
+      {
+        "name": "Darrell Foster",
+        "character": "Head of Team Italy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w7uws68GndS8KEP63qcbD0miEMu.jpg"
+      },
+      {
+        "name": "Hilary Tuttle",
+        "character": "Waitress Thieff",
+        "profile_path": ""
+      },
+      {
+        "name": "Guillermo Miguel",
+        "character": "Team Argentina",
+        "profile_path": ""
+      },
+      {
+        "name": "Nina Leon",
+        "character": "BA Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yli7NQuCNijCtMsP8V8cOVwY8gQ.jpg"
+      },
+      {
+        "name": "Nick Reasons",
+        "character": "Sideline Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Dieker",
+        "character": "Coin Toss Rhino",
+        "profile_path": ""
+      },
+      {
+        "name": "Stevie Baggs Jr.",
+        "character": "Coin Toss Thresher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/50PKQFk8oVyHOUZnJ4iatBdpFIv.jpg"
+      },
+      {
+        "name": "Thomas Holley",
+        "character": "Announcer #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Walter Prestenberg, Jr.",
+        "character": "Announcer #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicholas Harris",
+        "character": "Interview Thresher",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick O'Hara",
+        "character": "Team Owner",
+        "profile_path": ""
+      },
+      {
+        "name": "David Haines",
+        "character": "Nicky's Crew Tommy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fNHcii6bXXtLhSRuMrGnWWo0SYd.jpg"
+      },
+      {
+        "name": "Steve Hammond",
+        "character": "Cafe Host Mark",
+        "profile_path": ""
+      },
+      {
+        "name": "Derrick Townsend",
+        "character": "Frat Guy #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Juan Gaspard",
+        "character": "Fan in Stands (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Chrest",
+        "character": "Jeweler (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7mcsJGnqRoVPTtxAUZEKt2dZnlw.jpg"
+      },
+      {
+        "name": "Ricardo Vargas",
+        "character": "Security (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8STVG3GsKfPH4bfU23LMGmZsuKR.jpg"
+      },
+      {
+        "name": "Sheena Sakai",
+        "character": "Skybox Model (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Glenn Ficarra",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/23EaR6q7B1wcg9trxtr7xHzKu7q.jpg"
+      },
+      {
+        "name": "John Requa",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/us2MW8nuMI0NuH6BCFoN6Gdoahn.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "seduction",
+    "con man",
+    "illusion",
+    "deception",
+    "rivalry",
+    "femme fatale",
+    "con artist",
+    "illusionist"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "In the midst of veteran con man Nicky's latest scheme, a woman from his past - now an accomplished femme fatale - shows up and throws his plans for a loop.",
+    "Nicky Spurgeon is an extremely accomplished con man who takes an amateur con artist, Jess, under his wing. Nicky and Jess become romantically involved, and with Nicky's profession of being a liar and a cheater for a living, he realizes that deception and love are things that don't go together. They split, only to see each other three years later... And things get messy.",
+    "Nicky is an accomplished con man. When a young grafter, Jess tries to take him, he sees right through her. He takes her under his wing and things between them get personal. When they pull a big score, Nicky decides to let her go because he thinks getting involved with her is not good. Three years later, Nicky's working for a guy to give a competitor some false info. But before he begins, he discovers Jess is with the guy and it ticks him off. He tries to apologize but she doesn't want to accept.—rcs0411@yahoo.com",
+    "Nicky is a con artist whose role is deceiving people for a living but when he meets a young aspiring con artist named Jesse and takes her under his wing he discovers he let her in on so many levels and decides to let her go. When they meet again 3 years later he does everything he can to win her back.—alisondifor",
+    "Nicky has studied the science of human nature his whole life, and understands precisely how to earn anyone's trust, or fool them into never noticing he's stealing their watch, or wallet, or anything they might have that Nicky can sell. In the movie's opening sequence, he's eating at a New York restaurant when the gorgeous Jess approaches his table and asks him to pretend to be her boyfriend so that she can avoid a particularly determined guy at the bar who won't stop hitting on her. The two of them hit it off, but he quickly figures out that she's running a scam on him and soon turns the tables on her and her partner. Undaunted, Jess begs Nicky to teach her what he knows about the criminal life, and he brings her in on a plan to steal from as many people as possible during Super Bowl week in New Orleans. She turns out to be a natural, and quickly learns the ropes of this unscrupulous world. Nicky and Jess seem to be falling for each other, but Nicky's actions at the end of their New Orleans trip force Jess to reassess their relationship. Three years later, Nicky enters into a deal with Garriga (Rodrigo Santoro), a wealthy playboy who has a software program that will help his Formula 1 team triumph. Nicky agrees to help Garriga sell a fake version of the program to his competitors, but as the plan goes into motion he discovers Jess and Garriga are a couple. As old feelings complicate the new arrangement, Nicky must also contend with the no-nonsense Owens (Gerald McRaney), Garriga's head-of-security who openly distrusts Nicky.."
+  ],
+  "synopsis": "Con man Nicky Spurgeon (Will Smith) goes to a bar in New York City. There, he sees a beautiful young blonde woman (Margot Robbie) with another man, who seems to be pestering her. She escapes from him - he later falls asleep, drunk - and goes to Nicky's table. Her name is Jess. They go upstairs to her hotel room and start to make out. A man then bursts into the room with a gun, threatening to shoot Nicky. Jess says he's her husband. Nicky then quips that he's got cancer, and the man says he doesn't want to shoot a guy with cancer. Jess figures that Nicky is on to them. Nicky says how they should have handled it if they really wanted to rob him before he leaves.Jess finds Nicky a few nights later and begs him to teach her his ways after she's done her research on him. Nicky mentions a story to her about two partners involved in a con gone wrong where one partner had to shoot the other to make it seem like they weren't working together. They happened to be Nicky's father and grandfather, and the former shot the latter in something called the \"Toledo Panic Button\". Nicky agrees to teach her and says the act of conning people is a game of focus. He shows her how her works his hands so that she can't tell when he's swiped something off her person.Nicky takes his business to New Orleans with his friend Horst (Brennan Brown), and their own team of con artists. It's Super Bowl week, so the city is packed full of people. Jess joins them down there for a practice round of conning. They take her through the crowded streets where they swipe watches, wallets, and other trinkets off unsuspecting people. They also take Jess through a hotel casino for another round. After she proves her worth, she is allowed on the team. On a sidenote, we see Nicky may have a gambling problem as he loses money at a horse track.Jess meets Nicky's friend and associate Farhad (Adrian Martinez). He is involved in more complicated schemes, as he is seen removing a fake ATM that is used to nab private information. Jess takes a liking to Farhad despite his often crass behavior.Over time, Nicky and Jess develop a mutual attraction. After sex, Jess asks Nicky why some people refer to him as \"Mellow\". He says his father used to call him that because he told him he was soft like a marshmallow. Nicky believes that there's no room for heart in this game because it can get you killed.The night before the big game, with all their conning complete, Nicky addresses the team and congratulates them on a record week, $1.2 million worth. He sends everybody home with his usual promise to send them their cut. Horst gives Nicky the bag of cash, and makes Nicky promise he won't gamble with it. Nicky promises as Jess looks on.Nicky and Jess go to the football game. They make small bets with each other such as if one fan will catch a hot dog, and if another is too drunk to get up for the wave. They see a woman in short shorts and bet how many men will look at her ass as she walks by. Jess bets 8 while Nicky bets 3. A curious man named Mr. Liuyan (B.D. Wong) joins the game and bets 5. Seven men check out the woman as she walks by, making Jess the closest. Liuyan makes more bets with Nicky over the game, practically begging him to play when Nicky tries to back out. Nicky plays and loses $1,000. The bets escalate as the two men double the bets, even as Jess tells Nicky they should just leave. After losing $100,000, it looks like Nicky has finally had enough and is about to walk away. Mr. Liuyan goads him back in, and Nicky bets all the remaining cash ($1.1 million) on a simple high card draw. Liuyan pulls the card with a higher number, winning all their money. Nicky and Jess are heartbroken. Nicky chooses not to walk away and decides to double the bet again. He tells Liuyan to pick any player on the field, and he will guess which one, seemingly impossible odds. Mr. Liuyan thinks he is crazy and doesn't bet on crazy, so he refuses. Nicky sweetens it when he says Jess will pick the player that Liuyan spotted, much to Jess's terror. Liuyan can't turn down free money, so he picks a player. As Jess nervously looks through the binoculars, Liuyan gives them a chance to back out. Jess looks to Nicky, seemingly begging him to take this chance to back out, but Nicky tells her to pick. Jess again nervously scans the players. All of a sudden, she spots Farhad wearing a jersey with 55 on it. She grins and picks him, and to everyone's surprise, that's the correct answer.On the taxi ride home, Nicky, now with a LOT of money on him, explains to Jess that this was set up from the beginning of the day. He knew that Liyuan is a notorious gambler, so he had it set up so that Liuyan would see the number 55 throughout the day, thereby subconsciously getting him to pick that number when the moment was right. Nicky then has the taxi pull over while another car pulls up behind them. He tells the cabbie to take Jess to the airport. He leaves her with her share of money and departs without another word, leaving Jess confused and heartbroken.Three years later.In Buenos Aires, Argentina, Nicky is working with a billionaire race car owner named Rafael Garriga (Rodrigo Santoro) and his associate, Owens (Gerald McRaney). They are in possession of a revolutionary new fuel burn algorithm, which will give them an edge in the upcoming season. But Garriga is nervous this won't be enough, so their plan is for Nicky to pose as a disgruntled former employee of Garriga, and sell a fake version to another team owner McEwen (Robert Taylor), who is Garriga's biggest competition. This will make the competition slower, while Garriga gets faster.Nicky goes to a party at Garriga's mansion where he sees Jess for the first time since he left her, descending the staircase in a stunning red dress. She kisses Garriga, to Nicky's disdain. He approaches Jess afterward, where she assures him that she's doing just fine on her own. Nicky plays his part of disgruntled employee, and is later approached by McEwen.Nicky spends a lot of his time trying to get closer to Jess, even though she's done with him. This eventually leads to them going back to Nicky's hotel room and having sex. The next morning, Owens goes to Nicky's room while Jess stays out of sight. Owens complains about his feelings toward the younger generation and his lack of progress in the job.Nicky eventually sells off Garriga's REAL algorithm not only to McEwen, but to every other race team as well for the same price, amounting to about 27 million Euros. He also convinces Jess to run away with him. Before they can escape, one of Garriga's men rams his car into theirs, and the two of them are abducted and taken to one of Garriga's warehouses with duct tape on their mouths. He takes the tape off Nicky's mouth but leaves it on Jess and plugs her nose until Nicky tells him how he managed to hack Garriga's system and get his hands on the real algorithm. First Nicky tells him Jess wasn't a part of it so he can let her go. Garriga plugs her nose again, so Nicky finally admits that he used Jess (again), and planted a bug on her so that when she returned to Garriga's hotel room, the bug picked up his computer password. He laughs, knowing it's a lie, and takes the tape off her mouth. She admits to Nicky that Garriga isn't her boyfriend - she just wanted his watch, which is worth two hundred grand. She's never slept with Garriga, or even been to his room, despite his numerous attempts. Nicky finally resigns to telling the truth, and right as he's about to start, he gets shot in the chest by Owens, which horrifies Garriga and causes him to leave. Nicky appears to bleed out as Jess cries and tells him she loves him. It looks like Nicky dies until Owens says he shot Nicky in the right spot to avoid any major arteries, although he did puncture his lung. Owens gets the blood out of Nicky's lung, reviving him. Owens then calls Nicky \"Mellow\", making Jess realize that Owens is Nicky's father, Bucky Spurgeon, that he was in on the con the whole time, and that they've just performed the \"Toledo Panic Button.\"Owens drives Nicky and Jess to the closest hospital. He reminds Nicky of what he said regarding putting your heart in the con game, and adds that he's taking all the money. Jess helps walk Nicky to the front of the hospital. Nicky smirks when he notices that Jess is wearing Garriga's watch on her wrist.",
+  "imdb_score": 6.6
+}

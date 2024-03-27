@@ -1,0 +1,602 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/8hSjOHRY4OUEpqxszYbMdem8z9C.jpg",
+  "id": 116745,
+  "title": "The Secret Life of Walter Mitty",
+  "poster_path": "https://image.tmdb.org/t/p/w500/tY6ypjKOOtujhxiSwTmvA4OZ5IE.jpg",
+  "release_date": "2013-12-18",
+  "vote_average": 7.179,
+  "vote_count": 7242,
+  "popularity": 42.207,
+  "overview": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
+  "imdb_id": "tt0359950",
+  "budget": 90000000,
+  "homepage": "https://www.20thcenturystudios.com/movies/the-secret-life-of-walter-mitty",
+  "revenue": 188133322,
+  "runtime": 114,
+  "tagline": "Stop dreaming. Start living.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "20th Century Fox",
+    "TSG Entertainment",
+    "Samuel Goldwyn Films",
+    "Red Hour",
+    "New Line Cinema",
+    "Big Screen Productions",
+    "Down Productions",
+    "Ingenious Media"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Ben Stiller",
+        "character": "Walter Mitty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gHLp8bqc4ZBHqp5uheYH8sPHEBB.jpg"
+      },
+      {
+        "name": "Kristen Wiig",
+        "character": "Cheryl Melhoff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/43lFW3Ed6tNaVMsr9cwg0eP9n5n.jpg"
+      },
+      {
+        "name": "Sean Penn",
+        "character": "Sean O'Connell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+      },
+      {
+        "name": "Shirley MacLaine",
+        "character": "Edna Mitty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mpW9c34IAFPW0ODuKR8J0FAqN5i.jpg"
+      },
+      {
+        "name": "Adam Scott",
+        "character": "Ted Hendricks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+      },
+      {
+        "name": "Kathryn Hahn",
+        "character": "Odessa Mitty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg"
+      },
+      {
+        "name": "Patton Oswalt",
+        "character": "Todd Maher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
+      },
+      {
+        "name": "Adrian Martinez",
+        "character": "Hernando",
+        "profile_path": "https://image.tmdb.org/t/p/w185/id70SLEpj9jelZZepJlapaXH8lR.jpg"
+      },
+      {
+        "name": "Ólafur Darri Ólafsson",
+        "character": "Helicopter Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5ZlxkgsiKh9d4fWzR23sDf8d3HO.jpg"
+      },
+      {
+        "name": "Gunnar Helgason",
+        "character": "Hotel Keeper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2ASfRYevtuHB6k0QB6bRFSEc2fM.jpg"
+      },
+      {
+        "name": "Terence Bernie Hines",
+        "character": "Gary Mannheim",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Anfanger",
+        "character": "Ted's Toner Box Associate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qkUM0vAGO2K91r1ewxn5Lqjkc8h.jpg"
+      },
+      {
+        "name": "Gary Wilmes",
+        "character": "Walter's Dad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vQ6ZhHSJX7XRWFHCFCqnwxSiL0a.jpg"
+      },
+      {
+        "name": "Jon Daly",
+        "character": "Tim Naughton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v8lq3HUmdQk1t50DAP1vt3LcJJM.jpg"
+      },
+      {
+        "name": "Gurdeep Singh",
+        "character": "Cab Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Qq7d88WPyab4zXG9qwlpy9L9iH.jpg"
+      },
+      {
+        "name": "Paul Fitzgerald",
+        "character": "Don Proctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/diV6IIt8wtO08Fnw79JAchmIx96.jpg"
+      },
+      {
+        "name": "Grace Rex",
+        "character": "Cheryl's Co-Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g6BiwPLVnSdlpAin52eLHHcMQ37.jpg"
+      },
+      {
+        "name": "Amanda Naughton",
+        "character": "Female Editor",
+        "profile_path": ""
+      },
+      {
+        "name": "Nolan Carley",
+        "character": "Western Union Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Joey Slotnick",
+        "character": "Retirement Home Administrator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AbQMBdomzhuqKC27LVWkurWfIms.jpg"
+      },
+      {
+        "name": "Marcus Antturi",
+        "character": "Rich Melhoff",
+        "profile_path": ""
+      },
+      {
+        "name": "Amy Stiller",
+        "character": "Rich's Friend's Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hBOWh6dNPr1Mc5UdKJD2fq0eQx4.jpg"
+      },
+      {
+        "name": "Rosamund Gundmundsdottir",
+        "character": "Ticket Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Stuart Cornfeld",
+        "character": "Greeland Air Passenger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2KURT7bZ1RPIuzgfBcpd4NMLmYn.jpg"
+      },
+      {
+        "name": "Maariu Olsen",
+        "character": "Rental Car Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Makka Kleist",
+        "character": "Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o5d2qdUxDQgLjkqNMBx8fB328lk.jpg"
+      },
+      {
+        "name": "Þórhallur Sigurðsson",
+        "character": "Trawler Captain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dDCwBRJBzsoGd0pNWUqg29WRPYF.jpg"
+      },
+      {
+        "name": "Ari Matthíasson",
+        "character": "Trawler 1st Mate",
+        "profile_path": ""
+      },
+      {
+        "name": "Hendrikus Schraven",
+        "character": "Trawler 2nd Mate",
+        "profile_path": ""
+      },
+      {
+        "name": "Finni Johannsson",
+        "character": "Trawler 3rd Mate",
+        "profile_path": ""
+      },
+      {
+        "name": "Eysteinn Gardarsson",
+        "character": "Zodiac Shark Resucer",
+        "profile_path": ""
+      },
+      {
+        "name": "José Alcántara",
+        "character": "Chilean Sailor",
+        "profile_path": ""
+      },
+      {
+        "name": "Rodrigo Espinosa",
+        "character": "Chilean Sailor",
+        "profile_path": ""
+      },
+      {
+        "name": "Seba Alón",
+        "character": "Chilean Sailor",
+        "profile_path": ""
+      },
+      {
+        "name": "Miguel Baez-Olavarria",
+        "character": "Chilean Sailor",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Orellana",
+        "character": "Chilean Sailor",
+        "profile_path": ""
+      },
+      {
+        "name": "Antonio Molina",
+        "character": "Chilean Sailor",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Lagos",
+        "character": "Chilean Sailor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q3wcDOL3hSnGyq6QCRiZzsWLlUv.jpg"
+      },
+      {
+        "name": "Andres Quezada",
+        "character": "Chilean Sailor",
+        "profile_path": ""
+      },
+      {
+        "name": "Valur Snaer Hilmarsson",
+        "character": "Skateboard Kid #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Eythor Atli Hilmarsson",
+        "character": "Skateboard Kid #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Birgir Jarl Runarsson",
+        "character": "Skateboard Kid #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Kai Lennox",
+        "character": "Phil Melhoff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bpwqiHG7FXsUmHyyFlQopQSpJIg.jpg"
+      },
+      {
+        "name": "Conan O'Brien",
+        "character": "Conan O'Brien",
+        "profile_path": "https://image.tmdb.org/t/p/w185/deRbViPut0t80miscBpP2DhBJU5.jpg"
+      },
+      {
+        "name": "Andy Richter",
+        "character": "Andy Richter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qazhLkyKOsPmdOQSaUWWbbUjs9q.jpg"
+      },
+      {
+        "name": "Anthony Desio",
+        "character": "Mover",
+        "profile_path": ""
+      },
+      {
+        "name": "Losang Thonden",
+        "character": "Older Rajqawee",
+        "profile_path": ""
+      },
+      {
+        "name": "Rinjee Sherpa",
+        "character": "Younger Rajqawee",
+        "profile_path": ""
+      },
+      {
+        "name": "Haroon Nawabi",
+        "character": "Afghan Warlord",
+        "profile_path": ""
+      },
+      {
+        "name": "Stefan B. Onundarson",
+        "character": "Afghan",
+        "profile_path": ""
+      },
+      {
+        "name": "Mohammed Arif Baser",
+        "character": "Afghan",
+        "profile_path": ""
+      },
+      {
+        "name": "Mohammed Pancherri",
+        "character": "Afghan",
+        "profile_path": ""
+      },
+      {
+        "name": "Ehsan Nawroz",
+        "character": "Afghan",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Assil",
+        "character": "Afghan",
+        "profile_path": ""
+      },
+      {
+        "name": "Ang Babu Sherpa",
+        "character": "Soccer Playing Sherpa",
+        "profile_path": ""
+      },
+      {
+        "name": "Ang Gelu Sherpa",
+        "character": "Soccer Playing Sherpa",
+        "profile_path": ""
+      },
+      {
+        "name": "Dawa Sherpa",
+        "character": "Soccer Playing Sherpa",
+        "profile_path": ""
+      },
+      {
+        "name": "Ngima T. Sherpa",
+        "character": "Soccer Playing Sherpa",
+        "profile_path": ""
+      },
+      {
+        "name": "Nuri Chhiri Sherpa",
+        "character": "Soccer Playing Sherpa",
+        "profile_path": ""
+      },
+      {
+        "name": "Lhakpa Sonam Sherpa",
+        "character": "Soccer Playing Sherpa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dGOkuoy5g1XD6CxRwHDNL0Wb47F.jpg"
+      },
+      {
+        "name": "Phurba Tashi Sherpa",
+        "character": "Soccer Playing Sherpa",
+        "profile_path": ""
+      },
+      {
+        "name": "Walter Mudu",
+        "character": "TSA Skeleton #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kwuv3ukrrW6u9zdc2w2ebEjwDk4.jpg"
+      },
+      {
+        "name": "Liz Mikel",
+        "character": "TSA Skeleton #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eyCyzqZRbh2DK70kmUYb9TLJUuE.jpg"
+      },
+      {
+        "name": "Brian Scott McFadden",
+        "character": "TSA Officer #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t8GnwGB0zTtv9RnChipYVJTcTAU.jpg"
+      },
+      {
+        "name": "Dion Graham",
+        "character": "TSA Officer #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/idd6RyemKZ0BKHSXKNlO2msT3dw.jpg"
+      },
+      {
+        "name": "Richard DeDomenico",
+        "character": "Piano Wholesaler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A8RjeVln7YrvkwAFgemN8vGNiZF.jpg"
+      },
+      {
+        "name": "Matt Levin",
+        "character": "Board Meeting Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tqlNtLMiIwFp59EpCnGeTCV4xiS.jpg"
+      },
+      {
+        "name": "Craig 'Radioman' Castaldo",
+        "character": "News Stand Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AiaqiUZSaORGmfEW5N6XlWjhlTn.jpg"
+      },
+      {
+        "name": "George Aloi",
+        "character": "Life Magazine Employee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uvFF5hg7BXC4OekAgbFtflKPz5u.jpg"
+      },
+      {
+        "name": "Paul Bosche",
+        "character": "Office Worker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jerome Brooks Jr.",
+        "character": "Business Man (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brady Bryson",
+        "character": "Boy in Park (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Greg Cipes",
+        "character": "Time Life Employee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vw9HrluWIc2HmQ3sCmpEyXB7xQP.jpg"
+      },
+      {
+        "name": "Marmee Regine Cosico",
+        "character": "NYC Pedestrian (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Yq3dtkhgVprZ7A4LlDxAhzIrGS.jpg"
+      },
+      {
+        "name": "Jay Ferraro",
+        "character": "Time Life Employee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gary Ferster",
+        "character": "Time Life Employee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Samantha Gelnaw",
+        "character": "Pedestrian (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rKMvnfnwpREuLlZ6Ow4NkIggDXC.jpg"
+      },
+      {
+        "name": "Efraiem Hanna",
+        "character": "Airline Ticket Agent (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rosemary Howard",
+        "character": "1940s Winter Pedestrian (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/DJj5tzb25LanRIeHoNtDccNm7b.jpg"
+      },
+      {
+        "name": "Ilan Krigsfeld",
+        "character": "Blue Collar Worker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Kruz",
+        "character": "Time Life Employee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6nnrOMzR5DgAoxdkNf7BG3pAJq8.jpg"
+      },
+      {
+        "name": "Anna Kuchma",
+        "character": "Business Pedestrian (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4mRioOnGTDLgRlfloaSlcpFMCco.jpg"
+      },
+      {
+        "name": "Dennis Lauricella",
+        "character": "NYPD Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Raymond Mamrak",
+        "character": "Office Worker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w7TvI089WKAEsFXpIM1Lu3xCrku.jpg"
+      },
+      {
+        "name": "Jennifer Leigh Mann",
+        "character": "Time Life Editor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qzpR1EFfgoeqxlq2UXyYWUi11D4.jpg"
+      },
+      {
+        "name": "Ryan McBride",
+        "character": "Movie Poster Boy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nEjQb80g0PPhXNfyiunCOCPV4MN.jpg"
+      },
+      {
+        "name": "Ryan Nicolls",
+        "character": "Pedestrian (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Hal Panchansky",
+        "character": "Time Life Employee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Roy Pollack",
+        "character": "Time-Life Employee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Wes Pope",
+        "character": "Time Life Employee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lil Rhee",
+        "character": "New Yorker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oE7zSXGilr16662VMkvmo6g3FB7.jpg"
+      },
+      {
+        "name": "Bennie Road",
+        "character": "Construction Worker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Shade Rupe",
+        "character": "Pedestrian (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/69dc66AU0CYKVS6OKJro704gZEE.jpg"
+      },
+      {
+        "name": "Stephen Sapienza",
+        "character": "Businessman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chloe Elaine Scharf",
+        "character": "Businessman's Daughter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joshua Schubart",
+        "character": "Mover (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tara Strong",
+        "character": "Airport Passenger (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Z86FfWbnUJnyFTcLa9MpVVFhMh.jpg"
+      },
+      {
+        "name": "Rob Tode",
+        "character": "Cheryl's Neighbor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marco Torriani",
+        "character": "Tourist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Barbara Vincent",
+        "character": "Businesswoman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Hynden Walch",
+        "character": "Time Life Employee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oFfZaFF1o724BuZ3cLK6tl9L03.jpg"
+      },
+      {
+        "name": "Kelsey Wang",
+        "character": "Time Life Employee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wAQZvevuCLuyzKvAHYCSJR9INSl.jpg"
+      },
+      {
+        "name": "Christopher Watts",
+        "character": "Time Life Building Pedestrian (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "William Henderson White",
+        "character": "Time Life Employee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicole Neuman",
+        "character": "Rachel  (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/thhFS2zc2rbOz3IHzCqeAXKjojR.jpg"
+      },
+      {
+        "name": "Dennis Rees",
+        "character": "International Traveler (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Ben Stiller",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gHLp8bqc4ZBHqp5uheYH8sPHEBB.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "himalaya mountain range",
+    "photographer",
+    "iceland",
+    "daydream",
+    "magazine",
+    "photograph",
+    "shark",
+    "fired from the job",
+    "dreamer",
+    "online dating",
+    "daydreaming"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "When both he and a colleague are about to lose their job, Walter takes action by embarking on an adventure more extraordinary than anything he ever imagined.",
+    "The manager of the negative-assets sector of Life magazine, Walter Mitty, has been working for 16 years for the magazine and has a tedious life, not going anywhere but to and from work. He is an escapist, daydreaming into a fantasy world many times a day. Walter has a crush on recently-hired Cheryl Melhoff but he is too shy to invite her out and he is trying to contact her via online dating. The magazine is preparing to release its last printed edition and the loathsome manager of transition Ted Hendricks is preparing an inevitable downsizing over the next few days. Walter has been the liaison between the magazine and the mysterious independent photographer Sean O'Connell, who has sent to him a package of negatives and a wallet as a gift for his work. Sean also suggests to the senior management the use of negative 25 for the cover of the last edition. However, Walter cannot find the missing negative. Walter has no means to contact Sean and finds a clue that he might be in Greenland. He decides to travel to Greenland to track Sean down in the beginning of an unbelievable adventure.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "In this comedic adaptation of James Thurber's short story, Ben Stiller stars as Walter, a milquetoast proofreader for a magazine-publishing firm. Walter is constitutionally incapable of standing up for himself, so he retreats into his fantasy world, where he is heroic, poised, self-assured, and the master of his fate..",
+    "All good things must come to an end, and, sadly--as the popular American magazine, Life, ceases publication to focus exclusively on the online market--suddenly, quiet daydreamer and the organisation's negative-asset manager, Walter Mitty, faces unemployment. To make matters worse, for the final print issue's cover image, the famed globe-trotting photographer, Sean O'Connell, entrusts Mitty with the epitome of his life's work captured in a single frame that is, however, nowhere to be found. As a result, the mousy and utterly unadventurous Walter must step out of his comfort zone to venture into the unknown at the edge of the world, trying to save what's left of his reputation; nevertheless, is he prepared to live up to the company's inspiring motto? Above all, life is a gift. What was captured inside Sean's quintessential but missing photograph?—Nick Riganas",
+    "Unhappy with the dull, lonely direction his life has taken, socially-awkward Walter Mitty (Ben Stiller) has a chance to change that when he's tasked with finding a missing photo that could save his company from being downsized. In a wild and unexpected turn of events, Walter's adventure takes him to all corners of the world as he attempts to track down the mysterious, elusive photographer who took the photo.—geometrydashbroham"
+  ],
+  "synopsis": "Walter Mitty is a negative assets manager at 'Life' magazine who daydreams of adventures to get away out of the tedium of his boring job. Mitty also has a crush on a co-worker named Cheryl, but never has the nerve to tell her his feelings towards her. Mitty works with photojournalist Sean O'Connell, whose images are highly regarded. O'Connell has sent Mitty his latest negatives and a wallet as a gift in appreciation of Mitty's work. O'Connell believes negative #25 captures the \"quintessence\" of Life and that it should be used for the cover of the magazine's final print issue as it converts to online status. The negative is missing, however, and Walter is forced to stall for time with corporate transition manager Ted Hendricks, who is handling the downsizing. While viewing the other negatives outside Life's offices, Cheryl approaches Mitty and suggests that he think of the negatives as clues to Sean's location. They look at three of them, including one of a person's thumb with a unique ring on it, and another of a curved piece of wood. A third picture of a boat leads Mitty to determine that O'Connell is in Greenland. Mitty promptly flies there to find him.After arriving in the Greenland capital city of Nuuk, Mitty meets with a local bartender who explains that O'Connell left on a ship. To find him, Mitty would need to go on the postal helicopter that delivers mail to the various towns and outposts along the coast, and the pilot is drunk. Mitty recognizes the pilot's thumb with the unique ring and realizes he is on the right track. He at first declines to fly with the intoxicated pilot, but imagines Cheryl singing \"Space Oddity\", gains a new confidence and boards the helicopter. Nearing the ship, Mitty learns the helicopter cannot land upon it. Misunderstanding the pilot, instead of jumping into a dinghy boat nearing to catch him, Mitty aims for the main vessel and misses and falls in the ocean. He splashes down into ice-cold, shark-infested waters, losing a box of ship-to-shore radio components before being brought aboard.Mitty learns that O'Connell departed the ship earlier. The crew offers him some clementine cake O'Connell left behind; Mitty discovers O'Connell's destinations in the wrapping paper. The itinerary directs Mitty to Iceland, where O'Connell is photographing the volcano Eyjafjallajökull, and he arrives at the local village of Skógar near the volcano using a longboard, and notices O'Connell on the plane flying near the volcano. An eruption forces Mitty to flee, and as there is nothing left for him to do, he obeys a text message recalling him to New York.For failing to recover the negative, his first failure in a long career with the magazine, Mitty is fired by Hendricks. He learns that Cheryl, who was let go earlier, seems to have reconciled with her estranged husband. Mitty returns home discouraged and visits his mother, throwing away the wallet he received from O'Connell. To his surprise, Mitty recognizes the curve of the piano in his mother's house while looking at the last photograph. When asked, Mitty's mom mentions having met O'Connell. She had told Mitty before but he was daydreaming and failed to hear her.Mitty discovers O'Connell is in the Himalayas, and finds him photographing a rare snow leopard. When asked about the negative, O'Connell explains that the message on the gift wrapping to \"look inside\" was literal; the negative was in the wallet. Unfortunately, Mitty had interpreted this message as a direction to look inside the tissue paper in the box containing the wallet, and it could also be interpreted as referring to the inscription stamped into the leather inside the wallet. When pressed to reveal the image on the negative, O'Connell dismisses the question and joins in a high-altitude football game with some locals. Mitty flies to Los Angeles but is detained by airport security during a misunderstanding (mainly stemming from his having traveled through Yemen to Afghanistan). Mitty calls the only person he knows in Los Angeles: Todd Maher, a representative at eHarmony who has kept in contact during Mitty's adventures.While helping his mother sell her piano, Mitty recounts his story but mentions he does not have the wallet anymore. His mother says she always keeps his knickknacks and gives him the wallet that she retrieved from the trash. Finding inside the wallet a small manila envelope the size of a single-frame 35mm negative, an emboldened Mitty delivers it to Life magazine, tells management that it was the photograph O'Connell wanted for the final issue, and berates Hendricks for disrespecting the staff that made the magazine so honored before walking away from the office, humiliating him in front of his recently hired staff.Mitty reunites with Cheryl, emboldens himself enough to tell her outright that he has been thinking about and inspired by her, and learns that Cheryl's ex-husband was only at her house to repair the refrigerator. Mitty tells Cheryl of his adventures and admits that he still does not know what negative #25 shows. Mitty and Cheryl see the final issue of Life at a newsstand, with its cover dedicated to the staff. It is accompanied by the photograph from negative #25, showing Mitty sitting outside of the Life building, examining a contact sheet. Mitty and Cheryl continue their walk down the street holding hands.",
+  "imdb_score": 7.3
+}

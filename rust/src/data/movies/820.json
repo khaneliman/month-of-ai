@@ -1,0 +1,530 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+  "id": 820,
+  "title": "JFK",
+  "poster_path": "https://image.tmdb.org/t/p/w500/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+  "release_date": "1991-12-20",
+  "vote_average": 7.595,
+  "vote_count": 1942,
+  "popularity": 30.593,
+  "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+  "imdb_id": "tt0102138",
+  "budget": 40000000,
+  "homepage": "",
+  "revenue": 205405498,
+  "runtime": 189,
+  "tagline": "The story that won't go away.",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "History"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "Regency Enterprises",
+    "Alcor Films",
+    "Ixtlan Productions",
+    "Le Studio Canal+"
+  ],
+  "production_countries": [
+    "FR",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Kevin Costner",
+        "character": "Jim Garrison",
+        "profile_path": "https://image.tmdb.org/t/p/w185/608blZipRDZkDpzp8VItB64qMaT.jpg"
+      },
+      {
+        "name": "Tommy Lee Jones",
+        "character": "Clay Shaw / Clay Bertrand",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+      },
+      {
+        "name": "Gary Oldman",
+        "character": "Lee Harvey Oswald",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+      },
+      {
+        "name": "Kevin Bacon",
+        "character": "Willie O'Keefe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
+      },
+      {
+        "name": "Michael Rooker",
+        "character": "Bill Broussard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dq3xFKDWJsQjPffm1bmB3TbMilq.jpg"
+      },
+      {
+        "name": "Jack Lemmon",
+        "character": "Jack Martin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7jWVWLr1VJqQrN3d4YJaATCIHRw.jpg"
+      },
+      {
+        "name": "Laurie Metcalf",
+        "character": "Susie Cox",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ypAppMZ1Q99cBjtX4BAnZmWjVXe.jpg"
+      },
+      {
+        "name": "Sissy Spacek",
+        "character": "Liz Garrison",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xAxenjxjLNQFq4v1ccS2to3Mnoq.jpg"
+      },
+      {
+        "name": "Joe Pesci",
+        "character": "David Ferrie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4AO0Rwdg2ky8Usmgzgj0dvhy7Zw.jpg"
+      },
+      {
+        "name": "John Candy",
+        "character": "Dean Andrews",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xOoA2gFdnl0qe9esbG0FJvCY0Fh.jpg"
+      },
+      {
+        "name": "Pruitt Taylor Vince",
+        "character": "Lee Bowers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jqC1v8tF92QcmkQycnaLSuJiQfl.jpg"
+      },
+      {
+        "name": "Jay O. Sanders",
+        "character": "Lou Ivon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z8btmLryEZlLkBah2XhZFydmty4.jpg"
+      },
+      {
+        "name": "Walter Matthau",
+        "character": "Senator Long",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pm1YEQPlsNcHQHZJBgcXvu4U4vg.jpg"
+      },
+      {
+        "name": "Sally Kirkland",
+        "character": "Rose Cheramie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jRvy3DqIYyXJpNnfyQetqCqRKCg.jpg"
+      },
+      {
+        "name": "Donald Sutherland",
+        "character": "X",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aFzWwROIsrkP7KH85zFNzhaIVzw.jpg"
+      },
+      {
+        "name": "Ed Asner",
+        "character": "Guy Bannister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uj5TQBVb1jdPrvSEdwjzT6DRmqi.jpg"
+      },
+      {
+        "name": "Brian Doyle-Murray",
+        "character": "Jack Ruby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1sDChfTscA1mone1uSJVPtbFn4l.jpg"
+      },
+      {
+        "name": "Ray LePere",
+        "character": "Abraham Zapruder",
+        "profile_path": ""
+      },
+      {
+        "name": "Vincent D'Onofrio",
+        "character": "Bill Newman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg"
+      },
+      {
+        "name": "Tom Howard",
+        "character": "Lyndon B. Johnson",
+        "profile_path": ""
+      },
+      {
+        "name": "Lolita Davidovich",
+        "character": "Beverly Oliver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vQlk518qlef94XXJqtrkIqS3izo.jpg"
+      },
+      {
+        "name": "Jim Garrison",
+        "character": "Earl Warren",
+        "profile_path": ""
+      },
+      {
+        "name": "Wayne Knight",
+        "character": "Numa Bertel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xlGqbZjn48xAUa7eqTybZP360w0.jpg"
+      },
+      {
+        "name": "Gary Grubbs",
+        "character": "Al Oser",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uXJG4skJTElTQ5BJ9pkJjzfKIDv.jpg"
+      },
+      {
+        "name": "Beata Pozniak",
+        "character": "Marina Oswald",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nQjhHQYYSfuCAtzrkqbpxIPLDBb.jpg"
+      },
+      {
+        "name": "Tony Plana",
+        "character": "Carlos Bringuier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vLt0vQfH07SWmAe5WuSwQB1do9e.jpg"
+      },
+      {
+        "name": "John William Galt",
+        "character": "L.B.J. (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2OGqivopEc0vcGnBjDXGA7viGb9.jpg"
+      },
+      {
+        "name": "Ron Jackson",
+        "character": "FBI Spokesman",
+        "profile_path": ""
+      },
+      {
+        "name": "Sean Stone",
+        "character": "Jasper Garrison",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rGfjHtomnP15MLSNEsA2T601qK3.jpg"
+      },
+      {
+        "name": "John S. Davies",
+        "character": "Hobo #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/octFcOhkHvFmBUOgucW9ChmeCMS.jpg"
+      },
+      {
+        "name": "Tomas Milian",
+        "character": "Leopoldo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ajNHZQgV7fnUefTCtYbI553dd2r.jpg"
+      },
+      {
+        "name": "Raul Aranas",
+        "character": "Angelo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7sYuV2wZNyqjPZoYsBK1OH96l63.jpg"
+      },
+      {
+        "name": "Gail Cronauer",
+        "character": "Janet Williams",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wTLEWlXbkd17gImST3kApddu973.jpg"
+      },
+      {
+        "name": "Gary Carter",
+        "character": "Bill Williams",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ilKR7fDdwztYUKJZXycJPA8EZ4a.jpg"
+      },
+      {
+        "name": "James N. Harrell",
+        "character": "Sam Holland",
+        "profile_path": ""
+      },
+      {
+        "name": "Ellen McElduff",
+        "character": "Jean Hill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/svjRKa7gWBkM3FQ4Qsc6YyS0iBx.jpg"
+      },
+      {
+        "name": "Jo Anderson",
+        "character": "Julia Ann Mercer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/85zgpHsw71U8pqFPlCmpwpHjmd1.jpg"
+      },
+      {
+        "name": "Marco Perella",
+        "character": "Mercer Interrogator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q7vwCX7FBJ05Dl6SvA7MFbt7ULo.jpg"
+      },
+      {
+        "name": "Edwin Neal",
+        "character": "Mercer Interrogator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ltosUj8qUhPS82mhDxP9avpHjCC.jpg"
+      },
+      {
+        "name": "Darryl Cox",
+        "character": "FBI Agent #2 with Hill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2LdiOyoUXl5aEIBHdIsTexPmhLJ.jpg"
+      },
+      {
+        "name": "T.J. Kennedy",
+        "character": "Hill Interrogator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tjK3V2I5Lz5IBpNjN84dREtMvju.jpg"
+      },
+      {
+        "name": "J.J. Johnston",
+        "character": "Mobster with Broussard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5CoCxaxf2EGUOgNem0hKU8sn8X3.jpg"
+      },
+      {
+        "name": "R. Bruce Elliott",
+        "character": "Bolton Ford Dealer",
+        "profile_path": ""
+      },
+      {
+        "name": "William Larsen",
+        "character": "Will Fritz",
+        "profile_path": ""
+      },
+      {
+        "name": "Wayne Tippit",
+        "character": "FBI Agent - Frank",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5IbcdxJvLqd8XQHnksES6o4LLUq.jpg"
+      },
+      {
+        "name": "Dale Dye",
+        "character": "General Y",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bkMcK2hvB1wRJT1YFgNTl7ivlF2.jpg"
+      },
+      {
+        "name": "Jerry Douglas",
+        "character": "Board Room Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1FeIeXm3GylarVWlWf0ArcOMFx6.jpg"
+      },
+      {
+        "name": "Ryan MacDonald",
+        "character": "Board Room Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Duane Grey",
+        "character": "Board Room Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gGIBpyXDnniHnRUpnw5taMtKr0g.jpg"
+      },
+      {
+        "name": "George R. Robertson",
+        "character": "White House Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/by72qET7xsXONeJpuFkPCi4RBbg.jpg"
+      },
+      {
+        "name": "Baxter Harris",
+        "character": "White House Man",
+        "profile_path": ""
+      },
+      {
+        "name": "John Seitz",
+        "character": "General Lemnitzer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5mY1YFezwwQAdfbnS8UUCO8lo4F.jpg"
+      },
+      {
+        "name": "Alex Rodine",
+        "character": "White House Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7BTvEnfbEfJYSvZ97E79H8tgAAx.jpg"
+      },
+      {
+        "name": "Sam Stoneburner",
+        "character": "White House Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob Gunton",
+        "character": "TV Newsman #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rr2KDCKK4t0f5YhZibCpLCAsJxc.jpg"
+      },
+      {
+        "name": "John Finnegan",
+        "character": "Judge Haggerty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xYhWWV2LkzgwsoXdR6ASdb2dfZT.jpg"
+      },
+      {
+        "name": "Walter Breaux",
+        "character": "Vernon Bundy",
+        "profile_path": ""
+      },
+      {
+        "name": "Melodee Bowman",
+        "character": "FBI Receptionist",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Maloney",
+        "character": "Colonel Finck",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AuWdzHWJA6Jx9mdxxjJs6VcIs7m.jpg"
+      },
+      {
+        "name": "Richard Rutowski",
+        "character": "Fence Shooter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/acojGQeEAcDpvKHgJOiEA67xCzN.jpg"
+      },
+      {
+        "name": "Bill Bolender",
+        "character": "Prisoner Powell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x300IuivwmdtuEY1V52cAoprlBV.jpg"
+      },
+      {
+        "name": "Price Carson",
+        "character": "Tippet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7t5eGPZrRTs1wmRCvpThzhVuz4.jpg"
+      },
+      {
+        "name": "Gil Glasgow",
+        "character": "Tippet Shooter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fEaLdsNue0zMV4PEiWDim6RtcuG.jpg"
+      },
+      {
+        "name": "Bob Orwig",
+        "character": "Officer Poe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/liBVBj77ueAq9vpVhTvjEmFhKR.jpg"
+      },
+      {
+        "name": "Hugh Feagin",
+        "character": "Dr. Rose (credited in Director's Cut)",
+        "profile_path": ""
+      },
+      {
+        "name": "George Kelly",
+        "character": "Jerry Johnson's Sidekick (credited in Director's Cut)",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Kempster",
+        "character": "Samuel (credited in Director's Cut)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Larroquette",
+        "character": "Jerry Johnson (credited in Director's Cut)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rWXMelYm34YIBOzJJaQrBI50NEp.jpg"
+      },
+      {
+        "name": "Maria Mason",
+        "character": "Garrison's Secretary (credited in Director's Cut)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wmjolOLzSr3zbUYrkv8BXGW9wE8.jpg"
+      },
+      {
+        "name": "Ron Rifkin",
+        "character": "Mr. Goldberg / Spiesel (credited in Director's Cut)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fj2u4t6nG0HGYFtRVDUTNbUtEtl.jpg"
+      },
+      {
+        "name": "Frank Whaley",
+        "character": "Oswald Imposter (credited in Director's Cut)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fYcqfn6nQy8qO40DMBdDzWQuloq.jpg"
+      },
+      {
+        "name": "Kevin Beard",
+        "character": "(uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeffrey Bornstein",
+        "character": "Hitman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marie Del Marco",
+        "character": "Secretary in Window (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wdYLLe5SHi0dWJXK7Pmy1SiuNNS.jpg"
+      },
+      {
+        "name": "Alan Donnes",
+        "character": "Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Orlando Gallegos",
+        "character": "Plaza Witness (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bt9CXiUtIjTn4AnRskOcA8XgWgR.jpg"
+      },
+      {
+        "name": "Robert J. Groden",
+        "character": "Courtroom Projectionist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chuck Kelley",
+        "character": "Dallas County Sherriff (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2wLVgyovQ7JxeZi0UMShvYAssGn.jpg"
+      },
+      {
+        "name": "Codie Scott",
+        "character": "Man in Court (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Sheen",
+        "character": "Narrator (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5W4OuI6evOYyPc3pUnKAEnpLtX3.jpg"
+      },
+      {
+        "name": "John F. Kennedy",
+        "character": "Self (archive footage)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/59L7ESQn3PCui8bVluY7H5Qu9Fv.jpg"
+      },
+      {
+        "name": "Anthony Ramirez",
+        "character": "Epileptic",
+        "profile_path": ""
+      },
+      {
+        "name": "Stanley White",
+        "character": "B Team Shooter",
+        "profile_path": ""
+      },
+      {
+        "name": "Fidel Castro",
+        "character": "Self (archive footage)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dX5ZWCkwCzA9YfNALghFNPlRefp.jpg"
+      },
+      {
+        "name": "Jacqueline Kennedy",
+        "character": "Self (archive footage)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Raykdz9PN1D69gn1lvKyzA8UQT.jpg"
+      },
+      {
+        "name": "John Connally",
+        "character": "Self (archive footage)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/adXOOZSOYaN1ZV8OSJ51lcj79Yu.jpg"
+      },
+      {
+        "name": "Richmond Hoxie",
+        "character": "TV Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jRP09wQxzLjSpVQ3F1FqswedRg9.jpg"
+      },
+      {
+        "name": "Allison Pratt Davis",
+        "character": "Elizabeth Garrison",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Krueger",
+        "character": "Snapper Garrison",
+        "profile_path": ""
+      },
+      {
+        "name": "Ngô Đình Diệm",
+        "character": "Self - Walking with Stick (archive footage)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bfCHpNER8uFgiTSWvsTidfjhsMa.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Oliver Stone",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uHdNGBkrI74eYfUP2Uie7nuo0Nn.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "vietnam war",
+    "cia",
+    "assassination",
+    "usa president",
+    "government",
+    "politics",
+    "homophobia",
+    "texas",
+    "new orleans, louisiana",
+    "investigation",
+    "john f. kennedy",
+    "historical figure",
+    "president",
+    "conspiracy",
+    "district attorney",
+    "death",
+    "john f. kennedy assassination",
+    "assassination of president",
+    "usa history",
+    "1960s",
+    "courtroom drama",
+    "legal thriller",
+    "jacqueline kennedy"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "New Orleans District Attorney Jim Garrison discovers there's more to the Kennedy assassination than the official story.",
+    "On November 22, 1963, president John F. Kennedy is assassinated in Dallas. Lee Harvey Oswald is arrested for the crime and subsequently shot by Jack Ruby, supposedly avenging the president's death. An investigation concludes that Lee Harvey Oswald and Jack Ruby acted alone in their respective crimes, but Louisiana district attorney Jim Garrison is skeptical. Assembling a trusted group of people, Garrison conducts his own investigation, bringing about backlash from powerful government and political figures.—Cole Matthews",
+    "Jim Garrison (Costner) - a New Orleans's District Attorney - can't believe the Warren Commission official conclusion on the death of President Kennedy is accurate. Determined to prove them wrong, Garrison stakes everything to find the truth, and as more and more proof comes to light of a possible conspiracy and cover-up, the more people take note.",
+    "Details the actions of New Orleans District Attorney Jim Garrison, who takes it upon himself to investigate the assassination of President John F. Kennedy in Dallas, Texas, in 1963. Garrison is extremely suspicious of the official story presented by the FBI, and what he already knows and what he subsequently learns lead him to suspect that there is more to the story than the public is being told.—Murray Chapman <muzzle@cs.uq.oz.au>",
+    "A mixture of fact and speculation surrounding the death of U.S. President John F. Kennedy on 22nd November, 1963. New Orleans District Attorney, Jim Garrison, re-opens the files on the investigation and takes a critical look at the facts given by the F.B.I. His persistent questioning and poking his nose where it shouldn't be causes his and his family's lives to be at risk. But he keeps on the trail and soon uncovers a lead which points to the war in Vietnam.—Graeme Roy <gsr@cbmamiga.demon.co.uk>"
+  ],
+  "synopsis": "The film opens with a narration (by an uncredited Martin Sheen) showing newsreel footage, including the farewell address in 1961 of outgoing President Dwight D. Eisenhower, warning about the build-up of the \"military-industrial complex\". This is followed by a summary of John F. Kennedy's years as president, emphasizing the events that, in Stone's thesis, would lead to his assassination. This builds to a reconstruction of the assassination on November 22, 1963. New Orleans District Attorney Jim Garrison (Kevin Costner) subsequently learns about potential links to the assassination in New Orleans.Garrison and his team investigate private pilot David Ferrie (Joe Pesci), but are forced to let him go after their investigation is publicly rebuked by the federal government. Kennedy's alleged assassin Lee Harvey Oswald (Gary Oldman) is killed by Jack Ruby (Brian Doyle-Murray) before he can go to trial two days after the assassination, and Garrison closes the investigation.Three years later, the investigation is reopened in late 1966 after Garrison reads the Warren Commission Report and notices what he believes are numerous inaccuracies and conflicts. Garrison and his staff interrogate several witnesses to the Kennedy assassination, and others who were involved with Oswald, Ruby, and Ferrie. Russell B. Long (Walter Matthau), a Democrat senator, privately tells Garrison about the FBI investigation into Oswald and evidence surfaced that it was technically impossible for Oswald to fire off three shots from a bolt-action rifle with the pinpoint accuracy that killed John F. Kennedy.Garrison and his associates question Jack Martin (Jack Lemmon) a former private investigator who worked with the late Guy Banister (Ed Asner) where Martin recalls Banister beating him with a pistol on that day three years earlier after discovering that Banister's office had been broken into and several files stolen from the office. Banister was a career member of the FBI before he became a private investigator and then died suddenly of a \"heart attack\" in 1964 one year after the Warren Commission released its report. Martin tells Garrison that Oswald had met with Banister a few times during his brief stay in New Orleans and that Oswald and Ferrie knew each other and were employed on some special project with Cuban anti-communist militants.Garrison meets with Dean Andrews, Jr. (John Candy), an eccentric lawyer who claims that an alleged phone call was made to him by one of his clients, named \"Clay Bertrand\" on the day after the Kennedy assassination in which Andrews was asked to represent Oswald in the assassination charges against him. Andrews tells Garrison that he may be in over his head with those who may have been involved.Another witness Garrison meets with is Willie O'Keefe (Kevin Bacon), a male prostitute currently serving five years in prison for solicitation,, who reveals he witnessed Ferrie discussing Kennedy's assassination with Oswald, and a group of Latin men. As well as briefly meeting Oswald, O'Keefe was romantically involved with a man he knew as \"Clay Bertrand\" also known as Clay Shaw (Tommy Lee Jones), a wealthy New Orleans businessman. Upon Garrison's informal questioning, Shaw denies any knowledge of meeting Ferrie, O'Keefe or Oswald, but he is soon charged with conspiring to murder the President.In Dallas, others come forward, including Jean Hill (Ellen McElduff). She tells the investigators that she witnessed shots fired from the grassy knoll and she heard four to six shots total, but Secret Service agents threatened her into saying only three shots came from the book depository; the implication is that changes that were made to her testimony by the Warren Commission.Garrison and a staff member, Lou Ivon (Jay O. Sanders), go to the sniper's location in the Texas School Book Depository and aim an empty rifle from the window through which Oswald was alleged to have shot Kennedy. Ivon dry-fires the rifle while Garrison times him. They conclude that Oswald was too poor a marksman to make the shots, and two of the shots were much too close together, indicating that one or two more additional assassins must have been involved.Another person comes forward named Rose Cheramie (Sally Kirkland), a Dallas prostitute who was allegedly beaten up by Jack Ruby's bodyguards. She tells Garrison that she was taken to a clinic on that day where she pleaded to the doctors that the Mafia was planning on killing President Kennedy.After discovering electronic surveillance microphones that had been planted in his offices, Garrison meets a high-level figure in Washington D.C. who identifies himself as \"X\" (Donald Sutherland). X suggests there was a conspiracy at the highest levels of government, implicating members of the CIA, the military-industrial complex, Cuban exiles, the Mafia, and Secret Service, FBI, and even Kennedy's vice-president, Lyndon B. Johnson, as either direct conspirators, co-conspirators, or, as having motives to cover up the truth after the assassination. X explains that Kennedy was assassinated because his foreign policy would have meant diminished profit for the military-industrial complex, and enraged high-ranking military officials who viewed such diplomacy as weakness. Kennedy ordered control of secret para-military operations to be removed from the CIA and handed over to Department of Defense Joint Chiefs of Staff. This would have diminished the agency's power. Further, the Mafia had helped Kennedy win the 1960 election as a favor to his father, Joseph P. Kennedy, Sr, who had done business with the Mafia dating back to the 1920s, and felt betrayed that he had let his brother, Robert F. Kennedy, continue his crusade against the Mob. Furthermore, the Mob wanted revenge for the April 1961 Bay of Pigs fiasco, which they had helped fund and support in order to get their Cuban casinos, their biggest moneymakers, back from the hands of the Castro government.In flashbacks, X reveals how his superior, General \"Y\", had X sent on a trip to Antarctica just before the assassination. One of X's duties was to supplement presidential security. He points out all the lapses in security during JFK's fatal trip to Dallas: the open windows along the route, the hairpin turn from Houston to Elm which slowed the limousine, and bystander activities which would not have been allowed. X suggests he was ordered out of the country in order to strip away the normal security measures he would have had in place during Kennedy's fateful trip to Dallas.On his way back from Antarctica, X touches down in New Zealand. He reads a local newspaper which mysteriously presents a full dossier on Oswald and his guilt in Kennedy's death. This was hours before Oswald would be charged with the crime and anyone investigating the case knew much about him. X views this as clear proof of a cover story of the type used by CIA black ops. In other words, CIA assets in the media were being used to persuade the public of Oswald's guilt.X further states that Kennedy was intent on pulling U.S. troops from South Vietnam by the end of 1965 as evidenced by National Security Order 263. This was countermanded immediately by Kennedy's successor, Lyndon Johnson, with National Security Order 273. Therein, concludes \"X\", lay the foundation of the Vietnam War. X encourages Garrison to keep digging and make further arrests.Two of Garrison's staff, one of whom is Assistant District Attorney Susie Cox (Laurie Metcalf), quit the investigation, doubting his motives and methods. Garrison's marriage is strained when his wife Liz (Sissy Spacek) complains that he is spending more time on the case than with his own family. After a sinister phone call is made to their daughter, Liz accuses Garrison of being selfish and attacking Shaw only because of his homosexuality. In addition, the media launches attacks on television and in newspapers attacking Garrison's character and criticizing the way his office is spending taxpayers' money. Some key witnesses become scared and refuse to testify while others, such as Ferrie, die under suspicious circumstances. Before his death, Ferrie tells Garrison and some of his staff, in a private meeting where Ferrie is plainly agitated and paranoid, that he believes people are after him, and reveals there was a conspiracy around Kennedy's death that involved co-conspirators that were involved in the CIA planned Operation Mongoose.In June 1968, fellow Assistant District Attorney Bill Broussard (Michael Rooker) meets Garrison at the New Orleans airport where Garrison is boarding for Phoenix, Arizona and tells him the Canadian mob will attempt to assassinate him and is about to get Garrison some serious protection when Garrison confronts Broussard about his orders not to pass rumors about someone going to be killed. Broussard tries in vain to get Garrison to listen, but Garrison refuses, dismissing it as \"paranoid garbage.\" He accuses Broussard of disobeying orders and decides to take him back to New Orleans as punishment. Broussard tries to apologize, but Garrison is too busy to accept it. After a few minutes, he has to flee from a public restroom when he hears strange noises in the adjacent stall and is approached by an unknown man who pretends to be a friend of his. Garrison flees after figuring out that he is about to be set up to be arrested by the airport police as part of a plot by the conspiracy to set him up as a homosexual.After Garrison returns to New Orleans, he and his staff discovered that Broussard has joined the FBI and disappeared from his apartment. They argue about the real reason why Shaw has been brought to trial. After Liz retires, he sees Robert Kennedy on TV and witnesses R.F. Kennedy's assassination. Garrison, who predicted it, and Liz, whose faith in her husband is renewed as a result, reconcile.The climax of the film is Clay Shaw's trial, a lengthy hearing from January-March 1969. Garrison presents the court with further evidence of multiple killers while attempting to debunk the \"single bullet theory\" proposed in the Warren Commission report. Garrison also presents the Zapruder film, a silent, color motion picture sequence shot by private citizen Abraham Zapruder with an 8mm home-movie camera as Kennedy's motorcade passed through Dealey Plaza on that day, thereby unexpectedly capturing the President's assassination. Garrison uses the film to propose a scenario involving three assassins who fired six total shots.Garrison's closing statement is an impassioned one where he floats the notion that information from the Warren Commission will not be released for many years and that his oldest son will be 75 at the time. He also invokes Kennedy's own famous inaugural speech and brings himself to tears over the nation's fallen hero. He then bids the jury to bring justice.After only one hour of deliberations, the jury acquits Shaw on all charges. The film reflects that the jury's members publicly stated that they really believed there was indeed a conspiracy behind the assassination of JFK, but there was not enough evidence to link Shaw to that conspiracy. The film ends with Garrison stating to reporters that he'll continue to find out what else may be there in the cover up. The final shot shows Garrison and Liz leaving the courthouse together.In the end credits, it is mentioned that Clay Shaw died of lung cancer in 1974, but in 1979 Richard Helms testified under oath that Clay Shaw had, in fact, been a part-time contract agent of the Domestic Contacts Division of the CIA. The Justice Department has done nothing to re-open the investigation of the Kennedy assassination.The end credits also state that secret records related to the assassination will be released to the public in 2029.",
+  "imdb_score": 8
+}

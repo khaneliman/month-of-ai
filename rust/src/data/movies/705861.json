@@ -1,0 +1,775 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/hGr0FrLI74vqpBWTBOPloDBwOAK.jpg",
+  "id": 705861,
+  "title": "Hustle",
+  "poster_path": "https://image.tmdb.org/t/p/w500/xWic7kPq13oRxYjbGLApXCnc7pz.jpg",
+  "release_date": "2022-06-03",
+  "vote_average": 7.777,
+  "vote_count": 2289,
+  "popularity": 40.191,
+  "overview": "After discovering a once-in-a-lifetime player with a rocky past abroad, a down on his luck basketball scout takes it upon himself to bring the phenom to the States without his team's approval. Against the odds, they have one final shot to prove they have what it takes to make it in the NBA.",
+  "imdb_id": "tt8009428",
+  "budget": 0,
+  "homepage": "https://www.netflix.com/title/80242342/",
+  "revenue": 0,
+  "runtime": 117,
+  "tagline": "Are you obsessed with this game?",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "production_companies": [
+    "SpringHill Entertainment",
+    "Roth-Kirschenbaum Films",
+    "Happy Madison Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Adam Sandler",
+        "character": "Stanley Sugerman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1xVMlB2Ufj8MtXzZkfQlPoadRMm.jpg"
+      },
+      {
+        "name": "Queen Latifah",
+        "character": "Teresa Sugerman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AeNoPcSWTsl1mOxiyXAKjVnzrwl.jpg"
+      },
+      {
+        "name": "Juancho Hernangómez",
+        "character": "Bo Cruz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oPWDzNjRCLLMMjzWyhG87MdZ4Vt.jpg"
+      },
+      {
+        "name": "Anthony Edwards",
+        "character": "Kermit Wilts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c0fJbpEMTkYYRlMn5HuUVT7vzXM.jpg"
+      },
+      {
+        "name": "Kenny Smith",
+        "character": "Leon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9E1ZPGtOEAcZ8Gs1b6Sa2PXdMCH.jpg"
+      },
+      {
+        "name": "Ben Foster",
+        "character": "Vince Merrick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4le1PMWTGp7y2IBmZEIOHfE3HAB.jpg"
+      },
+      {
+        "name": "Robert Duvall",
+        "character": "Rex Merrick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
+      },
+      {
+        "name": "Moritz Wagner",
+        "character": "Haas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9U5wMXLa0IYPCGqWet9haQEFab7.jpg"
+      },
+      {
+        "name": "Jordan Hull",
+        "character": "Alex Sugerman",
+        "profile_path": ""
+      },
+      {
+        "name": "María Botto",
+        "character": "Paola",
+        "profile_path": "https://image.tmdb.org/t/p/w185/loXdfUOLAg9Ey6Ppt8pmJ36t5Gf.jpg"
+      },
+      {
+        "name": "Ainhoa Pillet",
+        "character": "Lucia",
+        "profile_path": ""
+      },
+      {
+        "name": "Jaleel White",
+        "character": "Blake - VP of Player Personnel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/txSsldskYkO4PbxKML8NvUq2sCk.jpg"
+      },
+      {
+        "name": "Boban Marjanović",
+        "character": "Big Serbian - Dimitri Jovanovic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1VSX0Fvq2hwpONVMA5kNolRpBLD.jpg"
+      },
+      {
+        "name": "Elvin Rodriguez",
+        "character": "Mr. Everything",
+        "profile_path": ""
+      },
+      {
+        "name": "Raúl Castillo",
+        "character": "Oscar Morales",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wyxl5HtyjeJRXkE89LtsItQhPHN.jpg"
+      },
+      {
+        "name": "Heidi Gardner",
+        "character": "Kat Merrick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iONzt7sP8fm5sjgfSenQQU1RAvS.jpg"
+      },
+      {
+        "name": "Michael Foster",
+        "character": "Zeke Washington",
+        "profile_path": ""
+      },
+      {
+        "name": "Julius Erving",
+        "character": "Julius Erving",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tvBg6Zu1Lgs6QQMaq7Y0XWVyFjz.jpg"
+      },
+      {
+        "name": "Matisse Thybulle",
+        "character": "Matisse Thybulle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qgOeIq64maKlGty9ofZK648kauF.jpg"
+      },
+      {
+        "name": "Tobias Harris",
+        "character": "Tobias Harris",
+        "profile_path": ""
+      },
+      {
+        "name": "Kyle Lowry",
+        "character": "Kyle Lowry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eLPclfs4LPYbiKfPvgui4CtL0h1.jpg"
+      },
+      {
+        "name": "Tyrese Maxey",
+        "character": "Tyrese Maxey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vKDcjRbW8NN120UMfz6UWzvvPyn.jpg"
+      },
+      {
+        "name": "Seth Curry",
+        "character": "Seth Curry",
+        "profile_path": ""
+      },
+      {
+        "name": "Glenn 'Doc' Rivers",
+        "character": "Glenn 'Doc' Rivers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nd1ka9yZWfHD5mlrfB521x7pWaX.jpg"
+      },
+      {
+        "name": "Dirk Nowitzki",
+        "character": "Dirk Nowitzki",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pII0DThKmzFmeE7tnr9gScL860p.jpg"
+      },
+      {
+        "name": "Brad Stevens",
+        "character": "Brad Stevens",
+        "profile_path": ""
+      },
+      {
+        "name": "Jay Wright",
+        "character": "Jay Wright",
+        "profile_path": ""
+      },
+      {
+        "name": "Jordan Clarkson",
+        "character": "Jordan Clarkson",
+        "profile_path": ""
+      },
+      {
+        "name": "Trae Young",
+        "character": "Trae Young",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e2Oy5r7xBM7isPC5tzIbwSoNs5d.jpg"
+      },
+      {
+        "name": "Aaron Gordon",
+        "character": "Aaron Gordon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9YNG1TEnhkHPz47EaIypEjB2q5A.jpg"
+      },
+      {
+        "name": "Mark Jackson",
+        "character": "Mark Jackson",
+        "profile_path": ""
+      },
+      {
+        "name": "Allen Iverson",
+        "character": "Allen Iverson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/quuNSvrx5cddrqBvick4ly7JDYJ.jpg"
+      },
+      {
+        "name": "Luka Dončić",
+        "character": "Luka Dončić",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oPqQNRBpQTfRJZOtemrQIjlsqTe.jpg"
+      },
+      {
+        "name": "Tim Young",
+        "character": "Tim Young",
+        "profile_path": ""
+      },
+      {
+        "name": "Fat Joe",
+        "character": "Fat Joe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g4Z1K3bywKBDFGcNT4C5OapbEQj.jpg"
+      },
+      {
+        "name": "Mike James",
+        "character": "Mike James",
+        "profile_path": ""
+      },
+      {
+        "name": "Leandro Barbosa",
+        "character": "Leandro Barbosa",
+        "profile_path": ""
+      },
+      {
+        "name": "James Goldstein",
+        "character": "James Goldstein",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Cuban",
+        "character": "Mark Cuban",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iK8LVp8R9Pf2MnYWBP6c0HKPf2D.jpg"
+      },
+      {
+        "name": "Aaron Owens",
+        "character": "Aaron Owens",
+        "profile_path": ""
+      },
+      {
+        "name": "Lonnie Harrell",
+        "character": "Lonnie Harrell",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry Williams",
+        "character": "Larry Williams",
+        "profile_path": ""
+      },
+      {
+        "name": "Waliyy Dixon",
+        "character": "Waliyy Dixon",
+        "profile_path": ""
+      },
+      {
+        "name": "Grayson Boucher",
+        "character": "Grayson Boucher",
+        "profile_path": ""
+      },
+      {
+        "name": "Ty Tanner",
+        "character": "Ty Tanner",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Matthews",
+        "character": "Chris Matthews",
+        "profile_path": ""
+      },
+      {
+        "name": "Emeka Okafor",
+        "character": "Emeka Okafor",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Duffy",
+        "character": "Bill Duffy",
+        "profile_path": ""
+      },
+      {
+        "name": "Khris Middleton",
+        "character": "Khris Middleton",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff Schwartz",
+        "character": "Jeff Schwartz",
+        "profile_path": ""
+      },
+      {
+        "name": "Pat Croce",
+        "character": "Pat Croce",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kRUyrWms3HtNMpsVad92gWR84lQ.jpg"
+      },
+      {
+        "name": "Maurice Cheeks",
+        "character": "Maurice Cheeks",
+        "profile_path": ""
+      },
+      {
+        "name": "Kristine Leahy",
+        "character": "Kristine Leahy",
+        "profile_path": ""
+      },
+      {
+        "name": "Aaron McKie",
+        "character": "Aaron McKie",
+        "profile_path": ""
+      },
+      {
+        "name": "Howard Wood",
+        "character": "Howard Wood",
+        "profile_path": ""
+      },
+      {
+        "name": "Fran Fraschilla",
+        "character": "Fran Fraschilla",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dGvtv4amzi1A5RKDgabL7QYSvMl.jpg"
+      },
+      {
+        "name": "Dan Patrick",
+        "character": "Dan Patrick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A4G9dtCuma1yR9QAkhqSyGZsDvr.jpg"
+      },
+      {
+        "name": "Charles Barkley",
+        "character": "Charles Barkley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ceRTD8xYs13kcyPcV6feH9vkDwb.jpg"
+      },
+      {
+        "name": "Shaquille O'Neal",
+        "character": "Shaquille O'Neal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dPpPU1y7JEOQHVGv6vNLcCDJhLP.jpg"
+      },
+      {
+        "name": "Ernie Johnson",
+        "character": "Ernie Johnson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jFSjiWmMYMiR9nvsPcRIuVlAd2n.jpg"
+      },
+      {
+        "name": "Beanie Sigel",
+        "character": "Beanie Sigel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mFdh9H9hQoRPD1vi4ZjkX49GzpG.jpg"
+      },
+      {
+        "name": "Lonnie Cooper",
+        "character": "Lonnie Cooper",
+        "profile_path": ""
+      },
+      {
+        "name": "Greg St. Jean",
+        "character": "Greg St. Jean",
+        "profile_path": ""
+      },
+      {
+        "name": "Torrel Harris Jr.",
+        "character": "Torrel Harris Jr.",
+        "profile_path": ""
+      },
+      {
+        "name": "Torrel Harris Sr.",
+        "character": "Torrel Harris Sr.",
+        "profile_path": ""
+      },
+      {
+        "name": "Freeway",
+        "character": "Freeway",
+        "profile_path": ""
+      },
+      {
+        "name": "Tierra Whack",
+        "character": "Tierra Whack",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6pxssh1YWUAacKt6KuypISI6QHW.jpg"
+      },
+      {
+        "name": "Sergio Scariolo",
+        "character": "Sergio Scariolo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xNWuSFgjnv9NttgLLAppUffg2LO.jpg"
+      },
+      {
+        "name": "José Calderón",
+        "character": "José Calderón",
+        "profile_path": ""
+      },
+      {
+        "name": "Willy Hernangómez",
+        "character": "Willy Hernangómez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tfs7d4ge1pjiIEMardRcp0JGQAr.jpg"
+      },
+      {
+        "name": "Felipe Reyes",
+        "character": "Felipe Reyes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oqk8giTLqjmub2d1PAqjSsarhHc.jpg"
+      },
+      {
+        "name": "Álex Abrines",
+        "character": "Àlex Abrines",
+        "profile_path": ""
+      },
+      {
+        "name": "Pierre Oriola",
+        "character": "Pierre Oriola",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Filippi",
+        "character": "Jason Filippi",
+        "profile_path": ""
+      },
+      {
+        "name": "Igor Ormazabal",
+        "character": "Igor Ormazabal",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Vecsey",
+        "character": "Peter Vecsey",
+        "profile_path": ""
+      },
+      {
+        "name": "Bobby Verdun",
+        "character": "Bobby Verdun",
+        "profile_path": ""
+      },
+      {
+        "name": "Dell Demps",
+        "character": "Dell - Asst. Coach Philadelphia 76ers",
+        "profile_path": ""
+      },
+      {
+        "name": "Billy King",
+        "character": "76ers General Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Vecsey",
+        "character": "Assistant General Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r4URR1ZQXwtfvOqoy4Ujh5JeEuQ.jpg"
+      },
+      {
+        "name": "Peter Dominguez",
+        "character": "Asst. Coach Philadelphia 76ers",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave Joerger",
+        "character": "Asst. Coach Philadelphia 76ers",
+        "profile_path": ""
+      },
+      {
+        "name": "Christian Crosby",
+        "character": "Executive Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Ron Hoover",
+        "character": "Tattooed Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob Steitz",
+        "character": "76ers Personnel #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Owen Morin",
+        "character": "76ers Personnel #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Kareek Best",
+        "character": "76ers Personnel #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Rebecca Rodriguez",
+        "character": "76ers Personnel #4",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Dean",
+        "character": "76ers Personnel #5",
+        "profile_path": ""
+      },
+      {
+        "name": "Kathryn Alario",
+        "character": "76ers Woman Executive (Gym)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jill Snodgrass",
+        "character": "76ers Woman Executive (Stairs)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brittanie Boyd",
+        "character": "Brittanie - 76ers Stats",
+        "profile_path": ""
+      },
+      {
+        "name": "Leland Smith",
+        "character": "76ers Executive Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Milano",
+        "character": "Ball Boy - 76ers Practice",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony L. Gargano",
+        "character": "Local Reporter #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew J. Perloff",
+        "character": "Local Reporter #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Thaddeus Daniels",
+        "character": "German Fixer - Felix",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3n7Tkmj3cxLXLtECxHn6BmV2DoY.jpg"
+      },
+      {
+        "name": "Jon Collin Barclay",
+        "character": "German Sports Agent - Hans Larsson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AjPMZROjrkE2IWMUo6khzTAf0Rs.jpg"
+      },
+      {
+        "name": "William Franke",
+        "character": "German Telekom Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/646NRjmGGcHL5WkjsQVL9FCG8p2.jpg"
+      },
+      {
+        "name": "Santiago Kuster Galetto",
+        "character": "Spanish Fixer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ivica Marc",
+        "character": "Serbian Fixer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hgTKgKmmSqwcO6EkyVJN2qnGA37.jpg"
+      },
+      {
+        "name": "Oscar Pavlo",
+        "character": "Serbian Manager / Translator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wdNCkVXYVZ86821MjK9gZaNWvvt.jpg"
+      },
+      {
+        "name": "Nenad Ninkovic",
+        "character": "Serbian Security Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Dragana Argirovic",
+        "character": "Serbian Wife",
+        "profile_path": ""
+      },
+      {
+        "name": "Nielsen Gordon",
+        "character": "Tall Serbian Teen",
+        "profile_path": ""
+      },
+      {
+        "name": "Vladimir Pavlovic",
+        "character": "Serbian Trainer / Coach",
+        "profile_path": ""
+      },
+      {
+        "name": "Aila Troxel",
+        "character": "Alex's Friend #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Jaidyn Hires",
+        "character": "Alex's Friend #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Todd Vulpio",
+        "character": "Loew's Valet",
+        "profile_path": ""
+      },
+      {
+        "name": "Noelle Gentile",
+        "character": "Swimmer",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrea Sooch",
+        "character": "German Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r8cF9MMQs8V0JOsT1iejULGKlHv.jpg"
+      },
+      {
+        "name": "Peter Linari",
+        "character": "German Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sMvKhAS7PMkyKAq9dbuLZ9JlqN.jpg"
+      },
+      {
+        "name": "Sidney Allen",
+        "character": "Cardinal Hayes Check in Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Liz Wiest",
+        "character": "Flight Attendant",
+        "profile_path": ""
+      },
+      {
+        "name": "Marko Christie",
+        "character": "Philly Fan",
+        "profile_path": ""
+      },
+      {
+        "name": "Olivia Daniels",
+        "character": "Little Daughter",
+        "profile_path": ""
+      },
+      {
+        "name": "John D. Kay Jr.",
+        "character": "Jack in Security Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Bennett Gruninger",
+        "character": "Officier Richard",
+        "profile_path": ""
+      },
+      {
+        "name": "Oliver Morton",
+        "character": "Cyclist",
+        "profile_path": ""
+      },
+      {
+        "name": "Sunny Sandler",
+        "character": "Greek 13 Yr Old Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1tuv9SYa5RcoiWpf0INjdfvltTT.jpg"
+      },
+      {
+        "name": "Anthony Capozzoli",
+        "character": "Bartender",
+        "profile_path": ""
+      },
+      {
+        "name": "Tyreek Cade",
+        "character": "Prison Tat",
+        "profile_path": ""
+      },
+      {
+        "name": "Denzel Jackson",
+        "character": "Philly Baller",
+        "profile_path": ""
+      },
+      {
+        "name": "Alejandra Bitti Ibañez",
+        "character": "Waitress",
+        "profile_path": ""
+      },
+      {
+        "name": "Marie Rose Segarra Mebuy",
+        "character": "Hostess",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Aquino",
+        "character": "Rex's Driver - Carl",
+        "profile_path": ""
+      },
+      {
+        "name": "Xavier Nuñez",
+        "character": "Spanish Man on TV",
+        "profile_path": ""
+      },
+      {
+        "name": "Zaila Avant-garde",
+        "character": "13 Yr Old Street Baller",
+        "profile_path": ""
+      },
+      {
+        "name": "Josiah Gabriel",
+        "character": "Teen with Drone",
+        "profile_path": ""
+      },
+      {
+        "name": "Evan Rosado",
+        "character": "Social Media Teen #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c4ObgMeezAzr1Nv887VQWTzinUu.jpg"
+      },
+      {
+        "name": "Isaiah Allen",
+        "character": "Social Media Teen #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Toonyun",
+        "character": "Chinese Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5yh8L2E4ibkPWB0tTBZHbp3Zsrv.jpg"
+      },
+      {
+        "name": "Qing Fang Pang",
+        "character": "7-Foot Chinese Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Diakite Boubcar Sidik Bouki",
+        "character": "Stoned Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Samuel Muriithi",
+        "character": "Arguing African Fan",
+        "profile_path": ""
+      },
+      {
+        "name": "Jalani Benton",
+        "character": "Nigerian Player's Friend #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Christlo C. Gittens",
+        "character": "Nigerian Player's Friend #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Darrin Barber",
+        "character": "Nigerian Player's Friend #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jrGkT0TyAUJ5CYSLmRE9vZh8MK0.jpg"
+      },
+      {
+        "name": "Chad Johnson",
+        "character": "Combine Referee",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Corsino",
+        "character": "Combine Official #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicole Kornet",
+        "character": "Combine Official #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5LiQ0qw2rXulSTsXttwafLVISRc.jpg"
+      },
+      {
+        "name": "Lyman Chen",
+        "character": "Combine Official #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3aDbxJeem9JHHoSPXHIHsg8kWKJ.jpg"
+      },
+      {
+        "name": "Lawrence Settles",
+        "character": "Combine Official #4",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jeremiah Zagar",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hWdATel5XUF2bUTMQRSroQHKQCT.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "spain",
+    "sports",
+    "training",
+    "basketball",
+    "teenage pregnancy",
+    "basketball player",
+    "opportunity",
+    "dramedy",
+    "interracial family"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A basketball scout discovers a phenomenal street ball player while in Spain and sees the prospect as his opportunity to get back into the NBA.",
+    "After being fired, pro basketball scout, Stanley Sugerman, is excited, for the first time in a very long while, when he serendipitously discovers Spanish amateur baller, Bo Cruz, playing in a park outside Madrid. Fueled with new-found purpose, Stanley makes it his mission to groom Bo for the NBA as he believes they both can make it.",
+    "Bo Cruz is a young man in Spain who is a very good basketball player but is unknown in the sports world. He is discovered by a visiting American basketball scout Stanley ( ex NBA) who sees great potential in him. He trains him rigorously and grooms him for NBA. Stanley also sees this as a chance to get back into NBA. Will he be successful in his mission?—Madan Marwah"
+  ],
+  "synopsis": "",
+  "imdb_score": 7.3
+}

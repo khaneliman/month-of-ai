@@ -1,0 +1,789 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/tYEy2yRjzQ1hmbT7AHJYjkTZQlh.jpg",
+  "id": 11820,
+  "title": "Mona Lisa Smile",
+  "poster_path": "https://image.tmdb.org/t/p/w500/bg0VKsXnLjIZ0cHmZHZLs9gzrvm.jpg",
+  "release_date": "2003-12-19",
+  "vote_average": 6.941,
+  "vote_count": 1615,
+  "popularity": 22.966,
+  "overview": "Katherine Watson is a recent UCLA graduate hired to teach art history at the prestigious all-female Wellesley College, in 1953. Determined to confront the outdated mores of society and the institution that embraces them, Katherine inspires her traditional students, including Betty and Joan, to challenge the lives they are expected to lead.",
+  "imdb_id": "tt0304415",
+  "budget": 65000000,
+  "homepage": "",
+  "revenue": 0,
+  "runtime": 117,
+  "tagline": "In a world that told them how to think, she showed them how to live.",
+  "genres": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "production_companies": [
+    "Columbia Pictures",
+    "Revolution Studios",
+    "Red Om Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Julia Roberts",
+        "character": "Katherine Ann Watson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AhQMyQ10kz5g8Y3Fp54GPhgDxQS.jpg"
+      },
+      {
+        "name": "Kirsten Dunst",
+        "character": "Betty Warren",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sFYHUU1gWd57pttD8732tkBsXV5.jpg"
+      },
+      {
+        "name": "Julia Stiles",
+        "character": "Joan Brandwyn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vuXlmsJd8tec6D9ljv9AcpxeaxM.jpg"
+      },
+      {
+        "name": "Maggie Gyllenhaal",
+        "character": "Giselle Levy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qxgM5LzzG4uWTprCL3gBVVJ2Q1K.jpg"
+      },
+      {
+        "name": "Ginnifer Goodwin",
+        "character": "Connie Baker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xOCA2WN5MRfXmJmlzEbFEhIbfIQ.jpg"
+      },
+      {
+        "name": "Dominic West",
+        "character": "Bill Dunbar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iJIdrZrE57eWlXAtXbntzacW6B8.jpg"
+      },
+      {
+        "name": "Juliet Stevenson",
+        "character": "Amanda Armstrong",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vfa2rMTtYGcjBPDtrOpSBEwpTcI.jpg"
+      },
+      {
+        "name": "Marcia Gay Harden",
+        "character": "Nancy Abbey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fjmvhuJmEv7oCxUoHCVHlnTjWC2.jpg"
+      },
+      {
+        "name": "John Slattery",
+        "character": "Paul Moore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t1mhOQR8XwCqp7xArTy8FCENTsR.jpg"
+      },
+      {
+        "name": "Marian Seldes",
+        "character": "President Jocelyn Carr",
+        "profile_path": "https://image.tmdb.org/t/p/w185/farpPf0NJrZfdYJNnAmDlmhTURn.jpg"
+      },
+      {
+        "name": "Donna Mitchell",
+        "character": "Mrs. Warren",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xl8nnJBzNj0cqTAB3nk7GkKqmRV.jpg"
+      },
+      {
+        "name": "Terence Rigby",
+        "character": "Dr. Edward Staunton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gjLyrCyTw3Hvjv5MStc8QoWRgW4.jpg"
+      },
+      {
+        "name": "Jennie Eisenhower",
+        "character": "Girl at the Station",
+        "profile_path": ""
+      },
+      {
+        "name": "Leslie Lyles",
+        "character": "Housing Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pTEfzFH2gaWoabfVoCTZmetXlf0.jpg"
+      },
+      {
+        "name": "Laura Allen",
+        "character": "Susan Delacorte",
+        "profile_path": "https://image.tmdb.org/t/p/w185/emjO0aY5z4nT0naLjEyCoSZrkhN.jpg"
+      },
+      {
+        "name": "Topher Grace",
+        "character": "Tommy Donegal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tgF5PeH4xwz32FjB80n5aFiuHX.jpg"
+      },
+      {
+        "name": "Lily Lodge",
+        "character": "House Matron",
+        "profile_path": ""
+      },
+      {
+        "name": "Jordan Bridges",
+        "character": "Spencer Jones",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nY1ojfUERgNcPj9PpsygP4hbofh.jpg"
+      },
+      {
+        "name": "Ebon Moss-Bachrach",
+        "character": "Charlie Stewart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/79hU38XpN58dN2Rsw1DpUSC4PlH.jpg"
+      },
+      {
+        "name": "Chuck Montgomery",
+        "character": "Tall Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bN04P07aYX2DI5UEoJudIqp7mqt.jpg"
+      },
+      {
+        "name": "Taylor Roberts",
+        "character": "Louise",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rq4JJXB6nc7f582doNNKy3S1vWh.jpg"
+      },
+      {
+        "name": "John Scurti",
+        "character": "Stan Sher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g9xeW1p3Zxe3yK0GJqg42zX6Ulz.jpg"
+      },
+      {
+        "name": "Ed Peed",
+        "character": "Taxi Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Rony Clanton",
+        "character": "Porter",
+        "profile_path": ""
+      },
+      {
+        "name": "Becky Veduccio",
+        "character": "Blue Ship Hostess",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Vincent Black",
+        "character": "Joseph O'Neil",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Roberts Gillan",
+        "character": "Miss Albini",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cIpGjGrqTzpOtHPtskkYy8SHd8j.jpg"
+      },
+      {
+        "name": "June Miller",
+        "character": "Cape Cod Hostess",
+        "profile_path": ""
+      },
+      {
+        "name": "Aleksa Palladino",
+        "character": "Frances the Girl in Italian Class",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dJCeWrRBNKy8tEUQBlrZDvynwcd.jpg"
+      },
+      {
+        "name": "Charles Techman",
+        "character": "Harvard Dorm Monitor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ywRscc1bqdzMYxSOXTDldbwpBBF.jpg"
+      },
+      {
+        "name": "Lauren Adler",
+        "character": "Art History Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z1QeHyoLn8F2fsIzQNHw0ywZNAU.jpg"
+      },
+      {
+        "name": "Daisy Baldwin",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Janine Barris",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Emily Bauer",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Kirstie Bingham",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Jennifer Bowen",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Angelique Claire",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Nikki Coble",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Kristen Connolly",
+        "character": "Art History Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zPXAK1KoQ78lYyBS7nmzbQNVxpl.jpg"
+      },
+      {
+        "name": "Kristyn Coppola",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Kimberly Ehly",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Megan Marie Ford",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Lauren Fruchter",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Kate Glass",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Amanda Gruss",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Stella Hao",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Walker Hays",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Michele Hillen",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Annika Marks",
+        "character": "Art History Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pn0sTENODGNYHuTbjT6EiBIAboA.jpg"
+      },
+      {
+        "name": "Amy Montminy",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Lily Rabe",
+        "character": "Art History Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u54mVF2vcjymvLhyImxzInq4Y3o.jpg"
+      },
+      {
+        "name": "Kate Reilly",
+        "character": "Art History Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/95tUqpjWjOaOjL2Ncv34WepVJw2.jpg"
+      },
+      {
+        "name": "Krysten Ritter",
+        "character": "Art History Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vDr20j128E6Uo1XZLChPoW7FbMG.jpg"
+      },
+      {
+        "name": "Brandy Tipton",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Trisha Trokan",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Megan Tropea",
+        "character": "Art History Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Maja Wampuszyc",
+        "character": "Art History Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4p8LBfk4swuzVHOjMCKXESOHRVU.jpg"
+      },
+      {
+        "name": "Mary Pascoe",
+        "character": "Photographer",
+        "profile_path": ""
+      },
+      {
+        "name": "Elise Passamani",
+        "character": "Phyllis",
+        "profile_path": ""
+      },
+      {
+        "name": "Laura M. Flahive",
+        "character": "Wet Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Devon Jencks",
+        "character": "Wet Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Erin E. Richardson",
+        "character": "Wet Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Emily R. See",
+        "character": "Wet Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Rob Buntzen",
+        "character": "Wedding Planner Host",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard O'Rourke",
+        "character": "Igor",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Bonomo",
+        "character": "Groomsman",
+        "profile_path": ""
+      },
+      {
+        "name": "Katherine Argo",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gEDjg85vQK2l6zafnKLLFQqqxJt.jpg"
+      },
+      {
+        "name": "Shelby Bond",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lou Brock",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Choi",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Melissa Deles",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "John D. Fowler",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicole Frydman",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Noelle Gibson",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Maria Vicens Girau",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Natalie Gomez",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sid Grant",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Madeleine Hackney",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Betina Hershey",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Yuval Hod",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Jones",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jerry Jordan",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nickolay Khazanov",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nadia Kravets",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Maria Levinstein",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "KellyDawn Malloy",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Annette Nicole",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lance Olds",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Palmer",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Christian Perry",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Ponickly",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Scheppler",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Solomon Singer",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Gabriel Vaughan",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kim Villanueva",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dnRA377ez0t8z7bDbB40QCWnJ83.jpg"
+      },
+      {
+        "name": "Dan Weltner",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah Billings Wheeler",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Denise Zadroga",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter J. Rowan",
+        "character": "Wedding Photographer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tori Amos",
+        "character": "Singer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2iKCP29epoaEbUn9nqJ3JyJxdLq.jpg"
+      },
+      {
+        "name": "Kevin Osborne",
+        "character": "Band Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a8VFYTu3pXx2AOB0KD6V2cz5yjt.jpg"
+      },
+      {
+        "name": "Brad Mehldau",
+        "character": "Pianist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tqKfqQ3U94pCZthRJlcIhcAeILN.jpg"
+      },
+      {
+        "name": "Larry Grenadier",
+        "character": "Bass Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pSoPYp4hjweQE299qtAm9NjYAB.jpg"
+      },
+      {
+        "name": "Julie Wagner",
+        "character": "Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2LRRhUnWAyGeixKUIofXvskgY6u.jpg"
+      },
+      {
+        "name": "Jennifer Anderson",
+        "character": "Projectionist",
+        "profile_path": ""
+      },
+      {
+        "name": "Lindsey White",
+        "character": "Projectionist",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Burke",
+        "character": "Custodian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gpFz2CVG8NuWil45vo2LocXrL4q.jpg"
+      },
+      {
+        "name": "Dorothy Dwyer",
+        "character": "Faculty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rzhSiepehOt82HPMx2uSvSmzZYf.jpg"
+      },
+      {
+        "name": "Melanie Angelique Moyer",
+        "character": "Christmas Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Canedy Knowles",
+        "character": "Christmas Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8HH80OJygG0wMovgHUGXv71yqxC.jpg"
+      },
+      {
+        "name": "Kristen Marie Holly",
+        "character": "Christmas Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/npiCCBYo4rlxUmvOMWSZuA9kN4L.jpg"
+      },
+      {
+        "name": "Carrie Ann Kaye",
+        "character": "Christmas Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Liliane Thomas",
+        "character": "Woman on Train",
+        "profile_path": ""
+      },
+      {
+        "name": "Jackie Sanders",
+        "character": "Band Announcer",
+        "profile_path": ""
+      },
+      {
+        "name": "Anna Fields",
+        "character": "Eleanor Warren (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Valerie Vaile",
+        "character": "Jane Whitmore (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jill Whitaker",
+        "character": "Vanessa McIntyre (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Randi Newton",
+        "character": "Miranda (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Grenville Cuyler",
+        "character": "Phillip McIntyre (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Erik Davies",
+        "character": "Robert Flint (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gunna Wilson",
+        "character": "Spencer's Girlfriend (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Corey W. Allen",
+        "character": "Giselle's Wedding Date (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nKkd4l2SxrM6Yp5JnedyHxhNPz0.jpg"
+      },
+      {
+        "name": "Marylouise Burke",
+        "character": "President Jocelyn Carr's Secretary (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nNI88PGCKxSBoiUiqVbb5YzNF9m.jpg"
+      },
+      {
+        "name": "Trish McGettrick",
+        "character": "Governor's Wife (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeannette Gould",
+        "character": "Faculty (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Whitney Avalon",
+        "character": "Almost-Hit Bike Rider (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l986rYLHXFTzh3oBtzlLZsSXQDF.jpg"
+      },
+      {
+        "name": "Eric Bruno Borgman",
+        "character": "College Janitor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sdtcwesWN1IF6KXgZyOUSuJ8NVM.jpg"
+      },
+      {
+        "name": "Cristie Schoen",
+        "character": "Alto Sax Player (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Katrina Connor",
+        "character": "Art History Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marlo DiCrasto",
+        "character": "Art History Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ashley Dru Douglass",
+        "character": "Art History Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Liesl Ehardt",
+        "character": "Joan Brandwyn's Friend (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5OMS8fygjrcE39DkmEMvPH9U6YU.jpg"
+      },
+      {
+        "name": "Jessica Leigh Johnson",
+        "character": "Art History Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kara Klein",
+        "character": "Art History Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marni Penning",
+        "character": "Art History Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nxDky1EX6xHaaN4hLdVOrmEs4Mt.jpg"
+      },
+      {
+        "name": "Dina Rose Rivera",
+        "character": "Art History Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Vivian Kalinov",
+        "character": "Artist; Metal Sculptor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Melissa Goodwin Shepherd",
+        "character": "Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/171ZApY6MmMBvn50vxaSDheulVH.jpg"
+      },
+      {
+        "name": "Josh Mowery",
+        "character": "Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/18EW0yBqZyZMOlGz5xhcuYGJWbl.jpg"
+      },
+      {
+        "name": "Matthew Shaffer",
+        "character": "Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Cuomo",
+        "character": "Swing Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/exF2sWWUgtfPoVap5ROp1V0oRFH.jpg"
+      },
+      {
+        "name": "Maria Rusolo",
+        "character": "Swing Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/esj0U0BwCIxjCkgJGB0Uw4MQksM.jpg"
+      },
+      {
+        "name": "Christopher Braden",
+        "character": "Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uIPvJVXuBRQp64VNW7YXOEk5O7n.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Mike Newell",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zeLnvLZtyJaBP1wWceRM7HWkm0E.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "massachusetts",
+    "art school",
+    "inspiration",
+    "feminist",
+    "conservative",
+    "lgbt",
+    "post war",
+    "post world war ii",
+    "faculty",
+    "art history",
+    "teacher hero",
+    "women's issues",
+    "subversive",
+    "1950s",
+    "unmarried woman",
+    "woman centric",
+    "women and society",
+    "woman independence",
+    "women's independence",
+    "liberal arts"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A free-thinking art professor teaches conservative 1950s Wellesley girls to question their traditional social roles.",
+    "Katherine Ann Watson has accepted a position teaching art history at the prestigious Wellesley College. Watson is a very modern woman, particularly for the 1950s, and has a passion not only for art but for her students. For the most part, the students all seem to be biding their time, waiting to find the right man to marry. The students are all very bright and Watson feels they are not reaching their potential. Altough a strong bond is formed between teacher and student, Watson's views are incompatible with the dominant culture of the college.—garykmcd",
+    "Katherine Watson, an Oakland State University Ph.D. student, is hired as an Art History instructor at Wellesley College for the 1953/54 school year. She is not an obvious choice as Wellesley is an exclusive upper crust institution where its faculty, students and alumni generally look down upon \"State\" universities. Katherine quickly learns that her paper credentials do affect how her students treat her. She also learns that the students are book smart, but do not know how to think for themselves. Their parents and the school administration foster a predetermined path in life for the girls, namely to stick to traditional mores and thoughts, with the primary goal of marrying into a good family. There are pockets of free thinking among faculty and the students, but those thoughts and associated actions are generally quashed by the overall tone of the school. Katherine decides to instill into her students her own beliefs of what is important in learning. Will the students and administration allow Katherine to be contrary to the prescribed thought?—Huggo",
+    "In 1953, free spirited and non-orthodox art history teacher Katherine Ann Watson accepts the challenge of teaching in the conservative Wellesley College. She leaves her boy-friend Paul Moore in California and share a house with the teacher Nancy Abbey and the nurse Amanda. On the first day, her class fails under the leadership of the arrogant Betty Warren and her friends Joan Brandwyn and Giselle Levy, but Katherine is advised by her mates and the Italian teacher Bill Dunbar to not fear the students. Soon Katherine learns that the girls are only waiting to catch Mr. Nice Guy and get married and she fights against the status-quo of Wellesley and to keep her independence.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "Set in 1953, Katherine Watson (Roberts) is a free-spirited graduate of UCLA who accepts a teaching post at Wellesley College, a women-only school where the students are torn between the repressive mores of the time and their longing for intellectual freedom.—Anonymous"
+  ],
+  "synopsis": "",
+  "imdb_score": 6.5
+}

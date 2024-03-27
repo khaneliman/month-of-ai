@@ -1,0 +1,366 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/9mwMaNeeqPXJviKk2UKLxFm9vUW.jpg",
+  "id": 1246,
+  "title": "Rocky Balboa",
+  "poster_path": "https://image.tmdb.org/t/p/w500/xUylDspiTKU3cYzZNeLsN8Krv12.jpg",
+  "release_date": "2006-12-20",
+  "vote_average": 6.864,
+  "vote_count": 3278,
+  "popularity": 45.774,
+  "overview": "His Wife is dead and his Son hates him, but this old man still has fight in him!  When he loses a highly publicized virtual boxing match to ex-champ Rocky Balboa, reigning heavyweight titleholder Mason Dixon retaliates by challenging Rocky to a nationally televised, 10-round exhibition bout. To the surprise of his son and friends, Rocky agrees to come out of retirement and face an opponent who's faster, stronger, and thirty years his junior.",
+  "imdb_id": "tt0479143",
+  "budget": 24000000,
+  "homepage": "https://www.mgm.com/movies/rocky-balboa",
+  "revenue": 155900000,
+  "runtime": 101,
+  "tagline": "It ain't over 'til it's over.",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Metro-Goldwyn-Mayer",
+    "Columbia Pictures",
+    "Revolution Studios",
+    "Chartoff-Winkler Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Sylvester Stallone",
+        "character": "Robert 'Rocky' Balboa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mJHmLVLctqZd30CSEUKuVFEPrnt.jpg"
+      },
+      {
+        "name": "Burt Young",
+        "character": "Paulie Pennino",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6QWnsSbjYog0D6hkPhg7Frty54D.jpg"
+      },
+      {
+        "name": "Antonio Tarver",
+        "character": "Mason 'The Line' Dixon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r8E2Fw6mu3g4del7uadNmPft53o.jpg"
+      },
+      {
+        "name": "Geraldine Hughes",
+        "character": "Marie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kBatdBpLl7h1vYnCOw6hRkjbspF.jpg"
+      },
+      {
+        "name": "Milo Ventimiglia",
+        "character": "Robert 'Rocky' Balboa Jr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9yFPsQCYi9sbPQ0xJGtoAF4Ar6v.jpg"
+      },
+      {
+        "name": "Tony Burton",
+        "character": "Tony 'Duke' Evers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iG51d1Ck1doZNGseRMqGTnNC8t8.jpg"
+      },
+      {
+        "name": "A.J. Benza",
+        "character": "L.C.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4AX6BlevQm8Xu7X5MZuD2msUg9B.jpg"
+      },
+      {
+        "name": "James Francis Kelly III",
+        "character": "Steps",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aaVq4tJM6XakOszqx7G0qR44PE6.jpg"
+      },
+      {
+        "name": "Lou DiBella",
+        "character": "Lou DiBella",
+        "profile_path": "https://image.tmdb.org/t/p/w185/koJGj7xGpCWLSHsJxqWPDmp2jq3.jpg"
+      },
+      {
+        "name": "Mike Tyson",
+        "character": "Mike Tyson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pFbI6qiqb7GJLj6nedE7h8b3X6y.jpg"
+      },
+      {
+        "name": "Henry G. Sanders",
+        "character": "Martin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4HWUP5K5kPxt5c0Xp65QOyV5gPG.jpg"
+      },
+      {
+        "name": "Pedro Lovell",
+        "character": "Spider Rico",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dADjV7FDCtQjephtzBHaM0V7Yk.jpg"
+      },
+      {
+        "name": "Ana Gerena",
+        "character": "Isabel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3xcss7JFzxoRnqZgjHOlXJKoWWN.jpg"
+      },
+      {
+        "name": "Angela Boyd",
+        "character": "Angie",
+        "profile_path": ""
+      },
+      {
+        "name": "Louis Giansante",
+        "character": "Bar Thug",
+        "profile_path": ""
+      },
+      {
+        "name": "Maureen Schilling",
+        "character": "Lucky's Bartender",
+        "profile_path": ""
+      },
+      {
+        "name": "Lahmard J. Tate",
+        "character": "X-Cell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tsJ0DoZK6dakzgNpcQMQUKx6GFf.jpg"
+      },
+      {
+        "name": "Woody Paige",
+        "character": "ESPN Commentator",
+        "profile_path": ""
+      },
+      {
+        "name": "Skip Bayless",
+        "character": "ESPN Commentator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jKVhdkLnqmMtKAeKbdlcyCiyTBc.jpg"
+      },
+      {
+        "name": "Jay Crawford",
+        "character": "ESPN Commentator",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Kenny",
+        "character": "ESPN Host",
+        "profile_path": "https://image.tmdb.org/t/p/w185/upJJcGPxFRZF4j3l7fVTiLRYojL.jpg"
+      },
+      {
+        "name": "Dana Jacobson",
+        "character": "ESPN Host",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Johnson",
+        "character": "ESPN Host",
+        "profile_path": ""
+      },
+      {
+        "name": "James Binns",
+        "character": "Commissioner",
+        "profile_path": ""
+      },
+      {
+        "name": "Johnnie Hobbs Jr.",
+        "character": "Commissioner",
+        "profile_path": ""
+      },
+      {
+        "name": "Barney Fitzpatrick",
+        "character": "Commissioner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lC3JUlw7gpqyJuvAKNYUlzDschO.jpg"
+      },
+      {
+        "name": "Jim Lampley",
+        "character": "HBO Commentator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dU7YRcSHN8tt7hTHhZCQQ49KsDV.jpg"
+      },
+      {
+        "name": "Larry Merchant",
+        "character": "HBO Commentator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/BgPZoJBJ8xt8WsxaUbuzNb5lpg.jpg"
+      },
+      {
+        "name": "Max Kellerman",
+        "character": "HBO Commentator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yqqiZXjbMBDEEMrVtioBYslScxl.jpg"
+      },
+      {
+        "name": "LeRoy Neiman",
+        "character": "LeRoy Neiman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kyvujNQIDhDB8g40fmq9T8vUnPs.jpg"
+      },
+      {
+        "name": "Bert Sugar",
+        "character": "Ring Magazine Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sL1JaK4pGCp3JfwdoDs8tmNS7iP.jpg"
+      },
+      {
+        "name": "Bernardo Fernández",
+        "character": "Boxing Association of America Writer",
+        "profile_path": ""
+      },
+      {
+        "name": "Gunnar Peterson",
+        "character": "Weightlifting Trainer",
+        "profile_path": ""
+      },
+      {
+        "name": "Yahya",
+        "character": "Dixon's Opponent",
+        "profile_path": ""
+      },
+      {
+        "name": "Marc Ratner",
+        "character": "Weigh-In Official",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Lato Jr.",
+        "character": "Rocky's Inspector",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Lazzarado",
+        "character": "Dixon's Inspector",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Buffer",
+        "character": "Ring Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/433i2ensZyexe2tD0jlPEvCQakn.jpg"
+      },
+      {
+        "name": "Joe Cortez",
+        "character": "Referee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cEFx8pTCPeh3svBI287ucN0lvGb.jpg"
+      },
+      {
+        "name": "Carter Mitchell",
+        "character": "Shamrock Foreman",
+        "profile_path": ""
+      },
+      {
+        "name": "Vinod Kumar",
+        "character": "Ravi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/72Sz1EH0Me4MIG7qbvQFsxU6oDA.jpg"
+      },
+      {
+        "name": "Fran Pultro",
+        "character": "Father at Restaurant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qASRuQWheXwgf6qdlptA5MhITtb.jpg"
+      },
+      {
+        "name": "Frank Stallone Jr.",
+        "character": "Dinner Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8AxykR4tVFOaygds1TZM5VQrFA6.jpg"
+      },
+      {
+        "name": "Jody Giambelluca",
+        "character": "Dinner Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Tobias Segal",
+        "character": "Robert's Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1I8JXa3OfbEYEOa3rBgiRE1x31H.jpg"
+      },
+      {
+        "name": "Tim Carr",
+        "character": "Robert's Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zvHjLaseFFAtA59w0R7qWQJMBaa.jpg"
+      },
+      {
+        "name": "Matt Frack",
+        "character": "Robert's Friend #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Dion Monte",
+        "character": "Robert's Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kQUtUP43oEDOVAX4WeIB3qo98Vc.jpg"
+      },
+      {
+        "name": "Kevin King Templeton",
+        "character": "Robert's Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aG1wPhMwLoJD5pYVeylMQ45DoyT.jpg"
+      },
+      {
+        "name": "Robert Michael Kelly",
+        "character": "Mr. Tomilson",
+        "profile_path": ""
+      },
+      {
+        "name": "Rick Buchborn",
+        "character": "Rocky Fan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ufOeEOCPVyruF0PQiseCayyKeiG.jpg"
+      },
+      {
+        "name": "Nick Baker",
+        "character": "Irish Pub Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/BjJj1n2Ey6Q3dH2zK0F3SEnIJc.jpg"
+      },
+      {
+        "name": "Don Sherman",
+        "character": "Andy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/veyME5hDbhcJmk3g7VdOf2DoXMG.jpg"
+      },
+      {
+        "name": "Stu Nahan",
+        "character": "Computer Fight Commentator (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zqk4y3uuI27WYstzXPgxEeGliAG.jpg"
+      },
+      {
+        "name": "Gary Compton",
+        "character": "Security Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "David Gere",
+        "character": "Patron at Adrian's (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gSqF3mVYmYh3RheHA8ldJ7t267H.jpg"
+      },
+      {
+        "name": "Jacob 'Stitch' Duran",
+        "character": "Stitch (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5tt0YJDlqNYEN1TUkf0MSzNZ1ng.jpg"
+      },
+      {
+        "name": "Talia Shire",
+        "character": "Adrianna \"Adrian\" Balboa (Archive Footage)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/RkFJejmEKM80ly6fPSN7octO5c.jpg"
+      },
+      {
+        "name": "Burgess Meredith",
+        "character": "Micky Goldmill (Archive Footage)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2ozNyIbHChcqIBANwvCDpUZGA9b.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Sylvester Stallone",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mJHmLVLctqZd30CSEUKuVFEPrnt.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "philadelphia, pennsylvania",
+    "transporter",
+    "love of one's life",
+    "fight",
+    "tombstone",
+    "publicity",
+    "boxer",
+    "grave",
+    "comeback",
+    "defeat",
+    "training",
+    "restaurant owner",
+    "world champion",
+    "challenger",
+    "virtual fight",
+    "victory",
+    "cancer",
+    "over-the-hill fighter",
+    "boxing"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "Thirty years after the ring of the first bell, Rocky Balboa comes out of retirement and dons his gloves for his final fight against the reigning heavyweight champ Mason 'The Line' Dixon.",
+    "When he loses a highly publicized virtual boxing match to ex-champ Rocky Balboa, reigning heavyweight titleholder Mason Dixon retaliates by challenging the Itallian Stallion to a nationally televised, 10-round exhibition bout. To the surprise of his son and friends, Rocky agrees to come out of retirement and face an opponent who's faster, stronger and thirty years his junior. With the odds stacked firmly against him, Rocky takes on Dixon in what will become the greatest fight in boxing history, a hard-hitting, action-packed battle of the ages.—Shawn Ashley",
+    "Rocky Balboa is a longtime retired boxer and remembered by most as one of the greatest boxing champions in the world. He now lives back in the skids of Philadelphia but manages a good life including running his restaurant Adrian's, helping an adult Little Marie and her son Steps, and saying hello at any opportunity to his estranged son Robert. After seeing a virtual fight of Rocky in his prime vs. heavyweight champion Mason \"the Line\" Dixon, Rocky's interest in fighting sparks again and he plans to fight in local clubs. Mason Dixon and his managers have a different agenda though, with a plan to pit Rocky vs. Mason in real life for a publicity act to regain Mason's lost respect from his fans. Finally agreeing to Mason Dixon's proposal, Rocky prepares to step in the ring for one last time.—commanderblue",
+    "A widower of many years now Rocky has fallen into a routine of looking back to his past. A coincidental meeting with a girl that is now all grown up gets him back on track. Rocky always wanting to help those that he cares about lends a hand out for her and her son. Rocky now owns a small restaurant in the heart of Philly, he finds himself telling stories to those that ask about old fights and taking photos with his fans. Paulie, his wife's brother shows him an ESPN exclusive about a virtual fight between reigning undefeated heavy weight champion of the world Mason \"The Line\" Dixon. The virtual bout intrigues everyone with Rocky \"the Italion Stallion\" as the winner. Rocky feels like he needs to get back in the ring not for a title shot, but for some local fights that will satisfy his love of the game. When Rocky is approached by Dixon's managers Rocky can't turn the semi charity event down. After tying things back up with his son, Rocky, Duke (his former trainer), Paulie, and Rocky Jr. get to work training the still in shape former 2 time heavy weight champion of the world. You'll be inspired by the heart vs skill bout of ten amazing rounds.—RCG_Sk8ter_"
+  ],
+  "synopsis": "In the past 15 years (1990-2005) since the end of the last Rocky movie, Rocky Balboa (Sylvester Stalone) is a retired boxer who owns an Italian themed restaurant in Philadelphia named after his beloved wife Adrian who passed in 2002. Their son, Robert (Milo Ventimiglia), has entered the corporate world; Robert feels resentment about living in the shadow of his famous father.Rocky meets Marie, bartender at, Lucky Seven tavern, Back in 1975 during the first Rocky movie, she was a young teenager who Rocky admonished her to quit smoking. Rocky befriends Marie and tries to provide a role model for Steps. When his assistant at the restaurant goes on maternity leave, he invites Marie to work there as the hostess and barmaid.ESPN televises a computer simulation of a fight pitting Rocky (in his prime) against the current Heavyweight champion, Mason \"The Line\" Dixon (Antonio Tarver). Rocky wants to box again,but on a small scale. Paulie doesn't want to be part of it.\nPennsylvania Athletic Commission, grants him a license when Rokcy accuses them of acting in bad faith, with intention of refusing license even after he passed all tests.Dixon's managers urge him to fight Rocky as nobody wants to see Dixon fight the nobody's anymore. When they speak to Rocky, Marie encourages him to take his last shot. Robert is pissed, but Rocky confronts him:\n\"Let me tell you something you already know. The world ain't all sunshine and rainbows. It's a very mean and nasty place and I don't care how tough you are it will beat you to your knees and keep you there permanently if you let it. You, me, or nobody is gonna hit as hard as life. But it ain't about how hard ya hit. It's about how hard you can get it and keep moving forward. How much you can take and keep moving forward. That's how winning is done! Now if you know what you're worth then go out and get what you're worth. But ya gotta be willing to take the hits, and not pointing fingers saying you ain't where you wanna be because of him, or her, or anybody! Cowards do that and that ain't you! You're better than that!\"Robert quits job & joins Rocky. Tony is the trainer & strategy is to develop hard punches \"hurt bombs\" to knock Dixon out early.\nThe fight itself starts slowly - Rocky is thrown off balance by Dixon's speed. In second round that Rocky starts to do some damage. After Rocky is knocked down twice by Dixon, a hook to Rocky's body breaks Dixon's left hand, and allows Rocky to charge in and throw some devastating punches.Rocky gives it as hard as he gets & the 2 champions go toe to toe for 10 full rounds. Rocky lands the last punch & Dixon wins a split decision.\nDuring the end credits, there is an acknowledgment of the iconic status the Rocky series has achieved, through a montage of people following in Rocky's footsteps, charging up the front steps of the Philadelphia Museum of Art.",
+  "imdb_score": 7.1
+}

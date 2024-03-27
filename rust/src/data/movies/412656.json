@@ -1,0 +1,212 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/ovggmAOu1IbPGTQE8lg4lBasNC7.jpg",
+  "id": 412656,
+  "title": "Chaos Walking",
+  "poster_path": "https://image.tmdb.org/t/p/w500/xAYGdGBGptNkisXRpmhZSry6SPF.jpg",
+  "release_date": "2021-02-24",
+  "vote_average": 6.613,
+  "vote_count": 2135,
+  "popularity": 29.525,
+  "overview": "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality, where all inner thoughts are seen and heard by everyone.",
+  "imdb_id": "tt2076822",
+  "budget": 125000000,
+  "homepage": "https://chaoswalking.movie",
+  "revenue": 26508132,
+  "runtime": 109,
+  "tagline": "No one escapes the noise.",
+  "genres": [
+    "Fantasy",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "production_companies": [
+    "Quadrant Pictures",
+    "Lionsgate",
+    "Bron Studios",
+    "3 Arts Entertainment",
+    "TIK Films",
+    "Hercules Film Fund",
+    "Allison Shearmur Productions",
+    "Creative Wealth Media Finance"
+  ],
+  "production_countries": [
+    "CA",
+    "HK",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Holland",
+        "character": "Todd Hewitt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yxYOaalFh8SUwNE5C0wzOwF89Ny.jpg"
+      },
+      {
+        "name": "Daisy Ridley",
+        "character": "Viola Eade",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iVboQmgPC3tYFjezBjrVECJRS8n.jpg"
+      },
+      {
+        "name": "Mads Mikkelsen",
+        "character": "Mayor David Prentiss",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ntwPvV4GKGGHO3I7LcHMwhXfsw9.jpg"
+      },
+      {
+        "name": "Demián Bichir",
+        "character": "Ben Moore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sw8TqPQLbMMgLbkNNUIW649THWJ.jpg"
+      },
+      {
+        "name": "David Oyelowo",
+        "character": "Aaron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7UZHRwOKe2cYxj8SeNUklyPYkns.jpg"
+      },
+      {
+        "name": "Kurt Sutter",
+        "character": "Cillian Boyd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A4c9xpj2VuZXGvSv6z1S912Xwnd.jpg"
+      },
+      {
+        "name": "Cynthia Erivo",
+        "character": "Hildy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4cpvSGrJg2hwddkTPMyDKj0c3O.jpg"
+      },
+      {
+        "name": "Bethany Anne Lind",
+        "character": "Karyssa Hewitt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d0FjeKbWYhbTzFSimCnC9K1Maza.jpg"
+      },
+      {
+        "name": "Nick Jonas",
+        "character": "Davy Prentiss Jr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o0BVIpLe8VnCkTuLsk5ObcQmRJr.jpg"
+      },
+      {
+        "name": "Ray McKinnon",
+        "character": "Matthew",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nZSmJVTSq2eEcE4FeEoKVNYUGM9.jpg"
+      },
+      {
+        "name": "Vincent Leclerc",
+        "character": "Daws",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sCNPUiSUQs1kfurlDXm8qgjQ8Mj.jpg"
+      },
+      {
+        "name": "Blane Crockarell",
+        "character": "Young Todd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tQZyyQefVrZIGcPsDhHUZmIhVTu.jpg"
+      },
+      {
+        "name": "François Gauthier",
+        "character": "Charlie",
+        "profile_path": ""
+      },
+      {
+        "name": "Tyrone Benskin",
+        "character": "Hammer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jJ4xLfwYsK2iDL1Ge8u2FvlKCb9.jpg"
+      },
+      {
+        "name": "Frank Fontaine",
+        "character": "Mr. Phelps",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2cycxGSFPgeNyKoL9v23ed3xA0A.jpg"
+      },
+      {
+        "name": "Don Jordan",
+        "character": "Tam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nWsmdxLaNCEj0GifyzjcyLlRjD9.jpg"
+      },
+      {
+        "name": "Patrick Garrow",
+        "character": "Ivan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gWu8E3zYnwBVa5zTZzQP3JO1uLI.jpg"
+      },
+      {
+        "name": "Mylène Dinh-Robic",
+        "character": "Julie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8CBK9R9haSKmnioCNmE3YAQROPL.jpg"
+      },
+      {
+        "name": "Julian Richings",
+        "character": "Gault",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Qf044hlSHjjoRngbI8h7txPNwU.jpg"
+      },
+      {
+        "name": "Tara Nicodemo",
+        "character": "Answer Camp Woman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b4AYwcUZlOdfKz4AwxL2qIX16DU.jpg"
+      },
+      {
+        "name": "Harrison Osterfield",
+        "character": "Farnbranch Man (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/G6yKGtIVqN7CcrXCe3jRQszUKj.jpg"
+      },
+      {
+        "name": "Yannick Lupien",
+        "character": "Fisherman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jad Saikali",
+        "character": "Whaler (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aRU9evDDDxiaiDFUHNEkrgpLxyT.jpg"
+      },
+      {
+        "name": "Marc Primeau",
+        "character": "Whaler (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Qt68UV4MCniXYECsmGF89cvdIi.jpg"
+      },
+      {
+        "name": "Michael Dyson",
+        "character": "Fisherman #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/21XmYBNJ8RyOwyaWxKibbcRcsQp.jpg"
+      },
+      {
+        "name": "Maxwell McCabe-Lokos",
+        "character": "Prentisstown Man #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c8iSpCzazK7A3LiFas7RWzDLMMV.jpg"
+      },
+      {
+        "name": "Stephen Eric McIntyre",
+        "character": "Prentisstown Man #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j8EbFxtlXk1cpXxoPjmdkICFMcM.jpg"
+      },
+      {
+        "name": "Peter Seaborn",
+        "character": "Caleb",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean Michel Paré",
+        "character": "Mayor Camp Man #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tU5YL4ekpCpOgUtGSGXkCJaTVvV.jpg"
+      },
+      {
+        "name": "Bryce Bruckbauer",
+        "character": "Young Davy (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Doug Liman",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kIT7NE6MDaiIrjPEbObXk4COFVa.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "based on novel or book",
+    "dystopia",
+    "post-apocalyptic future"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Two unlikely companions embark on a perilous adventure through the badlands of an unexplored planet as they try to escape a dangerous and disorienting reality where all thoughts are seen and heard by everyone.",
+    "In the not-too-distant future, Todd Hewitt (Tom Holland) discovers Viola (Daisy Ridley), a mysterious girl who crash lands on his planet, where all the women have disappeared and the men are afflicted by \"the Noise\" - a force that puts all their thoughts on display. In this dangerous landscape, Viola's life is threatened - and as Todd vows to protect her, he will have to discover his own inner power and unlock the planet's dark secrets. From the director of The Bourne Identity and Edge of Tomorrow and based on the best-selling novel The Knife of Never Letting Go, Daisy Ridley and Tom Holland star with Mads Mikkelsen, Demián Bichir, Cynthia Erivo, Nick Jonas, Kurt Sutter, and David Oyelowo in Chaos Walking.",
+    "In Prentisstown, Todd has been brought up to believe that the Spackle released a germ that killed all the women and unleashed Noise on the remaining men. After discovering a patch of silence out in the swamp, his surrogate parents immediately tell him that he has to run, leaving him with only a map of New World, a message, and many unanswered questions. He soon discovers the source of the silence: a girl, named Viola.—krmanirethnam"
+  ],
+  "synopsis": "In the year 2257 AD, the men of the planet New World have been afflicted with the Noise, a condition that causes everyone to see and hear each other's thoughts. The colonists were caught in a civil war with the native aliens which killed all of the women, but half of the men survived. Todd Hewitt (Tom Holland) lives in Prentisstown with his adoptive fathers, Ben (Demian Bichir) and Cillian Boyd (Kurt Sutter). Other residents include the preacher Aaron (David Oyelowo), the town's mayor David Prentiss (Mads Mikkelsen), and his son Davy (Nick Jonas). A spaceship that lost contact with the First Colony approaches New World; a scout ship is sent to investigate, but it crashes. One day, while Todd is working, he spots someone stealing and chases the thief only to come upon the ruins of the scout ship.He returns to the town and tries to keep quiet, but the other men hear and see his thoughts about the crashed ship; they head to investigate the ruins and sabotage some parts of it, but find no survivors. While Todd is alone, he meets Viola (Daisy Ridley), the only survivor of the crash. Todd is shocked to see she's a girl, as he has never seen one. The men from Prentisstown capture Viola; she is brought to the mayor's home where she's questioned, and Prentiss then explains to her what the Noise is and what has happened on their planet. While he goes out to speak to the men, Davy is charged to keep an eye on her, but he unwittingly toys with one of Viola's gadgets, which causes it to shoot sparks, helping Viola escape. Ben tells Todd about another village called Farbranch and says Viola will be safe there.Viola escapes on a motorcycle while Todd chases after her on one of the horses. Prentiss and the men arrive at the farm, demanding Viola back as they believe she is a spy. Cillian is killed by Davy, and Ben is forced to join them. Meanwhile, Todd catches up to Viola and the two begin a journey to Farbranch, accompanied by Todd's dog, Manchee. During the journey, Viola reveals to Todd that she's from a Colony Ship carrying over 4000 passengers and that her parents died during the journey to New World. Todd reveals he never even knew his real parents. When they encounter one of the native aliens, Todd tries to kill it, but Viola stops him as it doesn't appear to be dangerous. They arrive at Farbranch, which is inhabited by men, women and children; they are displeased to see Todd, as he is from Prentisstown.Todd discovers his mother's diary, but can't read it, so Viola reads it to him. It's then revealed that the women were not killed by the native aliens, as Prentiss claims, but by Prentiss and the men, angering Todd when he realizes that everything he was told was a lie. Prentiss and his men arrive, again demanding Viola. Ben tries to get Todd to surrender Viola, but Todd is mad at him for lying. Instead of capturing Viola, Ben uses an image of her to distract Prentiss and his men while Todd and Viola escape. Aaron chases them. They come upon a boat, and as they escape, Aaron kills Manchee, angering Todd.The next day, Viola and Todd arrive at the ruins of the first colony ship. They enter it and try to send a signal to the colony ship, but the satellite is damaged, so Todd goes to fix it. When Prentiss and his men arrive, Todd surrenders himself, as Prentiss is holding Ben hostage. Aaron goes inside to kill Viola, but she immolates him with one of her gadgets. Todd appears, but Prentiss shoots Ben. Todd goes to him and, unknown to Prentiss, gives him a knife. Todd engages Prentiss, but he uses illusions of himself to distract Todd. As he is about to strike Todd, Todd uses illusions of his mother and every woman, calling Prentiss a coward. Viola attacks Prentiss, who seemingly falls to his death. The colony ship appears in the sky, causing Davy and the remaining men of Prentisstown to flee.Todd wakes up in the colony ship's medical room, fully healed, and he and Viola head out to meet the other colonists.",
+  "imdb_score": 5.7
+}

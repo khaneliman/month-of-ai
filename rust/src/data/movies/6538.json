@@ -1,0 +1,604 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/lenFpoDZMlMvBWml8CF682x9NTQ.jpg",
+  "id": 6538,
+  "title": "Charlie Wilson's War",
+  "poster_path": "https://image.tmdb.org/t/p/w500/45FghqcdSYRWK7PsHUInaFPNd8l.jpg",
+  "release_date": "2007-12-19",
+  "vote_average": 6.537,
+  "vote_count": 1372,
+  "popularity": 21.606,
+  "overview": "The true story of Texas congressman Charlie Wilson's covert dealings in Afghanistan, where his efforts to assist rebels in their war with the Soviets had some unforeseen and long-reaching effects.",
+  "imdb_id": "tt0472062",
+  "budget": 75000000,
+  "homepage": "http://www.charliewilsonswar.net/",
+  "revenue": 119483446,
+  "runtime": 102,
+  "tagline": "When the world wasn't looking, he changed it forever.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    "Universal Pictures",
+    "Relativity Media",
+    "Participant",
+    "Playtone",
+    "MP Munich Pape Filmproductions"
+  ],
+  "production_countries": [
+    "DE",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Charlie Wilson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg"
+      },
+      {
+        "name": "Julia Roberts",
+        "character": "Joanne Herring",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AhQMyQ10kz5g8Y3Fp54GPhgDxQS.jpg"
+      },
+      {
+        "name": "Philip Seymour Hoffman",
+        "character": "Gust Avrakotos",
+        "profile_path": "https://image.tmdb.org/t/p/w185/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+      },
+      {
+        "name": "Amy Adams",
+        "character": "Bonnie Bach",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1bJUW9KPefhBfAS0UxbM05OL3lG.jpg"
+      },
+      {
+        "name": "Emily Blunt",
+        "character": "Jane Liddle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+      },
+      {
+        "name": "Om Puri",
+        "character": "President Zia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3xENmjr7CA8ACRViHnjOI5jPQUt.jpg"
+      },
+      {
+        "name": "Shiri Appleby",
+        "character": "Jailbait - Charlie's Angels",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nvH09LMnA8vBmmxHBmf79MtKHsc.jpg"
+      },
+      {
+        "name": "Rachel Nichols",
+        "character": "Suzanne - Charlie's Angels",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bMv117SLOJoseim6qvuHFc1gntZ.jpg"
+      },
+      {
+        "name": "Wynn Everett",
+        "character": "Receptionist - Charlie's Angel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hWLWcoqXumM9NY9vfByvQmmcFdb.jpg"
+      },
+      {
+        "name": "Jud Tylor",
+        "character": "Crystal Lee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/exlqQ10MmFzh7AzkV3FLtAxxACq.jpg"
+      },
+      {
+        "name": "John Slattery",
+        "character": "Cravely",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t1mhOQR8XwCqp7xArTy8FCENTsR.jpg"
+      },
+      {
+        "name": "Erick Avari",
+        "character": "Avi Perlman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aO53uKgLUCID9rCI0SRAIEdsIex.jpg"
+      },
+      {
+        "name": "Cyia Batten",
+        "character": "Stacey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2TiobUogQNtBGXYouC5gzHGiULf.jpg"
+      },
+      {
+        "name": "Denis O'Hare",
+        "character": "Harold Holt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zMim5sdMnyd2GFfPd9Jh59Vcog3.jpg"
+      },
+      {
+        "name": "Ned Beatty",
+        "character": "Doc Long",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j71jw78zrLkucqXraEpjb5EN6DN.jpg"
+      },
+      {
+        "name": "Ken Stott",
+        "character": "Zvi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qmmhRvSwfoJ7TOF5L6p2VMQQz3u.jpg"
+      },
+      {
+        "name": "Daniel Eric Gold",
+        "character": "Donnelly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aRLAcNmCQiMNnqPWRaVTlf7enxi.jpg"
+      },
+      {
+        "name": "Harry S. Murphy",
+        "character": "Congressional Committee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vYu99YRNKnd6WLAesL1uzV475Ei.jpg"
+      },
+      {
+        "name": "Enayat Delawary",
+        "character": "Doc Long's Translator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c9Xzhb5b62YCEbZ6ox9DdjJDS4I.jpg"
+      },
+      {
+        "name": "Peter Gerety",
+        "character": "Larry Liddle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sE9fH3OxrmDflTSM3ac4ALzCjpa.jpg"
+      },
+      {
+        "name": "Navid Negahban",
+        "character": "Refugee Camp Translator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cPsYncbHK7J76Sm4bc1rtgRh5qf.jpg"
+      },
+      {
+        "name": "P.J. Byrne",
+        "character": "Jim Van Wagenen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/shniQxLvKNvANyJy3hLG8Oo7fW7.jpg"
+      },
+      {
+        "name": "Mozhan Marnò",
+        "character": "Refugee Camp Translator #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s1LoPZVAzgGYuPXNNJv8mqoLMSe.jpg"
+      },
+      {
+        "name": "Michael Spellman",
+        "character": "Agent Patrick",
+        "profile_path": ""
+      },
+      {
+        "name": "Russell Edge",
+        "character": "Agent Wells",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hUhzOh4hkjXsV7oS3SDFHC6jZTT.jpg"
+      },
+      {
+        "name": "Christopher Denham",
+        "character": "Mike Vickers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ffPY0KrV5KP9Nuv27m3JQU6j3Tq.jpg"
+      },
+      {
+        "name": "Ron Fassler",
+        "character": "Mario",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zelw7e7YMCgdxbmvxrfOEoYV8gV.jpg"
+      },
+      {
+        "name": "Nazanin Boniadi",
+        "character": "Afghan Refugee Woman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ftBadbFBgRZJcWn9YfbPv8Btyg0.jpg"
+      },
+      {
+        "name": "Rizwan Manji",
+        "character": "Colonel Mahmood",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mBsLE1sDCWZXR9PWV8xptTpxkQc.jpg"
+      },
+      {
+        "name": "Tracy Phillips",
+        "character": "Belly dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/srbSWcB9MS88FAkMKzKDOhaG8b6.jpg"
+      },
+      {
+        "name": "Ali Olomi",
+        "character": "Injured Mujahadeen Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ucT2NgVay4DX6JxvaSUkT3LnOGA.jpg"
+      },
+      {
+        "name": "Mary-Bonner Baker",
+        "character": "Marla - Charlie's Angels",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rrlt8dmNgRIJbJpQH8f2CxVIjse.jpg"
+      },
+      {
+        "name": "Hilary Angelo",
+        "character": "Kelly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tvRt3k1ZG6BIN6fO8HgKAM4LWJQ.jpg"
+      },
+      {
+        "name": "Terry Bozeman",
+        "character": "CIA Award Presenter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zWECKQFCQolrTxpliu7dcV7NHJn.jpg"
+      },
+      {
+        "name": "Brian Markinson",
+        "character": "Paul Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/26fa857UrEU4aCMHVQbpvNOGuKv.jpg"
+      },
+      {
+        "name": "Kirby Mitchell",
+        "character": "Stoned Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4qUZtyWVPI4T2n5eALXBWdHKb3T.jpg"
+      },
+      {
+        "name": "Ed Regine",
+        "character": "Limo Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s5GIban5JFvE6a2p8IWnSc3nlNc.jpg"
+      },
+      {
+        "name": "Thomas Crawford",
+        "character": "Maintenance Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/evWOfbaQXyDsKELTVoqB29BsGdZ.jpg"
+      },
+      {
+        "name": "Joe Roland",
+        "character": "McGaffin",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrika Darbo",
+        "character": "Auctioneer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ywMqefWagC1bvwMd2X1vLXP6y66.jpg"
+      },
+      {
+        "name": "Carly Reeves",
+        "character": "Slave Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gSwk6z3LKFBWfTex79KPRgpF6G.jpg"
+      },
+      {
+        "name": "Salaheddine Ben Chegra",
+        "character": "Pakistani Steward",
+        "profile_path": ""
+      },
+      {
+        "name": "Faran Tahir",
+        "character": "Brigadier Rashid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dMsD7h6KiZ5dM0f9MegXUOKnqb0.jpg"
+      },
+      {
+        "name": "Maurice Sherbanee",
+        "character": "Refugee In Wheelchair",
+        "profile_path": ""
+      },
+      {
+        "name": "Salam Sangi",
+        "character": "Refugee Building Wall",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Saba",
+        "character": "Afghan Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Nadia Miller",
+        "character": "Afghan Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Michelle Arthur",
+        "character": "Refugee Camp Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cC6R8hK8FUH007zbZnMjypu8C2T.jpg"
+      },
+      {
+        "name": "Shila Ommi",
+        "character": "Refugee Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i9m2RGrANNxidj0bVKlSs0zHPNX.jpg"
+      },
+      {
+        "name": "Edward Hunt",
+        "character": "Embassy Marine",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Haley",
+        "character": "Embassy Official",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7E5JI9exPaGp5smJV1mNdK2Rq5w.jpg"
+      },
+      {
+        "name": "Joseph Sikora",
+        "character": "Chess Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xql9QZqU9povZhRIkuXym2FtoFq.jpg"
+      },
+      {
+        "name": "Gabriel Tigerman",
+        "character": "Chess Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rLDqD49cIj7B1BbWgBJUVBNEdUs.jpg"
+      },
+      {
+        "name": "Patrick Bentley",
+        "character": "Chess Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Marc Pelina",
+        "character": "Chess Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Aharon Ipalé",
+        "character": "Egyptian Defense Minister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/88AbwrXDOMraNzCuvu9HFOvJ5YX.jpg"
+      },
+      {
+        "name": "Mary Bailey",
+        "character": "Doc Long's Secretary",
+        "profile_path": ""
+      },
+      {
+        "name": "Trish Gallaher Glenn",
+        "character": "Joanne's Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Nancy Linehan Charles",
+        "character": "Mrs. Long",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v6VF5CPLzcLBzmEFZbZOpA4fb1D.jpg"
+      },
+      {
+        "name": "Daston Kalili",
+        "character": "Mujahideen Translator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kPcyffHZuJ3whGGwDjWmVz7JNNg.jpg"
+      },
+      {
+        "name": "Pasha D. Lychnikoff",
+        "character": "Russian Helicopter Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xftO8wDW9j4RBO91g9wWzDAAHbz.jpg"
+      },
+      {
+        "name": "Ilia Volok",
+        "character": "Russian Helicopter Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vkzEmYELgEsmbSJmh2RALnBYCR7.jpg"
+      },
+      {
+        "name": "Alex Lvovsky",
+        "character": "Russian Helicopter Pilot",
+        "profile_path": ""
+      },
+      {
+        "name": "Sammy Sheik",
+        "character": "Stinger Mujahideen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gQ67uMJsn8V8iSdC3XXFd4LjoCm.jpg"
+      },
+      {
+        "name": "Moneer Yaqubi",
+        "character": "Stinger Mujahideen",
+        "profile_path": ""
+      },
+      {
+        "name": "Gabriel Justice",
+        "character": "Stinger Mujahideen",
+        "profile_path": ""
+      },
+      {
+        "name": "Siyal Mohammad",
+        "character": "Stinger Presenter",
+        "profile_path": ""
+      },
+      {
+        "name": "Quill Roberts",
+        "character": "Stinger Presenter",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Jansen",
+        "character": "Congressional Committee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mMzX4hyysmZ5i8N0EGuwNq9tVfJ.jpg"
+      },
+      {
+        "name": "Spencer Garrett",
+        "character": "Congressional Committee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jJWISea4PvC9Mv5kWONAMKhEK7j.jpg"
+      },
+      {
+        "name": "Kevin Cooney",
+        "character": "Congressional Committee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iPhJ6276RTcdpyeuhi6U6y1p8Ci.jpg"
+      },
+      {
+        "name": "Erick Avari",
+        "character": "Ari Goldman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aO53uKgLUCID9rCI0SRAIEdsIex.jpg"
+      },
+      {
+        "name": "Yousuf Azami",
+        "character": "Work Relief Guy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oqNkMKmvDtmJIiU0c2oi6AYMDDN.jpg"
+      },
+      {
+        "name": "Anthony Azizi",
+        "character": "Orderly (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/99kIeqvCOvdPhyvogbpV9iYglAE.jpg"
+      },
+      {
+        "name": "Stephanie D'Abruzzo",
+        "character": "Las Vegas Showgirl / Charlie's Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/itU46YDRtGk4SCghM3Ai1SjeCrW.jpg"
+      },
+      {
+        "name": "Darren Dowler",
+        "character": "Congressman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "François Duhamel",
+        "character": "French Photographer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3N3pFKYflQxxo3b0aRXh8adwVIU.jpg"
+      },
+      {
+        "name": "David M. Edelstien",
+        "character": "Hotel Manager (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5IaDBfL2bThqJ9hVLM6uFbWdp8g.jpg"
+      },
+      {
+        "name": "Matthew Herington",
+        "character": "Afghan Refugee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yAZ5bcZJYly2OIBuggisKqOImH6.jpg"
+      },
+      {
+        "name": "Mueen Jahan Ahmad",
+        "character": "Bodyguard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jody Jaress",
+        "character": "VIP Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qMBT2qegPJaDJLzJHB0AbxfOkKt.jpg"
+      },
+      {
+        "name": "Alexander Kanellakos",
+        "character": "Texas Millionaire (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/miE3iaCIFm1kDmLZPe7PMn9WKzR.jpg"
+      },
+      {
+        "name": "Igor Korosec",
+        "character": "USSR Gunner 2 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jGaebGUnYCyR8HqJfg1H7Yu1577.jpg"
+      },
+      {
+        "name": "Richard Lawrence",
+        "character": "Senators Aide (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Lench",
+        "character": "Party Goer #1 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tucker Maloney",
+        "character": "CIA Operative (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "J. Patrick McCormack",
+        "character": "Senator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ambria Miscia",
+        "character": "Vegas Showgirl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kazu Nagahama",
+        "character": "Japanese Tourist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mara New",
+        "character": "Extra (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/LMmQrot6ZSKysCHaHeSDsqaACx.jpg"
+      },
+      {
+        "name": "Tom Ohmer",
+        "character": "Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pQqLdF1l7NcyR2NotbtDcDfJMKM.jpg"
+      },
+      {
+        "name": "Ron Ostrow",
+        "character": "Congressional Committee #5 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cNm2iTJisH7tZwazclvQz7MdNyB.jpg"
+      },
+      {
+        "name": "J. Woodward Palmer",
+        "character": "Bartender (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary Linda Phillips",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Rather",
+        "character": "Self (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rfydcLZmzv6LM5FdaQVaRKlToQA.jpg"
+      },
+      {
+        "name": "John Robert",
+        "character": "Congressional Committee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gubbi Sigurdsson",
+        "character": "Doc Long's Aide (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Cynthia Silver",
+        "character": "Charlie's Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Cassidy Smith",
+        "character": "Afghan Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicole Smolen",
+        "character": "Afghan Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Leo Solomon",
+        "character": "Freedom Fighter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rachel Style",
+        "character": "Blodgett - CIA Cafeteria Cashier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jackie Swanson",
+        "character": "Texas Socialite (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g1KOHjxel96XRpARmCZKiIMGwkK.jpg"
+      },
+      {
+        "name": "Shaun Toub",
+        "character": "Hassan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6fuJ9D50bYuMAhrlEgVqzgqF0LU.jpg"
+      },
+      {
+        "name": "Kyle Vogt",
+        "character": "Male Party Guest #4 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/15EYzMZvxJzvSGKPpO5kMEbDjnb.jpg"
+      },
+      {
+        "name": "Kurt Yaeger",
+        "character": "Afghani Refugee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mNHNZpibu7bu4Zz3w3JV2w81HJf.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Mike Nichols",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eJgJEVil7iOJ9sTAXLCVRKfeKKM.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "cia",
+    "helicopter",
+    "washington dc, usa",
+    "congress",
+    "cairo",
+    "alcohol",
+    "refugee camp",
+    "cold war",
+    "rocket launcher",
+    "ladykiller",
+    "jerusalem, israel",
+    "munition",
+    "pakistan",
+    "afghanistan war (2001- )",
+    "belly dancing",
+    "dollar",
+    "congressman",
+    "1980s"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A drama based on a Texas congressman Charlie Wilson's covert dealings in Afghanistan, where his efforts to assist rebels in their war with the Soviets have some unforeseen and long-reaching effects.",
+    "In the early 1980s, Charlie Wilson is a womanizing US congressional representative from Texas who seemed to be in the minor leagues, except for the fact that he is a member of two major foreign policy and covert-ops committees. However, prodded by his major conservative supporter, Houston Socialite Joanne Herring, Wilson learns about the plight the people are suffering in the brutal Soviet occupation of Afghanistan. With the help of the maverick CIA agent, Gustav \"Gust\" Avrakotos, Wilson dedicates his canny political efforts to supply the Afghan mujahideen with the weapons and support to defeat the Soviet Union. However, Charlie Wilson eventually learns that while military victory can be had, there are other consequences and prices to that fight that are ignored to everyone's sorrow.—Kenneth Chisholm (kchishol@rogers.com)",
+    "Congressman Charlie Wilson represents the second congressional district in Texas. For those few who know or know of him, he is seen as a lightweight congressman, who is more than willing to sell his votes in the house. As such, he has collected more IOUs than any other congressman. He is also an illicit drug user and womanizer, who staffs his office with attractive young women. He is able to get away with all this behavior since little scrutiny is placed on him because no one pays any attention to him. In 1980, he begins an interest in the Soviet occupation of Afghanistan after seeing network news reports and speaking to one of his women friends, the wealthy Joanne Herring, a right wing, fundamentalist Christian zealot. He is dismayed to learn that the US has no official policy on the Afghan situation, only supporting the Afghan side of the war - the mujahideen - with a meager $10 million. And within the CIA, there is only an unofficial and clandestine policy of wanting to bleed the Soviets at the expense of the Afghan people. Charlie wants to speak to a high ranking CIA official about the situation, but instead is sent Gust Avrakotos, a committed but disgruntled CIA operative working the Afghan file, whose appointment was not meant to be meritorious. Charlie and Gust end up working together on a covert mission toward the common goal of arming and training the mujahideen to defeat the Soviets. Gust works the strategic side within the CIA, and Charlie, calling in whatever favor he can, works the political and diplomatic side. Charlie's tasks are not easy as he has to bring together not only disparate but often hostile opposing political and religious forces to achieve his goal. Charlie learns that his personal life may come back to haunt him, and that winning the war may come with unexpected consequences.—Huggo",
+    "In the early 1980s, US Congressman Charlie Wilson (Hanks), Texas socialite Joanne Herring (Roberts) and CIA agent Gust Avrakotos (Hoffman) form an unlikely alliance to boost funding for Afghan freedom fighters in their war against invading Soviets. The trio's successful efforts to finance these covert operations contributes to the fall of the Soviet Union and the end of the Cold War."
+  ],
+  "synopsis": "In 1980, Congressman Charlie Wilson (Tom Hanks) is more interested in partying than legislating, frequently throwing huge galas and staffing his congressional office with young, attractive women. His social life eventually brings about a federal investigation into allegations of his cocaine use, conducted by then-federal prosecutor Rudy Giuliani as part of a larger investigation into congressional misconduct. The investigation results in no charge against Charlie.Back then, Charlie had seen a TV report that described the Soviet war in Afghanistan as a steppingstone a wider attack on the Arab nation states that controlled the oil supply of the world. The report concluded that if the Afghan Mujahideen are given arms support, they could win against the Soviets.\nCharlie at the time was involved in frivolous legislation like Department of Defense support to the Boy Scouts of America.\nAt office Charlie is surrounded by gorgeous looking women like his secretary Bonnie Bach (Amy Adams).Charlie finds that the CIA budget for covert operations against Soviets in Afghanistan is $5 million. He asks his staffer to double the budget.\nA friend and romantic interest, Joanne Herring (Julia Roberts), hears about Charlie doubling the budget for Afghanistan and encourages Charlie to do more to help the Afghan people, and persuades Charlie to visit the President of Pakistan Zia-Ul-Haq (Om Puri).\nCharlie sits on the Congressional committees for Defense, Pentagon, and the CIA, and oversees an unlimited budget for the 3 agencies needed to run a covert war. Joanne tells Charlie that the Soviets armor plated their gunships to resist the 12.7 mm rounds fired from guns supplied by America to Pakistan. America provided F-16s but no radar to help them aim accurately.\nJoanne wants Charlie to help run the war in Afghanistan properly by first calling it a war, and then deliver a crushing defeat to Soviets to eliminate Communism and end the cold war.The Pakistanis complain about the inadequate support of the U.S. to oppose the Soviet Union. The radars were not sold to Pakistan since they were already sold to Israel and American supported Israel more than Muslims. Zia also argues that all funding for the war should flow through Pakistan, as they have experience with this kind of war.\nThey insist that Charlie visit a major Pakistan-based Afghan refugee camp. (This and other Afghan scenes were filmed in Morocco.) Charlie is deeply moved by their misery and determination to fight but is frustrated by the regional CIA personnel's insistence on a low-key approach against the Soviet occupation of Afghanistan. Charlie returns home to lead an effort to substantially increase funding to the Mujahideen.\nCharlie sees that despite the atrocities, the Afghan people are determined to fight the Soviets.As part of this effort, Charlie befriends the maverick CIA operative Gust Avrakotos (Philip Seymour Hoffman).\nCIA director of European operations Henry Cravely (John Slattery) is Gust's boss. Gust has been with the agency for 24 years and is an expert of Europe, yet is assigned to Afghanistan, since he lacks the proper diplomatic skills. Henry is also against training foreign origin people as field agents, even though they can speak the local language a lot better, because their loyalty to American can be questionable. Henry and Gust do not see eye on eye on these topics.Gust tells Charlie that US is currently not trying to defeat the Soviets in Afghanistan, but only to bleed them out, much like what Vietnam did to the US. Gust says that US does not have a strategy.\nGust's understaffed Afghanistan group to find a better strategy, especially including a means to counter the Soviets' formidable Mi-24 helicopter gunship. This group was composed in part of members of the CIA's elite Special Activities Division, including a young paramilitary officer named Michael Vickers (Christopher Denham).Gust hires Israeli arms merchant Zvi Rafiah (Ken Stott) to supply arms to the Mujahideen and to make it look like that these are Soviet made weapons captured by the Afghans. Charlie manages to forge a covert partnership between Israel, Egypt, Pakistan, Saudi Arabia and Afghanistan to fight the Soviets. The largest stockpile of Soviet weapons, outside of the USSR is in Egypt.\nCharlie gets Joanne to use her Christian angle to convince Representative Doc Long (Ned Beatty), who is the head of the funding committee to commit US funds for the Afghan effort.As a result, Charlie's deft political bargaining for the necessary funding and Avrakotos' group's careful planning using those resources, such as supplying the guerrillas with FIM-92 Stinger missile launchers, turns the Soviet occupation into a deadly quagmire with their heavy fighting vehicles being destroyed at a crippling rate. The CIA's anti-communism budget evolves from $5 million to over $500 million (with the same amount matched by Saudi Arabia), startling several congressmen.This effort by Charlie ultimately evolves into a major portion of the U.S. foreign policy known as the Reagan Doctrine, under which the U.S. expanded assistance beyond just the Mujahideen and began also supporting other anti-communist resistance movements around the world. Charlie states that senior Pentagon official Michael Pillsbury persuaded President Ronald Reagan to provide the Stingers to the Afghans: \"Ironically, neither Gust nor Charlie was directly involved in the decision and claims any credit.\nThe Soviet eventually withdraw from Afghanistan.Charlie follows Gust's guidance to seek support for post-Soviet occupation Afghanistan but finds almost no enthusiasm in the U.S. government for even the modest measures he proposes.The film ends with Charlie receiving a major commendation for the support of the U.S. clandestine services, that led to the defeat of the Soviet army in Afghanistan. Just 13 years ago the Soviet army appeared to be invincible, and Charlie was commended for his efforts to win the cold war. Charlie helped make a dent into the formidable Soviet fighting machine.\nHis pride is tempered by his fears of what unintended consequences his secret efforts could yield in the future and the implications of U.S. disengagement from Afghanistan.",
+  "imdb_score": 7
+}

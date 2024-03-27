@@ -1,0 +1,238 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/5EEdDTV0IBxJ2J4jDUDvl076v7f.jpg",
+  "id": 59,
+  "title": "A History of Violence",
+  "poster_path": "https://image.tmdb.org/t/p/w500/A26rcvipOqptVs7i5uRmKicXRxE.jpg",
+  "release_date": "2005-09-23",
+  "vote_average": 7.166,
+  "vote_count": 3003,
+  "popularity": 24.988,
+  "overview": "An average family is thrust into the spotlight after the father commits a seemingly self-defense murder at his diner.",
+  "imdb_id": "tt0399146",
+  "budget": 32000000,
+  "homepage": "",
+  "revenue": 60740827,
+  "runtime": 96,
+  "tagline": "Tom Stall had the perfect life...until he became a hero.",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    "New Line Cinema",
+    "BenderSpink",
+    "Media I! Filmproduktion München & Company"
+  ],
+  "production_countries": [
+    "CA",
+    "DE",
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Viggo Mortensen",
+        "character": "Tom Stall / Joey Cusack",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+      },
+      {
+        "name": "Maria Bello",
+        "character": "Edie Stall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/it1f5mxiGIWO0DzTBfwtLTjphZb.jpg"
+      },
+      {
+        "name": "Ed Harris",
+        "character": "Carl Fogarty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ryF0KkljweLhPkQ70x6w3u9Qjjj.jpg"
+      },
+      {
+        "name": "William Hurt",
+        "character": "Richie Cusack",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j3mjmuHLBW4XQSw53C8Sh0Lh3ZQ.jpg"
+      },
+      {
+        "name": "Ashton Holmes",
+        "character": "Jack Stall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lJlIrsFSPilYbd4jIVa2hiCphP7.jpg"
+      },
+      {
+        "name": "Peter MacNeill",
+        "character": "Sheriff Sam Carney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Y2O97Awq5BUH3qfWL3EUveurqI.jpg"
+      },
+      {
+        "name": "Stephen McHattie",
+        "character": "Leland",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zqOwiEDXYM9AKQgHGJGeIp7QkPh.jpg"
+      },
+      {
+        "name": "Greg Bryk",
+        "character": "Billy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1I3SxKFvQSam6KOMT4j5f0nFxRg.jpg"
+      },
+      {
+        "name": "Kyle Schmid",
+        "character": "Bobby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bqT7iz2jzG32axBoQzMrAvLtppQ.jpg"
+      },
+      {
+        "name": "Sumela Kay",
+        "character": "Judy Danvers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6KWQvzyYkEbwIQD8BgHV4blkpsO.jpg"
+      },
+      {
+        "name": "Gerry Quigley",
+        "character": "Mick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nfnrdHOtFYhggXrpZvHF4CDAVdH.jpg"
+      },
+      {
+        "name": "Deborah Drakeford",
+        "character": "Charlotte",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Ars6IJvbWHboJn74cOz6F4eAoFu.jpg"
+      },
+      {
+        "name": "Heidi Hayes",
+        "character": "Sarah Stall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oHwvVFuKKqDD2w6KQv4KFqzbVXp.jpg"
+      },
+      {
+        "name": "Aidan Devine",
+        "character": "Charlie Roarke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3qrUCw73cAN0923x5jCxAiiSaJE.jpg"
+      },
+      {
+        "name": "Bill MacDonald",
+        "character": "Frank Mulligan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rxbAbufSIWNo8OJvK2BO4cvWC41.jpg"
+      },
+      {
+        "name": "Michelle McCree",
+        "character": "Jenny Wyeth",
+        "profile_path": ""
+      },
+      {
+        "name": "Ian Matthews",
+        "character": "Ruben",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rv0O0HP0PBF9kuh2gkobZFc1x7P.jpg"
+      },
+      {
+        "name": "R.D. Reid",
+        "character": "Pat",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x7uweLEXSJvTyfYt8lZ9kvBhZci.jpg"
+      },
+      {
+        "name": "Morgan Kelly",
+        "character": "Bobby's Buddy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/om4F7LSkwWUtfh0C1ZZEMYrgo6w.jpg"
+      },
+      {
+        "name": "Martha Reilly",
+        "character": "Shoe Saleswoman",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Barbeck",
+        "character": "Richie's Thug",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rpktsYSCTOxlOwOXfmQyoiAFgaU.jpg"
+      },
+      {
+        "name": "Bruce Beaton",
+        "character": "Richie's Thug",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qN8QlT4tC5nPZkLY68AhPGWfUxD.jpg"
+      },
+      {
+        "name": "Neven Pajkic",
+        "character": "Richie's Thug",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z8ZtenrxsOwXE7YbD9tVyq02DYH.jpg"
+      },
+      {
+        "name": "Brendan Connor",
+        "character": "Local TV Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Nick Antonacci",
+        "character": "Local TV Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "John Watson",
+        "character": "Baseball Coach",
+        "profile_path": ""
+      },
+      {
+        "name": "Don Allison",
+        "character": "TV Broadcaster",
+        "profile_path": ""
+      },
+      {
+        "name": "Brittany Payer",
+        "character": "Motel Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Mitch Boughs",
+        "character": "Kid in Diner",
+        "profile_path": ""
+      },
+      {
+        "name": "April Mullen",
+        "character": "Kid in Diner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kkpPBHkeKEa0CXsUEP11hOh6htk.jpg"
+      },
+      {
+        "name": "George King",
+        "character": "Hospital Well-Wisher",
+        "profile_path": ""
+      },
+      {
+        "name": "Shawn Campbell",
+        "character": "Orderly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Ig2HrGgaDIGGICjgZ7vwcYUH0H.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "David Cronenberg",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kLHnBnUomcH96PdLRBnuZUzRoY1.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "small town",
+    "robbery",
+    "indiana, usa",
+    "distrust",
+    "philadelphia, pennsylvania",
+    "dual identity",
+    "double life",
+    "fight",
+    "self-defense",
+    "marriage",
+    "diner",
+    "mistaken identity",
+    "based on comic",
+    "family relationships",
+    "irish mob",
+    "revenge",
+    "mobster",
+    "lawyer",
+    "attempted robbery",
+    "based on graphic novel",
+    "graphic violence"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A mild-mannered man becomes a local hero through an act of violence, which sets off repercussions that will shake his family to its very core.",
+    "Leading a happy and quiet life with his lawyer wife and their two children in the small town of Millbrook, Indiana, mild-mannered Tom Stall cherishes his simple, uneventful existence. However, their idyllic lifestyle is shattered when, one night, Tom saves his customers and friends in self-defence, foiling a vicious attempted robbery in his diner by two violent wanted criminals. Now, heralded as a local hero, Tom's life is changed overnight, attracting unwanted attention, and a national media feeding frenzy. Uncomfortable with his newfound celebrity, Tom tries to return to normalcy, only to find himself confronted by a mysterious man who arrives in town believing Tom is the man who wronged him in the past. More and more, as Tom and his family struggle to cope with their new reality and this case of mistaken identity, they have no other choice but to fight back and protect all that they hold dear. But, is there more to Tom than meets the eye? Does he have, indeed, a history of violence?—Nick Riganas",
+    "Tom Stall, a humble family man and owner of a popular neighborhood restaurant, lives a quiet but fulfilling existence in the Midwest. One night Tom foils a crime at his place of business and, to his chagrin, is plastered all over the news for his heroics. Following this, mysterious people follow the Stalls' every move, concerning Tom more than anyone else. As this situation is confronted, more lurks out over where all these occurrences have stemmed from compromising his marriage, family relationship and the main characters' former relations in the process.—balboa82",
+    "In Millowbrook, Indiana, the mild Tom Stall owns a family- owned diner and has a calm life with his beloved wife Edie, his teen-aged son Jack, and his little daughter Sarah. His life turns upside-down when her kills two cold-blooded killers in his dinerto protect his waitress, becoming a local hero and being shown in the front page of the local news and on TV. The next day, mobster Carl Fogarty comes to the town, calling him Joey Cusack and telling that he was a former hit man. When Carl and his men threaten his family, Tom defends them, and violence is released in a chain reaction.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "Tom Stall is a loving family man and well-respected citizen of a small Indiana town. But when two savage criminals show up at his diner, Tom is forced to take action and thwart the robbery attempt. Suddenly heralded as a hero who took the courage to stand up to crime, people look up to Tom as a man of high moral regard. But all that media attention has the likes of mobsters showing up at his doorstep, charging that Tom is someone else for whom they've been looking. Is it a case of mistaken identity, or does Tom have a history that no one knows about? Either way, someone's about to find out if there's a history of violence.—mystic80"
+  ],
+  "synopsis": "In the opening scene, we are introduced to two men, named Leland Jones and William 'Billy' Orser (Stephen McHattie and Greg Bryk), who exit their room in a quiet, rural motor court motel in what appears to be the USA Midwest. One says he's going to check out. The two men are unlikely traveling partners. Leland is over 50; Orser is in his 20s. Leland comes out of the motel office, and Orser asks him what took so long. Leland said he had a problem with the maid, but it's all fixed now. Leland asks for a drink but the jug is empty. He tells Orser to go into the motel office and fill it from their water cooler. Orser goes inside the office. There's a bloody hand print on the counter. The motel clerk is sitting in a chair, slumped backward, dead. The housekeeper is lying in a pool of blood on the floor. As Orser fills the jug, a young girl opens the door between the office and the managers residence, quivering with fright. Orser shushes her and calmly shoots her.In the next scene, we are introduced to Tom Stall (Viggo Mortensen), the owner of a small town diner, is married to Edie (Maria Bello), an attorney. They have two children, 16-year-old Jack (Ashton Holmes) and 10-year-old Sarah (Heidi Hayes). Tom and Edie are very deeply in love and dote on their children. Everybody in the diner knows each other and address each other by their first name. It appears to be a typical middle America small town.Jack is playing baseball at high school and catches a fly ball, ending the game and getting Bobby Singer (Kyle Schmid), a bully, out. In the locker room, Bobby tries to bully Jack into a fight. Jack talks his way out of Bobby's challenge with a sense of humor. Later that night, Bobby and a friend are driving around, obviously bored, looking for trouble. They spot Jack and his girlfriend, Judy Danvers (Sumela Kay) sitting on a corner smoking a joint. They decide to 'kick Jack's ass,' but they almost collide with a pickup truck. Bobby gives the finger to the people in the truck but quickly backs down when he sees the looks on their faces. Leland and Orser glare at the two high school students with a look that implies, \"You're about to make a big mistake.\" Orser rants about how he is \"sick of these damn Podunk towns and the damn Podunk's in them.\"Leland and Orser enter Tom Stall's diner at closing time. Leland calmly orders coffee and pie. Tom tells them they're closed. Leland loudly demands coffee in. Tom, always diplomatic, agrees. He tells the waitress, Charlotte (Deborah Drakeford), to go home. On her way out, Orser grabs her, forces her into a chair, and runs his hand over her breast. He orders her not to move. Tom assumes they want to rob him. He offers them all the cash in the register. Leland pulls his gun and says he knows the money is his, then tells Orser to kill Charlotte to show Tom they mean business.Leland is momentarily distracted when Orser attacks the waitress. Tom smashes the pot of hot coffee in his hand across Leland's face, knocking him to the floor and the pistol falls from his grip. Tom leaps over the counter and in one swift move, retrieves Leland's gun. Orser fires at Tom and misses. Tom shoots back, hitting Orser three times in his chest, and Orser falls through the window in the door. Leland crawls back and stabs Tom in the foot. Tom shoots Leland in the head, killing him instantly.The local media portray Tom as a hero. When they ask to interview him, he declines and goes to the hospital. His story is featured on the front page of the newspaper and on the local news. Tom's injury is minor and he limps for a few days.A day or two later, Tom is working at the cafe when three well-dressed men enter the cafe, crowded with well-wishers and customers. They are obviously not local. They sit at the counter and the man in charge, who wears a suit and dark sun glasses, asks for a cup of coffee. He calls Tom \"Joey\" several times, although Tom says he's got him confused with someone else. The man insists Tom is from Philly. The man clearly believes he knows Tom. Tom's wife, Edie, gets annoyed at their comments. She insists they order or leave. The leader hands Tom a hundred dollar bill and says, \"Now we're paying customers.\" When Edie threatens to call the police, the men leave.The men are driving on a rural road when a patrol car pulls them over. The sheriff, Sam Carney (Peter MacNeill), is a seasoned cop and looks like he means business, the three men, especially the leader, appear not the least bit fazed by his implied threats. \"We're tourists\" and \"Keep up the good work, officer,\" are the leader's replies.Later that day, Sam visits Tom and Edie to speak to them about the incident. Sam warns them that these three men are mob figures... organized crime from the east coast. He called some police contacts in Philadelphia as well in the FBI, but he couldn't get any information or find any criminal record on Joey Cusack (the name they called Tom)... but there is a Richard 'Richie' Cusack in Philly... the leader of an Irish-American crime family based in Philadelphia which the three men are connected to.However, these men have just begun to stalk Tom and his family. A few days later, after Tom sees their car going in the direction of his house, he limps back to his house and, huffing and puffing, runs in and grabs his shotgun only to find that nobody is coming.Another day later, Edie is shopping at a local mall when her daughter runs off. In going after her, Edie runs into Carl Fogarty (Ed Harris), the leader of the men, who casually begins talking to Edie, claiming that her husband is not who he claims to be. Edie defends Tom, and Fogarty simply suggests that she ask Tom about Richie Cusack, who Fogarty says is Tom's brother... and to ask Tom, \"How come... he's so good... at killing people.\"Meanwhile on that same day, Tom's son, Jack, gets confronted by Bobby again and is unable to walk away. Enraged at the continued taunts, Jack suddenly proceeds to seriously beat down Bobby and his buddy, putting Bobby in the hospital. (We now see that Tom and his son can be capable of serious damage if they are pushed far enough.)Tom and Jack argue over the incident after Jack returns home, and Jack makes a snide remark over Tom's shooting the two killers. Tom slaps Jack, who runs out of the house.A while later, Tom sees Fogarty's car pull up to his house. They suggest he needs to put down his shotgun and come with them. When Tom says no, one of the men step out of the car holding Jack. Fogarty makes it clear that he knows who Tom really is and that Tom has no choice but to get into the car and drive back to Philadelphia to \"see some people.\" Tom is forced to put down his weapon and the men release Jack who runs into the house. When the men tell Tom to get in the car, Tom suggests: \"it would be better if you just leave.\"One of the men points a gun at Tom's head. Edie watches from the second story window and sees Tom grab the man's arm, break it, strike the man's nose upward repeatedly with his palm, and shoot the other man with two rounds in the man's chest. It's apparent Tom knows how to use a weapon and his hands with lethal intent. Fogarty shoots Tom, wounding him in the shoulder, and Tom loses the pistol in his hand. Fogarty stands over the wounded Tom and angrily asks him if he has any last words before he kills him. Tom glares at Fogarty and says: \"I should have killed you back in Philly.\" Fogarty smiles, agreeing. Jack silently retrieves Tom's shotgun and before Fogarty can pull the trigger, Jack kills him. Tom looks at his son with a glare that suggests that Tom may have lived a different life \"back in Philadelphia.\" He takes the shotgun from Jack, but then suddenly hugs him in gratitude and to comfort him, as Jack begins to cry.That evening, Edie confronts Tom in his hospital bed, tearfully begging him to tell the truth and tells him that she witnessed him kill both of Fogarty's men with his bare hands like a professional fighter. Tom admits that he was in fact a teenage mob hit man named Joey Cusack, but he left the mob life many years ago after messing with Fogarty (who we later learn is a 'made man' above any type of harm from any crime family) and became a new man, Tom Stall. Tom claims that he used to kill, both for pleasure and for money.Although Edie is naturally horrified and angry at the revelation, she later defends Tom when Sam arrives at their house the next day to ask more questions about Fogarty, saying that these urban mob figures are extremely secretive men and they wouldn't have traveled so far away from Philadelphia and into the open unless they were sure they were looking for the right man. Tom is about to confess that he is Joey Cusack, but Edie suddenly steps and defends Tom still. Sam acquiesces and leaves (though he wiggles a finger in a way that shows he knows they're either lying or hiding something). After Sam leaves, Edie turns away from Tom in revulsion, slapping him and shouting, \"Fuck you, Joey!\" Tom/Joey pushes her down onto the staircase and they engage in a pretty intense sex scene that contrasts with their more playful/romantic lovemaking in an earlier scene.Later that night in bed, Tom is awakened by a phone call from Richie (William Hurt) himself. Richie makes an implied threat when he says, \"Are you gonna come see me, or do I have to come see you?\" Tom leaves his house at dawn and drives all day and night to Philadelphia and meets a young, rough looking guy in a bar. The man drives him to a large mansion where Tom meets a well dressed, confident man who appears very happy to see his little brother.After some small talk about Tom's new life, Richie begins telling Tom about the considerable, expensive trouble and loss of status within the mob caused by Joey's actions before he disappeared. Tom, who no longer wants any part of the mob life, asks Richie, \"Tell me what I have to do to make things right.\" Richie calmly replies, \"You could die, Joey,\" and turns around, so as not to watch the driver as he wraps a garrote around Tom's throat and tries to strangle him. Joey (Tom) anticipates his action and gets his hand inside the garrote. He launches backwards off Richie's desk with his foot and kills the driver and two other body guards with his bare hands. Richie tries to shoot Joey (Tom) but misses. Thinking that Joey has run out the front door, Richie follows him outside, gun drawn. Joey (Tom) kills the last body guard inside the house and locks Richie out. Richie gets his keys out to open the door when Joey (Tom) opens the door. He shoots Richie in the head.Tom drives home and finds his family beginning to eat dinner. Looking exhausted after being away for two days, he sits at the table. His daughter Sarah sets a place for him as Edie lowers her head and appears to be praying. Jack sits at the table with his parents and doesn't say a word. Finally Edie looks back up at Tom, tears starting to run down her face. Tom looks back at her with a grieved expression. Tom and Edie look at each other in a way that shows that their relationship has changed, but there is still hope for them to remain together.",
+  "imdb_score": 7.4
+}

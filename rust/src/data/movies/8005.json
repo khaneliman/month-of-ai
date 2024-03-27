@@ -1,0 +1,353 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/xFhpZ9UDUGXu52lCHdN39PIooRt.jpg",
+  "id": 8005,
+  "title": "Robin Hood: Men in Tights",
+  "poster_path": "https://image.tmdb.org/t/p/w500/woexOLEkUlYsPLLuZRK6LjZaF38.jpg",
+  "release_date": "1993-07-28",
+  "vote_average": 6.592,
+  "vote_count": 1938,
+  "popularity": 21.004,
+  "overview": "Robin Hood comes home after fighting in the Crusades to learn that the noble King Richard is in exile and that the despotic King John now rules England, with the help of the Sheriff of Rottingham. Robin Hood assembles a band of fellow patriots to do battle with King John and the Sheriff.",
+  "imdb_id": "tt0107977",
+  "budget": 20000000,
+  "homepage": "",
+  "revenue": 35739755,
+  "runtime": 104,
+  "tagline": "The legend had it coming...",
+  "genres": [
+    "Comedy"
+  ],
+  "production_companies": [
+    "Gaumont",
+    "Brooksfilms",
+    "20th Century Fox"
+  ],
+  "production_countries": [
+    "FR",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Cary Elwes",
+        "character": "Robin Hood",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9P0JD0LC4j3Y43s6TGM8rOqmbwb.jpg"
+      },
+      {
+        "name": "Richard Lewis",
+        "character": "Prince John",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cr688BUIVm9yLXB2fqwiYKt1f2J.jpg"
+      },
+      {
+        "name": "Roger Rees",
+        "character": "Sheriff of Rotingham",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qKWG7oxTL1JGzTzHLacsNLDAbNs.jpg"
+      },
+      {
+        "name": "Amy Yasbeck",
+        "character": "Maid Marian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wDd71vFKUMJutO3fZjY2Pw0HWb.jpg"
+      },
+      {
+        "name": "Dave Chappelle",
+        "character": "Ahchoo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8n64np7IAXbpQQJKxUncihJpq0G.jpg"
+      },
+      {
+        "name": "Isaac Hayes",
+        "character": "Asneeze",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bzrtYCYGSFcOYDS4obRqNZ0Br7d.jpg"
+      },
+      {
+        "name": "Mark Blankfield",
+        "character": "Blinkin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wnue13KKCtV8RMJ6FXXo1ZoeA1G.jpg"
+      },
+      {
+        "name": "Eric Allan Kramer",
+        "character": "Little John",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nqa9idbLT0AdhrIIu0o8bbxvoBk.jpg"
+      },
+      {
+        "name": "Matthew Porretta",
+        "character": "Will Scarlet O'Hara",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5b6uhwD4HuURgq6kvHEdz9SGZnp.jpg"
+      },
+      {
+        "name": "Megan Cavanagh",
+        "character": "Broomhilde",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bitalcVxjX8ThYaO6cKN4taodKD.jpg"
+      },
+      {
+        "name": "Patrick Stewart",
+        "character": "King Richard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3yExCGqCMfSOVVHdEYTJhXaTtFZ.jpg"
+      },
+      {
+        "name": "Tracey Ullman",
+        "character": "Latrine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cmug3uUXKBo9fhCcJk3pkgt1nvM.jpg"
+      },
+      {
+        "name": "Dom DeLuise",
+        "character": "Don Giovanni",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3k45LlomavX4f2f3FnjtKhjojuf.jpg"
+      },
+      {
+        "name": "Dick Van Patten",
+        "character": "The Abbot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hkFv87D7bGEDSw4PoJcEj8I2jRn.jpg"
+      },
+      {
+        "name": "Robert Ridgely",
+        "character": "The Hangman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9KXMqTrSeIxcW6hlCJZ6CTzNeMB.jpg"
+      },
+      {
+        "name": "Mel Brooks",
+        "character": "Rabbi Tuckman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c21qNcMJlHnRolfhQhZOVacjtwI.jpg"
+      },
+      {
+        "name": "Steve Tancora",
+        "character": "Filthy Luca",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Dimmick",
+        "character": "Dirty Ezio",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Noble",
+        "character": "Villager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/84Z71V0l5HCENx7cUkEBPcrRLJd.jpg"
+      },
+      {
+        "name": "Avery Schreiber",
+        "character": "Tax Assessor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kNRVYuvDhYinmCGOKIL4bIE6lHB.jpg"
+      },
+      {
+        "name": "Chuck McCann",
+        "character": "Villager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s3qNTQbRHRfbLd2rdtEl0Lmh2va.jpg"
+      },
+      {
+        "name": "Brian George",
+        "character": "Dungeon Maitre D'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mHjc58pfKkxtghhliPOnNz0SlcT.jpg"
+      },
+      {
+        "name": "Zitto Kazann",
+        "character": "Head Saracen Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Assad",
+        "character": "Assistant Saracen Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wg3oZpxOwbioal4IyvI1fbhTvI4.jpg"
+      },
+      {
+        "name": "Herman Poppe",
+        "character": "Sheriff's Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Clive Revill",
+        "character": "Fire Marshall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/29CSAUPz4gRFX4ZYFamKbZQwUDj.jpg"
+      },
+      {
+        "name": "Joe Baker",
+        "character": "Angry Villager",
+        "profile_path": ""
+      },
+      {
+        "name": "Carol Arthur",
+        "character": "Complaining Villager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4yaFsojiAjyySe24ORqdkBQ3ZBX.jpg"
+      },
+      {
+        "name": "Kelly Jones Gabriele",
+        "character": "Buxom Lass",
+        "profile_path": ""
+      },
+      {
+        "name": "Clement von Franckenstein",
+        "character": "Royal Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3MC0muNTGzt1zVN5EW49M55PFG5.jpg"
+      },
+      {
+        "name": "Corbin Allred",
+        "character": "Young Lad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kx3VVOVV4lKyoyjYHTiRCvOvOKM.jpg"
+      },
+      {
+        "name": "Chase Masterson",
+        "character": "Giggling Court Lady",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tCev4tcCGNBfGP03AadjWj1F5ZR.jpg"
+      },
+      {
+        "name": "Don Lewis",
+        "character": "Mime",
+        "profile_path": ""
+      },
+      {
+        "name": "Dante Henderson",
+        "character": "Sherwood Forest Rapper-Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Bryant Baldwin",
+        "character": "Sherwood Forest Rapper-Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tyce Diorio",
+        "character": "Merry Men Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f28DHt2BMy7Q3xYX3r7xsJVF219.jpg"
+      },
+      {
+        "name": "Nathan Prevost",
+        "character": "Merry Man Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ptEmEF5uK1u40SnvrSjOCN9XWWV.jpg"
+      },
+      {
+        "name": "Christopher D. Childers",
+        "character": "Merry Man Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Raymond Del Barrio",
+        "character": "Merry Men Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Malcolm Danare",
+        "character": "Inept Archer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uWmucINKfgQk5qX3tZxyf8oQibC.jpg"
+      },
+      {
+        "name": "Nick Jameson",
+        "character": "Inept Archer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rOvaOcNigOLPeZkAFipAwBEJQF6.jpg"
+      },
+      {
+        "name": "Peter Pitofsky",
+        "character": "Inept Archer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicholas Rempel",
+        "character": "Inept Archer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zuE2dJGNqIAydQmZ8CxdR1mCLW7.jpg"
+      },
+      {
+        "name": "Rudy De Luca",
+        "character": "Party Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/29rY1JSkJLMo9W2vMKyMBHDnP82.jpg"
+      },
+      {
+        "name": "Matthew Saks",
+        "character": "Party Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Brad Grunberg",
+        "character": "Wedding Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4ZBParqJyo1eJ1ti5QcnejP0ZJx.jpg"
+      },
+      {
+        "name": "Laurie Main",
+        "character": "Wedding Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k0a0ROBh2BuMShcDdNcZjOXQvoX.jpg"
+      },
+      {
+        "name": "Elaine Ballace",
+        "character": "Wedding Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "James Van Patten",
+        "character": "Villager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j21aUOz7QejMhlQYo89aSoyvMQS.jpg"
+      },
+      {
+        "name": "Patrick Brymer",
+        "character": "Villager",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Tanner",
+        "character": "Villager",
+        "profile_path": ""
+      },
+      {
+        "name": "Diana Chesney",
+        "character": "Villager",
+        "profile_path": ""
+      },
+      {
+        "name": "Ronny Graham",
+        "character": "Villager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tMMiUpC8QKFXZcdWtWpggjxA8B3.jpg"
+      },
+      {
+        "name": "David DeLuise",
+        "character": "Villager (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sVhASyuFr0sZeKzaO7q2kEiSSkg.jpg"
+      },
+      {
+        "name": "Debbie James",
+        "character": "Marian (singing voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3q4us6Y1PdArIIS2K6iKDPKJ84K.jpg"
+      },
+      {
+        "name": "Danny McBride",
+        "character": "Merry Man (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Hanala Sagal",
+        "character": "Village Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Storms",
+        "character": "Merry Man (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nW54oO1hlKEMcpWtpme7vR6foH3.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Mel Brooks",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c21qNcMJlHnRolfhQhZOVacjtwI.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "witch",
+    "tree house",
+    "robin hood",
+    "forest",
+    "taxes",
+    "parody",
+    "thief",
+    "breaking the fourth wall",
+    "spoof",
+    "arrow",
+    "tournament"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A spoof of Robin Hood in general, and Robin Hood: Prince of Thieves (1991) in particular.",
+    "Robin of Locksley, known as the most skilled archer of the land, has just returned to England after fighting in the Holy Crusades, where King Richard the Lionheart is also fighting. Robin finds that much of what he knew of England has gone to ruin, including his longtime family home having been taken away, all at the hands of the evil Prince John, Richard's brother who has assumed the throne in Richard's absence. Neurotic John is basically being controlled by the equally evil Sheriff of Rottingham, everything they do to fatten their own coffers at the expense of the commoners and peasants. As such, Robin recruits a band of merry men to help him battle Prince John and the Sheriff, they, who include: Blinkin, his blind longtime servant; Ahchoo, the misguided son of Asneeze, the man who helped him escape from prison while fighting in the Crusades; Little John, who seems to think that being called Little is only coincidental to the fact of he being a hulking man; and Little John's friend, Will Scarlet O'Hara, a master with daggers. In going to the palace, Robin falls in love at first sight with Marian of Bagelle, a maid of the court. Marian is looking for the man who has the figurative and literal key to unlock her heart (and private parts). The Sheriff has his own eyes on Marian, he who in turn is the object of desire of Latrine, a powerful hag of a sorceress of the court. Robin, and the Sheriff in particular, have a fight to the death mentality to achieve their end goals, which for both are protection of the throne for their trusted royal, and the heart and cherry of Maid Marian.—Huggo",
+    "After escaping death by the skin of his teeth while venturing with Kind Richard to the Crusades, noble Robin of Loxley returns to England. With the kingdom in disarray, at the mercy of Prince John and his wicked right-hand man, Sheriff of Rottingham, Robin, Little John, and the Merry Men in tights must take matters into their own hands, and rid the realm of the hideous usurper. As the forces of evil, led by Don Giovanni, plot to assassinate Robin during the crowd-pleasing archery tournament of the Spring Festival, graceful Maid Marian, too, is on a challenging quest for freedom. Can Robin teach Prince John a lesson, free the land, and in the process, find love?—Nick Riganas",
+    "The standard story of Robin Hood: Evil Prince John is oppressing the people while good King Richard is away on the Crusades. Robin steals from the tax collectors, wins an archery contest, defeats the Sheriff, and rescues Maid Marian. In this version, however, Mel Brooks adds his own personal touch, parodying traditional adventure movies, romance movies, and the whole idea of men running around the woods in tights.—Jean-Marc Rocher <rocher@fiberbit.net>"
+  ],
+  "synopsis": "Robin Hood, or Robin of Loxley (Cary Elwes), is captured during the Crusades and is imprisoned at Khalil Prison in Jerusalem. With the help of fellow inmate Asneeze (Isaac Hayes), who is in for jaywalking, he escapes and frees the other inmates. Robin is asked by Asneeze to find his son, Ahchoo (Dave Chappelle). Upon returning to England, he finds Ahchoo and discovers that Prince John (Richard Lewis) has assumed control while King Richard is away fighting in the Crusades.Unbeknownst to Richard, the prince is abusing his power. Robin's family home, Loxley Hall, has been repossessed by John's men. He vows to get it back before all his family's things are taken.\nRobin meets up with his family's blind servant, Blinkin (Mark Blankfield), along with the large and ignorant Little John (Eric Allan Kramer), and his friend Will Scarlet O'Hara (Matthew Porretta), whom he recruits to help regain his father's land and oust Prince John from the throne.On his quest, Robin also attracts the attention of Maid Marian (Amy Yasbeck), who wants to find the man who has the key to her heart (and chastity belt). While Robin is training an army, the spoonerism-spouting Sheriff of Rottingham, Mervyn (Roger Rees), hires the Mafioso Don Giovanni (Dom DeLuise) to assassinate Robin at the Spring Festival (with archery tournament). Maid Marian hears of the evil plot, and sneaks out of her castle to warn Robin, accompanied by her frumpy German Lady in Waiting Broomhilde (Megan Cavanagh). However, due to his pride, Robin cannot refuse a chance to participate in the tournament.At the archery tournament, a disguised Robin makes it to the final round, where he unmasks himself. He then makes his shot but loses to his opponent. Robin calls this situation absurd and pulls out a copy of the script to discover that he gets another shot. The Sheriff and Prince John then pull out their own copies and confirm this (much to their annoyance). After winning the tournament, Robin is arrested. Marian agrees to marry the Sheriff in exchange for Robin's life. The ceremony reveals the Sheriff's unimposing first name. Before she can say \"I do,\" the castle is attacked by the Men in Tights, led by Little John, Ahchoo, Blinkin, and Will. They quickly free Robin, and a battle ensues. However, Marian is carried off to the tower by the Sheriff, who wants to \"deflower\" her.Robin arrives and wins an intense sword-fight, missing his sheath and accidentally running the sheriff through. Then the witch Latrine (Tracey Ullman), Prince John's full-time cook and part-time adviser, saves him by giving him a magical lifesaver in exchange for agreeing to marry her.Robin and Marian are preparing to celebrate the victory in a special way when Broomhilde arrives, insisting they get married first. Before the ceremony can be completed by Rabbi Tuckman (Mel Brooks), they are interrupted by King Richard (Patrick Stewart), who has returned from the Crusades. He orders John to be taken away to the Tower of London and made part of the tour. He also announces that, due to the foul stench the prince has left over the kingdom, all the toilets are to be called \"Johns\".All being as it should be, Robin and Marian are married and Ahchoo is made the new sheriff of Rottingham. Everyone then exclaims \"An African American sheriff?\" Ahchoo then retorts, \"And why not? It worked in Blazing Saddles!\" When the night comes, Maid Marian's chastity belt will not open with his key, so Robin calls a locksmith.",
+  "imdb_score": 6.7
+}

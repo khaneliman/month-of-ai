@@ -1,0 +1,402 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/aGmkdYMadabH1rNpKVWtmT7rCGh.jpg",
+  "id": 11247,
+  "title": "A Cinderella Story",
+  "poster_path": "https://image.tmdb.org/t/p/w500/3d6Nu5c7BSo5BrH2xE1pnj3yNrc.jpg",
+  "release_date": "2004-07-16",
+  "vote_average": 6.5,
+  "vote_count": 3060,
+  "popularity": 35.843,
+  "overview": "Routinely exploited by her wicked stepmother, the downtrodden Samantha Montgomery is excited about the prospect of meeting her Internet beau at the school's Halloween dance.",
+  "imdb_id": "tt0356470",
+  "budget": 19000000,
+  "homepage": "https://www.warnerbros.com/movies/cinderella-story",
+  "revenue": 70067909,
+  "runtime": 95,
+  "tagline": "Once upon a time... can happen any time.",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Romance"
+  ],
+  "production_companies": [
+    "Dylan Sellers Productions",
+    "Gaylord Films",
+    "Clifford Werber Productions",
+    "Warner Bros. Pictures"
+  ],
+  "production_countries": [
+    "CA",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Hilary Duff",
+        "character": "Sam Montgomery",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y7kijupB4DgNDcYSkVoJOceOhU6.jpg"
+      },
+      {
+        "name": "Chad Michael Murray",
+        "character": "Austin Ames",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uX04loV7QcU17hbKzs8XPKQ45qY.jpg"
+      },
+      {
+        "name": "Jennifer Coolidge",
+        "character": "Fiona",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fU3MWqENdkD3Gkw59UtxB19cOD1.jpg"
+      },
+      {
+        "name": "Dan Byrd",
+        "character": "Carter Farrell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kUna0GNGKOjzIG7QhTYhvmAF57P.jpg"
+      },
+      {
+        "name": "Regina King",
+        "character": "Rhonda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fEIz0ljk9CBrp3AitM5nwjfoGVu.jpg"
+      },
+      {
+        "name": "Julie Gonzalo",
+        "character": "Shelby Cummings",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6clO3lFK6dn3lBXe8zZoRNPbERr.jpg"
+      },
+      {
+        "name": "Lin Shaye",
+        "character": "Mrs. Wells",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aL87Za52elH81zMiXQn5C7AXAeg.jpg"
+      },
+      {
+        "name": "Madeline Zima",
+        "character": "Brianna",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6hmUs5Q1EETapn32yKNt3c3i1sn.jpg"
+      },
+      {
+        "name": "Andrea Avery",
+        "character": "Gabriella",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pS8FLivKIZnPXP2txd2Kyy6kMXu.jpg"
+      },
+      {
+        "name": "Mary Pat Gleason",
+        "character": "Eleanor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zS07GnCViZj5XSHqjxqNcrIG9KC.jpg"
+      },
+      {
+        "name": "Paul Rodríguez",
+        "character": "Bobby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e6VaplhEMi8uh3xOl8PThkaAVI8.jpg"
+      },
+      {
+        "name": "Whip Hubley",
+        "character": "Sam's Dad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lqwleuUWQhLWMJ4ZvAdRGrXgvjT.jpg"
+      },
+      {
+        "name": "Kevin Kilner",
+        "character": "Austin's Dad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pG91obnUC7MSmvWTpWexbUEv6Wb.jpg"
+      },
+      {
+        "name": "Erica Hubbard",
+        "character": "Madison",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oeLNKlvxk8ufauxt3CTMhqjiibl.jpg"
+      },
+      {
+        "name": "Simon Helberg",
+        "character": "Terry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9tLEc6N4lImJX4FohLWHRHFbFXD.jpg"
+      },
+      {
+        "name": "Brad Bufanda",
+        "character": "David",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f3jrEU9BvIZFz7esdwr2r44hQDp.jpg"
+      },
+      {
+        "name": "J. D. Pardo",
+        "character": "Ryan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uS616imhPsa4kt8veloLGQffx6f.jpg"
+      },
+      {
+        "name": "Aimee-Lynn Chadwick",
+        "character": "D.J.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xKIyCsT8Qzwlwp8vaLnJlj0OTob.jpg"
+      },
+      {
+        "name": "Kady Cole",
+        "character": "Caitlyn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AjuRWjAiKJPIvgQi1ySp8poiwsf.jpg"
+      },
+      {
+        "name": "Hannah Robinson",
+        "character": "Young Sam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9mxMdE3ZqmnarW6kFEw1w7rSrCD.jpg"
+      },
+      {
+        "name": "Josh Prince",
+        "character": "Swim Coach",
+        "profile_path": ""
+      },
+      {
+        "name": "Art LaFleur",
+        "character": "Coach",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iCDhbcKVuvrIkS3LuwPkahTkEzS.jpg"
+      },
+      {
+        "name": "James Eckhouse",
+        "character": "Mr. Farrell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iGG7iSZ5sBrmgkT9IHg1ipZCzgq.jpg"
+      },
+      {
+        "name": "Jonathan Slavin",
+        "character": "Vernon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lAhQotSyyXMfZQ87KTZr2dtLTzi.jpg"
+      },
+      {
+        "name": "John Billingsley",
+        "character": "Mr. Rothman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uQzAvv4LUt57GBrYzDj5Ao1vhUT.jpg"
+      },
+      {
+        "name": "Lilli Babb",
+        "character": "Young Gabriella",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4AVl8JKRlw7naJeTCdPqeuytAdQ.jpg"
+      },
+      {
+        "name": "Carlie Westerman",
+        "character": "Young Brianna",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f1xD1pHqIfkN5NJdxrv55BWZxtk.jpg"
+      },
+      {
+        "name": "Mike Randleman",
+        "character": "Chuck",
+        "profile_path": ""
+      },
+      {
+        "name": "Christie Herring",
+        "character": "Bachelorette #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xNAN1LpN0ppGuvLTEMrgcFfRSzQ.jpg"
+      },
+      {
+        "name": "Lindsay Hollister",
+        "character": "Bachelorette #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uzrHigS961NZWADMoCQ39stLr0Y.jpg"
+      },
+      {
+        "name": "Taylor Hoover",
+        "character": "Beautiful Bachelorette",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r9tfkEiDZy7BrakQItbd36rXd7C.jpg"
+      },
+      {
+        "name": "Brittany Weber",
+        "character": "Bachelorette",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6CDC5w1rG0ogG7wANZH4mje2Qdp.jpg"
+      },
+      {
+        "name": "Darryl Sivad",
+        "character": "District Attorney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4quUKnn4LD0Xx5abjcZy3MbXivr.jpg"
+      },
+      {
+        "name": "Rita Bland",
+        "character": "Rollerskating Waitress #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v1shNVeojKWnkIgYMWeaeqXUyP8.jpg"
+      },
+      {
+        "name": "Keli Murphy",
+        "character": "Rollerskating Waitress #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/UIdV8O9Kpx1aKlRkOqC9noHtTy.jpg"
+      },
+      {
+        "name": "Alexis Raich",
+        "character": "Girl at Carwash",
+        "profile_path": ""
+      },
+      {
+        "name": "Sabin Rich",
+        "character": "Locker Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yRrciylhZj5wjFNvelIM5F5ipd0.jpg"
+      },
+      {
+        "name": "Sandra McCoy",
+        "character": "Cheerleader / Dancer #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/32bcJWeJDmkElMAYGwvOqTfu4B4.jpg"
+      },
+      {
+        "name": "Julianne Waters",
+        "character": "Cheerleader / Dancer #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Karen Elmore",
+        "character": "Cheerleader / Dancer #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7S08fPGHTlTkC6QnwfhW1g3ooZ0.jpg"
+      },
+      {
+        "name": "Stella Choe",
+        "character": "Cheerleader / Dancer #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w7VCH46vpGa6Mm01zNLkhEqmBuP.jpg"
+      },
+      {
+        "name": "Jessie Rice-Holiday",
+        "character": "Cheerleader / Dancer #5",
+        "profile_path": ""
+      },
+      {
+        "name": "Cricket Hamar",
+        "character": "Cheerleader / Dancer #6",
+        "profile_path": ""
+      },
+      {
+        "name": "Shannon Novak",
+        "character": "Cheerleader / Dancer #7",
+        "profile_path": ""
+      },
+      {
+        "name": "Oscar Orosco",
+        "character": "Fighting Frog Mascot",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Beitel",
+        "character": "Halloween Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kato Bonner",
+        "character": "Hallwoeen Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Carol Borjas",
+        "character": "Halloween Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Reshma Gajjar",
+        "character": "Halloween Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jUNegvA6N7xlGYAZI9dZ2ftAj6i.jpg"
+      },
+      {
+        "name": "Molly Gosline",
+        "character": "Halloween Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Hunter Hamilton",
+        "character": "Halloween Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/osVaa6WKz8eOq8VuPeXJgitd7Ha.jpg"
+      },
+      {
+        "name": "Richard Jackson",
+        "character": "Halloween Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Trey Knight",
+        "character": "Halloween Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Ritter",
+        "character": "Halloween Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cmBGQ99PzhDLrEjKsqoOSwaFl83.jpg"
+      },
+      {
+        "name": "Jenny Seeger",
+        "character": "Halloween Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Becca Sweitzer",
+        "character": "Halloween Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wW6Wtjg5OCOksrBwfGYxktY9yLc.jpg"
+      },
+      {
+        "name": "Melanie A. Gage",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jolene Riella",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Elle Beyer",
+        "character": "Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2gJQ7uPbBm7xaUD7to6M0ELw2pM.jpg"
+      },
+      {
+        "name": "Joe Jagatic",
+        "character": "Wedding Photographer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sDRNsPfMXgJ0w4wYvqfAeabd1Kg.jpg"
+      },
+      {
+        "name": "Lon Beyer",
+        "character": "Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Tarah Paige",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fDJv8kRK56bLmvsXz20sIchWWZ6.jpg"
+      },
+      {
+        "name": "Justin Rhoads",
+        "character": "Student in Bleachers",
+        "profile_path": ""
+      },
+      {
+        "name": "Danielle Riffenburgh",
+        "character": "Go-Go Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Rory Thost",
+        "character": "Young Carter Farrell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4IPC8eXKW8Q33atJKFdVeWErcGA.jpg"
+      },
+      {
+        "name": "John H. Tobin",
+        "character": "Dad at Carwash",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yocYOqgL21GcEBPOHyiQBdFMCFn.jpg"
+      },
+      {
+        "name": "Toni Wynne",
+        "character": "Kitty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q6v54Q6AZXukRX0PHh0O1p758ER.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Mark Rosman",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3KA9SpAAWfwUDlz0WcH938gHVsr.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "high school",
+    "work",
+    "jealousy",
+    "american football",
+    "stepmother",
+    "school party",
+    "orphan",
+    "disguise",
+    "teenage romance",
+    "stepsister",
+    "modern fairy tale"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "Routinely exploited by her wicked stepmother, the downtrodden Samantha Montgomery is excited about the prospect of meeting her Internet beau at the school's Halloween dance.",
+    "Samantha Montgomery (Hilary Duff) or \"Sam\", has a rough childhood with her father dying in an earthquake and a new stepmother with two awful daughters. But on the bright side, Sam has an awesome best friend named Carter (Dan Byrd) and an e-mail relationship with a guy named Nomad. One day, Sam gets an e-mail from her Nomad saying that he wants to meet her in the middle of the dance floor at their high school Halloween dance. She accepts the invitation and glides into the room wearing the best outfit ever. Her Nomad takes her outside where they share a romantic dance together and Sam realizes that her e-mail friend is the most popular guy in school, Austin Ames (Chad Michael Murray). She runs back to her stepmother's diner before she knows she went to the dance and drops her phone on the way. Austin finds it and starts a search for his Cinderella.—bella yeager",
+    "Samantha Montgomery (Hilary Duff), a teenager in California, is obliged to work as a janitor and dishwasher in the diner of her stepmother, Fiona (Jennifer Coolidge). After a cell phone mix-up, Sam begins an anonymous text-messaging and e-mail relationship with a boy. They agree to meet at a school dance, but when Samantha finds out that her secret pen pal is none other than Austin Ames (Chad Michael Murray), the cutest boy in school, she panics and looks for a way to make herself cooler.—Dynasti",
+    "Samantha \"Sam\" Montgomery once had a happy life with her kind, yet loving father, Hal Montgomery, who owns a popular diner. But her life changes when her father marries Fiona, a spoiled yet vain woman, who becomes her wicked step-mother. To make matters worse, Sam also has to put up with her vile step-sisters Brianna and Gabriella. One fateful night, Hal is killed during an earthquake in 1994, causing Sam to become heartbroken over losing her father. Eight years later, Sam is determined to escape her abusive step family by working at the diner, which is supposedly owned by Fiona, in order to make enough money to go to Princeton, her dream college. Sam's high school life is a living nightmare for her, she is constantly bullied by Shelby Cummings and her two friends and her only friend is Carter Farrell. Sam establishes a mysterious online relationship with Nomad, who is actually Austin Ames, a star quarterback at North Valley High, who also dreams of going to Princeton and he wants to escape his father's high expectations. Austin and Sam decide to meet each other in person at the Halloween Dance, but Fiona forbids Sam from attending the dance. Rhonda, Sam's mother figure and close friend, encourages Sam to go the Halloween Dance, so that she can meet Nomad in person. Sam finally meets her prince and the two share their first dance together. Before Sam can reveal her identity to Austin, she realizes that it's almost midnight and she must go back to the diner before Fiona finds out that she left, but she loses her cellphone. Austin finds Sam's cellphone and he becomes determined to find his princess. Will Austin finally have the courage to stand up to his father and be with the girl he loves? Will Sam finally get the happily ever after she rightfully deserves?—dawsonpersi",
+    "At eight-years-old, the blonde Samantha Montgomery (Hannah Robinson) lost her father to an earthquake, leaving her to live in an attic, while her stepmother Fiona (Jennifer Coolidge), and stepsisters, Gabriella (Andrea Avery Ray) and Brianna (Madeline Zima) take over her life. With popular kids Austin Ames (Chad Michael Murray), Shelby Cummings (Julie Gonzalo), and their crew, then her house family, the only escapes she has are the Diner Staff, her best friend Carter (Dan Byrd), and an on-line buddy, Nomad. They both go to North Valley High and dream of going to Princeton. They have a relationship that goes on through text messages and e-mails. He finally asks her to the Halloween dance, where they meet, and she finds out Austin Ames (Chad Michael Murray) is Nomad. Not knowing who his \"Cinderella\" is, he goes on one of the toughest quests ever, as Samantha's (Hilary Duff's) friends convince her to tell him. He finds out at a more than humiliating pep rally that Cincerella is \"Diner Girl\". She finally tells off her steps, and she manages to tell off Austin. At the end, they end up dating, going to Princeton, and she finds her dad's will, stating it leaves everything to Samantha. Happy Ever After? Who knows.—Kaylynn"
+  ],
+  "synopsis": "Samantha 'Sam' Montgomery (Hilary Duff) lived a semi-fairytale life with her widowed father when she was 8 years old in a suburb in California. Later, her father opened up a Diner named after him and fell in love with a woman named Fiona (Jennifer Coolidge) who he later married. One day, a falling support beam kills her father in the 1994 Northridge earthquake and leaves her with her plastic-surgery-salmon-eating-obsessed stepmother and her two cruel stepsisters Brianna (Madeline Zima) and Gabriella (Andrea Avery). 10 years later, Sam is a straight-A student enduring her uncaring stepmother's wrath, who turned her father's cafe into a girly hot-pink hot spot and forces her to work as a \"diner girl\". In addition to her family, Sam must deal with the \"popular\" girls at school, led by the lead cheerleader, Shelby (Julie Gonzalo) who, according to Carter (Dan Byrd) \"wants him so bad\". Sam confides in her best friend Carter and cyber-space, pen-pal, her \"secret admirer\" who wants to attend Princeton with her. What she doesn't know is that her secret admirer turns out to be Austin Ames (Chad Michael Murray), quarterback of the football team and the most popular boy at school who is currently dating Shelby.As they text each other back and forth, Austin (or, as he refers to himself in cyberspace, \"Nomad\") invites Sam to the Halloween Dance so they can meet face-to-face. Austin dumps Shelby a few hours before the dance. At the same time, Fiona forces Sam to work late at the diner that night until midnight. Carter, Rhonda (Regina King) - Sam's mentor and friend at the diner who also works there, and the other cafe employees help Sam get to the dance, masquerading as Cinderella in a mask and Rhonda's wedding dress. She meets Austin in the middle of the dance floor and is at first put off by the fact that her \"Nomad\" is Austin. He soon wins her over, and they move outside together. They play \"10 Questions\", Sam never revealing her identity, as they dance outside in a gazebo. However, Sam's cell phone alarm goes off 15 minutes before midnight, warning her to run back to the diner before she's caught, leaving Austin without Sam's real name. Austin and Sam, or Prince Charming and Cinderella are chosen as the Homecoming Prince and Princess but \"Cinderella is playing hard to get\". As Sam and Carter flee the dance, once Sam has managed to pull Carter (or Zorro who he went as) away from Shelby who he is kissing after he prevented David, one of Austin's friends, from making a move on her, Sam drops her cell phone and Austin picks it up, determined to find out who this \"Cinderella\" is.Sam goes to school the next day to find Austin performing a school-wide search for his Cinderella. Sam is still feeling uncomfortable about revealing herself to Austin, who in turn is still searching obsessively. One afternoon, Sam's stepsisters find her emails while snooping around on her computer. After unsuccessfully trying to pass themselves off as Cinderella to Austin, they end up showing the emails to Shelby and her friends. The stepsisters make her believe Sam stole Austin on purpose, so she puts together a cruel skit to perform at a football pep rally in order to humiliate Sam. The skit is performed in front of the whole school, as well as Austin's father who is present at the pep rally and has been pressuring Austin to attend college to play football at USC, his alma mater. Austin has never told his father he really wants to attend Princeton University.Hurt and humiliated, Sam goes back home and Fiona brings her a letter from Princeton saying that she wasn't accepted. This is, in actuality, a fake letter as Fiona and the stepsisters threw out the real letter from Princeton which said she was accepted (most likely so she wouldn't leave the diner). The next day, after Brianna and Gabriella slam the door so the guitar with Elvis on falls down, ripping off the wallpaper and exposing a quote that says \"Never let the fear of striking out, keep you from playing the game\" and blaming this on Sam, she reads this aloud and decides she has had enough of her step-family and their abusive treatment. She quits working at the diner, tells Fiona that \"she can mess with her hair, her nose, her face and even her dad's diner, but she's through messing with her\", and moves in with Rhonda. The night of the big football game, Sam storms into the boys locker room and confronts Austin, saying that she's fed up with his two different identities, one to her and one to his friends \"Waiting for you is like waiting for rain in this drought, useless and disappointing.\" In the last few moments of the game, as the game is about to start again and Austin is going to score the touchdown the North Valley Fighting Frogs need to go to the semi-finals of the State Championships, Austin sees Sam leaving and abandons the game, but as he is running off the pitch, his father grabs him and asks him what he is doing, throwing away his dream like that, to which Austin replies \"no dad, I'm throwing away yours\", and makes up with Sam and kisses her, at the very same time it starts raining.In the end, Sam finds her father's hidden will which leaves everything to her. She has Fiona taken for questioning by the district attorney for keeping it a secret when her signature was plainly on the document. The stepsisters manage to find Sam's real Princeton-acceptance letter in the garbage, where they'd \"filed\" it. Hal's Diner is finally restored to normal, and, after making a deal with the district attorney, Fiona, Brianna, and Gabriella are forced work at the diner to pay off their community service debts, under supervision from Rhonda. Carter gets a role in a commercial, which becomes a success, thus landing Carter, Shelby's interest, but he sees her for what she really is and rejects her for the school's radio presenter Astrid. The last scene is Sam and Austin sitting where at the start Sam is shown with her dad, and Austin is returning her phone. As a testament to the dance he starts attaching it to her ankle, which is how it was attached at the party, but she takes it before he can finish and they kiss then ride off to Princeton and their new future together.",
+  "imdb_score": 5.9
+}

@@ -1,0 +1,496 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/5b5HrewiViLWEdMR4dmbd7ajQ8Q.jpg",
+  "id": 163,
+  "title": "Ocean's Twelve",
+  "poster_path": "https://image.tmdb.org/t/p/w500/Ad55M8newGWemFWCsMAkxO3fDwl.jpg",
+  "release_date": "2004-12-09",
+  "vote_average": 6.565,
+  "vote_count": 6902,
+  "popularity": 34.789,
+  "overview": "Danny Ocean reunites with his old flame and the rest of his merry band of thieves in carrying out three huge heists in Rome, Paris and Amsterdam – but a Europol agent is hot on their heels.",
+  "imdb_id": "tt0349903",
+  "budget": 110000000,
+  "homepage": "http://oceans12.warnerbros.com/",
+  "revenue": 362744280,
+  "runtime": 125,
+  "tagline": "Twelve is the new eleven.",
+  "genres": [
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    "Village Roadshow Pictures",
+    "Jerry Weintraub Productions",
+    "Section Eight",
+    "WV Films III",
+    "Warner Bros. Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "George Clooney",
+        "character": "Danny Ocean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4s3wI0bqOP7K3hhcmKqV6m3GYiQ.jpg"
+      },
+      {
+        "name": "Brad Pitt",
+        "character": "Rusty Ryan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+      },
+      {
+        "name": "Matt Damon",
+        "character": "Linus Caldwell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
+      },
+      {
+        "name": "Catherine Zeta-Jones",
+        "character": "Isabel Lahiri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iwNMWV5OJjgZ2pPsNWzOKxZwmV7.jpg"
+      },
+      {
+        "name": "Andy García",
+        "character": "Terry Benedict",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aRooE4lECWf0YXd2NefeM4Wu4rn.jpg"
+      },
+      {
+        "name": "Don Cheadle",
+        "character": "Basher Tarr",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vPzvP0Qik5yHNf6dF2uqLH9HrX1.jpg"
+      },
+      {
+        "name": "Bernie Mac",
+        "character": "Frank Catton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bwMmpeu3whjhhaxt1UTCk7S5jmv.jpg"
+      },
+      {
+        "name": "Julia Roberts",
+        "character": "Tess Ocean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AhQMyQ10kz5g8Y3Fp54GPhgDxQS.jpg"
+      },
+      {
+        "name": "Casey Affleck",
+        "character": "Virgil Malloy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vD5MtCjHPHpmU9XNn74EPGMHT7o.jpg"
+      },
+      {
+        "name": "Scott Caan",
+        "character": "Turk Malloy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/67V8YrMglGzvuTOZGpqygDhNK1z.jpg"
+      },
+      {
+        "name": "Vincent Cassel",
+        "character": "François Toulour",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ykBEiVh6YQ9UmMAYUiQkZBH3VV4.jpg"
+      },
+      {
+        "name": "Eddie Jemison",
+        "character": "Livingston Dell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zGnEYsiIm4FUrujbDvMfQEivvnj.jpg"
+      },
+      {
+        "name": "Carl Reiner",
+        "character": "Saul Bloom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hNZNrwU2qysa2ijndIgkd6yjSCt.jpg"
+      },
+      {
+        "name": "Elliott Gould",
+        "character": "Reuben Tishkoff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ismZMvs8QxRR33OAVp9AKr3TokP.jpg"
+      },
+      {
+        "name": "Shaobo Qin",
+        "character": "The Amazing Yen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lACyYvn3U1CfDWoT4Ft0qI5CJA7.jpg"
+      },
+      {
+        "name": "Eddie Izzard",
+        "character": "Roman Nagel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/H8zar1LxJu5jgThl33z59g2iqO.jpg"
+      },
+      {
+        "name": "Jeroen Krabbé",
+        "character": "Van der Woude",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r26lZKUeLIaUt8DMotm4mdc4EaY.jpg"
+      },
+      {
+        "name": "Robbie Coltrane",
+        "character": "Matsui",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+      },
+      {
+        "name": "Cherry Jones",
+        "character": "Molly Star / Mrs. Caldwell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5K4wjw6XRA5at9eHpYZtc8erixt.jpg"
+      },
+      {
+        "name": "Candice Azzara",
+        "character": "Saul Bloom's Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4H5oacxmRVgqc2oGU9SmjRaOr1A.jpg"
+      },
+      {
+        "name": "Jared Harris",
+        "character": "Basher's Engineer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8GvXtLomIdCjROjlwKQYURKJwIq.jpg"
+      },
+      {
+        "name": "Ed Kross",
+        "character": "Bank Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/84djVs9K9bpj4MxCVbUMEZH9Ab9.jpg"
+      },
+      {
+        "name": "Anne Jacques",
+        "character": "Shop Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/114oAIgsoZrgIitUBsgs2ZsmBnI.jpg"
+      },
+      {
+        "name": "David Sontag",
+        "character": "Plainclothes Goon #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry Sontag",
+        "character": "Plainclothes Goon #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Don Tiffany",
+        "character": "House Painter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7F2iFTepN9TuxSrizmMFTsCZzbA.jpg"
+      },
+      {
+        "name": "Dina Connolly",
+        "character": "Virgil's Fiancée",
+        "profile_path": ""
+      },
+      {
+        "name": "Nelson Peltz",
+        "character": "Partygoer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u8NJ5M3mhQFOTuz47eT93oLtFqC.jpg"
+      },
+      {
+        "name": "Mini Anden",
+        "character": "Supermodel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rcj3F06hSX47Xui11KEfGSPuBgF.jpg"
+      },
+      {
+        "name": "Jennifer Liu",
+        "character": "Mani-pedi Woman #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Leah Zhang",
+        "character": "Mani-pedi Woman #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hN8xrmSWOokhUUSOy6th44RBY9z.jpg"
+      },
+      {
+        "name": "Craig Susser",
+        "character": "Men's Club Waiter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g8tZmDgPG4HB52YULdw6xABilJQ.jpg"
+      },
+      {
+        "name": "James Schneider",
+        "character": "Club Heckler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Kn6lOc3nbPtquKTYPZsTOArDhh.jpg"
+      },
+      {
+        "name": "Nerissa Tedesco",
+        "character": "Palm Reader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AdRMPw5z5msAiDqcJOGPmaBj7Vq.jpg"
+      },
+      {
+        "name": "Nichelle Hines",
+        "character": "Assistant Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hrlcvzTFbaiF9haxViKcALCrTiV.jpg"
+      },
+      {
+        "name": "Michael Van Der Heijden",
+        "character": "Funeral Priest",
+        "profile_path": ""
+      },
+      {
+        "name": "Johan Widerberg",
+        "character": "Johan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vzD8l02LjcF3AleiUNhtogOvHE9.jpg"
+      },
+      {
+        "name": "Jeroen Willems",
+        "character": "Paul",
+        "profile_path": "https://image.tmdb.org/t/p/w185/czHYyHIbuOBrL5pn2TNe64jkL1z.jpg"
+      },
+      {
+        "name": "Chris Tates",
+        "character": "Paul's Partner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/96RhxT8M6qmd90qMO8fNH4Vfo3m.jpg"
+      },
+      {
+        "name": "Michael Delano",
+        "character": "Casino Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A0fqmlno4d6nXwSco5pDafazmI.jpg"
+      },
+      {
+        "name": "David Lindsay",
+        "character": "Arsenal Bus Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Nasser Faris",
+        "character": "Frank's Jail Mate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i0zFVO7GjQqxiwrYljaQzhHKqjr.jpg"
+      },
+      {
+        "name": "Youma Diakite",
+        "character": "Toulour Woman #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xDvlOmg2GqpBeKRLoSQaeTJf7uD.jpg"
+      },
+      {
+        "name": "Andrea Buhl",
+        "character": "Toulour Woman #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Sylvia Kwon",
+        "character": "Toulour Woman #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Francesca Lancini",
+        "character": "Toulour Woman #4",
+        "profile_path": ""
+      },
+      {
+        "name": "Raquel Faria",
+        "character": "Toulour Woman #5",
+        "profile_path": ""
+      },
+      {
+        "name": "Elena Potapova",
+        "character": "Toulour Woman #6",
+        "profile_path": ""
+      },
+      {
+        "name": "Jessie Bell",
+        "character": "Toulour Woman #7",
+        "profile_path": ""
+      },
+      {
+        "name": "Anne-Solenne Hatte",
+        "character": "Toulour Woman #8",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oMgKC6wAuFhcWtnEG3rwl1NmhIF.jpg"
+      },
+      {
+        "name": "Denny Mendez",
+        "character": "Toulour Woman #9",
+        "profile_path": "https://image.tmdb.org/t/p/w185/88Uec8lMotZv5xSacOFPDo1qEbv.jpg"
+      },
+      {
+        "name": "Martina Stella",
+        "character": "Nagel's Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2r14C4NgZDiQkeyKxDSevbNuDIC.jpg"
+      },
+      {
+        "name": "Mattia Sbragia",
+        "character": "Commissario Giordano",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uQYa5QiHBMLZ0nAtnWEDMUwrTZa.jpg"
+      },
+      {
+        "name": "Carlo Antonazzo",
+        "character": "Security Advisor",
+        "profile_path": ""
+      },
+      {
+        "name": "Mingming Gao",
+        "character": "Chinese Mother",
+        "profile_path": ""
+      },
+      {
+        "name": "Amelie Kahn-Ackermann",
+        "character": "Chinese Daughter",
+        "profile_path": ""
+      },
+      {
+        "name": "Luciano Miele",
+        "character": "Hotel Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kGH7SjZ18wdq0ERtRNgojLKGLyq.jpg"
+      },
+      {
+        "name": "Antonio De Matteo",
+        "character": "Hotel Employee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aBr0LvEVVONzsUOoBB0rliqNLFf.jpg"
+      },
+      {
+        "name": "Ana Caterina Morariu",
+        "character": "Bruce Willis' Companion",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dmHvMO6j3aREHCdjlBiNPv54DQ9.jpg"
+      },
+      {
+        "name": "Adriano Giannini",
+        "character": "Museum Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kJiwMKAFUgHreid1ES0xrG8r5H0.jpg"
+      },
+      {
+        "name": "Giulio Magnolia",
+        "character": "Photographer",
+        "profile_path": ""
+      },
+      {
+        "name": "Marco Matronelli",
+        "character": "Photographer's Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1fcVSbtKVxTNc0yDnQK4N2XvNIt.jpg"
+      },
+      {
+        "name": "Scott L. Schwartz",
+        "character": "Bruiser",
+        "profile_path": "https://image.tmdb.org/t/p/w185/osZ4griKNjwe7zSee2xcV89qBcU.jpg"
+      },
+      {
+        "name": "Giselda Volodi",
+        "character": "Toulour's Butler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g3L1QiOln7NOOJcDuLNgDum23x9.jpg"
+      },
+      {
+        "name": "Mathieu Simonet",
+        "character": "Backpack Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y5eim4dwWhM1CeaO7Ih7aVQdyXu.jpg"
+      },
+      {
+        "name": "Karl A. Brown",
+        "character": "Train Security #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Marc Bodnar",
+        "character": "Train Security #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sbHlSfbqFwask6JtSgxzv6jPFzM.jpg"
+      },
+      {
+        "name": "Bruce Willis",
+        "character": "Bruce Willis (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/caX3KtMU42EP3VLRFFBwqIIrch5.jpg"
+      },
+      {
+        "name": "Albert Finney",
+        "character": "Gaspar LeMarc (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8WCFO9lMHel1bHVYl5lj8pYEw2s.jpg"
+      },
+      {
+        "name": "Topher Grace",
+        "character": "Topher Grace (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tgF5PeH4xwz32FjB80n5aFiuHX.jpg"
+      },
+      {
+        "name": "Jerry Weintraub",
+        "character": "Denny Shields (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4CXByDT1Zc4jicCwwqU01Qbs3WX.jpg"
+      },
+      {
+        "name": "Jonathan Avigdori",
+        "character": "Italian Policeman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7TBQdiIPB0Kkjuc4l7Xdw9O5D3p.jpg"
+      },
+      {
+        "name": "Keith Birkfeld",
+        "character": "Italian Policeman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Bonaventura",
+        "character": "Bar Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9GvSvS3wLVYmVyar1VDltxI1NVR.jpg"
+      },
+      {
+        "name": "Thomas D. Craven",
+        "character": "Bar Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sue Durso",
+        "character": "Commuter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Antonella Elia",
+        "character": "Arrested Woman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nYTgsq1HMgsxoc1LCyyZVAJ3iXY.jpg"
+      },
+      {
+        "name": "Rebecca Engel",
+        "character": "Girl in Casino (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Vince Lauria",
+        "character": "Casino Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nikki Taylor Melton",
+        "character": "Girl in Park (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Carla Mori",
+        "character": "Photographer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Roberta Potrich",
+        "character": "Fan (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rik Sinkeldam",
+        "character": "Man on Bike (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e4Gj7bcEvYU4shddNDOtkIrpcgF.jpg"
+      },
+      {
+        "name": "Michelle Sleger",
+        "character": "Maid of Honor at Virgil's Dinner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mLYPAJKu0LDhPxDcLV25JYEIWGy.jpg"
+      },
+      {
+        "name": "Gian Franco Tordi",
+        "character": "Italian Secret Service (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v9TDrKgiLqNQM881PsD8vM8kaOC.jpg"
+      },
+      {
+        "name": "James Zahn",
+        "character": "Bartender (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rachel Zeskind",
+        "character": "Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ejZXFXWkaOm1BmsJeDNOOHJZPPI.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Steven Soderbergh",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2eJL4Eb9hyLwlgHX9IHRf5peIDm.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "rome, italy",
+    "sequel",
+    "heist",
+    "fabergé egg",
+    "golden egg",
+    "goon"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Daniel Ocean recruits one more team member so he can pull off three major European heists in this sequel to Ocean's Eleven (2001).",
+    "They pulled off one of the biggest heists ever and now they have another job to complete. Ocean's Eleven, which consisted off Danny Ocean (Clooney), Rusty Ryan (Pitt) and Linus Caldwell (Damon) and others, all thought they would be able to enjoy their money, but someone has other plans. Terry Benedict (Garcia) is still fuming after losing his money and wants it back. The team now have the job of getting all the money they spent back, or risk being thrown in jail. How are they going to get it all back? By pulling off another amazing plan.—Film_Fan",
+    "They say there is no honour among thieves, and three quiet years after the impossible, $150-million heist in Ocean's Eleven (2001), Danny Ocean and his team return to confront their old nemesis, Mr Benedict. This time, having tracked each of them down, the uncompromising casino owner demands his money back with interest, giving Danny's crew two short weeks to pay it back. But with Ocean's boys spending money like water and a mysterious new adversary always one step ahead of them, handing over Benedict's millions is easier said than done. And now, there is no turning back. Is twelve Ocean's new lucky number?—Nick Riganas",
+    "Set three years after \"Ocean's 11,\" this sequel shows us Danny Ocean gathering up his complete gang of con artists and thieves from the first film in New York City before they all jet off to Amsterdam, Rome, and Paris to pull off three separate heists. All the while, the boys must deal with increasing pressure from a very mad Terry Benedict, a dedicated Europol agent with a link to Rusty's past, and a mysterious French rival known as the \"Night Fox.\" Will Ocean's crew reach their full potential and become the greatest thieves the world has ever known, or will they fall victim to Benedict's revenge? All bets are off.—Ken Stauffer",
+    "Three years after pulling an impossible heist of a three-casino vault Daniel Ocean's Eleven plus wife Tess have been found and fingered by Terry Benedict. Mr. Benedict has promised the provider of the information to show restraint and give the clan two weeks to repay him with interest to the tune of over $190 million. Without a job that can provide that kind of pay off, the gang must accept the challenge of premier thief Francois Toulour to see who can steal a famous work of art first and claim the title of greatest thief ever.—FMJ_Joker"
+  ],
+  "synopsis": "Ocean's Eleven are living their lives separately off the fortunes of their Vegas casino heist. Terry Benedict (Andy Garcia), the owner of the three casinos, confronts each member of the team in turn, demanding the team return his money, with interest. Benedict gives the team 2 weeks to come up with original $160 MM plus $38 MM interest. They don't have enough and are short $97 MM which they must get in 14 days, or they are \"dead men\".Danny and the team decide to stage another heist to pay off the debt. Being too \"hot\" to work in the United States, they pick a European target: the world's oldest stock certificate, which was issued by the Dutch East India Company in 1602, worth around 2.5 million euros, and is kept in Amsterdam. The certificate is enough to extend their deadline. The group manages to breach the security around the certificate, in part by physically lifting the building to achieve line-of-sight. But a rival thief, the \"Night Fox\" (Vincent Cassel), beats them to the document and leaves a message for them.The Night Fox was trained by the legendary retired thief Gaspar LeMarque and believes himself to be the world's greatest thief. He is the one who revealed the identities of the 11 to Benedict. The Fox is incensed that his mentor, LeMarque, failed to correct a businessman who claimed that Danny was the best thief in the world. The Fox breaks \"rule # 1\" (revealing another thief's identity) in order to lure the team to Europe, where he can propose a challenge, since going after the same object is the only way to tell who the best thief is. Both Danny's group and the Night Fox will attempt to steal the famous Coronation Egg within a week; the first to succeed will be declared the better thief. If Danny's team wins, the Fox will pay off the team's debt to Benedict. With no other options, Danny accepts the challenge.A Europol detective, Agent Isabel Lahiri (Catherine Zeta-Jones), with a romantic link to Rusty, hears of the increased theft activity in Amsterdam. She forges her superior's signature on a request form in order to procure enough resources to track down the group. the group are captured, including Tess (Julia Roberts) masquerading as Julia Roberts, partially due to unintended interference from Bruce Willis (as himself). A U.S. official, actually Linus's mother in disguise, manages their extradition.Danny and Tess meet The Night Fox at Lake Como in Italy. At his home, the Night Fox delights in explaining how he was able to steal the egg by climbing to the roof of the Museum at dark without being detected by Danny's Recon squad. He passed through the laser grid, dances his way and avoids triggering the alarm. Danny then reveals the truth: the contest was over before it began, and the egg that the Fox stole was the fake. Danny and associate Rusty Ryan (Brad Pitt) had previously visited LeMarque and learned the location of the real egg which was transported in a military Khakhi bag instead of the armored car. LeMarque also warned Danny and Rusty to assume that the Night Fox would always have them under surveillance. Daniel wins & gets the money.It is not until the end that the viewers realize that LeMarque was actually the mastermind behind the entire operation. By deliberately making the Night Fox feel inferior to Ocean's group, he manipulates the Night Fox into entering the competition. This is \"the solution to all our problems\" that he alludes to in the meeting with Daniel and Rusty. The Night Fox is the mark, and Danny's team is essentially a pawn of LeMarque. Their task is to simply acquire the egg, and then get caught. This convinces the Night Fox that he has won, although the contest is just misdirection. Another goal of LeMarque is to be reunited with his daughter, Agent Lahiri, who had thought her father had died over a decade previously.Reuben then meets with Benedict to pay him honestly and in full. During their conversation the camera zooms in on the Night Fox in the background disguised as one of Terry Benedict's gardeners, implying that the Night Fox plans to rob Terry Benedict in order to prove himself once again and to get his money back.Isabel Lahiri joins Ocean's group in a get together afterward. She and Rusty are together again.",
+  "imdb_score": 6.5
+}

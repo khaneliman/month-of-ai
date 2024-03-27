@@ -1,0 +1,464 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+  "id": 505642,
+  "title": "Black Panther: Wakanda Forever",
+  "poster_path": "https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+  "release_date": "2022-11-09",
+  "vote_average": 7.1,
+  "vote_count": 5892,
+  "popularity": 143.838,
+  "overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+  "imdb_id": "tt9114286",
+  "budget": 250000000,
+  "homepage": "https://wakandaforevertickets.com",
+  "revenue": 859102154,
+  "runtime": 162,
+  "tagline": "Show them who we are.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Marvel Studios"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Letitia Wright",
+        "character": "Shuri / Black Panther",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f7PevpEeBqwzACPhoZ8K3ktrKvE.jpg"
+      },
+      {
+        "name": "Lupita Nyong'o",
+        "character": "Nakia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mJMpsADPpt0bmXEzs3ywrUiCkpD.jpg"
+      },
+      {
+        "name": "Danai Gurira",
+        "character": "Okoye",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z7H7QeQvr24vskGlANQhG43vozQ.jpg"
+      },
+      {
+        "name": "Winston Duke",
+        "character": "M'Baku",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pqwok07EgGGTCa80kmGQmb8ut8M.jpg"
+      },
+      {
+        "name": "Dominique Thorne",
+        "character": "Riri Williams / Ironheart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tuLlp79SfYc4mLzzjdC2ekLI7qd.jpg"
+      },
+      {
+        "name": "Tenoch Huerta Mejía",
+        "character": "Namor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x0Wy85CZu887ZQMWrjj4vVulczM.jpg"
+      },
+      {
+        "name": "Angela Bassett",
+        "character": "Ramonda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+      },
+      {
+        "name": "Florence Kasumba",
+        "character": "Ayo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v7armAbV6haib0fTl6ZktTUMRmg.jpg"
+      },
+      {
+        "name": "Michaela Coel",
+        "character": "Aneka",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rbN1F0R8DMUh6IYwl0owyD8LukN.jpg"
+      },
+      {
+        "name": "Mabel Cadena",
+        "character": "Namora",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z0kAf1LBESLPj4zUaXSngKH7cwg.jpg"
+      },
+      {
+        "name": "Lake Bell",
+        "character": "Dr. Graham",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tpBmxNKBebx04vQGnnQ3QNs6nvV.jpg"
+      },
+      {
+        "name": "Alex Livinalli",
+        "character": "Attuma",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qagXyIZI8oSfpNLuZRChFEwEvNo.jpg"
+      },
+      {
+        "name": "Robert John Burke",
+        "character": "Smitty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4uCjxK6QmPW98W56aCldwINSOcX.jpg"
+      },
+      {
+        "name": "Danny Sapani",
+        "character": "Border Tribe Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h6goTpKA74Z6ePB2BAEEyQnGtCF.jpg"
+      },
+      {
+        "name": "Isaach De Bankolé",
+        "character": "River Tribe Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aGjABQBgTA3tduuh54hzWx0aQ44.jpg"
+      },
+      {
+        "name": "Connie Chiume",
+        "character": "Zawavari",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3ET4rE2aAEyczhognWWi1rPAdWo.jpg"
+      },
+      {
+        "name": "Martin Freeman",
+        "character": "Everett Ross",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vhs7quOGDG2mtFHvL7Lu7rU2dED.jpg"
+      },
+      {
+        "name": "Julia Louis-Dreyfus",
+        "character": "Valentina Allegra de Fontaine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sXpjQoFoYqNehfWhlkScF8lo9vc.jpg"
+      },
+      {
+        "name": "Richard Schiff",
+        "character": "U.S. Secretary of State",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oFDka3Y5H3DBiZRqbdPabtX8ncP.jpg"
+      },
+      {
+        "name": "Michael B. Jordan",
+        "character": "N'Jadaka / Erik 'Killmonger' Stevens",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3EhMq9KKngojas9shTRjdCAqpav.jpg"
+      },
+      {
+        "name": "Dorothy Steel",
+        "character": "Merchant Tribe Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5KpjansHF7JUhozyWZhDTAsOjM9.jpg"
+      },
+      {
+        "name": "Zainab Jah",
+        "character": "Mining Tribe Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A5YstJLHjhCHWAk0os1D1TrYs1X.jpg"
+      },
+      {
+        "name": "Sope Aluko",
+        "character": "Sope the Shaman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dNfAM8jNgwa1693nuplfjp70Ls4.jpg"
+      },
+      {
+        "name": "Trevor Noah",
+        "character": "Griot (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aieKi9QnuEjBV2j46UR4NIIqa0K.jpg"
+      },
+      {
+        "name": "Shawn Roberts",
+        "character": "WDG Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vrA6GKTV7TuRHYlNFGLuqmCweBu.jpg"
+      },
+      {
+        "name": "Zola Williams",
+        "character": "Zola",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j1eJLQQbrfG4EZRFIgNuSsH6A8D.jpg"
+      },
+      {
+        "name": "Janeshia Adams-Ginyard",
+        "character": "Nomble",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j6Euv6cfgGxQhA7kf9MSenfB8Vl.jpg"
+      },
+      {
+        "name": "Jemini Powell",
+        "character": "Jemini",
+        "profile_path": ""
+      },
+      {
+        "name": "Marija Abney",
+        "character": "Dora Milaje",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t7hF4WRqEDMksYPSNRx3fxEN6GY.jpg"
+      },
+      {
+        "name": "Keisha Tucker",
+        "character": "Dora Milaje",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9oCv21QokGSj7yd5Sa4An9wsHQl.jpg"
+      },
+      {
+        "name": "Ivy Haralson",
+        "character": "Dora Milaje",
+        "profile_path": ""
+      },
+      {
+        "name": "Maya Macatumpag",
+        "character": "Dora Milaje",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dcUPeUKuq7rGegr8Xc6QSZhutbM.jpg"
+      },
+      {
+        "name": "Baaba Maal",
+        "character": "Funeral Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jabari Exum",
+        "character": "Drummer / Naval Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Massamba Diop",
+        "character": "Drummer",
+        "profile_path": ""
+      },
+      {
+        "name": "Magatte Saw",
+        "character": "Drummer",
+        "profile_path": ""
+      },
+      {
+        "name": "Gerardo Aldana",
+        "character": "Assembly Chairperson",
+        "profile_path": ""
+      },
+      {
+        "name": "Gigi Bermingham",
+        "character": "French Secretary of State",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7DuIm4IhGFadYYu5vXnfucFZXHO.jpg"
+      },
+      {
+        "name": "Rudolph Massanga",
+        "character": "Young Mali Technician",
+        "profile_path": ""
+      },
+      {
+        "name": "Judd Wild",
+        "character": "Jackson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6uHVZ7oYwJLb7IsxVm795mosY3F.jpg"
+      },
+      {
+        "name": "Amber Harrington",
+        "character": "Rita Salazar",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Blake Kruse",
+        "character": "Henderson",
+        "profile_path": ""
+      },
+      {
+        "name": "Justin James Boykin",
+        "character": "Cargo Ship Helo Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uKduJ7UggxShJSu9nsIxd4gxbC8.jpg"
+      },
+      {
+        "name": "Anderson Cooper",
+        "character": "Anderson Cooper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p2p0b6NSJb37DdCZSRtatva1Ob9.jpg"
+      },
+      {
+        "name": "Mackenro Alexander",
+        "character": "River Barrier Naval Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Kamaru Usman",
+        "character": "Naval Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qLb0Wkpy7uz7JFfKDMF7n3Ffqr4.jpg"
+      },
+      {
+        "name": "T. Love",
+        "character": "M'Bele",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cXSKpa4rts3r8AIqxP5MsRRTdYd.jpg"
+      },
+      {
+        "name": "Floyd Anthony Johns Jr.",
+        "character": "Jabari Warrior",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lC0PaMSccKZ8gkV9qihWbOtdqo0.jpg"
+      },
+      {
+        "name": "Jermaine Brantley",
+        "character": "Jabari Warrior",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9jSVLdZKKW9sX93xpPKFzqbL5dQ.jpg"
+      },
+      {
+        "name": "Granger Summerset II",
+        "character": "Jabari Warrior",
+        "profile_path": ""
+      },
+      {
+        "name": "Luke Lenza",
+        "character": "MIT Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Alan Wells",
+        "character": "Federal Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a1QXPDZ65zizago8UzV48JxAZUS.jpg"
+      },
+      {
+        "name": "Bill Barrett",
+        "character": "FBI Special Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Lieiry J. Perez Escalera",
+        "character": "Haitian School Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Sevyn Hill",
+        "character": "Haitian School Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Gavin Macon",
+        "character": "Haitian School Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Skylar Ebron",
+        "character": "Haitian School Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Taylor Holmes",
+        "character": "Haitian School Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Angela Cipra",
+        "character": "Talokanil Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Faya Madrid",
+        "character": "Talokanil Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "María Telón",
+        "character": "Female Mayan Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/usv2QPBLlmincUzjgNORJiFrauD.jpg"
+      },
+      {
+        "name": "María Mercedes Coroy",
+        "character": "Namor's Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l5QMYwvg7UefUxMrkMSc8Y1dIiN.jpg"
+      },
+      {
+        "name": "Josué Maychi",
+        "character": "Shaman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ud3Oirvolasnf1eCtSBdtJlvL4l.jpg"
+      },
+      {
+        "name": "Sal Lopez",
+        "character": "Yucatan Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8m7m6qGjYz8TD3NhP8hGfbhgL8f.jpg"
+      },
+      {
+        "name": "Irma Estella La Guerre",
+        "character": "Namor's Mother (Older)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sJJFfH2LqFXlaMaGipW2q8bblNa.jpg"
+      },
+      {
+        "name": "Manuel Chavez",
+        "character": "Young Namor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4ao1ogN1f80ig1HIZGy5ylWIXUT.jpg"
+      },
+      {
+        "name": "Leonardo Castro",
+        "character": "Hacienda Owner",
+        "profile_path": ""
+      },
+      {
+        "name": "Juan Carlos Cantu",
+        "character": "Friar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zg0zGiingVYY2MxAsj0nAazHYMA.jpg"
+      },
+      {
+        "name": "Shawntae Hughes",
+        "character": "Fisherman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7iASzSNsyyZ0CLAQqKNNsNU3Smz.jpg"
+      },
+      {
+        "name": "Corey Hibbert",
+        "character": "Terrified Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f7nt4UrgN01sJYaWK5w2aDcDiQK.jpg"
+      },
+      {
+        "name": "Zaiden James",
+        "character": "Wakandan Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Aba Arthur",
+        "character": "Naval Engineer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iSkqZ5NgyeIeHLxFTysqO6Vv2xr.jpg"
+      },
+      {
+        "name": "Délé Ogundiran",
+        "character": "Flower Shop Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7emkHGk1Brp98vhqgBUEJCztzDv.jpg"
+      },
+      {
+        "name": "Kevin Changaris",
+        "character": "Pete",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xH2SVCc3XaqMSvJxrovSiLP67H9.jpg"
+      },
+      {
+        "name": "Valerio Dorvillen",
+        "character": "Haitian Taxi Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Don Castor",
+        "character": "Haitian Taxi Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan González Collins",
+        "character": "Haitian Taxi Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Divine Love Konadu-Sun",
+        "character": "Toussaint",
+        "profile_path": "https://image.tmdb.org/t/p/w185/faRf9Iu3Y7MptDS8k7CiRqBe0BA.jpg"
+      },
+      {
+        "name": "Chadwick Boseman",
+        "character": "T'Challa / Black Panther (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nL16SKfyP1b7Hk6LsuWiqMfbdb8.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Ryan Coogler",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/40n61jOMzHpDSnzLBQOSEEWlxEw.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "hero",
+    "loss of loved one",
+    "superhero",
+    "royal family",
+    "based on comic",
+    "sequel",
+    "royalty",
+    "underwater",
+    "political intrigue ",
+    "death in family",
+    "mourning",
+    "death of brother",
+    "duringcreditsstinger",
+    "death of king",
+    "marvel cinematic universe (mcu)",
+    "hidden civilization",
+    "yucatan",
+    "mayans"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+    "Queen Ramonda, Shuri, M'Baku, Okoye and the Dora Milaje fight to protect the kingdom of Wakanda from intervening world powers in the wake of King T'Challa's death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for their nation.",
+    "The movie starts with Shuri trying to recreate the herb to save T'Challa s life as the herb creates Ramonda tells her that T'Challa passed away Shuri starts crying at a clearing a shaman is doing a ceremony for their beloved king and black panther a funeral is held and T'Challa s coffin is taken away by a fighter one year later Ramonda arrives at the United Nations were other countries are upset about VIBRANIUM spreading across the world the night before soldiers infiltrated a vibranium ship and they take a woman ship opens a wall okoye appears and the Dora Milaje battle the soldiers Ramonda says the king is dead and that they will always strike Okoye brings the soldiers in the room and makes them kneel Ramonda says that Wakanda will always strike On the Atlantic Ocean a helicopter arrives in a ship we're vibranium is created two people go underwater and see that the engine is failing Talokans attack the ship and the crew is killed while some people escape on a helicopter but Namor pulls it and throws it in the water the next day Ramonda is watching the news where they talk about her meeting and T'Challa passing away Okoye arrives in Shuri s lab where Shuri is working her mother tells her to recreate the herb but Shuri says black panther is old news Ramonda says that today was the day when T'Challa passed away and invites Shuri to a memorial later that night Shuri and Ramonda speak about T'Challa and Ramonda burns her clothes but Shuri dosent but Namor appears to warn them that a scientist attacked a ship holding vibranium Namor tells them to find the scientist or he will attack Wakanda the next day at a council meeting M'Baku comes and says that they should kill Namor Ramonda says that Okoye should go undercover and find the scientist",
+    "Following the untimely death of the fierce Black Panther (2018), grieving Queen Ramonda and noble Princess Shuri struggle to find their feet in a world eager to strip Wakanda of its precious vibranium resources. But one year after the death of King T'Challa, the country faces yet another threat. This time, King Namor, the mutant leader of an unstoppable oceanic warrior race, is determined to protect the hidden underwater kingdom of Talokan from the surface world at all costs. And as the invaders' suffocating stranglehold tightens, Wakanda must prepare to fight--with or without its valiant defender.—Nick Riganas"
+  ],
+  "synopsis": "T'Challa (Chadwick Boseman), king of Wakanda, is dying from an unspecified terminal illness which his sister Shuri (Letitia Wright) (The princess of Wakanda who designs new technology for the nation) believes can be cured by the \"heart-shaped herb\". Shuri attempts to synthetically recreate the herb after it was destroyed by Erik Killmonger (Michael B. Jordan), but fails to do so before T'Challa dies.One year later, Wakanda is under pressure from other nations to share their Vibranium, with some parties attempting to steal it by force. Queen Ramonda (Angela Bassett) (The Sovereign Queen regnant of Wakanda who is grieving the death of her son T'Challa) implores Shuri to continue her research on the herb, hoping to create a new Black Panther that will defend Wakanda, but she refuses due to her belief that the Black Panther is a figure of the past.\nIn the Atlantic Ocean, the CIA and U.S. Navy SEALs utilize a Vibranium detector to locate a potential Vibranium deposit underwater. The expedition is killed by a group of blue-skinned, water-breathing super-humans led by Namor (Tenoch Huerta Mejía) (The king of Talokan, an ancient civilization of underwater dwelling people. Namor decides to get involved in the surface world after T'Challa publicly reveals the truth of Wakanda at the end of the first film, which consequently puts Talokan in \"jeopardy\", leading Namor and his people to \"take action to protect themselves\"), with the CIA believing Wakanda to be responsible.\nNamor confronts Ramonda and Shuri, easily bypassing Wakanda's advanced security. Blaming Wakanda for the Vibranium race, he gives them an ultimatum: deliver him the scientist responsible for the Vibranium detector, or he will attack Wakanda. Namor claims to have a massive army with incomparable strength.Shuri and Okoye (Danai Gurira) (The general of the Dora Milaje, Wakanda's all-female special forces) learn from CIA agent Everett K. Ross (Martin Freeman) that the scientist in question is MIT student Riri Williams (Dominique Thorne) (An MIT student and genius inventor from Chicago who creates a suit of armor that rivals the one built by Tony Stark / Iron Man) and arrive at the university to confront her. Shuri tells Everett that Wakanda had nothing to do with the attack on the mining expedition.\nThe group is pursued by the FBI and then by Namor's warriors, who defeat Okoye before taking Shuri and Williams underwater to meet Namor. Angered by Okoye's failure to protect Shuri, Ramonda strips her of her title as general of the Dora Milaje (and for siding with the KillMonger when he took over the throne of Wakanda) and seeks out Nakia (Lupita Nyong'o) (A former War Dog, an undercover spy for Wakanda, from the River Tribe), who has been living in Haiti since The BlipRamonda contacts Everett, but refuses to divulge that it was Namor who abducted Riri. Everett and the CIA believes that it was the Wakandans again.Namor shows Shuri his Vibranium-rich underwater kingdom of Talokan, which he has protected for centuries from discovery by the world. Namor says that he comes from the Yucatan peninsula. In 1571 AD, the Spanish conquistadors brought disease and war. Their shaman was given a vision of a different world, and led to a blue plant growing in a rock. The shaman takes the plant and grinds it into a paste, that is taken by all natives, including Namor's mother who was pregnant at the time. The plant took away their ability to breathe air, but gave them the ability to draw oxygen from water. Namor was born in the water and the plant gave him wings on his ankles and ears that pointed to the clouds. He was a mutant.\nNamor returned to bury his mother in her homeland and killed the European settlers. The Christian priest calls him a demon, a child without love, or Namor.\nNakia tracks down Shuri to the same spot where the shaman entered the water world for the first time.Bitter at the surface world for enslaving the Maya, Namor proposes an alliance with Wakanda against the rest of the world but threatens to destroy Wakanda if they refuse. Nakia helps Shuri and Williams escape, killing a Talokanil guard in the process, and Namor retaliates with an attack against Wakanda, during which Ramonda drowns while saving Williams. Namor vows to return with his full army in one week's time, and the citizens of Wakanda relocate to the Jabari mountains for their safety.\nMeanwhile, Ross is arrested by his ex-wife, CIA director Valentina Allegra De Fontaine (Julia Louis-Dreyfus), for secretly exchanging classified intelligence with the Wakandans.After Ramonda's funeral, Shuri uses a remnant of the herb that gave Namor's people their superhuman abilities to reconstruct the heart-shaped herb. She was able to do this with the bracelet that Namor gifted her, which contained the remnant of the plant that their Shaman had found in 1571 AD. Together Riri and Shuri figure out that Namor derives his strength from the water. He can be weakened if dried out.\nShe ingests it, gaining superhuman abilities (but going into cardiac arrest in the process) and meeting Killmonger in the Ancestral Plane, who urges her to seek revenge. Shuri dons a new Black Panther suit and is accepted by the other Wakandan tribes as the Black Panther. Despite M'Baku's (Winston Duke) (A powerful warrior and leader of Wakanda's mountain tribe, the Jabari) urges for peace, Shuri is determined to exact vengeance on Namor for Ramonda's death and orders an immediate counterattack on Talokan. Preparing for battle, with Ayo assuming the position of general of the Dora Milaje, Shuri bestows the Midnight Angel armor upon Okoye, who in turn recruits Dora Milaje member Aneka (Michaela Coel) (A Wakandan warrior and member of the Dora Milaje) to join her. Williams creates an Iron Man like powered exoskeleton to aid the Wakandans.Using a seafaring vessel, the Wakandans lure Namor and his warriors to the surface with another Vibranium detector as a battle ensues. Shuri traps Namor in a fighter aircraft, intending to dry him out and weaken him. The pair crash on a desert beach and fight. Shuri gains the upper hand, but has a vision of Ramonda and implores Namor to yield, offering him a peaceful alliance.\nNamor accepts, and the battle ends. Namor's cousin, Namora (Mabel Cadena), is upset at Namor's surrender, but he assures her that the new alliance will allow them to conquer the surface world one day. Williams returns to MIT, leaving her suit behind, while Okoye rescues Ross from captivity. Shuri plants more heart-shaped herbs to ensure the future of the Black Panther mantle. In Shuri's absence, M'Baku steps forward to challenge for the throne. Shuri visits Nakia in Haiti where she burns her funeral robe in accordance with Ramonda's wishes, allowing herself to finally grieve for T'Challa.In a mid-credits scene, Shuri learns that Nakia and T'Challa had a son named Toussaint, whom Nakia has been raising in secret. Toussaint reveals his Wakandan name is T'Challa.",
+  "imdb_score": 6.7
+}

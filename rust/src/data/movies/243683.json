@@ -1,0 +1,556 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/cFgHrvRjoRHOrtolzrJov7v4s54.jpg",
+  "id": 243683,
+  "title": "Step Up All In",
+  "poster_path": "https://image.tmdb.org/t/p/w500/hNJGTM4ovc32sWMA0HxYm3fvLrM.jpg",
+  "release_date": "2014-07-16",
+  "vote_average": 6.835,
+  "vote_count": 1866,
+  "popularity": 31.319,
+  "overview": "All-stars from the previous Step Up installments come together in glittering Las Vegas, battling for a victory that could define their dreams and their careers.",
+  "imdb_id": "tt2626350",
+  "budget": 45000000,
+  "homepage": "http://stepupmovie.com/",
+  "revenue": 86165646,
+  "runtime": 112,
+  "tagline": "Every Step Has Led To This",
+  "genres": [
+    "Romance",
+    "Drama",
+    "Music"
+  ],
+  "production_companies": [
+    "Summit Entertainment",
+    "Offspring Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Briana Evigan",
+        "character": "Andie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lEFVgJfDsoisq98zDQydarCLMlI.jpg"
+      },
+      {
+        "name": "Ryan Guzman",
+        "character": "Sean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/87saYOHLNaijt4P1nsZYDBt0kOD.jpg"
+      },
+      {
+        "name": "Chaton Anderson",
+        "character": "Sophie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/grYnb267K0M2vtKCpu0bYLNLLZw.jpg"
+      },
+      {
+        "name": "Stephen 'tWitch' Boss",
+        "character": "Jason",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2DjfxXDVK9ccXfZbvH0QNhXTQka.jpg"
+      },
+      {
+        "name": "Misha Gabriel",
+        "character": "Eddy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1vePzg2hdpNR9cdKLbzw9ZiL4KD.jpg"
+      },
+      {
+        "name": "Izabella Miko",
+        "character": "Alexa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uh3KbEyFrsYcwifxqtBWDk2wB00.jpg"
+      },
+      {
+        "name": "Alyson Stoner",
+        "character": "Camille",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xFRoIsR4XJ9QI8IIZfM9sVD8Qa4.jpg"
+      },
+      {
+        "name": "Adam Sevani",
+        "character": "Moose",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2GQdyHQG4aw0FOokajOr7Wvhpyl.jpg"
+      },
+      {
+        "name": "Christopher Scott",
+        "character": "Hair",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lns36CGr9csnSvDdDdnji62BUZE.jpg"
+      },
+      {
+        "name": "Luis Rosado",
+        "character": "Monster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ZviAsXxHTe3cSDKnSceqbkZQgU.jpg"
+      },
+      {
+        "name": "Parris Goebel",
+        "character": "Violet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eLFarZKqXlV64UE8fHQQ8bWbDDx.jpg"
+      },
+      {
+        "name": "Karin Konoval",
+        "character": "Ana",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5e8YyNQjWre2UbExYBlJ7zva934.jpg"
+      },
+      {
+        "name": "Frank Crudele",
+        "character": "Boris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/flYq1atbQpNZp2lWdKMEtP8uV9x.jpg"
+      },
+      {
+        "name": "Jay Brazeau",
+        "character": "Mr. McGowan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sfZmnOv1Nd6jqeks5QtsW2Co3uH.jpg"
+      },
+      {
+        "name": "Chadd Smith",
+        "character": "Vladd",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen Stevo Jones",
+        "character": "Jasper",
+        "profile_path": ""
+      },
+      {
+        "name": "Mari Koda",
+        "character": "Jenny Kido",
+        "profile_path": ""
+      },
+      {
+        "name": "David Shreibman",
+        "character": "Chad",
+        "profile_path": ""
+      },
+      {
+        "name": "Facundo Lombard",
+        "character": "Marcos Santiago",
+        "profile_path": ""
+      },
+      {
+        "name": "Martín Lombard",
+        "character": "Martin Santiago",
+        "profile_path": ""
+      },
+      {
+        "name": "Cyrus Spencer",
+        "character": "Gauge",
+        "profile_path": ""
+      },
+      {
+        "name": "Jaja Vankova",
+        "character": "Robot Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Jenny Dailey",
+        "character": "Grim Knight's Hot Twin #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Jayme Rae Dailey",
+        "character": "Grim Knight's Hot Twin #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Elizabeth Weinstein",
+        "character": "Casting Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Viv Leacock",
+        "character": "Bartender (Club)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zRskxRKD22lbFLiXWKexy4idqZm.jpg"
+      },
+      {
+        "name": "Leah Christ",
+        "character": "Model #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Fiona Vroom",
+        "character": "Assistant Stylist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lDQOOPQDBDjD0vFIhVcl65HFn0f.jpg"
+      },
+      {
+        "name": "Laura Soltis",
+        "character": "Stylist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6YsLqFYtCjUtF6EAgzhBkeemLgQ.jpg"
+      },
+      {
+        "name": "Anthony Joseph",
+        "character": "Bellman #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yFy2o6fmvhQT9hiswLC7KwIJ7zA.jpg"
+      },
+      {
+        "name": "Yoshiharu Hashimoto",
+        "character": "Kido's Uncle",
+        "profile_path": ""
+      },
+      {
+        "name": "Tae Helgeth",
+        "character": "Kid's Aunt",
+        "profile_path": ""
+      },
+      {
+        "name": "Fulvio Cecere",
+        "character": "Uncle (Pizza Place)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Jc4LeoA0ND0stFqDiPzBeQ9SXt.jpg"
+      },
+      {
+        "name": "Allie Meixner",
+        "character": "Dancing Bachelorette",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Newman",
+        "character": "Interviewer",
+        "profile_path": ""
+      },
+      {
+        "name": "Patricia Mayen-Salazar",
+        "character": "Maid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rcMnyw2JeB8wlRp2u4erdjpPHrr.jpg"
+      },
+      {
+        "name": "Graeme Duffy",
+        "character": "Ad Agency Executive #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/goVfm94sW0Seegygy7FWDZ6C2C7.jpg"
+      },
+      {
+        "name": "Jill Morrison",
+        "character": "Ad Agency Executive #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Uezsm9dqRikCWPWXsYhEUkgAyQ.jpg"
+      },
+      {
+        "name": "Christie Laing",
+        "character": "Hotel Executive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wmyje5oGIo9HJP6oST9CfsG3jYC.jpg"
+      },
+      {
+        "name": "Aason Nadjiwan",
+        "character": "Voodoo Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h9oZ31RFrcYM6Rt5yeKAVkQ0kIC.jpg"
+      },
+      {
+        "name": "Hayden Fong",
+        "character": "Voodoo Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Mackenzie Green",
+        "character": "Voodoo Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mHJvAXuNGlkuc9HMPl4PsmaFMBh.jpg"
+      },
+      {
+        "name": "Chelsee Albo",
+        "character": "Fire Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Carly Louth",
+        "character": "Fire Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Marc Inniss",
+        "character": "MOB Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/foMPMiQUuO7tFx1MzF2J0136gdT.jpg"
+      },
+      {
+        "name": "Nolan Padilla",
+        "character": "MOB Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Phillip Chbeeb",
+        "character": "MOB Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Bianca Brewton",
+        "character": "MOB Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Bellissimo",
+        "character": "MOB Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Josue Anthony",
+        "character": "MOB Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Brandy Lamkin",
+        "character": "MOB Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Brittny Sugarman",
+        "character": "MOB Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Celestina Aladekoba",
+        "character": "Celestina",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vzSaw247wxsUKYoQa647pUeMKaQ.jpg"
+      },
+      {
+        "name": "Brandon Shaw",
+        "character": "Grim Knight Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Emilio Dosal",
+        "character": "Grim Knight Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Comfort Fedoke",
+        "character": "Grim Knight Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fpeMw7Xv62Z3OpPS4i25KXVvPqo.jpg"
+      },
+      {
+        "name": "Kim Marko Germar",
+        "character": "Grim Knight Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Raymond Cham Jr.",
+        "character": "Grim Knight Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Aa1iTRyULrTT3JojHMS1fijc2D0.jpg"
+      },
+      {
+        "name": "Nicholas Stewart",
+        "character": "Grim Knight Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Gui DaSilva-Greene",
+        "character": "Grim Knight Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8scb1cYtbaGsrlVJ7szgIBjiuXE.jpg"
+      },
+      {
+        "name": "Jeffrey 'Machine' McCann",
+        "character": "Grim Knight Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jesse 'Casper' Brown",
+        "character": "Grim Knight Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Janick Arseneau",
+        "character": "Divine Intention Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Julie Dombrowski",
+        "character": "Divine Intention Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah Katie Holmes",
+        "character": "Divine Intention Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Erika Prevost",
+        "character": "Divine Intention Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lJ7IM3gFPLnQwemoGeywJbTDjjv.jpg"
+      },
+      {
+        "name": "Marina Bastarache",
+        "character": "Divine Intention Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k0zKF1kHZblEdD01GixK8UbLsxY.jpg"
+      },
+      {
+        "name": "Edith Collin-Marcoux",
+        "character": "Divine Intention Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrienne Chan",
+        "character": "Divine Intention Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tiger Kirchharz",
+        "character": "Sweet Beaches Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lorella Boccia",
+        "character": "Sweet Beaches Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kenny Mugisha",
+        "character": "Sweet Beaches Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Yang",
+        "character": "Sweet Beaches Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/445QyN4XtDAPXYX70fs532DHEjs.jpg"
+      },
+      {
+        "name": "Teya Wild",
+        "character": "Sweet Beaches Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hHQVY2FsbDLDjH9oWmhQC6b0hDk.jpg"
+      },
+      {
+        "name": "Lorena Liebman",
+        "character": "Blueprint Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicolas Begin",
+        "character": "Blueprint Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Derek Rice",
+        "character": "Blueprint Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ian Arcudi",
+        "character": "Blueprint Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yRJ3WjnNx2PNTySDr2bJFqkhqqW.jpg"
+      },
+      {
+        "name": "Saxon Fraser",
+        "character": "Blueprint Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Handy Yacinthe",
+        "character": "Blueprint Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Mecdy Jean-Pierre",
+        "character": "Blueprint Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Vincent Poirier",
+        "character": "Blueprint Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Axelle Munezero",
+        "character": "Blueprint Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Martine Bruneau",
+        "character": "Blueprint Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Marc-Antoine Millette",
+        "character": "Petronas Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Stéphane Charbonneau",
+        "character": "Petronas Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Olivier Blais",
+        "character": "Petronas Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Max Paradis",
+        "character": "Petronas Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Ardila",
+        "character": "Petronas Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Martel",
+        "character": "Tech-Stylz Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Mathieu Dumoulin",
+        "character": "Tech-Stylz Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Morrison",
+        "character": "Tech-Stylz Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Siller",
+        "character": "Tech-Stylz Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Dean Placzek",
+        "character": "Tech-Stylz Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lawrence Devera",
+        "character": "Poreotics Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Can Nguyen",
+        "character": "Poreotics Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Nguyen",
+        "character": "Poreotics Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Chad Mayate",
+        "character": "Poreotics Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Justin Valles",
+        "character": "Poreotics Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Fritz Coleman",
+        "character": "Voodoo Dancer",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Trish Sie",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wB8cnaVXGikYjoWhcyvcNf8wWi9.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "dance competition",
+    "street artist",
+    "woman director"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "All-stars from the previous Step Up installments come together in glittering Las Vegas, battling for a victory that could define their dreams and their careers.",
+    "Sean brings his dance crew known as The Mob to Los Angeles to try and make it. But they haven't had much luck, eventually the Mob decides it's time to go back to Miami but Sean decides to stay. He learns of a dance competition is Las Vegas wherein the winner will get a three year contract. Sean needs a new crew so he asks fellow dancer Moose for help. And Moose introduces him to Andie, another friend and dancer who got injured a few years ago and is now ready to get back in. He recruits some other friends and they head Las Vegas as LMNTRIX. When they get there, they discover that the Mob too is also there, which is very touchy for Sean.—rcs0411@yahoo.com",
+    "After months of failed auditions and no income, Sean's demotivated Mob votes to disband and return to Miami. Only Sean remains, stubbornly loyal to the dream of success. He accepts a menial job with free lodging as handyman at Mob mate Moose's grandfather Boris's ballroom dance school. He's impressed by their cool, classically schooled dance instructor Chad. Learning by Internet about a well-endowed national competition, Sean gets Moose, Chad and injury-recovered Andie, whom Moose introduced him too, to join his new LA crew and develop a new choreography. Arriving at the Las Vegas competition venue, they find among the competition as Florida candidate the remainder of Sean's original Mob.—KGF Vissers",
+    "Sean Asa and his crew, The Mob, are relocated from Miami, Florida to Los Angeles, are now trying to make a living from dancing, but are turned down at every audition. After being refused at another audition, the Mob visit a club where they are noticed and challenged to a dance battle by another crew, the Grim Knights. The Grim Knights win the battle and the Mob decides to pack up and leave Los Angeles and return to Miami, mostly because of financial difficulties, but also thinking there is nothing left for them and that they are not prepared for Los Angeles..",
+    "One of the most popular dance franchises in film history takes competition to astonishing new heights in Step Up: All In. Miami street dancer Sean Asa (Ryan Guzman) moves to Hollywood with visions of fame and fortune, only to discover the almost insurmountable odds of making it in the professional dance world. But when the new dance crew he forms with the beautiful and headstrong Andie West (Briana Evigan) reaches the final rounds of a high-stakes reality TV competition in glittering Las Vegas, he has a shot at finally making his dreams come true-if he can set aside old loyalties and long-time rivalries and just do what he loves most: dance.—iTunes"
+  ],
+  "synopsis": "",
+  "imdb_score": 5.9
+}

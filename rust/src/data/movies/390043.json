@@ -1,0 +1,335 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/7KsqfXDECZMryX1Rv4RKsT7SIjQ.jpg",
+  "id": 390043,
+  "title": "The Hitman's Bodyguard",
+  "poster_path": "https://image.tmdb.org/t/p/w500/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg",
+  "release_date": "2017-08-16",
+  "vote_average": 6.9,
+  "vote_count": 5867,
+  "popularity": 34.451,
+  "overview": "The world’s top bodyguard gets a new client, a hitman who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.",
+  "imdb_id": "tt1959563",
+  "budget": 30000000,
+  "homepage": "http://thehitmansbodyguard.movie",
+  "revenue": 176586701,
+  "runtime": 118,
+  "tagline": "Everyone's out to get them... If they don't kill each other first.",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "production_companies": [
+    "Campbell Grobman Films",
+    "East Light Media",
+    "Nu Boyana Film Studios",
+    "Tom de Mol Productions",
+    "Summit Entertainment",
+    "Millennium Media",
+    "Davis Films",
+    "Cristal Pictures"
+  ],
+  "production_countries": [
+    "BG",
+    "CA",
+    "FR",
+    "HK",
+    "NL",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Ryan Reynolds",
+        "character": "Michael Bryce",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4SYTH5FdB0dAORV98Nwg3llgVnY.jpg"
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "character": "Darius Kincaid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nCJJ3NVksYNxIzEHcyC1XziwPVj.jpg"
+      },
+      {
+        "name": "Gary Oldman",
+        "character": "Vladislav Dukhovich",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+      },
+      {
+        "name": "Salma Hayek Pinault",
+        "character": "Sonia Kincaid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xmZTcpha5Fk1xbvabjzhh8K4Jcy.jpg"
+      },
+      {
+        "name": "Richard E. Grant",
+        "character": "Seifert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pIwiAEX7LiOgnV7KehM3OVmuG1f.jpg"
+      },
+      {
+        "name": "Elodie Yung",
+        "character": "Amelia Roussel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aMMI81o7VcNGMapjL90f2VKiOD8.jpg"
+      },
+      {
+        "name": "Joaquim de Almeida",
+        "character": "Foucher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a4V9gZydtcObuiuiYlPU1grNmPL.jpg"
+      },
+      {
+        "name": "Kirsty Mitchell",
+        "character": "Rebecca Harr",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sZmpltTVexFkHlvFHgQkfWSafnZ.jpg"
+      },
+      {
+        "name": "Yuri Kolokolnikov",
+        "character": "Ivan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/77g4exFoU4FvCWoWVgn6aXR01rA.jpg"
+      },
+      {
+        "name": "Sam Hazeldine",
+        "character": "Garrett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zyt5yR8hXMA9ZcwtL0yDadwvi4m.jpg"
+      },
+      {
+        "name": "Mikhail Gorevoy",
+        "character": "Livitin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mcfNRdBj7QtPvoh10qfN12WOHKo.jpg"
+      },
+      {
+        "name": "Barry Atsma",
+        "character": "Moreno",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wF3rjcUsPRuj0eBciapt9NyZniv.jpg"
+      },
+      {
+        "name": "Georgie Glen",
+        "character": "ICC Lead Judge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/32GrDqIPkamanGNBTrQBd48Fv3e.jpg"
+      },
+      {
+        "name": "Tine Joustra",
+        "character": "Renata Casoria",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5cYQSgPfDD154Wg6tBR2Hb6NNm1.jpg"
+      },
+      {
+        "name": "Joséphine de la Baume",
+        "character": "Interpol Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r4IhMoiYFsLIFU1R5ilzFOlrEdO.jpg"
+      },
+      {
+        "name": "Rod Hallett",
+        "character": "Petr Asimov",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fkT2upFfvsJwacodbtDf0BX4chs.jpg"
+      },
+      {
+        "name": "Abbey Hoes",
+        "character": "Flowerstall Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rC5KMPd0EgIho629rSdlw2ejcIV.jpg"
+      },
+      {
+        "name": "Ori Pfeffer",
+        "character": "Vacklin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uUkL9Y9LJJJiiRUCK8yKaKZaXtc.jpg"
+      },
+      {
+        "name": "Lee Nicholas Harris",
+        "character": "CO19 Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9crQhkCT2HJnLKW8THeteZnTeEJ.jpg"
+      },
+      {
+        "name": "Nadia Konakchieva",
+        "character": "Mrs. Asimov",
+        "profile_path": ""
+      },
+      {
+        "name": "Noortje Herlaar",
+        "character": "ICC Court Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9UupimmSLCQ7uoLCg2wDOcmTjAJ.jpg"
+      },
+      {
+        "name": "Chris Brazier",
+        "character": "Garrett's Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rdqS43ScdbZKHleloRnZ2Uxcagx.jpg"
+      },
+      {
+        "name": "Alan McKenna",
+        "character": "Interpol Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kHnl8o3mhwLqqFws5TmVysQmgqy.jpg"
+      },
+      {
+        "name": "Donna Preston",
+        "character": "Sonia's Cell Mate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jfKsnFHetD3Le8J8Hp53ebo7evw.jpg"
+      },
+      {
+        "name": "Nikolay Stanoev",
+        "character": "Cashier",
+        "profile_path": ""
+      },
+      {
+        "name": "Renars Latkovskis",
+        "character": "Dukhovich Merc",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2pNeLg1VIXFtr9b2lwwBIPvkHAp.jpg"
+      },
+      {
+        "name": "Samantha Bolter",
+        "character": "Coventry Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1rV5emvIGgBy1AUY0U9wB7PkaOv.jpg"
+      },
+      {
+        "name": "Alexander Mercury",
+        "character": "Hacker Merc",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pz3zmiT79qnvGyPUsR6iZkBVf6W.jpg"
+      },
+      {
+        "name": "Russell De Rozario",
+        "character": "Nun Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cNlEMZk6gmDOCtT75DrEbrYhpp5.jpg"
+      },
+      {
+        "name": "Antoin Cox",
+        "character": "Amsterdam Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x8eFtfGvebyeYnNUSVcv8wiF7cf.jpg"
+      },
+      {
+        "name": "Nicolas de Pruyssenaere",
+        "character": "Dutch Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oLQ8FbKjLK7W9HI7YBRtGWJFKHs.jpg"
+      },
+      {
+        "name": "Mounir Margoum",
+        "character": "Zidane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sXiEOFDYZorvBHFSrtTY3KxPoim.jpg"
+      },
+      {
+        "name": "Velimir Velev",
+        "character": "Preacher Murderer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4dPDa4maxyItRI2ikttXZgCmb0U.jpg"
+      },
+      {
+        "name": "Bruno Salgueiro",
+        "character": "Speedboat Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Fvk6VhLcYUbcQ1jaD3bUKcq6dZ.jpg"
+      },
+      {
+        "name": "Marko Mandić",
+        "character": "Goran",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Dk6ClnFqIswJIl1cqSAbi7OiKP.jpg"
+      },
+      {
+        "name": "Vladimir Vladimirov",
+        "character": "Fabio",
+        "profile_path": ""
+      },
+      {
+        "name": "Zlatka Raikova",
+        "character": "Widow",
+        "profile_path": ""
+      },
+      {
+        "name": "Hristo Petkov",
+        "character": "Zidane's Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lLZQdLvIyhcXTcleLLIzVaeVwYi.jpg"
+      },
+      {
+        "name": "Stilyan Mavrov",
+        "character": "Semi-Truck Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/LlitrtRpvpDcSkTPjAVTjcS7fD.jpg"
+      },
+      {
+        "name": "Ulyana Chan",
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/reIeIIqyVvw5lrb5k5sBCKuwizS.jpg"
+      },
+      {
+        "name": "Ilian Emanviov",
+        "character": "Burly Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Wilson",
+        "character": "ICC Judge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AbN1FqJYx6R14B8jHmBBFFZ75oY.jpg"
+      },
+      {
+        "name": "Stuart Whelan",
+        "character": "Policeman Lawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Y7OIn5UHrBelChQihLdlzhNhti.jpg"
+      },
+      {
+        "name": "Atul Sharma",
+        "character": "Lawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ArCswhLKzGJW6viP1uiF82wQLiX.jpg"
+      },
+      {
+        "name": "Tamara Sharpe",
+        "character": "Pedestrian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pL3eALgwYuJn7APmgf8XPwlDSOQ.jpg"
+      },
+      {
+        "name": "Bharat Mistri",
+        "character": "Lawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iTVM44yQaYXdKaluQ0CKjJKpBCi.jpg"
+      },
+      {
+        "name": "Halima Nagori",
+        "character": "Defence Stenographer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ji7OJrFJfQKBOavnfFDnLT1MXP8.jpg"
+      },
+      {
+        "name": "Truus de Boer",
+        "character": "Cyclist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9E93o2eQhTT2nu0mTV3q4avSjEj.jpg"
+      },
+      {
+        "name": "Mark Christopher Collins",
+        "character": "Interpol Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mNgpSVcpN4yRp4sH51JJXbXmsPW.jpg"
+      },
+      {
+        "name": "Ivan Kostadinov",
+        "character": "Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick Hughes",
+        "character": "Interpol Agent (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1yTU7U9HVchCQ1KO66noEKuK5J2.jpg"
+      },
+      {
+        "name": "Sander Jan Klerk",
+        "character": "ADR voice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9r5GSdwTFggLMcSrYgXeLk29vbV.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Patrick Hughes",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1yTU7U9HVchCQ1KO66noEKuK5J2.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "assassin",
+    "court",
+    "england",
+    "hitman",
+    "bodyguard",
+    "travel",
+    "on the run",
+    "criminal",
+    "killer",
+    "courtroom",
+    "opposites attract",
+    "buddy comedy",
+    "testify"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "One of the world's top bodyguards gets a new client, a world class hitman who must testify at the International Criminal Court. They must put their differences aside and work together to make it to the trial alive and on time.",
+    "With his reputation in tatters after the painfully unsuccessful delivery of a distinguished Japanese client, the former triple-A protection agent, Michael Bryce, is now reduced to a mere second-class bodyguard for hire, two years after the disgraceful incident. Under those circumstances, Bryce would do anything to prove his worth, and, before long, he accepts an offer from Interpol to escort the international assassin, Darius Kincaid, from Manchester to the Hague. The task seems simple: Bryce needs to transport him from point A to point B; nevertheless, the trip to the Netherlands is long and hazardous, and Kincaid--as the only one with the guts and enough hard evidence to testify against a tyrannical Belarusian dictator--is an obvious target. Undoubtedly, it's a tough job, as the mismatched duo will have to put aside their grudges, and race against the clock in a non-stop concerto for bullets. Can the hitman's bodyguard carry through the most important mission in his career?—Nick Riganas",
+    "Belarussian dictator Vladislav Dukhovich is standing trial for genocide. The trial is not going well for the prosecution - their witnesses tend to turn up dead. They have one trump card though - hitman Darius Kincaid is willing to testify against Dukhovich. Interpol try to get Kincaid to the trial but after the convoy is ambushed, Interpol agent Amelia Roussel, aware that there is a Dukhovich spy in her own organisation, calls in outside help - professional bodyguard Michael Bryce. One problem - Bryce and Kincaid hate each other.—grantss",
+    "London elite bodyguard Michael Bryce lost his AAA status by trusting his police (now ex) lover Amelia Roussel, compromising his Japanese charge, reducing him to babysitting second rate clients. Now she works for Interpol, which needs to escort most-wanted hit-man Darius Kincaid from their Manchester HQ to The Hague, as crown witness against arrested former tyrannical White Russian president Vladislav Dukhovich, in exchange for the liberation of his dragon-bitch-wife Sonia. The armed convoy was attacked and Darius barely reached a safe-house due to an Interpol mole. Amelia promises to restore Bryce's status if he helps get Darius, who happened to eliminate the Japanese client, safely to the Interational Court. Dukhovich's hired guns spare to effort to kill them, so they must grudgingly collaborate.—KGF Vissers"
+  ],
+  "synopsis": "In the opening scene, special protection agent Michael Bryce (Ryan Reynolds) is escorting arms dealer Takeshi Kurosawa (Tsuwayuki Saotome) to an airfield. Kurosawa boards his plane, and Michael feels accomplished... until moments later when a bullet breaks through the plane window and strikes Kurosawa in the head.Two years later. Michael has been demoted and is working to escort a coked-up attorney, Seifert (Richard E. Grant), to his next place of meeting. Michael gets in touch with his superior and confirms that he's incapacitated a few goons that were after Seifert while having placed explosives in the parking garage. The explosives go off and blow up Seifert's car.In Belarus, President Vladislav Dukhovich (Gary Oldman) and a few of his cronies pay a visit to Professor Asimov (Rod Hallett) in his cabin. Dukhovich accuses Asimov of working against him, and he has his men bring in Asimov's wife and daughter. Dukhovich coldly shoots them dead in front of Asimov.Asimov gives a testimony at The Hague over Dukhovich's actions. More and more people have come forward to testify against the ruthless dictator, but none have provided sufficient evidence to have him locked up. Officials wonder if anyone is brave enough to come forward to bring him down.Interpol agents meet with notorious hitman Darius Kincaid (Samuel L. Jackson). He is offered the opportunity to testify against Dukhovich in exchange for the freedom of his incarcerated wife Sonia (Salma Hayek). Darius accepts begrudingly, only for Sonia's sake. A whole team then escorts Darius to The Hague, only for a car bomb to go off. A bunch of Dukhovich's men start shooting at the Interpol team, killing all of them save for Darius and Agent Amelia Roussel (Elodie Yung). Darius kills all the villains, but he is shot in the leg. Darius suggests to Amelia that someone on the inside was working for Dukhovich and that's how they knew the route they were taking. Amelia decides to take Darius to a safe house, and she calls the one person she knows she can trust.We see that the mole is Assistant Director Jean Foucher (Joaquim de Almeida), as he is discussing the plan with one of Dukhovich's men.Amelia calls Michael, whom she used to date. He reluctantly answers her phone call and then goes to the safe house to meet with her. Michael blames her for his demotion after he told her his client was Kurosawa (the only time he's ever given up a client's name), but Amelia always denied it was her. When Michael sees that Amelia wants him to deal with Darius, the two men start fighting, as they have tangled multiple times in the past before. Darius passes out from the blood loss. Amelia sets up a blood transfusion for him while she and Michael agree on escorting Darius to The Hague with Amelia promising that she will get Michael his old position back.Darius later digs the bullet out of his leg while calling Sonia. She accuses him of being a bad husband, but he promises to get her out of prison.After Amelia leaves, Michael and Darius are left together. The phone rings, and since it's not answered, several officers show up outside the building. The two flee from the rooftops and steal a car to get away.Dukhovich sends his top henchman Ivan (Yuri Kolokolnikov) to go after Darius.On the drive to The Hague, Darius makes Michael pull over so he can pee. He manages to distract Michael and nearly takes the car until a few of Dukhovich's goons show up and start shooting. Their car catches fire in the shootout, but Darius kills the goons. The bullets in the back of the car blow up and destroy the other van. Michael and Darius then hitch a ride with a group of nuns.In the morning, the two make it to Amsterdam to a house belonging to Michael. Darius sees a picture of him with Amelia. From their talk, they learn a few things about each other. Michael met Amelia at a funeral that Interpol managed to screw up when bad guys started attacking. He \"bumped into\" Amelia from there. Darius also reveals that the first time he killed someone was as a teenager when his father, a preacher, was murdered by a man looking to make a random killing. Darius found that man and shot him dead. He also mentions meeting Sonia for the first time in a bar where she was working as a waitress. A goon groped her, so he and his buddies faced her wrath when she completely wrecked all of them, making Darius fall instantly in love with her. Darius goes to the bathroom and uses this as another opportunity to escape.Michael spots Darius and follows him as Ivan and his buddies close in on him. Michael incapacitates a few goons before he and Darius start arguing again. Michael retreats to an outdoor bar while Darius is attacked by more of Dukhovich's men. Mayhem occurs on the streets with gunfire and cars crashing. Michael tries to stay out of it but relents and goes to help Darius. He grabs a motorcycle and rushes through the streets to get the goons while Darius rides a motorboat on the water. A goon nearly blows Darius up with a grenade launcher, but Micahel stops him. However, Michael ends up captured by the villains.Michael is taken to an interrogator named Goran (Marko Mandic). He and another goon put a wet rag on Michael's face and use spark plugs on him to give up Darius's location. Darius shows up and electrocutes Goran and kills the others. The two leave the place and keep on bickering. When Michael mentions that he accused Amelia of costing him his position, Darius admits that it was he that killed Kurosawa because he just happened to catch him from a distance, and he claims it was the best shot he's ever made. Michael punches Darius in the face and he attempts to abandon him, but the two decide to proceed to The Hague.En route to The Hague, Ivan and his goons return to chase Michael and Darius on the road. Michael tries to make a phone call to Amelia to apologize for his behavior and admitting he was in the wrong for why their relationship failed. Michael is thrown out of the car when Darius crashes. Darius evades the villains on the road when their cars fly over the highway and the villain car is plowed by a truck. Meanwhile, Michael is chased into a restaurant kitchen and kills some goons before Ivan finds him. Michael wraps a chain around Ivan's neck and holds him down long enough to shoot him dead.The deadline for a witness is nearing its end, and the case against Dukhovich is about to be closed. At the last second, Michael and Darius show up. Darius proceeds to testify. He reveals his last name is Evans but took his stepfather's name to avoid abuse (it didn't work). He tells the court that Dukhovich had tried to employ him to take out a village, but Darius refused because he doesn't kill innocents. He then presents concrete evidence to implicate Dukhovich - photos of the man executing villagers and dumping their bodies into ditches. Authorities get ready to arrest Dukhovich, but he has his men initiate Plan B.A truck carrying explosives runs through The Hague and blows up. Dukhovich aims his gun at Darius, but Michael jumps in and takes the shot. Darius goes after Dukhovich as he and his men try to escape. Meanwhile, Amelia goes after Foucher as he tries to run, having figured out his part in all this. He tries to kill her, but Michael shoots him. Darius manages to shoot down a chopper coming for Dukhovich and send it crashing. Knowing he is about to be killed, Dukhovich tells Darius that it won't change who he is. Darius laughs in his face and says what's about to happen is for Michael getting shot. He then kicks Dukhovich off the ledge and sends him falling on top of a car.Michael is wheeled away for medical assistance as he thanks Darius and reconciles with Amelia. Darius is then promised that Sonia will be free, and he complies with his arrest.We then see a while later that Darius has broken out of prison and has taken Sonia to the bar where they first met. Chaos has broken out, with people killing each other and another man running around on fire, but Darius and Sonia ignore it to slow dance.",
+  "imdb_score": 6.9
+}

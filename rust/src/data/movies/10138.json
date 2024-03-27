@@ -1,0 +1,492 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+  "id": 10138,
+  "title": "Iron Man 2",
+  "poster_path": "https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+  "release_date": "2010-04-28",
+  "vote_average": 6.838,
+  "vote_count": 20142,
+  "popularity": 102.696,
+  "overview": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.",
+  "imdb_id": "tt1228705",
+  "budget": 200000000,
+  "homepage": "https://www.marvel.com/movies/iron-man-2",
+  "revenue": 623933331,
+  "runtime": 124,
+  "tagline": "It's not the armor that makes the hero, but the man inside.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Marvel Studios",
+    "Fairview Entertainment",
+    "Marvel Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Robert Downey Jr.",
+        "character": "Tony Stark / Iron Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/im9SAqJPZKEbVZGmjXuLI4O7RvM.jpg"
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "character": "Virginia 'Pepper' Potts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/slPWN0VvYJtNOEuxlFSsXSNQMaF.jpg"
+      },
+      {
+        "name": "Don Cheadle",
+        "character": "James 'Rhodey' Rhodes / War Machine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vPzvP0Qik5yHNf6dF2uqLH9HrX1.jpg"
+      },
+      {
+        "name": "Scarlett Johansson",
+        "character": "Natalie Rushman / Natasha Romanoff / Black Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6NsMbJXRlDZuDzatN2akFdGuTvx.jpg"
+      },
+      {
+        "name": "Sam Rockwell",
+        "character": "Justin Hammer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vYpWxV0bnUgKo7SdasfGP9HttUq.jpg"
+      },
+      {
+        "name": "Mickey Rourke",
+        "character": "Ivan Vanko / Whiplash",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i6vXukUwRsJa7S9yhZgoKt9xLDv.jpg"
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "character": "Nick Fury",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nCJJ3NVksYNxIzEHcyC1XziwPVj.jpg"
+      },
+      {
+        "name": "Clark Gregg",
+        "character": "Phil Coulson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nbxFbr2SaF4Sdc6HdsF193GInvJ.jpg"
+      },
+      {
+        "name": "John Slattery",
+        "character": "Howard Stark",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t1mhOQR8XwCqp7xArTy8FCENTsR.jpg"
+      },
+      {
+        "name": "Garry Shandling",
+        "character": "Senator Stern",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zGjPMqSqtZtP3npd5fhm7MYqxIU.jpg"
+      },
+      {
+        "name": "Paul Bettany",
+        "character": "J.A.R.V.I.S. (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
+      },
+      {
+        "name": "Leslie Bibb",
+        "character": "Christine Everhart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eLPuqUDdbOdLcPtWdSyNs8jqn9.jpg"
+      },
+      {
+        "name": "Kate Mara",
+        "character": "U.S. Marshal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rwyzVP1Rm6Hev9lTXAdjvNQoD2N.jpg"
+      },
+      {
+        "name": "Jon Favreau",
+        "character": "Harold 'Happy' Hogan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+      },
+      {
+        "name": "Christiane Amanpour",
+        "character": "Christiane Amanpour",
+        "profile_path": "https://image.tmdb.org/t/p/w185/48JaEwyIxaGEi39JrEq6gORfXsX.jpg"
+      },
+      {
+        "name": "Philippe Bergeron",
+        "character": "Detective Lemieux",
+        "profile_path": ""
+      },
+      {
+        "name": "James Bethea",
+        "character": "Security Force #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Bruno",
+        "character": "Security Force #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hu8UlD9ECnXsjkG0grTKDn7Dveb.jpg"
+      },
+      {
+        "name": "Kate Clark",
+        "character": "Expo Fan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xdNSK37cJpFRENm2M34JCNa9shJ.jpg"
+      },
+      {
+        "name": "Luminita Docan",
+        "character": "Russian Newscaster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l2U4bSkwH8o3948Mzq44SgTO3fh.jpg"
+      },
+      {
+        "name": "François Duhamel",
+        "character": "French Photographer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3N3pFKYflQxxo3b0aRXh8adwVIU.jpg"
+      },
+      {
+        "name": "Larry Ellison",
+        "character": "Larry Ellison",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dPcMEnCiocjzUQk5HZEWtqvHKdR.jpg"
+      },
+      {
+        "name": "Adam Goldstein",
+        "character": "Adam Goldstein",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Guinee",
+        "character": "Major Allen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4ceLJK0hD8DhRBARGxfodluK8Bh.jpg"
+      },
+      {
+        "name": "Eric L. Haney",
+        "character": "General Meade",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hABCxwgNCUFjFVGdIOUKMs3HNyn.jpg"
+      },
+      {
+        "name": "Ali Khan",
+        "character": "10 Rings Gangster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5IsGXsWou282weS17pLkaashba2.jpg"
+      },
+      {
+        "name": "Evgeniy Lazarev",
+        "character": "Anton Vanko",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tg9h0K1HKpbfeCFIkWHjYvdn5WF.jpg"
+      },
+      {
+        "name": "Stan Lee",
+        "character": "Larry King",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+      },
+      {
+        "name": "Isaiah Guyman Martin IV",
+        "character": "AV Operator",
+        "profile_path": ""
+      },
+      {
+        "name": "Helena Mattsson",
+        "character": "Rebecca",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9b3ZG8KoEZA2MlVIyE4hGH00Cr6.jpg"
+      },
+      {
+        "name": "Anya Monzikova",
+        "character": "Rebeka",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mVxsN62OwP5NtjgYzvehHFD9zVn.jpg"
+      },
+      {
+        "name": "Keith Middlebrook",
+        "character": "Expo Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oJxdjmFtLDyoMINgVYPRU2jPfDJ.jpg"
+      },
+      {
+        "name": "Margy Moore",
+        "character": "Bambi Arbogast",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y8ZiGTvi452ImYy1p0Ed87FSyJS.jpg"
+      },
+      {
+        "name": "Olivia Munn",
+        "character": "Chess Roberts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iDQjE8DesSGpoIi3l6mx1YoOuI7.jpg"
+      },
+      {
+        "name": "Elon Musk",
+        "character": "Elon Musk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uWUzmrQmAUV7c1vb8WXpa8QKPJe.jpg"
+      },
+      {
+        "name": "Bill O'Reilly",
+        "character": "Bill O'Reilly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bF6nBYSg1aZdB7R1CpCMw84saQj.jpg"
+      },
+      {
+        "name": "Alejandro Patiño",
+        "character": "Strawberry Vendor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7z7QrMTX4rh4jgKpzJ2mJPQ9HAM.jpg"
+      },
+      {
+        "name": "Davin Ransom",
+        "character": "Young Tony Stark",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sdcuETbsudyWIjJZ4DDU3cSW0Qk.jpg"
+      },
+      {
+        "name": "Karim Saleh",
+        "character": "Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5kzIr2drDqJvBpIznz75Xeht7Oe.jpg"
+      },
+      {
+        "name": "Brian Schaeffer",
+        "character": "Hammer Expo Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jY25MFVciYg6pv576QbY9XqalCd.jpg"
+      },
+      {
+        "name": "Phillipe Simon",
+        "character": "French Waiter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kBlKF87X1mnLfBKWmUVVHCLVL1l.jpg"
+      },
+      {
+        "name": "Jack White",
+        "character": "Jack",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1bk9fZkuD7uDfh5lz90V4ngGR6M.jpg"
+      },
+      {
+        "name": "Jenny Robinson",
+        "character": "Ironette Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8X1wHninVDiJyXd8wruqI94Msw4.jpg"
+      },
+      {
+        "name": "Melanie Brown",
+        "character": "Ironette Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xvhxZpSDYwcU87SS7XNdpkYlBh4.jpg"
+      },
+      {
+        "name": "Krystal Ellsworth",
+        "character": "Ironette Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/htDYbWlOUNF8N70iF44IZDOfk7w.jpg"
+      },
+      {
+        "name": "Victoria Gracie",
+        "character": "Ironette Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fPHDOOMxNULT1iedkw79EIm0m57.jpg"
+      },
+      {
+        "name": "Gina Cantrell",
+        "character": "Ironette Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1p4jQzScjgn1sY8wBsNB5wmN7pp.jpg"
+      },
+      {
+        "name": "Renee Herlocker",
+        "character": "Ironette Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jtYLeEj8KG6XhjbdTUDuEtB2gmr.jpg"
+      },
+      {
+        "name": "Jill Ann Pineda-Arnold",
+        "character": "Ironette Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/61l1leoUwgoYQ7Csi3j9DgwMgsZ.jpg"
+      },
+      {
+        "name": "Sandy Colton",
+        "character": "Ironette Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/92OEMbFvIOJQ51feWXMDXUeYUoK.jpg"
+      },
+      {
+        "name": "Annika Ihnat",
+        "character": "Ironette Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gIx6cKrlDIBh1E1gsdfWB3eJEWv.jpg"
+      },
+      {
+        "name": "Lindsay Dennis",
+        "character": "Ironette Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bn2JqozEynNylHi0pLsrFTcrdfu.jpg"
+      },
+      {
+        "name": "Jennifer D. Johnson",
+        "character": "Ironette Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/foWg1MoE6PrBatx0rOgkXdD787S.jpg"
+      },
+      {
+        "name": "Lindsay Rosenberg",
+        "character": "Ironette Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u2eApYjyP6KOZuHYXuDQfdE9nkG.jpg"
+      },
+      {
+        "name": "Hannah Douglass",
+        "character": "Ironette Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yuTXmt3FL0MG0ksv1YQbNjjizh.jpg"
+      },
+      {
+        "name": "Brooke Long",
+        "character": "Ironette Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vjvrBpNFD2EOrdQGLFO59Kr0NFA.jpg"
+      },
+      {
+        "name": "Rachele Brooke Smith",
+        "character": "Ironette Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7BscihtFdWG1Mntq1L3IO2hj5g8.jpg"
+      },
+      {
+        "name": "Kylette Zamora",
+        "character": "Ironette Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nadine Ellis",
+        "character": "Ironette Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gPOmQXlC6VhmyJPwwaOcb8cnlw9.jpg"
+      },
+      {
+        "name": "Ayelet Ben-Shahar",
+        "character": "Model (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Ceallach",
+        "character": "Captain Anders (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nOpUOPhrhum8uIy7DquFw65izEo.jpg"
+      },
+      {
+        "name": "Katie Cleary",
+        "character": "Beautiful Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zFmC5CyjuDoCYlr7Wiz6g1uc0JY.jpg"
+      },
+      {
+        "name": "Ajarae Coleman",
+        "character": "Expo Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Timothy 'TJ' James Driscoll",
+        "character": "French Prison Guard #2 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jasmine Dustin",
+        "character": "Watermelon Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sam Felman",
+        "character": "Stark Expo Attendee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Shakira Vanise Gamble",
+        "character": "Pepper's Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Grace",
+        "character": "French Prison Guard #1 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lFn80oQQBldv8im45E1PtT4hs7d.jpg"
+      },
+      {
+        "name": "Mark Kubr",
+        "character": "Prisoner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Cameron Lee",
+        "character": "Senate Page (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kYcUNhNHj6pKSqpGu4NJMuGcWKU.jpg"
+      },
+      {
+        "name": "Jee-Yun Lee",
+        "character": "Reporter (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/X6l8iTTiq8MQY0XyfA3dCJrsKU.jpg"
+      },
+      {
+        "name": "Mathew Lorenceau",
+        "character": "Prison Guard Chevalier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Maleki",
+        "character": "Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7X8ziMt2wm9atI9T6sEWEShutie.jpg"
+      },
+      {
+        "name": "Bryan McCoy",
+        "character": "Expo Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Nevada",
+        "character": "SWAT Sergeant Bellows (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lkoeMiD2voCWuoLPppED3OxQ90j.jpg"
+      },
+      {
+        "name": "Allison Ochmanek",
+        "character": "Watermelon Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicolas Pajon",
+        "character": "French Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s44LWamSREudJR93K7fcVelicgL.jpg"
+      },
+      {
+        "name": "Steven James Price",
+        "character": "Senate Gallery Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tanoai Reed",
+        "character": "Security Guard Fighting Happy Hogan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/di5gbrd9qWCvcJM5xtJWO2t2b76.jpg"
+      },
+      {
+        "name": "Peter Trenholm Smith",
+        "character": "Senator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Doug Swander",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Sebastian Wrobel",
+        "character": "Tony Stark Usher (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nick W. Nicholson",
+        "character": "Stark Expo Attendee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kristin Quick",
+        "character": "VIP Expo Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt McColm",
+        "character": "Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9SlVkQdWGURamicfGScV8BJNs2M.jpg"
+      },
+      {
+        "name": "Seth Green",
+        "character": "Expo Fan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jon Favreau",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "technology",
+    "superhero",
+    "malibu",
+    "based on comic",
+    "revenge",
+    "aftercreditsstinger",
+    "marvel cinematic universe (mcu)",
+    "break out"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.",
+    "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press, and the public to share his technology with the military. Unwilling to let go of his invention, Stark, along with Pepper Potts, and James \"Rhodey\" Rhodes at his side, must forge new alliances - and confront powerful enemies.—Anonymous",
+    "Now that Tony Stark has revealed to the world that he is Iron Man, the entire world is now eager to get their hands on his hot technology - whether it's the United States government, weapons contractors, or someone else. That someone else happens to be Ivan Vanko - the son of now deceased Anton Vanko, Howard Stark's former partner. Stark had Vanko banished to Russia for conspiring to commit treason against the US, and now Ivan wants revenge against Tony - and he's willing to get it at any cost. But after being humiliated in front of the Senate Armed Forces Committee, rival weapons contractor Justin Hammer sees Ivan as the key to upping his status against Stark Enterprises after an attack on the Monaco 500. But an ailing Tony has to figure out a way to save himself, get Vanko, and get Hammer before the government shows up and takes his beloved suits away. And can he figure out what a mysterious figure named Nick Fury wants with him?—halo1k",
+    "After Tony Stark announces to the World that he's Iron Man. He faces many problems in his Life, His Lifesource is Poisoning him, The US Government wants his tech, and someone's out to kill Stark. That Someone is Ivan Vanko, Son of Anton Vanko who worked with Tony's Father Howard, But Howard then sent Anton to Russia. Ivan trys to kill Tony Stark at a Grand Prix in Monaco but Ivan is then arrested. However Tony's Rival Justin Hammer helps Vanko escape from Prison and Hires Vanko to create to Suits similar to Tonys. Tony also assigns his Assistant Pepper Potts as CEO of Stark Industries. It's now up to Tony to defeat Ivan and Hammer and to fix his Arc Reactor before he can die.—ahmetkozan",
+    "Six months have passed since Tony Stark has defeated his former friend, Obidah Stane aka the Iron Monger and he has publicly revealed his identity to the world. Tony is facing many issues with his life, such as using palladium for his arc reactor which is causing serious problems towards his health and a rival inventor named Justin Hammer wants to put Stark Industries out of business so that he can become the top inventor. Tony's recklessness is reaching its breaking point for him when his friendship with Rhodey at risk and his love for Pepper in serious jeopardy. However, Tony is soon faced with another issue when Ivan Vanko aka Whiplash begins to seek revenge on him for getting his late father, Anton dismissed from Stark Industries by Howard many years ago. With the stakes held high for Tony, he must form new alliances with Natasha Romanoff and Nick Fury, who are both agents of S.H.I.E.L.D. in order to defeat Hammer and Vanko once and for all.—dawsonpersi"
+  ],
+  "synopsis": "The movie opens several months after the events in the first Iron Man movie. We are introduced to a man named Ivan Vanko. Ivan's father Anton is slowly dying and telling Ivan his final wishes. Ivan thinks he should have the fame that Tony Stark is enjoying but Anton tells him to \"ignore that garbage.\" All Anton can give Ivan is his knowledge. Ivan takes a blueprint that has his father's name on it, and also the name of Howard Stark, Tony Stark's father. Ivan then sets about recreating the Arc reactor and begins building his own weaponized suit. Tony Stark has become a champion for world peace thanks to the Iron Man suit, and has practically solved the issue of world peace, or so he claims.Six months after the end of the first movie, Tony Stark has used his Iron Man armor to bring about a negotiated peace treaty between the major super powers of the world, and his immense popularity with the general public is only furthered when he fulfills his father's dream by reopening the \"Stark Expo\" in Queens, NY, to showcase all the latest inventions that will benefit the world. Tony fulfills this dream by flying into the expo in full Iron Man regalia, and making a flamboyant entrance to become the new symbol of world peace. Backstage, following his address, Tony does a quick test of his blood: the palladium he uses to power his chest arc reactor is slowly poisoning his body. After the event, Tony and Happy are leaving when they are approached by a woman who hands Tony a subpoena, summoning him to a Senate Armed Forces Committee hearing. Tony and Happy decide to take a road trip to Washington DC in Tony's new Audi R8.The next morning, during the Senate hearing, Tony's usual brand of humor becomes the center of attention while completely ignoring the fact that the government has classified the Iron Man armor as a weapon. Colonel Rhodes presents the investigation into the events surrounding Iron Man's creation, but Senator Stern, the committee chairman, takes his remarks out of context. With Justin Hammer of Hammer Industries present, Tony gives a rebuttal showing that he is Iron Man and will not part with his armor (likening handing himself over as being tantamount to indentured servitude), and proceeds to hack the committees computers to show that various \"attempts\" at copying Tony's suit - from Iran, North Korea, and even Hammer itself - are complete failures: North Korea's is top heavy and collapses easily, Iran's crashes into the ground and explodes, while Hammer's suit turns around 180 degrees at the waist and severs its pilot's spine. With his typical swagger, Tony still refuses to turn over the Iron Man armor to the government and walks out of the hearing.Back at home, Tony is on JARVIS analyzing the latest prototypes and developments for the Iron Man suit, and Pepper enters and the two argue about the future of Stark Industries. Tony is telling Pepper that he's making more money off the company's common stock than he ever did as CEO. He decides he's had enough of being the CEO and wants to focus solely on developing Iron Man. He decides to appoint Pepper as the new CEO, leaving her stunned. The next day a lovely notary public enters to have Tony officially sign the company over to Pepper. Tony is undergoing fighting training with Happy and performs an illegal move on him, getting it confused with MMA. The notary's name is Natalie Rushman, and he has Happy give her a boxing lesson, and while looking up her bio, Natalie performs a TKO on Happy, using a takedown that shows there's a great deal more to her than there appears.Tony heads to Monaco for some much needed R&R. At a reception before the Monaco 500, where Stark Industries is sponsoring a driver and has entered a Formula 1 racer, Tony is greeted by his favorite \"Vanity Fair\" reporter Christine Everheart, who wants Pepper for the cover of the next issue which will introduce her as the new Stark Industries C.E.O. Justin Hammer also happens to be there. They also greet Tesla Motors CEO Elon Musk, who wants a panel at the Stark Expo to showcase his latest invention. Tony takes another reading of his blood, finding that the palladium poisoning has increased. Tony decides that he's going to be driving the Stark Industries car instead of the driver that was pre-selected.Stark starts the race, but unbeknownst to him, Ivan Vanko has joined one of the race's pit crews. Under his jump suit, Vanko wears a harness with two large energy whips powered by the arc reactor he'd built after his father died. Vanko uses the whips to slice one car in half, cause a massive pileup and ambushes Tony. As Vanko is wrecking havoc on the track, Happy and Pepper rush to deliver the briefcase Happy carries with him to Tony. Vanko uses his electric whips on the Rolls Royce Phantom that Happy and Pepper are in, and after repeated ramming attempts, Pepper finally manages to give Tony the briefcase. Tony activates the case which is a portable version of the Iron Man armor. After a furious battle, Tony is able to defeat Vanko by manually pulling out the Arc Reactor battery that powers his whips, crushing it after he has JARVIS analyze it. The police grab Vanko and take him into custody, the defiant Vanko yelling at Tony \"YOU LOSE!!\". The entire crowd is stunned at what they've just witnessed. Justin Hammer, however, believes that Vanko can be put to better use.Stark gets a private meeting with Vanko in custody. Vanko asks Tony what it feels like to be a dead man and that palladium in the chest is a very painful way to die. Stark tells Vanko that makes two of them.Later, Hammer breaks Vanko out. He slips Vanko a meal consisting of chicken and mashed potatoes along with a note telling him to \"enjoy the potatoes.\" Vanko and another prisoner are given uniforms with the same identification. Vanko immediately kills the prisoner as well as a guard on his way out the door, and sets the explosive device contained in the potatoes and as he makes his escape, he's bagged by two Hammer operatives and taken away. Hammer knows Vanko needs his resources to outdo Tony, and Vanko obliges. Hammer then hires Vanko to build armored suits based on existing designs. Vanko tells Hammer they are doing everything wrong. He also requests that Hammer retrieve his pet cockatoo from his home in Russia.On the plane back home, Tony and Pepper are watching the aftermath of the events that took place and are watching a rather angry Senator Stern unload his frustrations with Tony on The O'Reilly Factor. Stern is saying that Tony Stark lied to the Senate Armed Forces Committee, and that he's in danger of being arrested on felony perjury charges: Stark had told the Senate that other countries, as well as Hammer Industries, were 20 years away from having anything that remotely resembled Iron Man, however Vanko surprised everyone by making an working copy of the Arc Reactor. Tony presents Pepper with a gourmet meal and is going to tell her the truth, but they have an awkward moment as Pepper knows that something is up and that Tony isn't telling her the whole truth.Back home, Tony is using JARVIS to conduct investigations into Ivan Vanko. He finds that Vanko's father Anton Vanko was Howard Stark's partner and one of the co founders of Stark Industries. Howard Stark found out that Vanko was conspiring to sell weapons to the Soviet Empire and had him arrested for treason and deported to Russia, where he was imprisoned. His son had been seeking revenge against the Stark empire ever since. While sitting in one of his hot rods in his basement, Tony nearly collapses and is discovered by Rhodes who tells him that this isn't a good look for him. He shows Rhodey how the palladium is slowly poisoning him. Rhodes also tells him that he's been battling with the Pentagon by stopping them from coming to his Malibu house and taking his suits to be used for weaponized purposes.Tony prepares for what he believes will be his last birthday party. He asks Natalie what she would do if this were her last birthday party. Natalie responds that she'd do whatever she wanted with whoever she wanted to do it with. While at the party, Tony is quite drunk while wearing the Iron Man suit and behaving recklessly with its weaponry. In the background, Pepper and Rhodes are discussing that he's gone way off the deep end. Rhodes tells Pepper that he's tired of dealing with the Pentagon and the Senate Armed Forces Committee. Rhodes, finally having enough of Tony's antics, goes and dons the silver Mark II suit. He then challenges Tony to a fight, where Tony has the in-house DJ play some good background tunes. The battle ends in a stalemate and Rhodey flies off in the Mark II armor, delivering it to military authorities at Edwards Air Force Base. Justin Hammer is later invited to study the suit himself and provides them with advanced weapons to arm it.The next day, Tony is at the famous Los Angeles landmark doughnut shop Randy's Doughnuts, sitting in the Iron Man suit atop the famous giant plastered doughnut. Disgraced and hungover, Tony is approached by SHIELD director Nick Fury, who tells Stark that despite the problems he's having with the government and his drunken Iron Man antics, which are the least of his worries, Fury has an issue to deal with in the Southwest United States. Tony wonders if Fury and the \"Avengers Initiative\" is real, and Fury reassures Tony that it's real, and that he knew Howard Stark very well, in fact Howard was one of the founding members of S.H.I.E.L.D., the agency he works for. They are joined by agent Phil Coulson and Natalie Rushman, whose real name is Natasha Romanoff, a S.H.I.E.L.D. agent planted in Stark Industries to monitor Tony himself. A hungover Tony is stunned at this revelation and fires Natalie/Natasha, but she then tells Tony that it's none of his business and that he's under investigation from S.H.I.E.L.D. , and she and agent Coulson are there to make sure Tony follows orders and doesn't screw up. Fury and Natasha both mention Tony's palladium poisoning; Tony replies that he's investigated and tested every know element and every permutation of them with no success. Natasha injects Tony with a serum that slows the symptoms of his palladium poisoning significantly, giving him the time to find an alternate element to keep him alive. In the meantime, Tony will be confined to his Malibu home.Fury tells Tony some more detail about Anton Vanko's relationship with Howard Stark and provides Tony with a chest of his father's old artifacts that can hopefully be used to find a cure for his condition. Tony resists further attempts from S.H.I.E.L.D. interference, but Agent Coulson reassures Tony that he's not going anywhere until Tony finds the answers that he's seeking about his condition. Reviewing the film reels in the chest, Stark discovers a message from his father that leads him to the original 1974 diorama of the Stark Expo. He retrieves the diorama from his old office, now occupied by Pepper, and tries to reconcile with her. In reality, the diorama is a disguised diagram for the atomic structure of a new element that Howard couldn't produce in his time but Tony may be able to with his advanced knowledge and modern technology.Stark performs a radical alteration of his home workshop and hand-builds a small particle accelerator with the aid of his computer system, J.A.R.V.I.S. Stark synthesizes this new element, creating a new triangular chest arc reactor that cures his poisoning and is much more powerful than Stark's earlier versions. Just before Tony completes the particle acceleration, Coulson tells him that he's free to go and that S.H.I.E.L.D. has reassigned him to another case in New Mexico.At Hammer Industries, Vanko has radically changed the design of Hammer's suits: they are now automated drones. Despite what Vanko considers improvements, Hammer is displeased and imprisons Vanko in a small room with two guards while he takes the drones to the Stark Expo.Hammer unveils his new military drones, captained by Rhodes in a heavily-weaponized version of the confiscated Mark II armor. Unfortunately, it is soon discovered that Vanko has pre-programmed the drones, giving himself complete control. He also has control of Rhodes' new armor, and Stark arrives just as they go on the attack. As Stark battles these remote-controlled enemies and tries to evade Rhodes, Happy Hogan and Romanoff race to Hammer's Queens facility to stop Vanko. When they arrive, they fight their way through Hammer's security guards; Happy is pleased he took one of them down but is slightly flustered when he sees that Romanoff has taken down at least a half-dozen in short order. Vanko has already departed for the Expo in a new armored suit, an updated version of the harness he used when he attacked Tony in Monaco. Back at the Stark Expo, just as Hammer has finished his presentation, the drones attack the standing-room-only crowd and they begin to flee. Stark and chases after the drones and engages them while Agent Romanoff and Pepper have Justin Hammer arrested for harboring the fugitive Vanko.Natasha is able to give Rhodes control of his armor again so that he and Stark can fight the rest of the drones together. The two armored allies combine their powers and successfully destroy all the drones. Vanko then lands in the area, wearing a greatly updated armored suit with improved plasma energy whips. After a grueling battle, Stark has an idea for he and Rhodes to use a trick from their earlier battle during Stark's birthday party, firing their energy repulsors to collide and create the same explosion with Vanko caught in the middle. The maneuver takes Vanko down, but Vanko's armor and drones are revealed to have been equipped with self-destruct charges. As they begin to explode, Stark races to save Pepper, rescuing her at the last moment. After landing on a roof she quits her CEO position, and she finally gives Tony a kiss, to which they both find Rhodes sitting a few meters away. Tony finally tells Pepper the truth about his heart, upsetting her greatly. Stark tells Rhodes to leave, but Rhodes then claims he was there first, so they should get their \"own roof\" after Stark tries to defend himself.At a debriefing, Fury informs Stark that while Stark is \"unsuitable\" for the \"Avengers Initiative,\" SHIELD wants Stark as a consultant. Stark agrees on the condition that Senator Stern personally present him and Col. Rhodes with their medals for bravery, however Senator Stern is less than amused when he presents Tony with his medal.In a post-credits scene, SHIELD agent Coulson is seen driving to a remote impact crater in the New Mexico desert. He informs Fury over the phone that they've \"found it\"; in the crater is Mjolnir, the hammer of Thor.",
+  "imdb_score": 6.9
+}

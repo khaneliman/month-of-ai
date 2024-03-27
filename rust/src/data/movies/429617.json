@@ -1,0 +1,789 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/ng6SSB3JhbcpKTwbPDsRwUYK8Cq.jpg",
+  "id": 429617,
+  "title": "Spider-Man: Far From Home",
+  "poster_path": "https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+  "release_date": "2019-06-28",
+  "vote_average": 7.437,
+  "vote_count": 14854,
+  "popularity": 78.838,
+  "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+  "imdb_id": "tt6320628",
+  "budget": 160000000,
+  "homepage": "https://www.marvel.com/movies/spider-man-far-from-home",
+  "revenue": 1131927996,
+  "runtime": 129,
+  "tagline": "It’s time to step up.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Marvel Studios",
+    "Pascal Pictures",
+    "Columbia Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Holland",
+        "character": "Peter Parker / Spider-Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yxYOaalFh8SUwNE5C0wzOwF89Ny.jpg"
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "character": "Nick Fury",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nCJJ3NVksYNxIzEHcyC1XziwPVj.jpg"
+      },
+      {
+        "name": "Jake Gyllenhaal",
+        "character": "Quentin Beck / Mysterio",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rJdYHYNhlcOBwbPvDZVvt1xw7bi.jpg"
+      },
+      {
+        "name": "Marisa Tomei",
+        "character": "May Parker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5w6qM8FWsl5SutKSpx6Va64eCTE.jpg"
+      },
+      {
+        "name": "Jon Favreau",
+        "character": "Harold 'Happy' Hogan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+      },
+      {
+        "name": "Zendaya",
+        "character": "Michelle 'MJ' Jones",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tylFh0K48CZIIhvKlA7WA1XBAtE.jpg"
+      },
+      {
+        "name": "Jacob Batalon",
+        "character": "Ned Leeds",
+        "profile_path": "https://image.tmdb.org/t/p/w185/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+      },
+      {
+        "name": "Tony Revolori",
+        "character": "Eugene 'Flash' Thompson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
+      },
+      {
+        "name": "Angourie Rice",
+        "character": "Betty Brant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bL3TL4beXOxXlnpUP5N4tEQ2lJJ.jpg"
+      },
+      {
+        "name": "Remy Hii",
+        "character": "Brad Davis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l6K5S3Pnxtj9JBz7qPhiHEekGpg.jpg"
+      },
+      {
+        "name": "Martin Starr",
+        "character": "Mr. Harrington",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gNyCdend3C5gY3ucq42Zt3swfg2.jpg"
+      },
+      {
+        "name": "J.B. Smoove",
+        "character": "Mr. Dell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/691r7OL0R9TaR7SaqR6AnKVLUUu.jpg"
+      },
+      {
+        "name": "Jorge Lendeborg Jr.",
+        "character": "Jason Ionello",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1633mS58BuM33No4kTPsusePEJa.jpg"
+      },
+      {
+        "name": "Cobie Smulders",
+        "character": "Maria Hill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2CSgHUIrEi57pwtzdAY3HAxrp31.jpg"
+      },
+      {
+        "name": "Numan Acar",
+        "character": "Dimitri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ai6pU18NwGBgkTty6o5Fy8LbgDQ.jpg"
+      },
+      {
+        "name": "Zach Barack",
+        "character": "Zach",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5kpXAxTMeY6X7ekSkiPk6AtAQgO.jpg"
+      },
+      {
+        "name": "Zoha Rahman",
+        "character": "Zoha",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6TQvJwTzB4OvpXWtLNYIVQzE5Qx.jpg"
+      },
+      {
+        "name": "Yasmin Mwanza",
+        "character": "Yasmin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f4dySc3EPPrH1sXXFKK4XPR8Yy4.jpg"
+      },
+      {
+        "name": "Joshua Sinclair-Evans",
+        "character": "Josh Spinelli",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8e1AfD1SnsexaT1VGfGjOQgiRAv.jpg"
+      },
+      {
+        "name": "Tyler Luke Cunningham",
+        "character": "Tyler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c8GbjQfcNDG5So5L9JQMSZ5UuvQ.jpg"
+      },
+      {
+        "name": "Sebastián Viveros",
+        "character": "Sebastian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/szDZssPtpGwcWS2WsSIDvCNngnO.jpg"
+      },
+      {
+        "name": "Toni Garrn",
+        "character": "The Seamstress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n7PeEksDCg0vInOpeebCsvGW1oq.jpg"
+      },
+      {
+        "name": "Peter Billingsley",
+        "character": "William Ginter Riva",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Aq3fcRbEifBWfOgBIbZdPDcDUW.jpg"
+      },
+      {
+        "name": "Clare Dunne",
+        "character": "Victoria",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2OL6i4ahFHrbJHt1uLCCWfr7VPn.jpg"
+      },
+      {
+        "name": "Nicholas Gleaves",
+        "character": "Guterman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wdfu7tOUQTPmOIHJB53Q6kfcvqh.jpg"
+      },
+      {
+        "name": "Claire Rushbrook",
+        "character": "Janice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7jCBMV5n2HLPDtAIMPXOXNo7Nzh.jpg"
+      },
+      {
+        "name": "J.K. Simmons",
+        "character": "J. Jonah Jameson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+      },
+      {
+        "name": "Dawn Michelle King",
+        "character": "E.D.I.T.H. (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9MK4CdrnXqkME1PRpCI6JbR7RJK.jpg"
+      },
+      {
+        "name": "Jeroen van Koningsbrugge",
+        "character": "Dutch Soccer Hooligan 1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/atgQvtWOysAEIJHInCb7o0biZHx.jpg"
+      },
+      {
+        "name": "Michael de Roos",
+        "character": "Dutch Soccer Hooligan 2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qVALIV4Vch91pIzo074aJWUfOpn.jpg"
+      },
+      {
+        "name": "Jan-Paul Buijs",
+        "character": "Dutch Soccer Hooligan 3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cP74uvrdLi9XirodUt5hqFGZcmq.jpg"
+      },
+      {
+        "name": "Sergio Pierattini",
+        "character": "Venetian Glassblower",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gaxyTukKsStXmBLMGWoimU6JN1m.jpg"
+      },
+      {
+        "name": "Anjana Vasan",
+        "character": "Queens Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nMjAhBBLdnc5WTZIWrvU7yKuS4L.jpg"
+      },
+      {
+        "name": "Brian Law",
+        "character": "Queens Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lQYZlNIzOpNNFUztBp4QVwpFusr.jpg"
+      },
+      {
+        "name": "Evelyn Mok",
+        "character": "Queens Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2OCaMRBnRZWNiUdHa68Y5LOzEGU.jpg"
+      },
+      {
+        "name": "Tatiana Lunardon",
+        "character": "Italian TV Newsreader",
+        "profile_path": ""
+      },
+      {
+        "name": "Giada Benedetti",
+        "character": "Italian Customs Office",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aIomn208LsSwtHxIidwq2dP2GRI.jpg"
+      },
+      {
+        "name": "Lukáš Bech",
+        "character": "Helpful Dutch Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oUHmxYXVfP5zvC8jHtfYw5A0C9L.jpg"
+      },
+      {
+        "name": "Alessandro Giuggioli",
+        "character": "Italian Street Vendor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8cua47EFqMvHgsIdtRv2f2jrfy8.jpg"
+      },
+      {
+        "name": "Petr Opava",
+        "character": "Opera Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Giuseppe Andriolo",
+        "character": "Caricaturist",
+        "profile_path": ""
+      },
+      {
+        "name": "Pat Kiernan",
+        "character": "Pat Kiernan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c8QASMhNim0bXySxaxRrkkzvKQ7.jpg"
+      },
+      {
+        "name": "Shari Abdul",
+        "character": "High School Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o8JxxhbGABGstPAmu9TcO7QnsAW.jpg"
+      },
+      {
+        "name": "Mari Alexandrova",
+        "character": "Tourist in Venice (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lZZBWxfTzWZ4XkFKG0jOuA7YAaj.jpg"
+      },
+      {
+        "name": "Kristen Alminta",
+        "character": "Police Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oraWOSaJPufdGa0TzEAfGOzyGvS.jpg"
+      },
+      {
+        "name": "Vincent Angel",
+        "character": "Midtown High Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1HdGcOz3sYycsBLqh2XlL5JyxJP.jpg"
+      },
+      {
+        "name": "Peter Arpesella",
+        "character": "Airplane Pilot (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7GuaSB2xa6m0DpBtaO6uGSlnZBh.jpg"
+      },
+      {
+        "name": "Lasco Atkins",
+        "character": "Salvation Army guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q0o1l6ss7ZEENyD9mk4hDPL0g5b.jpg"
+      },
+      {
+        "name": "Sitara Attaie",
+        "character": "Dutch Lady (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iPCRQ4UUh37otbd5cj982zq33rq.jpg"
+      },
+      {
+        "name": "Peter Bankolé",
+        "character": "Mob Boss (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2rkllrBuuSdq77LZTjnRbtPtseS.jpg"
+      },
+      {
+        "name": "Blair Barnette",
+        "character": "Queens Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4aXizITM1GW3hqVLy1xheLzmnSh.jpg"
+      },
+      {
+        "name": "Tuwaine Barrett",
+        "character": "Officer Bristow (extended cut)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qYv12xPApje8Lx7G2EbSrLRBxn2.jpg"
+      },
+      {
+        "name": "Anna Benamati",
+        "character": "Shop Owner in Venice (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1aajyLJP1o10jimnfMGyU90Ocmc.jpg"
+      },
+      {
+        "name": "Avondre E.D. Beverley",
+        "character": "High School Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/76cV2WqQITJreuR3Ty9zWTVMzHB.jpg"
+      },
+      {
+        "name": "Bruno Bilotta",
+        "character": "Mob Boss (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1dsqLi8bboTD0UcR1T67dh4MvsJ.jpg"
+      },
+      {
+        "name": "Sharon Blynn",
+        "character": "Soren (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eSxVAqi1fmt9wZfgVxiWBGjJJnm.jpg"
+      },
+      {
+        "name": "Luigi Boccanfuso",
+        "character": "Italian Builder in Venice (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paolo Braghetto",
+        "character": "Poliziotto (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dante Brattelli",
+        "character": "High School Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pchFyNb28L7uQRd8ayeJhb1d6Nk.jpg"
+      },
+      {
+        "name": "Jeff Bridges",
+        "character": "Obadiah Stane (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
+      },
+      {
+        "name": "Graham Burton",
+        "character": "London Passerby (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ken Byrd",
+        "character": "Post Office Customer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sokol Cahani",
+        "character": "Mob Boss (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l2Uj3LsRaykR1dSQe5kayM0RvGq.jpg"
+      },
+      {
+        "name": "Darren Lee Campbell",
+        "character": "Victoria's Crew (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5yXMfY55TT7kvDSqbysR2IWzXRa.jpg"
+      },
+      {
+        "name": "Hélène Cardona",
+        "character": "Austrian Backpacker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Zuf0Xjtw1fDbUNM5AdJ0HBCfjO.jpg"
+      },
+      {
+        "name": "Dian Cathal",
+        "character": "American Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/81W25X7ltYAAuh2vU0rYhuqbBjx.jpg"
+      },
+      {
+        "name": "Jake Cerny",
+        "character": "Airport Traveler (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bcImZzfvIVcyYlzEpTIP6hX2gRp.jpg"
+      },
+      {
+        "name": "Daphne Cheung",
+        "character": "Passport Clerk (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vsXomv8E7Erhw3UUQeObbJXcTqO.jpg"
+      },
+      {
+        "name": "Sam Chuck",
+        "character": "High School Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Victoria Coburn",
+        "character": "Passerby (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kimberly Collison",
+        "character": "Charity Event Mom (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Aw2cn3uFZgkndtcVpYk7qUPiL51.jpg"
+      },
+      {
+        "name": "Tiziana Coste",
+        "character": "Local Venetian (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jaylen Davis",
+        "character": "Tourist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dGLpzhnyLR8MIogFWmArjsmG48w.jpg"
+      },
+      {
+        "name": "Kristianne-Kaith Domingo",
+        "character": "Passerby (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Dunkelberger",
+        "character": "Courier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlie Esquér",
+        "character": "Mexican Survivor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vaOuneEk0KRCbUdsSPywAzFjrsu.jpg"
+      },
+      {
+        "name": "Ria Fend",
+        "character": "Tourist in Venice (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ec83Q7imfvlf3bdWnuyQa6UlZlE.jpg"
+      },
+      {
+        "name": "Ferroz Fernandez",
+        "character": "Tourist in Venice (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Vincent Frattini",
+        "character": "Venice Local (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zQVxV8ypyvauKY4wVyCcMeVXbVn.jpg"
+      },
+      {
+        "name": "Massi Furlan",
+        "character": "Flight Attendant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m374tylu98E7dPkJ1rsnRoARkaZ.jpg"
+      },
+      {
+        "name": "Cynthia Garbutt",
+        "character": "Charity Dinner Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Goodridge",
+        "character": "Tourist in Venice (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sonia Goswami",
+        "character": "Tourist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3fFeh8Tt2BpLiqSwOuNspByVVkK.jpg"
+      },
+      {
+        "name": "Nicholle Hembra",
+        "character": "Saved Londoner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Hennessy",
+        "character": "Hotel Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cRqZQSvSpdtUPZx033dMRp3AUln.jpg"
+      },
+      {
+        "name": "Meagan Holder",
+        "character": "Pretty Tourist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ab033IJGN5R3eLZ5J2YFakDEtQ5.jpg"
+      },
+      {
+        "name": "Patrick Doran",
+        "character": "Partygoer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4gJDmlyxICmnBnLnRDTkUkXYwyS.jpg"
+      },
+      {
+        "name": "Ruth Clarson",
+        "character": "Tourist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7N859OuilHpKYjb96GS97GNsy98.jpg"
+      },
+      {
+        "name": "Chris Hyacinthe",
+        "character": "Sneezy Tour Guide (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Iacono",
+        "character": "Airport Kid Traveler (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pJCPeCryDZhePMsTlU5vs6QVaAW.jpg"
+      },
+      {
+        "name": "Roman Ibragimov",
+        "character": "Bar Customer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Theo Ip",
+        "character": "Tourist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/verQQsbkCXvAlbHXnVrxK8VdPm.jpg"
+      },
+      {
+        "name": "Timothy Christian Jansen",
+        "character": "High School Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Keon Kendrick",
+        "character": "Flight Attendant (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Camille Kinloch",
+        "character": "Midtown High School Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michal Kubal",
+        "character": "Czech TV News Anchor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tHv7sOk5Czg7V6dsP4il0L2Xio9.jpg"
+      },
+      {
+        "name": "Hannah Kurczeski",
+        "character": "Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v81Qy7HAblDQds3hv8IIClcqPGw.jpg"
+      },
+      {
+        "name": "Géraldine Lamarre",
+        "character": "Traffic Warden (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vkozswA9tnJVvrTHWusPArRZYX4.jpg"
+      },
+      {
+        "name": "Jimena Larraguivel",
+        "character": "Mexican Villager (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ntbSJSjbBB7kY9ukrjbbwJ0E2HJ.jpg"
+      },
+      {
+        "name": "Rich Lawton",
+        "character": "Journalist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8MUF2IYphUuiYzqEIF8MCtshbC0.jpg"
+      },
+      {
+        "name": "Kat Leroy",
+        "character": "Czech Traditional Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/plg1lIiX3nCqqbnMMYRZuVKw9vW.jpg"
+      },
+      {
+        "name": "Gavin Lee Lewis",
+        "character": "Londoner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/snwH9NgMV6gS3KXJj0kG7aiicEP.jpg"
+      },
+      {
+        "name": "Patrick Loh",
+        "character": "Airport Passenger (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y1Sl5TyvP8P1SFz9DiDz0XV6YlB.jpg"
+      },
+      {
+        "name": "Joseph Long",
+        "character": "Mob Boss (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kIh1s4CVXqcPb57ya3AMY2v1zxc.jpg"
+      },
+      {
+        "name": "Marian Lorencik",
+        "character": "New Czech Reveler (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xAQrvjx7EI5vIV8I7ebUyGqTAin.jpg"
+      },
+      {
+        "name": "Ketan Majmudar",
+        "character": "Berlin Commuter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x3ZtlMyCRMW4eMvE6MTyMK0IAo4.jpg"
+      },
+      {
+        "name": "Tony Mardon",
+        "character": "Londoner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dprncEBkLdvyiRTfWzNuuNZJB6P.jpg"
+      },
+      {
+        "name": "Antonín Mašek",
+        "character": "Bellboy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eiWJXKjG3naUEZZZhuQuqAFRsQx.jpg"
+      },
+      {
+        "name": "Ben Mendelsohn",
+        "character": "Talos (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pA9mu9D2IolVA0v2Yo0tJm6uUyI.jpg"
+      },
+      {
+        "name": "Bradley Wj Miller",
+        "character": "Passerby (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wP0VXqYlm8zi0plpi5h0EvEAT0K.jpg"
+      },
+      {
+        "name": "Melissa Beth Miller",
+        "character": "Tourist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b7JlT2Y2dhEe0tEuKCBJj74UFzp.jpg"
+      },
+      {
+        "name": "Anthony Molinari",
+        "character": "Mob Guy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Gl1b5Y7QLrdv5vvOwAmJk29joM.jpg"
+      },
+      {
+        "name": "Adrian Mozzi",
+        "character": "Venice Local (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4rJig159KOMmHXaQY7UeZIAzVit.jpg"
+      },
+      {
+        "name": "Brendan Murphy",
+        "character": "Police Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/610WzE4EjTcAZ2vN3LB6GQwIjPP.jpg"
+      },
+      {
+        "name": "Amanda Musso",
+        "character": "Carnival Hot Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Emily Ng",
+        "character": "Italian Tourist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oefwdlgZSwBOo4mZG9X8JgEOIGC.jpg"
+      },
+      {
+        "name": "Daniel Olson",
+        "character": "Czech Guy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j3xT8t6r0B6T1xr9GS0I37A9iNS.jpg"
+      },
+      {
+        "name": "Hiten Patel",
+        "character": "British Station Staff (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Izl7RXweJAcjIU6KoGI60JERKE.jpg"
+      },
+      {
+        "name": "Luigi Petrazzuolo",
+        "character": "Gondolier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vHOYdQcN5zwhuocMdgQC36j38pc.jpg"
+      },
+      {
+        "name": "Aleksandrs Petukhovs",
+        "character": "London Passerby (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vkrKbdFDjQu3iwRZqGzIpHqNJjF.jpg"
+      },
+      {
+        "name": "Annie Pisapia",
+        "character": "Traveler (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rvJf4TCZiMfZElx6Os8Y0PW8M4h.jpg"
+      },
+      {
+        "name": "Jivan Xander Ramesh",
+        "character": "Pedestrian (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x8ru2JcPZHfXvykklErE8Oc5fRT.jpg"
+      },
+      {
+        "name": "Mike Ray",
+        "character": "Passerby (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sofia Renee",
+        "character": "High School Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hK4btXaU0FVYXpfRCZErCgbAMml.jpg"
+      },
+      {
+        "name": "Cailan Robinson",
+        "character": "Victoria's Crew (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/alAyC2apdMXb8aUrdccWsFhxREO.jpg"
+      },
+      {
+        "name": "Emmanuel Rodriguez",
+        "character": "Airport Traveler (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6QYi8f90Ad6oGjqtKnG4T9ofyoJ.jpg"
+      },
+      {
+        "name": "Ray Rosario",
+        "character": "TSA Agent (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dt2ozhqnvwzuecjqFyjfhOQJSq1.jpg"
+      },
+      {
+        "name": "Daniel Ryves",
+        "character": "Dad Collecting Kids (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hEglMPA1IQJ158GO2vl9boVoFW0.jpg"
+      },
+      {
+        "name": "Maurice Sardison",
+        "character": "Party Goer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lMZGskZZasQFXgnaDk7BLtZZQhH.jpg"
+      },
+      {
+        "name": "Karen-J Sear",
+        "character": "American Tourist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ilya Tank Shilov",
+        "character": "Venice Tourist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a9Dc0hfb7OEDe2ZrxFs0Nk5eR79.jpg"
+      },
+      {
+        "name": "Davina Sitaram",
+        "character": "London Tourist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3MP6QyRqc1wuUnvitpZCJ1n9omI.jpg"
+      },
+      {
+        "name": "Joakim Skarli",
+        "character": "London Tourist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kcDgMDDxYnNJooDwKNoABWRf8BG.jpg"
+      },
+      {
+        "name": "Lucas Antoine Starrets",
+        "character": "Tourist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Faith Tarby",
+        "character": "Perfumed Lady (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u4xD8rgOE2j3Gk4Q3jLYKaN2nlu.jpg"
+      },
+      {
+        "name": "Emily Tebbutt",
+        "character": "Venice Tourist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/28PV2ta4a7KKeWz0aXfCgt4SLqx.jpg"
+      },
+      {
+        "name": "Lesdy Vanessa",
+        "character": "Tourist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jessica VanOss",
+        "character": "Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/BDC1kmMAYLx2HzS1Vl1ruyWiQk.jpg"
+      },
+      {
+        "name": "Joe David Walters",
+        "character": "Pawn Shop Owner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bTJ2AMhLoxwwgwt5xYrwlhRLs4e.jpg"
+      },
+      {
+        "name": "Jo Wheatley",
+        "character": "Armed Security Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dale Wilder",
+        "character": "German Office Worker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rocco Wu",
+        "character": "Peter's Art Classmate (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ogpqOTGRfjxRgmXtCG8zBnYcnnv.jpg"
+      },
+      {
+        "name": "Samantha Mishinski",
+        "character": "Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Aristou Meehan",
+        "character": "Italian Boy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uVqU2rbZJqwrb2eagvNJc4E7XTz.jpg"
+      },
+      {
+        "name": "Eric Patrick Cameron",
+        "character": "Midtown High Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u5w0wUVEBXS38hjZ4xyxcn4SGMe.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jon Watts",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fkXChMX6CUXY1yOxBehAzvaTCl7.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "venice, italy",
+    "superhero",
+    "school trip",
+    "europe",
+    "based on comic",
+    "sequel",
+    "destruction",
+    "aftercreditsstinger",
+    "duringcreditsstinger",
+    "marvel cinematic universe (mcu)",
+    "tower of london"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+    "Our friendly neighborhood Super Hero decides to join his best friends Ned, MJ, and the rest of the gang on a European vacation. However, Peter's plan to leave super heroics behind for a few weeks are quickly scrapped when he begrudgingly agrees to help Nick Fury uncover the mystery of several elemental creature attacks, creating havoc across the continent.—Sony Pictures Entertainment",
+    "Some time after Thanos was defeated and Tony Stark's sacrifice, Peter Parker returns to high school. Now, Peter is out to see the world with his classmates and is wanting to take a break from being Spider-Man. But his fun filled trip is suddenly sabotaged when a string of mysterious attacks by creatures called Elementals start wreaking havoc all over the world. To make matters more difficult, Peter finds himself recruited by Nick Fury and an inter dimensional newcomer named Quentin Beck/Mysterio to help fight them and uncover the truth behind the attacks.—Blazer346",
+    "Shortly after the cataclysmic events of Avengers: Endgame (2019), Peter Parker is yearning for normalcy in a post-Blip world. To blow off steam, Parker and his classmates from the Mid-town School of Science and Technology go on a two-week summer field trip to Europe, and this time, he is determined to ask his crush, MJ, out. However, Nick Fury, the no-nonsense founder of the Avengers, has other plans in store for the sixteen-year-old super-hero, as the Elementals, all-powerful, inter-dimensional creatures formed from the primary elements, start to materialise on Earth, wreaking havoc across the world. Surprisingly, only one man has stood up against this new form of threat and managed to tell the tale: Mysterio, a brave new hero. As humankind's latest adversary threatens to wipe Venice off the face of the Earth, Spider-Man joins forces with Mysterio to lend a hand in the battle, only to make a calamitous mistake. In the end, was Tony Stark wrong about Peter?—Nick Riganas"
+  ],
+  "synopsis": "The film opens in a Mexican city, where Nick Fury (Samuel L. Jackson) and Maria Hill (Cobie Smulders) have arrived to investigate the area after a reported cyclone \"with a face\" had torn through the city. Moments later, the two encounter a being known as an Elemental, specifically the one that can manipulate earth. Fury and Maria are met by a man in a super-powered suit named Quentin Beck (Jake Gyllenhaal), and he helps the two fight the Earth Elemental.Cut to Midtown School of Science and Technology where Betty Brant (Angourie Rice) and Jason Ionello (Jorge Lindeborg, Jr) are doing their daily school news report, but they start with an \"In Memoriam\" dedicated to Tony Stark, Steve Rogers, Natasha Romanoff, and Vision. Betty recaps the events of The Snap (or \"The Blip\", as it is called here from 'Avengers: Endgame'), with many students having been dusted away before returning to life and finding that some of their younger classmates have now surpassed them physically.Peter Parker (Tom Holland) discusses with Ned Leeds (Jacob Batalon) his plans to win over Michelle Jones/MJ (Zendaya), on whom he has developed a crush. They are prepping for a class trip to Europe, and Peter hopes that he can tell her how he feels.Peter later attends a fundraiser as Spider-Man, with Aunt May (Marisa Tomei) there to support him (and we learn that she got \"blipped\" too). They are met by Happy Hogan (Jon Favreau), who appears to be flirting with May. He gives Peter a heads-up that Fury is going to call him, which he does almost instantly, but Peter ignores him since he has other things to worry about. He returns outside as Spidey to talk to reporters, but they overwhelm him with questions about becoming the new Iron Man or the next lead Avenger, so he leaves.The class later heads out for the trip, with Peter choosing to leave the Spidey suit behind to enjoy his vacation, but he later finds that May packed it for him anyway. They are chaperoned by Mr. Harrington (Martin Starr) and Mr. Dell (J.B. Smoove), and are joined by other students, including Flash Thompson (Tony Revolori), who is still a big Spidey fan but also still dumps on Peter. On the plane, Peter tries to get Ned to help him switch seats so that he can sit with MJ, but Ned only causes Mr. Harrington to take Peter while MJ is seated next to Brad Davis (Remy Hii), who is one of the kids that didn't get dusted and grew into a handsome athletic superstar. Peter is clearly jealous, while Ned sits next to Betty, and they end up becoming a couple.The class arrives in Venice, Italy for their first stop. They stay in a crummy hotel, but they take time to enjoy the sights, while Peter tries to get closer to MJ. Suddenly, the water levels on the ground start rising. Soon, a massive Water Elemental begins to wreak havoc upon the city, using water to flood the city or destroy buildings. Peter tries to do something about it, but he left his Spidey suit at the hotel. Beck arrives and uses his powers to fight the Water Elemental. He is able to subdue the creature's attacks before ultimately splitting the creature in two. He is seen as a hero by Peter's classmates, and after watching a news report on him, they start to call him \"Mysterio\".Peter and Ned go back to their room, but Ned gets tranquilized by Fury. He has been trying to get Peter's attention, and it hasn't worked until now. They have to leave the room to talk in private since everyone keeps interrupting them. Fury takes Peter to his secret hideout to meet Maria and Beck. Beck explains that he is from an alternate Earth, which is where the Elementals are coming from. This was supposedly caused by The Snap, and Beck claims that the Fire Elemental was the one that destroyed his home world and his family. Fury wants Peter's help in fighting back, but he feels he isn't the Avenger that is qualified to fight beings like these.Fury hijacks the class's vacation by having his employee, Dimitri (Numan Acar), act as a driver to their new and unexpected destination, Prague, as Fury and Beck have learned that's where the Fire Elemental is set to strike. Before heading out, Peter is taken by a tall woman sent by Fury to give him a stealth suit. She orders him to take off his clothes and put it on, but he is found by Brad, who takes a pic of Peter in what looks like a compromising position. Peter runs after him to get rid of the pic, but Brad says he knows that Peter likes MJ too, and he thinks showing her this will make her lean more toward Brad. On their trip, Peter finds Tony's high-tech glasses, EDITH (voice of Dawn Michelle King) (stands for \"Even Dead, I'm The Hero\"), which Tony left for his successor. Peter asks EDITH to handle Brad, which is misinterpreted as a request for an attack. Peter has to (somewhat) discreetly stop the incoming drone from killing Brad, as well as the whole class. He just has EDITH hack into Brad's phone and delete the picture.After arriving in Prague, Mr. Harrington tells the students that they were given tickets to the opera, which ruins their plans to go to the carnival, but it was planned by Fury to keep Peter's friends inside to avoid being caught in the path of the Fire Elemental. Peter is forced to stay outside and be on the lookout, which ruins HIS plan to sit next to MJ. She follows him outside, and Ned and Betty follow since they think the other two are headed for the carnival. Outside, the Fire Elemental emerges and begins to rampage. Spidey and Mysterio team up against the beast, trying to avoid letting it touch metal, or else it will get more powerful. Ned and Betty are trapped on the Ferris wheel as Spidey tries to save them, while Mysterio fights the Fire Elemental. Spidey fires a web at the beast, which pulls something out of it and makes it land near a hidden MJ. Mysterio then uses his powers to dive into the Fire Elemental's chest and destroy it. Peter goes down to make sure he is okay. However, he still gets chewed out by Fury for not doing what he told him to.As the gang moves to Berlin, Peter and Beck are called by Fury and Maria to discuss forming a new team. Peter privately meets with Beck, and Peter thinks that Beck is the one that truly deserves EDITH, since he thinks Tony only left it for him to choose who is worthy of succeeding Iron Man. After Peter leaves, Beck takes down what has been a whole illusion in a dilapidated building. Everyone there works for him, and they are all disgruntled former employees of Stark Industries. Beck has been making up the Elementals to get people to see him as the hero, using drones to create the destruction left behind by their appearances. He and everyone there have been pissed at Tony for stealing their work, his Binary Augmented Retro Framing (BARF), and they have all worked together to get people to forget about Iron Man or Spider-Man, and to make way for Mysterio.Peter goes back to the hotel to invite MJ to go out with him without anybody else. As he tries to tell her how he feels, she cuts him off to reveal she knows he's Spider-Man, due to the many \"coincidences\" involving them being in the same places at the same time. She then pulls out what she found at the site of the Fire Elemental fight, a projector that shows Mysterio fighting the as-yet-unseen Air Elemental. The two realize that Beck is behind the Elementals and that he is a fraud. As Beck and his goons prepare for the Air Elemental \"Avengers level\" attack, they find that the missing projector from one of their drones is in Peter's hands.Peter goes to meet with Fury and Maria about Beck's true motives, but it turns out Beck has caught up to Peter first and has created an entire illusion to trap him in. He taunts Peter for not being the hero he wants to be, and even forces him to endure a projection of Tony bursting from his grave and coming out to terrorize him. It appears as though Fury subdues Beck and asks Peter who else he told about Beck, and he admits that he told MJ, Ned, and that Ned probably told Betty. This turns out to be another one of Beck's tricks, and now he knows to kill Peter's friends. He also puts Peter in the path of a train, which appears to strike him, but Peter is merely hurt really bad, and he passes out on the train.Peter wakes up in a jail cell in the Netherlands. After breaking out, he calls Happy to come get him. While Happy tends to his wounds, Peter breaks down and says that he doesn't get why Tony would pick him as a successor when he keeps screwing everything up. Happy reassures him that Tony believed in him for a reason, and that he knew Peter would be the hero he needs to be. Peter picks himself up and goes to create himself a new suit from Tony's computer before they head to London to rescue his friends.The class is taking a tour bus ride around London, but it's driven by one of Beck's goons. They stop on the London Bridge as Mysterio gets the Air Elemental ready to attack. Spidey shows up in a new suit for battle. Happy goes to get Ned, MJ, Betty, and Flash, but his jet gets blown up and they have to hide in a medieval tower as the drones go after them. They hide in a room, but MJ manages to knock down a drone with a mace before having to stay locked in a room. Spidey enters the illusion of the Air Elemental and webs all the drones together to get them to crash and break the illusion. He proceeds to destroy more drones before Mysterio has him cornered and faces a horde of drones directed at him while under an illusion. Using his Spider-Sense, Spidey dodges all the drones, destroys them all, and in the chaos, one of them shoots Mysterio. Peter goes to get EDITH, but Beck attempts one last illusion to kill him, and it fails, leaving Beck to die in disgrace. Peter then disables all the drones. Afterwards, he and MJ run onto the bridge to meet with each other. They acknowledge their mutual feelings, and they kiss. Fury tries to get Peter again, but Happy tells him to leave the kid alone since he's with his new girlfriend.The students return home. Peter sits Happy and May down to discuss their apparently developing relationship, but while Happy thinks they are an item, May thinks they just had a fling. Peter then goes out to meet MJ for a date as Spidey. He takes her for a swing around the city, although the heights freak her out.Mid-Credits: After their \"date\", Spidey drops MJ off in the streets. They then overhear a breaking news broadcast in the middle of the city. Apparently, Beck recorded a video before his death and sent it to the Daily Bugle. It is shown by none other than the ruthless and antagonistic chief editor J. Jonah Jameson (played by none other than J.K. Simmons), and what plays is a doctored video done by Beck to make people think Spider-Man orchestrated the drone attacks on London. Beck then outs Spidey as Peter Parker to the whole city, leaving New Yorkers in disbelief over their hero, and putting Peter in a very troubling position...Post-Credits: Fury and Maria are revealed to have been the Skrulls Talos (Ben Mendelsohn) and his wife Soren (Sharon Blynn). They were ordered by Fury to give EDITH to Peter, and Talos gives Fury an update on what had just happened. Fury is then shown to be relaxing on a Skrull ship, which he is apparently commandeering.",
+  "imdb_score": 7.4
+}

@@ -1,0 +1,508 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/4kb7uR1UmXa33U6GB6F9xckFlhn.jpg",
+  "id": 614917,
+  "title": "King Richard",
+  "poster_path": "https://image.tmdb.org/t/p/w500/vjpMd1dsEsVBoUhq6iVHXwwFj9n.jpg",
+  "release_date": "2021-11-18",
+  "vote_average": 7.697,
+  "vote_count": 2209,
+  "popularity": 39.124,
+  "overview": "The story of how Richard Williams served as a coach to his daughters Venus and Serena, who will soon become two of the most legendary tennis players in history.",
+  "imdb_id": "tt9620288",
+  "budget": 50000000,
+  "homepage": "https://www.kingrichardfilm.net",
+  "revenue": 39400000,
+  "runtime": 144,
+  "tagline": "Venus, Serena and a plan for greatness.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    "Star Thrower Entertainment",
+    "Westbrook Studios",
+    "Warner Bros. Pictures",
+    "Overbrook Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Will Smith",
+        "character": "Richard Williams",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1QqaRZ8neYlqLx7ODZC4as47wUV.jpg"
+      },
+      {
+        "name": "Aunjanue Ellis-Taylor",
+        "character": "Oracene \"Brandy\" Price",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rKLTo72uhxvQbkGw27nTjH1uCHA.jpg"
+      },
+      {
+        "name": "Saniyya Sidney",
+        "character": "Venus Williams",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3GO94ImDSWeFiBIkKpghkcjz0Fk.jpg"
+      },
+      {
+        "name": "Demi Singleton",
+        "character": "Serena Williams",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A11knIgd0doXeZYdiwIpNkskRoy.jpg"
+      },
+      {
+        "name": "Jon Bernthal",
+        "character": "Rick Macci",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2NZGL8ukRncF55S3seNn14Zj84i.jpg"
+      },
+      {
+        "name": "Mikayla LaShae Bartholomew",
+        "character": "Tunde Price",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Goldwyn",
+        "character": "Paul Cohen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kLuvuxspqKvR2F8zk3Gc1b0KhkQ.jpg"
+      },
+      {
+        "name": "Susie Abromeit",
+        "character": "Robin Finn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7tMmET3hW1q1l78jDvQJd4XQGlo.jpg"
+      },
+      {
+        "name": "Dylan McDermott",
+        "character": "Will Hodges",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3i69RNLuL7KOD9pCmHQYruhcOdn.jpg"
+      },
+      {
+        "name": "Judith Chapman",
+        "character": "Nancy Reagan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h9Yw9aGeq7tKIxg2VVNPna8cnY8.jpg"
+      },
+      {
+        "name": "Erin Cummings",
+        "character": "Social Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4GpursPJJ6eImqos5XM5RlkDqI8.jpg"
+      },
+      {
+        "name": "Katrina Begin",
+        "character": "Anne Worchester",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6kcjQWWfUGdOKBiRF6VNCkpf60w.jpg"
+      },
+      {
+        "name": "Andy Bean",
+        "character": "Laird Stabler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4BiltJsO0KO7E9Mgyj8wMekbEBA.jpg"
+      },
+      {
+        "name": "Kevin Dunn",
+        "character": "Vic Braden",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7dqLQjMNCQnuxQJQwQ5Ozz16LBq.jpg"
+      },
+      {
+        "name": "Craig Tate",
+        "character": "Bells",
+        "profile_path": "https://image.tmdb.org/t/p/w185/509fvrZgzAcXrJ3zKSIvwb7J3Ck.jpg"
+      },
+      {
+        "name": "Calvin Clausell Jr.",
+        "character": "Braze",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniele Lawson",
+        "character": "Isha Price",
+        "profile_path": ""
+      },
+      {
+        "name": "Layla Crawford",
+        "character": "Lyndrea Price",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5qhn3MyfVm16ni0Tueqt9yrUSLh.jpg"
+      },
+      {
+        "name": "Erika Ringor",
+        "character": "Ms. Strickland",
+        "profile_path": ""
+      },
+      {
+        "name": "Noah Bean",
+        "character": "PV CC Tennis Pro",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tp5khe5mm2XddjDbRTSFhTzQMF.jpg"
+      },
+      {
+        "name": "Josiah Cross",
+        "character": "TD",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t6wC8LhdCPhlsIsyzqZSro54hfa.jpg"
+      },
+      {
+        "name": "Vaughn W. Hebron",
+        "character": "Monsta",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nGigNcqhQB3zJ6233jPJg6iQiXf.jpg"
+      },
+      {
+        "name": "Jimmy Walker Jr.",
+        "character": "Old Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ucTGwh5gTwU3063omYa6FXtSZkC.jpg"
+      },
+      {
+        "name": "Brad Greenquist",
+        "character": "Bud Collins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kbucYMeLCNUk03HuP9SxQajEBnI.jpg"
+      },
+      {
+        "name": "Johnno Wilson",
+        "character": "Incredulous Pro",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mc025GX2Ynsm6mS1tm6QmxzerGW.jpg"
+      },
+      {
+        "name": "Robert Nuscher",
+        "character": "Baffled Pro",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Wallinger",
+        "character": "John McEnroe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5VCVoAK7ChI7TMNH4ZUC2MuMUfD.jpg"
+      },
+      {
+        "name": "Chase Del Rey",
+        "character": "Pete Sampras",
+        "profile_path": ""
+      },
+      {
+        "name": "Connie Ventress",
+        "character": "Tournament Director",
+        "profile_path": ""
+      },
+      {
+        "name": "Vivienne Bersin",
+        "character": "Stacey",
+        "profile_path": ""
+      },
+      {
+        "name": "Andy Hoff",
+        "character": "Stacey's Dad - Trevor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i9HJpnlNrZO20qjEVRn2VChVuCx.jpg"
+      },
+      {
+        "name": "Carrie Gibson",
+        "character": "Line Judge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mAzEqxagUYim7m2Edl9jJcH8xH3.jpg"
+      },
+      {
+        "name": "Doug Simpson",
+        "character": "Girl #3 Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pG90BnHQCp8N8NGmQhivMIU1Rix.jpg"
+      },
+      {
+        "name": "Brandon Morales",
+        "character": "Deputy #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ei98nkcYPPRSQz6hb55aR8nqroh.jpg"
+      },
+      {
+        "name": "Wil J. Jackson",
+        "character": "Deputy #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nDXpRYtoJ6oBWdT1x3bUvGVHcKa.jpg"
+      },
+      {
+        "name": "Erica Shaffer",
+        "character": "Tournament Official",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7L6yfu2SETLrd08WDS7vqGtGZbQ.jpg"
+      },
+      {
+        "name": "Matt Kirkwood",
+        "character": "Tennis Father #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Chet Grissom",
+        "character": "Matthew Titone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yTfrcarwGM9H8F47VA2Z0sXATCF.jpg"
+      },
+      {
+        "name": "Alden Sherrill",
+        "character": "Another Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Eman Esfandi",
+        "character": "Barry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qC7GMBvuMMGOrs2ahcROsdmkkz1.jpg"
+      },
+      {
+        "name": "Jessica Wacnik",
+        "character": "Jennifer Capriati",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Bray",
+        "character": "ESPN Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xKcbHsF3w3i9ASDqkNQrHkHjAJo.jpg"
+      },
+      {
+        "name": "Robert Walker Jeffery",
+        "character": "Reporter (Florida)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eWuHBlE200sIki0QJQjdu98aUsJ.jpg"
+      },
+      {
+        "name": "Rich Sommer",
+        "character": "Patrick Dougherty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tqpwfXczNvvel5Dep5ejUD4X9ie.jpg"
+      },
+      {
+        "name": "Kaitlyn Christian",
+        "character": "Shaun Stafford",
+        "profile_path": ""
+      },
+      {
+        "name": "Geoff Nathanson",
+        "character": "Tennis Announcer",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcela Zacarias",
+        "character": "Arantxa Sanchez Vicario",
+        "profile_path": ""
+      },
+      {
+        "name": "Jake Jensen",
+        "character": "Pro Shop Attendant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dEdlwRIgmJddZH2dwrmWrD4dGh2.jpg"
+      },
+      {
+        "name": "Chris Pentzell",
+        "character": "Another Incredulous Pro",
+        "profile_path": ""
+      },
+      {
+        "name": "Sophia Sanders",
+        "character": "Girl #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Mia Jovic",
+        "character": "Girl #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Iva Jovic",
+        "character": "Girl #5",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Andrew Baker",
+        "character": "Girl #6 Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yww1ArQy1dRZFu5w7iwpT7AhSfe.jpg"
+      },
+      {
+        "name": "Tom Holmes",
+        "character": "Girl #6 Father",
+        "profile_path": ""
+      },
+      {
+        "name": "Kamea Medora",
+        "character": "Girl #8",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Degnan",
+        "character": "Girl #8 Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2S2h0Kv5hCVT7wzdwZUerARuMCn.jpg"
+      },
+      {
+        "name": "Virginia Schneider",
+        "character": "Woman In Crowd",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff Cohn",
+        "character": "Chair Ump - Pro Match",
+        "profile_path": ""
+      },
+      {
+        "name": "Adam Cropper",
+        "character": "Neighbor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tWx41hMQJnpBzI4Mf3Un7nbm9ZP.jpg"
+      },
+      {
+        "name": "Danya LaBelle",
+        "character": "Tournament Official - Oakland Coliseum",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5U6EVYgvyqhioe1tQCw1VcQFrbT.jpg"
+      },
+      {
+        "name": "Rod Sweitzer",
+        "character": "Pro Match Newspaper Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "George Ketsios",
+        "character": "Pro Match Tournament Staff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iU40VAycPnPiHEc2vIcpscraid6.jpg"
+      },
+      {
+        "name": "Valerie Davidson",
+        "character": "Tennis Official",
+        "profile_path": ""
+      },
+      {
+        "name": "Christian Yeung",
+        "character": "Pro Match Line Judge",
+        "profile_path": ""
+      },
+      {
+        "name": "Teri Cohn",
+        "character": "Pro Match Net Judge",
+        "profile_path": ""
+      },
+      {
+        "name": "Hannah Barefoot",
+        "character": "Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/duMdWlldESIqFYDpaJNAcLFzTTq.jpg"
+      },
+      {
+        "name": "Mel Fair",
+        "character": "Male TV Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Q9sIiikHS5HvDO89KscfnruZrb.jpg"
+      },
+      {
+        "name": "Holly Haggerty",
+        "character": "Net Cord Linesman",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary Pascoe",
+        "character": "Rivera Country Club Waitress",
+        "profile_path": ""
+      },
+      {
+        "name": "Albert Ton",
+        "character": "Chair Ump - Stafford Match",
+        "profile_path": ""
+      },
+      {
+        "name": "Ebboney Wilson",
+        "character": "Shouting Spectator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n9NgWyaWIMjrJ6gLSKdAx9klsRT.jpg"
+      },
+      {
+        "name": "Hailey Winslow",
+        "character": "Female TV Announcer",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Wolfe",
+        "character": "Pro Match TV Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k3QnVCqxdL5khYaWcR1IFODkA3r.jpg"
+      },
+      {
+        "name": "Gunner Wright",
+        "character": "AP3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b61iQAcvqxzEu866MZkn7C2buya.jpg"
+      },
+      {
+        "name": "Tory N. Thompson",
+        "character": "Venus Fan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bA5XgQBhWzzRZfRHFDjAUWSjX0W.jpg"
+      },
+      {
+        "name": "Sean Berube",
+        "character": "Tennis Coach",
+        "profile_path": ""
+      },
+      {
+        "name": "Sean Fabian Billings",
+        "character": "Tennis Vendor",
+        "profile_path": ""
+      },
+      {
+        "name": "Sophia Bui",
+        "character": "Country Club Poolside Gal",
+        "profile_path": ""
+      },
+      {
+        "name": "Kika Cicmanec",
+        "character": "Elite Tennis Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l5qJsjzmtYY17vRHM3NwOvHZEd1.jpg"
+      },
+      {
+        "name": "John Dinan",
+        "character": "Tennis Pro",
+        "profile_path": ""
+      },
+      {
+        "name": "Diana Dray",
+        "character": "Spectator",
+        "profile_path": ""
+      },
+      {
+        "name": "Mathew Trent Hunnicutt",
+        "character": "Referee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mcPIgNiKHWrokBKF8PX6PJuwof1.jpg"
+      },
+      {
+        "name": "Jeni Jones",
+        "character": "Line Judge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2ayGEdebvjlFdPwd0wm4A29rtFP.jpg"
+      },
+      {
+        "name": "Trent Longo",
+        "character": "Tennis Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Katie McCabe",
+        "character": "Country Club Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eNMnnls2wPN7LeE70jK5BkQtPQ6.jpg"
+      },
+      {
+        "name": "Aryn Nelson",
+        "character": "Parent",
+        "profile_path": ""
+      },
+      {
+        "name": "Tristan Nokes",
+        "character": "Audience Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Sachoff",
+        "character": "Florida TV Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i0ogjEzllCYCo6W0JsxdIkQoYF2.jpg"
+      },
+      {
+        "name": "Gabi Stewart",
+        "character": "Tennis Pro",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Reinaldo Marcus Green",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4QYHfAHH2Vatsm1KoF8cXtl47jo.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "tennis",
+    "tennis player",
+    "father",
+    "based on true story",
+    "wimbledon",
+    "family",
+    "tennis pro",
+    "father daughter relationship",
+    "coaching",
+    "champions",
+    "sport"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A look at how tennis superstars Venus and Serena Williams became who they are after the coaching from their father Richard Williams.",
+    "Armed with a clear vision and a brazen 78-page plan, Richard Williams is determined to write his daughters, Venus and Serena, into history. Training on Compton, California's neglected tennis courts--rain or shine--the girls are shaped by their father's unyielding commitment and their mother's balanced perspective and keen intuition, defying the seemingly insurmountable odds and prevailing expectations laid before them. Based on the true story that will inspire the world, \"King Richard\" follows the uplifting journey of a family whose unwavering resolve and unconditional belief ultimately delivers two of the world's greatest sports legends.—Anonymous",
+    "Shaped by a loving relationship with his wife, Oracene Price, racial discrimination, violence, and poverty, Richard Williams wants to take the tennis world by storm. Driven by a bold vision, strong-willed Richard is ready to move heaven and earth to overcome whatever life throws his way, and catapult his daughters, Venus Williams and Serena Williams, into tennis superstardom. And with dogged determination, unwavering faith, and unconventional methods, Richard has a plan to take his girls from the streets and raggedy courts of Compton, California, to Wimbledon and beyond.—Nick Riganas"
+  ],
+  "synopsis": "Richard Williams (Will Smith) lives in Compton, California, with his wife Brandy (Aunjanue Ellis), his three stepdaughters (Tunde Price (Mikayla LaShae Bartholomew), Isha Price (Danielle Lawson) & Lyndrea Price (Layla Crawford)), and his two daughters, Venus (Saniyya Sidney) and Serena (Demi Singleton). Richard aspires to turn Venus and Serena into professional tennis players; he has prepared a plan for success since before they were born. Richard and Brandy coach Venus and Serena on a daily basis, while also working as a security guard and a nurse, respectively. Richard works tirelessly to find a professional coach for the girls, creating brochures and videotapes to advertise their skills, but has not had success. Most professional coaches don't take Richard seriously and keep turning him down.Mrs. Strickland (Erika Ringor) is their neighbor who feels that Richard works the girls too hard. Richard tells her not to speak to his kids again. Brandy knows that they can't keep up this pace of having full time jobs and coaching the girls in between. The girls need a full-time coach.Richard finds Vic Braden (Kevin Dunn) info from a magazine and asks him to coach the girls for free, but Vic says that nobody is taking that bet. Vic says that it takes years of practice just to hold the racket right. And the odds of grand slam success are astronomically slim.\nA nigger hoodlum named Roc was harassing Tunde and wont back off despite Richards telling him that she is only 16 and not interested in him. Roc continues to pursue Tunde and even assaults Richard. Richard decides to shoot Roc but finds that he has been killed in a drive-by shooting.One day, Richard takes the girls to see coach Paul Cohen (Tony Goldwyn), who is in the middle of practicing with John McEnroe (Christopher Wallinger) and Pete Sampras (Chase Del Rey). Despite his initial reservations, he agrees to watch the girls practice, and is impressed. However, the Williamses cannot afford professional coaching, and Paul refuses to coach both girls for free; he selects Venus to receive his coaching, while Serena continues to practice with Brandy. Richard records all of Venus's sessions and plays then for Serena, so she can learn. Richard has several disagreements with Paul. Richard favors an open hitting style, while Paul coaches Venus to play with a closed stance to get more power in her shots.Paul encourages Venus to participate in junior's tournaments. Paul says that juniors get players noticed by agents, who can get sponsors, which can pay for the coaching and the training. She quickly finds success, but Richard stresses to Venus and her sisters that they should remain humble despite their success. At one of Venus's tournaments, Serena also signs up to play, unbeknownst to Richard. As both girls continue to succeed, the family are treated as outsiders among the predominantly white, upper-class competition. Richard meets with high-profile agents (George MacArthur (Dylan McDermott) & Laird Stabler (Andy Bean)), but, fearing that his daughters will be taken advantage of (They offer $100K / year for training and tournaments and Richard knows that the girls are worth a lot more than that), pulls them out of the junior circuit entirely. Paul warns him that his decision will destroy the girls' chances to turn pro, but Richard stands firm, firing Paul as coach.Richard calls Coach Rick Macci (who coached Capriati) to come and see the Williams girl play.\nCoach Rick Macci (Jon Bernthal) travels to California to see the girls play. Impressed, he takes the girls on (He will pay all expenses, but will take 15% of all future earnings), and the family relocates to Florida (which is part of Richard's demand from Rick) to train at his facility. Richard surprises Rick by reiterating that the girls will not play juniors, instead training and attending school like normal little girls. In the ensuing three years, questions arise from the media and from Rick about Richard's strategy with the girls and his desire for media exposure.Venus tells Rick that she wants to turn pro. Richard reluctantly agrees, but later reneges, worrying that she will suffer a similar fate to Rick's pupil Jennifer Capriati (Jessica Wacnik), who is allegedly suffering from burnout and has been arrested for drug possession. The decision strains Richard's relationships with Venus, Brandy, and Rick. After an argument with Brandy, he reconciles with Venus, agreeing to let her play in the upcoming Bank of the West Classic in Oakland, California. Before the tournament, the family meets with a Nike executive, who offers them a major sponsorship deal worth 3 million dollars. Rick urges them to accept, but the family collectively agrees to decline, believing that once Venus begins to play, she will attract more lucrative offers.Venus initially struggles in her first professional match against Shaun Stafford (Kaitlyn Christian), but eventually triumphs. She comes in as a heavy underdog in her next match against top seeded Arantxa Sánchez Vicario (Marcela Zacarías). Venus takes the first set and leads in the second before Vicario takes an extended bathroom break (more than 15 mins), an apparent act of gamesmanship to ice Venus. Sánchez Vicario recovers to win the second set and the match. Richard and Brandy comfort a dejected Venus, telling her to be proud. As the family leaves the stadium, a large crowd of supporters is waiting to cheer her on, and Rick tells Richard that several major shoe companies are anxious to meet with Venus.An epilogue reveals that nine months later, at the age of 15 Venus would sign a contract with Reebok for $12 million (equivalent to $22,000,000 in 2021). She would go on to win Wimbledon five times and become the first African American woman to be ranked number one in the world during the Open Era. Serena, who joined Venus as a professional two years later, would become a 23-time Grand Slam champion and considered by many to be the greatest female player in tennis history.",
+  "imdb_score": 7.5
+}

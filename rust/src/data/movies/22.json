@@ -1,0 +1,425 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/wW7Wt5bXzPy4VOEE4LTIUDyDgBo.jpg",
+  "id": 22,
+  "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+  "poster_path": "https://image.tmdb.org/t/p/w500/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+  "release_date": "2003-07-09",
+  "vote_average": 7.8,
+  "vote_count": 19660,
+  "popularity": 148.202,
+  "overview": "Jack Sparrow, a freewheeling 18th-century pirate, quarrels with a rival pirate bent on pillaging Port Royal. When the governor's daughter is kidnapped, Sparrow decides to help the girl's love save her.",
+  "imdb_id": "tt0325980",
+  "budget": 140000000,
+  "homepage": "https://movies.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl",
+  "revenue": 655011224,
+  "runtime": 143,
+  "tagline": "Prepare to be blown out of the water.",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+  ],
+  "production_companies": [
+    "Walt Disney Pictures",
+    "Jerry Bruckheimer Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Johnny Depp",
+        "character": "Jack Sparrow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wcI594cwM4ArPwvRd2IU0Z0yLuh.jpg"
+      },
+      {
+        "name": "Orlando Bloom",
+        "character": "Will Turner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+      },
+      {
+        "name": "Keira Knightley",
+        "character": "Elizabeth Swann",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg"
+      },
+      {
+        "name": "Geoffrey Rush",
+        "character": "Hector Barbossa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/npXFjaFQzBNroCEPllGPTZ5IisA.jpg"
+      },
+      {
+        "name": "Jack Davenport",
+        "character": "James Norrington",
+        "profile_path": "https://image.tmdb.org/t/p/w185/shGH0YWJBfiJznidS0f2ZfN056c.jpg"
+      },
+      {
+        "name": "Jonathan Pryce",
+        "character": "Weatherby Swann",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zwSv5uXzPTtmitFe39UdqnVwmdL.jpg"
+      },
+      {
+        "name": "Lee Arenberg",
+        "character": "Pintel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sjv8tdXzLwC8lZi6Ou6i6z5RbrW.jpg"
+      },
+      {
+        "name": "Mackenzie Crook",
+        "character": "Ragetti",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r17GbBnCjJjwUaRM3KY2e8GBjbG.jpg"
+      },
+      {
+        "name": "Damian O'Hare",
+        "character": "Gillette",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bO6TMDYluACYKy7zWEloym1SUa5.jpg"
+      },
+      {
+        "name": "Giles New",
+        "character": "Murtogg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e0Ap9fkLAFcxLVHpK8KH2TQV3wI.jpg"
+      },
+      {
+        "name": "Angus Barnett",
+        "character": "Mullroy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jq30ZKBPyiQT128nV5PdjgVXtzH.jpg"
+      },
+      {
+        "name": "David Bailie",
+        "character": "Cotton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k2UbrUPJMTZOHIw8Z9V3hutQRAe.jpg"
+      },
+      {
+        "name": "Michael Berry Jr.",
+        "character": "Twigg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zBztnwkcw1EVxUfsvK8ieeqUXRV.jpg"
+      },
+      {
+        "name": "Isaac C. Singleton Jr.",
+        "character": "Bo'sun",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AsVdOAbT1Ewqy6fbWZTvfKWkt4r.jpg"
+      },
+      {
+        "name": "Kevin McNally",
+        "character": "Joshamee Gibbs",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1QvG7MbfeWxb4LlZrlR4OtwvB8v.jpg"
+      },
+      {
+        "name": "Treva Etienne",
+        "character": "Koehler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4fbALszVEROvVmlg04Z0aqQwGn7.jpg"
+      },
+      {
+        "name": "Zoe Saldaña",
+        "character": "Anamaria",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+      },
+      {
+        "name": "Guy Siner",
+        "character": "Harbormaster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fp5X9KNUhL8EGVg1uCD6Vc4c5E.jpg"
+      },
+      {
+        "name": "Ralph P. Martin",
+        "character": "Mr. Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/99pzAN9UkYxlfAPdno75EMZrw9w.jpg"
+      },
+      {
+        "name": "Paula J. Newman",
+        "character": "Estrella",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dUjxwTdKW8AOUczSvp5BltgYoB9.jpg"
+      },
+      {
+        "name": "Paul Keith",
+        "character": "Butler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y9OkeYOpSQBuLl3Z5JCfKdl1MRP.jpg"
+      },
+      {
+        "name": "Dylan Smith",
+        "character": "Young Will",
+        "profile_path": "https://image.tmdb.org/t/p/w185/64p9GyJO9Mi9YKZ0JKuIZaM8k8U.jpg"
+      },
+      {
+        "name": "Lucinda Dryzek",
+        "character": "Young Elizabeth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ezfeShOLfCtHeIjqGvVMJ9rJUSG.jpg"
+      },
+      {
+        "name": "Luke de Woolfson",
+        "character": "Frightened Sailor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6xYlGg3UroTxcQeBriKWm02I6LW.jpg"
+      },
+      {
+        "name": "Michael Sean Tighe",
+        "character": "Seedy Looking Prisoner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nmkjis90TlWIzxoB1ORz14C05tN.jpg"
+      },
+      {
+        "name": "Greg Ellis",
+        "character": "Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8PlVCevV5c2QIdZ1S6bX0ttaRUC.jpg"
+      },
+      {
+        "name": "Dustin Seavey",
+        "character": "Sentry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zCXtojkmJUWYSpXWZmOWErjWaw5.jpg"
+      },
+      {
+        "name": "Christian Martin",
+        "character": "Steersman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Eba9x4xsv3T4sqpMcVCkCKgxVe.jpg"
+      },
+      {
+        "name": "Israel Aduramo",
+        "character": "Crippled Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kAJHUpeME7KJbOz1kCvnV7wdls.jpg"
+      },
+      {
+        "name": "Trevor Goddard",
+        "character": "Grapple",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hQvYSwjP8beKIKyAf2N5OlPkW7Q.jpg"
+      },
+      {
+        "name": "Vince Lozano",
+        "character": "Jacoby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tgUss3KYMqL3BaTh8637kjD4s5k.jpg"
+      },
+      {
+        "name": "Ben Wilson",
+        "character": "Seedy Prisoner #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Antonio Valentino",
+        "character": "Seedy Prisoner #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Lauren Maher",
+        "character": "Scarlett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/udtzRPT5cf5wQSW7QT7UcnD79Os.jpg"
+      },
+      {
+        "name": "Matthew Bowyer",
+        "character": "Sailor / Edinburgh",
+        "profile_path": ""
+      },
+      {
+        "name": "Brye Cooper",
+        "character": "Mallot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hAGh6uvfvbk5lsyJvqYsgOrJYJs.jpg"
+      },
+      {
+        "name": "Mike Babcock",
+        "character": "Seedy Prisoner #4",
+        "profile_path": ""
+      },
+      {
+        "name": "Owen Finnegan",
+        "character": "Town Clerk",
+        "profile_path": ""
+      },
+      {
+        "name": "Ian McIntyre",
+        "character": "Sailor",
+        "profile_path": ""
+      },
+      {
+        "name": "Vanessa Branch",
+        "character": "Giselle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/leVq44Yks0jtSGDE7vvhIqmgJAe.jpg"
+      },
+      {
+        "name": "Sam Roberts",
+        "character": "Crying Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Ben Roberts",
+        "character": "Crying Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Klebba",
+        "character": "Marty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/schnhMaXtfv5EC7EJODTgMcfzPe.jpg"
+      },
+      {
+        "name": "Félix Castro",
+        "character": "Moises",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Haberecht",
+        "character": "Kursar",
+        "profile_path": ""
+      },
+      {
+        "name": "Rudolph McCollum",
+        "character": "Matelot",
+        "profile_path": ""
+      },
+      {
+        "name": "Gerard J. Reyes",
+        "character": "Tearlach",
+        "profile_path": ""
+      },
+      {
+        "name": "M. Scott Shields",
+        "character": "Duncan",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Sullivan",
+        "character": "Ladbroc",
+        "profile_path": ""
+      },
+      {
+        "name": "Craig Thomson",
+        "character": "Crimp",
+        "profile_path": ""
+      },
+      {
+        "name": "Fred Toft",
+        "character": "Quartetto",
+        "profile_path": ""
+      },
+      {
+        "name": "D.P. FitzGerald",
+        "character": "Weatherby",
+        "profile_path": ""
+      },
+      {
+        "name": "Jerry Gauny",
+        "character": "Ketchum",
+        "profile_path": ""
+      },
+      {
+        "name": "Maxie J. Santillan Jr.",
+        "character": "Maximo",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Earl Lane",
+        "character": "Monk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yEnhLwlx4nl3G0xlTcZrKl3QY5J.jpg"
+      },
+      {
+        "name": "Tobias McKinney",
+        "character": "Dog Ear",
+        "profile_path": ""
+      },
+      {
+        "name": "David Patykewich",
+        "character": "Clubba",
+        "profile_path": "https://image.tmdb.org/t/p/w185/awBek9ACRk6LGur6qKQJzpfjm5K.jpg"
+      },
+      {
+        "name": "Tommy Schooler",
+        "character": "Scarus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4h1z8wf0Z74iHDax4N93UXUJyQd.jpg"
+      },
+      {
+        "name": "Michael A. Thompson",
+        "character": "Simbakka",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael W. Williams",
+        "character": "Hawksmoor",
+        "profile_path": ""
+      },
+      {
+        "name": "José Zelaya",
+        "character": "Katracho",
+        "profile_path": ""
+      },
+      {
+        "name": "Finneus Egan",
+        "character": "Scratch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/14gJ3G0oGpb7kT3uq2DYrDi1pPJ.jpg"
+      },
+      {
+        "name": "Don LaDaga",
+        "character": "Nipperkin",
+        "profile_path": ""
+      },
+      {
+        "name": "LeJon Stewart",
+        "character": "Lejon",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher S. Capp",
+        "character": "Cotton's Parrot (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gregory Ryan Alosio",
+        "character": "Pirate (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pap40viuzNnkoD2EwriLYOkdgf4.jpg"
+      },
+      {
+        "name": "Jordi Caballero",
+        "character": "Pirate (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kHTPZBlO9KSow33QIxtCpbWcpTc.jpg"
+      },
+      {
+        "name": "Tamara Castle",
+        "character": "Woman in bar (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Gagné",
+        "character": "Sailor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zZZqx4GVhXOI9dKhXqHEJqh9zHb.jpg"
+      },
+      {
+        "name": "Joe Grisaffi",
+        "character": "Marine (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AvHHBuuMZExckAVtshKDgLlhbqK.jpg"
+      },
+      {
+        "name": "James McAuley",
+        "character": "Barbossa's crew (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qQycRnLzplN9XhrbQ7vEPdIJ7CF.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Gore Verbinski",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rSQRdmLNAwdKxrtvBSSlBmWeSsj.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "blacksmith",
+    "east india company",
+    "gold",
+    "exotic island",
+    "governor",
+    "skeleton",
+    "jamaica",
+    "british empire",
+    "pirate",
+    "swashbuckler",
+    "18th century",
+    "caribbean sea",
+    "aftercreditsstinger",
+    "pirate ship",
+    "british navy",
+    "tortuga",
+    "based on theme park ride"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+    "This swash-buckling tale follows the quest of Captain Jack Sparrow, a savvy pirate, and Will Turner, a resourceful blacksmith, as they search for Elizabeth Swann. Elizabeth, the daughter of the governor and the love of Will's life, has been kidnapped by the feared Captain Barbossa. Little do they know, but the fierce and clever Barbossa has been cursed. He, along with his large crew, are under an ancient curse, doomed for eternity to neither live, nor die. That is, unless a blood sacrifice is made.—the lexster",
+    "When Captain Barbossa sends his pirate crew to kidnap Elizabeth Swan and the last remaining piece of Aztec gold. A blacksmith called Will Turner joins a recently captured pirate named Jack Sparrow and goes off searching for Elizabeth. It's isn't until they all meet up, that they discover the real terrifying truth behind the Aztec gold, and why they need Will Turner and not Elizabeth Swan.—Film_Fan",
+    "William Turner, a resourceful young blacksmith, teams up with the eccentric pirate \"Captain\" Jack Sparrow to save his love, the Governor's daughter, Elizabeth Swann, who has been mistakenly captured by the clever and treacherous Barbossa, a former ally of Jack, to make a blood sacrifice so as to end the curse that has been casted upon him and his crew. Will and Jack steal a ship from the Royal Navy and arrive at Tortuga, a pirate port. There Jack meets his friend Joshamee Gibbs and with a buccaneer and \"able bodied\" crew, set sail to save Elizabeth and take back the Black Pearl. Meanwhile, Barbossa discovers that not Elizabeth's but someone else's blood was required for the sacrifice. Whose blood is it?—ahmetkozan",
+    "Pirates of the Caribbean is a sweeping action-adventure story set in an era when villainous pirates scavenged the Caribbean seas. This roller coaster tale teams a young man, Will Turner, with an unlikely ally in rogue pirate Jack Sparrow. Together, they must battle a band of the world's most treacherous pirates, led by the cursed Captain Barbossa, in order to save Elizabeth, the love of Will's life, as well as recover the lost treasure that Jack seeks. Against improbable odds, they race towards a climactic confrontation on the mysterious Isla de Muerta. Clashing their swords in fierce mortal combat, Will and Jack attempt to recapture The Black Pearl ship, save the British navy, and relinquish a fortune in forbidden treasure thereby lifting the curse of the Pirates of the Caribbean.—Anonymous"
+  ],
+  "synopsis": "As Governor Weatherby Swann and his twelve-year-old daughter, Elizabeth, sail to Port Royal, Jamaica, their vessel, HMS Dauntless encounters a shipwreck with a sole survivor, the young Will Turner, floating among the wreckage. Elizabeth finds and hides a gold medallion she found around the unconscious Will's neck, fearing he would be accused of piracy. She then glimpses a ghostly pirate ship (the Black Pearl), disappearing into the mist.Eight years later Captain James Norrington of the British Royal Navy is promoted to Commodore. At his ceremony, he proposes to Elizabeth. Before she is able to answer, her over-tightened corset causes her to faint and fall off the rampart, tumbling into the bay. The medallion she is wearing emits a mysterious pulse through the water.Meanwhile, pirate Captain Jack Sparrow has arrived in Port Royal to commandeer a ship. Seeing Elizabeth fall, he rescues her, but Norrington recognizes him as the notorious pirate and he is arrested. He escapes and ducks into a blacksmith shop where he encounters Will Turner, now a blacksmith's apprentice and self-taught expert swordsman. Following a sword fight with Turner, Sparrow is knocked unconscious and jailed, set to be hanged the next day. That night, Port Royal is besieged by the Pearl, answering the medallion's mysterious call. Elizabeth is captured and invokes parley an agreement ensuring one's safety until meeting and negotiating with the opposing side. Not wishing to reveal that she's the Governor's daughter, Elizabeth tells Captain Barbossa her surname is Turner. She negotiates for the pirates to cease the attack on Port Royal in exchange for the medallion. Barbossa agrees but, employing a loophole in their agreement, keeps Elizabeth prisoner, believing she is the key to breaking an ancient curse they are under.When Commodore Norrington refuses to take immediate action, Will, who loves Elizabeth, persuades Captain Jack Sparrow to help him rescue her in exchange for freeing him from jail. Jack agrees only after learning Will's last name is Turner. After commandeering the HMS Interceptor Jack and Will recruit a crew in Tortuga with help from Jack's old friend, Gibbs, a former boatswain in the Royal Navy. They set sail for Isla de Muerta, a mysterious island Jack knows the pirates will go to in order to break the curse.While on route, Will learns about Jack's past. He was once the captain of the Pearl, but when he shared the bearings to a hidden chest of Aztec gold coins, First Mate Barbossa instigated a mutiny and marooned Jack on an island. Jack escaped three days later. The pirates found and spent the treasure, but soon learned it was cursed and had turned them into near-immortal skeletal beings whose true forms are only revealed in moonlight. The curse can only be lifted when every coin and each pirate's blood is returned to the chest. William \"Bootstrap Bill\" Turner, Jack's only supporter, sent a coin to his son, Will, believing the crew should remain cursed for what they did to Jack. Barbossa had Bootstrap tied to a cannon and thrown overboard, only to realize later that his blood is also needed to break the curse; a Turner relative must now take his place.In a cave full of treasure on Isla de Muerta, Barbossa, believing Elizabeth is Bootstrap's child, anoints the last coin with her blood and drops it into the chest, unsurprisingly, the curse remains unbroken.Reaching the island, Will suspects Sparrow may betray him and knocks him out. He rescues Elizabeth, and they escape to the Interceptor. Jack barters with Barbossa saying he will reveal Bootstrap's real child in exchange for the Pearl. Jack's negotiations come to naught, however, when the Pearl pursues the Interceptor, sinking her and taking the crew captive. Will reveals that he is Bootstrap Bill's son and demands that Elizabeth and the crew be freed, or he will shoot himself and fall overboard, lost forever. Barbossa agrees but craftily applies another loophole and maroons Elizabeth and Jack on a deserted island (the same island Jack was on ten years before) and throws Jack's crew into the brig. Will is taken to Isla de Muerta for the ritual. On the island, Elizabeth discovers the truth behind how Jack really got off the island. The island that Jack was imprisoned on was used as a cache by rum runners, who are long since out of business.Elizabeth burns an abandoned cache of rum to create a signal fire that is spotted by Norrington. She convinces Norrington to rescue Will by accepting his earlier marriage proposal. Returning to Isla de Muerta, Norrington sets an ambush outside the cave while Jack goes inside and persuades Barbossa to form an alliance. He tells him to delay breaking the curse until after they have taken the Dauntless and killed the crew. Jack then removes a coin from the chest, rendering himself immortal. But whatever Jack's actual intent is, his plan goes awry when Barbossa orders his crew to infiltrate the Dauntless from underwater. Elizabeth infiltrates the Pearl, frees Jack's crew and destroys the two pirates guarding it. She tries to enlist the crew's help, but they refuse and make off with the Pearl while Elizabeth heads to the island to aid Will. Elizabeth saves Will and together they destroy the three cursed pirate guards while Jack, immortal, reveals his true allegiance and battles Barbossa. Jack tosses his bloodied coin to Will, who returns the last two medallions to the chest, adding his own blood to his, breaking the curse. Jack then shoots Barbossa in the heart with the shot he had saved for ten years. No longer immortal, the wounded Barbossa falls dead. Realizing they are no longer cursed, the now-mortal pirates surrender to the navy.Back in Port Royal, Jack is about to be executed. Believing Jack deserves to live, Will rescues him. Both are quickly captured, but Elizabeth lends her support and declares her love for Will. Will is granted yet another pardon (having been previously cleared of stealing the Interceptor) and is allowed to marry Elizabeth with the blessing of Norrington and Governor Swann. Jack escapes by leaping (falling) from the fort and into the bay. His crew, who escaped with the Pearl, rescues him and makes him Captain. Norrington is impressed enough to allow him one day's head start before giving pursuit.",
+  "imdb_score": 8.1
+}

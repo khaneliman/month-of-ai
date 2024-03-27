@@ -1,0 +1,735 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/zJDnqXtGNHUmexiaWNa52Vslve5.jpg",
+  "id": 1904,
+  "title": "Memoirs of a Geisha",
+  "poster_path": "https://image.tmdb.org/t/p/w500/pBwYsQaSTgnPphIy02DJjCF2cqs.jpg",
+  "release_date": "2005-12-06",
+  "vote_average": 7.674,
+  "vote_count": 2879,
+  "popularity": 21.66,
+  "overview": "A sweeping romantic epic set in Japan in the years before World War II, a penniless Japanese child is torn from her family to work as a maid in a geisha house.",
+  "imdb_id": "tt0397535",
+  "budget": 85000000,
+  "homepage": "https://www.sonypictures.com/movies/memoirsofageisha",
+  "revenue": 162242962,
+  "runtime": 146,
+  "tagline": "A story like mine has never been told.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "History"
+  ],
+  "production_companies": [
+    "Columbia Pictures",
+    "DreamWorks Pictures",
+    "Spyglass Entertainment",
+    "Amblin Entertainment",
+    "Red Wagon Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Zhang Ziyi",
+        "character": "Sayuri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AeM8e72StFIoEe7wcPQgnQsHtyf.jpg"
+      },
+      {
+        "name": "Gong Li",
+        "character": "Hatsumomo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m3q1rIEdZmOnUVC0MSo1FcIGvp9.jpg"
+      },
+      {
+        "name": "Michelle Yeoh",
+        "character": "Mameha",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nrbHNzSMydpWK9um5VqWIFJihB5.jpg"
+      },
+      {
+        "name": "Ken Watanabe",
+        "character": "Chairman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w2t30L5Cmr34myAaUobLoSgsLfS.jpg"
+      },
+      {
+        "name": "Suzuka Ohgo",
+        "character": "Chiyo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9lnTlEwU7qeTUl9gSFADyKFZjbN.jpg"
+      },
+      {
+        "name": "Kaori Momoi",
+        "character": "Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/909739lEJUtsUetp6nnyaT7Ez8H.jpg"
+      },
+      {
+        "name": "Koji Yakusho",
+        "character": "Nobu",
+        "profile_path": "https://image.tmdb.org/t/p/w185/skhlURAPRENT0PK6V5wD7jmh74S.jpg"
+      },
+      {
+        "name": "Youki Kudoh",
+        "character": "Pumpkin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dQHHbR7spJQXp2bi2YQQkMPk3H3.jpg"
+      },
+      {
+        "name": "Togo Igawa",
+        "character": "Tanaka",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ceEgj3Ezbf07xWvb8CWh0MEhpTg.jpg"
+      },
+      {
+        "name": "Mako",
+        "character": "Sakamoto",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qrt9yI5sEEemzVAEh8mtI6E68L0.jpg"
+      },
+      {
+        "name": "Samantha Futerman",
+        "character": "Satsu",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wanhVp1STQBURywGl0CX11AEgEl.jpg"
+      },
+      {
+        "name": "Elizabeth Sung",
+        "character": "Sakamoto's Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7NJmTmY0kZxFi8t3ynktSe7m5SB.jpg"
+      },
+      {
+        "name": "Thomas Ikeda",
+        "character": "Mr. Bekku",
+        "profile_path": ""
+      },
+      {
+        "name": "Tsai Chin",
+        "character": "Auntie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7dMi1bbF2JphxBtqQX5YjDpwoOW.jpg"
+      },
+      {
+        "name": "Zoe Weizenbaum",
+        "character": "Young Pumpkin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uOjKw0CfWE9pkep2kSPfMICaiPT.jpg"
+      },
+      {
+        "name": "David Okihiro",
+        "character": "Shamisen Teacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Miyako Tachibana",
+        "character": "Dance Teacher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ieTd13n5pBZRLQpsSLc0UV6xgL0.jpg"
+      },
+      {
+        "name": "Kotoko Kawamura",
+        "character": "Granny",
+        "profile_path": ""
+      },
+      {
+        "name": "Karl Yune",
+        "character": "Koichi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4GI4p5aPfW0vI20IdJOcxD5BEqr.jpg"
+      },
+      {
+        "name": "Eugenia Yuan",
+        "character": "Korin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x2cHQVAkO3wpQyhvlAl1UwF0Klz.jpg"
+      },
+      {
+        "name": "Yōko Narahashi",
+        "character": "Mameha's Maid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dY1Rwri8fOg7FiPTNBmkKqaq7co.jpg"
+      },
+      {
+        "name": "Kenneth Tsang",
+        "character": "The General",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aq7XLUzruedjRFI3Zk0PZyubsYv.jpg"
+      },
+      {
+        "name": "Navia Nguyen",
+        "character": "Izuko - Geisha in Green",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ru45YLdmuSwSjxEans2Jko0NPom.jpg"
+      },
+      {
+        "name": "Natsuo Tomita",
+        "character": "Geisha in Lavender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/415D3SgAU1FrHkxpyxwwMpX9MRv.jpg"
+      },
+      {
+        "name": "Fumi Akutagawa",
+        "character": "Yukimoto Teahouse Matron",
+        "profile_path": ""
+      },
+      {
+        "name": "Cary-Hiroyuki Tagawa",
+        "character": "The Baron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zxKQN4pDpqgVyhJ0td6WqY4mGsv.jpg"
+      },
+      {
+        "name": "Koji Toyoda",
+        "character": "Male Hairdresser",
+        "profile_path": ""
+      },
+      {
+        "name": "Rick Mali",
+        "character": "Man in Grey Hat",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Terada",
+        "character": "Boy on Bike",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5D55p8JXBCJiiigFhgrB6UZM88A.jpg"
+      },
+      {
+        "name": "Laura Miro",
+        "character": "Yukimoto Teahouse Geisha / Spring Festival Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A8c9EmwYKeCKR6yU5PgxDL0fRYU.jpg"
+      },
+      {
+        "name": "Diane Mizota",
+        "character": "Yukimoto Teahouse Geisha / Spring Festival Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j2l29rScArHbiZD0Nhfu1GKf6H8.jpg"
+      },
+      {
+        "name": "Yasusuke Uike",
+        "character": "Sumo Referee",
+        "profile_path": ""
+      },
+      {
+        "name": "Shûhei Mainoumi",
+        "character": "Small Sumo Wrestler",
+        "profile_path": ""
+      },
+      {
+        "name": "Daisuke Dewaarashi",
+        "character": "Large Sumo Wrestler",
+        "profile_path": ""
+      },
+      {
+        "name": "Ren Urano",
+        "character": "Sumo Ring Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zlO49F1Z69XDI2E1t1BX50coWb6.jpg"
+      },
+      {
+        "name": "Ace Yonamine",
+        "character": "Sumo Wrestler",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Begonia",
+        "character": "Sumo Wrestler",
+        "profile_path": ""
+      },
+      {
+        "name": "Albert 'Sumo' Lee",
+        "character": "Sumo Wrestler",
+        "profile_path": ""
+      },
+      {
+        "name": "Dino Rivera",
+        "character": "Sumo Wrestler",
+        "profile_path": ""
+      },
+      {
+        "name": "Randall Duk Kim",
+        "character": "Dr. Crab",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uPRoCyVJyQ2Py2gBUK8JbxTOuL1.jpg"
+      },
+      {
+        "name": "Takayo Fischer",
+        "character": "Tanizato Teahouse Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xP8pWrxEOzRTzQzJTTAG4We0KxE.jpg"
+      },
+      {
+        "name": "Asako Takasue",
+        "character": "Tanizato Teahouse Matron",
+        "profile_path": ""
+      },
+      {
+        "name": "Clarissa Park",
+        "character": "Dancer at Party",
+        "profile_path": ""
+      },
+      {
+        "name": "Nobu Matsuhisa",
+        "character": "Kimono Artist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rOfkaDIBE0Al07AOgi5UTXjHen9.jpg"
+      },
+      {
+        "name": "James Taku Leung",
+        "character": "Kimono Factory Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/WLXW0hGrHkTwTI33dovxJOVFFi.jpg"
+      },
+      {
+        "name": "Chad Cleven",
+        "character": "Drunken G.I.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zE5Vs4WRi0ZbzLdAQ4K5x7PEG8e.jpg"
+      },
+      {
+        "name": "Richard J. Bell",
+        "character": "Drunken G.I.",
+        "profile_path": ""
+      },
+      {
+        "name": "Cameron Duncan",
+        "character": "Drunken G.I.",
+        "profile_path": ""
+      },
+      {
+        "name": "Faith Shin",
+        "character": "Little Kiko",
+        "profile_path": ""
+      },
+      {
+        "name": "Brannon Bates",
+        "character": "Military Police Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ted Levine",
+        "character": "Colonel Derricks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qRFq8y842T1uq51iQCwsEmQI3UT.jpg"
+      },
+      {
+        "name": "Paul Adelstein",
+        "character": "Lieutenant Hutchins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9qkGnEWPzGayZg9gaB4xbP8UL4g.jpg"
+      },
+      {
+        "name": "Shizuko Hoshi",
+        "character": "Sayuri Narration (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nXlbbqtjdAItcpTUU6OXAhvx0oD.jpg"
+      },
+      {
+        "name": "Michelle Aguilar Camaya",
+        "character": "Spring Festival Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Janelle Dote",
+        "character": "Spring Festival Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kim Hazel",
+        "character": "Spring Festival Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ashia Meyers",
+        "character": "Spring Festival Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Hikari",
+        "character": "Spring Festival Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eYKRrci0yRi4c4pIvLcILJd8GQr.jpg"
+      },
+      {
+        "name": "Shiho Miyazawa",
+        "character": "Spring Festival Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Minae Noji",
+        "character": "Spring Festival Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dS5VdLNg623BAIG1LRH9IJkqbK3.jpg"
+      },
+      {
+        "name": "Mami Saito",
+        "character": "Spring Festival Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Shannon Abero",
+        "character": "Festival Rehearsal Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kiyoko Ando",
+        "character": "Festival Rehearsal Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Miki Fujitani",
+        "character": "Festival Rehearsal Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Chieko Hidaka",
+        "character": "Festival Rehearsal Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wqdoQieKXps9TvrEqbgEHKr4mGe.jpg"
+      },
+      {
+        "name": "Wendy Lam",
+        "character": "Festival Rehearsal Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kanako Miyamoto",
+        "character": "Festival Rehearsal Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Brooke Miyasaki",
+        "character": "Festival Rehearsal Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nao Nojima",
+        "character": "Festival Rehearsal Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Shelly Oto",
+        "character": "Festival Rehearsal Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nikki Tuazon",
+        "character": "Festival Rehearsal Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yocPEQLSTe0l06EOt6VWwGOwHok.jpg"
+      },
+      {
+        "name": "Addie Yungmee",
+        "character": "Festival Rehearsal Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aW3ylr7AWC9aKBqJzfDk6CREl1y.jpg"
+      },
+      {
+        "name": "Cassidy Adams",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lena Ahn",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Allison Chan",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Deziree Del Rosario",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Emilie Endow",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Rosie Endow",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Hannah Hwang",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Emma Fusako Ishii",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Amy Saki Kawakami",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Stefani Lee",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Teanna Lee",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Melissa Morinishi",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Michelle Obi",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kasey Okazaki",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacqueline Osaki",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ayaka Oyama",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jade Refuerzo",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "La Na Shi",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Stacy Suzuki",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Miwa Tachibana",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jordan Tambara",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Shaye Uyematsu",
+        "character": "Student Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Etsuo Hongo",
+        "character": "Shamisen Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Tateo Takahashi",
+        "character": "Shamisen Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Masakazu Yoshizawa",
+        "character": "Shamisen Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Kazumi Aihara",
+        "character": "The Baron's Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vAokyss5k0fp7OCR8JMr67F9uKo.jpg"
+      },
+      {
+        "name": "Jennie Baek",
+        "character": "Geisha (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rC9aA9U0TY0nBzWN29K2x7T30Dt.jpg"
+      },
+      {
+        "name": "Yuki Bird",
+        "character": "Wealthy Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Chen",
+        "character": "Rickshaw Driver (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jqtYhFlaD8k8aUBojTsRJLEcgNn.jpg"
+      },
+      {
+        "name": "Allen Dam",
+        "character": "Spa Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Maggie Hai-Uyen",
+        "character": "Guest of the Baron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "James Huang",
+        "character": "Spa Worker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/czkrAMPyxFaPRHqtKfIgVM1VYZP.jpg"
+      },
+      {
+        "name": "Masa Kanome",
+        "character": "Radio Caster (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bwEHpzgLIeegAc9UhWcVqrcm10e.jpg"
+      },
+      {
+        "name": "Branden Weslee Kong",
+        "character": "Rickshaw Driver (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ciEp5RlF2lchUBPvocnwPDZ9aBx.jpg"
+      },
+      {
+        "name": "Aurelie Kyinn",
+        "character": "Wealthy Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ruffy Landayan",
+        "character": "Military Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2k0RBVVkwYxRFWYGO4eTv04SDtK.jpg"
+      },
+      {
+        "name": "Teddy Lau",
+        "character": "Noodle Chef (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Stacey Lee",
+        "character": "Maiko (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jon Liggett",
+        "character": "Drunken G.I. (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Julia Ling",
+        "character": "Spring Festival Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aXBiJb2mQhjpxIF2zEFcsBttx43.jpg"
+      },
+      {
+        "name": "Jia Mae",
+        "character": "Sexy Geisha (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tohoru Masamune",
+        "character": "Radio Announcer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7rNjiFzY8KAf4kiZBJK1nBWOz8G.jpg"
+      },
+      {
+        "name": "Danton Mew",
+        "character": "Takamaya Towel Servant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zYODkQqO9XQAeTcjvYiUnIrWdMF.jpg"
+      },
+      {
+        "name": "Doug Ming",
+        "character": "Fisherman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryan Moriarty",
+        "character": "Teahouse Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tKgPmXuXEtrNNm10FmnUqSoJu99.jpg"
+      },
+      {
+        "name": "Skye Nakamura",
+        "character": "Teahouse Owner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9qjpwbXPonGuY0bLqZftKwfffaf.jpg"
+      },
+      {
+        "name": "Sophie Oda",
+        "character": "Kimono Factory Worker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8L4BMqlQiJqyNqdd97WItNufdCs.jpg"
+      },
+      {
+        "name": "Ricky Pak",
+        "character": "Spa Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sAbTmeDgC1RippVAQUJIMaGEdYW.jpg"
+      },
+      {
+        "name": "Steffinnie Phrommany",
+        "character": "Geisha (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r0be4UXzC0g1K0h1bj0jlrSi4ak.jpg"
+      },
+      {
+        "name": "Catherine Kim Poon",
+        "character": "Geisha (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AoL6MKuf6spU7RE3rPynW1MlUut.jpg"
+      },
+      {
+        "name": "Osamu Saito",
+        "character": "Chairman's servant Arima (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jasper Salon",
+        "character": "Tea House Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kWgVnskaRaUqKEjuYg8Ypzxo3jA.jpg"
+      },
+      {
+        "name": "Austin Michael Scott",
+        "character": "Drunken G.I. (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vc8lh4ARQ98ljmL711d7YLeALNT.jpg"
+      },
+      {
+        "name": "Cathy Shim",
+        "character": "The Baron's Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ydWqpO2ZqOfynb9r8nLsKIEhdtP.jpg"
+      },
+      {
+        "name": "Steve Sornbutnark",
+        "character": "Attendee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gfCzMkCW80n9X5VGPJr8nNaL5Z4.jpg"
+      },
+      {
+        "name": "Clara Soyoung",
+        "character": "Hanamachi St. Geisha (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gdGyRXE3FPYZtuHtB94CpCjmJEK.jpg"
+      },
+      {
+        "name": "Aaron Takahashi",
+        "character": "Rickshaw Runner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yzSzRLKozW5g2G1gFXdlM8npqTU.jpg"
+      },
+      {
+        "name": "Ray Tom",
+        "character": "Spa Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Henry T. Yamada",
+        "character": "Sumo Judge (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Steven Yang",
+        "character": "Spa Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qWZ89YJ5F6ZAMojDA3XCLKOdsvG.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Rob Marshall",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4cTHkbMpsHHNI23HP3RHNLFoPRz.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "secret love",
+    "japan",
+    "prostitute",
+    "sibling relationship",
+    "geisha",
+    "brothel",
+    "mentor",
+    "world war ii",
+    "loss of virginity",
+    "period drama",
+    "kimono",
+    "sumo",
+    "kyoto, japan",
+    "1920s",
+    "1940s",
+    "1930s",
+    "student mentor relationship",
+    "loss of sister",
+    "loss of parents"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Nitta Sayuri reveals how she transcended her fishing-village roots and became one of Japan's most celebrated geisha.",
+    "In the 1920s, 9-year-old Chiyo gets sold to a geisha house where she is forced into servitude, receiving nothing in return until the house's ruling hierarchy determines whether she is of high-enough quality to service the clientele--men who visit and pay for conversation, dance, and song. After rigorous years of training, Chiyo becomes Sayuri, a geisha of incredible beauty and influence. Life is good for Sayuri, but World War II is about to disrupt the peace.—Jwelch5742",
+    "In 1929 an impoverished nine-year-old named Chiyo from a fishing village is sold to a geisha house in Kyoto's Gion district and subjected to cruel treatment from the owners and the head geisha Hatsumomo, who is vindictively jealous of this new young girl's stunning beauty. Hatsumomo's bitter rival Mameha rescues Chiuo and mentors her as she becomes Sayuri, a geisha fully trained in all the artistic and social skills a geisha must master in order to survive in her society. As a renowned geisha she enters a society of wealth, privilege, and political intrigue. As World War II looms, Japan and the geisha's world are forever changed by the onslaught of history.—dumpster_cakes",
+    "Chiyo, age 9, lives in Yoroido, an impoverished fishing village on Japan's coast. When worse comes to worst for her family, she is sent to the Nitta Okiya while her older sister Satsu is transferred elsewhere. An Okiya is a house (sort of a compound) where a geisha lives. At the Nitta Okiya Chiyo meets another girl about her age nicknamed Pumpkin. Together Pumpkin and Chiyo struggle through the daily life of being treated as nothing more than slaves to the resident geisha, Hatsumomo--the story's villain, who tries her hardest to make Chiyo's life as miserable as possible. On one particular occasion, crushingly-depressed Chiyo collapses on a bridge in tears, and a high-society passerby stops to talk to and try to comfort her. This is the first time little Chiyo meets The Chairman. He shows her kindness in a world which has been nothing but cruel to her. From that point on, Chiyo determines to break free from the social class she was born into and become a geisha worthy of The Chairman. After much work and hardship, Chiyo is allowed to attend the school where young girls are taught all the important practices associated with the life of a geisha. She learns how to conduct the tea ceremony, how to play the shamisen (an instrument like a mini-banjo or mini-acoustic guitar), and--possibly the most important--how to dance. The Japanese word \"geisha\" word geisha is derived from a term referring to art, so a geisha is like an artisan, or an artist. After more altercations with Hatsumomo, Chiyo is taken under the wing of one of Gion's most popular geisha, Mameha--Hatsumomo's arch-rival as a geisha. Mameha takes a long time to introduce Chiyo--now renamed Sayuri--as her apprentice, but once she does, she is already blessed with fame for being associated with someone of Mameha's class. Mameha introduces Sayuri is many numerous figures in Gion life and it come to a point where men are fighting for the highest bid on Sayuri's mizuage. All this time Sayuri is struggling with the common life lessons of any girl growing up into a young woman; it is very much a coming-of-age story. Through all her trials of adversity, Sayuri's main goal is always to see The Chairman again. Finally the day comes when she is invited, along with Mameha, to a party at a teahouse at which The Chairman is attending. For the next couple of weeks she attends multiple parties which the Chairman attends, all the while seemingly coming closer to achieving her goal. Tension has been growing concerning World War II and Gion society stars to feel the effects of war. Rations are set up and many part of the geisha district are closing. Geisha are fleeing to other parts of the country hoping to avoid getting caught in an attack. Sayuri and all of her friends are separated until after the war, and once everyone returns to Gion it is realized the effects of the atomic bombs on Hiroshima and Nagasaki. All geisha who fled to these cities obviously died and the community greatly feels the loss. Sayuri desperately attempts to attain The Chairman's love: will she ever finally achieve this cherished goal?—Ai is Baka",
+    "In 1920s Japan, 9-year-old Chiyo and her older sister Satsu get sold by their fisherman father to a Geisha house in Miyako. Satsu is not accepted into the house and is sent to a brothel, from which she later escapes, and rebel Chiyo is left alone and becomes a slave to a geisha. Six years later, however, she has becomes the geisha Sayuri with the support of successful Mameha, while fighting against the evil jealousy of Mameha's archrival, the wicked Hatsumomo. While still a child, Chyio falls in love with The Chairman, and after World War II they meet again in a period of changes in Japan, with the occupying American forces and the country completely destroyed.—Claudio Carvalho, Rio de Janeiro, Brazil"
+  ],
+  "synopsis": "The film, set in Japan during the Showa Era, tells the story of Chiyo Sakamoto (Suzuka Ohgo as a child and by Zhang Ziyi as an adult), a poor, young Japanese girl who has been sold along with her older sister Satsu into a life of servitude by her parents when she is nine years old. Chiyo is taken in by the proprietress of a geisha house, Mother (Kaori Momoi), but Satsu is rejected and is sold to another house in the \"pleasure district\" of the Hanamachi. At the Okiya (geisha house) she meets another young girl named \"Pumpkin\" (Youki Kudoh). Both girls are sent off to geisha school. Hatsumomo (Gong Li), a beautiful and famous but cruel geisha who also lives at the Okiya blackmails Chiyo into ruining a kimono belonging to the well-known geisha Mameha (Michelle Yeoh).Chiyo runs away again, seeking sister Satsu. They arrange to meet by the bridge the following day as soon as it is dark and escape together. When she sneaks back into the Okiya, she sees Hatsumomo and a young man named Koichi (Karl Yune) having sex in the shed. Hatsumomo had known Chiyo had run off but hadn't expected her to come back. Mother hears noise in the shed and Hatsumomo shoos Koichi away and quickly asks why Chiyo has come back. Then she makes it appear that the noise was Chiyo stealing money. Facing a beating, Chiyo tells Mother that Hatsumomo was having sex with a man. Mother verifies this by reaching under Hatsumomo's kimono and slaps Hatsumomo, telling her, \"What do you think? That a geisha is free to love? Never.\" Hatsumomo never sees Koichi again.When Chiyo escapes again to run away with her sister, she is forced to use a different route. Since the Okiya gate is locked after Hatsumomo's disgrace, Chiyo climbs over rooftops until she can see the bridge in the distance. Chiyo falls from a rooftop and ends up back in the Okiya being seen to by a doctor. Mother discusses the debts Chiyo has amassed and explains that Satsu ran away that night, without waiting for Chiyo. Chiyo never sees Satsu again and Mother tells her to forget that she ever had a sister, explaining, 'We are your only family now.' Mother then places a package on her stomach, which contains a letter (read to her by Auntie; since Chiyo cannot read) reporting the death of her mother, and then, a few weeks after, her father. Chiyo feels she cannot sink lower. Her escapades have caused her to be taken out of geisha training and worked as a slave to pay off her debts.One day while crying in the street, the young Chiyo is noticed by the Chairman (Ken Watanabe) and his geisha companions. Chiyo is afraid to make eye contact with the Chairman, who says \"Don't be afraid to look at me.\" He then buys her an iced sorbet (Kakigori) and gives her his handkerchief with some money in it. Inspired by his act of kindness, Chiyo resolves to become a geisha so that she may one day become a part of the Chairman's life. She spends the money, not on food, but on prayer, wishing to see him again.Chiyo, now a young woman, is taken under the wing of Mameha, who has forgiven her for her actions as a child. Under Mameha's tutelage, Chiyo becomes a Maiko (geisha in training) and then takes the name of Sayuri, the most famous geisha in all of Gion, Kyoto. Hatsumomo becomes Sayuri's rival and seeks to destroy her. Through her work as a geisha, Sayuri reunites with the Chairman and longs to catch his attention, but instead has to lead on the Chairman's friend and business partner Nobu, who falls fast for her. Sayuri grows in popularity and Hatsumomo spreads lies and rumors to ruin Sayuri's reputation. Meanwhile Mameha starts a bidding war for Sayuri's Mizuage which will make her a full geisha. Sayuri gets named the lead dancer for the Spring Dances, where she dances wonderfully and catches the attention of bidders, including the Baron (Mameha's Danna), who invites Sayuri to his house for a party, gives her a kimono then, as he finds her so beautiful and believes he deserves a look, forcefully strips her.After the party Mameha hears what happened and believes that the Baron took Sayuri's virginity, and claims that Sayuri's bids may not come through if she is found to be \"worthless.\" Sayuri cries and tells Mameha that nothing happened and she is not worthless. That night the bid is finally placed by an elderly doctor known as Doctor Crab, for 15,000 yen-the highest Mizuage bid in history. Mother then chooses to \"adopt\" Sayuri as the heiress of the Okiya, a title that Pumpkin and Hatsumomo had been longing for.Mameha tells Sayuri later that the bid was down to two people, Dr. Crab and the Baron, but Mameha let it go to Dr. Crab because of her feelings for the Baron, despite his bid being even higher. When returning home, Sayuri finds Hatsumomo in her room, who found the Chairman's handkerchief and attempts to burn it, but unsuccessfully. Sayuri and Hatsumomo fight and accidentally start a fire, and finally to her breaking point, Hatsumomo purposely begins to burn the rest of the house and then leaves, knowing she has reached the bottom.Sayuri's prosperous life is then cut short by the outbreak of World War II and while the safety of Sayuri and Mameha is ensured by the Chairman, they must endure a life of hard labor. Sayuri and Mameha are separated, with Sayuri going to the hills to work for a kimono maker. After the war, Sayuri is reunited with Mameha, and they become geisha once more to impress an American Colonel that are going into business with Nobu and the Chairman. Sayuri meets back up with Pumpkin who is now a risque, flirty escort/prostitute (trying to act like geisha) and goes on a trip with Nobu, the Chairman, Pumpkin and the Americans to the Amami Islands. While they are conversing in an Onsen, Sayuri participates in the game 'Truth and Lies', starting to explain the \"story\" of how, when she was a little girl, a 'handsome man was kind enough to buy me a cup of sweet ice'. Before she can continue, the Chairman interrupts and changes the subject, clearly uncomfortable with her statement.Afterwards, the Colonel attempts to \"hire\" Sayuri for \"services\", but is rejected. Nobu saw the incident and confronts Sayuri (with the impression that they had made an arrangement) finally confessing his feelings and that he wants to be her Danna. Sayuri is distraught and devises a plan to humiliate herself with the Colonel in front of Nobu. She arranges for Pumpkin to bring Nobu by an abandoned theater at a predetermined time, and \"stumble\" upon Sayuri and the Colonel making love. But, because of her secret resentment of Sayuri for being adopted by Mother, Pumpkin brings the Chairman instead, claiming to Sayuri, \"Now you know how it feels\", Sayuri believes that the Chairman is lost to her forever.A few days later Sayuri discards the Chairman's handkerchief by throwing it off a cliff above the sea, and later receives a call to go to the tea-house. While waiting, Sayuri expects Nobu to arrive, but instead the Chairman comes where he finally reveals to her that he knows she is Chiyo by saying, \"Don't be afraid to look at me, Chiyo.\" He tells her that he was responsible for sending Mameha to her so that she could fulfill her dreams of becoming a geisha. Sayuri finally reveals her love to the Chairman, which she has been harboring for over fifteen years. The film ends with their loving embrace and kiss and a stroll through a beautiful Japanese garden with waterfalls and rocks.",
+  "imdb_score": 7.3
+}

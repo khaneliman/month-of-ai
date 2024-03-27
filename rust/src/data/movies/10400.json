@@ -1,0 +1,418 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/f6FD1eqlQ7De8LQEPi8i3KK0PNA.jpg",
+  "id": 10400,
+  "title": "The Hurricane",
+  "poster_path": "https://image.tmdb.org/t/p/w500/eOzbt7KsqTC8gcjJMxcQnr89cxJ.jpg",
+  "release_date": "1999-09-17",
+  "vote_average": 7.422,
+  "vote_count": 1299,
+  "popularity": 21.564,
+  "overview": "The story of Rubin \"Hurricane\" Carter, a boxer wrongly imprisoned for murder, and the people who aided in his fight to prove his innocence.",
+  "imdb_id": "tt0174856",
+  "budget": 50000000,
+  "homepage": "",
+  "revenue": 73956241,
+  "runtime": 146,
+  "tagline": "His greatest fight was for justice.",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Universal Pictures",
+    "Azoff Entertainment",
+    "Beacon Communications",
+    "Beacon Pictures",
+    "Buena Vista International",
+    "Touchstone Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Denzel Washington",
+        "character": "Rubin \"Hurricane\" Carter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+      },
+      {
+        "name": "Vicellous Shannon",
+        "character": "Lesra Martin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rgWqPIgDSgFoIEYjXw9rdnHVFXy.jpg"
+      },
+      {
+        "name": "Deborah Kara Unger",
+        "character": "Lisa Peters",
+        "profile_path": "https://image.tmdb.org/t/p/w185/evY74tOR3o5zvU6lQFfRNNzE3y.jpg"
+      },
+      {
+        "name": "Liev Schreiber",
+        "character": "Sam Chaiton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3wFnwxs1LIZOh1FtWjZWuS2mm8z.jpg"
+      },
+      {
+        "name": "John Hannah",
+        "character": "Terry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8GzJhaZrChZpv84SU4vAsvsR3cl.jpg"
+      },
+      {
+        "name": "Dan Hedaya",
+        "character": "Della Pesca",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wwD1U6cHLj0uApnCRRIxFhBOXAT.jpg"
+      },
+      {
+        "name": "Debbi Morgan",
+        "character": "Mae Thelma",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5uet40J3x2pLCxdqC07RjNHTzvH.jpg"
+      },
+      {
+        "name": "Clancy Brown",
+        "character": "Lt. Jimmy Williams",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9RgzFqbmWBLVfq9wvyDo5UW8VT1.jpg"
+      },
+      {
+        "name": "David Paymer",
+        "character": "Myron Bedlock",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rrI6LgFb1la4PCIYuTB7pjIGgut.jpg"
+      },
+      {
+        "name": "Harris Yulin",
+        "character": "Leon Friedman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rKEWwNwhaE4AsubDGoLu6pDIxZy.jpg"
+      },
+      {
+        "name": "Rod Steiger",
+        "character": "Judge Sarokin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c4XU5rgmhdIe5sYO2pWFkwFJM84.jpg"
+      },
+      {
+        "name": "Badja Djola",
+        "character": "Mobutu",
+        "profile_path": "https://image.tmdb.org/t/p/w185/23T7W3ZhU7BXmgt0LKc5BB6yFIX.jpg"
+      },
+      {
+        "name": "Vincent Pastore",
+        "character": "Alfred Bello",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dyRRn8POwLUMHT7lIISujioYOym.jpg"
+      },
+      {
+        "name": "Al Waxman",
+        "character": "Warden",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7nvvodM6mqMHPVzGQBIIG34pjsp.jpg"
+      },
+      {
+        "name": "David Lansbury",
+        "character": "U.S. Court Prosecutor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9c9qxuY45ZnHbdrKBOYCTEEtuzE.jpg"
+      },
+      {
+        "name": "Garland Whitt",
+        "character": "John Artis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cFzmy8qNphjvsMtblejp1KOc9gH.jpg"
+      },
+      {
+        "name": "Chuck Cooper",
+        "character": "Earl Martin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/adTZUSlFXW8eWiIkdQ1O2WQWpb6.jpg"
+      },
+      {
+        "name": "Brenda Denmark",
+        "character": "Alma Martin",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcia Bennett",
+        "character": "Jean Wahl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/va30xYbQLgI9UvNFv5oNuhiORTC.jpg"
+      },
+      {
+        "name": "Beatrice Winde",
+        "character": "Louise Cockersham",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m3mC8clIuki4s11cTDqcvKiLX59.jpg"
+      },
+      {
+        "name": "Mitchell Taylor Jr.",
+        "character": "Young Rubin Carter",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Raymond",
+        "character": "Paterson Judge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v8x97buvWoFj3di8eCuhc0hBlow.jpg"
+      },
+      {
+        "name": "Merwin Goldsmith",
+        "character": "Judge Larner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bFM80GZvZVN40pSenZEAgzYeBVh.jpg"
+      },
+      {
+        "name": "John A. MacKay",
+        "character": "Man at Falls",
+        "profile_path": ""
+      },
+      {
+        "name": "Donnique Privott",
+        "character": "Boy at the Falls",
+        "profile_path": ""
+      },
+      {
+        "name": "Moynan King",
+        "character": "Tina Barbieri",
+        "profile_path": ""
+      },
+      {
+        "name": "Gary DeWitt Marshall",
+        "character": "Nite Spot Cabbie",
+        "profile_path": ""
+      },
+      {
+        "name": "John Christopher Jones",
+        "character": "Reporter at Bar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sfibl2Fsjjiqys78qXRGjXXxZIC.jpg"
+      },
+      {
+        "name": "Gwendolyn Mulamba",
+        "character": "Nite Spot Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t4NFdS9vPqtYqySVegHDeovCbjL.jpg"
+      },
+      {
+        "name": "Richard M. Davidson",
+        "character": "Paterson Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "George T. Odom",
+        "character": "Big Ed",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j6T4ttSrgBu1Hf2u3DuGpMV7Vu2.jpg"
+      },
+      {
+        "name": "Tonye Patano",
+        "character": "Woman at Prison",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cFE2YcHZpw5kL66fSkufI56lGRQ.jpg"
+      },
+      {
+        "name": "Fulvio Cecere",
+        "character": "Paterson Policeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Jc4LeoA0ND0stFqDiPzBeQ9SXt.jpg"
+      },
+      {
+        "name": "Phillip Jarrett",
+        "character": "Soldier #1 in U.S.O. Club",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u5I7VeM6j1J2hc95013LIqHYQIV.jpg"
+      },
+      {
+        "name": "Rodney \"Bear\" Jackson",
+        "character": "Soldier #2 in U.S.O. Club",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v9WZhj1MovMKLU7frjjLYJpp2tU.jpg"
+      },
+      {
+        "name": "Judi Embden",
+        "character": "Woman in U.S.O. Club",
+        "profile_path": ""
+      },
+      {
+        "name": "Terry Claybon",
+        "character": "Emile Griffith",
+        "profile_path": ""
+      },
+      {
+        "name": "Ben Hernandez Bray",
+        "character": "Joey Giardello",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bl5f89xS7JddYe7hfBUej7EUs6U.jpg"
+      },
+      {
+        "name": "Mike Justus",
+        "character": "Joey Cooper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uHMGw78N0lZsZVOh9lgDIQERbPq.jpg"
+      },
+      {
+        "name": "Kenneth McGregor",
+        "character": "Detective at Hospital",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aHzrpQScxIe6YTPskv2kii1AVEC.jpg"
+      },
+      {
+        "name": "Frank Proctor",
+        "character": "Pittsburgh Ring Announcer",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Wylie",
+        "character": "Pittsburgh Referee",
+        "profile_path": ""
+      },
+      {
+        "name": "David Gray",
+        "character": "Pittsburgh TV Announcer",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Matheson",
+        "character": "Philadelphia Ring Announcer",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Lake",
+        "character": "Philadelphia TV Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u7r8ZHhgZ3vhLIKWjLy2noBezOZ.jpg"
+      },
+      {
+        "name": "Robin Ward",
+        "character": "Reading, PA. TV Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e66Upz2A2pWGqSjoxR2r00b17xz.jpg"
+      },
+      {
+        "name": "Pippa Pearthree",
+        "character": "Patty Valentine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AikMwGDCqZ9ERlaueqo2IDST0N6.jpg"
+      },
+      {
+        "name": "Jean Daigle",
+        "character": "Detective",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ft2G6qmhgw2bbBN7MZYqRokyPA.jpg"
+      },
+      {
+        "name": "Rob Evans",
+        "character": "Detective at Lafayette Bar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9IqD93QThUc2PbIOwVw7c0YB81g.jpg"
+      },
+      {
+        "name": "Scott Gibson",
+        "character": "Reporter at Banquet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yKqoZbEZQnMaCK5ik72C5oPSO6v.jpg"
+      },
+      {
+        "name": "Ann Holloway",
+        "character": "Cashier",
+        "profile_path": ""
+      },
+      {
+        "name": "Bruce McFee",
+        "character": "Prison Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/va55ufZr5josTVkyqLpKldqqisx.jpg"
+      },
+      {
+        "name": "Conrad Bergschneider",
+        "character": "Prison Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xjeNjDCjKkvKmLXVeG2WIly2VQC.jpg"
+      },
+      {
+        "name": "Zoran Radusinovic",
+        "character": "Prison Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Bodnar",
+        "character": "Prison Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Carson Manning",
+        "character": "Prison Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l5UT0h3fs8N3MpG4OsDJVo5PRVj.jpg"
+      },
+      {
+        "name": "Debrah Ellen Waller",
+        "character": "Prison Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Litt",
+        "character": "Prison Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6g5B1yqLNDnAJDNv1rywQFfa3hk.jpg"
+      },
+      {
+        "name": "Adam Large",
+        "character": "Prison Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Graham",
+        "character": "Prisoner with Camera",
+        "profile_path": ""
+      },
+      {
+        "name": "Satori Shakoor",
+        "character": "Prison Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rDNsJJ8GnUYWlZX8SQFMqs5I1Ts.jpg"
+      },
+      {
+        "name": "George Masswohl",
+        "character": "Mechanic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eHbvTbXfCGsp7sGWvRTqnZDm6PT.jpg"
+      },
+      {
+        "name": "Lawrence Sacco",
+        "character": "New Jersey Policeman",
+        "profile_path": ""
+      },
+      {
+        "name": "David Frisch",
+        "character": "New Jersey Policeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pw4Gt3Ji2kmISc0mnKC3XouM4d8.jpg"
+      },
+      {
+        "name": "Ralph Brown",
+        "character": "Federal Court Assistant Prosecutor",
+        "profile_path": ""
+      },
+      {
+        "name": "Dyron Holmes",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryan Williams",
+        "character": "Elstan Martin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gUP4yGDtAmMlSKuZ3VI0rGfA9gf.jpg"
+      },
+      {
+        "name": "Bruce Vavrina",
+        "character": "St. Joseph's Doctor",
+        "profile_path": ""
+      },
+      {
+        "name": "Brenda Braxton",
+        "character": "Dancer with John Artis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t9Ed7nk17ZXxxUbQqD6IPPPL38M.jpg"
+      },
+      {
+        "name": "Christopher Riordan",
+        "character": "Jury Foreman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zbcjLAR9zyWg8tABpbqIkUm8V8G.jpg"
+      },
+      {
+        "name": "Harry Davis",
+        "character": "Reading, PA. Referee",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Norman Jewison",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qLDe2H97EXStW93QLNnL23aTXf9.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "prison",
+    "new jersey",
+    "1970s",
+    "boxer",
+    "boxing school",
+    "biography",
+    "based on memoir or autobiography",
+    "1960s",
+    "boxing",
+    "legal drama",
+    "legal thriller"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "The story of Rubin 'Hurricane' Carter, a boxer wrongly imprisoned for murder, and the people who aided in his fight to prove his innocence.",
+    "This film tells the story of Rubin \"Hurricane\" Carter, an African-American man who rose above his troubled youth to become a top contender for the middle-weight boxing title. However, his dreams are shattered when he is accused of a triple murder, and is convicted to three natural-life terms. Despite becoming a cause celebre and his dogged efforts to prove his innocence through his autobiography, the years of fruitless efforts have left him discouraged. This changes when an African-American boy and his Canadian mentors read his book and are convinced of his innocence enough to work for his exoneration. However, what Hurricane and his friends learn is that this fight puts them against a racist establishment that profited from this travesty and have no intention of seeing it reversed.—Kenneth Chisholm <kchishol@execulink.com>"
+  ],
+  "synopsis": "",
+  "imdb_score": 7.6
+}

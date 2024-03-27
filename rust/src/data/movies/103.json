@@ -1,0 +1,335 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
+  "id": 103,
+  "title": "Taxi Driver",
+  "poster_path": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+  "release_date": "1976-02-09",
+  "vote_average": 8.154,
+  "vote_count": 11491,
+  "popularity": 47.677,
+  "overview": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action.",
+  "imdb_id": "tt0075314",
+  "budget": 1900000,
+  "homepage": "",
+  "revenue": 28600000,
+  "runtime": 114,
+  "tagline": "On every street in every city, there's a nobody who dreams of being a somebody.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    "Italo/Judeo Productions",
+    "Bill/Phillips",
+    "Columbia Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Robert De Niro",
+        "character": "Travis Bickle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+      },
+      {
+        "name": "Jodie Foster",
+        "character": "Iris Steensma",
+        "profile_path": "https://image.tmdb.org/t/p/w185/resiaRfWvj4N84TgJi9DPOafCpq.jpg"
+      },
+      {
+        "name": "Cybill Shepherd",
+        "character": "Betsy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hG2RJvjvgy4ch0glP2kLMuoBc7R.jpg"
+      },
+      {
+        "name": "Harvey Keitel",
+        "character": "Matthew \"Sport\" Higgins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+      },
+      {
+        "name": "Peter Boyle",
+        "character": "Wizard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6TapQmC46mPDYrwm67tyJaEM97I.jpg"
+      },
+      {
+        "name": "Leonard Harris",
+        "character": "Senator Charles Palantine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aldnhNNMP8hZrq9cAcBE6pCVCCm.jpg"
+      },
+      {
+        "name": "Albert Brooks",
+        "character": "Tom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zhYhOkN2TRsFrEt7RHOAYGz8ZfF.jpg"
+      },
+      {
+        "name": "Diahnne Abbott",
+        "character": "Concession Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9fHTqXGGtOxWHmo4dHSXmgN3YPY.jpg"
+      },
+      {
+        "name": "Frank Adu",
+        "character": "Angry Black Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hEV7GYY5spb2hYsgi6fVnhEInhT.jpg"
+      },
+      {
+        "name": "Victor Argo",
+        "character": "Melio",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jECzBVSnzqUxLXSuscEpVFPxFxm.jpg"
+      },
+      {
+        "name": "Gino Ardito",
+        "character": "Policeman at Rally",
+        "profile_path": ""
+      },
+      {
+        "name": "Garth Avery",
+        "character": "Iris' Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Harry Cohn",
+        "character": "Cabbie in Bellmore",
+        "profile_path": ""
+      },
+      {
+        "name": "Cooper Cunningham",
+        "character": "Hooker in Cab",
+        "profile_path": ""
+      },
+      {
+        "name": "Brenda Dickson",
+        "character": "Soap Opera Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x6XDIbghPWeWGLpOmHHwjgpjCan.jpg"
+      },
+      {
+        "name": "Harry Fischler",
+        "character": "Dispatcher",
+        "profile_path": ""
+      },
+      {
+        "name": "Nat Grant",
+        "character": "Stick-Up Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Higgs",
+        "character": "Tall Secret Service Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Beau Kayser",
+        "character": "Soap Opera Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Magnotta",
+        "character": "Secret Service Photographer",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob Maroff",
+        "character": "Mafioso",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8sbOtt3iGYmdM8fria3xRtOtZpU.jpg"
+      },
+      {
+        "name": "Norman Matlock",
+        "character": "Charlie T.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4qbEHM36nPvsdJwWDShJ92Tcg9r.jpg"
+      },
+      {
+        "name": "Bill Minkin",
+        "character": "Tom's Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cwTSogkZc2XZqbsDxDbnoN543EK.jpg"
+      },
+      {
+        "name": "Murray Moston",
+        "character": "Iris' Time Keeper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dCykiwWb0WNfiFJjw7e8lb0Dy63.jpg"
+      },
+      {
+        "name": "Harry Northup",
+        "character": "Doughboy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1ezyUMnxuYuY21ZstfgZRutuwJ9.jpg"
+      },
+      {
+        "name": "Gene Palma",
+        "character": "Street Drummer",
+        "profile_path": ""
+      },
+      {
+        "name": "Harlan Cary Poe",
+        "character": "Campaign Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pLhwUedkw5XhSwsLWQ1Idicxn3F.jpg"
+      },
+      {
+        "name": "Steven Prince",
+        "character": "Easy Andy, Gun Salesman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d1M8XiUfSbafKfkR3biqlAXElVK.jpg"
+      },
+      {
+        "name": "Peter Savage",
+        "character": "The John",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Scorsese",
+        "character": "Passenger Watching Silhouette",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg"
+      },
+      {
+        "name": "Nicholas Shields",
+        "character": "Palantine Aide",
+        "profile_path": ""
+      },
+      {
+        "name": "Ralph S. Singleton",
+        "character": "T.V. Interviewer",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Spinell",
+        "character": "Personnel Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jiok99ZvHDOj51BBgio2qvum0Mb.jpg"
+      },
+      {
+        "name": "Maria Turner",
+        "character": "Angry Hooker on Street",
+        "profile_path": ""
+      },
+      {
+        "name": "Robin Utt",
+        "character": "Campaign Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Tommy Ardolino",
+        "character": "Boy on Sidewalk (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Bergmann",
+        "character": "Movie House Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert P. Cohen",
+        "character": "Cab Passenger (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "William Donovan",
+        "character": "Police Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean Elliott",
+        "character": "Clerk at Sam Goody Store (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Annie Gagen",
+        "character": "Campaign Worker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Trent Gough",
+        "character": "Political Rally Attendee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2R0R8MhbhpzJina7CYhe48sT9EQ.jpg"
+      },
+      {
+        "name": "Carson Grant",
+        "character": "Political Rally Attendee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary-Pat Green",
+        "character": "Campaign Aide (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cLqn3eEGnE5zGxT2KBXRSkahrPE.jpg"
+      },
+      {
+        "name": "Robert John Keiber",
+        "character": "Political Rally Attendee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "James Mapes",
+        "character": "CIA Agent (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Debbi Morgan",
+        "character": "Girl at Columbus Circle (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5uet40J3x2pLCxdqC07RjNHTzvH.jpg"
+      },
+      {
+        "name": "David Nichols",
+        "character": "Political Rally Attendee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Antone Pagán",
+        "character": "Boy on Sidewalk (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/NJWuKdhtWU4xzGkLeoWOSox1I4.jpg"
+      },
+      {
+        "name": "Billie Perkins",
+        "character": "Iris' Friend (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dxX4rEkhNYNv0PxZcF9VEccvk5r.jpg"
+      },
+      {
+        "name": "Michael Phillips",
+        "character": "Political Rally Attendee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Frankie Verroca",
+        "character": "Campaign Worker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n6X8T1Vpah9LP0Y9IX1DQsIcnJK.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Martin Scorsese",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "drug dealer",
+    "vietnam veteran",
+    "new york city",
+    "taxi",
+    "pornography",
+    "obsession",
+    "taxi driver",
+    "pimp",
+    "firearm",
+    "politician",
+    "alienation",
+    "junk food",
+    "misanthrophy",
+    "vigilante",
+    "illegal prostitution",
+    "character study",
+    "loner",
+    "manhattan, new york city",
+    "neo-noir",
+    "child prostitution",
+    "new hollywood",
+    "drives"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+    "Travis Bickle is an ex-Marine and Vietnam War veteran living in New York City. As he suffers from insomnia, he spends his time working as a taxi driver at night, watching porn movies at seedy cinemas during the day, or thinking about how the world, New York in particular, has deteriorated into a cesspool. He's a loner who has strong opinions about what is right and wrong with mankind. For him, the one bright spot in humanity is Betsy, a worker on the presidential nomination campaign of Senator Charles Palantine. After an incident, he believes he has to do whatever he needs to make the world a better place.—Huggo",
+    "Hiding in the shadows of bustling mid-1970s New York City, depressed former U.S. Marine Travis Bickle prowls the neon-lit night streets of the metropolis in his yellow cab, looking for excitement. But Travis is a nobody amid nobodies. As a result, trapped by an increasingly distorted perception of reality, the chronically insomniac lone wolf delves deeper and deeper into a world of obsession and vitriolic revulsion. After all, the endless string of bitter rejections from unobtainable objects of desire and condemned young souls can only break one's spirit. Now his crystal-clear plan starts to take shape. And as sleep-deprived Travis braces up to clean this filthy city in a flaming manifesto of unbridled violence, his lethal weapons will become the grim messengers of truth. His truth.—Nick Riganas",
+    "Travis Bickle is an insomniac ex-marine who works the night shift as a taxi driver in 1970s New York. Chronically lonely and socially inept, he attempts to woo an attractive presidential campaign worker, but his misguided ideas about romance fall flat. Increasingly paranoid, Bickle fancies himself as the decaying city's saviour.—anonymous",
+    "New York City taxi driver Travis Bickle constantly, almost obsessively, reflects on the ugly corruption of life around him, and becomes increasingly disturbed over his own loneliness and alienation. In nearly every phase of his life, he remains a complete outsider, failing to make emotional contact with anyone. Unable to sleep night after night, he haunts the local pornography emporiums to find diversion, and begins desperately thinking about an escape from his depressing existence.—filmfactsman"
+  ],
+  "synopsis": "Travis Bickle (Robert De Niro) goes to a New York City taxi depot where he applies for a job as a driver to the tough-talking personnel officer (Joe Spinell). Travis claims that he is an honorably discharged Vietnam Vet Marine.Travis gets the job for the night shift due to his chronic insomnia.Travis is a lonely and depressed young man of 26 years. His origins and hometown are unknown. He sends his parents letters as well as birthday and Christmas cards, lying about his life and saying he works with the Secret Service. Travis spends his restless days alone in his rundown apartment somewhere in Manhattan, or in seedy porn theaters on and off 42nd Street. At one porn theater he tries to make an advance on the concession lady to no avail. He works 12 or 14 hour shifts during the evening and night time hours carrying passengers among all five boroughs of New York City. Sometimes during his breaks, he goes to a local all-night diner to have something to eat or just a few cups of coffee where fellow taxi drivers also hang out during their late-night lunch breaks. One of whom is a self-appointed philosophical type named Wizard (Peter Boyle).During taxi driving, Travis spies and becomes infatuated with a woman named Betsy (Cybill Shepherd), a campaign volunteer for New York Senator Charles Palantine, who is running for the presidential nomination and is promising dramatic social change. Travis spies Betsy joking with a co-worker named Tom (Albert Brooks). Travis works up the nerve to ask her out and Betsy is initially intrigued by Travis. She agrees to a date with him after he flirts with her over coffee and sympathizes with her own apparent loneliness.\nTravis is further revolted by what he considers the moral decay around him. One night while on shift, Iris (Jodie Foster), a 12-year-old child prostitute, gets in his cab, attempting to escape her pimp. Travis fails to drive off quickly enough and her pimp, \"Sport\" (Harvey Keitel), reaches the cab. Sport forcibly grabs Iris away with him and gives Travis a crumpled twenty dollar bill as a bribe not to say anything.During one of his shifts, Travis picks up Senator Palantine and an aide. He tells the senator he plans to vote for him. The senator asks Travis \"what's the one thing that bugs you the most?\" and Travis responds that he would like the next president to \"clean the scum off New York City.\"\nOn their date, however due to his lack of social skills, Travis takes Betsy to a porno theater to view a Swedish \"sex education\" film. Offended, she leaves him and takes a taxi home alone. The next day he tries to reconcile with Betsy, phoning her and sending her flowers, but all of his attempts are in vain and she refuses to speak with him. Going back into the campaign office, Travis confronts Betsy and shouts that she will \"burn in hell like the rest of them\".Rejected and depressed, Travis later picks up a man who appears to be as mentally unbalanced as he is. The man tells Travis to park outside an apartment building while letting the meter run. He tells Travis to look at the woman in the window and tells him that's his wife in her boyfriend's apartment. He tells Travis he plans to kill them both.\nOne evening at the diner, Travis tries to express his despair to Wizard, but finds Wizard's weak response: \"that's just about the stupidest thing I ever heard\".Travis's thoughts turn more violent. Disgusted by the petty street crime (especially prostitution) that he witnesses while driving through the city, he now finds a focus for his frustration and buys a number of pistols from an illegal drug/weapons dealer (Steven Prince).\nTravis develops an ominously intense interest in Senator Palantine's public appearances and it seems that he somehow blames the presidential hopeful for his own failure at wooing Betsy and maybe hopes to include her boss in his growing list of targets. Back at his apartment with his newly purchased guns, he begins a program of intense physical training and practices a menacing speech in the mirror, while pulling out a pistol that he attached to a home-made sliding action holster on his right arm (\"You talking' to me?\"). Later, he hangs around a Palantine rally and asks a suspicious secret service man about joining the service before disappearing into the crowd.In an accidental warm-up, Travis randomly walks into a robbery in a run-down grocery and shoots the would-be thief (Nat Grant) in the face; adding to the bizarre violence, the sympathetic grocery owner (Victor Argo) encourages Travis to flee the scene and then proceeds to club the near-dead stickup man with a steel pole.\nLater, seeing Iris on the street, he follows her. Another day later, Travis asks to pay for her time, and is sent to Sport. A tense conversation ensues but Sport sends Travis up to Iris's room. Once in her room, Travis does not have sex with her and instead tries to convince her to leave this way of life behind.The next day, Travis and Iris meet for breakfast at a local coffee shop and Travis becomes obsessed with saving this naive child-woman who thinks hanging out with hookers, pimps and drug dealers is more \"hip\" than dating young boys and going to school. Iris considers Travis's offer but then Sport seduces and convinces her to stay, while (seemingly) Travis spies into the window from his cab. Travis writes a note to Iris including all his money and stating that he doesn't intend to survive.\nAny lingering doubt in the viewer's mind about Travis Bickle's sanity is obliterated when he is suddenly and shockingly shown to be sporting a crude Mohawk haircut at a public rally. He creeps through the crowd and prepares to assassinate Senator Palantine but is spotted by Secret Service men and flees.Travis returns to his apartment to collect all his guns, then drives to \"Alphabet City\" (an area of New York's Lower East side consisting of Avenues A through E). He walks up to Sport and confronts him. When Sport flicks a lit cigarette at him, Travis says \"suck on this\" and shoots Sport in the belly. Storming into the brothel, Travis blows the bouncer's hand off. Sport, who has followed Travis, grazes Travis neck with a bullet (causing an arterial gush from his neck) but Travis unloads one of his guns into Sport, killing him. Travis again shoots the screaming bouncer who follows him up the stairs, slapping him. Iris' mafioso customer shoots Travis in the arm and Travis shoots his face off. The bouncer tackles Travis but Travis stabs him through the hand and finally kills the bouncer with a bullet to the brain. He then calmly tries repeatedly to fire a bullet into his own head under his chin but all the weapons are empty so he resigns himself to resting on a convenient sofa until police arrive. When they do, the blood-soaked Travis mimes shooting himself in the head and then blissfully thinks of the mayhem and carnage in his wake.A brief epilogue shows Travis recuperating from the incident. He has received a handwritten letter from Iris' parents who thank him for saving their daughter, and the media (in newspaper clipping) hails him as a hero for saving her as well. Travis blithely returns to his job and suddenly seems on more friendly terms with the other cabbies. One night one of his fares happens to be Betsy. She comments about his saving of Iris and Travis' own media fame, yet Travis denies being any sort of hero. He drops her off without charging her. As he is driving off, he gets a strange look on his face and adjusts his cab's rear view mirror, giving the impression that his irrationality is about to break through again.",
+  "imdb_score": 8.2
+}

@@ -1,0 +1,557 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/pK42lGbT48fClhtEcP7gvk4hoXP.jpg",
+  "id": 62211,
+  "title": "Monsters University",
+  "poster_path": "https://image.tmdb.org/t/p/w500/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg",
+  "release_date": "2013-06-19",
+  "vote_average": 7.031,
+  "vote_count": 10112,
+  "popularity": 57.754,
+  "overview": "A look at the relationship between Mike and Sulley during their days at Monsters University — when they weren't necessarily the best of friends.",
+  "imdb_id": "tt1453405",
+  "budget": 200000000,
+  "homepage": "",
+  "revenue": 743600000,
+  "runtime": 104,
+  "tagline": "School never looked this scary.",
+  "genres": [
+    "Animation",
+    "Family"
+  ],
+  "production_companies": [
+    "Pixar",
+    "Walt Disney Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Billy Crystal",
+        "character": "Mike Wazowski (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6QNyXn8NPQDEctSuDLgg5AHmsiR.jpg"
+      },
+      {
+        "name": "John Goodman",
+        "character": "James 'Sulley' Sullivan (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+      },
+      {
+        "name": "Steve Buscemi",
+        "character": "Randall Boggs (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lQKdHMxfYcCBOvwRKBAxPZVNtkg.jpg"
+      },
+      {
+        "name": "Helen Mirren",
+        "character": "Dean Hardscrabble (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eY26gqv9EGunId7kp32pLueXvz4.jpg"
+      },
+      {
+        "name": "Peter Sohn",
+        "character": "Scott 'Squishy' Squibbles (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8cQGViF2lXlcsAIvFUMWboXYXIu.jpg"
+      },
+      {
+        "name": "Joel Murray",
+        "character": "Don Carlton (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xWkvfTlnEVkUrYKQz4ajRjUWyxC.jpg"
+      },
+      {
+        "name": "Sean Hayes",
+        "character": "Terri Perry (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/31TI5l5QvcZHN4fh0NpejZyJtP.jpg"
+      },
+      {
+        "name": "Dave Foley",
+        "character": "Terry Perry (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/muHRRGDTE7ZWk3guqDAk9L4DqVX.jpg"
+      },
+      {
+        "name": "Charlie Day",
+        "character": "Art (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg"
+      },
+      {
+        "name": "Alfred Molina",
+        "character": "Professor Knight (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+      },
+      {
+        "name": "Tyler Labine",
+        "character": "Brock Pearson (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uTg5k0mflhBju9Q1tOYmYDzdBu6.jpg"
+      },
+      {
+        "name": "Nathan Fillion",
+        "character": "Johnny Worthington (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg"
+      },
+      {
+        "name": "Aubrey Plaza",
+        "character": "Claire Wheeler (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6qeCvOF1K88nKqZfzaWYESo0CwW.jpg"
+      },
+      {
+        "name": "Bobby Moynihan",
+        "character": "Chet Alexander (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
+      },
+      {
+        "name": "Noah Johnston",
+        "character": "Young Mike (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w6MYsvVCeTdOMaOmAmVWJ5PuMjm.jpg"
+      },
+      {
+        "name": "Julia Sweeney",
+        "character": "Ms. Squibbles (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lE4Ugwp0Cq1it6OfzP0no6ItQs7.jpg"
+      },
+      {
+        "name": "Bonnie Hunt",
+        "character": "Karen Graves (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+      },
+      {
+        "name": "John Krasinski",
+        "character": "Frank McCay (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pmVGDb6Yl6OyFcHVGbu1EYNfyFK.jpg"
+      },
+      {
+        "name": "Bill Hader",
+        "character": "Referee / Slug (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg"
+      },
+      {
+        "name": "Beth Behrs",
+        "character": "Carrie Williams (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7sk9gybgQCZmPut3T85oMohkfEu.jpg"
+      },
+      {
+        "name": "Bob Peterson",
+        "character": "Roz (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dJe3nTCIToebjj1WHFHP7LmZKyk.jpg"
+      },
+      {
+        "name": "John Ratzenberger",
+        "character": "Yeti (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e5aNU09v1q6WYTx9pNzC7yjSpve.jpg"
+      },
+      {
+        "name": "Lori Alan",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pdqefVlTbIpNObYdIlyWQGYLEBd.jpg"
+      },
+      {
+        "name": "Carlos Alazraqui",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d2hufnjlfsZiY7N9NLZ6b7FE1IZ.jpg"
+      },
+      {
+        "name": "Jack Angel",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5MsVwIULYJotUSbDs61uSJff7ei.jpg"
+      },
+      {
+        "name": "Bob Bergen",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg"
+      },
+      {
+        "name": "Gregg Berger",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bMlJUmhblX50gQrnA8XWG7UuaLk.jpg"
+      },
+      {
+        "name": "Rodger Bumpass",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lGQkw6adxqB6Hcm7VK8nVHbKupe.jpg"
+      },
+      {
+        "name": "Neil Campbell",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tN7yKrw9Gj23zIbPLopw4JM9dNb.jpg"
+      },
+      {
+        "name": "Ava Acres",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sYMwB6534I4vpfHyxvkdkDo3spa.jpg"
+      },
+      {
+        "name": "Sherry Lynn",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cp7SYig9JVbBWgc2YD4wEUNQGzh.jpg"
+      },
+      {
+        "name": "Paul Lazenby",
+        "character": "Monster (voice, uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3J4xzfU545NROfNuTUmXrTbapeg.jpg"
+      },
+      {
+        "name": "Aramé Scott",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bdJdhTQJPZYJrk7u6Ke5AMQLd1s.jpg"
+      },
+      {
+        "name": "Joseph John Schirle",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zmgqmxoVpNIiSgHPZQgrMQdSnnx.jpg"
+      },
+      {
+        "name": "Kristen Li",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AiDLWnlXY4iUriMggd4hSbzKowp.jpg"
+      },
+      {
+        "name": "Davin Ransom",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sdcuETbsudyWIjJZ4DDU3cSW0Qk.jpg"
+      },
+      {
+        "name": "Raymond Ochoa",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f5Sil0WJctfYQMjCed58nzaITS5.jpg"
+      },
+      {
+        "name": "Calum John",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Montse Hernandez",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mQ8tY2ji2fSBnkrKJAsIAxHTZUG.jpg"
+      },
+      {
+        "name": "Mason Cook",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7w9OSReqRtjp5D2AKgA4Z5EsK82.jpg"
+      },
+      {
+        "name": "Makenna Cowgill",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tyree Brown",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bC5MyHW7chTOZWPCVr1Ts8lxF0X.jpg"
+      },
+      {
+        "name": "Jack Bright",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Isabella Acres",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zNe900NIdEN9aYQ6ujj1lCUqUqG.jpg"
+      },
+      {
+        "name": "April Winchell",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aRIUYseEeOSfI7a4EqPbKIyPR1o.jpg"
+      },
+      {
+        "name": "Colette Whitaker",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8ngAVxwb0WKvRII5lLat66IOlz2.jpg"
+      },
+      {
+        "name": "Jim Ward",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yQklzBUmaHbcS00DXq73J1HYUrE.jpg"
+      },
+      {
+        "name": "Marcia Wallace",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bDCnZlPdUOyeQN0ewvoEjadBr9V.jpg"
+      },
+      {
+        "name": "David Theune",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zNadeApQk3UBQL6I4gEORdeDng6.jpg"
+      },
+      {
+        "name": "Tara Strong",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Z86FfWbnUJnyFTcLa9MpVVFhMh.jpg"
+      },
+      {
+        "name": "Mindy Sterling",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hX99KTTCFxB4a2rB1SpDbr8imrK.jpg"
+      },
+      {
+        "name": "Joel Spence",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xfpsTePEVneoG2vs57st9mnmhoo.jpg"
+      },
+      {
+        "name": "Betsy Sodaro",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mia2ZT1kMUnKUdT2Q9QZ7u80HJJ.jpg"
+      },
+      {
+        "name": "Patrick Seitz",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dIAUmfTbC4duex4lRV5ET7JEQhs.jpg"
+      },
+      {
+        "name": "Dan Scanlon",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sNHqtJKMd59fvEiwBRPD3zKKYQ4.jpg"
+      },
+      {
+        "name": "Jan Rabson",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8IBFupx53arTqxOYhGkGwyVSaOn.jpg"
+      },
+      {
+        "name": "Cristina Pucelli",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8E87oVc9YYQHg57ln2mlcNxXFrK.jpg"
+      },
+      {
+        "name": "Jeff Pidgeon",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t8LV9Y6s1qwQQNSRfo6GWEExffd.jpg"
+      },
+      {
+        "name": "Dannah Feinglass Phirman",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t2SnmEYrHloRBcuCTJ9fsqN447Z.jpg"
+      },
+      {
+        "name": "Donovan Patton",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nxhYW1Q3I4EjsKymgZnqTInf5gi.jpg"
+      },
+      {
+        "name": "Bret Parker",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gGjVAlMsdEVti2StoS4FZRaw2Xf.jpg"
+      },
+      {
+        "name": "Colleen O'Shaughnessey",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y3Kl5tCX1XD6uyL9wefTRbEXTwj.jpg"
+      },
+      {
+        "name": "Laraine Newman",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/62i0sFf0IwmkQkBW9Osucgx8qGr.jpg"
+      },
+      {
+        "name": "David Neher",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1yniW3fcX1Kqg6TqagyFmgAhytS.jpg"
+      },
+      {
+        "name": "Pam Murphy",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wJ3XIErZbDpYAksCMKOQUD0ieKH.jpg"
+      },
+      {
+        "name": "Matthew Mercer",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fe1S317253vfMuNuIDjhp9vtNSs.jpg"
+      },
+      {
+        "name": "Alec Medlock",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e4xRLtdu4QkstJ7mSUgwVGpvwKt.jpg"
+      },
+      {
+        "name": "Allan McLeod",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dGjDARKYBYlRIBSL6VvV2Jnu9gl.jpg"
+      },
+      {
+        "name": "Mickie McGowan",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4K1HF10EvDjdaIoDAnWqFZjnmvk.jpg"
+      },
+      {
+        "name": "Tricia McAlpin",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eBoQ88rl4n6ewKzEhUJ4RZChea6.jpg"
+      },
+      {
+        "name": "Mona Marshall",
+        "character": "Emmet (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A2RCAt0Xmm3jLBKZogQAJX6eD9n.jpg"
+      },
+      {
+        "name": "Jason Marsden",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3SR5TiCuTLebP00LTTQwDUSP14s.jpg"
+      },
+      {
+        "name": "Danny Mann",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/980QYqXIZCMn5Knx0vjROkw9vKo.jpg"
+      },
+      {
+        "name": "Dawnn Lewis",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ppxGgmkTczev2VsiOSMfaGUy580.jpg"
+      },
+      {
+        "name": "Elissa Knight",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vrgL992F6hQYTyNeJWDKRsrolaP.jpg"
+      },
+      {
+        "name": "John Kassir",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/byj6Px0tLcqRFWIJYUxstg25Qd2.jpg"
+      },
+      {
+        "name": "Brandon Johnson",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4hPvsVP7uDBHDgj7JikIY3Wop18.jpg"
+      },
+      {
+        "name": "Jess Harnell",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+      },
+      {
+        "name": "Mike Hanford",
+        "character": "Additional Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Gerson",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/amOuK3ytWV7KXeWrpl9joCglRlF.jpg"
+      },
+      {
+        "name": "Teresa Ganzel",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8ZFhsWrzxBrewduX8X6rRNQWpLw.jpg"
+      },
+      {
+        "name": "Donald Fullilove",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b1UESEs3V0ZdquOg1upLeu3R7zz.jpg"
+      },
+      {
+        "name": "Andy Fischer-Price",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ccWztwgjKhbfQTkHbS4IwhDOPAv.jpg"
+      },
+      {
+        "name": "Keith Ferguson",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mR1ClwyFWtdkArXNTx1ij7FHBzm.jpg"
+      },
+      {
+        "name": "Bill Farmer",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lhezx68R12s5Bsv7d77BrQb7tWA.jpg"
+      },
+      {
+        "name": "Paul Eiding",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Gxs9fTnkQLFlmMHROlgiDJ4p10.jpg"
+      },
+      {
+        "name": "Greg Dykstra",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xnGnvlzaDFHYQSGpaN93R3eCLpp.jpg"
+      },
+      {
+        "name": "John Cygan",
+        "character": "Additional Voices(voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sIcRLzUyeOL9ayYOUye3LFWkfuA.jpg"
+      },
+      {
+        "name": "Sean Conroy",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hbCdAeHexLxiHx4aVKHFnxAu1hS.jpg"
+      },
+      {
+        "name": "Patrick Carlyle",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tJF09mrpWjIKgcvhtInNfMs0nEF.jpg"
+      },
+      {
+        "name": "Natalie Jane Dang",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gage Davenport",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ethan Louis Samuels DiSalvio",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Faith Goblirsch",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brooke Klinger",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nikolas Michailidis",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marley Pearson",
+        "character": "Additional Children's Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lindsay Lefler",
+        "character": "Additional Voices (voice)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Dan Scanlon",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sNHqtJKMd59fvEiwBRPD3zKKYQ4.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "friendship",
+    "monster",
+    "door",
+    "games",
+    "training camp",
+    "dormitory",
+    "feud",
+    "bully",
+    "prequel",
+    "best friend",
+    "university",
+    "fraternity",
+    "aftercreditsstinger",
+    "college student",
+    "personification"
+  ],
+  "mpaa": "G",
+  "summaries": [
+    "A look at the relationship between Mike Wazowski (Billy Crystal) and James P. \"Sully\" Sullivan (John Goodman) during their days at Monsters University, when they weren't necessarily the best of friends.",
+    "Mike Wazowski (Billy Crystal) and James P. \"Sully\" Sullivan (John Goodman) are an inseparable pair, but that wasn't always the case. From the moment these two mismatched monsters met, they couldn't stand each other. This movie unlocks the door to how Mike and Sully overcame their differences and became the best of friends.—Disney/Pixar",
+    "When Mike Wazowski (Billy Crystal) is young, he visits Monsters University on a tour of his primary school. A senior student gives his hat to Mike, and he plans to become a scary monster. Years later, Mike joins the Monsters University and on arrival, he receives a flier of the Scare Games that will take place soon in the campus. Mike also befriends his roommate Randall (Steve Buscemi). When the lazy student James P. \"Sully\" Sullivan (John Goodman), who belongs to a family of famous \"scarers\", breaks into his room, they start a competition in class. Their dispute ends when they accidentally break the pride and joy of Dean Abigail Hardscrabble (Dame Helen Mirren), a cylinder with her greatest achievement - a powerful scream of a boy. They are expelled from the scare classes by Hardscrabble who says that Sully is lazy and Mike is not scary, and they become enemies. When Mike recalls the Scare Games, he sees his only chance to return to the scare course. He makes the application to participate, but he learns that he needs a fraternity. Mike joins the Oozma Kappa that is the only fraternity available with four losers, but he is informed that the fraternity needs to have six members. Sully offers to complete the team and Mike has no other alternative but accept Sully in his team. Then he bets with Hardscrabble that if he wins the games, she will accept them in the scare classes. Soon the game begins.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "When Little Mike Wazowski went onto the Scare Floor, he wanted nothing more than to become a scarer. Years later, he spends the rest of his days at Monsters University. But, then he meets the lazy student James P. \"Sully\" Sullivan (John Goodman), who is way more of a scarer than he is and is the family of the famous scarers. Then, Mike (Billy Crystal) competes for the Scare Games. But, little does he know he needs a fraternity. Soon, he has a team of four losers who are no good at anything. Then, Mike has to be friendly to Sully when he joins their team. Now, Mike and Sully have to win this in order to not just become the best of friends, but get themselves and their fraternity into the Scare Program. It's gonna be a lot of hard work.",
+    "A younger Mike Wazowski (Billy Crystal), the one-eyed monster we all know and love, attends Monsters University, the school of his dreams. However, when he meets a blue and purple polka-dotted student, James P. \"Sully\" Sullivan (John Goodman) in his same program, things go downhill from there. Mike must compete in the Scare Games to prove to everyone, especially the dean, that he is scary, but Sully, his enemy, has joined his team. In the end, Mike must learn that some things cannot be taught.—Eric"
+  ],
+  "synopsis": "Michael \"Mike\" Wazowski, a six-year-old monster, visits Monsters Inc., a scaring company, on a school field trip. During the visit, the class meets Frank McCay, an employee of the company who works as a \"scarer\", entering the human world to scare children at night and harvesting their screams as energy to power the monster world. Mike, enchanted with the idea of being a scarer, slips through Frank's door before anyone can stop him, where he watches Frank's scare performance, then follows him back through the door to the monster world. Frank scolds Mike, but is impressed with his ability to have followed him unnoticed, and gives him his Monsters University hat as a souvenir. Oblivious to his teacher's later admonishments, Mike dreams of being a scarer when he grows up.Approximately eleven years later, Mike is a scare major at Monsters University. On his first day, he meets his new roommate, Randall \"Randy\" Boggs, a nerdy monster that can turn invisible. During the first class of the scare program, as Mike is answering a question, he is interrupted by another scare student, an arrogant large blue monster named James P. \"Sulley\" Sullivan. The class is also informed by Abigail Hardscrabble, the strict Dean of the scare program, that they must pass their final exam of the semester to continue in the program. While Mike is studying one night, Sulley inadvertently barges into his room to hide the pig mascot he stole from their rival college, Fear Tech. While the two bicker, the pig steals Mike's MU hat and escapes. Mike and Sulley give chase, but when Mike finally manages to capture it, Sulley takes credit, and is invited to join Roar Omega Roar, the elite fraternity on campus. Mike wishes to join, but is rejected, magnifying the rivalry between the two.Mike studies hard and repeatedly answers questions in class correctly, while the privileged Sulley, convinced all he needs is his natural scaring ability, begins to falter. At the final exam, Mike and Sulley's rivalry causes Hardscrabble to fail them both and dropping them from the program, which prompts Roar Omega Roar to remove Sulley from the fraternity. Dissatisfied in his boring new major, Mike decides to prove himself by entering the Scare Games, an extracurricular scaring competition. As the games are only for fraternity or sorority members, Mike joins Oozma Kappa, a small fraternity of misfit monsters. When Mike and Oozma Kappa are denied entry as they are one team member short, Sulley offers to join, seeing the competition as his ticket back into the scare program, and Mike eventually reluctantly accepts. Mike also makes a deal with Dean Hardscrabble, who remains skeptical, to re-admit their entire team to the scaring program if they win, whereas if they lose, Mike must leave Monsters University. Sulley expects to carry the team by himself, but Mike believes that with enough training, the whole team can succeed.With the last-placing team in each round of the Games being eliminated from the competition, Oozma Kappa fails the first challenge miserably but miraculously advances when another team is disqualified. They then attend a party at Roar Omega Roar house where initially the other competitors appear to accept them, but the fraternity pranks and humiliates them instead. The group is discouraged as they are now the laughingstock of the entire campus, so Mike arranges a secret visit to Monsters, Inc. to lift their spirits. After that, Oozma Kappa uses their wits and training to advance to the final round against Roar Omega Roar. Even having advanced so far, Sulley does not think that Mike can be a true scarer because of his lack of natural ability. After the team wins the final round, Mike discovers that Sulley manipulated the equipment to improve Mike's score. Mike is heartbroken and wants to prove that he is capable of becoming a scarer, so he breaks into the school's door lab and enters a door to the human world, but discovers that the door leads to a summer camp and he is unable to scare the cabin full of children.Back at the university, Sulley confesses to The Dean, Hardscrabble, that he cheated, just as she is notified of the break-in. Realizing what happened, Sulley enters the door to look for Mike. After finding Mike and reconciling, the pair, now being pursued by human adults, attempt to return, but find themselves trapped in the human world, as Hardscrabble has deactivated the door waiting for the authorities arrive. Mike realizes that the only way to get back into the monster world is to generate enough scream energy to power the door from their side. Working together, Sulley and Mike terrify the adults, generating an overwhelming amount of scream energy and allowing them to return to the lab. Their actions lead to their expulsion from the university, but the other members of Oozma Kappa are accepted into the scare program the next semester as Hardscrabble was impressed with their performance in the games. They share goodbyes and as Sulley and Mike leave, Hardscrabble tells them they are the first to have surprised her, and wishes them luck for the future. Mike and Sulley work at Monsters, Inc. in the company mailroom with the Abominable Snowman as the mailroom's manager. Working their way up through the company, the two eventually become part of the Scarer Team.",
+  "imdb_score": 7.2
+}

@@ -1,0 +1,518 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/syO4HCR4t3tz6TX9CbYlW9fTQX3.jpg",
+  "id": 2001,
+  "title": "We Own the Night",
+  "poster_path": "https://image.tmdb.org/t/p/w500/fcb2c9BcRc21iiWih23FQfT39uB.jpg",
+  "release_date": "2007-10-12",
+  "vote_average": 6.694,
+  "vote_count": 1277,
+  "popularity": 16.608,
+  "overview": "A New York nightclub manager tries to save his brother and father from Russian mafia hitmen.",
+  "imdb_id": "tt0498399",
+  "budget": 21000000,
+  "homepage": "",
+  "revenue": 55033767,
+  "runtime": 118,
+  "tagline": "Two brothers on opposite sides of the law. Beyond their differences lies loyalty.",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    "2929 Productions",
+    "Nick Wechsler Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Joaquin Phoenix",
+        "character": "Robert 'Bobby' Green",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ls72wfQl8AhRVFeBnotmnAdy3JR.jpg"
+      },
+      {
+        "name": "Mark Wahlberg",
+        "character": "Cpt. Joseph 'Joe' Grusinsky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bTEFpaWd7A6AZVWOqKKBWzKEUe8.jpg"
+      },
+      {
+        "name": "Eva Mendes",
+        "character": "Amada Juarez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uj6IaUDEUB7swj46dPjHAi3TEk4.jpg"
+      },
+      {
+        "name": "Robert Duvall",
+        "character": "Dep. Chief Albert 'Burt' Grusinsky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
+      },
+      {
+        "name": "Alex Veadov",
+        "character": "Vadim Nezhinski",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bpJKpwpYSgnSkjAA5SX50Wwr0Qa.jpg"
+      },
+      {
+        "name": "Paul Herman",
+        "character": "Spiro Giavannis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4pbyVc2y4WGJg4F99z1NLoLceO2.jpg"
+      },
+      {
+        "name": "Antoni Corone",
+        "character": "Lt. Michael Solo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/85G9purVJGnYwu1wCVQO8ZNHr8Z.jpg"
+      },
+      {
+        "name": "Tony Musante",
+        "character": "Cpt. Jack Shapiro",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pnWRjQgpX0NKu2q5OFtLJrKq0Vq.jpg"
+      },
+      {
+        "name": "Katie Condidorio",
+        "character": "Hazel",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Hoch",
+        "character": "Louis 'Jumbo' Falsetti",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mbV5Ks15q0OMByJlvaerHt7XKFM.jpg"
+      },
+      {
+        "name": "Oleg Taktarov",
+        "character": "Pavel Lubyarsky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ueTdaRKPxbevozBVkdLgtuLFBvK.jpg"
+      },
+      {
+        "name": "Dominic Colón",
+        "character": "Freddie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oPVHR7goTVKdBQFZ9PnBRrSLl1n.jpg"
+      },
+      {
+        "name": "Joseph D'Onofrio",
+        "character": "Bloodied Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sbDtKGXn4mQIjnTVCUfLMf15Kmj.jpg"
+      },
+      {
+        "name": "Yelena Solovey",
+        "character": "Kalina Buzhayev",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8stZmZthMLJOnoOTZcnsjoPBJWs.jpg"
+      },
+      {
+        "name": "Moni Moshonov",
+        "character": "Marat Buzhayev",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9JigKYNNFDr0fx2k4toOY0J3mZq.jpg"
+      },
+      {
+        "name": "Maggie Kiley",
+        "character": "Sandra Grusinsky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/afVV0N8INwL75CVTGeJj4jNaiwQ.jpg"
+      },
+      {
+        "name": "Craig Walker",
+        "character": "Russell De Keifer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xLxKbfHbJwESM8yRMmpVBdr5WWt.jpg"
+      },
+      {
+        "name": "Claudia Lopez",
+        "character": "Claudia",
+        "profile_path": ""
+      },
+      {
+        "name": "Edward Shkolnikov",
+        "character": "Eli Mirichenko",
+        "profile_path": ""
+      },
+      {
+        "name": "Katya Savina",
+        "character": "Eli & Masha's Daughter",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew Djentchouraev",
+        "character": "Eli & Masha's Son",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Nicholson",
+        "character": "Nat the Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/61MxcJoexBrV3naICrJYeLV2HCV.jpg"
+      },
+      {
+        "name": "Robert C. Kirk",
+        "character": "Sgt. Provenzano",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fSmJRmg0JvC0tsYR2mQF0SgNWDR.jpg"
+      },
+      {
+        "name": "Al Linea",
+        "character": "Portly Cop",
+        "profile_path": ""
+      },
+      {
+        "name": "Teddy Coluca",
+        "character": "Uniformed Cop #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jszbthMiyZ8KInginQVcuQ8DBuy.jpg"
+      },
+      {
+        "name": "Frank Girardeau",
+        "character": "Police Chaplain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ycgh674qIhhXJMcA5qWSDxN6vl.jpg"
+      },
+      {
+        "name": "Joseph Coffey",
+        "character": "Uniformed Cop #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Jose Edwin Soto",
+        "character": "Latino Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Greg Wilson",
+        "character": "Poker Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Ed Koch",
+        "character": "Mayor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xiYbexdeDIUJnhCmh8gFKo6tAVF.jpg"
+      },
+      {
+        "name": "Fred Burrell",
+        "character": "Commissioner Ruddy",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Massimino",
+        "character": "Hospital Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/954LJsI9Wic8lcS9H3A6llmznry.jpg"
+      },
+      {
+        "name": "Edward Conlon",
+        "character": "Hospital Guard #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Sharon Wilkins",
+        "character": "Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fVvxdXzgh9rKTZ7yeqSlwobG8v8.jpg"
+      },
+      {
+        "name": "Ross Brodar",
+        "character": "Tattooed Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/owA6yKWIcSJkqHRV0p9rtAOJQCg.jpg"
+      },
+      {
+        "name": "Francis Toumbakaris",
+        "character": "Slavic Youth",
+        "profile_path": ""
+      },
+      {
+        "name": "Hoon Lee",
+        "character": "Emergency Services Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Ux4nTEfPySyZg6yBlu1uXR1TyT.jpg"
+      },
+      {
+        "name": "Barbara Ann Davison",
+        "character": "Neighbor Lady",
+        "profile_path": ""
+      },
+      {
+        "name": "Irwin Gray",
+        "character": "Neighbor",
+        "profile_path": ""
+      },
+      {
+        "name": "Luigi Scorcia",
+        "character": "Luigi",
+        "profile_path": ""
+      },
+      {
+        "name": "Miriam Cruz",
+        "character": "Amanda's Mother",
+        "profile_path": ""
+      },
+      {
+        "name": "Doug Torres",
+        "character": "Schneider",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wKkHy2GE55YwBcjFScYddRSuCmh.jpg"
+      },
+      {
+        "name": "Tony Guida",
+        "character": "Vitt the Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kWHSp2cVZN9GqUEgPmKX7Gr3Ags.jpg"
+      },
+      {
+        "name": "Robert G. McKay",
+        "character": "Riker's Desk Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9doNuNVyu2wM59BsbKNRotV2W7p.jpg"
+      },
+      {
+        "name": "Blaise Corrigan",
+        "character": "Uniformed Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ycsMR3gck2D8jJT6QEtzyrjUmC6.jpg"
+      },
+      {
+        "name": "Karl Bury",
+        "character": "Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aMqxYtlCNKLik0ImzYGftj80kcf.jpg"
+      },
+      {
+        "name": "Joe Forbrich",
+        "character": "Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zXwP9908bYBXougdcaFsP8awk2v.jpg"
+      },
+      {
+        "name": "Robert A. Pennacchia",
+        "character": "Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Petrocelli",
+        "character": "Tough Looking Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6LjR6uuzBLy8gcagQlaTTPor6RI.jpg"
+      },
+      {
+        "name": "Nik Pjeternikaj",
+        "character": "Albanian Drug Lord",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sJc9rq4S9NGlgH8nYQRhYCtd6lz.jpg"
+      },
+      {
+        "name": "Jamal Weathers",
+        "character": "Parabolic Engineer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r3orbc7ceXZWWQVSJm6FTrxn9Fw.jpg"
+      },
+      {
+        "name": "Elliot Santiago",
+        "character": "El Caribe Bouncer #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff Ward",
+        "character": "El Caribe Bouncer #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mgFudU2FAOHUcYJDccPQipjAoQK.jpg"
+      },
+      {
+        "name": "Christopher Place",
+        "character": "El Caribe Party Patron #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bbz8BujwBXQfEDu68ZxXpj35HoH.jpg"
+      },
+      {
+        "name": "Samantha MacIvor",
+        "character": "El Caribe Party Patron #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ztH9qxR7mknj8Rs2MCNhayA7n5l.jpg"
+      },
+      {
+        "name": "Bob Colletti",
+        "character": "El Caribe Party Patron #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Aaron Vexler",
+        "character": "El Caribe Party Patron #4",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Tatarkin",
+        "character": "Vadim's Goon #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick M. Walsh",
+        "character": "Eli Bodyguard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6CfMZuNKFnwtYz5mQOgf9wDokbU.jpg"
+      },
+      {
+        "name": "Salvatore Inzerillo",
+        "character": "Police Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Ava Lee Scott",
+        "character": "Veronica",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1hmFBVE6sRSw5LYloJXg9q0NomQ.jpg"
+      },
+      {
+        "name": "Douglas J. Aguirre",
+        "character": "Bobby Green's Bodyguard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kGgkUDfme9Cmel2SO59GUbQjMNG.jpg"
+      },
+      {
+        "name": "Ashley Avis",
+        "character": "Vadim's Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A9Z1qC5DxLPZ83qxn4OK4VUW4qu.jpg"
+      },
+      {
+        "name": "James Balsamo",
+        "character": "Club Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Edwin J. Birmingham",
+        "character": "ESU Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Bizik",
+        "character": "Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5bETkCuBKjKGjwHWTgLyU8aXeAV.jpg"
+      },
+      {
+        "name": "John Borras",
+        "character": "Riker's Prison Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Burke",
+        "character": "Pavel's Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pbT6y2fOI9arUXBKkYfYU1EY217.jpg"
+      },
+      {
+        "name": "Dominick Cicco",
+        "character": "Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hPuerWjktEIaXRQrgMr8YhvOBaW.jpg"
+      },
+      {
+        "name": "J.W. Cortes",
+        "character": "Bouncer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qFsvyKuyTEP8yQjk0gckF0c98qd.jpg"
+      },
+      {
+        "name": "Erin Deighan",
+        "character": "El Caribe Party Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kbU60Cyt6vETNgfsFoPZz5VfJJV.jpg"
+      },
+      {
+        "name": "Tony Devon",
+        "character": "Body Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o8KsixveQn7inWu4VrjIGt1i4rH.jpg"
+      },
+      {
+        "name": "Turi Haim",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Gina Hernandez",
+        "character": "Policeman's Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2GfaFhfPdfsVltkF0WK9iqxxdiV.jpg"
+      },
+      {
+        "name": "Philip E Jones",
+        "character": "Strip Club Visitor",
+        "profile_path": ""
+      },
+      {
+        "name": "Edward M. Kelahan",
+        "character": "Bar Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5IPqaSaEhWIcZOgcHtB6vc9rng7.jpg"
+      },
+      {
+        "name": "Nina Lisandrello",
+        "character": "Bobby's Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wiN8iMiNC1OgU2O3c1OlPFUri1a.jpg"
+      },
+      {
+        "name": "Bernadette Lords",
+        "character": "El Caribe Party Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4KNrO6tksNo3uAOeNluSZCj7Lec.jpg"
+      },
+      {
+        "name": "Robert Nardi",
+        "character": "TNT Cop in Shootout",
+        "profile_path": ""
+      },
+      {
+        "name": "Karen Nazarov",
+        "character": "Slavic Drug Packager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Q49QKIP13MHDBf87eLikg74G71.jpg"
+      },
+      {
+        "name": "Tyler Noble",
+        "character": "Bobby's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Loukas Papas",
+        "character": "El Caribe Party Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zjOWUZBCpASww7oL4t19EfMT8AM.jpg"
+      },
+      {
+        "name": "Martin Pfefferkorn",
+        "character": "Perp in Precinct",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sKIQ68d6pZYqAL6Lpn9ry42yFJu.jpg"
+      },
+      {
+        "name": "Alexandra Tejeda Rieloff",
+        "character": "Cop's Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cEcprn2lpQF31gfQ71QQFp5GaYk.jpg"
+      },
+      {
+        "name": "Marilyn Salisbury",
+        "character": "Mourner",
+        "profile_path": ""
+      },
+      {
+        "name": "Kristen Schiano",
+        "character": "Nightclub Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Aaron Scotti",
+        "character": "El Caribe Party Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Shankman",
+        "character": "TNT Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "Sybelle Silverphoenix",
+        "character": "Club Goer",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Stadulis",
+        "character": "Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oxANKnjL2Ro7NwtxAzAODNMgPHY.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "James Gray",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6oRlizIlhI2exF3OEGvtB6M7KmZ.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "parent child relationship",
+    "bratva (russian mafia)",
+    "gangster",
+    "cocaine",
+    "nightclub",
+    "investigation",
+    "police chief",
+    "arrest",
+    "murder",
+    "shootout",
+    "hospital",
+    "raid",
+    "drugs",
+    "pursuit",
+    "1980s",
+    "protective custody",
+    "brooklyn"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A New York City nightclub manager tries to save his brother and father from Russian Mafia hitmen.",
+    "Brooklyn, 1988. Crime is rife, especially drugs and drug violence. A Russian thug is building his heroin trade, while everyone laughs at the cops. Brothers have chosen different paths: Joe has followed his father Bert into New York's Finest; he's a rising star. Bobby, who uses his mother's maiden name, manages a club. Bobby too is on the rise: he has a new girlfriend and a green-light to develop a Manhattan club. Joe and Bert ask him to help with intelligence gathering; he declines. Then, Joe raids Bobby's club to arrest the Russian. From there, things spiral out of control: the Russian puts out a hit on Joe, personal losses mount, and Bobby's loyalties face the test.—<jhailey@hotmail.com>"
+  ],
+  "synopsis": "New York, November 1988: A new breed of narcotics has swept the great city, bringing with it a ferocious crime wave more terrifying than any in recent memory. Outmanned and outgunned by the new criminal order, the police find themselves burying one of their own at the rate of two a month. An all-out war rages, threatening to engulf guilty and innocent alike.Bobby Green (Joaquin Phoenix) is caught in the crossfire. Manager of a Russian nightclub in Brighton Beach owned by his mentor Marat Buzhayev (Moni Moshonov) and frequented by gangsters like Buzhayev's nephew Vadim Nezhinski (Alex Veadov), Bobby keeps his distance, not wanting to get involved. Despite his hedonistic, amoral lifestyle, he is committed to his girlfriend Amada (Eva Mendes) and has ambitions to open another club in Manhattan for Buzhayev.Bobby has a secret, however, which he guards closely. His brother is Police Captain Joseph Grusinsky (Mark Wahlberg), who has followed in the footsteps of their father, legendary Deputy Chief Bert Grusinsky (Robert Duvall). Bobby's already strained relationship with his father and brother is tested when Bert warns his son that this is a war, and he's going to have to choose a side.He can no longer remain neutral when his brother is badly wounded in an assassination attempt, and Bobby discovers his father could be next. Realizing they will only be safe when Nezhinski and his organization are destroyed, Bobby and Joseph join forces for an all-out assault. Together, they'll try to prove the NYPD's '80s rallying cry in the war on drugs: We Own the Night.--------------------------------------------------------------\nBrooklyn, November 1988Bobby Green (Joaquin Phoenix) kisses and fondles his girlfriend Amada Juarez lying on a sofa. A knock on the door interrupts them to tell them there is a problem. Bobby leaves and goes out into a large bustling nightlcub, the El Caribe. Downstairs topless women dance on the bar and men are fighting, Bobby helps to quell the commotion. He tells his assistant Jumbo Falsetti he is going across the street to talk to the owner.There he is greeted warmly by an older Russian couple and their guests in a modest house. The older man, Marat Buzhayev hints at new plans and the women give homemade desserts to Bobby. He apologizes and leaves. Amada puts on an overcoat and tells some friends tonight she is meeting \"the family\".At a large Polish catholic church in Queens there is a special function for Capt. Joe Grusinsky. Bobby and Amada park nearby and share a joint before going in. In the crowded basement they make their way to a small group of senior police officers. Bobby greets his father, Deputy Chief Bert Grusinsky and brother Joe and the other two men. The Chief says they need to talk alone and the five men go upstairs to the pews. Joe announces he will be the head of a narcotics unit next week. The police suspect the owner of Bobby's nightclub is involved in smuggling drugs into the USA. Bobby refuses to believe it. Bert then talks to Bobby alone and reproaches him for his lifestyle, Puerto Rican girlfriend, and using his late mother's maiden name. Upset, Bobby and Amada leave, as Joe is welcomed to the stage and his new promotion.Later at Bobby's apartment Amada says she is ready to move in and gives Bobby a gold chain gift. Other guests are there and Jumbo arrives with recreational drugs, everyone parties hard.In the evening Bobby once again goes to the Buzhayev house. Marat this time talks about opening another nightclub, Bobby is enthusiastic and has some grand ideas. It is noted Marat's main business is fur importing.Back at the club Bobby and Jumbo chat, they notice Amada schmoozing with Vadim Nezhinski. Jumbo mentions a rumour that Vadim had someone's head cutoff. Suddenly a group of police led by Joe Grusinsky raid the bar frisking patrons for drugs. Joe taunts Vadim and joyfully tears up a large money roll. Bobby is treated roughly by the cops and one smears black ink over his face. Many people are arrested. Back at the station one of the arrested Russians cuts his own throat and bleeds out. In the morning Bert comes to take him out but a disheveled Bobby refuses the help and flips the older man the finger. Cleaned up, he goes to Joe's office. Joe apologizes but the two brothers end up fighting with harsh words.Joe parks his car in front of his house and struggles with a bag of groceries. A hooded man appears with a handgun pointed at Joe, then shoots him in the face.Bert is told while working out a boxing gym, he half faints.In the apartment, there's many people partying and a cash money poker game. The phone rings, Amada answers but it's for Bobby. It is Michael, one of the cops from the church telling Bobby Joe has been shot but is at Jamaica Hospital and still alive. Shocked, Bobby goes to the hospital right away. Bert once again verbally chews out Bobby.Joe will survive but will need several months hospitalization. Joe goes to see Amada at her mother's place.At a diner Vadim comes to Bobby and offers to show him his business operation. They think Bobby can help them spread their product through his social connections. Bobby is hesitant. Vadim scoffs at the local police then hints that they shot Joe and are prepared to get Bert next.Bobby goes to warn his father. The Chief thanks him but doesn't plan on any action, Bobby is dismissed. The next day, alone with Michael, Bobby offers to go undercover, if the cops can catch Vadim in possession of his big drug shipment everything will be OK. The cop gives Bobby a zippo lighter with a hidden mic, they arrange a safety word \"feather\".Bobby makes contact with Pavel to say he wants in. At the drug house Bobby watches the Russians cut and repack white powder. Vadim is suspicious and frisks Bobby. He wonders why there is both a lighter and matches. He takes the lighter apart and finds the bug just as Bobby manages to say the word \"feather\". Police storm the building shooting and in a wild gunfight Bobby jumps out of a 2nd storey window and lands in pain. Vadim is arrested but while sitting handcuffed in a squad car he hears Bert coming to the scene loudly expressing concern for his \"son\". Bert rides in the ambulance with the badly injured Bobby.Joe is released after four months in the hospital. At the welcome home party Bobby and Amada are greeted as family. Joe, Bert and Michael discuss Vadim as Bobby listens. Amada leaves to visit her mother, Bobby finds her there with Jumbo, they leave and Bobby warns her it was too risky.Joe goes to the jail to see Vadim but finds out he has been transferred to a hospital. Bert then goes to pick up Bobby and Amada as it turns out Vadim has escaped. They decide to change motels, Bert is to lead the way, Bobby and Amada in a car with a driver and a third car following. Shortly after leaving the Cue Motor Inn Bobby notices the trailing guard car is missing. Suddenly a car comes alongside, a gun is extended and Bobby's driver is shot and killed.Bobby takes control of the car as the assassins move ahead to attack Bert. A wild car chase through heavy traffic and rain, Bobby sees his father is outgunned and killed in front of him. The cars come to a crashing stop.Bobby and Amada are now under guard at the Kennedy Airport Sheraton. Joe and Bobby grieve for their father. There is an honour guard full colours funeral for Chief Grusinksy. Marat Buzhayev attends the funeral. One evening Amada notices Bobby is studying for the police entrance exam. She is furious he has decided on this dangerous career change without talking to her about it first. Exeunt Amada.Bobby is sworn in as a cop due to his \"special knowledge\" but he will have to go through the Academy later. He will be a plainclothes cop helping at the precinct. He goes to the El Caribe to talk to Jumbo. Jumbo doesn't know much about the drug trade but lets slip he knew about the Cue Motor Inn. Out back Bobby assaults Jumbo and gets more info, Jumbo had told Buzhayev about the motel and then reveals the Russian will be up to something on Tuesday.At a cop war council they plan how to get Buzhayev and Vadim. Bobby remembers Buzhayev takes his grandkids horse riding every Tuesday, Joe approves a raid at the stables. Later Joe gives Bobby their father's revolver.At a derelict site by the water the Russian gangsters meet, observed by armed cops hiding in the weeds. Inside Buzhayev demonstrates the drug smuggling method. They rinse a fur pelt in a basin of water so the drugs are dissolved. Once the water is evaporated a pure white powder remains. Joe starts the raid and a gunfight erupts. Joe falls to the ground unhurt but gun shy. Bobby grabs the shotgun and advances with the other cops. He chases Vadim into a field of tall weeds. Unable to find him he goes back to the cops who have arrested Buzhayev. The cops throw smoke bombs and flares into the weeds to flush Vadim but Bobby can't wait. He goes into the smoky burning weeds, and finally shoots Vadim.Sometime later, at the Police Academy grad ceremony, Joe says he is getting an admin job so he can spend more time with his 3 kids. Robert Grusinsky is named the valedictorian. Bobby thought he saw Amada at the ceremony but then realizes its only another woman who looks like her. He feels upset about it considering how much he misses her.",
+  "imdb_score": 6.8
+}

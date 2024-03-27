@@ -1,0 +1,338 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/4PCO7tewIGnE6ySjVf2DbJ3pjqq.jpg",
+  "id": 492188,
+  "title": "Marriage Story",
+  "poster_path": "https://image.tmdb.org/t/p/w500/91osxUqsq1JC0zJzB1CpAavlWu7.jpg",
+  "release_date": "2019-09-28",
+  "vote_average": 7.746,
+  "vote_count": 6617,
+  "popularity": 29.912,
+  "overview": "A stage director and an actress struggle through a grueling, coast-to-coast divorce that pushes them to their personal extremes.",
+  "imdb_id": "tt7653254",
+  "budget": 18000000,
+  "homepage": "https://www.marriagestorymovie.com",
+  "revenue": 2300000,
+  "runtime": 137,
+  "tagline": "Where there's a love, there's a way.",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Heyday Films"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Adam Driver",
+        "character": "Charlie Barber",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mG2vwd6hJHTiCh8zIxPFND3ibAj.jpg"
+      },
+      {
+        "name": "Scarlett Johansson",
+        "character": "Nicole Barber",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6NsMbJXRlDZuDzatN2akFdGuTvx.jpg"
+      },
+      {
+        "name": "Laura Dern",
+        "character": "Nora Fanshaw",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+      },
+      {
+        "name": "Alan Alda",
+        "character": "Bert Spitz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dJBtCXUwWnAxhveiPdXQS6e71pw.jpg"
+      },
+      {
+        "name": "Ray Liotta",
+        "character": "Jay Marotta",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iXKotiB0Xe9iJLCBbjAedHPLb7p.jpg"
+      },
+      {
+        "name": "Julie Hagerty",
+        "character": "Sandra",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bQZ0bcFNyE4a3GDNfYMmfO7eWMl.jpg"
+      },
+      {
+        "name": "Merritt Wever",
+        "character": "Cassie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ldd1WntzQ72DVuNLoko8yMFHH7j.jpg"
+      },
+      {
+        "name": "Azhy Robertson",
+        "character": "Henry Barber",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6RoaHJAdnQPioROie1JKAgCwqjm.jpg"
+      },
+      {
+        "name": "Wallace Shawn",
+        "character": "Frank",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+      },
+      {
+        "name": "Martha Kelly",
+        "character": "The Evaluator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ac7HoARDIHdYNqpzgJBzpmKHXHR.jpg"
+      },
+      {
+        "name": "Mark O'Brien",
+        "character": "Carter Mitchum",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aIWyiQ5F7fSVjxrUJ624NypXYUF.jpg"
+      },
+      {
+        "name": "Julia Greer",
+        "character": "Street Solicitor #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/41E8iSP0fqqwoDmsPMUWnEtPME2.jpg"
+      },
+      {
+        "name": "Matthew Maher",
+        "character": "Theater Actor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nO9Yhz7ERzATcHploljXgR4cAq.jpg"
+      },
+      {
+        "name": "Eric Berryman",
+        "character": "Theater Actor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gcYfg02JWXKhKVsxaovt38GNTU3.jpg"
+      },
+      {
+        "name": "Mickey Sumner",
+        "character": "Beth - Theater Actor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gNxtYfg8xXgeQ4YC7Pl3HNRAjol.jpg"
+      },
+      {
+        "name": "Jasmine Cephas Jones",
+        "character": "Theater Actor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lT0BC4xmluVmjo3yIGxTqHPqa9p.jpg"
+      },
+      {
+        "name": "Gideon Glick",
+        "character": "Theater Actor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3nf1wh0bG5KoInS26FBtsIoRa6A.jpg"
+      },
+      {
+        "name": "Motell Gyn Foster",
+        "character": "Theater Actor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sengnyU1k3Jf0lShQz8m4X8oo8Z.jpg"
+      },
+      {
+        "name": "David Turner",
+        "character": "Theater Actor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gvzLxV9j0SCxLOUjvy2iU9G9yhn.jpg"
+      },
+      {
+        "name": "Raymond J. Lee",
+        "character": "Theater Actor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7WDM4RpmUudmbslxHe4F2SeMB1Q.jpg"
+      },
+      {
+        "name": "Mary Wiseman",
+        "character": "Theater Actor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oibpY4Pfv4rieKMqptVhgq4jgvm.jpg"
+      },
+      {
+        "name": "Pete Simpson",
+        "character": "Theater Actor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xwPLHCwbqRSsltLrfxYCnSfkoME.jpg"
+      },
+      {
+        "name": "Irene Choi",
+        "character": "Theater Actor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1U7UCNv3eKRTnZvdk9uwK7mfQgM.jpg"
+      },
+      {
+        "name": "Matthew Shear",
+        "character": "Terry - Theater Actor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7BsnupbG1Bjj4w3N3Qhyci1TfAk.jpg"
+      },
+      {
+        "name": "Becca Blackwell",
+        "character": "Theater Actor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gz1o52xbE51Cq6oyuQ2AesJDuYh.jpg"
+      },
+      {
+        "name": "Brooke Bloom",
+        "character": "Mary Ann",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1MQEhhWgEfJ2Fqgw7uSGu0OA9Bj.jpg"
+      },
+      {
+        "name": "Hannah Dunne",
+        "character": "Agnes - Set Designer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/moc83r7ZkviwYqJXeIE84YvKsUR.jpg"
+      },
+      {
+        "name": "McKinley Belcher III",
+        "character": "Lighting Designer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yoglJWyhgA1tnqQS9T3MQPPEsRc.jpg"
+      },
+      {
+        "name": "Roslyn Ruff",
+        "character": "Donna - Costume Designer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9F4MD6VCvYhVBApVFATV3n3oOIf.jpg"
+      },
+      {
+        "name": "Santiago Mallan",
+        "character": "Intern",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Smigel",
+        "character": "Mediator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xGlGVcLhiZ4a7GIGlLzGmZtbvUF.jpg"
+      },
+      {
+        "name": "Amanda Rovner",
+        "character": "Babysitter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aOGyomNd10uojcMYVEofgTE7mgZ.jpg"
+      },
+      {
+        "name": "Carlos Jacott",
+        "character": "Producer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wBwHJ5f8OBOoHACkSEGaczvt060.jpg"
+      },
+      {
+        "name": "Sarah Jones",
+        "character": "Carol - Producer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lEiWsl1GSgM0jcfN0jMbmXv48E2.jpg"
+      },
+      {
+        "name": "Dean Wareham",
+        "character": "Cinematographer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/CxEjU0p84lIWkSy591Nl8LoUWn.jpg"
+      },
+      {
+        "name": "Bashir Salahuddin",
+        "character": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ZL5MRzjd6kWkvQXqh5mgPY1CKP.jpg"
+      },
+      {
+        "name": "Vinny Chhibber",
+        "character": "Visual Effects Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ocJlNtK8xigpdJmcpWO10j4Szxe.jpg"
+      },
+      {
+        "name": "Ayden Mayeri",
+        "character": "Makeup Artist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5SG2Glmd6n44m1NAOHfyM3Ke0qr.jpg"
+      },
+      {
+        "name": "Erin Evans",
+        "character": "Wardrobe Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eu1Ilfd5zwF0bjnQoE1xnvpYzdv.jpg"
+      },
+      {
+        "name": "Lucas Neff",
+        "character": "Pablo (Grip)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9LxSvAJVPnxbQ0z5gJhYUfvFm9v.jpg"
+      },
+      {
+        "name": "Annie Hamilton",
+        "character": "Becca - Nora's Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Sn1IGVkL22pFiGcKF0bsbb0CH2.jpg"
+      },
+      {
+        "name": "Tunde Adebimpe",
+        "character": "Sam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4PlgqGFsr6ESYKAtB2mySs7L6u.jpg"
+      },
+      {
+        "name": "Jordyn Curet",
+        "character": "Molly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t9qacVvl5pjx1LHbrGsOXnL2yUr.jpg"
+      },
+      {
+        "name": "Justin Claiborne",
+        "character": "Jules",
+        "profile_path": ""
+      },
+      {
+        "name": "Kyle Bornheimer",
+        "character": "Ted",
+        "profile_path": "https://image.tmdb.org/t/p/w185/79KUwXqB2FdKqxsAMppkJ8Aa78e.jpg"
+      },
+      {
+        "name": "Pilar Holland",
+        "character": "Law Receptionist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k3aLuByd8CUsf7FPRXqF3h6kk4B.jpg"
+      },
+      {
+        "name": "Emily Cass McDonnell",
+        "character": "Nell (Bert's Associate)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uPdn2JEaaQPiwAR6wEMUkrnHPbg.jpg"
+      },
+      {
+        "name": "Andrew Steven Hernandez",
+        "character": "Pink Dot Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yYgL8keSJaU3H9Psco5YvfG5rmZ.jpg"
+      },
+      {
+        "name": "Amir Talai",
+        "character": "Amir",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zg5o41YaOESJF5ExZxsOKLefDFI.jpg"
+      },
+      {
+        "name": "Juan Alfonso",
+        "character": "Arguing Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a6CDu3qjXzbG7N7GiKEwEXGhII6.jpg"
+      },
+      {
+        "name": "Connie Marie Flores",
+        "character": "Arguing Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeremy Barber",
+        "character": "Lawyer",
+        "profile_path": ""
+      },
+      {
+        "name": "Rich Fulcher",
+        "character": "Judge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hVJkSDRBGg8McuAN5QMtFyLeFvm.jpg"
+      },
+      {
+        "name": "Mary Hollis Inboden",
+        "character": "Nora's Associate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kASjJtV38sh40dOWiL3S5YzJZPv.jpg"
+      },
+      {
+        "name": "Peter Oliver",
+        "character": "Street Solicitor #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n0ROdVjKTnFbSnisYoGAUHjjrpV.jpg"
+      },
+      {
+        "name": "Bill Blair",
+        "character": "Party Robot Alien (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5nkrXXt1ip7c9GXNXB9ITcSFot8.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Noah Baumbach",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wRfV5qYIJHk4NH9gkKQnk99E5Qn.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "infidelity",
+    "new york city",
+    "husband wife relationship",
+    "parent child relationship",
+    "theatre group",
+    "theater director",
+    "lawyer",
+    "los angeles, california",
+    "divorce",
+    "divorce lawyer"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together.",
+    "'Marriage Story' is Academy-Award-nominated filmmaker Noah Baumbach's incisive and compassionate look at a marriage breaking up--and a family staying together. The film stars Scarlett Johansson and Adam Driver and co-stars Laura Dern, Alan Alda, and Ray Liotta.—Netflix",
+    "Sadly, after numerous disastrous sessions of marital mediation, New York City's brilliant theatre director Charlie and one-time Los Angeles movie actress Nicole decide to split up, putting an end to their decade-long marriage. However, divorce is horrible--and as the once close-knit couple struggles to make it work for the sake of their eight-year-old son Henry, vitriolic accusations and bitter resentment threaten the very foundation of Charlie and Nicole's so-called amicable separation. Now, shrewd and absurdly costly lawyers take over, and things are bound to get messy. But why are love's wounds so deep, and cruelly painful? In the end, is love always forever?—Nick Riganas"
+  ],
+  "synopsis": "The film begins with voice over as a married couple, Charlie (Adam Driver) and Nicole (Scarlett Johansson) Barber, explains all the things they love about each other. This turns out to be an exercise given to them by a mediator for their impending divorce, hoping to encourage them to remember why they fell in love in the first place. When the meditator asks them to read the letters they wrote, Nicole angrily decides she doesn't want to and storms out. The two have agreed to not use lawyers and simply go through mediation, hoping it will be eases in their young son Henry (Azhy Robertson). The two currently live in New York City where Charlie directs plays and Nicole stars in them. Nicole is offered a TV pilot and and has to leave Charlie's play right before its Broadway transfer to go to Los Angeles to shoot it and brings Henry along with her to stay at her mom Sandra's (Julie Hagerty) house.In Los Angeles, a co-worker strongly recommends Nicole get a divorce lawyer, and refers her to Nora Fanshaw (Laura Dern), a professional and extremely high-powered attorney. Nora asks Nicole for her story, and Nicole explains how she was formerly a well-known actress who grew up in Los Angeles, but on a trip to New York fell in love with Charlie and began starring in his small productions, bringing eyes to his theater which they built up together. She always wanted to come back to LA where her family is and where she's from but Charlie never really considered it, even turning own an opportunity to direct a play in LA. Nicole felt little by little like she didn't exist anymore in the relationship, like she was lost, and she also suspected Charlie of sleeping with his stage manager. Meanwhile, Charlie flies out to LA on breaks from his play rehearsals to see Henry. He tells Nicole he has received a MacArthur Genius Grant for his directing. Nicole asks her sister Cassie (Merritt Wever) to give Charlie the divorce papers, which she does awkwardly. Charlie is confused since he thought they weren't using lawyers, but Nicole tells him it'll be easier this way.Charlie meets with Jay (Ray Liotta), an extremely aggressive divorce attorney with a very expensive retainer, which scares Charlie off. He goes back to New York to continue working, telling his stage manager Mary Ann (Brooke Bloom) that even though they slept together one time, he can't handle it at the moment. Nora calls Charlie, wondering why he hasn't responded to the divorce papers he received. He says he's been busy, and Nora tells him if he doesn't respond by the end of the thirty days the court can give full custody to Nicole. Charlie hurriedly rushes back to LA and begins meeting with lawyers, only to find that Nicole already met with most of them, preventing Charlie from being able to retain them. Sandra gives him a tip on Bert Spitz (Alan Alda), a former entertainment lawyer now working a small practice. Charlie meets with Bert, who warns him (like Jay did) that since Henry was born in California and goes to school in California, courts will see them as a California couple. Charlie keeps repeatedly insisting the California move was only temporary and that they are a New York family, and Henry should come back to New York. Bert is compassionate, and is the first person in the process who treats Charlie like a person. He advises Charlie to get an apartment in LA to look better to the court. On Halloween, Charlie takes Henry for a second round of trick or treating after he's already trick or treated with Nicole, despite Henry being tired. Henry says he likes California, but Charlie is sure he's wrong about it. Nicole's show becomes successful and the plan is to stay in LA.At at meeting with the lawyers, Nora argues hard, despite Charlie's insistence that Henry was going to come back to New York. Nora argues that Charlie never listened to Nicole's wishes of living in California, and hits him hard with details from their relationship. Privately, Bert advises Charlie he needs to let the New York thing go, and Charlie refuses, crying. Later, Nora and Nicole meet at the court to finalize the paperwork, having worked everything out with Bert, but then Charlie arrives with Jay instead. Nora realizes this means they're about to go to war. In court, Jay and Nora battle it out, using personal details about Charlie and Nicole to attack them. Jay accuses Nicole of being an alcoholic, Nora brings up Charlie's affair, Jay tries to lay claim to Nicole's TV money, and in response Nora tries to claim Charlie's grant money. The court decides to appoint an independent evaluator to meet and observe both parents.Nicole goes to Charlie's apartment, feeling the lawyers have gotten out of hand, in hopes of talking it out. Charlie agrees, but the conversation soon devolves into a brutal, vicious argument. Charlie accuses her of lying about not being happy with him and that she just will never be happy, she tells him how he's so selfish he truly can't see beyond himself, and Charlie ends up telling her he wishes she would die - then breaks down sobbing and apologizes. Nora preps Nicole for her meeting with the evaluator, explaining that even though fathers can have some leeway, mothers are always expected to be perfect. The evaluator comes to observe Charlie, and during dinner Henry asks Charlie to do his trick with his pocket knife. Charlie, worried, explains to the evaluator he would do a joke with Nicole where he would retract the knife and pretend to slash himself - only he accidentally does slash himself, bleeding profusely. After the evaluator leaves, he lies on the kitchen floor.Charlie and Nicole, both bleeding money in legal fees from the divorce, finally settle, Nora and Jay backing off the claims to come after the other's money. Henry will stay in LA, though Nora tells a confused Nicole that when Charlie is town despite what she thought, technically it's not shared custody - she got Nicole 55/45 percent, just because she didn't want Charlie to be able to say he won. In New York, at a jazz/singing bar with his cast, Charlie gets up and sings the song \"Being Alive\". The next Halloween, Nicole is happily dating someone new and nominated for an Emmy - for directing. Charlie comes to visit, and tells Nicole that he's taken a directing job in LA and will be there for a while. She's happy for him. Henry finds the letter Nicole wrote for the mediator when the divorce started and asks Charlie to help him read it. Charlie reads the letter and cries, while Nicole looks over his shoulder. At the end of trick or treating, Nicole asks if Charlie wants to take Henry for the night, even though it's her night for custody. He says yes, and as he's leaving, Nicole tells him to wait - she runs back, ties Charlie's untied shoe, and says goodbye.",
+  "imdb_score": 7.9
+}

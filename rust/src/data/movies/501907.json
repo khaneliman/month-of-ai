@@ -1,0 +1,427 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/cSJMk9Jar8SibFXL8JAF9p2fhKu.jpg",
+  "id": 501907,
+  "title": "A Beautiful Day in the Neighborhood",
+  "poster_path": "https://image.tmdb.org/t/p/w500/p9vCAVhDK375XyobVcKqzqzsUHE.jpg",
+  "release_date": "2019-09-07",
+  "vote_average": 6.992,
+  "vote_count": 1492,
+  "popularity": 19.648,
+  "overview": "An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assignment to write an Esquire profile piece on the beloved television icon Fred Rogers. After his encounter with Rogers, Vogel's perspective on life is transformed.",
+  "imdb_id": "tt3224458",
+  "budget": 25000000,
+  "homepage": "https://www.abeautifulday.movie/",
+  "revenue": 67900000,
+  "runtime": 109,
+  "tagline": "Neighbor. Icon. Friend.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    "TriStar Pictures",
+    "Tencent Pictures",
+    "Big Beach"
+  ],
+  "production_countries": [
+    "CN",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Matthew Rhys",
+        "character": "Lloyd Vogel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1HO4P8rMOPLRUUfz9m43zkzJNCK.jpg"
+      },
+      {
+        "name": "Tom Hanks",
+        "character": "Fred Rogers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg"
+      },
+      {
+        "name": "Chris Cooper",
+        "character": "Jerry Vogel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j0sQDzaDlnNAdaYhy6HRRAFi22.jpg"
+      },
+      {
+        "name": "Susan Kelechi Watson",
+        "character": "Andrea Vogel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2hVnXxWj6j2R9edchIRsoSyxY5x.jpg"
+      },
+      {
+        "name": "Maryann Plunkett",
+        "character": "Joanne Rogers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/317RSmgO74AhbqcfnYbAkVKWCXh.jpg"
+      },
+      {
+        "name": "Enrico Colantoni",
+        "character": "Bill Isler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yxxy8IrGRwnRPbLmgyfwF26Feve.jpg"
+      },
+      {
+        "name": "Wendy Makkena",
+        "character": "Dorothy Vogel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lf5N6a6yo3Ui75dwnxJuZZrUNDi.jpg"
+      },
+      {
+        "name": "Tammy Blanchard",
+        "character": "Lorraine Vogel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ztbtRXEBJaOiQevIn0xNKAzu9MU.jpg"
+      },
+      {
+        "name": "Noah Harpster",
+        "character": "Todd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/roJhr3RWlLcn4SZ3IJ43VsqSOX3.jpg"
+      },
+      {
+        "name": "Carmen Cusack",
+        "character": "Margy Whitmer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gi3xzBBTIob750G3JmNHWRQVavV.jpg"
+      },
+      {
+        "name": "Kelley Davis",
+        "character": "First AD",
+        "profile_path": ""
+      },
+      {
+        "name": "Christine Lahti",
+        "character": "Ellen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qD52Z8GfBqm08QjvJnYESzYFPzf.jpg"
+      },
+      {
+        "name": "Maddie Corman",
+        "character": "Betty Aberlin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Qa8GAf7CARtHeLXPX4GdR5ZFhm.jpg"
+      },
+      {
+        "name": "Daniel Krell",
+        "character": "Mr. McFeely",
+        "profile_path": "https://image.tmdb.org/t/p/w185/66CVGVw4HAl1yWrOYu4OaGSQdOc.jpg"
+      },
+      {
+        "name": "Jon L Peacock",
+        "character": "Sound Technician",
+        "profile_path": ""
+      },
+      {
+        "name": "Gretchen Koerner",
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6D7LrZnGCtBoh2i7nXWW3i8KyU5.jpg"
+      },
+      {
+        "name": "Gavin Borders",
+        "character": "Young Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark August",
+        "character": "Young Boy's Dad",
+        "profile_path": ""
+      },
+      {
+        "name": "Tressa Glover",
+        "character": "Young Boy's Mom",
+        "profile_path": ""
+      },
+      {
+        "name": "Jessica Hecht",
+        "character": "Lila Vogel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5JVd1ZLnhdZVFInDy8Zut9M1M5C.jpg"
+      },
+      {
+        "name": "Di Zhu",
+        "character": "Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jpqTdrucis69a4q82MhWKhqyEG6.jpg"
+      },
+      {
+        "name": "Diane Monroe",
+        "character": "Uptown String Quartet",
+        "profile_path": ""
+      },
+      {
+        "name": "Maxine Roach",
+        "character": "Uptown String Quartet",
+        "profile_path": ""
+      },
+      {
+        "name": "Lesa Terry",
+        "character": "Uptown String Quartet",
+        "profile_path": ""
+      },
+      {
+        "name": "Tahirah Whittington",
+        "character": "Uptown String Quartet",
+        "profile_path": ""
+      },
+      {
+        "name": "Nigel Swinson",
+        "character": "Subway Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kayla Fan",
+        "character": "Subway Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexander Ment",
+        "character": "Subway Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Madeline Ment",
+        "character": "Subway Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Olivia Irene Ruiz",
+        "character": "Subway Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kiesse Yengo-Passy",
+        "character": "Subway Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcel Kottmann",
+        "character": "Subway Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "John Castagliola",
+        "character": "Subway Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Preston Lopez",
+        "character": "Subway Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Reginald Bannerman",
+        "character": "Subway Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Spencer Lott",
+        "character": "Puppeteer",
+        "profile_path": ""
+      },
+      {
+        "name": "Haley Jenkins",
+        "character": "Puppeteer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4Wz47OuTsJgKo5k9OC1YzIwUc8x.jpg"
+      },
+      {
+        "name": "Marc Petrosino",
+        "character": "Puppeteer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kathleen Kim",
+        "character": "Puppeteer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kathleen Antonia",
+        "character": "Phone Operator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Saira Awan",
+        "character": "Nurse Miscellaneous Crew (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Krizia Bajos",
+        "character": "Argentinian Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hwnM4tl3pFx5nF3AbSLRkvxVJaE.jpg"
+      },
+      {
+        "name": "Tom Bonello",
+        "character": "WQED Grip and Electric (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gregory Bromfield",
+        "character": "Awards Banquet Waiter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Francesca Calo",
+        "character": "Train Passenger (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uLMCKafNYnKMZXYrFyTSZoTCAli.jpg"
+      },
+      {
+        "name": "Kitty Crystal",
+        "character": "Subway Punk (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Amy Lyn Elliott",
+        "character": "WQED Makeup Artist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Fishel",
+        "character": "Journalist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Aapim9EAy3vY8eeS4n4tnF4iHsY.jpg"
+      },
+      {
+        "name": "Nate Heller",
+        "character": "Wedding Band Lead Guitarist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Isler",
+        "character": "Restaurant Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin L. Johnson",
+        "character": "Darin Scharf (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8YnbMp7uvZipkTIhVypp6RPj5Rn.jpg"
+      },
+      {
+        "name": "Rosie Koster",
+        "character": "Esquire Employee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Masini",
+        "character": "Richie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nP41w6OdrL82iqSv7vzkPhl6ooQ.jpg"
+      },
+      {
+        "name": "Kirsten McCain",
+        "character": "Gala Attendee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick McDade",
+        "character": "Rick (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cHziqanNmENeCwC6OASo8XlKC39.jpg"
+      },
+      {
+        "name": "David Newell",
+        "character": "Restaurant Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yNYnYWSXBbWbOXd0GYmLm1TUxIW.jpg"
+      },
+      {
+        "name": "Trevor Stevie Ray Ontiveros",
+        "character": "New Yorker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Keith Otto",
+        "character": "Gala Attendee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Khary Payton",
+        "character": "Arthur Mendez - Telegraph Clerk (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4PgEGuAb2KkaRb7P9PdK40pPeVH.jpg"
+      },
+      {
+        "name": "Alex Pérez",
+        "character": "Parent (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z7OmAJLsTexIj0bepBk21QI6BW8.jpg"
+      },
+      {
+        "name": "Katrina E. Perkins",
+        "character": "Mr. Rogers Superfan (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jivan Xander Ramesh",
+        "character": "Mr. Rogers' Fan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x8ru2JcPZHfXvykklErE8Oc5fRT.jpg"
+      },
+      {
+        "name": "Scott Rapp",
+        "character": "Bartender (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1AFN4ClBTBW9DeG6BAymd8TSbPU.jpg"
+      },
+      {
+        "name": "Fred Rogers",
+        "character": "Self (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d000aVyO5zYls7MrSCU6EhG4eoz.jpg"
+      },
+      {
+        "name": "Joanne Rogers",
+        "character": "Restaurant Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ipHLoRo3i4rfBJaA9X3x1vE03LP.jpg"
+      },
+      {
+        "name": "Edlyn Sabrina",
+        "character": "Gala Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Erika Shrout",
+        "character": "Mother (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Laura Faye Smith",
+        "character": "Julia Henderson - Fred's Secretary (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rebecca Watson",
+        "character": "Diana (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dqx3CyP9nQasRKjSo9aRhahcqtZ.jpg"
+      },
+      {
+        "name": "Stephen West-Rogers",
+        "character": "Peter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ted Williams",
+        "character": "WQED Electrician (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jackson Nunn",
+        "character": "Grip (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Marielle Heller",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3YMRpIF6fPH1RDNOG4Do1Yqq4l5.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "journalist",
+    "friendship",
+    "male friendship",
+    "biography",
+    "based on true story",
+    "breaking the fourth wall",
+    "kindness",
+    "estranged father",
+    "1990s",
+    "hand puppet",
+    "based on magazine, newspaper or article",
+    "tv show",
+    "television host"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "Based on the true story of a real-life friendship between Fred Rogers and journalist Lloyd Vogel.",
+    "Tom Hanks portrays Fred Rogers in a timely story of kindness triumphing over cynicism, based on the true story of a real-life friendship between him and journalist Lloyd Vogel. After a jaded magazine writer (Matthew Rhys) is assigned a profile of Fred Rogers, he overcomes his skepticism, learning about empathy, kindness, and decency from America's most beloved neighbor.",
+    "Lloyd Vogel is an investigative journalist who receives an assignment to profile Fred Rogers. He approaches the interview with skepticism, as he finds it hard to believe that anyone can have such a good nature. But Fred's empathy, kindness and decency soon chips away at Lloyd's jaded outlook on life, forcing the reporter to reconcile with his own painful past.—yusufpiskin",
+    "Cynical, jaded investigative journalist Lloyd Vogel gets an assignment he feels is beneath him: interview and write a short article on the much-loved children's TV personality Fred Rogers. Vogel is battling his own demons, not least of which is a long-running animosity towards his father, going back to when his mother died.—grantss",
+    "A look at the life, career, and legacy of children's entertainer, Fred Rogers, at the time that he developed a friendship with a magazine writer and his family. The friendship turned out to help both of them in multiple ways to help their lives.—RECB3"
+  ],
+  "synopsis": "The film opens as one large episode of the Mr. Rogers show - Fred Rogers (Tom Hanks) talks directly to the audience, welcoming us and sings \"A Beautiful Day in the Neighborhood\". He shows us pictures of some of his friends, and finally shows us a picture of Lloyd Vogel (Matthew Rhys) - it's a picture of him looking anguished with a bloody nose. He explains that Lloyd had a lot of anger and had to learn about forgiveness.In 1998, Lloyd is an accredited investigative journalist who has just had his first baby with his wife Andrea (Susan Kelechi Watson). As they get ready for Lloyd's sister Lorraine (Tammy Blanchard)'s wedding, Andrea tells Lloyd that his father will be there. He is angry but attends anyway and sees his father Jerry (Chris Cooper) who has not seen in years. Jerry corners him into talking and brings up Lloyd's mother, and Lloyd hits him - other wedding attendees get involved, and wine gets spilled all over Lorraine's wedding dress and someone punches Lloyd in the face, and he becomes the picture Mr. Rogers showed the audience at the start.His editor Ellen (Christine Lahti) assigns him a profile for their upcoming issue on heroes: Mr. Rogers. Lloyd has no interest, but she tells him that no other subject would agree to be interviewed by him: most of his pieces are take-downs of their subjects. When he gets home, Jerry is waiting outside his apartment to talk to him. He ignores Jerry, who waits outside his apartment for two days before giving up.Lloyd leaves for Pittsburgh leaving Andrea home with the baby. He meets Bill Eisler (Enrico Colantoni), the president of Mr. Rogers production company, who is suspicious of him, having read his pieces. Finally he meets Mr. Rogers, who is incredibly kind to him. Lloyd keeps looking for what the catch is, but can't find it. Mr. Rogers asks how he hurt his eye, and when Lloyd tells him about the fight with his father, Mr. Rogers is sincerely concerned for him. An associate cuts their interview short and Lloyd returns home.Shortly after, Mr. Rogers is in New York and invites Lloyd to spend the day with him. He meets Mrs. Joanne Rogers (Maryann Plunkett), who again tells him there's no catch with Mr. Rogers. Lloyd and Mr. Rogers take the subway where the people of New York begin singing \"A Beautiful Day in the Neighborhood\". At Mr. Rogers's apartment, Lloyd keeps asking him tough questions trying to peel back his layers. But Mr. Rogers deflects and takes out his puppets and ends up finding more about Lloyd's childhood - about how his mother died when he was young and how he also had a special toy named \"Old Rabbit\". Mr. Rogers asks about his father, and Lloyd becomes upset and defensive and leaves.When he gets home, Jerry and his long-term girlfriend Dorothy (Wendy Makenna) are there making dinner with Andrea. Lloyd wants them to leave, and he and Jerry get into a shooting match because Lloyd can't forgive Jerry for cheating on and abandoning his mother and their family while his mother was dying. Jerry pleadingly apologizes and then has a heart attack. At the hospital, the family finds out Jerry is dying and does not have much time left. Lloyd hates hospitals since his mother died and decides to leave to go back to Philadelphia - Andrea is angry at him for abandoning his family and tells him to stay, but he goes anyway.In Pittsburgh, Lloyd passes out from exhaustion and has a dream where he is the puppet Old Rabbit in King Friday's kingdom instead of Daniel Tiger, and Andrea is Lady Aberlin. He then sees his mother on her deathbed and she tells him he doesn't need to hold onto anger for her. He wakes up at the Rogers home to find Mr. and Mrs. Rogers playing piano. Mr. Rogers takes him to lunch. During the conversation, he tells Lloyd to take one minute of silence to think of all the people who loved him into being. Then looks out at us, the audience, so we can as well.He returns home and apologizes to Andrea and tells her how scared he is and how much he needs her. They move into Jerry's home to take care of him while he's dying. Jerry and Lloyd are able to make peace, and Lloyd writes a massive article about Mr. Rogers that becomes the cover of Esquire. During the holidays, the whole extended Vogel family is celebrating when Mr. Rogers comes by to visit. Lorraine and her husband are shocked. Mr. Rogers is thrilled to meet them all, and before leaving whispers to Jerry to pray for him. Lloyd asks why, and Mr. Rogers tells him that Jerry must be close to god right now. Jerry dies shortly after, and Lloyd tells Andrea he's going to take some time off so she can go back to work.Mr. Rogers ends the episode of his show, says goodbye to us, and leaves the set to watch the playback. As the lights shut off in the studio, he sits and plays the piano.",
+  "imdb_score": 7.2
+}

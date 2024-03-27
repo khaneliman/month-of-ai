@@ -1,0 +1,214 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/qGqlWb5izTPtFngBWdbJAEmninR.jpg",
+  "id": 80274,
+  "title": "Ender's Game",
+  "poster_path": "https://image.tmdb.org/t/p/w500/vrEpLNkv30qw7JiVyorgR6NOWDm.jpg",
+  "release_date": "2013-10-24",
+  "vote_average": 6.59,
+  "vote_count": 5547,
+  "popularity": 31.867,
+  "overview": "Based on the classic novel by Orson Scott Card, Ender's Game is the story of the Earth's most gifted children training to defend their homeplanet in the space wars of the future.",
+  "imdb_id": "tt1731141",
+  "budget": 110000000,
+  "homepage": "",
+  "revenue": 125537191,
+  "runtime": 114,
+  "tagline": "This is not a game.",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "production_companies": [
+    "Digital Domain",
+    "Chartoff Productions",
+    "Taleswapper",
+    "K/O Paper Products",
+    "OddLot Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Harrison Ford",
+        "character": "Colonel Hyrum Graff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zVnHagUvXkR2StdOtquEwsiwSVt.jpg"
+      },
+      {
+        "name": "Asa Butterfield",
+        "character": "Ender Wiggin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hMDIBO0QcOydD0UtfeDjTR7mhi6.jpg"
+      },
+      {
+        "name": "Hailee Steinfeld",
+        "character": "Petra Arkanian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6aBclBl8GMcxbxr6XcwSGg3IBea.jpg"
+      },
+      {
+        "name": "Viola Davis",
+        "character": "Major Gwen Anderson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xDssw6vpYNRjsybvMPRE30e0dPN.jpg"
+      },
+      {
+        "name": "Ben Kingsley",
+        "character": "Mazer Rackham",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vQtBqpF2HDdzbfXHDzR4u37i1Ac.jpg"
+      },
+      {
+        "name": "Abigail Breslin",
+        "character": "Valentine Wiggin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tc8lLqYHmglX8mdR6gHQCIAJ2y4.jpg"
+      },
+      {
+        "name": "Aramis Knight",
+        "character": "Bean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xwcHpHO8xpHZrbiRzG2rdjkmsTb.jpg"
+      },
+      {
+        "name": "Moisés Arias",
+        "character": "Bonzo Madrid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fc7krDmEA4VkIY4KOJjpMXGdsfg.jpg"
+      },
+      {
+        "name": "Nonso Anozie",
+        "character": "Sergeant Dap",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5V5EGRRftkAMPAwRP3a0tu0Nlwe.jpg"
+      },
+      {
+        "name": "Suraj Partha",
+        "character": "Alai",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eT0EqW8Uqqc76BJZlZVEyVae7tm.jpg"
+      },
+      {
+        "name": "Khylin Rhambo",
+        "character": "Dink Meeker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y4A8QAQkpfWdhjViHCqLV83Xlk0.jpg"
+      },
+      {
+        "name": "Jimmy 'Jax' Pinchak",
+        "character": "Peter Wiggin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6YTG72eqfsDnaTMOKqZC8oU2A5l.jpg"
+      },
+      {
+        "name": "Conor Carroll",
+        "character": "Bernard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dCCVg3TrZTKynFxO3DNwOeT5bAK.jpg"
+      },
+      {
+        "name": "Tony Mirrcandani",
+        "character": "Admiral Chjamrajnagar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jfWpLrbyNDYiJZVOCUtU2LRxXlA.jpg"
+      },
+      {
+        "name": "Stevie Ray Dallimore",
+        "character": "John Wiggin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xThcZPkoq18Z6Z3kFZqb3U7IVtJ.jpg"
+      },
+      {
+        "name": "Andrea Powell",
+        "character": "Theresa Wiggin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cDqn66JG5kz2YEyh7VYvqEjLcr5.jpg"
+      },
+      {
+        "name": "Brandon Soo Hoo",
+        "character": "Fly Molo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8diINjJaRv4PKC66RC8oRRfNqDw.jpg"
+      },
+      {
+        "name": "Han Soto",
+        "character": "Lieutenant Soto",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xurbZkff3yOPmKpEpKrb2pdemYf.jpg"
+      },
+      {
+        "name": "Kyle Clements",
+        "character": "Young Mazer Rackham",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ui6PbmzVVp55Hg36VtAxiIOVxTr.jpg"
+      },
+      {
+        "name": "Kelvin Harrison Jr.",
+        "character": "Salamander (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bQC7SUnUiLw2wxnXGYr9tm7wDLW.jpg"
+      },
+      {
+        "name": "Caleb J. Thaggard",
+        "character": "Stilson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y9vjlmJ8YRzED4ZPQxtUjZ2rdK6.jpg"
+      },
+      {
+        "name": "Cameron Gaskins",
+        "character": "Slattery",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fNSnPuBnVnwxXq1C3NMeGQuXyW2.jpg"
+      },
+      {
+        "name": "Wendy Miklovic",
+        "character": "Female Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cz9aji6RGszCRQQGLXZK3smx5dI.jpg"
+      },
+      {
+        "name": "Jasmine Kaur",
+        "character": "Professor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6vnzRgBWfMYnqmOZwWfc4A9orFp.jpg"
+      },
+      {
+        "name": "Edrick Browne",
+        "character": "Eros Tech Officer Hendee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p3h3Tqe9dWkqcUmEc8pllZ7DWfB.jpg"
+      },
+      {
+        "name": "Christopher Coakley",
+        "character": "Stilson Buddy #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wca5Y6SaWOf5KAWtKgv0sAgQsaG.jpg"
+      },
+      {
+        "name": "Chase Walker",
+        "character": "Stilson Buddy #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wSgbMDumSGkxE0WxKxXRXdY0ZsU.jpg"
+      },
+      {
+        "name": "Gavin Hood",
+        "character": "Giant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2y2eX4m7qsDgbo51XAK6TE6dJon.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Gavin Hood",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2y2eX4m7qsDgbo51XAK6TE6dJon.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "based on novel or book",
+    "fight",
+    "starship",
+    "intolerance",
+    "war strategy",
+    "chosen one",
+    "earth",
+    "child prodigy",
+    "futuristic",
+    "space",
+    "alien invasion",
+    "universe",
+    "military school",
+    "adventurer",
+    "morality tale",
+    "based on young adult novel",
+    "boy group",
+    "starships"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Young Ender Wiggin is recruited by the International Military to lead the fight against the Formics, an insectoid alien race who had previously tried to invade Earth and had inflicted heavy losses on humankind.",
+    "The Earth was ravaged by the Formics, an alien race seemingly determined to destroy humanity. Fifty years later, the people of Earth remain banded together to prevent their own annihilation from this technologically superior alien species. Ender Wiggin, a quiet but brilliant boy, may become the savior of the human race. He is separated from his beloved sister and his terrifying brother and brought to battle school in orbit around earth. He will be tested and honed into an empathetic killer who begins to despise what he does as he learns to fight in hopes of saving Earth and his family.—CrystalSinger45, Jesse Daniels, strouda56",
+    "In the near future, a hostile alien race has attacked Earth. In preparation for the next attack, the highly esteemed Colonel Graff and the International Military seek to find a future leader who can save the human race. Ender Wiggin, a shy but strategically brilliant young mind, is recruited to join the elite, where he's trained to lead his fellow soldiers into an epic battle that will determine the future of Earth.—Summit Entertainment",
+    "In the future, Earth is attacked by the alien race Formics and after many casualties, the hero Mazer Rackham destroys the mothership and defeats the aliens. Fifty years later, the outcast boy Ender Wiggin is recruited by Colonel Graff and Major Gwen Anderson to be part of a selected team of boys and girls that are being prepared by the International Military for the next invasion of the Formics. Colonel Graff believes that he may be the leader and savior of the human race, but Major Anderson is concerned with the psychological damages that may be caused to Ender.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "Ender is a slight fragile teenager with the expanding mind of a genius. His brother, the brute jock, is violent and only sees through strength and brutality. His sister the kind and compassionate one sees only through an affected sense of contact. Ender is a third child in a population overloaded world that is reeling from the previous war with the alien race of insectivorous beings who work and behave like the ants nest, the Formics. Having been brought in to being by loving parents who gained permission for his birth, Ender feels he is not only unwanted but excess baggage to the world. However, his mind is his strength. He is gifted with the ability to become his aggressor and think like his aggressor thus giving him the key to the aggressor as he learns to love them through their frailty - using this to exploit them and thus destroy them. This ability is seen by those old men solidified in their ways, who have no flexibility in their thinking anymore, and exploit Ender to achieve their own ends. But at what cost, and to whom?—BlueEyes001"
+  ],
+  "synopsis": "In the future, humanity is preparing to launch an attack on the home world of an alien race called the Formics who had attacked Earth and killed millions. Over the course of fifty years, gifted children are trained by the International Fleet to become commanders of a new fleet for this counterattack.Cadet Andrew \"Ender\" Wiggin (Asa Butterfield), a gifted boy, draws the attention of Colonel Hyrum Graff (Harrison Ford) and Major Gwen Anderson (Viola Davis) by his aptitude in simulated space combat. They order the removal of his monitor, signifying the end of the cadet program. Ender is attacked by Stilson, a student he defeated in the combat sim, but Ender fights back and severely injures him. Ender confesses his grief to his older sister Valentine but is harassed further by their older brother Peter. Graff arrives to reveal he was being tested and still part of the program. Graff brings Ender to Battle School, placing Ender with other cadets his age, but treats him as extraordinary, ostracizing him from the others.Among other studies, the cadets are placed in squads and perform training games in a zero gravity \"Battle Room\". Ender quickly adapts to the games, devising new strategies older students have not yet seen. Graff reassigns Ender to Salamander Army, led by Commander Bonzo Madrid. Bonzo is resentful of the new addition and prevents Ender from training. Another cadet, Petra Arkanian, takes Ender and trains him privately. In one match, Ender goes against Bonzo's orders and working with Petra, achieves a key victory for his army.Meanwhile, Ender plays a computerized \"mind game\" set in a fantasy world aimed to present difficult choices to the player. In one situation, Ender creates a solution to overcome an unsolvable problem. Later, he encounters a Formic in the game, and then a simulated image of Valentine entering the ruins of a castle. Inside, he finds another image of Valentine but as he nears, it turns into an image of Peter before the game ends.Graff promotes Ender to his own squad, made from other students that have gained Ender's trust. They are put in increasingly difficult battles. In one match against two other teams including Bonzo's squad, Ender devises a novel strategy of sacrificing part of his team to achieve a goal, impressing Graff. Bonzo accosts Ender in the bathroom after the match, but Ender fights back and mortally harms him. Distraught over this, Ender prepares to quit Battle School, but Graff has Valentine speak to him and convince him to continue.Graff takes Ender to humanity's forward base on a former Formic planet near their home world. There, Ender meets Mazer Rackham (Ben Kingsley), who explains how he spotted the shared-mind nature of the Formics to stop the attack fifty years prior. Rackham noticed that the formic battle formations had an epicenter in one particular ship. So, he rammed his plane into the center of that ship, & that disabled the entire formic battle fleet. They also figure out that the epicenter ship had a formic queen, much like the queen in the ant world & there was perhaps another queen on the formic home world, which if killed would disable the entire formic fleet.Ender finds that his former squad members are also here to help him train in computerized simulations of large fleet combat; Rackham puts special emphasis on the fleet's Molecular Detachment (MD) Device that is capable of disintegrating matter. Ender's training is rigorous, and Anderson expresses concern they are pushing Ender too fast, but Graff notes they have run out of time to replace Ender.Ender's final test is monitored by several of the fleet commanders. As the simulation starts, Ender finds his fleet over the Formic home world and vastly outnumbered. He orders most of his fleet to sacrifice themselves to protect the MD long enough to fire on the home world, which is does. The simulation ends, and Ender believes the test is over, but the commanders restart the video screens, showing that the destruction of the Formic home world was real, and Ender had been controlling the real fleet this time. Despite Graff's assurance he will be known as a hero, Ender is furious as everyone will remember him as a killer.As Ender struggles with his emotions, he recognizes one of the Formic structures nearby (on the forward base) similar to the ruined castle from the game, and believing they were trying to communicate with him, races out towards it. He follows the path set by the game and encounters a dying Formic queen who has been protecting another queen egg.Ender writes in a letter to Valentine that he is heading to deep space with the egg, determined to colonize a new Formic world with it.",
+  "imdb_score": 6.6
+}

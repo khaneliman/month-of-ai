@@ -1,0 +1,250 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/wwdzmWC1Ra9SqPBrtCyRNJ4oYUO.jpg",
+  "id": 12106,
+  "title": "The Quick and the Dead",
+  "poster_path": "https://image.tmdb.org/t/p/w500/jhEmrXJpP6F3cqwyLjvgBgxxxFA.jpg",
+  "release_date": "1995-02-09",
+  "vote_average": 6.542,
+  "vote_count": 1606,
+  "popularity": 27.02,
+  "overview": "A mysterious woman comes to compete in a quick-draw elimination tournament, in a town taken over by a notorious gunman.",
+  "imdb_id": "tt0114214",
+  "budget": 35000000,
+  "homepage": "",
+  "revenue": 47000000,
+  "runtime": 107,
+  "tagline": "Think you're quick enough?",
+  "genres": [
+    "Western",
+    "Action"
+  ],
+  "production_companies": [
+    "TriStar Pictures",
+    "IndieProd Company Productions"
+  ],
+  "production_countries": [
+    "JP",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Sharon Stone",
+        "character": "Ellen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5lYs0HaAvsXPZJpMcndbSeQdPgT.jpg"
+      },
+      {
+        "name": "Gene Hackman",
+        "character": "John Herod",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xPmETCv0APDoIK5CvIIJwbTcjPA.jpg"
+      },
+      {
+        "name": "Russell Crowe",
+        "character": "Cort",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fbzD4utSGJlsV8XbYMLoMdEZ1Fc.jpg"
+      },
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Fee \"The Kid\"",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+      },
+      {
+        "name": "Tobin Bell",
+        "character": "Dog Kelly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q21uuCtTioIVcGc3a1Q0DpdcNMO.jpg"
+      },
+      {
+        "name": "Roberts Blossom",
+        "character": "Doc Wallace",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v6R8dyBzQww8fbr9QRMuGF1B5BM.jpg"
+      },
+      {
+        "name": "Kevin Conway",
+        "character": "Eugene Dred",
+        "profile_path": "https://image.tmdb.org/t/p/w185/803hyktASensafHsdvDCnlzWK8k.jpg"
+      },
+      {
+        "name": "Keith David",
+        "character": "Sgt. Clay Cantrell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jJLJuR7FNHYL1fB5igjj7IXzOel.jpg"
+      },
+      {
+        "name": "Lance Henriksen",
+        "character": "Ace Hanlon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ieo8Zbw30UAPAscGOI6090VhL4I.jpg"
+      },
+      {
+        "name": "Pat Hingle",
+        "character": "Horace the Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/QBAxFVZQ0Hu6rxlFavhwUq0zug.jpg"
+      },
+      {
+        "name": "Gary Sinise",
+        "character": "Marshall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ngYV91xYfCu0JNcSxJ4yQ7tzOna.jpg"
+      },
+      {
+        "name": "Mark Boone Junior",
+        "character": "Scars",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rcncVr356hpfKX9qOrKL3SJlEO7.jpg"
+      },
+      {
+        "name": "Olivia Burnette",
+        "character": "Katie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/alU6M7Y7zU72iQohPMx6OH33Pm7.jpg"
+      },
+      {
+        "name": "Fay Masterson",
+        "character": "Mattie Silk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gKG30bketELJ7d22KIbX62djSKc.jpg"
+      },
+      {
+        "name": "Raynor Scheine",
+        "character": "Ratsy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gqj3nFgq2W83RrJNyqHm2xw8Efw.jpg"
+      },
+      {
+        "name": "Woody Strode",
+        "character": "Charlies Moonlight",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bQODvxboGerJXrl7ypgM5UqjhZt.jpg"
+      },
+      {
+        "name": "Jerry Swindall",
+        "character": "Blind Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yGHz60t1NnV2wxN8KxZX3TqER3A.jpg"
+      },
+      {
+        "name": "Scott Spiegel",
+        "character": "Gold Teeth Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3dKveWiEUeQbAxC7o9AKkIUymPQ.jpg"
+      },
+      {
+        "name": "Jonothon Gill",
+        "character": "Spotted Horse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aMCySn3TVaAbiCbJ9rNxMejxKUP.jpg"
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "character": "Gutzon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7uhBGHXs6xLwFwzWbLEsHDgYzHP.jpg"
+      },
+      {
+        "name": "Lennie Loftin",
+        "character": "Foy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oAIvMdMhJPIBGQAvxZZkXWCXRco.jpg"
+      },
+      {
+        "name": "Matthew Gold",
+        "character": "Foy's Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pMBoST3jaoc59S36qpbKHn2y2og.jpg"
+      },
+      {
+        "name": "Arturo Gastelum",
+        "character": "Carlos Montoya",
+        "profile_path": ""
+      },
+      {
+        "name": "David Cornell",
+        "character": "Simp Dixon",
+        "profile_path": ""
+      },
+      {
+        "name": "Josef Rainer",
+        "character": "Virgil Sparks",
+        "profile_path": ""
+      },
+      {
+        "name": "Stacy Linn Ramsower",
+        "character": "Young Ellen",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Lee Boggs",
+        "character": "Zeb",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Ryder",
+        "character": "Gunfighter",
+        "profile_path": ""
+      },
+      {
+        "name": "Timothy Patrick Quill",
+        "character": "Man in Bar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jOtAb58qN8fS8gPmop9gUchQg7M.jpg"
+      },
+      {
+        "name": "Solomon Abrams",
+        "character": "Man on Veranda",
+        "profile_path": ""
+      },
+      {
+        "name": "John Cameron",
+        "character": "Bordello Swell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uv1fsKsOxRGC8n1YL7fBGn4mkRP.jpg"
+      },
+      {
+        "name": "Bruce Campbell",
+        "character": "Wedding Shemp (scenes deleted)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p9335ljr7luOWsfwZSOlsIzFJKE.jpg"
+      },
+      {
+        "name": "Michael Stone",
+        "character": "Counselor",
+        "profile_path": ""
+      },
+      {
+        "name": "Butch Molina",
+        "character": "Saloon Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Mick Garris",
+        "character": "Young Herod's Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mZUsXhL7H5DgaQL98qslFrgp1yl.jpg"
+      },
+      {
+        "name": "Greg Goossen",
+        "character": "Young Herod's Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wY6lfXHFSV2iSlnY97oln2m2V92.jpg"
+      },
+      {
+        "name": "Oliver Dear",
+        "character": "Young Herod's Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Ruben Angelo",
+        "character": "Teenager (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "James Cotner",
+        "character": "Townsman (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Sam Raimi",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "gunslinger",
+    "revenge",
+    "prairie",
+    "shootout"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A female gunfighter returns to a frontier town where a dueling tournament is being held, which she enters in an effort to avenge her father's death.",
+    "Ellen, an unknown female gunslinger rides into a small, dingy and depressing prairie town with a secret as to her reason for showing up. Shortly after her arrival, a local preacher, Cort, is thrown through the saloon doors while townfolk are signing up for a gun competition. The pot is a huge sum of money and the only rule: that you follow the rules of the man that set up the contest, Herod. Herod is also the owner, leader, and \"ruler\" of the town. Seems he's arranged this little gun-show-off so that the preacher (who use to be an outlaw and rode with Herod) will have to fight again. Cort refuses to ever use a gun to kill again and Herod, acknowledging Cort as one of the best, is determined to alter this line of thinking ... even if it gets someone killed ...—McGinty <McGinty@aol.com>",
+    "Ellen, the taciturn blonde gunslinger known as \"The Lady\", rides into the dusty hamlet of Redemption to take part in corrupt mayor Herod's quick-draw gun-fighting competition. With revenge etched in her heart, the Lady has to compete with dangerous killers from all over the area; some crave recognition, others seek retribution, while others are in for the riches. But in this fight to the death, there can only be one winner. Will Ellen get her revenge on those who wronged her? Above all, who is the fastest draw in the West?—Nick Riganas"
+  ],
+  "synopsis": "The scene opens with Ellen (Sharon Stone) riding across the prairie toward a town, when an idiot digging multiple holes looking for his gold, shoots at her. She falls off her horse and knocks him out as he checks to see if she is dead. After chaining him to his wagon, she continues into town. A large, single elimination gun fighting tournament is about to begin and she is looking for revenge on the man ( Herod/Gene Hackman) who killed her father. She arrives at the bar/hotel. Ace Hanlon shows off his deck of cards with an ace for every man he has killed. Soon, the saloon comes to life as Scars who just got out of jail, comes back to settle a score. He makes a move on Ellen, and she tells him to take a bath. Scars gets angry and kicks the blind boy's peddling wagon, as he was talking to Ellen. Later at the drafting of the tournament, the saloon owner is to sign up 16 gunfighters. Among them are The Kid (Leonardo DiCaprio), Sgt. Cantrell (Kieth David), Cort, the marksman and odds on favorite (Russell Crowe) though he was signed up against his will. Cort was an outlaw who became a preacher and built a mission. Since he was one of Herod's partners in crime, Herod now wants Cort dead. Also in the contest is Ace Hanlon ( Lance Herrickson), A Swedish Champ. and of course Herod. Anyone can challenge anyone, and each fighter must accept the first challenge. Ellen is challenged by the idiot who was digging for his lost gold. But up first was the Kid and he quickly shot the Swede and the winner is the last standing.The Swede was shot twice and then threw his gun down. Also winning, were Stg. Cantrell, Scars, and Eugene the scumbag. Herod has challenged Ace(because he thinks Ace was hired to kill him) and one of Herod's men challenged Cort. After Rusty, another of Herod's men has beaten Cort up as he was chained to a fountain in the middle of the village. Herod has Cort released so that he can go to the Kid's gun store. Herod gives Cort the cheapest gun in the place. The Kid also has told everyone that Herod was his father. Herod denies that and rubs it in the Kid's face. Then Cort went out to a fight that he refused to be in. But when the clock stuck, only one bullet was fired. Herod's man fell to the ground. Many claimed to be the fastest gun in town, like the Kid, Herod, and Ace, but all knew that Cort was the fastest. Next, Ace is bragging and doing gun tricks. It is time for he and Herod to face each other. Herod proves that Ace has been lying about all of his kills. The clock strikes and Herod blows Ace's right thumb off. Then he shoots Ace's left hand. Then after mocking Ace some more, Herod's shoots him in the chest. Then Ellen wins her first fight with Cort's help. The next day, Herod invites Stg. Cantrel to his home. He tells the Sgt, that he knows that he was the hired hand and not Ace. The Sgt. does not tell him much and the challenge has been issued. Later, Herod changes the rules and now all fights are to the death. Herod takes down Cantrell, and then scolds the crowd for hiring him. Meantime, Eugene the scum bag is heard upstairs molesting a girl. He comes downstairs and brags about it. Ellen attacks him from behind and the two scream at each other until the challenge is made. though it is pouring outside, The two come out firing and Eugene gets his manhood shot off. The rules have changed and the winner is the last alive. Ellen couldn't finish him off, so she returned to the bar. Eugene comes in and shoots her glass. Then Ellen empties her gun into him.Though Herod tells the Kid to quit, that he has proven his point, the Kid stays in and takes down Scars. After buying the smelling oaf deep, the Kid goes to Ellen to talk to her. She was getting ready to leave, even before Cort's second match. He squares off against an Indian who has been shot many times. The Indian claims to be an immortal that can not be killed by a bullet. Cort has only one bullet, so he can't shoot his way out of town. Cort shoots first and drops Spotted Horse. But, the immortal rose to his feet again and started shooting at Cort. the young, blind peddler throws him a bullet and this time Cort finishes it. Ellen who is looking for her father's meets up with the Dr. who was her father's friend. She has been flashing back to the day that Herod had her father hung. There are only 4 left, and The Kid challenges Herod, his father. Ellen finds Cort who is being beaten up by Herod's men, and she frees him at gun point. Then she and Cort make love and a pact. They decided to have Ellen stand down and Cort take Herod in the final. Herod overhears and makes them fight. But first, The Kid gets his shot and hits Herod in the neck but catches one in the gut. Ellen rushes to the Kid's side, only to hear his last words. Then, Cort and Ellen must fight. Cort begs her to shoot him and she won't. So, Cort shoots Ellen because Herod had his men ready to shoot them both, if neither drew. The Dr. pronounces her dead and takes her away before the scavengers of the town can take her possessions.\nThen Cort charges Herod who puts a mini gun to his head. Cort is taken away and prepares for their final. The time comes for the final gunfight and Herod is in for surprise. Ellen used red ink to stage her death and the clock tower is loaded with dynamite, and it explodes. The diversion begins and Cort starts picking off Herod's men. As a surprise Ellen shoots Herod and its fatal, where her wound isn't. The last scene shows her riding off and Cort holding her deceased Father's Marshall Star.",
+  "imdb_score": 6.5
+}

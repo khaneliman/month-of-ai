@@ -1,0 +1,547 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/kh3KoeyQpzqScweErLqEmBjNDLr.jpg",
+  "id": 95,
+  "title": "Armageddon",
+  "poster_path": "https://image.tmdb.org/t/p/w500/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+  "release_date": "1998-07-01",
+  "vote_average": 6.835,
+  "vote_count": 7517,
+  "popularity": 54.992,
+  "overview": "When an asteroid threatens to collide with Earth, NASA honcho Dan Truman determines the only way to stop it is to drill into its surface and detonate a nuclear bomb. This leads him to renowned driller Harry Stamper, who agrees to helm the dangerous space mission provided he can bring along his own hotshot crew. Among them is the cocksure A.J. who Harry thinks isn't good enough for his daughter, until the mission proves otherwise.",
+  "imdb_id": "tt0120591",
+  "budget": 140000000,
+  "homepage": "",
+  "revenue": 553799566,
+  "runtime": 151,
+  "tagline": "For love. For honor. For mankind.",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "production_companies": [
+    "Touchstone Pictures",
+    "Jerry Bruckheimer Films",
+    "Valhalla Motion Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Bruce Willis",
+        "character": "Harry S. Stamper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/caX3KtMU42EP3VLRFFBwqIIrch5.jpg"
+      },
+      {
+        "name": "Billy Bob Thornton",
+        "character": "Dan Truman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uJBFml6efjg34u2jvT5ugVa1cPI.jpg"
+      },
+      {
+        "name": "Ben Affleck",
+        "character": "A.J. Frost",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+      },
+      {
+        "name": "Liv Tyler",
+        "character": "Grace Stamper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hXFKqlOPVjtfBSPlmQwFnJvhvmU.jpg"
+      },
+      {
+        "name": "Will Patton",
+        "character": "Chick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2vr8aJacajXz7m4lMc2WdVniCRZ.jpg"
+      },
+      {
+        "name": "Steve Buscemi",
+        "character": "Rockhound",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lQKdHMxfYcCBOvwRKBAxPZVNtkg.jpg"
+      },
+      {
+        "name": "William Fichtner",
+        "character": "Colonel Willie Sharp",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg"
+      },
+      {
+        "name": "Owen Wilson",
+        "character": "Oscar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/op8sGD20k3EQZLR92XtaHoIbW0o.jpg"
+      },
+      {
+        "name": "Michael Clarke Duncan",
+        "character": "Bear",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3RX8OBqt3gbvFwKYZqiom4O3Ta6.jpg"
+      },
+      {
+        "name": "Peter Stormare",
+        "character": "Lev Andropov",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5muzSVt66Qxc8KuVbq0phZIN9tj.jpg"
+      },
+      {
+        "name": "Ken Hudson Campbell",
+        "character": "Max",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5KmuInp11wKczUQMHlNP26STfzT.jpg"
+      },
+      {
+        "name": "Jessica Steen",
+        "character": "Co-Pilot Jennifer Watts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7pKpGn6beYaDdEnSSmZWJY5DGlc.jpg"
+      },
+      {
+        "name": "Keith David",
+        "character": "General Kimsey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jJLJuR7FNHYL1fB5igjj7IXzOel.jpg"
+      },
+      {
+        "name": "Chris Ellis",
+        "character": "Flight Director Clark",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zSoBhmD7KtHi9YrBVrHK9QSl8DU.jpg"
+      },
+      {
+        "name": "Jason Isaacs",
+        "character": "Ronald Quincy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+      },
+      {
+        "name": "Grayson McCouch",
+        "character": "Gruber",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ZL0QdbVnTvw6zADzuyVrWvbfuo.jpg"
+      },
+      {
+        "name": "Clark Heathcliffe Brolly",
+        "character": "Noonan",
+        "profile_path": ""
+      },
+      {
+        "name": "Marshall R. Teague",
+        "character": "Colonel Davis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yOlxb4cz9qzp6vDAE248VXH6lTK.jpg"
+      },
+      {
+        "name": "Anthony Guidera",
+        "character": "Co-Pilot Tucker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2VQNOVxzEWNrGZkV51tHJpex3aU.jpg"
+      },
+      {
+        "name": "Greg Collins",
+        "character": "Halsey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/42p7hsOck2OzIkr4b9Wtp0HckkG.jpg"
+      },
+      {
+        "name": "J. Patrick McCormack",
+        "character": "General Boffer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ian Quinn",
+        "character": "Astronaut Pete Shelby",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher J. Worret",
+        "character": "Operator #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Adam C. Smith",
+        "character": "Operator #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l01FT0Aa6Ol9QfNjYFEIYVZsjQy.jpg"
+      },
+      {
+        "name": "John Mahon",
+        "character": "Karl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/HQ5v471RZCcWhl9qY4cImUf5tP.jpg"
+      },
+      {
+        "name": "Grace Zabriskie",
+        "character": "Dottie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/19tr5IbzCmv4x5B3WFlG1RQPwXu.jpg"
+      },
+      {
+        "name": "K.C. Leomiti",
+        "character": "Samoan",
+        "profile_path": ""
+      },
+      {
+        "name": "Eddie Griffin",
+        "character": "Bike Messenger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m6HerbicIETBfBqLATWILb6jEix.jpg"
+      },
+      {
+        "name": "Deborah Nishimura",
+        "character": "Client #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Albert Wong",
+        "character": "Client #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Ishida",
+        "character": "Client #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mC8iH5HdlKZXpKFgLO0YtGZc23g.jpg"
+      },
+      {
+        "name": "Stanley Anderson",
+        "character": "President",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6kHp1SlLRw0NobVdY8X6DbBAPt8.jpg"
+      },
+      {
+        "name": "James Harper",
+        "character": "Admiral Kelso",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3TfR670Vy4wZzRPLfWLYj1ly2db.jpg"
+      },
+      {
+        "name": "Ellen Cleghorne",
+        "character": "Helga the Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vGQd7zcCqcGKDQlYqgcLpYuoGK7.jpg"
+      },
+      {
+        "name": "Udo Kier",
+        "character": "Psychologist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg"
+      },
+      {
+        "name": "John Aylward",
+        "character": "Dr. Banks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5FLmm3GsLgLYsdrTlEja8nIfkJj.jpg"
+      },
+      {
+        "name": "Mark Curry",
+        "character": "Stu the Cabbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zfQZt0cdZmfbW6trC5CUs1FTIPD.jpg"
+      },
+      {
+        "name": "Seiko Matsuda",
+        "character": "Asian Tourist - Female",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5fIJMsxy9mjaVnPifw5HKrB4ifu.jpg"
+      },
+      {
+        "name": "Harry Humphries",
+        "character": "Chuck Jr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jw0h3pxfJ6454R3nmipcLV0dzgB.jpg"
+      },
+      {
+        "name": "Dyllan Christopher",
+        "character": "Tommy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q6QGAkjWyDgot3Y2Rdvvss7P8ne.jpg"
+      },
+      {
+        "name": "Judith Hoag",
+        "character": "Denise",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rxaOOY9ITIBDP0I0CXl7RSIKFbZ.jpg"
+      },
+      {
+        "name": "Sage Allen",
+        "character": "Max's Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jnWAAI2G2D4Bi6LtUtFFpA4YjSQ.jpg"
+      },
+      {
+        "name": "Steven Ford",
+        "character": "Nuke Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lszRdjY2fTVYcsQBbziRnc9X1Ar.jpg"
+      },
+      {
+        "name": "Christian Clemenson",
+        "character": "Droning Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uki9bmhoR4V4x0E7uVTCj9iZwNy.jpg"
+      },
+      {
+        "name": "Andy Ryan",
+        "character": "Greenpeace Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Duke Valenti",
+        "character": "Roughneck #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mU8lctCpxGnINlSOHbrww8XVH5h.jpg"
+      },
+      {
+        "name": "Michael Taliferro",
+        "character": "Roughneck #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Z9Q25tfNE1CqnveRkj5FJtwIoJ.jpg"
+      },
+      {
+        "name": "Billy Devlin",
+        "character": "Roughneck #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dnxo4BhdJk2LWYnhz7zLiuZZ9mt.jpg"
+      },
+      {
+        "name": "Kathleen Matthews",
+        "character": "Newscaster #2",
+        "profile_path": ""
+      },
+      {
+        "name": "J.C. Hayward",
+        "character": "Newscaster #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Glassman",
+        "character": "Newscaster #4",
+        "profile_path": ""
+      },
+      {
+        "name": "Shawnee Smith",
+        "character": "Redhead",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s2Ouz4b7xqDH72aU48TSW5zS40v.jpg"
+      },
+      {
+        "name": "Dwight Hicks",
+        "character": "FBI Agent #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mTRop1yf888YYCULNCAk9j4RGff.jpg"
+      },
+      {
+        "name": "Odile Corso",
+        "character": "Geo Tech #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lXRMl6Gn6NXkI0ZYiqDGvuufk0A.jpg"
+      },
+      {
+        "name": "Vic Manni",
+        "character": "Loanshark",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2WeoKBA4Xjoxww8AKBlG2Tr2OO6.jpg"
+      },
+      {
+        "name": "Jim Maniaci",
+        "character": "Biker Customer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d4ksRltkenqrggKEg2M71nTbPkv.jpg"
+      },
+      {
+        "name": "Layla Roberts",
+        "character": "Molly Mounds",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l0M5grWHLMjUJj0xLatJgdoLMl5.jpg"
+      },
+      {
+        "name": "Joe Allen",
+        "character": "Kennedy Launch",
+        "profile_path": ""
+      },
+      {
+        "name": "Bodhi Elfman",
+        "character": "Math Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jQSJxARZYfznOKIDvBdYhXeFMvP.jpg"
+      },
+      {
+        "name": "Alexander Johnson",
+        "character": "Newscaster",
+        "profile_path": ""
+      },
+      {
+        "name": "Kathy Neff",
+        "character": "Reporter #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Vinson",
+        "character": "Sector Director",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Patrick Kelly",
+        "character": "Marine #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wvUpGz4QG18czmQkFqx91KbD7Ha.jpg"
+      },
+      {
+        "name": "Peter White",
+        "character": "Secretary of Defense",
+        "profile_path": "https://image.tmdb.org/t/p/w185/80HHvSlLphPwlHlBrVlFkfRZcXU.jpg"
+      },
+      {
+        "name": "Rudy Mettia",
+        "character": "G-Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Van Keeken",
+        "character": "NASA Planner #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Frederick Weller",
+        "character": "NASA Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nNgNNahLhlQqlknS2dA1ZTO3NKG.jpg"
+      },
+      {
+        "name": "Jeff Austin",
+        "character": "NASA Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5CXdrwmfCAnJXz95OUBtpu0Pn3P.jpg"
+      },
+      {
+        "name": "Googy Gress",
+        "character": "NASA Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kOF6l7A7OaxrbSX2zfZ0Qst2iFz.jpg"
+      },
+      {
+        "name": "Matt Malloy",
+        "character": "NASA Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/csNVv2jlw6QLoNCcifGnvT9hN2O.jpg"
+      },
+      {
+        "name": "H. Richard Greene",
+        "character": "NASA Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qwJj7GuMv5mSsDPj0cQM8iYuPfv.jpg"
+      },
+      {
+        "name": "Brian Brophy",
+        "character": "NASA Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cvC2xxeBgeGSQVBvqJBy7tVgiIw.jpg"
+      },
+      {
+        "name": "Peter Murnik",
+        "character": "NASA Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cd26g5cUoxQ9R8nu4E9zLVldlur.jpg"
+      },
+      {
+        "name": "Brian Hayes Currie",
+        "character": "NASA Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fZ7wnZvxVKIoYCsHYUIgmkfQwk.jpg"
+      },
+      {
+        "name": "Andy Milder",
+        "character": "NASA Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z7sCgA9TiyVuBosmgBJbAxgm05K.jpg"
+      },
+      {
+        "name": "Michael Kaplan",
+        "character": "NASA Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bNarnI5K4XYIKaHsX6HAitllyQr.jpg"
+      },
+      {
+        "name": "Patrick Richwood",
+        "character": "Dr. Nerd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sSp6c5VrBfARdCLwbDBJvtAkePM.jpg"
+      },
+      {
+        "name": "Brian Mulligan",
+        "character": "Dr. Nerd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k1O4UPSnchujvokt1W3aG84G7cD.jpg"
+      },
+      {
+        "name": "John H. Johnson",
+        "character": "Pad Director",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Stewart",
+        "character": "Vacuum Chamber Tech",
+        "profile_path": ""
+      },
+      {
+        "name": "Scarlet Forge",
+        "character": "Young Grace",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Tuck",
+        "character": "American Newscaster",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick Lander",
+        "character": "British Newscaster",
+        "profile_path": ""
+      },
+      {
+        "name": "Anne Varèze",
+        "character": "French Newscaster",
+        "profile_path": ""
+      },
+      {
+        "name": "Fritz Mashimo",
+        "character": "Japanese Newscaster",
+        "profile_path": ""
+      },
+      {
+        "name": "Dina Morrone",
+        "character": "Italian Newscaster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ckeDAxUeAf6sMSUFQHNsGEaCCcg.jpg"
+      },
+      {
+        "name": "Ruben Olague",
+        "character": "Spanish Newscaster",
+        "profile_path": ""
+      },
+      {
+        "name": "Wolfgang Muser",
+        "character": "German Newscaster",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Fitzpatrick",
+        "character": "NORAD Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kDPq5l24OBOrlce2Xal2GSmSooM.jpg"
+      },
+      {
+        "name": "Franky",
+        "character": "Dog / Little Richard",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlton Heston",
+        "character": "Narration (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mJabHWZrjlFiF8U8Bbr8lSFtLX6.jpg"
+      },
+      {
+        "name": "Michael Bay",
+        "character": "NASA Scientist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rkC7lei20x5xlFH4SivAXXBh6uR.jpg"
+      },
+      {
+        "name": "Lawrence Tierney",
+        "character": "Eddie 'Gramp' Stamper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/crtpxUAnPrZFSrLjbsTUTdGn72W.jpg"
+      },
+      {
+        "name": "Mark Boone Junior",
+        "character": "New Yorker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rcncVr356hpfKX9qOrKL3SJlEO7.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Michael Bay",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rkC7lei20x5xlFH4SivAXXBh6uR.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "daughter",
+    "race against time",
+    "space marine",
+    "moon",
+    "washington dc, usa",
+    "saving the world",
+    "cataclysm",
+    "paris, france",
+    "asteroid",
+    "self sacrifice",
+    "nasa",
+    "loss of loved one",
+    "natural disaster",
+    "u.s. air force",
+    "end of the world",
+    "space",
+    "disaster",
+    "wedding",
+    "astronaut",
+    "duringcreditsstinger",
+    "disaster movie",
+    "heroic mission",
+    "daring rescue",
+    "space centre"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "After discovering that an asteroid the size of Texas will impact Earth in less than a month, NASA recruits a misfit team of deep-core drillers to save the planet.",
+    "A shuttle's unfortunate demise in outer space alerts NASA to a doomsday asteroid that is on a collision course with Earth. it seems that the only way to knock it off course is to drill into its surface and detonate a nuclear weapon. But as NASA's underfunded yet resourceful team trains the world's best drillers for the job, the world's social order begins to break down as the information reaches the public and hysteria results. As high-ranking officials play politics with the effort, members of the drilling team face deep personal issues that might jeopardize humanity's last chance.—Paul Cezanne <Cezanne36@hotmail.com>",
+    "After New York City is damaged by hundreds of small meteorites, NASA discovers an asteroid the size of Texas is on a collision course with Earth. They recruit the world's best deep-core driller, Harry Stamper, to train astronauts who will go to the asteroid, drill into the center and detonate a nuclear warhead. Harry says he can't train men to drill in 10 days, so he brings in his own team of roughnecks to learn to become astronauts and get the job done. One of his team is his own daughter's fiancé.—Jason Ihle <jrihl@conncoll.edu>"
+  ],
+  "synopsis": "While fixing a satellite in orbit, the Space Shuttle Atlantis is destroyed by a meteor shower, killing the entire crew. Meteorites then bombard New York City and several other parts of the world, and NASA discovers that an asteroid the size of Texas, traveling at 22,000 miles per hour, will collide with Earth in 18 days, effectively destroying the planet. The scientists at NASA - in cooperation with the Russian, Japanese and other European space agencies - plan to detonate a nuclear bomb at a precise point under the asteroid's surface which will split it in two and cause it to miss the Earth. However, the bombs must be planted at least 800 feet below the surface within eight hours of landing, and no later than four hours before the Earth impact. The mission is not revealed to the public, fearing panic.NASA locates Harry Stamper (Bruce Willis), because he could help them drill a hole on the asteroid. When invited to NASA, Harry brings his daughter Grace (Liv Tyler) to keep her away from A.J. (Ben Affleck), a young, rambunctious member of his crew who, he has just discovered, has been sleeping with her. This disappoints and infuriates Harry because he did not want his daughter to marry an oil driller like himself or remain in the blue-collar life. Head of NASA Dan Truman (Billy Bob Thornton) informs Harry of the dire situation. Harry recognizes that he and his crew must accompany the astronauts to ensure the job is done properly. After Harry's crew (Jayotis \"Bear\" Kurleenbear, Max Lennert, Rockhound, Oscar Choice, Charles \"Chick\" Chapple and some others) is collected and NASA acquiesces to their demands, they are put through a 12-day training program and outfit a drilling rig with the proper equipment.After a meteorite strikes Shanghai, China, destroying the city and causing a tsunami, the incoming asteroid and pending mission are revealed to the world. Two military shuttles, Freedom and Independence, are launched and dock at a Russian space station (crewed by Lev Andropov) to refuel with liquid oxygen propellant. A.J. encounters a problem stopping the pumps after the ships' tanks are full and the station explodes. The crews and Lev Andropov escape. Later, the two shuttles perform a high G-force powered slingshot procedure around the Moon, traveling at 22,500 miles per hour to intercept the asteroid.As they enter the asteroid's wake, the Independence is struck by debris and crash-lands on the asteroid, killing most of its crew, including Oscar Choice, Freddie Noonan and the Independence pilots. AJ, Lev and Bear survive. The Freedom lands on the surface but misses the target landing zone, arriving on an area of hard iron which will be difficult to drill through. The Freedom team tries to drill but suffers several setbacks and losses due to unexpected conditions.After losing communication with Earth, the mission is put on hold, as the bomb's timer is activated by orders from the United States President to ensure the mission succeeds. However, a surface explosion would not be sufficient to divert the asteroid. Harry convinces Colonel Sharp to deactivate the bomb and help them attempt to finish the job. With just 250 feet left to drill, their drilling machine is blasted off the asteroid by a gas vent killing Max in the process.When the crew radio report to NASA that the mission has failed, worldwide panic ensues as humanity braces for the end of the world. A massive meteoroid then strikes Paris, destroying most of the city. The Freedom crew learns that the other team managed to survive the crash thanks to Lev Andropov and A.J. and have driven the second drilling machine to the site. Harry puts A.J. in charge of finishing the drilling and they successfully drill to the necessary depth. The team lowers the nuclear bomb into the hole but are caught in a rock storm. The storm kills crew member Gruber and damages the remote on the bomb, rendering remote detonation useless.With 18 minutes left, Truman tells the team that someone must stay behind to detonate the bomb. A.J. is chosen after drawing straws, but Harry disables A.J.'s air supply and takes his place. As the shuttle departs, Harry sends a message to his daughter, giving his full support for her to marry A.J. Harry detonates the bomb exactly at the deadline, causing the asteroid to split in two and miss the Earth by 400 miles, at the cost of his own life. The remaining crews of Freedom and Independence return to Earth as heroes.A.J. reunites with Grace while the others are met by their loved ones. Grace and A.J. soon marry, while Harry and the other lost crew members are memorialized.",
+  "imdb_score": 6.7
+}

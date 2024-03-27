@@ -1,0 +1,323 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/faZebuIBNDaVtfT2tWgDcRK1u8n.jpg",
+  "id": 1807,
+  "title": "Elephant",
+  "poster_path": "https://image.tmdb.org/t/p/w500/pbdm3Z45fwgcfPndm4wmQAhDWjN.jpg",
+  "release_date": "2003-09-20",
+  "vote_average": 7.087,
+  "vote_count": 1776,
+  "popularity": 19.048,
+  "overview": "Several ordinary high school students go through their daily routine as two others prepare for something more malevolent.",
+  "imdb_id": "tt0363589",
+  "budget": 3000000,
+  "homepage": "",
+  "revenue": 10000000,
+  "runtime": 81,
+  "tagline": "An ordinary high school day. Except that it's not.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    "HBO Films",
+    "Blue Relief Productions",
+    "Meno Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Alex Frost",
+        "character": "Alex",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2rP9HunXkl4lzC8z0g4II5RHslz.jpg"
+      },
+      {
+        "name": "Eric Deulen",
+        "character": "Eric",
+        "profile_path": "https://image.tmdb.org/t/p/w185/RTQxsBDOMbCxLth6va6mZPifVn.jpg"
+      },
+      {
+        "name": "John Robinson",
+        "character": "John McFarland",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r6Y3EzKwqxMmfWfWCKIEj91Wxuw.jpg"
+      },
+      {
+        "name": "Elias McConnell",
+        "character": "Elias",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9XWH3TegLqNZBnDcOcqmSe6Jzir.jpg"
+      },
+      {
+        "name": "Jordan Taylor",
+        "character": "Jordan",
+        "profile_path": ""
+      },
+      {
+        "name": "Carrie Finklea",
+        "character": "Carrie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oJ2AmJZvUIVk5LD0tYavAP2aBpi.jpg"
+      },
+      {
+        "name": "Nicole George",
+        "character": "Nicole",
+        "profile_path": ""
+      },
+      {
+        "name": "Brittany Mountain",
+        "character": "Brittany",
+        "profile_path": ""
+      },
+      {
+        "name": "Alicia Miles",
+        "character": "Acadia",
+        "profile_path": ""
+      },
+      {
+        "name": "Kristen Hicks",
+        "character": "Michelle",
+        "profile_path": ""
+      },
+      {
+        "name": "Bennie Dixon",
+        "character": "Benny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qdOrcZ6EFhWSvxuZL2uvxvT1cab.jpg"
+      },
+      {
+        "name": "Nathan Tyson",
+        "character": "Nathan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mHBE0tVBICxBB9stsueQeuTkgVj.jpg"
+      },
+      {
+        "name": "Timothy Bottoms",
+        "character": "Mr. McFarland",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e0SKyrvvyJFZWx3QFzI4qAkWi8E.jpg"
+      },
+      {
+        "name": "Matt Malloy",
+        "character": "Mr. Luce",
+        "profile_path": "https://image.tmdb.org/t/p/w185/csNVv2jlw6QLoNCcifGnvT9hN2O.jpg"
+      },
+      {
+        "name": "Chantelle Chriestenson Nelson",
+        "character": "Noelle",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry Laverty",
+        "character": "Teacher #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4y5yfzwlhY7mEBQT0kQYwpaXdZa.jpg"
+      },
+      {
+        "name": "Ruben Bansie-Snellman",
+        "character": "GSA Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9GzdpOuiXIuGvC6wCwO50WcdkHk.jpg"
+      },
+      {
+        "name": "Jason Seitz",
+        "character": "GSA Victim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/52CkBpfe5kme5n8KRUP1zl499ta.jpg"
+      },
+      {
+        "name": "Vana O'Brien",
+        "character": "P.E. Instructor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qoHOtecdpGcP4o4V9DJP2RCW3Jq.jpg"
+      },
+      {
+        "name": "Joseph Sackett",
+        "character": "GSA Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dxPObTn5r1nF6e61u1aUS2UsbhG.jpg"
+      },
+      {
+        "name": "Sarah Bing",
+        "character": "GSA Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Ellis E. Williams",
+        "character": "GSA Teacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Kim Kenney",
+        "character": "Assistant Principal's Secretary",
+        "profile_path": ""
+      },
+      {
+        "name": "Marci Buntrock",
+        "character": "Assistant Secretary",
+        "profile_path": ""
+      },
+      {
+        "name": "Phillipp Roman Ostrovsky",
+        "character": "Red Haired Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Paulsen",
+        "character": "Bully",
+        "profile_path": ""
+      },
+      {
+        "name": "Alfred Ono",
+        "character": "Mr. Fong",
+        "profile_path": ""
+      },
+      {
+        "name": "Marychris Mass",
+        "character": "Alex's Mom",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Steinpreis",
+        "character": "Alex's Dad",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeremy Simpson",
+        "character": "Delivery Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Sherilyn Lawson",
+        "character": "Teacher #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cMbFNVyaOoHZ8IXixadhVNqBtEa.jpg"
+      },
+      {
+        "name": "Sarah Lucht",
+        "character": "Teacher #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave Stippich",
+        "character": "Teacher #4",
+        "profile_path": ""
+      },
+      {
+        "name": "Jimmy Gomez",
+        "character": "Kid On Bike",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Cronin",
+        "character": "Science Teacher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sGlHUfeyHasapfiZVpArfeXSRp5.jpg"
+      },
+      {
+        "name": "Wolfgang Williams",
+        "character": "Punk Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Caroline Donovan Boyd",
+        "character": "Punk Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Travis Ferguson",
+        "character": "Science Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Ernest Truly",
+        "character": "GSA Teacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary Muldrew",
+        "character": "GSA Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Kether Hayden",
+        "character": "GSA Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Natascha Snellman",
+        "character": "GSA Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Shanti Cho",
+        "character": "Student in Darkroom",
+        "profile_path": ""
+      },
+      {
+        "name": "Spencer Callahan",
+        "character": "Student in Darkroom",
+        "profile_path": ""
+      },
+      {
+        "name": "Theara Sao",
+        "character": "Eli's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Tiana Woods",
+        "character": "Eli's Classmate",
+        "profile_path": ""
+      },
+      {
+        "name": "Griffin Goins",
+        "character": "Football Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Maxim Horner",
+        "character": "Football Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Trullinger",
+        "character": "Football Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Ty Schwoeffermann",
+        "character": "Football Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Ray Monge",
+        "character": "Janitor",
+        "profile_path": ""
+      },
+      {
+        "name": "Adolf Hitler",
+        "character": "Self (archive footage)(uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n6f81IUSes1a8jTzUIF7rJ5zZnP.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Gus Van Sant",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kICHgrSh4eiICjz8piy9fTXIgph.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "video game",
+    "gun",
+    "mass murder",
+    "classroom",
+    "portland, oregon",
+    "violence in schools",
+    "girlfriend",
+    "school",
+    "gun violence",
+    "school shooting",
+    "day in a life",
+    "homosexuality",
+    "shooting"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Several ordinary high school students go through their daily routine as two others prepare for something more malevolent.",
+    "A day in the lives of a group of average teenage high school students. The film follows every character and shows their daily routines. However two of the students plan to do something that the student body won't forget.—Anonymous"
+  ],
+  "synopsis": "The story is about two high school students, Alex (Alex Frost) and Eric (Eric Deulen), two close friends and students in a suburb of Portland, who calmly plan and perform a mass execution of their classmates and school administrators in the course of one day. Eric and Alex are seemingly ordinary, and very much a part of the fabric of the high school and its array of student actions. In fact, it's hard to distinguish them from all the other students. Alex plays classical piano whereas Eric plays video games. They calmly watch Nazi programs on TV and purchase firearms over the Internet. They seem just as ordinary and interesting as any of the other students. They analytically draw up plans for their merciless killing spree, indicating that they have enough bombs and ordinance to last the afternoon. They walk through the school, killing several of their school peers, and there is no rescue from the authorities.",
+  "imdb_score": 7.1
+}

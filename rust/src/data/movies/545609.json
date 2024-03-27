@@ -1,0 +1,338 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/1R6cvRtZgsYCkh8UFuWFN33xBP4.jpg",
+  "id": 545609,
+  "title": "Extraction",
+  "poster_path": "https://image.tmdb.org/t/p/w500/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+  "release_date": "2020-04-24",
+  "vote_average": 7.345,
+  "vote_count": 5715,
+  "popularity": 45.195,
+  "overview": "Tyler Rake, a fearless mercenary who offers his services on the black market, embarks on a dangerous mission when he is hired to rescue the kidnapped son of a Mumbai crime lord.",
+  "imdb_id": "tt8936646",
+  "budget": 65000000,
+  "homepage": "https://www.netflix.com/title/80230399",
+  "revenue": 0,
+  "runtime": 116,
+  "tagline": "When the mission ends, redemption begins",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "production_companies": [
+    "AGBO",
+    "Thematic Entertainment",
+    "TGIM Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Chris Hemsworth",
+        "character": "Tyler Rake",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xkHHiJXraaMFXgRYspN6KVrFn17.jpg"
+      },
+      {
+        "name": "Rudhraksh Jaiswal",
+        "character": "Ovi Mahajan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nIiqv0pbRwKeG7Ar42UrLgEBuYW.jpg"
+      },
+      {
+        "name": "Randeep Hooda",
+        "character": "Saju",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fF6G3MlCfq6pH1YkHrFVDhe9Uvw.jpg"
+      },
+      {
+        "name": "Golshifteh Farahani",
+        "character": "Nik Khan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lbsd2lAIQq4egOUXDIfjhte12vv.jpg"
+      },
+      {
+        "name": "Pankaj Tripathi",
+        "character": "Ovi Mahajan Sr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f3Vxz0QB7PHeyPcXrfJX14Xkxnu.jpg"
+      },
+      {
+        "name": "David Harbour",
+        "character": "Gaspar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/chPekukMF5SNnW6b22NbYPqAStr.jpg"
+      },
+      {
+        "name": "Bryon Lerum",
+        "character": "Rake's Son",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryder Lerum",
+        "character": "Rake's Son",
+        "profile_path": ""
+      },
+      {
+        "name": "Shivam Vichare",
+        "character": "Sachin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qFx7ZuAEUUmZIRKYAFV9omnAHcZ.jpg"
+      },
+      {
+        "name": "Piyush Khati",
+        "character": "Arjun",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9NeuXKK5BFYxZ0n1KOOWyViPloq.jpg"
+      },
+      {
+        "name": "Sara Rumao",
+        "character": "Cute Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Aarti Kulkarni",
+        "character": "Pari - Ovi's Maid",
+        "profile_path": ""
+      },
+      {
+        "name": "Umakant Patil",
+        "character": "Cop #1 - Candie's Cafe",
+        "profile_path": ""
+      },
+      {
+        "name": "Praveen Indu",
+        "character": "Cop #2 - Candie's Cafe",
+        "profile_path": ""
+      },
+      {
+        "name": "Swapnil Kokam",
+        "character": "Prison Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Neha Mahajan",
+        "character": "Neysa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6DpSZwLlSMYESJaxoavojjOJVed.jpg"
+      },
+      {
+        "name": "Pallas Prajapati",
+        "character": "Aarav",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6CKtPbKoeldeJbURevIEli8ZG3w.jpg"
+      },
+      {
+        "name": "Shazia Naz Gill",
+        "character": "Saju's Housekeeper",
+        "profile_path": ""
+      },
+      {
+        "name": "Rob Collins",
+        "character": "Rata",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dwru1rbrfHGa1PQRbl9ZwA7a7F6.jpg"
+      },
+      {
+        "name": "Wayne Blair",
+        "character": "Koen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1peq67IY71mENMZ9tYsrrFD28aY.jpg"
+      },
+      {
+        "name": "Adam Bessa",
+        "character": "Yaz Kahn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v8y5C5AA4G9Wr8ZbOZ0zbfNymIW.jpg"
+      },
+      {
+        "name": "Sam Hargrave",
+        "character": "Gaetan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mq7KgHiyuwFOvxuEg8p0Z30pybY.jpg"
+      },
+      {
+        "name": "Rayna Campbell",
+        "character": "Radio Tech - Nik's Crew",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1EH7jmohfYYIllqszYO7Xp58DqO.jpg"
+      },
+      {
+        "name": "Patrick Newall",
+        "character": "Merc",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dOGLRCvGb8mCXSjoDAq4l9Xroob.jpg"
+      },
+      {
+        "name": "Chris Jai Alex",
+        "character": "Thiago",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tNdDu6VPOoDw6CU6Lq1D9PYpLnY.jpg"
+      },
+      {
+        "name": "Vonzell Carter",
+        "character": "Jose",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xpxKAA2AJJXjyIcjTldPvmTF364.jpg"
+      },
+      {
+        "name": "Héctor Andreu",
+        "character": "Additional Tech - Nik's Crew",
+        "profile_path": ""
+      },
+      {
+        "name": "Priyanshu Painyuli",
+        "character": "Amir Asif",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r1o22IMlSU9KQfG6qBTb0HUXPFe.jpg"
+      },
+      {
+        "name": "Sumeet Thakur",
+        "character": "Kalam - Kidnapper #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4IG7EKOgMYMXmHxsevl2esArIzx.jpg"
+      },
+      {
+        "name": "Projoy Majumdar",
+        "character": "Raju - Kidnapper #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Sounak Kundu",
+        "character": "Jersey Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Pabitra Mondal",
+        "character": "Chinese Rifle Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Abhinav Srivastana",
+        "character": "Rooftop Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Suraj Rikame",
+        "character": "Farhad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p81GOdpuRfAkzkpxyCMEL1vMEtK.jpg"
+      },
+      {
+        "name": "Shataf Figar",
+        "character": "Silver-haired Colonel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sgQskf2R4c7302nNj5CG1invLsC.jpg"
+      },
+      {
+        "name": "Kundan Roy",
+        "character": "Car Crash Cop",
+        "profile_path": ""
+      },
+      {
+        "name": "Amritpal Singh",
+        "character": "Stunt Elite Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Yatendra Bahuguna",
+        "character": "Hotel Clerk",
+        "profile_path": ""
+      },
+      {
+        "name": "Debapriya Saha",
+        "character": "Apon",
+        "profile_path": ""
+      },
+      {
+        "name": "Sujay Mondal",
+        "character": "Gopi's Gang Member #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Surojit Mondal",
+        "character": "Gopi's Gang Member #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Raj Santra",
+        "character": "Gopi's Gang Member #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Anup Sharma",
+        "character": "Blockade Commander",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Romrell",
+        "character": "Mercenary #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Craig 'Chili' Palmer",
+        "character": "Mercenary #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Lehr",
+        "character": "Mercenary #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ebbmuSgJXRivMFrpKvnHkQXWOxN.jpg"
+      },
+      {
+        "name": "Brandon McClary",
+        "character": "Mercenary #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pfMCrsSGddE3U1vLcav06g0yYiM.jpg"
+      },
+      {
+        "name": "Mutaza Khatawala",
+        "character": "Gunner #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Alejandro Anduze",
+        "character": "Pilot - Helicopter",
+        "profile_path": ""
+      },
+      {
+        "name": "Aditya Paul",
+        "character": "Vocalist #1 - Band Candie's Cafe",
+        "profile_path": ""
+      },
+      {
+        "name": "Shreya Vivek",
+        "character": "Vocalist #2 - Band Candie's Cafe",
+        "profile_path": ""
+      },
+      {
+        "name": "Sharan Gulati",
+        "character": "Guitarist #1 - Band Candie's Cafe",
+        "profile_path": ""
+      },
+      {
+        "name": "Shitij Gulati",
+        "character": "Guitarist #2 - Band Candie's Cafe",
+        "profile_path": ""
+      },
+      {
+        "name": "Akshat Pathak",
+        "character": "Drummer - Band Candie's Cafe",
+        "profile_path": ""
+      },
+      {
+        "name": "Tejeshwar Singh Mann",
+        "character": "Misc. Player - Band Candie's Cafe",
+        "profile_path": ""
+      },
+      {
+        "name": "Sudipto Balav",
+        "character": "Shadek",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q1zM89XrF3cS01GA6liZOtNUaze.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Sam Hargrave",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mq7KgHiyuwFOvxuEg8p0Z30pybY.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "mercenary",
+    "crime boss",
+    "mumbai (bombay), india",
+    "rescue mission",
+    "based on comic",
+    "based on graphic novel",
+    "dhaka (dacca), bangladesh"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord.",
+    "In an underworld of weapons dealers and traffickers, a young boy becomes the pawn in a war between notorious drug lords. Trapped by kidnappers inside one of the world's most impenetrable cities, his rescue beckons the unparalleled skill of a mercenary named Tyler Rake, but Rake is a broken man with nothing to lose, harboring a death wish that makes an already deadly mission near impossible.—Netflix Media Center",
+    "Tyler Rake is a fearless black market mercenary with nothing left to lose when his skills are solicited to rescue the kidnapped son of an imprisoned international crime lord, but, in the murky underworld of weapons dealers and drug traffickers, an already deadly mission approaches the impossible, forever altering the lives of Rake and the boy.—Netflix"
+  ],
+  "synopsis": "After a day at school, Ovi Mahajan (Rudhraksh Jaiswal) - son of an incarcerated Indian drug lord - sneaks out of his house to visit a club, where he is kidnapped by police officers working for rival drug lord Amir Asif (Priyanshu Painyuli). Saju Rav (Randeep Hooda), a former Para (SF) operator and Ovi's protector, visits Ovi's father in prison. Unwilling to pay the ransom as it will hurt his prestige, Ovi Mahajan Sr. (Pankaj Tripathi) orders Saju to retrieve his son, threatening Saju's own family.Tyler Rake (Chris Hemsworth), a black-market mercenary and former SASR operator, is recruited by fellow mercenary Nik Khan (Golshifteh Farahani) to rescue Ovi from Dhaka, Bangladesh. Rake and Khan's team prepare to extract Ovi, with his father's men set to pay them once Ovi is recovered. Rake rescues Ovi, kills his captors, and takes him to the extraction point, but his father's men intentionally fail to transfer the funds. Instead, Saju kills Rake's teammates to bring Ovi back himself to avoid any payment to the mercenary group. Learning of Ovi's escape, Asif orders an immediate lockdown of Dhaka, securing all bridges out of the city.Khan arranges for a helicopter to extract Rake outside the city and tells him to abandon Ovi as they will not get paid for Ovi's extraction contract. He refuses, haunted by memories of his own son, who died at a young age from lymphoma when he left. After escaping Saju and the corrupt police and tactical units, Rake fights off a gang of boys led by Farhad, a young criminal determined to impress Asif. Rake calls his friend Gaspar (David Harbour), a retired squad-mate living in Dhaka, and he and Ovi lay low at Gaspar's home. Gaspar reveals Asif has placed a $10 million bounty on Ovi, which he offers to share if Rake allows him to kill Ovi. Rake refuses and fights Gaspar, who gains the upper hand but is fatally shot by Ovi.Rake calls Saju and asks for his help, forcing them to team up to escape Dhaka. Rake draws attention away from a disguised Saju and Ovi as the two make their way through a bridge checkpoint, then follows to cover their escape. Khan and her remaining mercenaries approach from the opposite side of the bridge, as Asif watches from afar with binoculars. In the ensuing firefight, Saju is sniped by Asif's colonel Rashid, who is in turn sniped by Khan. Wounded, Rake instructs Ovi to run to Khan's waiting helicopter. As Rake follows, he is shot in the neck by Farhad and, seeing Ovi is safe, falls into the river. Ovi, Khan, and the extraction team escape to Mumbai.Eight months later, Khan kills Asif in a men's restroom. Ovi jumps into his school's swimming pool and surfaces to see a man watching him.",
+  "imdb_score": 6.8
+}

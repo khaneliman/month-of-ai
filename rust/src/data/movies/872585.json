@@ -1,0 +1,508 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+  "id": 872585,
+  "title": "Oppenheimer",
+  "poster_path": "https://image.tmdb.org/t/p/w500/ptpr0kGAckfQkJeJIt8st5dglvd.jpg",
+  "release_date": "2023-07-19",
+  "vote_average": 8.118,
+  "vote_count": 6554,
+  "popularity": 557.404,
+  "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+  "imdb_id": "tt15398776",
+  "budget": 100000000,
+  "homepage": "http://www.oppenheimermovie.com",
+  "revenue": 952000000,
+  "runtime": 181,
+  "tagline": "The world forever changes.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    "Syncopy",
+    "Universal Pictures",
+    "Atlas Entertainment"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Cillian Murphy",
+        "character": "J. Robert Oppenheimer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+      },
+      {
+        "name": "Emily Blunt",
+        "character": "Kitty Oppenheimer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+      },
+      {
+        "name": "Matt Damon",
+        "character": "Leslie Groves",
+        "profile_path": "https://image.tmdb.org/t/p/w185/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
+      },
+      {
+        "name": "Robert Downey Jr.",
+        "character": "Lewis Strauss",
+        "profile_path": "https://image.tmdb.org/t/p/w185/im9SAqJPZKEbVZGmjXuLI4O7RvM.jpg"
+      },
+      {
+        "name": "Florence Pugh",
+        "character": "Jean Tatlock",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f8e41Oon18FiEZr4zgyJDVUqOeh.jpg"
+      },
+      {
+        "name": "Josh Hartnett",
+        "character": "Ernest Lawrence",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dCfu2EN7FjISACcjilaJu7evwEc.jpg"
+      },
+      {
+        "name": "Casey Affleck",
+        "character": "Boris Pash",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vD5MtCjHPHpmU9XNn74EPGMHT7o.jpg"
+      },
+      {
+        "name": "Rami Malek",
+        "character": "David Hill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ewr46CGOdsx5NzAJdIzEBz2yIQh.jpg"
+      },
+      {
+        "name": "Kenneth Branagh",
+        "character": "Niels Bohr",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+      },
+      {
+        "name": "Benny Safdie",
+        "character": "Edward Teller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gidElVVlUGeAby1trDGW9DlxLh5.jpg"
+      },
+      {
+        "name": "Jason Clarke",
+        "character": "Roger Robb",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jGMOmi7LxpSO6842gJOZKt1gs9N.jpg"
+      },
+      {
+        "name": "Dylan Arnold",
+        "character": "Frank Oppenheimer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ipmcpPccYlVqBDiKnE3LGhaePuP.jpg"
+      },
+      {
+        "name": "Tom Conti",
+        "character": "Albert Einstein",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aeyH3jaaauYakZS3CWbmRPg6J10.jpg"
+      },
+      {
+        "name": "James D'Arcy",
+        "character": "Patrick Blackett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6CInTvBeLwXLx2id9TgaULaVEO4.jpg"
+      },
+      {
+        "name": "David Dastmalchian",
+        "character": "William Borden",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o9oOnTUbsFVYzifDZDdwrsAidy8.jpg"
+      },
+      {
+        "name": "Dane DeHaan",
+        "character": "Kenneth Nichols",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vZ7ix8UeRYgepFPFc4FIVKDLKDX.jpg"
+      },
+      {
+        "name": "Alden Ehrenreich",
+        "character": "Senate Aide",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bx86TPUmeHp0QkijQb16r2qIwEr.jpg"
+      },
+      {
+        "name": "Tony Goldwyn",
+        "character": "Gordon Gray",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kLuvuxspqKvR2F8zk3Gc1b0KhkQ.jpg"
+      },
+      {
+        "name": "Jefferson Hall",
+        "character": "Haakon Chevalier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rUhREsWITBvyoPdLiPJOadAwRYq.jpg"
+      },
+      {
+        "name": "David Krumholtz",
+        "character": "Isidor Rabi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6M2kk44Z1DyUhuVGyy2UDbCKZuM.jpg"
+      },
+      {
+        "name": "Matthew Modine",
+        "character": "Vannevar Bush",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z974QEHL12qUvLyk6hlWGAmDgom.jpg"
+      },
+      {
+        "name": "Scott Grimes",
+        "character": "Counsel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oB0xperEt45g8Ti6lpObpi6c5XV.jpg"
+      },
+      {
+        "name": "Kurt Koehler",
+        "character": "Thomas Morgan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3MG6176YLqawWp3sjzOMUkiysik.jpg"
+      },
+      {
+        "name": "John Gowans",
+        "character": "Ward Evans",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v1j1HB2Kbg64wXUkivmBrKd3lYa.jpg"
+      },
+      {
+        "name": "Macon Blair",
+        "character": "Lloyd Garrison",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5QkTsGL3deaZTNTTcQ1iKA72Y8o.jpg"
+      },
+      {
+        "name": "Harry Groener",
+        "character": "Senator McGee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3MAsDC1JtNqef1O4MwqakGjJkkI.jpg"
+      },
+      {
+        "name": "Gregory Jbara",
+        "character": "Chairman Magnuson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nYkdyh9E0iNuue8k4437gCWD70G.jpg"
+      },
+      {
+        "name": "Ted King",
+        "character": "Senator Bartlett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6bQ6IGT8lPzDM8Pr7kQ1VfeXREO.jpg"
+      },
+      {
+        "name": "Tim DeKay",
+        "character": "Senator Pastore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m62gS0B5fcQfFpoq2tmJVfpE43x.jpg"
+      },
+      {
+        "name": "Steven Houska",
+        "character": "Senator Scott",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aZHLD1QOEc90t8pJ3SU6T5OmGFa.jpg"
+      },
+      {
+        "name": "Petrie Willink",
+        "character": "Dutch Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gjxKOLnBNkS3lGpRrVreLC4DwgY.jpg"
+      },
+      {
+        "name": "Matthias Schweighöfer",
+        "character": "Werner Heisenberg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i4c5JjvC5EpecZbp4J96mFmtm0Z.jpg"
+      },
+      {
+        "name": "Alex Wolff",
+        "character": "Luis Alvarez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4bvSrFyAVkn4qUvcK7T1KKm7fn2.jpg"
+      },
+      {
+        "name": "Josh Zuckerman",
+        "character": "Rossi Lomanitz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kb0oEHc1a3lZUoPXaSyccfinFOP.jpg"
+      },
+      {
+        "name": "Rory Keane",
+        "character": "Hartland Snyder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hbv61xBI0sQSKg9APeiLUu9DLcd.jpg"
+      },
+      {
+        "name": "Michael Angarano",
+        "character": "Robert Serber",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q4SOVndGsnCmSZKBllLaJCNM72c.jpg"
+      },
+      {
+        "name": "Emma Dumont",
+        "character": "Jackie Oppenheimer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ewbPhI5SRsOFFkHFaIO6Fk24Zfn.jpg"
+      },
+      {
+        "name": "Sadie Stratton",
+        "character": "Mary Washburn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zsWcj39NbRNYURAg25PP9cAiszc.jpg"
+      },
+      {
+        "name": "Britt Kyle",
+        "character": "Barbara Chevalier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u57rMMDOqoNaElIt5X3ykCetDLO.jpg"
+      },
+      {
+        "name": "Guy Burnet",
+        "character": "George Eltenton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ksxpXRLJplv8kSfEHPYdboIwNfi.jpg"
+      },
+      {
+        "name": "Tom Jenkins",
+        "character": "Richard Tolman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qfALI1iNFbc2xNxL9qGPDhlkMkE.jpg"
+      },
+      {
+        "name": "Louise Lombard",
+        "character": "Ruth Tolman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6znYbOI2Z8PfzZ6p9jHG5QdAeb2.jpg"
+      },
+      {
+        "name": "Michael Andrew Baker",
+        "character": "Joe Volpe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yww1ArQy1dRZFu5w7iwpT7AhSfe.jpg"
+      },
+      {
+        "name": "Jeff Hephner",
+        "character": "Congressman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qlIzEnBEuLT9ofE1PCGKKHHGga2.jpg"
+      },
+      {
+        "name": "Olli Haaskivi",
+        "character": "Edward Condon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1KGmjiV9ffm1OMB0ybpdunawswf.jpg"
+      },
+      {
+        "name": "David Rysdahl",
+        "character": "Donald Hornig",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yYTsO3nH4ikZJ3K2XTgQASEOWiU.jpg"
+      },
+      {
+        "name": "Josh Peck",
+        "character": "Kenneth Bainbridge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qoapD8slSdb550o1JEoepv1SvT0.jpg"
+      },
+      {
+        "name": "Jack Quaid",
+        "character": "Richard Feynman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nI6ULvUIxxajya5DeTxcCdV3cal.jpg"
+      },
+      {
+        "name": "Brett DelBuono",
+        "character": "Concerned Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fw41lI6WAHURQymZHMf6cY6pznH.jpg"
+      },
+      {
+        "name": "Gustaf Skarsgård",
+        "character": "Hans Bethe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oH2XSFil6ZHNg9HWur1ymwTLRX3.jpg"
+      },
+      {
+        "name": "James Urbaniak",
+        "character": "Kurt Gödel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7KUK2x6OI5XdPX5xrYAo9hxL49Z.jpg"
+      },
+      {
+        "name": "Trond Fausa Aurvåg",
+        "character": "George Kistiakowsky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rFWC22ZScaQwA85NBo7l1j9XQdo.jpg"
+      },
+      {
+        "name": "Devon Bostick",
+        "character": "Seth Neddermeyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zAdSA85Plp7NzhQeM2w8heHWgEd.jpg"
+      },
+      {
+        "name": "Danny Deferrari",
+        "character": "Enrico Fermi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qdU56yVTNu0SsYqcngTEkIAyB3f.jpg"
+      },
+      {
+        "name": "Christopher Denham",
+        "character": "Klaus Fuchs",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ffPY0KrV5KP9Nuv27m3JQU6j3Tq.jpg"
+      },
+      {
+        "name": "Jessica Erin Martin",
+        "character": "Charlotte Serber",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2x5tuteEkVc7OMKReFYclB60U2A.jpg"
+      },
+      {
+        "name": "Ronald Auguste",
+        "character": "J. Ernest Wilkins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nj5kTBzhi3wduSw4OT3uOzJGwM9.jpg"
+      },
+      {
+        "name": "Máté Haumann",
+        "character": "Leo Szilard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zRAKtRxg83R79LGUB6e6161QGJt.jpg"
+      },
+      {
+        "name": "Olivia Thirlby",
+        "character": "Lilli Hornig",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f6j1Y3C4Td3bmo8xQRGxC7zKgu0.jpg"
+      },
+      {
+        "name": "Jack Cutmore-Scott",
+        "character": "Lyall Johnson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hqSKCld4ISWzgfAKfCt8xrGsWxb.jpg"
+      },
+      {
+        "name": "Harrison Gilbertson",
+        "character": "Philip Morrison",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f40KQcGF4LIXZunBVsqKg25VJmv.jpg"
+      },
+      {
+        "name": "James Remar",
+        "character": "Henry Stimson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
+      },
+      {
+        "name": "Will Roberts",
+        "character": "George C. Marshall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4eiHqFEnZSJA8MZrKNEL1q1MSfx.jpg"
+      },
+      {
+        "name": "Pat Skipper",
+        "character": "James Byrnes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/83kKXFGLe1GDXc1lau63gD5W9uF.jpg"
+      },
+      {
+        "name": "Steve Coulter",
+        "character": "James Conant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qyHhqvKmnriG6wN7tAIUT4Nfrif.jpg"
+      },
+      {
+        "name": "Jeremy John Wells",
+        "character": "AAF Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o47EmPu7GRL9jlhSOezgrrOmnxa.jpg"
+      },
+      {
+        "name": "Sean Avery",
+        "character": "Weatherman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dgr9K0RvbjRdTNb6V2J25QJF68I.jpg"
+      },
+      {
+        "name": "Adam Kroeger",
+        "character": "Army Captain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/esKApCc6fcLekciUuZsrPDbuuwx.jpg"
+      },
+      {
+        "name": "Drew Kenney",
+        "character": "Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w2t0hE68gKSfZ5tUlp9TFTKAf4V.jpg"
+      },
+      {
+        "name": "Bryce Johnson",
+        "character": "AAF Officer 2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iyHjMvKijZZDVZkK681JAio4nAh.jpg"
+      },
+      {
+        "name": "Flora Nolan",
+        "character": "Burn Victim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/XYjrBJUmEFsb5IOTlnV2XeDpxz.jpg"
+      },
+      {
+        "name": "Kerry Westcott",
+        "character": "Laughing Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a6LkiANuO65XXjAUVvHcxhN9Twz.jpg"
+      },
+      {
+        "name": "Christina Hogue",
+        "character": "Kissing Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8jpBmKvOcQ0FmxLR8xmOPMwGGl2.jpg"
+      },
+      {
+        "name": "Clay Bunker",
+        "character": "Kissing Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kZdi9GKA9IQ8rq7twPJaa21jytt.jpg"
+      },
+      {
+        "name": "Tyler Beardsley",
+        "character": "Weeping Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/msjVl2mx3f6ueO5jqQ2zTB2djP3.jpg"
+      },
+      {
+        "name": "Maria Teresa Zuppetta",
+        "character": "Consoling Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4g7MsOr4afJUUop7s9zKPQnpj7Y.jpg"
+      },
+      {
+        "name": "Kate French",
+        "character": "Presidential Aide",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t6yEREUpsFtX4W0pmP8EuOT8jGz.jpg"
+      },
+      {
+        "name": "Gary Oldman",
+        "character": "Harry Truman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+      },
+      {
+        "name": "Hap Lawrence",
+        "character": "Lyndon Johnson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2T6Qg4eF7yMWE50Snk6n5XvA8FK.jpg"
+      },
+      {
+        "name": "Meg Schimelpfenig",
+        "character": "Senator's Assistant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pCFoh39cpYHeD6fZtSehcKsde5.jpg"
+      },
+      {
+        "name": "Matt Snead",
+        "character": "Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lqhW1t9v0gtTtKckljKjT1ee12a.jpg"
+      },
+      {
+        "name": "Troy Bronson",
+        "character": "Joseph W. Kennedy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g79Zkua1qgxZZg8voxPGqwMpEwa.jpg"
+      },
+      {
+        "name": "Andrew Bursiaga",
+        "character": "Male Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q0LgQCTL9mQGN2nyKsj8DFfF4c2.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Christopher Nolan",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "husband wife relationship",
+    "based on novel or book",
+    "politics",
+    "atomic bomb",
+    "professor",
+    "patriotism",
+    "new mexico",
+    "world war ii",
+    "hallucination",
+    "atomic bomb test",
+    "surrealism",
+    "physics",
+    "biography",
+    "berkeley",
+    "based on true story",
+    "physicist",
+    "jewish american",
+    "interrogation",
+    "guilt",
+    "nonlinear timeline",
+    "historical event",
+    "nuclear weapons",
+    "communism",
+    "red scare",
+    "mccarthyism",
+    "top secret project",
+    "moral dilemma",
+    "usa politics",
+    "1940s",
+    "ethics",
+    "quantum physics",
+    "antisemitism",
+    "apocalyptic vision",
+    "new mexico desert",
+    "male protagonist",
+    "20th century",
+    "manhattan project",
+    "affair",
+    "los alamos",
+    "hiroshima and nagasaki bombings"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+    "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bomb, thus helping end World War 2. We see his life from university days all the way to post-WW2, where his fame saw him embroiled in political machinations.—grantss",
+    "J. Robert Oppenheimer, the creator of The Atomic Bomb, is put on trial for his supposed communist ties in the past, all while coming to terms with what it meant to change the history of the world for the sake of winning World War Two. This is the story of how America's Prometheus was cast out by The Gods for giving mankind an unthinkable gift: power unlike any other, the power to destroy the world; the power of Olympus.—Johnny-the-Film-Sentinel-2187",
+    "As America's isolation from World War II ends, prominent American theoretical physicist J. Robert Oppenheimer finds himself tasked with performing a miracle. Driven by fear, with the Germans having an overwhelming head start on the race to develop the atomic bomb, the Allies begin the ambitious Manhattan Project. With Oppenheimer at the helm, the Los Alamos Laboratory spearheads a top-secret government endeavour to weaponise theory before the Nazis do. However, nothing can prepare the world for the outcome of the greatest scientific gamble in history: a closely guarded, multibillion-dollar military programme to end all war. After all, no one can be trusted with such a devastating weapon of mass destruction--not even geniuses.—Nick Riganas"
+  ],
+  "synopsis": "In 1926, 22-year-old doctoral student J. Robert Oppenheimer (Cillian Murphy) grapples with anxiety and homesickness while studying under experimental physicist Patrick Blackett (James D'Arcy) at the Cavendish Laboratory in the University of Cambridge. Patrick did not think much of the American Oppenheimer and insulted him every step of the way.\nUpset with Blackett's attitude, Oppenheimer leaves him a poisoned apple but later retrieves it. Visiting scientist Niels Bohr (Kenneth Branagh) advises Oppenheimer to study theoretical physics at the University of Gottingen instead.Oppenheimer completes his PhD there and meets fellow scientist Isidor Isaac Rabi (David Krumholtz). They later meet theoretical physicist Werner Heisenberg (Matthias Schweighofer) in Switzerland.\nWanting to expand quantum physics research in the United States, Oppenheimer begins teaching at the University of California, Berkeley and the California Institute of Technology. He marries Katherine \"Kitty\" Puening (Emily Blunt), a biologist and ex-communist, and has an intermittent affair with Jean Tatlock (Florence Pugh), a troubled communist who later dies in an apparent suicide.\nIn this period of his life, Oppenheimer is shown to have leftist leaning tendencies and he frequently brings his political thoughts into his classrooms. He was also being investigated by the FBI, though this was unknown to him. He wants to unionize the professors on campus and this alienates many people who like him for his work.\nHe makes contributions through the Communist Party to the Spanish Civil far. Oppenheimer considered the Fascists to be a bigger threat compared to the Socialists, which was contrary to the popular thinking at the time. But he never joins the Communist Party formally.In December 1938, nuclear fission is discovered, which Oppenheimer realizes could be converted into a weapon. Oppenheimer was convinced that the atom could not be split, but when the experiment is replicated in the US and results shown to him, he understands the potential for a chain reaction in fission and that this could be used to make a bomb.\nIn 1939, Hitler invades Poland, and Oppenheimer gradually sheds his views on being neutral and wants to help defeat the Fascists.In 1942, during World War II, U.S. Army Colonel Leslie Groves (Matt Damon)\nrecruits Oppenheimer as director of the Manhattan Project to develop an atomic bomb.\nIn 1942 Oppenheimer, who is Hebrew, is mainly concerned that the German nuclear research program, led by Heisenberg, might yield a fission bomb for the Nazis. Their only hope is that Hitler considers Quantum Physics as a Hebrew science and hence might deny Heisenberg the resources needed to complete his work.\nOppenheimer asks Groves to build the lab at Los Alamos, to bring together the best scientific minds of the country.He assembles a team consisting of Rabi, Hans Bethe (Gustaf Skarsgard) and Edward Teller (Benny Safdie) at the Los Alamos Laboratory, and also collaborating with scientists Enrico Fermi (Danny Deferrari), Leo Szilard (Máté Haumann) and David L. Hill (Rami Malek) at the University of Chicago. Fermi, Szilard and Hill achieve the first self-sustaining nuclear fission reaction, also known as the Chicago-Pile.\nTeller's calculations reveal an atomic detonation could trigger a catastrophic chain reaction that would ignite the atmosphere and destroy the world. After consulting with Albert Einstein (Tom Conti), Oppenheimer concludes the chances are acceptably low. Teller attempts to leave the project after his proposal to construct a hydrogen bomb is rejected (since a small fission bomb is required to produce enough force to develop a fusion device), but Oppenheimer convinces him to stay. At the time the US was struggling to produce barely enough Uranium or Plutonium to even make one bomb.\nOppenheimer is approached by scientists who want him to use unofficial channels to collaborate on their research with the Russians, as the US Government is forbidding to do so. Oppenheimer refutes such attempts as treason but doesn't report such approaches to the FBI.Oppenheimer wanted scientists to know everything end-to-end during the Manhattan project, while Groves wanted compartmentalization of information for security reasons. Oppenheimer overrode Groves to have the cross-department meetings and his own security clearance took its own time to arrive.\nGroves was livid with Oppenheimer for not honoring the security protocols around Project Manhattan and for trying to treat it like a science project. He even met Jean Tatlock in 1943 while he was working on the project.Boris Pash (Casey Affleck) is the head of security for the Manhattan project and knew of Oppenheimer's communist leanings. Oppenheimer tells Groves that he lied to Pash with a story about someone from the Russian embassy approaching a person on the Manhattan project team. But Oppenheimer never shared a name with Pash.\nTo protect Oppenheimer, Groves had Pash transferred to London to keep an eye on the German bomb project.Following Adolf Hitler's death in 1945, some Project scientists question the bomb's relevance through the Szilárd petition; Oppenheimer believes it would end the ongoing Pacific War and save lives.\nThe Trinity test is successful (The test takes place at 5:30 am and produces a force of 18.6 KT when the expected yield was 3 KT. The US spent $2 Bn on the project to produce the first Atomic bomb), and President Harry S. Truman (Gary Oldman) orders the atomic bombings of Hiroshima and Nagasaki, inducing Japan's surrender. Oppenheimer wanted Truman to brief Stalin before using it in Japan, but Truman does no such thing. The Soviets are threatened, and Oppenheimer believes that this started the nuclear arms race.\nThough publicly praised, Oppenheimer is haunted by the mass destruction and fatalities. He later meets Truman, and after expressing his personal guilt, Truman berates Oppenheimer as he considers himself responsible for the decision to use the bomb. Oppenheimer urges restricting further nuclear weapons development, which Truman dismisses.Rear Admiral Lewis Strauss is a retired Naval officer and high-ranking member of the U.S. Atomic Energy Commission (AEC). Strauss had recruited Oppenheimer as a scientific advisor to the AEC, after the war was over.As an advisor to the United States Atomic Energy Commission (AEC), Oppenheimer's stance generates controversy, while Teller's hydrogen bomb receives renewed interest in the middle of the burgeoning Cold War. Oppenheimer says that a Hydrogen presented insurmountable technical difficulties and should not be pursued. He instead tries to convince the AEC to control the spread of nuclear weapons around the world.\nAEC Chairman Lewis Strauss (Robert Downey Jr.) resents Oppenheimer for having publicly humiliated him by dismissing his concerns about exporting radioisotopes (which helped other nations build the Atomic bomb) and for recommending negotiations with the Soviet Union after they successfully detonated their own bomb. Oppenheimer suggested that US and Soviets should offer concessions to each other not to pursue a Hydrogen bomb as if US builds one, Soviets will have no choice to build one as well.\nDespite Oppenheimer's objections, Truman green-lights the H-bomb program.\nStrauss believed that Oppenheimer collaborated with the Russians during the Manhattan project, and this is how they were able to produce a bomb in such a short period after the war.Strauss also believes that Oppenheimer denigrated him during a conversation Oppenheimer had with Einstein in 1947.In 1954, wanting to eliminate Oppenheimer's political influence, Strauss secretly orchestrates a private security hearing before a Personnel Security Board concerning Oppenheimer's Q clearance. However, it becomes clear that the hearing has a predetermined outcome.\nStrauss claims that he was the Chairman of the AEC, but the charges against Oppenheimer were brought by William L. Borden (David Dastmalchian), a lawyer and executive director of the JCAE who wrote to the FBI.\nStrauss claims that Borden was a rabid anti-Communist and had access to Oppenheimer's security file on which he based his claims. It is strongly indicated that Strauss provided Oppenheimer's security file to Borden and used Borden to bring Oppenheimer down.Oppenheimer's past communist ties are exploited, and Groves' and other associates' testimony is twisted against him.\nOppenheimer brought his brother to work on the Manhattan project, and he was a known Communist. This also goes against Oppenheimer.\nTeller testifies that he lacks confidence in Oppenheimer and recommends revocation. Groves supports Oppenheimer.\nThe entire review was done behind closed doors, as an administrative process, with no public hearing and no burden of proof on the prosecution. Roger Robb (Jason Clarke) served as special counsel to the AEC at Oppenheimer's security hearing and was appointed by Strauss. He had full access to Oppenheimer's file while Oppenheimer's attorney didn't have access to his client's file.\nThe board revokes Oppenheimer's Q clearance, damaging his public image and limiting his influence on nuclear policy.In 1959, during Strauss' Senate confirmation hearing for Secretary of Commerce, Hill testifies about Strauss' personal motives in engineering Oppenheimer's downfall, resulting in the Senate voting against his nomination.In 1963, President Lyndon B. Johnson (Hap Lawrence) presents Oppenheimer with the Enrico Fermi Award as a gesture of political rehabilitation.\nA flashback reveals Oppenheimer and Einstein's 1947 conversation never mentioned Strauss. Oppenheimer instead expressed his belief that they had indeed started a chain reaction-a nuclear arms race-that would one day destroy the world.",
+  "imdb_score": 8.4
+}

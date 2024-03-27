@@ -1,0 +1,861 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/mxf8hJJkHTCqZP3m4o8E1TtwHHs.jpg",
+  "id": 872,
+  "title": "Singin' in the Rain",
+  "poster_path": "https://image.tmdb.org/t/p/w500/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+  "release_date": "1952-04-09",
+  "vote_average": 8.169,
+  "vote_count": 2937,
+  "popularity": 36.21,
+  "overview": "In 1927 Hollywood, a silent film production company and cast make a difficult transition to sound.",
+  "imdb_id": "tt0045152",
+  "budget": 2540800,
+  "homepage": "",
+  "revenue": 7200000,
+  "runtime": 103,
+  "tagline": "What a Glorious Feeling!",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    "Metro-Goldwyn-Mayer",
+    "MGM"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Gene Kelly",
+        "character": "Don Lockwood",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qpxdcekD3x77J6dIxMOUfJifu49.jpg"
+      },
+      {
+        "name": "Donald O'Connor",
+        "character": "Cosmo Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sV7Dx16wcajPsxJItmW5dX4axoW.jpg"
+      },
+      {
+        "name": "Debbie Reynolds",
+        "character": "Kathy Selden",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2jG8pk5fr9ZgCQOH1cLVDWbbwBK.jpg"
+      },
+      {
+        "name": "Jean Hagen",
+        "character": "Lina Lamont",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uUnhlVfuVVoXH8zPBAAQJn446W3.jpg"
+      },
+      {
+        "name": "Millard Mitchell",
+        "character": "R.F. Simpson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/elMhz4DvHUu5OK8hdC3cpzPwGEk.jpg"
+      },
+      {
+        "name": "Cyd Charisse",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ebNqHqWlumC2c3L6wFEW6fUCscK.jpg"
+      },
+      {
+        "name": "Douglas Fowley",
+        "character": "Roscoe Dexter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zsgxWLXCHdMKJrsCI8dRWs4IEEk.jpg"
+      },
+      {
+        "name": "Rita Moreno",
+        "character": "Zelda Zanders",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zB0M77jr7tmsmWHEr2bWO2Xq66L.jpg"
+      },
+      {
+        "name": "Mae Clarke",
+        "character": "Hairdresser (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9eKCjCHX920LGK0DhAmWExZ6mib.jpg"
+      },
+      {
+        "name": "Bess Flowers",
+        "character": "Audience Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bTeLHYMnODJNJnlbkH0QXI87cDF.jpg"
+      },
+      {
+        "name": "Robert Foulk",
+        "character": "Matt - Policeman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jrJcoyksfLvnHgthmQHba2gwKWK.jpg"
+      },
+      {
+        "name": "Kathleen Freeman",
+        "character": "Phoebe Dinsmore (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pAlKHL8sshImJPCN45iQ5PGuURZ.jpg"
+      },
+      {
+        "name": "Joi Lansing",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oHHcOp6G3OQOjcePv2xIa0BJsc.jpg"
+      },
+      {
+        "name": "Sylvia Lewis",
+        "character": "Female Tango Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1X2BoJwngkc46J2wpnUk2KaWTp8.jpg"
+      },
+      {
+        "name": "Harry 'Snub' Pollard",
+        "character": "Old Man Getting Umbrella in \"Singin' in the Rain\" Number (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/srCQa37TG3RHKx5PuthzjsTpe6n.jpg"
+      },
+      {
+        "name": "William Schallert",
+        "character": "Messenger on Screen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/862YCXRbmhADXVC0RaxfwNT9g4E.jpg"
+      },
+      {
+        "name": "Elaine Stewart",
+        "character": "Lady-in-Waiting (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rbMTE2NitqDD3fsfxxvS1O1xsP9.jpg"
+      },
+      {
+        "name": "Brick Sullivan",
+        "character": "Policeman in \"Singin' in the Rain\" Number (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John George",
+        "character": "Audience Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/67eRsXH4BISHgoKXpLODrgSn4PN.jpg"
+      },
+      {
+        "name": "King Donovan",
+        "character": "Rod (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wyLgxA4EwT1PdYD28Ya1Z1IvWO.jpg"
+      },
+      {
+        "name": "Lana Turner",
+        "character": "Actress in 'The Royal Rascal' (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ylC7Oy15yKG29QuP5SIYnPbNC3L.jpg"
+      },
+      {
+        "name": "Allen Sutherland",
+        "character": "Don as a Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Dawn Addams",
+        "character": "Teresa - a Lady-in-Waiting (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jdkF0IUkajyfcyKtD1OB3RqC2M4.jpg"
+      },
+      {
+        "name": "John Albright",
+        "character": "Call Boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Betty Van Allen",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sue Allen",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marie Ardell",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bette Arlen",
+        "character": "'Miss January' in 'Beautiful Girl' segment (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "David Bair",
+        "character": "Chorus Boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jimmy Bates",
+        "character": "Boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary Bayless",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcella Becker",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Margaret Bert",
+        "character": "Wardrobe Woman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Madge Blake",
+        "character": "Dora Bailey (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c53nYlnXJXOLng6Xi5AZ5L1IXz7.jpg"
+      },
+      {
+        "name": "Lulu Mae Bohrman",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gail Bonney",
+        "character": "Audience Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wQlgK78rK8qLQqdeIVNDsx2NIW2.jpg"
+      },
+      {
+        "name": "Chet Brandenburg",
+        "character": "Film Crew Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eqfca5056LyAPwYwRGdUow9cH3o.jpg"
+      },
+      {
+        "name": "Tex Brodus",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Barbara Carroll",
+        "character": "'Miss February' in 'Beautiful Girl' Segment (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A1Wtt8bWH1h2BMAkZTeef9jMCx1.jpg"
+      },
+      {
+        "name": "Gwen Carter",
+        "character": "Girl Talking with Cosmo at Party (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Chatham",
+        "character": "Chorus Boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lyle Clark",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dorinda Clifton",
+        "character": "'Miss August' in 'Beautiful Girl' segment (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/doO854S8ioZ4nmaU2x1hQ207VFf.jpg"
+      },
+      {
+        "name": "Harry Cody",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chick Collins",
+        "character": "Fencer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Pat Conway",
+        "character": "Projectionist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeanne Coyne",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ruby C. Currie",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Fred Datig Jr.",
+        "character": "Movie Usher (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bert Davidson",
+        "character": "Sound Engineer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Dayo",
+        "character": "Chorus Boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gloria Dea",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5wH3JXNmXgESuWbRmQ8JT5zgzIH.jpg"
+      },
+      {
+        "name": "Patricia Denise",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Harry Denny",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kay Deslys",
+        "character": "Audience Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Ah684Xuu3kxRqdSlRrgrKNtGm1l.jpg"
+      },
+      {
+        "name": "John Dodsworth",
+        "character": "Baron de la Ma de la Toulon (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Dugan",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Phil Dunham",
+        "character": "Audience Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/trbVo7S3tp02OY6bzFBP77Kaa2g.jpg"
+      },
+      {
+        "name": "Helen Eby-Rock",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Emory",
+        "character": "Phil - Villain in Barroom Brawl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Betty Erbes",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Evans",
+        "character": "Audience Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4weMqu1oHEetYcIXsaXSBYNlXVU.jpg"
+      },
+      {
+        "name": "Tommy Farrell",
+        "character": "Sid Phillips (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i59xkRqsK6q6uEwn0tkkTlXfJ11.jpg"
+      },
+      {
+        "name": "Ernie Flatt",
+        "character": "Chorus Boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "George Ford",
+        "character": "Security Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Fortier",
+        "character": "Gangster in Broadway Melody Ballet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uRNreur22T2tnlzYOPEEJJGliEg.jpg"
+      },
+      {
+        "name": "Dan Foster",
+        "character": "Assistant Director (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Clair Freeman",
+        "character": "Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lance Fuller",
+        "character": "Chorus Boy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mwVv57nP36YgbMFTEAcqOWPDidj.jpg"
+      },
+      {
+        "name": "Doris Fulton",
+        "character": "'Miss October' in 'Beautiful Girl' Segment (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeanne Gail",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/drHkehM1h92oi06I2Fa3XiqVimP.jpg"
+      },
+      {
+        "name": "Glen Gallagher",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jon Gardner",
+        "character": "Kid (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Diane Garrett",
+        "character": "Usherette (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack George",
+        "character": "Orchestra Leader (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kenneth Gibson",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mickey Golden",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Inez Gorman",
+        "character": "Mrs. Simpson (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "A. Cameron Grant",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Beatrice Gray",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marion Gray",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Haines",
+        "character": "Awards Ceremony Attendee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "William Hamel",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Betty Hannon",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sam Harris",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean Harrison",
+        "character": "'Miss April' in 'Beautiful Girl' Segment (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Timmy Hawkins",
+        "character": "Boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Hendricks",
+        "character": "Film Crew Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lars Hensen",
+        "character": "Minor Role (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean Heremans",
+        "character": "Fencer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Stuart Holmes",
+        "character": "J. Cumberland Spendrill III (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s22P75fI3Mt5D8TbNTIEnSuSQIX.jpg"
+      },
+      {
+        "name": "Don Hulbert",
+        "character": "Chorus Boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Hyers",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Patricia Jackson",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ivor James",
+        "character": "Chorus Boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Morgan Jones",
+        "character": "Audience Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7mvVx0ePiHuXsanHt4iBPmcxYYo.jpg"
+      },
+      {
+        "name": "David Kasday",
+        "character": "Kid (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jan Kayne",
+        "character": "Usherette (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jimmy Kelly",
+        "character": "Chorus Boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kenner G. Kemp",
+        "character": "Police Escort at Premiere (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mz41FbZ3IlzpcLBI0IxjS3Jr1lB.jpg"
+      },
+      {
+        "name": "Mike Lally",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Judy Landon",
+        "character": "Olga Mara (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w5q1sERGoTPOB7SLFD6oblO8Lgg.jpg"
+      },
+      {
+        "name": "Joi Lansing",
+        "character": "'Miss November' in 'Beautiful Girl' segment (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oHHcOp6G3OQOjcePv2xIa0BJsc.jpg"
+      },
+      {
+        "name": "Janet Lavis",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Virginia Lee",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Meredith Leeds",
+        "character": "'Miss December' in 'Beautiful Girl' Segment (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "William F. Leicester",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Peggy Leon",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Diki Lerner",
+        "character": "Male Tango Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Lewin",
+        "character": "Bert - Cowboy Knocked Out in Barroom Brawl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "King Lockwood",
+        "character": "Assistant Cameraman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Leon Lontoc",
+        "character": "Filipino Butler (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j7wHzdvQZ6WGexRF1jB8KO0xKoX.jpg"
+      },
+      {
+        "name": "Leota Lorraine",
+        "character": "Film Crew Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aDUkQFvZayNAM9Q4qkaKJ8PMPdt.jpg"
+      },
+      {
+        "name": "Paul Maxey",
+        "character": "Dancing Fat Man at Party (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AnJk4FnJ64z4Xw9nuv9rGApeEX1.jpg"
+      },
+      {
+        "name": "Dorothy McCarty",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ann McCrea",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vNmezHfnfgKmkWHfnXBYTOhldCm.jpg"
+      },
+      {
+        "name": "Philo McCullough",
+        "character": "Audience Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3rRW4z7GBHrXMzGNvTJldipaLBF.jpg"
+      },
+      {
+        "name": "Ray McDonald",
+        "character": "Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sdKjmG93Q7er1IzjYig7nT0LkTF.jpg"
+      },
+      {
+        "name": "Johnny McGovern",
+        "character": "Boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Mell",
+        "character": "Projectionist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k6zREpfzeDA2sqdknuKX0FRDIry.jpg"
+      },
+      {
+        "name": "Carl Milletaire",
+        "character": "Villain (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mlz3QlxebYudUYQPMEECqADVPt3.jpg"
+      },
+      {
+        "name": "Gloria Moore",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Forbes Murray",
+        "character": "Club Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/twfHU2COpK8F40toerX502dywIb.jpg"
+      },
+      {
+        "name": "Peggy Murray",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Anne Neyland",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nUtavCgL4erXhhlPPvFi6isEFwt.jpg"
+      },
+      {
+        "name": "Ruth Packard",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dorothy Patrick",
+        "character": "Usherette (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iedaRVybDjhOrlN5XmweCQA8dYk.jpg"
+      },
+      {
+        "name": "Allen Pinson",
+        "character": "Fencer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Angi O. Poulos",
+        "character": "Fruit Peddler (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "George Reeder",
+        "character": "Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Regan",
+        "character": "Saloon Keeper (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Shirley Jean Rickert",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/itiX2JhBH45IFS5LOKhJbyILueJ.jpg"
+      },
+      {
+        "name": "Joanne Rio",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Rocket",
+        "character": "Man in Forecourt (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Romito",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dennis Ross",
+        "character": "Cosmo as a Boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Salata",
+        "character": "Chorus Boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Cosmo Sardo",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Phil Schumacher",
+        "character": "Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Betty Scott",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "David Sharpe",
+        "character": "Fencer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cyLoiW8jhViXmDGiIgtru2MuLxQ.jpg"
+      },
+      {
+        "name": "Julius Tannen",
+        "character": "Man in Talking Pictures Demonstration (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/98ZI56IGsxBlbBnHA5apZEPJvkr.jpg"
+      },
+      {
+        "name": "Harry Tenbrook",
+        "character": "Sound Technician (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/huE2pp39vwaVTykcU3DoCw4kifL.jpg"
+      },
+      {
+        "name": "Beverly Thomas",
+        "character": "'Miss March' in 'Beautiful Girl' Segment (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Beverly Thompson",
+        "character": "'Miss June' in 'Beautiful Girl' Segment (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jimmy Thompson",
+        "character": "Singer in 'Beautiful Girl' Segment (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dee Turnell",
+        "character": "'Miss July' in 'Beautiful Girl' segment (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dorothy Tuttle",
+        "character": "Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tyra Vaughn",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Pat Walker",
+        "character": "'Miss September' in 'Beautiful Girl' Segment (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tommy Walker",
+        "character": "Chorus Boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bobby Watson",
+        "character": "Diction Coach (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e9vPOr45AONAPaO600WcX49wNLF.jpg"
+      },
+      {
+        "name": "Chalky Williams",
+        "character": "Awards Ceremony Attendee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert B. Williams",
+        "character": "Policeman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fDEkRqtvUzwcZd7VzW7A7UZG6ku.jpg"
+      },
+      {
+        "name": "Wilson Wood",
+        "character": "Rudy Vallee Impersonator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Adam York",
+        "character": "Publicity Man (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Norma Zimmer",
+        "character": "Chorus Girl (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Stanley Donen",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hvRi8etQyf6Zfh7MRsRP0pBR9Om.jpg"
+      },
+      {
+        "name": "Gene Kelly",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qpxdcekD3x77J6dIxMOUfJifu49.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "fan",
+    "musical",
+    "partner",
+    "film in film",
+    "hollywood",
+    "broadway",
+    "dancing in the street",
+    "audience",
+    "chorus girl",
+    "diction coach",
+    "pearl necklace",
+    "flapper",
+    "silent film star",
+    "squeaky voice",
+    "1920s",
+    "old hollywood",
+    "talkies",
+    "dancing in the rain"
+  ],
+  "mpaa": "G",
+  "summaries": [
+    "A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.",
+    "1927 Hollywood. Monumental Pictures' biggest stars, glamorous on-screen couple Lina Lamont and Don Lockwood, are also an off-screen couple if the trade papers and gossip columns are to be believed. Both perpetuate the public perception if only to please their adoring fans and bring people into the movie theaters. In reality, Don barely tolerates her, while Lina, despite thinking Don beneath her, simplemindedly believes what she sees on screen in order to bolster her own stardom and sense of self-importance. R.F. Simpson, Monumental's head, dismisses what he thinks is a flash in the pan: talking pictures. It isn't until The Jazz Singer (1927) becomes a bona fide hit which results in all the movie theaters installing sound equipment that R.F. knows Monumental, most specifically in the form of Don and Lina, have to jump on the talking picture bandwagon, despite no one at the studio knowing anything about the technology. Musician Cosmo Brown, Don's best friend, gets hired as Monumental's ideas man and musical director. And by this time, Don has secretly started dating Kathy Selden, a chorus girl who is trying to make it big in pictures herself. Don and Kathy's relationship is despite their less than friendly initial meeting. Cosmo and Kathy help Don, who had worked his way up through the movie ranks to stardom, try make the leap to talking picture stardom, with Kathy following along the way. However, they have to overcome the technological issues. But the bigger problem is Lina, who will do anything to ensure she also makes the successful leap into talking pictures, despite her own inabilities and at anyone and everyone else's expense if they get in her way, especially Kathy as Don's off screen girlfriend and possibly his new talking picture leading lady.—Huggo",
+    "Taking place during the rise of the \"talkies\", we meet Don Lockwood and Lina Lamont who have risen to stardom during the silent-film era of Hollywood. Beautiful, charismatic and influential, the two combine to make a great on-screen pair. The introduction of talking pictures poses a threat to the powerful duo, however, when it is discovered by audiences that Lina has an excruciatingly shrill voice. Enter young studio singer Kathy Selden, a woman who lacks the stardom of Ms. Lamont but possesses the beautiful voice of which Lina is in dire need. Can Don and Lina find a solution to Lina's laughably annoying voice to salvage their careers?—Kyle Perez",
+    "In 1927, Don Lockwood and Lina Lamont are a famous on-screen romantic pair. Lina, however, mistakes the on-screen romance for real love. Don has worked hard to get where he is today, with his former partner Cosmo. When Don and Lina's latest film is transformed into a musical, Don has the perfect voice for the songs. But Lina - well, even with the best efforts of a diction coach, they still decide to dub over her voice. Kathy Selden is brought in, an aspiring actress, and while she is working on the movie, Don falls in love with her. Will Kathy continue to \"aspire\", or will she get the break she deserves ?—Colin Tinto <cst@imdb.com>",
+    "1927: Don Lockwood and Lina Lamont are the darlings of the silent silver screen. Offscreen, Don, aided by his happy-go-lucky friend and piano accompanist, Cosmo Brown, has to dodge Lina's romantic overtures, especially when he falls for chorus girl Kathy Selden. With the advent of sound in motion pictures, it is decided to turn Don and Lina's new film into a \"talkie\" and a musical at that. The only problem is Lina's voice, which mere words cannot describe. Thus, Kathy is brought on to dub her speaking and singing voice in secret, and Don's on top of the world. But then Lina finds out...—Tommy Peter"
+  ],
+  "synopsis": "Don Lockwood (Gene Kelly) is a popular silent film star with humble roots as a singer, dancer and stunt man. Don barely tolerates his vapid, shallow leading lady, Lina Lamont (Jean Hagen), who has convinced herself that the fake romance their studio concocted and publicized is real.One day, to escape from overenthusiastic fans, Don jumps into a passing car driven by Kathy Selden (Debbie Reynolds). She drops him off, but not before claiming to be a stage actress and sneering at his undignified accomplishments as a cinema actor. Later, at a party, the head of Don's studio, R.F. Simpson (Millard Mitchell), shows a short demonstration of a talking picture, but his guests are unimpressed. Don runs into Kathy again at the party. To his amusement and her embarrassment, he discovers that Kathy is only a chorus girl, part of the entertainment. Furious, she throws a pie at him, only to hit Lina right in the face. Later, Don makes up with Kathy and they begin falling in love.After the first talking picture, The Jazz Singer, proves to be a smash hit, R.F. decides he has no choice but to convert the new Lockwood and Lamont film, The Dueling Cavalier, into a talkie. The production is beset with difficulties (most, if not all, taken from real life), by far the worst being Lina's comically grating voice. A test screening is a disaster. In one scene, for instance, Don repeats \"I love you\" to Lina over and over, to the audience's derisive laughter (a reference to a scene by John Gilbert in his first talkie[2]).Don's best friend, Cosmo Brown (Donald O'Connor), comes up with the idea to overdub Lina's voice with Kathy's and they persuade R.F. to turn The Dueling Cavalier into a musical called The Dancing Cavalier. When Lina finds out that Kathy is dubbing her voice, she is furious and does everything possible to sabotage the romance between Don and Kathy. She is even more irate when she discovers that Kathy will receive screen credit and a big publicity campaign, so she blackmails R.F. into withholding credit, and, later, demands that Kathy (a contract player) continue to do so in the future.The premiere of The Dueling Cavalier is a tremendous success. When the audience clamors for Lina to sing live, Don, Cosmo and R.F. improvise and get Lina to lip-synch while Kathy sings into a second microphone while hidden behind the curtain. Unbeknownst to Lina, as she starts \"singing\", Don, Cosmo and R.F. gleefully open the curtain behind her, revealing the deception Lina flees in embarrassment. When Kathy tries to run away as well, Don has her stopped and introduces the audience to \"the real star of the film\".Dan and Kathy start singing a love song. Final cue of they both kissing in front of a huge billboard advertising the film \"Singin' in the Rain\" with Don Lockwood and Kathy Selden.",
+  "imdb_score": 8.3
+}

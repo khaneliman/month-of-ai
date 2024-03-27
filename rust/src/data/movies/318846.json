@@ -1,0 +1,536 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/i7UCf0ysjbYYaqcSKUox9BJz4Kp.jpg",
+  "id": 318846,
+  "title": "The Big Short",
+  "poster_path": "https://image.tmdb.org/t/p/w500/isuQWbJPbjybBEWdcCaBUPmU0XO.jpg",
+  "release_date": "2015-12-11",
+  "vote_average": 7.35,
+  "vote_count": 8547,
+  "popularity": 35.543,
+  "overview": "The men who made millions from a global economic meltdown.",
+  "imdb_id": "tt1596363",
+  "budget": 28000000,
+  "homepage": "http://www.thebigshortmovie.com",
+  "revenue": 133346506,
+  "runtime": 131,
+  "tagline": "This is a true story.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    "Paramount",
+    "Regency Enterprises",
+    "Plan B Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Christian Bale",
+        "character": "Michael Burry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b7fTC9WFkgqGOv77mLQtmD4Bwjx.jpg"
+      },
+      {
+        "name": "Steve Carell",
+        "character": "Mark Baum",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dzJtsLspH5Bf8Tvw7OQC47ETNfJ.jpg"
+      },
+      {
+        "name": "Ryan Gosling",
+        "character": "Jared Vennett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+      },
+      {
+        "name": "Brad Pitt",
+        "character": "Ben Rickert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+      },
+      {
+        "name": "Melissa Leo",
+        "character": "Georgia Hale",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ueAIX0MH68xCei3N8vFLS0EUEjY.jpg"
+      },
+      {
+        "name": "Hamish Linklater",
+        "character": "Porter Collins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hByas1g3htnZFWIbCBdbxC7vGeS.jpg"
+      },
+      {
+        "name": "John Magaro",
+        "character": "Charlie Geller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zxVRzgOOV2Bg9GkjbaXKYl5nO00.jpg"
+      },
+      {
+        "name": "Rafe Spall",
+        "character": "Danny Moses",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5tGhC9MGT4FGaJHr2LGYcRV4rbJ.jpg"
+      },
+      {
+        "name": "Jeremy Strong",
+        "character": "Vinny Daniel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jcMhXWICSi4QjQttJVhFSiKVvpF.jpg"
+      },
+      {
+        "name": "Finn Wittrock",
+        "character": "Jamie Shipley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gwGMGTmli0uBF7eAhhXePWhYNFJ.jpg"
+      },
+      {
+        "name": "Marisa Tomei",
+        "character": "Cynthia Baum",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5w6qM8FWsl5SutKSpx6Va64eCTE.jpg"
+      },
+      {
+        "name": "Tracy Letts",
+        "character": "Lawrence Fields",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pLNlJhogyILFhWscdXtEMmAb9NN.jpg"
+      },
+      {
+        "name": "Byron Mann",
+        "character": "Mr. Chau",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lJXes5cQU2a3x5V4auFV4CFyrYB.jpg"
+      },
+      {
+        "name": "Adepero Oduye",
+        "character": "Kathy Tao",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w9axk9dSTVpZPnoDH08iClklmF4.jpg"
+      },
+      {
+        "name": "Karen Gillan",
+        "character": "Evie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6WgDVH5OiR0gZ6WlQZSWgv3Wl1U.jpg"
+      },
+      {
+        "name": "Max Greenfield",
+        "character": "Mortgage Broker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kjm6oqNJx4WYVlKa2k7d6nZPOQ2.jpg"
+      },
+      {
+        "name": "Billy Magnussen",
+        "character": "Mortgage Broker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bA38HDFxJtwSV4OgSo3yJ1u9H2J.jpg"
+      },
+      {
+        "name": "Rudy Eisenzopf",
+        "character": "Lewis Ranieri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1pDV75qlQwWZ7wLWoE5zenedYBe.jpg"
+      },
+      {
+        "name": "Casey Groves",
+        "character": "Fund Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6jtWCb1LvJbLhcmtcWaf97PkK3H.jpg"
+      },
+      {
+        "name": "Charlie Talbert",
+        "character": "Lewis Bond Trader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4OHHVt0BtpfSYcOTbQTejplFEtD.jpg"
+      },
+      {
+        "name": "Harold Gervais",
+        "character": "Lewis Bond Trader",
+        "profile_path": ""
+      },
+      {
+        "name": "Maria Frangos",
+        "character": "Exotic Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Hunter Burke",
+        "character": "Analyst",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ibR2TL9jwKVDr9E3VJRnPcgcvHN.jpg"
+      },
+      {
+        "name": "Bernard Hocke",
+        "character": "Coach",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hb7Poj1clhZJFSWxNlF81LH5wlx.jpg"
+      },
+      {
+        "name": "Shauna Rappold",
+        "character": "Michael Burry's Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hFjrklHgOFcjjTRLkYHoFEsYUXm.jpg"
+      },
+      {
+        "name": "Brandon Stacy",
+        "character": "Michael Burry's Dad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tV5QWd1by87AvSG24lqASmgLhD9.jpg"
+      },
+      {
+        "name": "Aiden Flowers",
+        "character": "Young Michael Burry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gKW6jxWfsiYGkKXNBfu2ZEylI2S.jpg"
+      },
+      {
+        "name": "Peter Epstein",
+        "character": "Paul Baum",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qXKeOljIVFhHTqMcqWc3YG5UC8e.jpg"
+      },
+      {
+        "name": "Anthony Marble",
+        "character": "Therapy Businessman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1dkH6gSICsz2NBiQ14ghGbTBkj6.jpg"
+      },
+      {
+        "name": "Silas Cooper",
+        "character": "Therapy Businessman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i3y4kuWJdYKgfLfpz0fJTsgwcSH.jpg"
+      },
+      {
+        "name": "Leslie Castay",
+        "character": "Therapist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zOdwk0PMnDoGZFLw1j43mywYRIT.jpg"
+      },
+      {
+        "name": "Andrew Farrier",
+        "character": "Burry's Analyst",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9xKtJIki6xZuJLVTCCdlc4Ex4Cv.jpg"
+      },
+      {
+        "name": "Ingrid Steed",
+        "character": "Lawrence Fields' Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Vanessa Cloke",
+        "character": "Goldman Sachs Sales Rep (Lucy)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vaZcJGdksh4TltrmxWZgrL9z5Cb.jpg"
+      },
+      {
+        "name": "David Zalkind",
+        "character": "Rabbi",
+        "profile_path": ""
+      },
+      {
+        "name": "Carrie Lazar",
+        "character": "Mark Baum's Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j93VdcDjrsC75KobRSpZiNognVB.jpg"
+      },
+      {
+        "name": "Mychael Bates",
+        "character": "Man Stealing Cab",
+        "profile_path": ""
+      },
+      {
+        "name": "Rajeev Jacob",
+        "character": "Goldman Sachs Quant (Deeb)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/epAAdVQJRzjDAMD02s8K9Inw4hJ.jpg"
+      },
+      {
+        "name": "Jay Potter",
+        "character": "Deutsche Sales Rep",
+        "profile_path": "https://image.tmdb.org/t/p/w185/19FdIURTWNY3NDooD99DT9DD063.jpg"
+      },
+      {
+        "name": "Garrett Hines",
+        "character": "Deutsche Sales Rep",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AsEyJj9sYLFNypvn3tU0teWHm6g.jpg"
+      },
+      {
+        "name": "Ryan Broussard",
+        "character": "Trader at Night Club",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9IJCebw6L5GTUfPEoonKYqwRQC6.jpg"
+      },
+      {
+        "name": "Jeffry Griffin",
+        "character": "Jared's Assistant (Chris)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/znDNBzTF7goYPqhIG63d32FEu1L.jpg"
+      },
+      {
+        "name": "Stanley Wong",
+        "character": "Ted Jiang",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tj1dCfIUQMJrgs08PYNjW40LHtM.jpg"
+      },
+      {
+        "name": "Anthony Bourdain",
+        "character": "Himself",
+        "profile_path": "https://image.tmdb.org/t/p/w185/436fCoWkAuNxMeVJU1UBktwpK6O.jpg"
+      },
+      {
+        "name": "Joseph Brooks",
+        "character": "Banker at Goldman Sachs",
+        "profile_path": "https://image.tmdb.org/t/p/w185/87fpWHCg785NlswOMjjJfxtc3a.jpg"
+      },
+      {
+        "name": "Colette Divine",
+        "character": "B of A Lobby Security",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uAcCdIFh0nbnzqMjm3KPxKwFrqc.jpg"
+      },
+      {
+        "name": "Oscar Gale",
+        "character": "Tattooed Renter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7f1RM3u0RMWr9H0FAkn6e2Ams6h.jpg"
+      },
+      {
+        "name": "Cayden Arthur Miscally",
+        "character": "Tattooed Man's Son",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave Davis",
+        "character": "Burry's Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9cPhpNYacn5Lc8bUIWX44Lj5K0z.jpg"
+      },
+      {
+        "name": "Wayne Pére",
+        "character": "Martin Blaine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lwXHBf6Iy627B7wLgzIy43NKzRi.jpg"
+      },
+      {
+        "name": "Kate Blumberg",
+        "character": "Real Estate Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iwRcCIY3kKpQpM5PcwTNEDNhXzx.jpg"
+      },
+      {
+        "name": "Billy Slaughter",
+        "character": "Real Estate Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wyKVHwnFodOmNsTgDTcL1GlJzqa.jpg"
+      },
+      {
+        "name": "Heighlen Boyd",
+        "character": "Florida Strip Club Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/76QAr1CmnkXnPTuNmk3WGcwPeOl.jpg"
+      },
+      {
+        "name": "Ilan Muallem",
+        "character": "Noah",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9XaGgOl1IrdAOafESWvqKcYqxiP.jpg"
+      },
+      {
+        "name": "Jay Jablonski",
+        "character": "Rich Bear Rep (Matt)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/acfpO3CqZWec1yV1PWV57TPjq5u.jpg"
+      },
+      {
+        "name": "Blaine Kern III",
+        "character": "Second Bear Rep",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ajXDuVsiEeNSJ1US1tWRRmKNGNs.jpg"
+      },
+      {
+        "name": "Al Sapienza",
+        "character": "Option One CEO",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tqgr67aRg1OuuRhQFd8I3JduSRD.jpg"
+      },
+      {
+        "name": "Marcus Lyle Brown",
+        "character": "Merrill Lynch Rep",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zHsqlROpMRsvtW70bgbkSEqakCd.jpg"
+      },
+      {
+        "name": "Tyler Kunkle",
+        "character": "Doug from Goldman Sachs",
+        "profile_path": ""
+      },
+      {
+        "name": "Elliott Grey",
+        "character": "Montage Lehman Rep",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eZjFgbAWvGKesqj74Sj3T3BwyDn.jpg"
+      },
+      {
+        "name": "Jason Bayle",
+        "character": "Montage Goldman Sachs Rep",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tAKsOGYYc4OlIqzx9D5HJnF6jJc.jpg"
+      },
+      {
+        "name": "Richard Thaler",
+        "character": "Himself",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zO0hHfoisu5Sx5VGMaV6Wuhc4Id.jpg"
+      },
+      {
+        "name": "Sophie Lee",
+        "character": "Woman in Glasses",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Aaron Santos",
+        "character": "Businessman at Casino",
+        "profile_path": ""
+      },
+      {
+        "name": "David Kallaway",
+        "character": "Guy in Game Jersey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8aLofxx0W42xhLH3mPAZT6rcGoT.jpg"
+      },
+      {
+        "name": "Sharon Landry",
+        "character": "Woman at Casino",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uABdE5wKu3c2KkqaJw6IcYXool9.jpg"
+      },
+      {
+        "name": "James Yeargain",
+        "character": "Fields' Lawyer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lyle Brocato",
+        "character": "Casey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4gFVXLTZscu5ERKDAQ4WcwL7JqJ.jpg"
+      },
+      {
+        "name": "Kelly Lind",
+        "character": "Front Point Receptionist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rhYFDPEqCf0UsRO0kPPQdwWmdiH.jpg"
+      },
+      {
+        "name": "Michael Brooks",
+        "character": "Angry Guy on the Phone",
+        "profile_path": ""
+      },
+      {
+        "name": "Lyndsay Kimball",
+        "character": "Diner Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bgGOv4E1xEz7vTExBrzZhwixYUN.jpg"
+      },
+      {
+        "name": "Robyn Wholey",
+        "character": "Spin Class Instructor",
+        "profile_path": ""
+      },
+      {
+        "name": "David Wyman",
+        "character": "Pub Goer",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Anderson",
+        "character": "Pub Goer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lara Grice",
+        "character": "Deutsche Auditorium Host",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kDJ5sBQPoMqhSPpLXa0IaQ8Gc0e.jpg"
+      },
+      {
+        "name": "Tony Bentley",
+        "character": "Bruce Miller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/B9yTYyLEtxEkPdDSJ5J1dVeUgE.jpg"
+      },
+      {
+        "name": "Michael Kives",
+        "character": "Banker in Deutsche Auditorium",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Millard",
+        "character": "Lehman Executive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cPHJ7lUsmaCyLLF4wt6X4Nl3q5V.jpg"
+      },
+      {
+        "name": "John Neisler",
+        "character": "Seminar Leader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aqiGoMdBALTm35N1PvXliLQ5jsO.jpg"
+      },
+      {
+        "name": "Michael Joseph Varino",
+        "character": "35 to 1 Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Joel Diggs",
+        "character": "Cab Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael J. Stein",
+        "character": "Banker 1979",
+        "profile_path": ""
+      },
+      {
+        "name": "Logan Crawford",
+        "character": "News Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bJhvtiLihpOwMVZsslqSDSNG8Je.jpg"
+      },
+      {
+        "name": "Tim Wilson",
+        "character": "Lehman Employee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xM5I8AVyXkAPHw0JB3BdaIKJIgk.jpg"
+      },
+      {
+        "name": "Jae Suh Park",
+        "character": "Michael Burry's Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6mDkrTRtIrPEV4DpCdfnkrVCYjY.jpg"
+      },
+      {
+        "name": "Colin Lawless",
+        "character": "Nicolas Burry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lY8bIN6klKfP4sm2J3G8ECilVRK.jpg"
+      },
+      {
+        "name": "Selena Gomez",
+        "character": "Selena Gomez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A0c65UGruIq9HNfbHpQxR2TfiEi.jpg"
+      },
+      {
+        "name": "Sue-Lynn Ansari",
+        "character": "Swimmer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lJuW2N6JhG2GJTulmkJYzQXvhvA.jpg"
+      },
+      {
+        "name": "Nicole Barré",
+        "character": "Woman at Party (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vy61iMo8cNWsBBFbRLnCdXp6Dej.jpg"
+      },
+      {
+        "name": "Alicia Davis Johnson",
+        "character": "Bank of America Executive (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bFGqf9PHxBjDlURzgwCldSwYu9e.jpg"
+      },
+      {
+        "name": "Delia Sheppard",
+        "character": "Barclays Bank Professional (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/11kMXk6uaHNs1qyeKIQTmy7PgIb.jpg"
+      },
+      {
+        "name": "Juliet Reeves London",
+        "character": "Front Point Receptionist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tsb8lr6O62bWZj7g8Pr5FUCniPn.jpg"
+      },
+      {
+        "name": "Judd Lormand",
+        "character": "Lawyer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jeZBWgcjiTaXZM6FwcHm9QW1F6w.jpg"
+      },
+      {
+        "name": "Margot Robbie",
+        "character": "Margot Robbie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Adam McKay",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xbbF6DdzOv0zTBIt444Z2pakyOd.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "based on novel or book",
+    "bank",
+    "fraud",
+    "wall street",
+    "biography",
+    "based on true story",
+    "finances",
+    "animated scene",
+    "historical fiction",
+    "loan",
+    "financial crisis",
+    "real estate",
+    "mortgage"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "In 2006-2007 a group of investors bet against the United States mortgage market. In their research, they discover how flawed and corrupt the market is.",
+    "Three separate but parallel stories of the U.S mortgage housing crisis of 2005 are told. Michael Burry, an eccentric ex-physician turned one-eyed Scion Capital hedge fund manager, has traded traditional office attire for shorts, bare feet and a Supercuts haircut. He believes that the US housing market is built on a bubble that will burst within the next few years. Autonomy within the company allows Burry to do largely as he pleases, so Burry proceeds to bet against the housing market with the banks, who are more than happy to accept his proposal for something that has never happened in American history. The banks believe that Burry is a crackpot and therefore are confident in that they will win the deal. Jared Vennett with Deutschebank gets wind of what Burry is doing and, as an investor believes he too can cash in on Burry's beliefs. An errant telephone call to FrontPoint Partners gets this information into the hands of Mark Baum, an idealist who is fed up with the corruption in the financial industry. Baum and his associates, who work at an arms length under Morgan Stanley, decide to join forces with Vennett despite not totally trusting him. In addition to Burry's information, they further believe that most of the mortgages are overrated by the bond agencies, with the banks collating all the sub-prime mortgages under AAA packages. Charlie Geller and Jamie Shipley, who are minor players in a $30 million start-up garage company called Brownfield, get a hold of Vennett's prospectus on the matter. Wanting in on the action but not having the official clout to play, they decide to call an old \"friend\", retired investment banker Ben Rickert, to help out. All three of these groups work on the premise that the banks are stupid and don't know what's going on, while for them to win, the general economy has to lose, which means the suffering of the general investor who trusts the financial institutions. That latter aspect may not sit well with Baum. Some of these assumptions may be incorrect and may be far more manipulative than they could have ever imagined, which in turn may throw curves into the process.—Huggo",
+    "Based on the book by Michael Lewis (writer of Moneyball, Liar's Poker and Flash Boys, among others), the true story of a handful of investors who bet against the US mortgage market in 2006-7. Through their own research they discovered that the US mortgage backed securities market was a bubble about to burst, and they invested accordingly. What they didn't initially know was how structurally flawed the MBS system was, the level of corruption in the market...and the impact on the average person when the bubble burst.—grantss",
+    "In 2008, Wall Street guru Michael Burry realizes that a number of subprime home loans are in danger of defaulting. Burry bets against the housing market by throwing more than $1 billion of his investors' money into credit default swaps. His actions attract the attention of banker Jared Vennett, hedge-fund specialist Mark Baum and other greedy opportunists. Together, these men make a fortune by taking full advantage of the impending economic collapse in America.—Jwelch5742",
+    "2008. Sensing the imminent danger of a financial crisis based on inconspicuous warning signs in the mortgage-backed real estate market, a motley crew of bold and shrewd investors reap immense profits by betting against the housing market. But who could have predicted that a real-estate bubble of such magnitude was about to burst? No one could have foreseen the catastrophic impact of an economy in shambles that renders millions jobless and homeless.—Nick Riganas"
+  ],
+  "synopsis": "Jared Vennett (Ryan Gosling) states to the viewers that the world of banking is extremely boring. Things changed when Lewis Ranieri (Rudy Eisenzopf) created a plan for mortgage-backed securities to ensure bigger profits with lower risks since everyone was paying their mortgages. This was big for bankers, up until the year 2008 when the global financial crisis hit. Vennett adds that a small group of individuals saw this coming.The next scene shows hedge fund millionaire Michael Burry (Christian Bale) in his office conducting an interview with a young analyst. Burry says his wife told him he needs to \"share more\". He discusses having a glass eye since childhood due to losing his real eye to an illness. We see him as a child playing in a football game and being ashamed when the eye falls out. Burry continues rambling on about how the tech bubble burst in 2001, yet the housing market went up. He hires the analyst on the spot and instructs him to get him a list of the top 20 selling mortgage bonds.The scene shifts to a counseling session where Mark Baum (Steve Carell) enters and takes over the session by complaining to everyone about an encounter he just had with a retail banker regarding his bank's overdraft policies and how he is screwing over working people. Baum despises people working in big banks, especially after his brother committed suicide after getting screwed over. He later calls his wife Cynthia (Marisa Tomei) to express his anger, which she is used to hearing about, but still thinks he should quit his job. Baum then takes a cab from another man.Burry does his homework and reviews the list he asked for. He discovers that the housing market is being backed by subprime loans in which clients are providing fewer returns, and then decides he can bet against the housing market and profit off of it. To properly explain what a subprime loan is, Vennett (still narrating) directs us to a woman (Margot Robbie) taking a bubble bath and drinking champagne to explain that \"subprime\" means \"shit\", and that the banks created them to add more mortgages to their plans. Burry then goes to multiple banks, starting with Goldman Sachs, to express the idea that the bonds will fail and to create a credit default swap market. Thinking the bonds are secure, the bankers roll with his bet. Burry's boss Lawrence Fields (Tracy Letts) is distressed by his plan for fear of what it'll do to their own business.Vennett learns of Burry's dealings and then meets with Baum and his team of investors - Danny Moses (Rafe Spall), Porter Collins (Hamish Linklater), and Vinnie Daniel (Jeremy Strong) - to propose to them the idea of the credit default swap. He explains that all the bad bonds can be put together into CDOs (Collateralized Debt Obligations). Vennett brings us to Anthony Bourdain to explain CDOs by comparing it to making a seafood stew from a bunch of fish that didn't sell too well. After Vennett leaves, Baum and his team consider taking his words seriously.We meet young hopeful investors Charlie Geller (John Magaro) and Jamie Shipley (Finn Wittrock) waiting to meet with someone from JP Morgan Chase. However, they don't get far without having an ISDA agreement. Discouraged, they then find a pitch from Vennett on how the housing market is a bubble (which Shipley states isn't a completely accurate depiction of how they found out about it). They decide to jump on the credit default swap bandwagon and bring in retired trader Ben Rickert (Brad Pitt) to help them since they are too inexperienced to pull off the trades they need in order to profit from this.Moses and Collins go to a neighborhood to find foreclosed houses. They encounter a renter that worries about being evicted with his son. Moses and Collins enter a home with a past due notice paper in the kitchen, and then a home with an alligator in the pool.Burry is confronted by Fields for his betting, thinking that his plan will fail within six years. He and another investor demand their money back, but Burry refuses to give in.Baum and his team dig further into the housing market, meeting with a real estate agent, two mortgage brokers, and even a stripper to learn about what sort of loans are given to particular customers, leading Baum to realize that the market is indeed a bubble.By early 2007, it is reported that mortgage delinquencies have reached a new high. Baum and his team are told to give up their swaps by risk assessors. Baum has Daniel tell them to fuck off. The two meet with Georgia Hale (Melissa Leo), an officer for Standard and Poor's, and grill her over giving banks AAA percentages on subprime loans. She defends herself by saying the banks would default if they didn't get those ratings, and Baum criticizes her actions, but she fires back by noting that he and his team own multiple credit default swaps.Vennett tells Baum and his team to pull out of their trades, as Geller tells Shipley the same thing, due to mortgage defaults going up. Shipley and the team both express their respective negative views. Rickert tells the guys, as Vennett tells his guys, to go to Las Vegas to attend the American Securitization Forum.Both groups go to Vegas for the Forum. Baum spends his time grilling the big-wigs for their dealings. Shipley meets with a girl he knows named Evie (Karen Gillan), who works for the SEC, and asks her if the SEC investigates mortgage bonds, to which she says no.Burry becomes increasingly morose as he continues to learn that bonds aren't going down and that the whole system is fraudulent.Geller, Shipley, and Rickert then plan to short AA tranches. They make many deals with many bankers, but as Geller and Shipley celebrate, Rickert reminds them that eventually, the market will collapse and millions of people will be hurt from it. The realization hits the two deeply.Baum meets a businessman named Mr. Chau (Byron Mann) in a casino and learns that he has created synthetic CDOs, which is a series of bigger and bigger bets on faulty loans. Baum slowly but surely realizes the economy is going to collapse. We then get Richard Thaler and Selena Gomez to explain what a synthetic CDO is by comparing it to people making bets on Selena winning at blackjack because her odds are looking good, until she deals a bad hand, and everyone loses.By April 2007, everyone is preparing for the inevitable. Burry prevents investors from withdrawing their money. Geller and Shipley go around to the press and the like to warn then about the collapse, but no one is interested in pursuing the story. Baum and his team are told to give up or sell their swaps.As predicted, by the end of 2008, the market economy has collapsed, but all those involved in the shorts have profited immensely from the swaps, although none of them are proud of it. Several banks begin shutting down. Burry retires, and one of his analysts takes a new job at a 7-11. The man that Moses and Collins visited earlier is now living out of a van with his wife and son. Geller and Shipley have lost faith in the system. Baum mentions a bailout happening, which Vennett states is true, and that the banks saved their skins and blamed the bad things on immigrants, the poor, and even teachers. Daniel then tells Baum that they should sell their swaps, but Baum thinks it'll make them as bad as the banks, though Daniel says otherwise. Baum then tells him to sell them all.The final text reads that five trillion dollars from real estate values, pension funds, 401k, savings, and bonds had disappeared after the collapse. 8 million people lost their jobs, 6 million lost their homes, and that was only in the U.S. Mark Baum refused to say \"I told you so\", and his team continues to run their fund together. Charlie Geller and Jamie Shipley attempted to sue ratings agencies but were laughed out of the offices. Shipley still runs Brownfield but Geller moved to Charlotte to start a family. Ben Rickert lives with his wife on an orchard. Michael Burry contacted the government several times to see if anyone would ask him how he predicted the collapse. Nobody responded, but he was audited four times by the FBI. He now only invests in water. In the present day 2015, several large banks, who in their corporate greed had apparently learned nothing, began selling billions in CDOs.",
+  "imdb_score": 7.8
+}

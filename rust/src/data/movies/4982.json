@@ -1,0 +1,811 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/qYx2AB7J3JsHA3xPfSMdLHRwDnc.jpg",
+  "id": 4982,
+  "title": "American Gangster",
+  "poster_path": "https://image.tmdb.org/t/p/w500/sX9idXDqRUxE5ffww3n3RV5gL55.jpg",
+  "release_date": "2007-11-02",
+  "vote_average": 7.579,
+  "vote_count": 5078,
+  "popularity": 32.472,
+  "overview": "Following the death of his employer and mentor, Bumpy Johnson, Frank Lucas establishes himself as the number one importer of heroin in the Harlem district of Manhattan. He does so by buying heroin directly from the source in South East Asia and he comes up with a unique way of importing the drugs into the United States. Partly based on a true story.",
+  "imdb_id": "tt0765429",
+  "budget": 100000000,
+  "homepage": "http://www.americangangster.net/",
+  "revenue": 266500000,
+  "runtime": 157,
+  "tagline": "There are two sides to the American dream.",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "production_companies": [
+    "Film Rites",
+    "Imagine Entertainment",
+    "Universal Pictures",
+    "Scott Free Productions",
+    "Relativity Media"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Russell Crowe",
+        "character": "Richie Roberts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fbzD4utSGJlsV8XbYMLoMdEZ1Fc.jpg"
+      },
+      {
+        "name": "Denzel Washington",
+        "character": "Frank Lucas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+      },
+      {
+        "name": "Chiwetel Ejiofor",
+        "character": "Huey Lucas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+      },
+      {
+        "name": "Cuba Gooding Jr.",
+        "character": "Nicky Barnes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j4gPj92SP3Rj5xxSUe1CIkFCXhB.jpg"
+      },
+      {
+        "name": "Josh Brolin",
+        "character": "Detective Trupo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+      },
+      {
+        "name": "Ted Levine",
+        "character": "Lou Toback",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qRFq8y842T1uq51iQCwsEmQI3UT.jpg"
+      },
+      {
+        "name": "Armand Assante",
+        "character": "Dominic Cattano",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9HbbWAJacTHguO2InDVHKGnaasm.jpg"
+      },
+      {
+        "name": "John Ortiz",
+        "character": "Javier J. Rivera",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tMDPYhpc9nqIJAK3vtMroEH9qho.jpg"
+      },
+      {
+        "name": "John Hawkes",
+        "character": "Freddie Spearman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vzQ5SdCcu9ZCeUyfAT0bnzyfeJh.jpg"
+      },
+      {
+        "name": "RZA",
+        "character": "Moses Jones",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2PVYCKXb1X3PLawJNoYGLN1x0In.jpg"
+      },
+      {
+        "name": "Lymari Nadal",
+        "character": "Eva",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gGMpfG2K06elVHEk9jddoE92LR7.jpg"
+      },
+      {
+        "name": "Yul Vazquez",
+        "character": "Alfonso Abruzzo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8AeBmhIMia6gF5PO5SF3PRznD3M.jpg"
+      },
+      {
+        "name": "Ruby Dee",
+        "character": "Mama Lucas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gbUsddmMoZImZZSg2qffmZ7oCMB.jpg"
+      },
+      {
+        "name": "Idris Elba",
+        "character": "Tango",
+        "profile_path": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+      },
+      {
+        "name": "Carla Gugino",
+        "character": "Laurie Roberts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dAqGOsHSzlP6RhaUURX2NrwITaq.jpg"
+      },
+      {
+        "name": "Joe Morton",
+        "character": "Charlie Williams",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w7rGWWSGKWWukojLbZOQJ5yh9jv.jpg"
+      },
+      {
+        "name": "Common",
+        "character": "Turner Lucas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eggJAnJxpn8wYraX7ea5svETB54.jpg"
+      },
+      {
+        "name": "Ritchie Coster",
+        "character": "Joey Sadano",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s0QLFPGEbZkyKBqpbM4upC2jMgk.jpg"
+      },
+      {
+        "name": "Jon Polito",
+        "character": "Rossi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4HjxMy4Ir2dWz7ycX5l3sgxOY4g.jpg"
+      },
+      {
+        "name": "Kevin Corrigan",
+        "character": "Campizi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cAU4b3tV02YwFiikfZ0OkckBUmP.jpg"
+      },
+      {
+        "name": "Roger Guenveur Smith",
+        "character": "Nate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/HN7w27Tss9HAHnqebnw6qWKk7z.jpg"
+      },
+      {
+        "name": "Malcolm Goodwin",
+        "character": "Jimmy Zee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h2AVP07OdXOsX3ERNwpsQuvrUEB.jpg"
+      },
+      {
+        "name": "Ric Young",
+        "character": "Chinese General",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2XxcV8eGeyAXOofsXmEsN2hSx45.jpg"
+      },
+      {
+        "name": "Roger Bart",
+        "character": "US Attorney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cliL3nZpi0di8wkNK9VBznd99lg.jpg"
+      },
+      {
+        "name": "T.I.",
+        "character": "Stevie Lucas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dHnR4QavU2ILjvbr3SXBh4cJSdJ.jpg"
+      },
+      {
+        "name": "KaDee Strickland",
+        "character": "Richie's Attorney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/73xvqIpgGN4KqfFQJQR6q54I6FA.jpg"
+      },
+      {
+        "name": "Ruben Santiago-Hudson",
+        "character": "Doc",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tNuO8MO2jFwKo1VlQiq0tLH2rCz.jpg"
+      },
+      {
+        "name": "Norman Reedus",
+        "character": "Detective in Morgue",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg"
+      },
+      {
+        "name": "Kathleen Garrett",
+        "character": "Mrs. Dominic Cattano",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Szvnthdmn4keWs2G7NHo6GBlVC.jpg"
+      },
+      {
+        "name": "Albert Jones",
+        "character": "Terrence Lucas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e6fLCsKTcZSyQCzStfqWM8MFkwd.jpg"
+      },
+      {
+        "name": "J. Kyle Manzay",
+        "character": "Dexter Lucas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8YuM4H050srszB4n3w63nyDWrYH.jpg"
+      },
+      {
+        "name": "Melissia Hill",
+        "character": "Redtop",
+        "profile_path": ""
+      },
+      {
+        "name": "Skyler Fortgang",
+        "character": "Michael Roberts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fj9kmHMFGrgGGY7OmMvdYG7urJ1.jpg"
+      },
+      {
+        "name": "Bari K. Willerford",
+        "character": "Joe Louis",
+        "profile_path": ""
+      },
+      {
+        "name": "Warner Miller",
+        "character": "Melvin Lucas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7m2WkA7DCTrG4OLIBAS8N5Aud2q.jpg"
+      },
+      {
+        "name": "Quisha Saunders",
+        "character": "Darlynn",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Funaro",
+        "character": "McCann",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bfL66eK46g3QmiHUFKSoqinPEx9.jpg"
+      },
+      {
+        "name": "Tom O'Rourke",
+        "character": "Banker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2m7ymszfErj47lyw8hTUQe14QgX.jpg"
+      },
+      {
+        "name": "Robert C. Kirk",
+        "character": "Police Captain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fSmJRmg0JvC0tsYR2mQF0SgNWDR.jpg"
+      },
+      {
+        "name": "Tom Stearns",
+        "character": "2-Star General",
+        "profile_path": ""
+      },
+      {
+        "name": "Jon DeVries",
+        "character": "Judge James Racine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mnQxKTIg1haynKlj8JWDPpVbXUQ.jpg"
+      },
+      {
+        "name": "Jim R. Coleman",
+        "character": "Bailiff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ihFMsxS9i5kM9aotzWjZnB1A6fP.jpg"
+      },
+      {
+        "name": "Lee Shepherd",
+        "character": "Laurie's Attorney",
+        "profile_path": ""
+      },
+      {
+        "name": "Gavin Grazer",
+        "character": "Mike Sobota",
+        "profile_path": "https://image.tmdb.org/t/p/w185/620zzsilxpBwUHu5XiyA31DSfPl.jpg"
+      },
+      {
+        "name": "Linda Powell",
+        "character": "Social Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/giYwxYnuw6nfpLAfcbdZMlzZ3sT.jpg"
+      },
+      {
+        "name": "Roxanne Amandez",
+        "character": "Paramedic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hH8gPTK7lTy3cJKEApGcAS7T2Sf.jpg"
+      },
+      {
+        "name": "Pierra Francesca",
+        "character": "Stewardess",
+        "profile_path": ""
+      },
+      {
+        "name": "Eddie Rouse",
+        "character": "Detective at Party",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r3HEgVyKe4VemiK7h35YBsPbeIP.jpg"
+      },
+      {
+        "name": "Maryann Urbano",
+        "character": "Real Estate Broker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vI49Agyzl3J20KOfsexMqLRhaNh.jpg"
+      },
+      {
+        "name": "Cedric Sanders",
+        "character": "Serviceman in Cafe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jPoC4rpGAKTHGy3oWyh0uNZgInn.jpg"
+      },
+      {
+        "name": "Jason Veasey",
+        "character": "Serviceman in Cafe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/veqGaitRHMv7v01WLPseYJ4AZLe.jpg"
+      },
+      {
+        "name": "Roosevelt Davis",
+        "character": "Army Captain",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Silver",
+        "character": "White Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Saycon Sengbloh",
+        "character": "Tango's Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8LmQlbiwOlr4DMHFJi7ypbgq3bI.jpg"
+      },
+      {
+        "name": "Conor Romero",
+        "character": "Tough Teenager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kb5ATwWnbXOEcTonUN8I0mnQXWh.jpg"
+      },
+      {
+        "name": "Daniel Hilt",
+        "character": "Tough Teenager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h7BE5TkUNU71EjMs8bcCqNJVqwK.jpg"
+      },
+      {
+        "name": "Daniel Farcher",
+        "character": "Tough Teenager",
+        "profile_path": ""
+      },
+      {
+        "name": "David Spearman",
+        "character": "Civilian Cleaning Staff",
+        "profile_path": ""
+      },
+      {
+        "name": "Maurice Ballard",
+        "character": "Civilian Cleaning Staff",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Doherty",
+        "character": "Newscaster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9JlSlmEJLlADkKDlHmOW3EpCOKa.jpg"
+      },
+      {
+        "name": "William C. Tate",
+        "character": "Baptist Minister",
+        "profile_path": ""
+      },
+      {
+        "name": "George Lee Miles",
+        "character": "Frank's Lawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sQyXOhgeauXBD30610sZwYVM5Ov.jpg"
+      },
+      {
+        "name": "Jason Furlani",
+        "character": "Bailiff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bDFH7CAO13FUpHEtC8umkxo9wbi.jpg"
+      },
+      {
+        "name": "Chris McKinney",
+        "character": "Reporter on TV",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yt6G0NkmGCpHYlKqjlqeinzehwd.jpg"
+      },
+      {
+        "name": "David Wayne Britton",
+        "character": "Army Colonel",
+        "profile_path": ""
+      },
+      {
+        "name": "Tommy Guiffre",
+        "character": "Medical Examiner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gzTELzXJkqcRHNjStK6MxEMNWBC.jpg"
+      },
+      {
+        "name": "Laurence Lowry",
+        "character": "Paramedic",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Moran",
+        "character": "Army Captain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/amnUVVi4cSzzcpcVAifUWeWzjPs.jpg"
+      },
+      {
+        "name": "Marjorie Johnson",
+        "character": "Charlene",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eq7U46tqhM7fY9YY3ZHcctO5LIx.jpg"
+      },
+      {
+        "name": "Larry Mitchell",
+        "character": "FBI Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9jP4wAs0Pgzj51R3JCcItnX1QVO.jpg"
+      },
+      {
+        "name": "Chuck Cooper",
+        "character": "Private Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/adTZUSlFXW8eWiIkdQ1O2WQWpb6.jpg"
+      },
+      {
+        "name": "Kevin Geer",
+        "character": "Law School Professor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d8IADlh3AZ7owPOHB6Kvs2k1d7S.jpg"
+      },
+      {
+        "name": "Chance Kelly",
+        "character": "MP",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hRfBFx2E8pEGNx6GEHTBHSy3dJv.jpg"
+      },
+      {
+        "name": "Hamilton Clancy",
+        "character": "Seller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qPuPp4hkssexGgpB2maqU4NO10y.jpg"
+      },
+      {
+        "name": "Sam Freed",
+        "character": "Judge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/weMB6f1gB2SeUcOr56O9EB0lWuX.jpg"
+      },
+      {
+        "name": "Joey Klein",
+        "character": "Chemist",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Dillin",
+        "character": "4th Amigo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8ePttDBkopSFZEUQSTeU7JfMrMi.jpg"
+      },
+      {
+        "name": "Anthony Hamilton",
+        "character": "Funk Band Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah Hudnut",
+        "character": "Assistant Prosecutor",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff Greene",
+        "character": "Metal Door Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ubhsVqNOtdHQLWsgLHHQbJU0F1Z.jpg"
+      },
+      {
+        "name": "Tyson Hall",
+        "character": "Drug Dealer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kirt Harding",
+        "character": "Drug Dealer",
+        "profile_path": ""
+      },
+      {
+        "name": "Bryant Pearson",
+        "character": "Drug Dealer",
+        "profile_path": ""
+      },
+      {
+        "name": "Al Santos",
+        "character": "Mechanic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mNW35f61RT82H401NtgAVZ5hEou.jpg"
+      },
+      {
+        "name": "William Hudson",
+        "character": "Dealer",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher A. Sawyer",
+        "character": "Dealer",
+        "profile_path": ""
+      },
+      {
+        "name": "Dylan Gallagher",
+        "character": "Casket Loader",
+        "profile_path": ""
+      },
+      {
+        "name": "Jehan-Pierre 'The Preacher' Vassau",
+        "character": "Narc Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Dawn A. Douglas",
+        "character": "Narc Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s3YR48rY1OKfxIDmUzirLQsSkBa.jpg"
+      },
+      {
+        "name": "Robbie Neigeborn",
+        "character": "Cop in Narc Headquarters",
+        "profile_path": ""
+      },
+      {
+        "name": "Clinton Lowe",
+        "character": "Man Arrested in Elevator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jOAf7z4GtcbwSdxKhUqXsd44t6M.jpg"
+      },
+      {
+        "name": "Wilhelm Lewis",
+        "character": "Head Wedding Photographer",
+        "profile_path": ""
+      },
+      {
+        "name": "James Hunter",
+        "character": "Deacon",
+        "profile_path": ""
+      },
+      {
+        "name": "Neville White",
+        "character": "Deacon",
+        "profile_path": ""
+      },
+      {
+        "name": "Lonnie Gaetano",
+        "character": "Prison Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff Mantel",
+        "character": "Officer Walsh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kKBsXe4p8myTG4LZ2O1MVEuzyRi.jpg"
+      },
+      {
+        "name": "Serena Joan Springle",
+        "character": "The Proctor",
+        "profile_path": ""
+      },
+      {
+        "name": "Ron Piretti",
+        "character": "Judge",
+        "profile_path": ""
+      },
+      {
+        "name": "Nino Del Buono",
+        "character": "Announcer",
+        "profile_path": ""
+      },
+      {
+        "name": "Panama Redd",
+        "character": "Policeman",
+        "profile_path": ""
+      },
+      {
+        "name": "Arthur M. Mercante",
+        "character": "Referee",
+        "profile_path": ""
+      },
+      {
+        "name": "Fab 5 Freddy",
+        "character": "Smalls Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c1V8OWCV7OjJI64WWlTB5xDbDAm.jpg"
+      },
+      {
+        "name": "Jonah Denizard",
+        "character": "Store Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve McAuliff",
+        "character": "Mounted Policeman",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Richards",
+        "character": "Helicopter Pilot",
+        "profile_path": ""
+      },
+      {
+        "name": "Fatima Robinson",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/63tVL8lgCSW0gtmmYe2pUIu7Ia4.jpg"
+      },
+      {
+        "name": "Celestine Rae",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Monique Lea-Gall",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k27brKBAQmoJjNYpxkVeOuIdIs6.jpg"
+      },
+      {
+        "name": "Shannon MacMillan",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Latonya Tolbert",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a0OoUMHYXyCztiqgP0JuAf41U8Y.jpg"
+      },
+      {
+        "name": "Cicily Daniels",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sandra Park",
+        "character": "Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Yuri Kamino-Fennell",
+        "character": "Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Albanese",
+        "character": "Spectator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Keith Allen",
+        "character": "Narc Squad Detective (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ephraim Benton",
+        "character": "Thug #4 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bI3cS71FPTrjTVO81RA9fvJZhV2.jpg"
+      },
+      {
+        "name": "Myo Campbell",
+        "character": "Red Carpet Walker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Cenatiempo",
+        "character": "Cop #1 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6cEyUFyS5Tw2LGY0HkjpMjMZDmG.jpg"
+      },
+      {
+        "name": "J.W. Cortes",
+        "character": "Narc Officer in Hallway (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qFsvyKuyTEP8yQjk0gckF0c98qd.jpg"
+      },
+      {
+        "name": "Cris D'Annunzio",
+        "character": "Frank McNamara (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h1kAozQyf3c7lRul1vJKFpJZqn2.jpg"
+      },
+      {
+        "name": "Ernest Dancy",
+        "character": "Hustler (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Den Dekker",
+        "character": "Undercover Cop (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark DiConzo",
+        "character": "Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/52oUVvMWZnJIswurJtCeQlHuHYD.jpg"
+      },
+      {
+        "name": "Kevin van Doorslaer",
+        "character": "Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yZJYq9LylVyxpbmse2SQzvY1cM5.jpg"
+      },
+      {
+        "name": "Monique Dupree",
+        "character": "Club Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Ferrante",
+        "character": "Gangster at Funeral (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eddie Goines",
+        "character": "Hallway Guy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7hdfRBbpE7L5tuHB45dtmgA8qsW.jpg"
+      },
+      {
+        "name": "Kelvin Hale",
+        "character": "Drug room door security (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gabriel Hansen",
+        "character": "Mechanic Drug Dealer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gS1zzO3wtaF81NeB6rL2n6kGCrr.jpg"
+      },
+      {
+        "name": "Jermel Howard",
+        "character": "Kid gangster #1 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n43YXIixxtmMqEKtuV1LMznr1Tr.jpg"
+      },
+      {
+        "name": "Hristo Hristov",
+        "character": "Bookie / Soldier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Atif Lanier",
+        "character": "Frank Lucas Bodyguard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tina Lorraine",
+        "character": "Harlem Junkie (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Artie Pasquale",
+        "character": "Mobster (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n96LExdfTHnIrKqfI8ecReoAvkm.jpg"
+      },
+      {
+        "name": "Nick Poltoranin",
+        "character": "Mobster (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Pinassi",
+        "character": "Building Maintenance Guy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7cXZ3mT7GsjQe2Snu1gEb7oNLze.jpg"
+      },
+      {
+        "name": "Louis Rosario",
+        "character": "Teenage Vandal (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paula Rittie",
+        "character": "Maid of Honor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/BzqChtdGHMxej0AXqR0RP9vl9y.jpg"
+      },
+      {
+        "name": "Billy Smith",
+        "character": "Bookkeeper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uzFxV2l3ODxfknHhIAgvLf0ihH6.jpg"
+      },
+      {
+        "name": "Aija Terauda",
+        "character": "Nicky's Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tammy Vaughn",
+        "character": "Diana Ross (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Philippe Vonlanthen",
+        "character": "Skeet Shoot Handler (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Clarence Williams III",
+        "character": "Bumpy Johnson (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3oCr2DePudTzf3uwg3FoQeTd3Ml.jpg"
+      },
+      {
+        "name": "Brad Lee Wind",
+        "character": "Trupo's detective in library (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pu2XAZqHSkTIq1JfyRi7ixMaz4j.jpg"
+      },
+      {
+        "name": "Ray Wineteer",
+        "character": "Photographer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Frances Mignano",
+        "character": "Marie Saldano (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Ridley Scott",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zABJmN9opmqD4orWl3KSdCaSo7Q.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "vietnam",
+    "drug smuggling",
+    "society",
+    "gangster",
+    "drug trafficking",
+    "heroin",
+    "junkie",
+    "ghetto",
+    "nightclub",
+    "ambition",
+    "rise and fall",
+    "cop",
+    "organized crime",
+    "drug dealing",
+    "police corruption",
+    "wedding",
+    "police detective",
+    "family",
+    "surveillance",
+    "bribery",
+    "law enforcement",
+    "aftercreditsstinger",
+    "dishonesty",
+    "1960s",
+    "violence"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas, whose real life inspired this partly biographical film.",
+    "Following the death of his employer and mentor, Bumpy Johnson, Frank Lucas establishes himself as the number one importer of heroin in the Harlem district of Manhattan. He does so by buying heroin directly from the source in South East Asia and he comes up with a unique way of importing the drugs into the United States. As a result, his product is superior to what is currently available on the street and his prices are lower. His alliance with the New York Mafia ensures his position. It is also the story of a dedicated and honest policeman, Richie Roberts, who heads up a joint narcotics task force with the Federal government. Based on a true story.—garykmcd",
+    "In 1968, the loyal driver, bouncer and collector Frank Lucas witnesses the death of his boss and mentor Bumpy Johnson and finds that Harlem lost its leadership. Frank decides to import heroin direct from the source in Bangkok, establishing a logistic of transportation using the US military airplanes from Vietnam to USA. The quality of his product associated to the trade mark \"Blue Magic\" and the lower prices bring Frank Lucas to the position of number one distributor of heroin in USA. Meanwhile, in the Essex County, the incorruptible detective Richie Roberts that is studying for the Bar Examination is invited to join and head a Federal Investigation Force of Narcotics, seeking the leaders of the dealers in North America.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "In 1970s America, detective Richie Roberts (Crowe) sets out to bring down the drug empire of Frank Lucas (Washington), a heroin kingpin from Manhattan, who is smuggling the drugs into the country in the coffins of soldiers from the Vietnam War."
+  ],
+  "synopsis": "The film opens with Bumpy Johnson (Clarence Williams III) and Frank Lucas (Denzel Washington) pouring gasoline on a Hispanic man in a dark alleyway at night and then lighting him on fire. As the man screams in pain, Frank shoots him.It is November 1968, New York City. Bumpy is a local gangster who operates and runs most of Harlem, and Frank his his right hand man. Bumpy is seen delivering frozen turkeys from a truck to local residents which makes him popular among the African American people of West Harlem. Later, during a walk with Frank, Bumpy enters a used appliance store where Bumpy tells Frank big business in taking over and there is no more room for the little guy. Suddenly, Bumpy collapses in the store from a heart attack and later dies. During his high profile funeral, we see other mobsters in attendance.Meanwhile, Richie Roberts (Russell Crowe) is a New Jersey detective who is taking classes to become a lawyer and hates public speaking. He and his partner find a million dollars in cash and they argue about turning it in, but Richie turns it in anyway, not wanting to keep any of the money for himself or his fellow officers.Frank is unhappy with the way the mob is being run and it seems he always has to pay another mobster named Tango. Tango is an old associate of Bumpy who wants control of Bumpy's old territory. It is also hard to find good drugs. Frank sees on T.V. that drugs are very cheap in Vietnam and so he buys a passport and goes to visit his cousin who owns a night club in Vietnam.Richie's marriage is failing because his wife says he doesn't spend enough time with their son. After they divorce, his wife says she and her son are moving to Vegas. Richie is adamant about not allowing his wife to move across the country with his son and gets into a minor altercation with a small group of street punks who are breaking bottles nearby.Frank makes a deal with his cousin to bring heroin back to the U.S. by smuggling it in coffins of dead soldiers returning from Vietnam. He goes to Nam to talk to his future provider directly. Since there is no middle man, Frank can sell heroin cheaper than anyone else in New York; it is also the purest heroin anyone has seen on the streets of New York in years, nicknamed \"Blue Magic.\"Richie gets a phone call in the middle of the night from his partner, Javier, who is flipping out because he killed a guy in his apartment, claiming the man opened fire on him. They bandage the dead guy's neck to make it look like he isn't dead and have the paramedics on the scene carry him out. Richie tells his partner that he needs help because he is hooked on drugs, which is why he killed the guy in the first place. His partner gets mad and jumps out of the ambulance. His partner says that it was Richie's fault to begin with, because he takes drugs to forget that everybody at the police station sneers at him.Frank at this point is doing very well. He owns several nightclubs and moves his brothers and mother from North Carolina to New York. He buys his mom a very nice house, a mansion with a huge garden and gives her a vanity for her bedroom that he'd had made from his own memories as a child in North Carolina.We see Richie trying to fight for custody but it turns out that his chances aren't that good because even though he's an honest cop he hangs out with bad people (e.g. his son's godfather, a local corrupt businessman) and likes to sleep with hookers. He even has sex with his lawyer.Frank gets his brothers to help him sell his drugs and gives them good money for doing their job. He scolds his brother Huey, for dressing too nice because he feels it draws unwanted attention. It is also at this point that he meets Eva (Lymari Nadal), a Puerto Rican beauty queen, and falls hard for her. Later at the party, one of the guests drunkenly shoots another guest in the leg for looking at his girlfriend. Frank becomes enraged, beating the man severely in front of his guests, slamming the man repeatedly with the lid of his grand piano.Javier overdoses on drugs which prompts Richie to start a Narcotics Unit and go after the big guys, not any small time dealers. They aren't too successful at first so Richie decides to start on the streets. He discovers Blue Magic and tries to figure out who could sell such powerful stuff so cheaply. He and his partner follow a large sum of money they'd given to a dealer and take the tunnel to New York to track it down. While trying to retrieve the money he runs into detective Trupo (Josh Brolin). Trupo doesn't bother to hide his contempt for Richie but still returns the money and tells Richie not to come back to New York again because he's out of his jurisdiction.One night Frank and his girlfriend go to a boxing match between Muhammad Ali and Joe Louis. He sits right up front and has better seats than some of the world's biggest entertainers. Frank also wears an expensive chinchilla fur coat and hat Eva had bought for him, and he has the opportunity to shakes hands and sit with Joe Louis. Richie spots him and gets the license plate number from the limo Frank was riding in. Richie is not the only one who notices: Trupo stops Frank's car, which is crammed with drugs and takes them away, and tells him that he wants his share of the money he's making, $10,000 each month. When he arrives home, Frank throws the expensive coat which has put him under the spotlight into the fireplace to burn, much to the disappointment of Eva.Richie discovers that the man he saw was Frank Lucas and wants to bring him down. The only problem is Richie has no evidence that Frank is a drug dealer; Frank's empire has grown very big but he's an expert at diverting attention and accusation away from himself.Frank marries Eva and runs into detective Trupo, who wants ten thousand dollars a month to keep his mouth shut. Frank also deals with local competition mobster Nicky Barnes (Cuba Gooding Jr.) who is selling heroin under the name of Blue Magic, but Nicky has been cutting the supply and selling it himself while still using Frank's brand name. Frank and his wife almost get shot by an unknown hitter. We never find out who it is, but we are lead to think that it was Nicky.One night Richie sees one of Frank's men almost kill his girlfriend. Instead of putting the guy in prison they have him wear a wire. This is where Richie learns how Frank smuggles heroin into the U.S.Things don't look too good for Frank now. Since the war is over he can't get his drugs back into the U.S. Richie searches a U.S. plane but finds no drugs. He also teams up with Trupo who is mad at Frank for destroying his prized 1966 Ford Mustang. Trupo searches Frank's house. Richie gets into an argument with some U.S. General because Richie is making it look like the U.S. military is smuggling drugs. Richie's men find drugs in coffins located at a warehouse and invade. There is a huge shoot out and they arrest Frank when he exits a church after services end.Richie and Frank finally meet and Frank says he doesn't care what happens to him. However, Richie offers him a deal: if he turns in all his off shore accounts and he gives in all the corrupt cops' names, he will have a more lenient sentence.Frank turns in other drug dealers and crooked cops and gets his sentence reduced because he is being so helpful to police. Richie also gives up custody of his kid and lets his wife take him to Vegas. Frank is released from prison in 1991 and is picked up by Richie himself. Richie treats him to a fancy cup of coffee in Franks' old neighborhood in Harlem and Frank marvels at how much his old territory has changed. When a small group of young adult gang members start to accost them, they stop when they realize who Frank is. Frank remarks \"Even a fool gets to be young once.\"",
+  "imdb_score": 7.8
+}

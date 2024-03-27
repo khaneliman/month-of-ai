@@ -1,0 +1,398 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg",
+  "id": 600,
+  "title": "Full Metal Jacket",
+  "poster_path": "https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+  "release_date": "1987-06-26",
+  "vote_average": 8.135,
+  "vote_count": 9930,
+  "popularity": 37.311,
+  "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+  "imdb_id": "tt0093058",
+  "budget": 30000000,
+  "homepage": "https://www.warnerbros.com/movies/full-metal-jacket",
+  "revenue": 46357676,
+  "runtime": 117,
+  "tagline": "In Vietnam, the wind doesn't blow. It sucks.",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "production_companies": [
+    "Natant",
+    "Stanley Kubrick Productions",
+    "Warner Bros. Pictures"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Matthew Modine",
+        "character": "Pvt. Joker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z974QEHL12qUvLyk6hlWGAmDgom.jpg"
+      },
+      {
+        "name": "Adam Baldwin",
+        "character": "Animal Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rtRCD2rl9k3RVgyv3cHaUJer0Ms.jpg"
+      },
+      {
+        "name": "Vincent D'Onofrio",
+        "character": "Pvt. Pyle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg"
+      },
+      {
+        "name": "R. Lee Ermey",
+        "character": "Gny. Sgt. Hartman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aXFJlEGHlQT7bwxkKwq6Sx7PeEp.jpg"
+      },
+      {
+        "name": "Dorian Harewood",
+        "character": "Eightball",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j3Nc0uNpe3MkonLtOrzVegO22QO.jpg"
+      },
+      {
+        "name": "Arliss Howard",
+        "character": "Pvt. Cowboy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zDBEVA7Skrje3A8bmR2VOJRwkZc.jpg"
+      },
+      {
+        "name": "Kevyn Major Howard",
+        "character": "Rafterman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/utYdHRALnc34u49jm3Mc6U5R98u.jpg"
+      },
+      {
+        "name": "Ed O'Ross",
+        "character": "Lt. Touchdown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h14lsrIhQvGFan9kv7bPbn1udH7.jpg"
+      },
+      {
+        "name": "John Terry",
+        "character": "Lt. Lockhart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2paelsnx3mEZam5ZJZMmUuurgJq.jpg"
+      },
+      {
+        "name": "Bruce Boa",
+        "character": "Poge Colonel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lTphLsubUVSKjRCokSwSYWOTr7T.jpg"
+      },
+      {
+        "name": "Kieron Jecchinis",
+        "character": "Crazy Earl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gYtqlYJylewxBf1iHRcZ2G5l3M1.jpg"
+      },
+      {
+        "name": "Jon Stafford",
+        "character": "Doc Jay",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a1k3iTdw7zddkpiTsQ2kMFuh9MO.jpg"
+      },
+      {
+        "name": "Tim Colceri",
+        "character": "Doorgunner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i2Dw87FplTBH6Wc6tanwOtbm34X.jpg"
+      },
+      {
+        "name": "Peter Edmund",
+        "character": "Snowball",
+        "profile_path": "https://image.tmdb.org/t/p/w185/awOhp23hvwR5G2e2RkE1AMdrrLC.jpg"
+      },
+      {
+        "name": "Kirk Taylor",
+        "character": "Payback",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mNpAr1ga50Wc4mwjKkOlQILjYWI.jpg"
+      },
+      {
+        "name": "Ian Tyler",
+        "character": "Lt. Cleves",
+        "profile_path": ""
+      },
+      {
+        "name": "Gary Landon Mills",
+        "character": "Donlon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xQ7Hb9oFIbG7YhTcTaJjymZDCTQ.jpg"
+      },
+      {
+        "name": "Sal Lopez",
+        "character": "T.H.E. Rock",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8m7m6qGjYz8TD3NhP8hGfbhgL8f.jpg"
+      },
+      {
+        "name": "Papillon Soo",
+        "character": "Da Nang Hooker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hvJ7kSmkuwZaxvnizzSg8lSrJtQ.jpg"
+      },
+      {
+        "name": "Ngoc Le",
+        "character": "VC Sniper",
+        "profile_path": ""
+      },
+      {
+        "name": "Tan Hung Francione",
+        "character": "ARVN Pimp",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcus D'Amico",
+        "character": "Hand Job",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xCTjgqihIzxwGgoK1tVMfVUyhwl.jpg"
+      },
+      {
+        "name": "Costas Dino Chimona",
+        "character": "Chili",
+        "profile_path": ""
+      },
+      {
+        "name": "Keith Hodiak",
+        "character": "Daddy D.A.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6DCrzadzYd0EaijBoJGXN4CMfUh.jpg"
+      },
+      {
+        "name": "Peter Merrill",
+        "character": "TV Journalist",
+        "profile_path": ""
+      },
+      {
+        "name": "Herbert Norville",
+        "character": "Daytona Dave",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xfoTFYnv4LYa7JCdbdSJhsAaEIB.jpg"
+      },
+      {
+        "name": "Leanne Hong",
+        "character": "Motorbike Hooker",
+        "profile_path": ""
+      },
+      {
+        "name": "Duc Hu Ta",
+        "character": "Dead N.V.A.",
+        "profile_path": ""
+      },
+      {
+        "name": "Nguyen Hue Phong",
+        "character": "Camera Thief",
+        "profile_path": ""
+      },
+      {
+        "name": "Gil Kopel",
+        "character": "Stork",
+        "profile_path": ""
+      },
+      {
+        "name": "Philip Bailey",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7bABsKENoddTXqZibbtGBMemavX.jpg"
+      },
+      {
+        "name": "Robert E. Hartenberger",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Hudson",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tfI3yl5zAc41tZHgToEna9m84sd.jpg"
+      },
+      {
+        "name": "John Curtis",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Del Anderson",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Maybach",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Gary Smith",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Anthony Williams",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "John Wilson",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Albridge",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Adams",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Louis Barlotti",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "John Beddows",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick Benn",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Boucher",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrian Bush",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Gary Cheeseman",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Carey",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Wayne Clark",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Cornibert",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Cornibert",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "John Davis",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Harry Davies",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Gordon Duncan",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Phil Elmer",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Colin Elvis",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Hadrian Follett",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Sean Frank",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Vivian Kubrick",
+        "character": "News Camera Operator at Mass Grave (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/abkr2zJWKURpfzsBJDGeYZZaAXt.jpg"
+      },
+      {
+        "name": "Stanley Kubrick",
+        "character": "Murphy (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg"
+      },
+      {
+        "name": "David Palffy",
+        "character": "Mass Grave Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qWRZgwcF4yno3jXtuuBBooilOgt.jpg"
+      },
+      {
+        "name": "John Ward",
+        "character": "TV Camera Operator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "David George",
+        "character": "Parris Island Recruit and Vietnam Platoon",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Stanley Kubrick",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "rescue",
+    "sniper",
+    "vietnam war",
+    "suicide",
+    "vietnam",
+    "helicopter",
+    "prostitute",
+    "based on novel or book",
+    "propaganda",
+    "war correspondent",
+    "journalism",
+    "recruit",
+    "infantry",
+    "war photographer",
+    "boot camp",
+    "jungle",
+    "sergeant",
+    "racism",
+    "genocide",
+    "fighting",
+    "platoon",
+    "combat",
+    "discipline",
+    "u.s. marine",
+    "obstacle course",
+    "military",
+    "anti war",
+    "mass grave",
+    "blanket party"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+    "A two-segment look at the effect of the military mindset and war itself on Vietnam era Marines. The first half follows a group of recruits in boot camp under the command of the punishing Gunnery Sergeant Hartman. The second half shows one of those recruits, Joker, covering the war as a correspondent for Stars and Stripes, focusing on the Tet offensive.—Scott Renshaw <as.idc@forsythe.stanford.edu>",
+    "The lives of several young men who undergo Marine Corps basic training and are then shipped off to Vietnam. The main character is J.T. 'Joker' Davis who, along with all the other new recruits, constantly has to deal with their demanding Drill Instructor, Gny. Sgt Hartman. One recruit in particular, Leonard 'Gomer Pyle' Lawrence, is having a particularly hard time, especially after DI Hartman punishes the entire squad anytime he screws up, which is often. It all leads to tragedy. Davis makes it through and soon finds himself in Vietnam working as a combat journalist where he gets to see the horrors of war first-hand during the Tet offensive.—garykmcd",
+    "The exploits of J.T. Davis in two distinct phases of his time associated to the Vietnam War are presented. He generally acts as an active observer of the proceedings around him, either by his own choice or by the design of others often in authority. The first phase is as a recruit in basic training for the US Marine Corps at Parris Island, where he receives the nickname Joker from his platoon drill sergeant Gunnery Sergeant Hartman for his sarcastic quips, generally muttered under his breath, usually mimicking John Wayne. He learns that Hartman's foul-mouthed and uncompromisingly harsh ways, probably a reflection of the Marines as an organization, is not to produce robotic troops as some may believe, but rather produce killing machines. Joker's time in basic training is largely affected by Hartman using overweight and slightly slow Private Leonard Lawrence as the platoon's whipping boy, Lawrence's nickname provided by Hartman being Gomer Pyle for his ineptness as a service member, much like his television character namesake. The second phase is in active duty in Vietnam - Da Nang - he assigned to write for Stars and Stripes. He is not to write exactly what he sees but to skew stories in a way to boost serviceman morale and to convince non-military people the reason for American political and thus military involvement in this region of the world, especially in many Americans seeing the war as futile. In covering what becomes the Tet offensive, Joker may come face to face with the kill or be killed mentality without it jibing either with his own outlook or his assigned job.—Huggo",
+    "A two-segment story that follows young men from the start of recruit training in the Marine Corps to the lethal cauldron known as Vietnam. The first segment follows Joker, Pyle and others as they progress through the hell of USMC boot-camp at the hands of the colorful, foul-mouthed Gunnery Sergeant Hartman. The second begins in Vietnam, near Hue, at the time of the Tet Offensive. Joker, along with Animal Mother, Rafterman and others, face threats such as ambush, booby traps, and Viet Cong snipers as they move through the city.—Derek O'Cain"
+  ],
+  "synopsis": "In 1967, during the Vietnam War, a group of new United States Marine Corps recruits arrives at Parris Island for basic training. After having their heads shaved, they meet their Senior Drill Instructor, Gunnery Sergeant Hartman (R. Lee Ermey). Hartman employs draconian tactics to turn the recruits into hardened Marines prepared for combat. Among the recruits are Privates \"Joker\" (Matthew Modine), \"Cowboy\" (Arliss Howard), and the overweight, bumbling Leonard Lawrence (Vincent D'Onofrio), who earns the nickname \"Gomer Pyle\" after attracting Hartman's wrath.Unresponsive to Hartman's discipline, Pyle is eventually paired with Joker. Pyle improves with Joker's help, but his progress halts when Hartman discovers a contraband jelly doughnut in Pyle's footlocker. Believing that the recruits have failed to improve Pyle, Hartman adopts a collective punishment policy: every mistake Pyle makes will earn punishment for the rest of the platoon, with Pyle being spared. In retaliation, the platoon hazes Pyle with a blanket party, restraining him to his bunk and beating him with bars of soap wrapped in towels. After this incident, Pyle becomes a model Marine. This impresses Hartman, but worries Joker, who recognizes signs of mental breakdown in Pyle, such as talking to his M14 rifle.Following their graduation, the recruits receive their Military Occupational Specialty assignments; Joker is assigned to Basic Military Journalism. During the platoon's final night on Parris Island, Joker discovers Pyle in the bathroom loading his rifle with ammunition. Joker attempts to calm Pyle, who executes drill commands and recites the Rifleman's Creed. The noise awakens the platoon and Hartman. Hartman confronts Pyle and orders him to surrender the rifle. Pyle kills Hartman, and then commits suicide.In January 1968, Joker, now a Sergeant, is a Marine War correspondent in Vietnam for Stars and Stripes with Private First Class Rafterman (Kevyn Major Howard), a combat photographer. Rafterman wants to go into combat, as Joker claims he has done. At the Marine base, Joker is mocked for his lack of the thousand-yard stare, indicating his lack of war experience. They are interrupted by the start of the Tet Offensive as the North Vietnamese Army attempts to overrun the base.The following day, the journalism staff is briefed about enemy attacks throughout South Vietnam. Joker is sent to Phu Bai, accompanied by Rafterman. They meet the Lusthog Squad, where Cowboy is now a Sergeant. Joker accompanies the squad during the Battle of Hue, where platoon commander \"Touchdown\" (Ed O'Ross) is killed by the enemy. After the area is declared secure by the Marines, a team of American news journalists and reporters enter Hue and interview various Marines about their experiences in Vietnam and their opinions about the war.During patrol, Crazy Earl (Kieron Jecchinis), the squad leader, is killed by a booby trap, leaving Cowboy in command. The squad becomes lost and Cowboy orders Eightball (Dorian Harewood) to scout the area. A Viet Cong sniper wounds Eightball and the squad medic, Doc Jay (John Stafford), attempts to save him against orders, being wounded himself. Cowboy learns that tank support is not available and orders the team to prepare for withdrawal. The squad's machine gunner, Animal Mother (Adam Baldwin) disobeys Cowboy and attempts to save his teammates.He discovers there is only one sniper, but Doc Jay and Eightball are killed when Doc attempts to indicate the sniper's location. While maneuvering towards the sniper, Cowboy is shot and killed.\nAnimal Mother assumes command of the squad and leads an attack on the sniper. Joker discovers the sniper, a teenage girl, and attempts to shoot her, but his rifle jams and alerts her to his presence. Rafterman shoots the sniper, mortally wounding her. As the squad converge, the sniper begs for death, prompting an argument about whether or not to kill her. Animal Mother decides to allow a mercy killing only if Joker performs it. After some hesitation, Joker shoots her.The Marines congratulate him on his kill as Joker stares into the distance, displaying the thousand-yard stare. The Marines march toward their camp, singing the Mickey Mouse March. Joker states that despite being \"in a world of shit,\" he is glad to be alive and no longer afraid.",
+  "imdb_score": 8.3
+}

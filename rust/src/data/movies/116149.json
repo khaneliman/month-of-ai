@@ -1,0 +1,386 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/wqX1vVZnBWwb0E18kt4epWYL90z.jpg",
+  "id": 116149,
+  "title": "Paddington",
+  "poster_path": "https://image.tmdb.org/t/p/w500/y7lFcSKhFrcelocr2VFflJnVzIH.jpg",
+  "release_date": "2014-11-24",
+  "vote_average": 7.075,
+  "vote_count": 3474,
+  "popularity": 25.511,
+  "overview": "A young Peruvian bear travels to London in search of a new home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family.",
+  "imdb_id": "tt1109624",
+  "budget": 55000000,
+  "homepage": "http://www.paddington.com/",
+  "revenue": 259207227,
+  "runtime": 96,
+  "tagline": "The adventure begins.",
+  "genres": [
+    "Comedy",
+    "Adventure",
+    "Family"
+  ],
+  "production_companies": [
+    "Heyday Films",
+    "StudioCanal",
+    "Anton Capital Entertainment",
+    "TF1 Films Production",
+    "Canal+",
+    "Ciné+",
+    "TF1"
+  ],
+  "production_countries": [
+    "FR",
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Ben Whishaw",
+        "character": "Paddington (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e74Cz65ifeNb9zHfUTvF5rTix0d.jpg"
+      },
+      {
+        "name": "Hugh Bonneville",
+        "character": "Henry Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/efsEe68avi6kKvnAcGRHDYxtiIm.jpg"
+      },
+      {
+        "name": "Sally Hawkins",
+        "character": "Mary Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/osYgwtQIiNbPFc8JkFDxreBgqxZ.jpg"
+      },
+      {
+        "name": "Madeleine Harris",
+        "character": "Judy Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tvwnWhlM2M8RTOnnHc2wU7aE3yw.jpg"
+      },
+      {
+        "name": "Samuel Joslin",
+        "character": "Jonathan Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cVVp0DEfC0Hsu1s2oalM6iQyTMi.jpg"
+      },
+      {
+        "name": "Nicole Kidman",
+        "character": "Millicent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg"
+      },
+      {
+        "name": "Julie Walters",
+        "character": "Mrs. Bird",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
+      },
+      {
+        "name": "Imelda Staunton",
+        "character": "Aunt Lucy (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tABRYOHUQeaUCAqrelJV5ZHjl1W.jpg"
+      },
+      {
+        "name": "Peter Capaldi",
+        "character": "Reginald Curry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rkNPOxjKJ5HsKuxwAeENUl5yVDb.jpg"
+      },
+      {
+        "name": "Michael Gambon",
+        "character": "Uncle Pastuzo (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+      },
+      {
+        "name": "Jim Broadbent",
+        "character": "Samuel Gruber",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jTyvGwwR1NFpvgDhcmuWZCM241w.jpg"
+      },
+      {
+        "name": "Madeleine Worrall",
+        "character": "Agatha Clyde",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f8TI0MsavCBQaUo6CHqj6ETAB1q.jpg"
+      },
+      {
+        "name": "Tim Downie",
+        "character": "Montgomery Clyde",
+        "profile_path": "https://image.tmdb.org/t/p/w185/reyrUHA8M5iFLY3rxRfZD9Ap98S.jpg"
+      },
+      {
+        "name": "Matt King",
+        "character": "Andre the Thief",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mjtX49ZUSmjBqgcr90uSqXvkgZc.jpg"
+      },
+      {
+        "name": "Simon Farnaby",
+        "character": "Barry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ki10aIf7pVkfYun2qn9XxbC2U3K.jpg"
+      },
+      {
+        "name": "Kayvan Novak",
+        "character": "Grant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2cJuw1nGFHyJTMj8YIh91cvErSm.jpg"
+      },
+      {
+        "name": "Matt Lucas",
+        "character": "Joe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2OhGLJqiknaWlbTkG2KDwT935km.jpg"
+      },
+      {
+        "name": "Jonathan Derbyshire",
+        "character": "Master Gruber",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary Roscoe",
+        "character": "Master Gruber's Aunt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/92Ec3yY8zyDrgifreAMPXkeMHQE.jpg"
+      },
+      {
+        "name": "Jude Wright",
+        "character": "Tony",
+        "profile_path": ""
+      },
+      {
+        "name": "Lottie Steer",
+        "character": "Young Millicent",
+        "profile_path": ""
+      },
+      {
+        "name": "Alice Lowe",
+        "character": "Geographers' Guild Receptionist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xdsdqVc8yDdHd677a0rzQRwQZ5G.jpg"
+      },
+      {
+        "name": "Will Smith",
+        "character": "Geographer (Present Day)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2MndmsbL0PE5oNj1t00v4jUwtaS.jpg"
+      },
+      {
+        "name": "Toby Williams",
+        "character": "Geographer (Present Day)",
+        "profile_path": ""
+      },
+      {
+        "name": "Catherine Shepherd",
+        "character": "Geographer (Present Day)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2MY9wFTqnAPGGRn8KIFRZfN1cs0.jpg"
+      },
+      {
+        "name": "Sean Bridgeman",
+        "character": "Morgan Clyde",
+        "profile_path": ""
+      },
+      {
+        "name": "Cleo Sylvestre",
+        "character": "Marjorie Clyde",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iYn0Vz1rdlUthTy35oC2JY5Pxz.jpg"
+      },
+      {
+        "name": "Geoffrey Palmer",
+        "character": "Head Geographer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wfFydeTnTIdtu8oKcY7SCo7u7pg.jpg"
+      },
+      {
+        "name": "Gus Brown",
+        "character": "Second Geographer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3a5gaKThRbADd3cHZDdSDGLndr6.jpg"
+      },
+      {
+        "name": "Rufus Jones",
+        "character": "Third Geographer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sGgwNVXCvDOC4x9CtJqQAFida8N.jpg"
+      },
+      {
+        "name": "Kenneth Hadley",
+        "character": "Fourth Geographer",
+        "profile_path": ""
+      },
+      {
+        "name": "David McKail",
+        "character": "Fifth Geographer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bbGMBQo8DGkqJkTwEC31Hj8SPuK.jpg"
+      },
+      {
+        "name": "James Bachman",
+        "character": "Sixth Geographer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Fme06hFfa3H3tTMcyGVXqYaCBL.jpg"
+      },
+      {
+        "name": "Javier Marzan",
+        "character": "Buckingham Palace Sentry",
+        "profile_path": ""
+      },
+      {
+        "name": "Llewella Gideon",
+        "character": "Class Teacher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eSf14bAlQ5faRVAhEP66VV0hI52.jpg"
+      },
+      {
+        "name": "Justin Edwards",
+        "character": "Desk Sergeant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vhAAVpzdswyq95pmVyKv9PsQPyQ.jpg"
+      },
+      {
+        "name": "Iain Mitchell",
+        "character": "Dog Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hyWejQQnNfXETrSne4yp3JSjLNm.jpg"
+      },
+      {
+        "name": "Barry Ashton",
+        "character": "Judge",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Bond",
+        "character": "Kindly Gentleman",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Edge",
+        "character": "Natural History Museum Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hcb1Yh4s9gIXxBhLgbCpNtMnbuS.jpg"
+      },
+      {
+        "name": "Steve Oram",
+        "character": "Paddington Station Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lRLC2evuvWxFtq0aq7Te4I1L9MS.jpg"
+      },
+      {
+        "name": "Tom Meeten",
+        "character": "Paddington Station Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2mIH4SHZL2uPUgz7LCZ5ErCEI1G.jpg"
+      },
+      {
+        "name": "Hamish McColl",
+        "character": "Petting Zoo Keeper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lGDUTDlPNDcJeY94LpEX0FojiiS.jpg"
+      },
+      {
+        "name": "Dominic Coleman",
+        "character": "Policeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pUwQtLSoGjrXffVPrxGZCyTQ4wC.jpg"
+      },
+      {
+        "name": "Tarik Blake",
+        "character": "Pupil",
+        "profile_path": ""
+      },
+      {
+        "name": "Theresa Watson",
+        "character": "Stenographer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ross Boatman",
+        "character": "Trader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mEGP5y5jvCgnogSYJz27fXAHW71.jpg"
+      },
+      {
+        "name": "Eddie Nestor",
+        "character": "Underground Ticket Inspector",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sX6uuO7kILMkm9Xqj9Jgfvivb7U.jpg"
+      },
+      {
+        "name": "George Newton",
+        "character": "Angel (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5uuxFcMFRxo9dr9bDSz4cesjVwd.jpg"
+      },
+      {
+        "name": "Alexander Bracq",
+        "character": "Commuter #1 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ancuta Breaban",
+        "character": "Commuter #2 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sWaz2bQgOZduMCk5oUSJAlndbtt.jpg"
+      },
+      {
+        "name": "Faith Elizabeth",
+        "character": "Commuter #3 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t4EswQ08AsLvwkpyEMse1m1GqG.jpg"
+      },
+      {
+        "name": "Barrie Martin",
+        "character": "Commuter #4 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Stuart Matthews",
+        "character": "Commuter #5 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zm2wqWmwcVpzWk6DFRYOKJAEfOQ.jpg"
+      },
+      {
+        "name": "Fabio Vollono",
+        "character": "Commuter #7 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Julie Vollono",
+        "character": "Commuter #8 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew David McCarthy",
+        "character": "Docker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Denis Khoroshko",
+        "character": "Immigrant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rbvHeDJ4fYUoJd43ajxQ38h2ZB3.jpg"
+      },
+      {
+        "name": "Jack Philips",
+        "character": "Market Stall Owner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Asim Chaudhry",
+        "character": "Security Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1F0DwOpxUAEpw5iovMHZ5Y1C8n6.jpg"
+      },
+      {
+        "name": "Nigel Genis",
+        "character": "Station Blocker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Lawrence",
+        "character": "Trader (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Vic Waghorn",
+        "character": "Additional Voices (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zO2rqxgCTIOSWzzk4nWDylNTBXd.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Paul King",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hDixADZQOBP0E3G9ZxC4kuNHO0.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "london, england",
+    "based on novel or book",
+    "peru",
+    "anthropomorphism",
+    "bear",
+    "based on children's book",
+    "family",
+    "talking to animals",
+    "children's book",
+    "taxidermist",
+    "live action and animation",
+    "personification",
+    "natural history museum"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.",
+    "A young Peruvian bear with a passion for all things British travels to London in search of a home. Finding himself lost and alone at Paddington Station, he begins to realize that city life is not all he had imagined--until he meets the kind Brown family, who read the label around his neck ('Please look after this bear. Thank you.') and offer him a temporary haven. It looks as though his luck has changed until this rarest of bears catches the eye of a museum taxidermist.—Marmalade Films",
+    "In the deep jungles of darkest Peru, British geographer Montgomery Clyde (Tim Downey) happens upon a previously-unknown species of bear. He is about to shoot it, to take it back as a specimen to the United Kingdom, when another bear playfully takes his gun away. He learns that this family of bears is intelligent and can learn English, and that they have a big appetite for marmalade. He names them Lucy (Imelda Staunton) and Pastuzo (Sir Michael Gambon). As he departs, he throws his hat to Pastuzo and tells the bears that they are always welcome should they wish to go to London. Several years later, the two bears are living in harmony with their nephew when an earthquake strikes their home, forcing them to seek shelter underground. After being trapped by a falling tree, Uncle Pastuzo is unable to reach the shelter in time and dies from his injuries. The next morning, Uncle Pastuzo's hat is found by his nephew, Paddington (Ben Whishaw). Aunt Lucy encourages her nephew to go find solace in London, and stows him away on a cargo ship, after which she says she will move into the Home for Retired Bears."
+  ],
+  "synopsis": "In the deep jungles of darkest Peru, a British geographer named Montgomery Clyde happens upon a previously unknown species of bear. He is about to shoot it to take back a specimen to England when another bear playfully takes his gun away. He learns that this family of bears is intelligent and can learn English, and that they have a deep appetite for marmalade. He names them Lucy and Pastuzo. As he departs, he throws his hat to Pastuzo and tells the bears that they are always welcome should they wish to go to London.Years later, the two bears are living in harmony with their nephew when an earthquake strikes their home, forcing them to seek shelter underground. Distracted and upset at the loss of his home, Pastuzo is unable to reach the shelter in time. He disappears, with his hat being found the next day by his nephew. Aunt Lucy encourages her nephew to go and find solace in London, and stows him away on a cargo ship, after which she says she will move into the Home for Retired Bears.The young bear reaches London, but he fails to find a home. He is taken in briefly by the Brown family, who name him after Paddington Station, where they found him. Henry Brown, a devoted risk analyst, is adamant that Paddington (Ben Whishaw) stay only one night while they find a place for him to live permanently. Paddington causes a series of accidents across the house, further isolating himself from the Browns.Paddington thinks he can find a home with the explorer who found his aunt and uncle but does not know the explorer's name. Mary Brown (Sally Hawkins) takes Paddington to an antique shop owner who discovers that the hat bears the stamp of the Geographers Guild, but the Guild says that it never sent a member to explore darkest Peru. With the help of Mr. Brown (Hugh Bonneville), Paddington infiltrates the Geographers Guild archives and discovers an expedition to Peru was undertaken by Montgomery Clyde. He uses the city's phone books to track the addresses of all the \"M Clyde's\" in London.Meanwhile, a sadistic museum taxidermist named Millicent Clyde (Nicole Kidman) captures, kills, and stuffs exotic animals to house in the Natural History Museum. When she becomes aware of Paddington, she immediately sets out to hunt him down. The Brown family departs for the day, leaving Paddington home alone. Scheming with the Browns' nosy neighbor Mr. Curry, Millicent sneaks in and attempts to capture Paddington; he inadvertently repels her, but burns the kitchen in the process. Oblivious to Paddington's statement of Millicent's capture attempt, the Browns state that he must move into a new house as soon as possible.Feeling unwanted at the Browns, Paddington leaves and attempts to track Montgomery Clyde himself. He finally locates the house, only to discover that Clyde died many years ago, and that Millicent is actually his daughter - who resents her father for losing his job and membership with the museum; out of a change of heart, he refused to bring a valuable Peruvian bear specimen home, even though it would have made him the wealthiest man in the world.Millicent is determined to succeed where her father failed and become rich and famous herself. She tranquilizes Paddington and prepares to stuff him, but when Mr. Curry discovers her true intentions, he informs the Brown family, and they rush to save Paddington. They rescue him, and Paddington subdues Millicent by throwing a marmalade sandwich at her, which attracts a huge flock of pigeons, distracting her as family relative Mrs. Bird (Julie Walters) opens a roof hatch and inadvertently pushes her off of the roof, trapping her on a flagpole.In the aftermath, the Browns adopt Paddington into their family and Millicent is sentenced to community service at a petting zoo. Paddington writes to Aunt Lucy saying he is happy and has finally found a home.",
+  "imdb_score": 7.3
+}

@@ -1,0 +1,688 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/w9QfTrYmtoA96zJlVNvjS8eucf8.jpg",
+  "id": 402900,
+  "title": "Ocean's Eight",
+  "poster_path": "https://image.tmdb.org/t/p/w500/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+  "release_date": "2018-06-07",
+  "vote_average": 6.989,
+  "vote_count": 7940,
+  "popularity": 51.227,
+  "overview": "Debbie Ocean, a criminal mastermind, gathers a crew of female thieves to pull off the heist of the century at New York's annual Met Gala.",
+  "imdb_id": "tt5164214",
+  "budget": 70000000,
+  "homepage": "https://www.warnerbros.com/movies/oceans-8",
+  "revenue": 297718711,
+  "runtime": 111,
+  "tagline": "Every con has its pros",
+  "genres": [
+    "Crime",
+    "Comedy",
+    "Action"
+  ],
+  "production_companies": [
+    "Village Roadshow Pictures",
+    "Warner Bros. Pictures",
+    "Larger Than Life Productions",
+    "Rahway Road Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Sandra Bullock",
+        "character": "Deborah 'Debbie' Ocean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u2tnZ0L2dwrzFKevVANYT5Pb1nE.jpg"
+      },
+      {
+        "name": "Cate Blanchett",
+        "character": "Lou Miller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A3nZcGx0qUhbb9fpNK65oPgCJtC.jpg"
+      },
+      {
+        "name": "Sarah Paulson",
+        "character": "Tammy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xIreolwunSHSPdNSJ6IEL5bmTJ5.jpg"
+      },
+      {
+        "name": "Anne Hathaway",
+        "character": "Daphne Kluger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg"
+      },
+      {
+        "name": "Awkwafina",
+        "character": "Constance",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l5AKkg3H1QhMuXmTTmq1EyjyiRb.jpg"
+      },
+      {
+        "name": "Helena Bonham Carter",
+        "character": "Rose Weil",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3D0dHVJ8YeVP8Uag0JUIIQji7C8.jpg"
+      },
+      {
+        "name": "Mindy Kaling",
+        "character": "Amita",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zd3sxyCKUTIWgvf8tcGo1Gur2By.jpg"
+      },
+      {
+        "name": "Rihanna",
+        "character": "Leslie 'Nine Ball'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/piXUA7L0gWQNtnDPXtBe24C9FF6.jpg"
+      },
+      {
+        "name": "Richard Armitage",
+        "character": "Claude Becker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lRWWodfrOd5SaLnFrz7UryFhasI.jpg"
+      },
+      {
+        "name": "James Corden",
+        "character": "John Frazier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xGB0gfZ48M27gQjjL7inJIh1Pqj.jpg"
+      },
+      {
+        "name": "Dakota Fanning",
+        "character": "Penelope Stern",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xPxZqf4uzP4j37Tpmh9v8A47UAi.jpg"
+      },
+      {
+        "name": "Nathanya Alexander",
+        "character": "Veronica",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Cbdc1ERk7FzsrJoX46gZl6jSbe.jpg"
+      },
+      {
+        "name": "Damian Young",
+        "character": "David Welch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a4r1lpQT3OQoyz1WdsZG6WHvFjy.jpg"
+      },
+      {
+        "name": "Elliott Gould",
+        "character": "Reuben Tishkoff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ismZMvs8QxRR33OAVp9AKr3TokP.jpg"
+      },
+      {
+        "name": "Marlo Thomas",
+        "character": "Rene",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cgJJ2Uc3KhgRYTVPX69EEsu7uRS.jpg"
+      },
+      {
+        "name": "Dana Ivey",
+        "character": "Diana",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oQEeRwEb9w4TuSVp334OP9z6Ljm.jpg"
+      },
+      {
+        "name": "Mary Louise Wilson",
+        "character": "Marlene",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sCWT5ygDqoegJzcZTwt063Dyrsk.jpg"
+      },
+      {
+        "name": "Elizabeth Ashley",
+        "character": "Ethel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xtUALRSTXGryJvvgmTi4jXIPA49.jpg"
+      },
+      {
+        "name": "Anna Wintour",
+        "character": "Anna Wintour",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n14ZUjdjBkdFKDJsbvUubcYPA4i.jpg"
+      },
+      {
+        "name": "Maria Sharapova",
+        "character": "Maria Sharapova",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iL1xRYy05e1hfdXLLFGkgCcD4vX.jpg"
+      },
+      {
+        "name": "Serena Williams",
+        "character": "Serena Williams",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qMoRnzYuUkqb8VZjbX4XWZeQZzY.jpg"
+      },
+      {
+        "name": "Kim Kardashian",
+        "character": "Kim Kardashian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m1n016D9VXW1n3gtdnrEZdnTk9s.jpg"
+      },
+      {
+        "name": "Common",
+        "character": "Common",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eggJAnJxpn8wYraX7ea5svETB54.jpg"
+      },
+      {
+        "name": "Adriana Lima",
+        "character": "Adriana Lima",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b8LNqUPTTdt77XSO4qLT2a0NaQe.jpg"
+      },
+      {
+        "name": "Desiigner",
+        "character": "Desiigner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n33xIKIvGjDZ8CzUGmVjUlPf40L.jpg"
+      },
+      {
+        "name": "Kylie Jenner",
+        "character": "Kylie Jenner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pUrN9ASMlcgOk0WcoE8ee2QMSKf.jpg"
+      },
+      {
+        "name": "Alexander Wang",
+        "character": "Alexander Wang",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dA2f0YgDofqcCLYlWms7H95q5nK.jpg"
+      },
+      {
+        "name": "Liu Wen",
+        "character": "Liu Wen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xui0wSJhWK87TmIJD0F1BIfTAOd.jpg"
+      },
+      {
+        "name": "Kendall Jenner",
+        "character": "Kendall Jenner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f2LQHjGyTkZVi1RS3qhjSpnb6hG.jpg"
+      },
+      {
+        "name": "Gigi Hadid",
+        "character": "Gigi Hadid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3TZAzFuHU19MaF5tufJ2apG6fOE.jpg"
+      },
+      {
+        "name": "Lily Aldridge",
+        "character": "Lily Aldridge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ptVclA6PAjl2bJtVJgU2nFPGygh.jpg"
+      },
+      {
+        "name": "Olivia Munn",
+        "character": "Olivia Munn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iDQjE8DesSGpoIi3l6mx1YoOuI7.jpg"
+      },
+      {
+        "name": "Jaime King",
+        "character": "Jaime King",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xtyG19zqvdg9s9nCbELxVNRFg40.jpg"
+      },
+      {
+        "name": "Hailey Bieber",
+        "character": "Hailey Bieber",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Atdt3lWM5CAkLG2ehqFqID4SzX7.jpg"
+      },
+      {
+        "name": "Derek Blasberg",
+        "character": "Derek Blasberg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y0I5NLanbccVuGM5ap6HX3f9QqC.jpg"
+      },
+      {
+        "name": "Sofia Richie",
+        "character": "Sofia Richie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aTpX12s1QImof39AXPuC3ZI4aI7.jpg"
+      },
+      {
+        "name": "Rainey Qualley",
+        "character": "Rainey Qualley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xh2GL0slcwz5HS79wko4cvmE6Qx.jpg"
+      },
+      {
+        "name": "Midori Francis",
+        "character": "April",
+        "profile_path": "https://image.tmdb.org/t/p/w185/we9Z3uiLUi06NxKXYNpcexrYOJx.jpg"
+      },
+      {
+        "name": "Gemma Forbes",
+        "character": "Mrs. Randall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qYUC9KK2Ulb7FsulQxuXzqepi6.jpg"
+      },
+      {
+        "name": "Charlotte Kirk",
+        "character": "Cara",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v2rgc2lVbZf3fcea60IG6kpa2DI.jpg"
+      },
+      {
+        "name": "Whitney White",
+        "character": "Cynthia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mAnqv6Eg1AwjscTebrZkmcxsdvX.jpg"
+      },
+      {
+        "name": "Brian J. Carter",
+        "character": "Mr. Randall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tc0TNWCRSzprjpiEGxgQ6Pv1VA9.jpg"
+      },
+      {
+        "name": "Timothy Woods",
+        "character": "Derek",
+        "profile_path": "https://image.tmdb.org/t/p/w185/80beaD2cequICDaIJX0gBg66r2U.jpg"
+      },
+      {
+        "name": "Talia Cuomo",
+        "character": "Keri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/caq7cPfQv0XySuTohq7jEgkie80.jpg"
+      },
+      {
+        "name": "Charles Prendergast",
+        "character": "Charlie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/61Vue8dkhBRxIrecyzs9YMBqjSA.jpg"
+      },
+      {
+        "name": "Richard Robichaux",
+        "character": "Lawrence",
+        "profile_path": "https://image.tmdb.org/t/p/w185/njqjUdziijDcTZtkm0Gtfybfs35.jpg"
+      },
+      {
+        "name": "Gideon Glick",
+        "character": "Kyle McCallister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3nf1wh0bG5KoInS26FBtsIoRa6A.jpg"
+      },
+      {
+        "name": "James Hindman",
+        "character": "Paul Damanian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2MBfOXD3AKzUcPfDVMtfAvyBsP3.jpg"
+      },
+      {
+        "name": "Eaddy Kiernan",
+        "character": "Eaddy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fA2zF6kWPEeCXvU0fdnnLVzgasp.jpg"
+      },
+      {
+        "name": "McNally Sagal",
+        "character": "Detective Morris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y0aPgUK7xJcJmfj176hWKPApGVk.jpg"
+      },
+      {
+        "name": "Caitlin Mehner",
+        "character": "Pamela",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yohvb88GuHBAphAxNIcYgsDy3BK.jpg"
+      },
+      {
+        "name": "James Biberi",
+        "character": "Yuri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/21MSeCL5FnShLSjZvFvI1t3vcPI.jpg"
+      },
+      {
+        "name": "Migs Govea",
+        "character": "Guillermo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8B2EXjlGb6IHArQ97qbeXiMpuUz.jpg"
+      },
+      {
+        "name": "Shannon Freyer",
+        "character": "Lorraine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kvCStxe6XXEYb81ImVkv0YScITf.jpg"
+      },
+      {
+        "name": "Freddy J. Davila",
+        "character": "Plaza Hotel Doorman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hYbYANh4YIDsfgld0g44RQJnhgI.jpg"
+      },
+      {
+        "name": "Francesca Calo",
+        "character": "Plaza Hotel Maid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uLMCKafNYnKMZXYrFyTSZoTCAli.jpg"
+      },
+      {
+        "name": "Deidre Goodwin",
+        "character": "Prison Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/blAXw9QaByjg0AgCZM8hkXDwtXP.jpg"
+      },
+      {
+        "name": "Sas Goldberg",
+        "character": "Press Conference Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vittrEB80rZjQNDYMQzdt1cVLux.jpg"
+      },
+      {
+        "name": "Linda Atkinson",
+        "character": "Chairwoman",
+        "profile_path": ""
+      },
+      {
+        "name": "Craig Waletzko",
+        "character": "Omaha Banker #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Naheed Khan",
+        "character": "Amita's Mother",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexandre De Betak",
+        "character": "Fashion Show Designer",
+        "profile_path": ""
+      },
+      {
+        "name": "Will Stephen",
+        "character": "3 Card Monty Chump",
+        "profile_path": "https://image.tmdb.org/t/p/w185/TOsSXlmaRux0Gc45eic4E0jcKb.jpg"
+      },
+      {
+        "name": "Alexander Blaise",
+        "character": "Cartier President",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iRL6j4fAEu3okfvYOm9BWD4VCIe.jpg"
+      },
+      {
+        "name": "Asher Bailey",
+        "character": "Tinder Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Anthony Wilson",
+        "character": "Met American Wing Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hclegxaGvuBIT3N6q6OrFFter6p.jpg"
+      },
+      {
+        "name": "David Little",
+        "character": "Bingo Master",
+        "profile_path": ""
+      },
+      {
+        "name": "Liana Wright-Mark",
+        "character": "Gallery Receptionist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5EHMPPxS4p8cWNaxqYvpSmFHHd7.jpg"
+      },
+      {
+        "name": "Christopher Batyr",
+        "character": "Maitre'd",
+        "profile_path": ""
+      },
+      {
+        "name": "Clark Carmichael",
+        "character": "Undercover Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rkk2AnclGlMPwGBwkSKvWrCKpNF.jpg"
+      },
+      {
+        "name": "Nancy Lemenager",
+        "character": "Undercover Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lpIgKtTfH9bZMNzEg4xddU69OYI.jpg"
+      },
+      {
+        "name": "Bianca LaVerne Jones",
+        "character": "Detective",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uuq2w6tt1gL2abYQiXC77dLvUIJ.jpg"
+      },
+      {
+        "name": "Natasha Harper",
+        "character": "Museum Gala Head Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Grant Hyun",
+        "character": "Hipster Customer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zUbul6VP5mVsRzv99esZGjptwbs.jpg"
+      },
+      {
+        "name": "Tatiana Spottiswoode",
+        "character": "Hipster Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "Edward Barsamian",
+        "character": "Vogue Red Carpet Host",
+        "profile_path": ""
+      },
+      {
+        "name": "Whit Anderson",
+        "character": "Museum Gala Host",
+        "profile_path": ""
+      },
+      {
+        "name": "Conor Donovan",
+        "character": "Bus Boy #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qvrPwtXBZnaqm5IokFQAtlEVgTv.jpg"
+      },
+      {
+        "name": "Michael Gandolfini",
+        "character": "Bus Boy #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2FiNO0Ns7gBTtcGEDUSoskoRSIT.jpg"
+      },
+      {
+        "name": "Robert G. McKay",
+        "character": "Detective",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9doNuNVyu2wM59BsbKNRotV2W7p.jpg"
+      },
+      {
+        "name": "Soraya Butler",
+        "character": "Auctioneer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fQ9vmrEM9MYm9HiKeWR3AhUd3T6.jpg"
+      },
+      {
+        "name": "Waris Ahluwalia",
+        "character": "Waris Ahluwalia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3vZYvthY4xqkr5MroOmZn0YwIdA.jpg"
+      },
+      {
+        "name": "Dennis Basso",
+        "character": "Dennis Basso",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Bolton",
+        "character": "Andrew Bolton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yGDpD4dY1IFqRRFviyE4ezbR0Mk.jpg"
+      },
+      {
+        "name": "Hamish Bowles",
+        "character": "Hamish Bowles",
+        "profile_path": ""
+      },
+      {
+        "name": "Leon Bridges",
+        "character": "Leon Bridges",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sFUn3zM9PM7dorZpCuhowOxIBMa.jpg"
+      },
+      {
+        "name": "Cindy Bruna",
+        "character": "Cindy Bruna",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Ae6e2WwMJwVLofxOZ4xbHnamABE.jpg"
+      },
+      {
+        "name": "Anna Ewers",
+        "character": "Anna Ewers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nQ37vKRaYIvzzbJt09fq9WoAYAU.jpg"
+      },
+      {
+        "name": "Wes Gordon",
+        "character": "Wes Gordon",
+        "profile_path": ""
+      },
+      {
+        "name": "Tonne Goodman",
+        "character": "Tonne Goodman",
+        "profile_path": ""
+      },
+      {
+        "name": "Prabal Gurung",
+        "character": "Prabal Gurung",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Harvey",
+        "character": "Matt Harvey",
+        "profile_path": ""
+      },
+      {
+        "name": "Dee Hilfiger",
+        "character": "Dee Hilfiger",
+        "profile_path": ""
+      },
+      {
+        "name": "Tommy Hilfiger",
+        "character": "Tommy Hilfiger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vkooXNGHroFNa4Z0XJeX45n7bEx.jpg"
+      },
+      {
+        "name": "Aerin Lauder",
+        "character": "Aerin Lauder",
+        "profile_path": ""
+      },
+      {
+        "name": "Nick Mangold",
+        "character": "Nick Mangold",
+        "profile_path": ""
+      },
+      {
+        "name": "John McEnroe",
+        "character": "John McEnroe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g3ZBeufFN7sAuNlMr2SeifRwyjN.jpg"
+      },
+      {
+        "name": "Wendi Murdoch",
+        "character": "Wendi Murdoch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2omhyMcrGaHkYRZeDhDuWh0SAmm.jpg"
+      },
+      {
+        "name": "Kimberly Pauley",
+        "character": "Kimberly Pauley",
+        "profile_path": ""
+      },
+      {
+        "name": "Amy Robach",
+        "character": "Amy Robach",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yyKcRM0T9DNnlpf6n5wXaDkBEZJ.jpg"
+      },
+      {
+        "name": "Sofia Sanchez de Betak",
+        "character": "Sofia Sanchez de Betak",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Simkhai",
+        "character": "Jonathan Simkhai",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tvg8JWmlRKRS4l1km2ZZgfkN39S.jpg"
+      },
+      {
+        "name": "Cameron Winklevoss",
+        "character": "Cameron Winklevoss",
+        "profile_path": "https://image.tmdb.org/t/p/w185/95R1S9LDLLXaM6SYvYclo06hpJN.jpg"
+      },
+      {
+        "name": "Tyler Winklevoss",
+        "character": "Tyler Winklevoss",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fbZC8DSCQtdHiJInhG8G4i8CIKH.jpg"
+      },
+      {
+        "name": "Georgia Witkin",
+        "character": "Georgia Witkin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tBPcAifM0CDetkiplzJwNyHIJxy.jpg"
+      },
+      {
+        "name": "Jason Wu",
+        "character": "Jason Wu",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zios9MMGv5ngFTivfnwbowrdFGY.jpg"
+      },
+      {
+        "name": "Griffin Dunne",
+        "character": "Parole Board Officer (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oZeAznfOHgK1Kvy9TknkQhag1Um.jpg"
+      },
+      {
+        "name": "Daniella Rabbani",
+        "character": "Bergdorf Salesperson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tf7THiguYop2oGtl9N66cnHblg.jpg"
+      },
+      {
+        "name": "Daniel May Wong",
+        "character": "Costume Exhibit Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pEItGyhw8XuqEdWXovZvcaTvuBf.jpg"
+      },
+      {
+        "name": "Jill Marie Lawrence",
+        "character": "Costume Exhibit Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xgvu3P8jRavjIw5XvDjYOnB9Ck6.jpg"
+      },
+      {
+        "name": "Kevin Brown",
+        "character": "Gala Great Hall Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wvJv6j2Jaf15Op4YmK1n2aLmCkL.jpg"
+      },
+      {
+        "name": "Jimmy Kieffer",
+        "character": "Museum Gala Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8ibUg5Wow8e09Snzl53h0H4nUZm.jpg"
+      },
+      {
+        "name": "Steven Hauck",
+        "character": "Omaha Banker #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rLvZ1U9bPj0gmO3O7igtAMqAqAR.jpg"
+      },
+      {
+        "name": "David Gibson",
+        "character": "Omaha Banker #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/erQQp4lU9pOcFClh6O4pDF8ICrY.jpg"
+      },
+      {
+        "name": "Katherine Hozier-Adams",
+        "character": "Plaza Hotel Front Desk Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5tBsctk9cQ0yW2Uu1ORxa8ltPYJ.jpg"
+      },
+      {
+        "name": "Doug Yasuda",
+        "character": "Yardley Executive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1QaVcu5FJcRNT2DNu0OABDwi32O.jpg"
+      },
+      {
+        "name": "Simon Feil",
+        "character": "Yardley Executive #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nOSwWv1U4hemIEsbEfCGOoXK0FJ.jpg"
+      },
+      {
+        "name": "Suzanne Jaehne",
+        "character": "Yardley Executive #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o8kLn8bUlLYi3ahatgWjmJpqaSq.jpg"
+      },
+      {
+        "name": "Shaobo Qin",
+        "character": "Yen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lACyYvn3U1CfDWoT4Ft0qI5CJA7.jpg"
+      },
+      {
+        "name": "Katie Holmes",
+        "character": "Katie Holmes (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gDhc9rLbhpXdY8lISD7yPiIhvp4.jpg"
+      },
+      {
+        "name": "Zac Posen",
+        "character": "Zac Posen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k716nVSENElRpi2nWiOMI2FBXzh.jpg"
+      },
+      {
+        "name": "Heidi Klum",
+        "character": "Heidi Klum (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/MGMNEZweA0DzFym5iNTA8DGb7V.jpg"
+      },
+      {
+        "name": "Lauren Santo Domingo",
+        "character": "Lauren Santo Domingo (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jzZ7BxW7hW2Qkw8xS48HFvbj1ut.jpg"
+      },
+      {
+        "name": "Griffin Newman",
+        "character": "Conned Man (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gKmdhd1JiPcm0M0iKuylJHoCsmb.jpg"
+      },
+      {
+        "name": "Nina Cuso",
+        "character": "Vogue Editor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a8Y6S6qraCNraxmip92M1B5Upwi.jpg"
+      },
+      {
+        "name": "Sophia Slaysman",
+        "character": "Fashion Show Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e2XvtAgBs8A0hijm4PNZyTYaMLE.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Gary Ross",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fEZbjmP02SIaXf1PLYhBE7uzWGn.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "heist",
+    "spin off",
+    "estranged sister",
+    "the met gala"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Debbie Ocean gathers an all-female crew to attempt an impossible heist at New York City's annual Met Gala.",
+    "Following her release from prison, Debbie Ocean, younger sister of the late Danny Ocean, meets with her former partner-in-crime Lou to convince her to join a heist that she planned while serving her sentence. Debbie and Lou assemble the rest of their team: Rose Weil, a disgraced fashion designer who is deeply in debt with the IRS; Amita, a jewelry maker and friend of Debbie's who is eager to move out of her mother's house and start her own life; Nine Ball, a computer hacker; Constance, a street hustler and pickpocket; and Tammy, a profiteer and another friend of Debbie's who has been secretly selling stolen goods out of her family's suburban home. Debbie plans to steal the Toussaint, a $150 million Cartier necklace, from the Met Gala in three-and-a-half weeks, and use Met Gala co-host Daphne Kluger, a famous actress known for her long neck, as an unwitting mule who will wear the necklace into the gala.—mediaknite",
+    "Having all the time in the world to iron out the details of her ambitious next project, charismatic con artist Debbie Ocean, Danny Ocean's younger sister, contacts her former accomplice Lou to lend her a hand. And after serving a five-year stint in jail, Debbie picks up where she left off and assembles an all-female dream team of experts to pull off her $150-million magnum opus: steal Cartier's radiant Toussaint diamond necklace adorning the swanlike neck of the renowned actress, Daphne Kluger. But in the upcoming Met Gala, all eyes will be on Daphne and her exquisite necklace. How on earth will Ocean's Eight manage to snatch it in plain sight?—Nick Riganas"
+  ],
+  "synopsis": "Following release from prison, Debbie Ocean (Sandra Bullock), younger sister of the late Danny Ocean, meets with her former partner-in-crime Lou (Cate Blanchett) to convince her to join a heist that she planned while serving her sentence. Debbie and Lou assemble the rest of their team: Rose Weil (Helena Bonham Carter), a disgraced fashion designer who is deeply in debt with the IRS; Amita (Mindy Kaling), a jewelry maker and friend of Debbie's who is eager to move out of her mother's house and start her own life; Nine Ball (Rihanna), a computer cracker; Constance (Awkwafina), a street hustler and pickpocket; and Tammy (Sarah Paulson), a profiteer and another friend of Debbie's who has been secretly selling stolen goods out of her family's suburban home.Debbie plans to steal the Toussaint, a $150 million Cartier necklace, from the Met Gala in five weeks, and use Met Gala co-host Daphne Kluger (Anne Hathaway), a dim-witted and snobby actress, as an unwitting mule who will wear the necklace into the gala. After the team manipulates Daphne into choosing Weil as her stylist (by setting up Weil's meeting with Daphne's rival for met gala showcase), Weil and Amita go to Cartier to convince them to let Daphne wear the Toussaint, as well as surreptitiously digitally scan it to later manufacture a zircon duplicate.\nDebbie hunts down her ex-boyfriend Claude Becker (Richard Armitage), an art dealer who ratted her out to the police when they were discovered for art fraud, which led to her arrest and imprisonment. Debbie manipulates Daphne to invite Becker as her date to the gala. Lou realizes that Debbie is out for revenge on Becker, but Debbie reassures her that everything will be fine.Weil discovers a flaw in the plan: The Toussaint can only be removed using a special magnet carried by the bodyguards hired by Cartier. Nine Ball enlists her younger sister, Veronica, to build a similar magnet in time for the gala. As the gala begins, Daphne consumes soup that Lou spiked, causing her to vomit in the restroom, where Constance takes the necklace. When the necklace is discovered to be missing, the museum is evacuated and searched; Tammy \"finds\" the duplicate necklace in order to end the search. Meanwhile, Amita retrieves the real necklace and begins disassembling it. She retools it into several pieces of jewelry and gives them to Constance to slip it to each member of the team. One of the real diamonds is planted on Becker.Soon after the gala, the fake necklace is identified when returned to Cartier, and John Frazier (James Corden), an insurance fraud investigator, is called in. Frazier, who has a history with the Ocean family, notices Debbie's presence and suspects her involvement in the heist, but unable to find any evidence against her solid alibi. Debbie assures Frazier that she does not know where the necklace is, but she may know where part of it is. Dropping her dimwitted persona, Daphne is revealed to have been in on the plan, tipped off by Weil's bad acting, and Debbie and Lou invited her in to keep her from ratting them out.Daphne visits Becker for a romantic evening, where she finds the diamonds planted on him by Debbie during the gala and sends a picture to Frazier so that he can obtain a warrant to arrest Becker for stealing the necklace. To further frame Becker, Debbie sells pieces of the necklace to actresses disguised as elderly socialites, who in turn sell the jewelry and deposit the money into an account in his name. Becker is arrested.As the eight celebrate their victory, Daphne asks Debbie and Lou how they each made so much money from the sale of one necklace. Lou reveals that while the gala was being evacuated, Lou and \"The Amazing\" Yen were stealing some of the Crown Jewels on display during the Gala, which makes their cuts higher than expected.Each member of the team goes their separate ways with their money: Amita goes to Paris with a man she met on Tinder; Weil pays off her debts and opens her own store; Constance buys a spacious loft in the city and becomes a YouTuber; Tammy expands her business in selling stolen goods; Nine Ball opens a pool bar; Daphne becomes a director; Lou goes on a cross-country road trip; and Debbie returns to Danny's grave to raise a toast to him with a martini in his honor.",
+  "imdb_score": 6.3
+}

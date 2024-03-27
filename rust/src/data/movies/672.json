@@ -1,0 +1,445 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/1stUIsjawROZxjiCMtqqXqgfZWC.jpg",
+  "id": 672,
+  "title": "Harry Potter and the Chamber of Secrets",
+  "poster_path": "https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+  "release_date": "2002-11-13",
+  "vote_average": 7.72,
+  "vote_count": 20940,
+  "popularity": 154.716,
+  "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione’s magical abilities and courage.",
+  "imdb_id": "tt0295297",
+  "budget": 100000000,
+  "homepage": "https://www.warnerbros.com/movies/harry-potter-and-chamber-secrets/",
+  "revenue": 876688482,
+  "runtime": 161,
+  "tagline": "Something evil has returned to Hogwarts!",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "Heyday Films",
+    "1492 Pictures"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Daniel Radcliffe",
+        "character": "Harry Potter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iPg0J9UzAlPj1fLEJNllpW9IhGe.jpg"
+      },
+      {
+        "name": "Rupert Grint",
+        "character": "Ron Weasley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+      },
+      {
+        "name": "Emma Watson",
+        "character": "Hermione Granger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tvPPRGzAzdQFhlKzLbMO1EpuTJI.jpg"
+      },
+      {
+        "name": "Kenneth Branagh",
+        "character": "Gilderoy Lockhart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+      },
+      {
+        "name": "Toby Jones",
+        "character": "Dobby (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1qNisdp4f1KstdfvAgYXMdrhwfk.jpg"
+      },
+      {
+        "name": "Robbie Coltrane",
+        "character": "Rubeus Hagrid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+      },
+      {
+        "name": "Richard Harris",
+        "character": "Albus Dumbledore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oJIS8QUOCfLUhsfK7kROkLHVyJh.jpg"
+      },
+      {
+        "name": "Alan Rickman",
+        "character": "Severus Snape",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+      },
+      {
+        "name": "Tom Felton",
+        "character": "Draco Malfoy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4fO0PjiBbNFEnYLPe55xUUP7Wgf.jpg"
+      },
+      {
+        "name": "Jason Isaacs",
+        "character": "Lucius Malfoy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+      },
+      {
+        "name": "Shirley Henderson",
+        "character": "Moaning Myrtle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rWE3okN5EUvCT8DVjK0xobKStfQ.jpg"
+      },
+      {
+        "name": "Richard Griffiths",
+        "character": "Vernon Dursley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iZLE14qeU9ytbJVrfpZ8S08Qmnf.jpg"
+      },
+      {
+        "name": "Julie Walters",
+        "character": "Molly Weasley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
+      },
+      {
+        "name": "Bonnie Wright",
+        "character": "Ginny Weasley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eCDdCvGYYlUM3neNJ1dwaPEgzqG.jpg"
+      },
+      {
+        "name": "Fiona Shaw",
+        "character": "Petunia Dursley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tjM74LcxwnYM77Csg1EtlXb1F9a.jpg"
+      },
+      {
+        "name": "Maggie Smith",
+        "character": "Minerva McGonagall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8e9l82x4oZvhq2FqyDcDWd51N8v.jpg"
+      },
+      {
+        "name": "Warwick Davis",
+        "character": "Filius Flitwick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nGorSpUIQWAEErxq8KdDcIF6Q00.jpg"
+      },
+      {
+        "name": "David Bradley",
+        "character": "Argus Filch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7yOYTDfO50PS187J9e5ojG4Fglt.jpg"
+      },
+      {
+        "name": "Sean Biggerstaff",
+        "character": "Oliver Wood",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6g9cQWg3ikD3xboDtyF8qKdpmgl.jpg"
+      },
+      {
+        "name": "Robert Hardy",
+        "character": "Cornelius Fudge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5FK7rDWRsbNwAMsHHpkpeGafFtu.jpg"
+      },
+      {
+        "name": "John Cleese",
+        "character": "Nearly Headless Nick (Sir Nicholas)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nQpBf77cStmR35V0XOinm2zZMWG.jpg"
+      },
+      {
+        "name": "Gemma Jones",
+        "character": "Poppy Pomfrey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qpvLa2bfCEbGI83RwDOyIThibQ6.jpg"
+      },
+      {
+        "name": "Miriam Margolyes",
+        "character": "Pomona Sprout",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q73xMZveDogt3e5uFknWMExLIyH.jpg"
+      },
+      {
+        "name": "Mark Williams",
+        "character": "Arthur Weasley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gdlEDhxSmPv3hWHbpTuwCI5Jrtk.jpg"
+      },
+      {
+        "name": "Harry Melling",
+        "character": "Dudley Dursley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b0pHwi2MeqxEpeWnF4Llihu53aJ.jpg"
+      },
+      {
+        "name": "James Phelps",
+        "character": "Fred Weasley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dk7kTamtnbgSA40Lg00aE36hljs.jpg"
+      },
+      {
+        "name": "Oliver Phelps",
+        "character": "George Weasley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kb00uK7sCDB5K6tiH5rav9kzAfl.jpg"
+      },
+      {
+        "name": "Chris Rankin",
+        "character": "Percy Weasley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bGrWreM4CeXWLJ7VulJnXoJfSgj.jpg"
+      },
+      {
+        "name": "Josh Herdman",
+        "character": "Gregory Goyle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hebwDG5XsbfMaEaWJ0X6OrvlXwW.jpg"
+      },
+      {
+        "name": "Jamie Waylett",
+        "character": "Vincent Crabbe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Eg3ImAsq5c5tNAyJFHcFC1lejf.jpg"
+      },
+      {
+        "name": "Christian Coulson",
+        "character": "Tom Riddle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kFwnSTUCCRFWSvqQAU1cykrLqPK.jpg"
+      },
+      {
+        "name": "Matthew Lewis",
+        "character": "Neville Longbottom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aPQCLK2gxWOallsFoEwjb1p9lWE.jpg"
+      },
+      {
+        "name": "Alfred Enoch",
+        "character": "Dean Thomas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eEVvPHmxRBcEGqtoTujncmwNDhR.jpg"
+      },
+      {
+        "name": "Devon Murray",
+        "character": "Seamus Finnigan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2z6tYeavTWh7muPvfTOKEZGyjjM.jpg"
+      },
+      {
+        "name": "Luke Youngblood",
+        "character": "Lee Jordan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fUHblnZSNAf1AnbPLMhDE16Sen.jpg"
+      },
+      {
+        "name": "Hugh Mitchell",
+        "character": "Colin Creevey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iKGEuJnUbYqxg0DaVexx10X9yNi.jpg"
+      },
+      {
+        "name": "Edward Randell",
+        "character": "Justin Finch-Fletchley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cDXYCqB7xi9mnPlAwIYC2oIVBCD.jpg"
+      },
+      {
+        "name": "Veronica Clifford",
+        "character": "Mrs Mason",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Uo6lDdOzRmN7G7DwHrDxVM8B3L.jpg"
+      },
+      {
+        "name": "Jim Norton",
+        "character": "Mr Mason",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iC9yNaj8NwoKK7WtzNcGgVxBbbg.jpg"
+      },
+      {
+        "name": "Tom Knight",
+        "character": "Mr Granger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/plzJmmxvO2Bu6FiQPUgNTCItSEd.jpg"
+      },
+      {
+        "name": "Heather Bleasdale",
+        "character": "Mrs Granger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AdZn8EJNKMcp1Kz7pOgTlBnVJ3V.jpg"
+      },
+      {
+        "name": "Ben Borowiecki",
+        "character": "Angus (Diagon Boy)",
+        "profile_path": ""
+      },
+      {
+        "name": "Isabella Columbus",
+        "character": "Girl in Bookstore",
+        "profile_path": ""
+      },
+      {
+        "name": "Edward Tudor-Pole",
+        "character": "Mr Borgin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dd1vRAgA7w82NRWoqrx2d4Hwe4k.jpg"
+      },
+      {
+        "name": "Gemma Padley",
+        "character": "Penelope Clearwater",
+        "profile_path": ""
+      },
+      {
+        "name": "Jenny Tarren",
+        "character": "Aged Witch",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter O'Farrell",
+        "character": "Short Man - Daily Prophet",
+        "profile_path": ""
+      },
+      {
+        "name": "Eleanor Columbus",
+        "character": "Susan Bones",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s0Nnq0ZIRfc34Kp8xi1QTBKgQwG.jpg"
+      },
+      {
+        "name": "Harry Taylor",
+        "character": "Station Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tJVi0TZbqUxOHHDUaV2eExKyykC.jpg"
+      },
+      {
+        "name": "Rochelle Douglas",
+        "character": "Alicia Spinnet",
+        "profile_path": ""
+      },
+      {
+        "name": "Emily Dale",
+        "character": "Katie Bell",
+        "profile_path": ""
+      },
+      {
+        "name": "Danielle Tabor",
+        "character": "Angelina Johnson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j1vSVgSWCizFtdaSOJWCiYeP45M.jpg"
+      },
+      {
+        "name": "Jamie Yeates",
+        "character": "Marcus Flint",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iYJxyPVEwifsskZWQxYsbMzHnZJ.jpg"
+      },
+      {
+        "name": "Violet Columbus",
+        "character": "Girl with Flowers",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Taylor",
+        "character": "Man - Moving Picture",
+        "profile_path": ""
+      },
+      {
+        "name": "Scot Fearn",
+        "character": "Adrian Pucey",
+        "profile_path": ""
+      },
+      {
+        "name": "David Holmes",
+        "character": "Slyth Beater No 1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zZw5evlkEPQb9sOqnGY7KH1K96z.jpg"
+      },
+      {
+        "name": "David Massam",
+        "character": "Slyth Beater No 2",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Christian",
+        "character": "Slyth Beater No 3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vQNmZWh5msxjOYbSn5ZkPVajfgF.jpg"
+      },
+      {
+        "name": "David Churchyard",
+        "character": "Slyth Keeper",
+        "profile_path": ""
+      },
+      {
+        "name": "Sally Mortemore",
+        "character": "Irma Pince",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mU1eCApQdXHqWPxEkNePDbqDYwU.jpg"
+      },
+      {
+        "name": "Louis Doyle",
+        "character": "Ernie MacMillan",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlotte Skeoch",
+        "character": "Hannah Hufflepuff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4elY7wEd2QprwyVyu5buiG0CtLs.jpg"
+      },
+      {
+        "name": "Brendan Columbus",
+        "character": "Boy in Study Hall 1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kPlyJjzR6OgB5JZVAEGQYGkVqQP.jpg"
+      },
+      {
+        "name": "Robert Ayres",
+        "character": "Boy in Study Hall 2",
+        "profile_path": ""
+      },
+      {
+        "name": "Alfred Burke",
+        "character": "Armando Dippet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fqkyOLrFk9KcIWp4KwkXW0HUdK3.jpg"
+      },
+      {
+        "name": "Leslie Phillips",
+        "character": "The Sorting Hat (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c46Qnx1QFEknR4pNWA2hTyDmrhA.jpg"
+      },
+      {
+        "name": "Helen Stuart",
+        "character": "Millicent Bulstrode",
+        "profile_path": ""
+      },
+      {
+        "name": "Daisy Bates",
+        "character": "Brunette Lady - Moving Picture",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wpCeaQPj1f4gDm2NrV30Rg8Tszt.jpg"
+      },
+      {
+        "name": "David Tysall",
+        "character": "Count - Moving Picture",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Bayfield",
+        "character": "Young Hagrid",
+        "profile_path": ""
+      },
+      {
+        "name": "Julian Glover",
+        "character": "Aragog (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yqFGLoY6CRy9jGp3NI328VlsaIG.jpg"
+      },
+      {
+        "name": "Les Bubb",
+        "character": "Reader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xaHrRmK42sLyc8bf1hpVnAglJCs.jpg"
+      },
+      {
+        "name": "Ana Mulvoy-Ten",
+        "character": "Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1GJXZYxG3BXsowSeP7ozv2v0u6h.jpg"
+      },
+      {
+        "name": "Zoe Sugg",
+        "character": "Slytherin Student",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Chris Columbus",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yCyEz90NqjEXKZ7HYcEhDXlLlPc.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "witch",
+    "flying car",
+    "elves",
+    "magic",
+    "sword",
+    "diary",
+    "child hero",
+    "school of witchcraft",
+    "giant spider",
+    "black magic",
+    "giant snake",
+    "child driving car",
+    "wizard",
+    "aftercreditsstinger",
+    "christmas",
+    "based on young adult novel"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "An ancient prophecy seems to be coming true when a mysterious presence begins stalking the corridors of a school of magic and leaving its victims paralyzed.",
+    "Forced to spend his summer holidays with his muggle relations, Harry Potter (Daniel Radcliffe) gets a real shock when he gets a surprise visitor: Dobby (Toby Jones) the house-elf, who warns Harry against returning to Hogwarts, for terrible things are going to happen. Harry decides to ignore Dobby's warning and continues with his pre-arranged schedule. But at Hogwarts, strange and terrible things are indeed happening. Harry is suddenly hearing mysterious voices from inside the walls, muggle-born students are being attacked, and a message scrawled on the wall in blood puts everyone on his or her guard, \"The Chamber Of Secrets Has Been Opened. Enemies Of The Heir, Beware\".—Soumitra",
+    "It's year two at Hogwarts, and Harry (Daniel Radcliffe), Ron (Rupert Grint), and Hermione (Emma Watson) are back learning, but their year doesn't go passed quietly. Members of the school are turning up petrified and bloody writings are appearing on the walls, revealing to everyone, that someone has opened the Chamber of Secrets. The attacks continue, bringing the possibility of the closure of Hogwarts. Harry and his friends are now forced to secretly uncover the truth about the chamber before the school closes or any lives are taken.—Film_Fan",
+    "When a crazy house-elf named Dobby (Toby Jones) arrives in Harry's (Daniel Radcliffe's) room, he warns him that there is a plot to destroy Hogwarts and that he shouldn't return. Harry then starts hearing voices through the walls, students being petrified, and a girl who died in a bathroom. He soon finds out that it is a basilisk roaming in the Chamber Of Secrets, under the control from a memory of Lord Voldemort. Is Voldemort still inactive? Or will it be a friend of his being controlled?",
+    "Harry Potter (Daniel Radcliffe) is in his second year of Hogwarts School of Witchcraft and Wizardry. He is visited by a house-elf named Dobby (Toby Jones), and warned not to go back to Hogwarts. Harry ignores his warning, and returns. He is still famous, although still disliked by Snape (Alan Rickman), Draco (Tom Felton), and the rest of the Slytherins. But then, strange things start to happen. People are becoming petrified, and no one knows what is doing it. Harry keeps hearing a voice, a voice which seems to be coming from within the walls. They are told the story of the Chamber of Secrets. It is said that only Salazar Slytherin's true descendent will be able to open it. Harry, it turns out, is a Parsel-tongue. This means that he is able to speak with and understand snakes. Everyone thinks that it's him that has opened the Chamber of Secrets because that is what Slytherin was famous for.—Sarah"
+  ],
+  "synopsis": "While home with the Dursleys for the summer, Harry Potter (Daniel Radcliffe) is not getting any mail from his friends, Ron (Rupert Grint) and Hermione (Emma Watson). On his twelfth birthday (July 31) Harry is visited by Dobby, a house-elf, who warns Harry that he will be in mortal danger if he returns to Hogwarts. Harry ignores Dobby's warning and is determined to return. It turns out that Dobby has been collecting Harry's letters to make it seem as though his friends had forgotten him, hoping Harry might then not want to return to Hogwarts. Seeing that he will have to use force, Dobby decides to destroy, by the use of a charm, a large cake that Aunt Petunia (Fiona Shaw) has baked for an important dinner party attended by Vernon Dursley's (Richard Griffiths) boss and his wife. Harry is blamed by the Ministry of Magic for Dobby's charm, and is told that if he does magic outside school again, he will be expelled. On learning that Harry cannot perform magic outside school, the Dursleys, previously fearful of his wizarding, lock Harrys books and wand away and Vernon Dursley fits bars onto his bedroom window, making Harry a prisoner.A few days later, Fred, George (James and Oliver Phelps) and Ron Weasley come to his rescue in their father's enchanted Ford Anglia. After a pleasant summer together in the Weasley house, everyone heads to Platform 9¾ to take the Hogwarts Express back to school. To their shock, Harry and Ron are unable to enter the barrier between platforms 9 and 10. In desperation, they fly to Hogwarts in the car, crashing into the Whomping Willow and damaging Ron's wand. The semi-sentient car ejects them and their belongings and disappears into the Forbidden Forest.Harry soon finds he is the unwanted centre of attention of three people: the vain new Defense Against the Dark Arts Professor, Gilderoy Lockhart (Kenneth Branagh), admirer Colin Creevey (Hugh Mitchell), and Ron's sister, Ginny Weasley (Bonnie Wright), who fancies Harry. Events take a turn for the worse when the Chamber of Secrets is opened and a monster stalks the castle, with the power literally to petrify several students. According to legend, the Chamber was built by Salazar Slytherin and can only be opened by his heir, in order to purge Hogwarts of students who are not pure-blood wizards. Many suspect Harry is the Heir of Slytherin, especially after he inadvertently speaks Parseltongue (the language of snakes), a rare ability Harry gained after Voldemort's murderous attack upon him when he was an infant.Harry, Ron, and Hermione attempt to discover the Heir of Slytherin's true identity. Using Polyjuice Potion brewed by Hermione, they disguise themselves as Slytherin students, Crabbe (Jamie Waylett) and Goyle (Josh Herman), hoping to learn from Draco Malfoy (Tom Felton) the identity of the Heir. Malfoy, they learn, does not know who the Heir of Slytherin is, but he inadvertently provides Harry and Ron with an important clue about the Chamber of Secrets.Unfortunately, the hair that Hermione took from Millicent Bullstrode's uniform was from a cat, and as the polyjuice potion is only intended for human transformations she assumes a feline appearance; it takes a little more than a month to restore her normal human form. She is released from the hospital wing in early February, her normal appearance restored.The attacks increase throughout the year, petrifying more students, including Hermione. Most horribly, a message written on a wall declares that Ginny Weasley has been taken into the Chamber, where \"her skeleton will lie forever\".With the help of Ron and Moaning Myrtle (Shirley Henderson), Harry discovers the entrance to the Chamber of Secrets. They force Gilderoy Lockhart, a fraud who wipes clean other wizards' memories and claims their achievements, to go with them. Once they find the entrance to the Chamber, Lockhart attempts to use Ron's broken wand to erase Harry and Ron's memories, but the spell backfires on to himself and brings the ceiling caving in, separating Harry from Ron and Lockhart. Lockhart revives, but has now lost his own memory.Harry makes it to the Chamber where he finds an unconscious Ginny. He also meets a young man named Tom Riddle, who claims to be a \"memory\". Harry learns that Ginny, under the control of Lord Voldemort, opened the Chamber. Voldemort, whose real name is Tom Marvolo Riddle (the anagram of which is \"I am Lord Voldemort\"), imprinted his memory in an enchanted diary, in order to one day continue the work he began when he reopened the Chamber fifty years ago ridding Hogwarts of non-pureblood witches and wizards. It was Hagrid, a Hogwarts student at the time, who was blamed for the attacks and expelled.Tom Riddle's memory grows more powerful as it steals life from Ginny's body, and it tries to kill Harry by setting loose a basilisk (the monster responsible for petrifying the students). But Dumbledore's (Richard Harris) phoenix, Fawkes, arrives carrying the Sorting Hat, from which Harry draws out the sword of Godric Gryffindor. Fawkes blinds the basilisk, destroying its fatal gaze, and Harry slays it with the sword. In attempting to slay the basilisk Harry's arm has been pierced by the creature's fang. Harry stabs the diary with one of the basilisk's fangs, and the memory of Riddle is destroyed, while Ginny revives from her near-death state. Harry seems to be dying quickly from the venom but Fawkes comes to heal Harry with his tears (phoenix tears have healing power). Ginny and Harry both recover fully, along with those who were petrified: Hermione, Mrs Norris, Justin Finch-Fletchley, Nearly Headless Nick (John Cleese), and Colin Creevey.Harry realizes it was Lucius Malfoy (Jason Isaacs), Draco Malfoy's father, who slipped the diary into Ginny's cauldron when he encountered the Weasleys in a Diagon Alley bookshop, but he is unable to prove it. Dobby reveals he is the Malfoys' servant, and knowing their treachery, had been trying to protect Harry all year. In gratitude, Harry sticks one of his old socks into the diary and hands it to Lucius. Lucius throws away the diary, but Dobby catches it and finds the sock hidden in its pages. This constitutes, in Dobby's eyes, a gift of clothing the traditional manner in which a master frees a house-elf from servitude. The freed Dobby declares he is eternally grateful to Harry and protects him from an attempted reprisal from Lucius. The word \"Avada\" is used as the beginning of Lucius Malfoy's curse, suggesting that it is the Avada Kedavra (the killing curse).Dumbledore dispels Harry's fears that he could have been put into Slytherin rather than into Gryffindor when he tells Harry that it is his choices that define him and not his abilities, and that Harry could not have wielded the sword of Gryffindor if he did not truly belong to that house.And end-of-year-feast is held with the revived victims, Hermione reunites with Harry and Ron and Hagrid returns to Hogwarts.",
+  "imdb_score": 7.4
+}

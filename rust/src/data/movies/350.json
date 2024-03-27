@@ -1,0 +1,361 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/CpLAfXgSNeNRRbRzPrTuzKmIHO.jpg",
+  "id": 350,
+  "title": "The Devil Wears Prada",
+  "poster_path": "https://image.tmdb.org/t/p/w500/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+  "release_date": "2006-06-29",
+  "vote_average": 7.39,
+  "vote_count": 11368,
+  "popularity": 61.241,
+  "overview": "Andy moves to New York to work in the fashion industry. Her boss is extremely demanding, cruel and won't let her succeed if she doesn't fit into the high class elegant look of their magazine.",
+  "imdb_id": "tt0458352",
+  "budget": 35000000,
+  "homepage": "http://www.devilwearspradamovie.com/",
+  "revenue": 326706115,
+  "runtime": 109,
+  "tagline": "Meet Andy Sachs. A million girls would kill to have her job. She's not one of them.",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "production_companies": [
+    "Fox 2000 Pictures",
+    "20th Century Fox",
+    "Wendy Finerman Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Anne Hathaway",
+        "character": "Andy Sachs",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg"
+      },
+      {
+        "name": "Meryl Streep",
+        "character": "Miranda Priestly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/emAAzyK1rJ6aiMi0wsWYp51EC3h.jpg"
+      },
+      {
+        "name": "Emily Blunt",
+        "character": "Emily",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+      },
+      {
+        "name": "Stanley Tucci",
+        "character": "Nigel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ffKQpQvYczWKFxmbxgaoj68NN4W.jpg"
+      },
+      {
+        "name": "Simon Baker",
+        "character": "Christian Thompson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oay0Lo2zl0lJdguptxgx1BK9Xq7.jpg"
+      },
+      {
+        "name": "Adrian Grenier",
+        "character": "Nate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2ILiQq6Sr8vfZqaL7JR5PIdiL6l.jpg"
+      },
+      {
+        "name": "Tracie Thoms",
+        "character": "Lily",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5LQhWnPsM5bbRRvUOYBWtmK5Zcw.jpg"
+      },
+      {
+        "name": "Rich Sommer",
+        "character": "Doug",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tqpwfXczNvvel5Dep5ejUD4X9ie.jpg"
+      },
+      {
+        "name": "Daniel Sunjata",
+        "character": "James Holt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w3Wa0d7j2auA2R8FQvjrgfB3ozo.jpg"
+      },
+      {
+        "name": "David Marshall Grant",
+        "character": "Richard Sachs",
+        "profile_path": "https://image.tmdb.org/t/p/w185/81E0yZVUrojvq10qKRdSvNkq9up.jpg"
+      },
+      {
+        "name": "James Naughton",
+        "character": "Stephen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iXFkBdxB2Qd2uNwXka9pTp6XBXS.jpg"
+      },
+      {
+        "name": "Tibor Feldman",
+        "character": "Irv Ravitz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mIWe0RXAMMeTf0oKoofAgUpdqO3.jpg"
+      },
+      {
+        "name": "Rebecca Mader",
+        "character": "Jocelyn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xum3MomxlOy48dHdunRjq6I7gwi.jpg"
+      },
+      {
+        "name": "Jimena Hoyos",
+        "character": "Lucia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rMTUZqCxPSPuRt75CshzGICKjt2.jpg"
+      },
+      {
+        "name": "Gisele Bündchen",
+        "character": "Serena",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xeAxPXzNx3eXEpGv5GYyB2OSB2h.jpg"
+      },
+      {
+        "name": "George C. Wolfe",
+        "character": "Paul",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kH6xHlBleRUJt0c0AOAsv5DMoib.jpg"
+      },
+      {
+        "name": "John Rothman",
+        "character": "Editor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k7Vdn2eArkvYCJllIOGPIjK9umK.jpg"
+      },
+      {
+        "name": "Stephanie Szostak",
+        "character": "Jacqueline Follet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ejqFLxGCQ2CTRr63P4qgqVTpAFP.jpg"
+      },
+      {
+        "name": "Colleen Dengel",
+        "character": "Caroline",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ttyeIhY9qP1uazzN9LIORCOaTfu.jpg"
+      },
+      {
+        "name": "Suzanne Dengel",
+        "character": "Cassidy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nEvneFEEVAGSKE2DSlhpC6YizBA.jpg"
+      },
+      {
+        "name": "Heidi Klum",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/MGMNEZweA0DzFym5iNTA8DGb7V.jpg"
+      },
+      {
+        "name": "Valentino Garavani",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r1tshk3tcQmnY9BVY36KcETFuIG.jpg"
+      },
+      {
+        "name": "Bridget Hall",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wDIPCynigqlnbRHUE5A22oX5Jvy.jpg"
+      },
+      {
+        "name": "Ines Rivero",
+        "character": "Clacker in Elevator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/su7HRNOolJyzMnWidnMKx6IWurT.jpg"
+      },
+      {
+        "name": "Alyssa Sutherland",
+        "character": "Clacker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/femjkNZ7jTbcwz6LjoQQyRD5Mlc.jpg"
+      },
+      {
+        "name": "Robert Verdi",
+        "character": "Fashion Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nEtBRyLKC3GOsJqhcAaoeUodOLf.jpg"
+      },
+      {
+        "name": "Paul Keany",
+        "character": "St. Regis Butler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8JKhPh4N2rZ4SBwM6tuI2Pg3nz1.jpg"
+      },
+      {
+        "name": "David Callegati",
+        "character": "Massimo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/huLtPTSJJEiLWLXJiNrsoHtXnDx.jpg"
+      },
+      {
+        "name": "Rori Cannon",
+        "character": "Girl at Party",
+        "profile_path": ""
+      },
+      {
+        "name": "Stan Newman",
+        "character": "John Folger",
+        "profile_path": ""
+      },
+      {
+        "name": "James Cronin",
+        "character": "Ambassador",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dxLdgJH5o8Xc7Odzj1BVAyRJh95.jpg"
+      },
+      {
+        "name": "Eric Seltzer",
+        "character": "Roy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4A67RTqK74yRh8tsNXFTSNWKVUW.jpg"
+      },
+      {
+        "name": "Lindsay Brice",
+        "character": "PR Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oW6o8jecJQBTUzd0ZcsJgtURHwI.jpg"
+      },
+      {
+        "name": "Steve Benisty",
+        "character": "Fashion Photographer",
+        "profile_path": ""
+      },
+      {
+        "name": "John Graham",
+        "character": "Book Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Wells Dixon",
+        "character": "Miranda's Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Ilona Alexandra",
+        "character": "Red Carpet Celebrity (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2uDS2AjqfeMqg8uKvfirMxqmB38.jpg"
+      },
+      {
+        "name": "Frank Anello",
+        "character": "Security (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w7tB4wlr8aQez0AycPdlReVRCFk.jpg"
+      },
+      {
+        "name": "Alexander Blaise",
+        "character": "French Bellhop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iRL6j4fAEu3okfvYOm9BWD4VCIe.jpg"
+      },
+      {
+        "name": "Marie Brandt",
+        "character": "Fashion Show Attendee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Carl Burrows",
+        "character": "Businessman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jZd2v7T6fZFaYHdKojfF2WQQk7L.jpg"
+      },
+      {
+        "name": "Dono Cunningham",
+        "character": "Fashion Photographer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pxO8e9FdlgW1UZEjy2dxN4FpvTm.jpg"
+      },
+      {
+        "name": "Guy A. Fortt",
+        "character": "Security (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iYHIUe8jJgme26wX5bqMzMlROCB.jpg"
+      },
+      {
+        "name": "Alexie Gilmore",
+        "character": "Clacker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Ev9eTuu8bL6t8xzfqchZm4wSfI.jpg"
+      },
+      {
+        "name": "Toree Hill",
+        "character": "Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t17zWFDn0u6IhGa8N5CaRfAnntZ.jpg"
+      },
+      {
+        "name": "Vivian Kalinov",
+        "character": "Black & White Ball Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Krueger",
+        "character": "Fund Raiser (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hwvT9KI7v7OX19JhlkuyYDhyjRM.jpg"
+      },
+      {
+        "name": "Hector Lincoln",
+        "character": "Self (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ueMIJCDug2skFAQMQBfv00vMzlP.jpg"
+      },
+      {
+        "name": "Nina Lisandrello",
+        "character": "Clacker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wiN8iMiNC1OgU2O3c1OlPFUri1a.jpg"
+      },
+      {
+        "name": "Zev McAllister",
+        "character": "Runway Editor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Murray",
+        "character": "Paparazzo (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ufkHfw37HJGITUXQe4CsTWEpOH.jpg"
+      },
+      {
+        "name": "Ingrid Sophie Schram",
+        "character": "Clacker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pbt1ODn2K3OSE9IrEGxOSWlhQ5g.jpg"
+      },
+      {
+        "name": "Bobby Shue",
+        "character": "Runway Staff (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brandhyze Stanley",
+        "character": "Waitress (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5NOD4L6jaSMvX7PxPsUDoaXsIMk.jpg"
+      },
+      {
+        "name": "Jen Taylor",
+        "character": "Lou - Dowager (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/386F6voesqDXsfGOMULPv0HAzrH.jpg"
+      },
+      {
+        "name": "Taylor Treadwell",
+        "character": "Miranda's New Assistant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t2UUOrL21CC2aRQ7wo0WlMYtk0D.jpg"
+      },
+      {
+        "name": "Donatella Versace",
+        "character": "Self (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mVnfGSm5oGqnkHcrUsst7xCFAHX.jpg"
+      },
+      {
+        "name": "Lauren Weisberger",
+        "character": "The Twins' Nanny (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Laura D. Williams",
+        "character": "Runway Magazine Model / Party Guest (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "David Frankel",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xhiIfSUwQmELt4iSDdfAnC2QLBe.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "journalist",
+    "paris, france",
+    "based on novel or book",
+    "journalism",
+    "fashion journal",
+    "assistant",
+    "job entrant",
+    "job interview",
+    "editor-in-chief",
+    "fashion",
+    "fashion magazine",
+    "bullied",
+    "city life",
+    "fashion industry"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A smart but sensible new graduate lands a job as an assistant to Miranda Priestly, the demanding editor-in-chief of a high fashion magazine.",
+    "After graduating from university, Andy lands the dream job that \"a million girls would kill for\": assistant to Miranda - the chief editor of Runway, the top-selling fashion magazine in the industry. It is a job set to fast-track her career in journalism, if she can survive a year working for Miranda. From here, Andy, with no sense of fashion at all, begins a fish-out-of-water drama as she is thrown into a lifestyle full of the fast-paced, three-inch-minimum-heel-height, diet coke and coffee substance abuse. Andy works really hard to deal with Miranda's endless unimaginable demands. She even becomes trendy and classy. However, she gradually finds she is working 24/7 and soon her life with boyfriend Nate and best friend Lily is slipping away from her. Then, she realizes that she is losing what really matters. She does not want to lose herself no matter how many pairs of Monolos and Jimmy Choos she can score along the way.—Amy",
+    "The story tells the professional adventure of Andrea, whose greatest dream is to become a journalist. Andrea gets a job in the fashion industry through Runway magazine, the most famous of its type, to make ends meet. But Andrea won't develop her writing skills in the magazine, but her talents as the editor in chief's assistant, Miranda. The problem is that Miranda is a merciless, posh and cruel woman, making the experience a living hell for the girl. The environment in the place will be cold and extremely critical with the physical appearance. The girl will have to change her simple and plain style, for a more trendy and elegant one, in order to gain the acceptance of her ruthless boss and colleagues, specially Emily, her unpleasant workmate. Despite everything against Andrea in the office, she will consider the experience as a challenge, drastically changing her clothes and self-image, with the help of Nigel, the magazine's art director. Nevertheless, the job becomes extremely demanding, because of Miranda's tough work rhythm and nearly impossible tasks, leaving Andrea without a private life with her boyfriend, family and friends. Maybe the old Andrea has gone, now more preoccupied about her image and her future in the magazine.—Alejandro Frias"
+  ],
+  "synopsis": "Andrea \"Andy\" Sachs (Anne Hathaway), an aspiring journalist fresh out of Northwestern University, lands the magazine job \"a million girls would kill for\": junior personal assistant to icy editor-in-chief Miranda Priestly (Meryl Streep), who dominates the fashion world from her perch atop Runway magazine. Andy puts up with the eccentric and humiliating requests of her boss because, she is told, if she lasts a year in the position she will get her pick of other jobs, perhaps even the journalistic position she truly craves.At first, she fits in poorly among the gossipy fashionistas who make up the magazine staff. Her lack of style or fashion knowledge and fumbling with her job make her an object of scorn around the office. Senior assistant Emily Charlton (Emily Blunt), Miranda's senior personal assistant, is condescending to her. Gradually, though, with the help of art director Nigel (Stanley Tucci), Andrea adapts to the position and its many perks, including free designer clothing and other choice accessories. She begins to dress more stylishly and do her job competently, fulfilling a seemingly impossible request of Miranda's to get two copies of an unpublished Harry Potter manuscript to her daughters.She also comes to prize chance encounters with attractive young writer Christian Thompson (Simon Baker), who helped her obtain the Potter manuscript and suggests he could help her with her career. At the same time, however, her relationship with her boyfriend Nate (Adrian Grenier), a chef working his way up the career ladder, and other college friends suffers due to the increasing time she spends at Miranda's beck and call.Shortly afterwards, Andrea saves Miranda from social embarrassment at a charity benefit when the cold-stricken Emily falters in reminding Miranda who an approaching guest is. As a result, Miranda tells Andrea that she will accompany her to the fall fashion shows in Paris, rather than Emily who had been looking forward to the trip for months, but is currently suffering from the flu. Miranda warns Andrea that if she declines, it could adversely affect her future job prospects. Emily is hit by a car before Andrea can tell Emily that she is not going to Paris with Miranda, making Andrea's choice moot.During a gallery exhibit of her friend Lilly's (Tracie Thoms) photography, Andy again encounters Christian, who openly flirts with her, much to the shock and disgust of Lilly, who witnesses it all. After Lilly calls her out and walks away, Andy bumps into Nate, who, when she tells him she will be going to Paris, is angered that she refuses to admit that she's become the girls she's made fun of and that their relationship has taken a back seat. As a result, they break up in the middle of the street the night before she leaves for Paris.In Paris, Nigel tells Andrea that he has gotten a job as creative director with rising fashion star James Holt (Daniel Sunjata), at Miranda's recommendation, and will finally be in charge of his own life. Andrea also finally succumbs to Christian's charms, and sees her boss let down her guard for the first time as she worries about the effect an impending divorce will have on her twin daughters.But in the morning, Andrea finds out about a plan to replace Miranda as Runway editor with Jacqueline Follet, editor of the magazine's French edition, later that day. Despite the suffering she has endured at her boss's behest, she attempts to warn Miranda but is seemingly rebuffed each time by the very same woman she tries to save professionally.At a luncheon later that day, however, Miranda announces that it is Jacqueline instead of Nigel who will leave Runway for Holt. Later, when the two are being driven to a show, she explains to a still-stunned Andrea that she was grateful for the warning but already knew of the plot to replace her and sacrificed Nigel to keep her own job. Pleased by this display of loyalty, she tells Andrea she sees some of herself in her. Andrea, repulsed, said she could never do to anyone what Miranda did to Nigel, primarily as Nigel mentored Andrea. Miranda replies that she already did, stepping over Emily when she agreed to go to Paris. If she wants to get ahead in her career, that's what she'll have to be willing to do.Andrea gets out of the limo at the next stop, going not into the show with Miranda but out into the street, where instead of answering yet another call from her boss she throws her cell phone into a nearby fountain, leaving Miranda, Runway and fashion behind.Later, back in New York, she meets Nate for breakfast. He has accepted an offer to work as a sous-chef in a popular Boston restaurant, and will be moving there shortly. Andrea is disappointed but her hope is rejuvenated when he says they could work something out, implying they will have a long-distance relationship in the future. At the film's conclusion, she has finally been offered a job as a newspaper reporter, greatly helped by a fax from Miranda herself who told Andrea's prospective boss-in-line that Andrea was her \"biggest disappointment ever\", and that if they didn't hire her they would be idiots. Andrea calls Emily and offers her all of the clothes that she got in Paris, which Andrea insists that she doesn't need anymore. Emily accepts and tells Andrea's replacement she has some big shoes to fill. In the last shot, Andrea, dressed as she was at the beginning of the film but with a bit more style, sees Miranda get into her car across the street. They exchange looks and Miranda gives no indication of a greeting, but gives a soft smile once inside the car, before sternly telling her chauffeur to \"go!\".",
+  "imdb_score": 6.9
+}

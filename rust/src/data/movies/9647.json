@@ -1,0 +1,524 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/e1F28DgGBc7pRarStqqEAlPUXZG.jpg",
+  "id": 9647,
+  "title": "Scrooged",
+  "poster_path": "https://image.tmdb.org/t/p/w500/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg",
+  "release_date": "1988-11-22",
+  "vote_average": 6.8,
+  "vote_count": 1417,
+  "popularity": 21,
+  "overview": "Frank Cross is a wildly successful television executive whose cold ambition and curmudgeonly nature has driven away the love of his life. But after firing a staff member on Christmas Eve, Frank is visited by a series of ghosts who give him a chance to re-evaluate his actions and right the wrongs of his past.",
+  "imdb_id": "tt0096061",
+  "budget": 32000000,
+  "homepage": "",
+  "revenue": 60300000,
+  "runtime": 101,
+  "tagline": "The spirits will move you in odd and hysterical ways.",
+  "genres": [
+    "Fantasy",
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    "Paramount",
+    "Mirage Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Bill Murray",
+        "character": "Francis Cross",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+      },
+      {
+        "name": "Karen Allen",
+        "character": "Claire Phillips",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eJszpndpRzrXbSlz7RUlApoTykn.jpg"
+      },
+      {
+        "name": "John Forsythe",
+        "character": "Lew Hayward",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lfhKEIepJXdIW9JVCZZ15ULYy8n.jpg"
+      },
+      {
+        "name": "John Glover",
+        "character": "Bryce Cummings",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aPmq20MXqFALrUxaaJoC2Xonumo.jpg"
+      },
+      {
+        "name": "Bobcat Goldthwait",
+        "character": "Eliot Loudermilk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dvx9ykvmZnpLJhXqdMx3rF00Mx7.jpg"
+      },
+      {
+        "name": "David Johansen",
+        "character": "Ghost of Christmas Past",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vWhq871aXCZfW3NpYILRxCI86nX.jpg"
+      },
+      {
+        "name": "Carol Kane",
+        "character": "Ghost of Christmas Present",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4ZPnxUFgUHND5fv6MshT3YRDLmq.jpg"
+      },
+      {
+        "name": "Robert Mitchum",
+        "character": "Preston Rhinelander",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l0It7MePd9cwgqHR3JQAYD6YMg9.jpg"
+      },
+      {
+        "name": "Nicholas Phillips",
+        "character": "Calvin Cooley",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael J. Pollard",
+        "character": "Herman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tKoA5p1EkdLzkj4DB8PCkxFxbg0.jpg"
+      },
+      {
+        "name": "Alfre Woodard",
+        "character": "Grace Cooley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/70AVFDROBAeVhWDEMKWfXPpBVYq.jpg"
+      },
+      {
+        "name": "Mabel King",
+        "character": "Gramma",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ayNZzs2fXF12oqxZgRZXZYql2S4.jpg"
+      },
+      {
+        "name": "John Murray",
+        "character": "James Cross",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iWNLOuEkxCHzp9PPYQBLXrFDvtV.jpg"
+      },
+      {
+        "name": "Jamie Farr",
+        "character": "Jacob Marley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4vzM97TVRJy4hkrYk2XsgTJWi6I.jpg"
+      },
+      {
+        "name": "Robert Goulet",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kqCwDpsRWIHDtbfIrpJ4L63j53i.jpg"
+      },
+      {
+        "name": "Buddy Hackett",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tc9A8gHLAwMliIwRUs9O9QzlYZF.jpg"
+      },
+      {
+        "name": "John Houseman",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aNWCBj1ApNIBJvFAAWuEwXWaGDw.jpg"
+      },
+      {
+        "name": "Lee Majors",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ylu6EnPkQM2Q9xzBzjUCPrfeh1M.jpg"
+      },
+      {
+        "name": "Pat McCormick",
+        "character": "Ghost of Christmas Present (TV)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rUi6d4big76XhhvP9TPNIjmCzUO.jpg"
+      },
+      {
+        "name": "Brian Doyle-Murray",
+        "character": "Earl Cross",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1sDChfTscA1mone1uSJVPtbFn4l.jpg"
+      },
+      {
+        "name": "Mary Lou Retton",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4si7gYkmAyMiqucDoMmDR0YYvSX.jpg"
+      },
+      {
+        "name": "Al 'Red Dog' Weber",
+        "character": "Santa Claus",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean Speegle Howard",
+        "character": "Mrs. Claus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y4KfUoxGaAc5Yn9P5cPbsQz6cla.jpg"
+      },
+      {
+        "name": "June Chandler",
+        "character": "June Cleaver",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Eidam",
+        "character": "Wally Cleaver",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary Ellen Trainor",
+        "character": "Ted",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Y926jxSOXikBiqQIptho1VzU9o.jpg"
+      },
+      {
+        "name": "Bruce Jarchow",
+        "character": "Wayne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3RwlMOHVfgje8I8U0dKprNj3wUe.jpg"
+      },
+      {
+        "name": "Sanford Jensen",
+        "character": "Executive",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeffrey Joseph",
+        "character": "Executive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wTrPpHkhcgOrDxqmrXjrMbo0Q7A.jpg"
+      },
+      {
+        "name": "Dick Blasucci",
+        "character": "Executive",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Bromilow",
+        "character": "Archbishop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o3462x0xbbvMRDAbgBxLumqIRCz.jpg"
+      },
+      {
+        "name": "Bill Marcus",
+        "character": "IBC Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Cal Gibson",
+        "character": "IBC Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vQPPfNn036tlamYPEPmcx49HrUj.jpg"
+      },
+      {
+        "name": "Damon Hines",
+        "character": "Steven Cooley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lRAPiS5bAORffiQ8gHmEmP14ww7.jpg"
+      },
+      {
+        "name": "Tamika McCollum",
+        "character": "Shasta Cooley",
+        "profile_path": ""
+      },
+      {
+        "name": "Koren McCollum",
+        "character": "Randee Cooley",
+        "profile_path": ""
+      },
+      {
+        "name": "Reina King",
+        "character": "Lanell Cooley",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Tuerpe",
+        "character": "Stage Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1S2Q3SPFz0uNlZC6LpDgGuUiVRe.jpg"
+      },
+      {
+        "name": "Lester Wilson",
+        "character": "Choreographer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ron Strang",
+        "character": "Art Director",
+        "profile_path": ""
+      },
+      {
+        "name": "Kate McGregor-Stewart",
+        "character": "Lady Censor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vsvdAmMZgX85AvnVFd4jigOUipZ.jpg"
+      },
+      {
+        "name": "Jack McGee",
+        "character": "Carpenter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xzBLwEdWxxZbZ3qbGrddldXvnSS.jpg"
+      },
+      {
+        "name": "Bill Hart",
+        "character": "Carpenter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x5HALsJmh4jSUzqFIUCYtgFhGD4.jpg"
+      },
+      {
+        "name": "Kathy Kinney",
+        "character": "IBC Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3UDuBZVbTjial2JrmLhJnNItLl4.jpg"
+      },
+      {
+        "name": "Ralph Gervais",
+        "character": "Mouse Wrangler",
+        "profile_path": ""
+      },
+      {
+        "name": "Alvin Hammer",
+        "character": "Foreman",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Steedman",
+        "character": "Headwaiter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dG50B4tpFWVVWqjKLvpu2ydQu1V.jpg"
+      },
+      {
+        "name": "Lisa Mende",
+        "character": "Doris Cross",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dbxUA52X7ZEftJyGupdxcqQ5pDw.jpg"
+      },
+      {
+        "name": "Ryan Todd",
+        "character": "Frank as Child",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4iTvIVKu1LUKhIGxW9TX63PFRVg.jpg"
+      },
+      {
+        "name": "Rebeca Arthur",
+        "character": "Tina",
+        "profile_path": "https://image.tmdb.org/t/p/w185/koznSS7GsuF2muJwgxYil3tT48O.jpg"
+      },
+      {
+        "name": "Selma Archerd",
+        "character": "Mrs. Claus at Party",
+        "profile_path": ""
+      },
+      {
+        "name": "Jay Byron",
+        "character": "Man #2 at Party",
+        "profile_path": ""
+      },
+      {
+        "name": "Harvey Fisher",
+        "character": "Party Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "C. Ransom Walrod",
+        "character": "Party Animal",
+        "profile_path": ""
+      },
+      {
+        "name": "James R. Miller",
+        "character": "Security Guard at Party",
+        "profile_path": ""
+      },
+      {
+        "name": "Jennie Lew Tugend",
+        "character": "Foo-Ling",
+        "profile_path": ""
+      },
+      {
+        "name": "Roy Brocksmith",
+        "character": "Mike the Mailman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2GIyB1EMdsgDeIeE20QmqSvxdtT.jpg"
+      },
+      {
+        "name": "Shawn Michaels",
+        "character": "Stage Manager - \"Frisbee\"",
+        "profile_path": ""
+      },
+      {
+        "name": "Stella Hall",
+        "character": "Lew Hayward's Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hxhaDkZbgOGJ56qZUI7sHMTXVtV.jpg"
+      },
+      {
+        "name": "Sachi Parker",
+        "character": "Belle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tfIQD9EEYi47GA7IIqvYCd7XLwN.jpg"
+      },
+      {
+        "name": "Delores Hall",
+        "character": "Hazel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vBplFc3lccISIQusSbNsG2y1lZc.jpg"
+      },
+      {
+        "name": "Anne Ramsey",
+        "character": "Woman in Shelter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ne2o2YwaGzQy1Ne9ddZMwfEtkV7.jpg"
+      },
+      {
+        "name": "Logan Ramsey",
+        "character": "Man in Shelter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p0nGZszv0Lv82bABCKxheiegWnh.jpg"
+      },
+      {
+        "name": "Sydna Scott",
+        "character": "Woman #2 in Shelter",
+        "profile_path": ""
+      },
+      {
+        "name": "Wendie Malick",
+        "character": "Wendie Cross",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A5S5iAL3XS7zYh8sRE0WNMYTpi0.jpg"
+      },
+      {
+        "name": "Joel Murray",
+        "character": "Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xWkvfTlnEVkUrYKQz4ajRjUWyxC.jpg"
+      },
+      {
+        "name": "Mitch Glazer",
+        "character": "Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Susan Isaacs",
+        "character": "Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ome0XdcPhM8cQxcK8Jmtgpp0qBH.jpg"
+      },
+      {
+        "name": "Lauri Kempson",
+        "character": "Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Chaz Conner",
+        "character": "Ghost of Christmas Future (TV)",
+        "profile_path": ""
+      },
+      {
+        "name": "Miro Polo",
+        "character": "Mary Lou's Coach",
+        "profile_path": ""
+      },
+      {
+        "name": "Ralph Bruneau",
+        "character": "Nephew",
+        "profile_path": ""
+      },
+      {
+        "name": "Maria Riva",
+        "character": "Mrs. Rhinelander",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6BuCVLxkVBQ60qbAyvORzWm1lpK.jpg"
+      },
+      {
+        "name": "James Kindelon",
+        "character": "Butler",
+        "profile_path": ""
+      },
+      {
+        "name": "Raphael Harris",
+        "character": "Older Calvin",
+        "profile_path": ""
+      },
+      {
+        "name": "Wayne A. Finkelman",
+        "character": "Orderly",
+        "profile_path": ""
+      },
+      {
+        "name": "Susan Barnes",
+        "character": "Harpy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uToxda0KL8I9Rn8JhLPbMKleKL1.jpg"
+      },
+      {
+        "name": "Lynne Randall",
+        "character": "Harpy",
+        "profile_path": ""
+      },
+      {
+        "name": "Gilles Savard",
+        "character": "Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael O'Donoghue",
+        "character": "Priest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kFnnfuwJYePEDPDs1ao1qoOSwQj.jpg"
+      },
+      {
+        "name": "Dick McGarvin",
+        "character": "Announcer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Doak",
+        "character": "Video Tape Director",
+        "profile_path": ""
+      },
+      {
+        "name": "Sam Drummy",
+        "character": "Cameraman on Crane",
+        "profile_path": ""
+      },
+      {
+        "name": "Winfred Tennison",
+        "character": "Marvin",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Kahan",
+        "character": "Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qnarH2PdHTWsG7Hv2DlHSr7rj5h.jpg"
+      },
+      {
+        "name": "Norman D. Wilson",
+        "character": "Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gHQ3ROReJWHijUtLNhF1q8TkEa4.jpg"
+      },
+      {
+        "name": "Henry Brown",
+        "character": "Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mA1KCd5UfLhZrhiVMoINo6YCRpe.jpg"
+      },
+      {
+        "name": "Jeanine Jackson",
+        "character": "Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6iSzrw7jIqZZgSZLfkwRdQkKl3H.jpg"
+      },
+      {
+        "name": "Amy Hill",
+        "character": "Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x5vR2MXZiWGHkppRXlXYj7y7611.jpg"
+      },
+      {
+        "name": "Miles Davis",
+        "character": "Street Musician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m33xjAop7q1b583QkZNeJLag8kh.jpg"
+      },
+      {
+        "name": "Larry Carlton",
+        "character": "Street Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "David Sanborn",
+        "character": "Street Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Shaffer",
+        "character": "Street Musician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j6SqQZDOAXUFPyFNNEYwzuAoZCz.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Richard Donner",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wjRecQiVLUAm6jwyT5craxhg3lD.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "holiday",
+    "tv ratings",
+    "ghost",
+    "duringcreditsstinger",
+    "christmas music",
+    "christmas"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A selfish, cynical television executive is haunted by three spirits bearing lessons on Christmas Eve.",
+    "Francis Xavier Cross is a cynical, mean spirited television executive, he treats his loyal assistant with contempt. He just sacked a member of staff on Christmas Eve for simply disagreeing with him, and he's alienated himself from his brother who still insists on inviting Frank to Christmas dinner despite him refusing to go every year. However, Frank is forced to learn the true meaning of Christmas when he's visited by three ghosts.—Iantjambo",
+    "Determined to milk Charles Dickens' A Christmas Carol (1951) for every drop of profit and personal success, miserly curmudgeon Frank Cross, IBC TV's obnoxious president, has planned a live adaptation for Christmas Eve. And no one can stop him. After all, the tyrannical executive has burned all bridges with everyone, including his family. However, life is a series of unexpected events; when Frank receives a sudden wake-up call from an unexpected ally, an otherworldly nocturnal visitation demands life's mature reevaluation. Now, the uninvited ghosts of Christmas Past, Present, and Future won't leave until Cross sees the error of his ways. But first things first. Is loveless Scrooge capable of change?—Nick Riganas",
+    "Frank Cross (Murray) is a wildly successful television executive whose cold ambition and curmudgeonly nature has driven away the love of his life. But after firing staff member Eliot Loudermilk (Goldthwait) on Christmas Eve, Frank is visited by a series of ghosts who give him a chance to re-evaluate his actions and right the wrongs of his past.",
+    "Frank Cross runs a U.S. television station which is planning a live adaptation of Charles Dickens' A Christmas Carol. Frank's childhood wasn't a particularly pleasant one, and so he doesn't really appreciate the Christmas spirit. With the help of the ghosts of Christmas past, present, and future, Frank realizes he must change.—Rob Hartill"
+  ],
+  "synopsis": "Francis \"Frank\" Xavier Cross is a conceited, cynical television programming executive who has the position of president for television network IBC. Frank has found great success and wealth but only by becoming cold-hearted and arrogant. In the opening scenes, he is seen working out in a room with a border that reads \"Cross: (n) A thing they nail people to.\"His ruthless concentration on his career has alienated him from his family, having only an \"at arm's length\" relationship with his brother James, who is now his only living blood relative. Frank overworks his assistant Grace Cooley, forcing her to constantly break plans with her family and neglect her mute son Calvin. When a disturbing TV commercial that Frank personally produced is criticized by timid staff member Eliot Loudermilk, Frank responds by firing him on Christmas Eve. Frank's boss Preston Rhinelander comes to Frank's office with an idea about reaching out to the animal audience, and takes the liberty of hiring Frank an assistant, weaselly sycophant Brice Cummings, who is transparently after his job.When Cross is given the task of heading up a live Christmas Eve broadcast of A Christmas Carol, his life begins to mirror the story he's producing. The decomposing corpse of his mentor, media mogul Lew Hayward who had died of a heart attack seven years prior, comes back to visit to tell him the error of his ways, or as Lew puts it \"All my success and prestige ended on the 14th hole when I dropped dead\", and warns a similar doom is befalling Frank. Lew also tells him three Ghosts will come. Frank awakens in his office, seemingly a nightmare, but Lew causes Frank's phone to call Claire Phillips, Frank's warm-hearted ex-girlfriend.The Ghost of Christmas Past appears as a loudmouthed New York City cab driver, and takes Frank back to his childhood in 1955 where his mother Doris Cross is watching The Lone Ranger with him, until his drunk and angry father Earl Cross comes home after a hard day of working at the meat packing plant, and gives him a side of veal for a Christmas present when Frank wanted a train set. Mrs. Cross says Mr. Cross was supposed to go to the toy store, and Frank's father snarls that Frank should buy his own toys. The ghost chides Frank for not doing anything in his youth except watch TV, then takes him to his late teens in 1968 when he had his first job at the TV station, where at a Christmas party he met Claire, then 1969 for his first anniversary with Claire, where they enjoy a Christmas with simple gifts. The Ghost of Christmas Past finally takes him to 1971, the year in which he chose his job as \"Frisbee the Dog\" over Claire, and to have dinner with Lew Hayward (who was the president of the network at the time) instead of with friends. The sequence shows how Frank gradually became the man he is in the present, first through his father, who was a blue-collar version of Frank, who in the 1955 scene ranted about how most men at the meatpacking plant are lazy slobs who make up excuses to get out of work, and in the 1971 scene when Frank breaks up with Claire because her friends offered no connections to get ahead.The Ghost of Christmas Present then appears as a life-size pixie who's cheerful, childlike demeanor offsets her violent behavior; she shows him how Grace's family lives in poverty because of his stinginess and how much his brother misses him.After the second ghost's visit, Eliot Loudermilk, now deranged and drunk after spending Christmas on the streets, storms the office with a Double-barrel shotgun and tries to murder Frank. The Ghost of Christmas Future, a seven-foot-tall ghoul with a TV screen for a face, appears and shows Frank a future in which Calvin has ended up in a mental hospital, Claire has become as cold and uncaring as he is, and only James and James' wife attend his sparse and sterile cremation.As he feels his body being burned, Frank finally sees the error of his ways and begs for a second chance. He awakens back in his office, just as the live broadcast is approaching its climax. The reformed Frank rehires Loudermilk at a considerable salary increase, and enlists his help to hijack the live broadcast. Frank steps in front of the rolling studio cameras, and publicly wishes his viewers a Merry Christmas and delivers a manic but heartfelt speech about the true meaning of Christmas. Calvin urges him to add Tiny Tim's phrase, \"God bless us, everyone\", finally breaking free of his mute condition. Claire rushes to the studio, aided by the Ghost of Christmas Past, who offers her a ride, and comes on set as Frank reconciles with her, sharing a romantic kiss as Grace and the other television workers start to sing \"Put a Little Love in Your Heart\". Frank looks up to see Lew Hayward and the Ghosts commend him, then vanish.",
+  "imdb_score": 6.9
+}

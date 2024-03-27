@@ -1,0 +1,454 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/uiHHEFQJLP5dnPe84BU4ZB7j5PL.jpg",
+  "id": 60308,
+  "title": "Moneyball",
+  "poster_path": "https://image.tmdb.org/t/p/w500/myRHYxfLpgwwRd13kcrRqxG6jAj.jpg",
+  "release_date": "2011-09-23",
+  "vote_average": 7.27,
+  "vote_count": 4797,
+  "popularity": 24.527,
+  "overview": "The story of Oakland Athletics general manager Billy Beane's successful attempt to put together a baseball team on a budget, by employing computer-generated analysis to draft his players.",
+  "imdb_id": "tt1210166",
+  "budget": 50000000,
+  "homepage": "http://www.moneyball-movie.com",
+  "revenue": 110206216,
+  "runtime": 134,
+  "tagline": "What are you really worth?",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Columbia Pictures",
+    "Scott Rudin Productions",
+    "Michael De Luca Productions",
+    "Sidney Kimmel Entertainment",
+    "Specialty Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Brad Pitt",
+        "character": "Billy Beane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+      },
+      {
+        "name": "Jonah Hill",
+        "character": "Peter Brand",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+      },
+      {
+        "name": "Philip Seymour Hoffman",
+        "character": "Art Howe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+      },
+      {
+        "name": "Robin Wright",
+        "character": "Sharon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3IvlZd2PpT3Tuxy8lr6ymWLyoNU.jpg"
+      },
+      {
+        "name": "Chris Pratt",
+        "character": "Scott Hatteberg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/83o3koL82jt30EJ0rz4Bnzrt2dd.jpg"
+      },
+      {
+        "name": "Stephen Bishop",
+        "character": "David Justice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m39lQYxdjHfRCn9L181Tew99tmI.jpg"
+      },
+      {
+        "name": "Reed Diamond",
+        "character": "Mark Shapiro",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z3ESNaXSeHiGmmhm49Og9FeXwG8.jpg"
+      },
+      {
+        "name": "Brent Jennings",
+        "character": "Ron Washington",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1koVGx5tgu4FRSbscOTT3sWp0i9.jpg"
+      },
+      {
+        "name": "Ken Medlock",
+        "character": "Grady Fuson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dgbhapNyMaXNUrKau2uqMdapPLn.jpg"
+      },
+      {
+        "name": "Tammy Blanchard",
+        "character": "Elizabeth Hatteberg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ztbtRXEBJaOiQevIn0xNKAzu9MU.jpg"
+      },
+      {
+        "name": "Jack McGee",
+        "character": "John Poloni",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xzBLwEdWxxZbZ3qbGrddldXvnSS.jpg"
+      },
+      {
+        "name": "Vyto Ruginis",
+        "character": "Pittaro",
+        "profile_path": "https://image.tmdb.org/t/p/w185/les4ZXAb2TL1Crqa8DzGwLvwns5.jpg"
+      },
+      {
+        "name": "Nick Searcy",
+        "character": "Matt Keough",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AnqbYGdLLaUaMfCtE0zYiRiI7E6.jpg"
+      },
+      {
+        "name": "Glenn Morshower",
+        "character": "Ron Hopkins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/SjgNUSLoBAVossDI4QkNtDxYDZ.jpg"
+      },
+      {
+        "name": "Casey Bond",
+        "character": "Chad Bradford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3KyE5lCtGy87wDL76awMuSpEG94.jpg"
+      },
+      {
+        "name": "Nick Porrazzo",
+        "character": "Jeremy Giambi",
+        "profile_path": ""
+      },
+      {
+        "name": "Kerris Dorsey",
+        "character": "Casey Beane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xCp5jjjzh25iBrXtVV0rzolZGR5.jpg"
+      },
+      {
+        "name": "Arliss Howard",
+        "character": "John Henry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zDBEVA7Skrje3A8bmR2VOJRwkZc.jpg"
+      },
+      {
+        "name": "Reed Thompson",
+        "character": "Young Billy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/UuS5yQSUVAf330Jt6dsEeKrRXj.jpg"
+      },
+      {
+        "name": "James Shanklin",
+        "character": "Billy's Dad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/teMNAV8dp4KmR8AriT5IJPztPEu.jpg"
+      },
+      {
+        "name": "Diane Behrens",
+        "character": "Billy's Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/emipsINtN7DsP7swf8flSZ25kSW.jpg"
+      },
+      {
+        "name": "Takayo Fischer",
+        "character": "Suzanne - Billy's Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xP8pWrxEOzRTzQzJTTAG4We0KxE.jpg"
+      },
+      {
+        "name": "Derrin Ebert",
+        "character": "Mike Magnante",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nJomNsnruMG1WHR99Un4BLBPZB4.jpg"
+      },
+      {
+        "name": "Miguel Mendoza",
+        "character": "Ricardo Rincon",
+        "profile_path": ""
+      },
+      {
+        "name": "Gerardo Celasco",
+        "character": "Carlos Peña",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xNw7Gte8BnUm8AJco6EDoRJzkFU.jpg"
+      },
+      {
+        "name": "Tom Gamboa",
+        "character": "Scout Martinez",
+        "profile_path": ""
+      },
+      {
+        "name": "Barry Moss",
+        "character": "Scout Barry",
+        "profile_path": ""
+      },
+      {
+        "name": "Artie Harris",
+        "character": "Scout Artie",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob Bishop",
+        "character": "Scout Bob",
+        "profile_path": ""
+      },
+      {
+        "name": "George Vranau",
+        "character": "Scout George",
+        "profile_path": ""
+      },
+      {
+        "name": "Phil Pote",
+        "character": "Scout Pote",
+        "profile_path": ""
+      },
+      {
+        "name": "Art Ortiz",
+        "character": "Eric Chavez",
+        "profile_path": ""
+      },
+      {
+        "name": "Royce Clayton",
+        "character": "Miguel Tejada",
+        "profile_path": ""
+      },
+      {
+        "name": "Marvin Horn",
+        "character": "Terrence Long",
+        "profile_path": ""
+      },
+      {
+        "name": "Brent Dohling",
+        "character": "Mark Ellis",
+        "profile_path": ""
+      },
+      {
+        "name": "Ken Rudulph",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/470Gglub33cieWLoIKXN4Y9Jj4D.jpg"
+      },
+      {
+        "name": "Lisa Guerrero",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lboItIjckueMCL6SfQK5qbmSwIJ.jpg"
+      },
+      {
+        "name": "Christopher Dehau Lee",
+        "character": "Eric Kubota",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Satriani",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kdwpo3Cx5VHdAQWrfFiNjg8gz56.jpg"
+      },
+      {
+        "name": "Simon James",
+        "character": "Voos",
+        "profile_path": "https://image.tmdb.org/t/p/w185/79MjjphxSCFdQthld0v7RBBePeD.jpg"
+      },
+      {
+        "name": "Greg Papa",
+        "character": "Game Announcer (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob Costas",
+        "character": "Sports Announcer (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/icnJnhC0voFGH9QaIiWQf5MhL5N.jpg"
+      },
+      {
+        "name": "Tim McCarver",
+        "character": "Sports Announcer (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eddie Frierson",
+        "character": "Call-In Radio Host (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sBU1xhSxlnStueCWFD8x8fIRnYD.jpg"
+      },
+      {
+        "name": "Glen Kuiper",
+        "character": "Oakland A's Announcer (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Provost",
+        "character": "Oakland A's Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kZMEvIG1P1UH9MCZYsUYZaO3Y0m.jpg"
+      },
+      {
+        "name": "John Brantley Cole",
+        "character": "Young Jongewaard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gWguuWVmKMNUTNMlORYrrAdfjea.jpg"
+      },
+      {
+        "name": "Jake Wilson",
+        "character": "Sabatini",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qMTdir1yjqfOMpER27YLaIYMMYk.jpg"
+      },
+      {
+        "name": "Robert P. Macaluso",
+        "character": "Coach Bob",
+        "profile_path": ""
+      },
+      {
+        "name": "Keith Middlebrook",
+        "character": "Coach Parker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oJxdjmFtLDyoMINgVYPRU2jPfDJ.jpg"
+      },
+      {
+        "name": "Damon Farmar",
+        "character": "Shapiro's Advisor",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Gillespie",
+        "character": "Ken Macha",
+        "profile_path": ""
+      },
+      {
+        "name": "Chad Kreuter",
+        "character": "Rick Peterson",
+        "profile_path": ""
+      },
+      {
+        "name": "Blake Pike",
+        "character": "John",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Ninfo",
+        "character": "Eric Byrnes",
+        "profile_path": ""
+      },
+      {
+        "name": "Gary 'G. Thang' Johnson",
+        "character": "Jermaine Dye",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vaNEqc59HG7utufuOcVsEmnCLah.jpg"
+      },
+      {
+        "name": "Corey Vanderhook",
+        "character": "Ramon Hernandez",
+        "profile_path": ""
+      },
+      {
+        "name": "Melvin Perdue",
+        "character": "Ray Durham",
+        "profile_path": ""
+      },
+      {
+        "name": "Ari Zagaris",
+        "character": "Jim Mercir",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yo90zcUBPtXlgQiu8NcRXk3GqbO.jpg"
+      },
+      {
+        "name": "Jon Stein",
+        "character": "Seymour",
+        "profile_path": ""
+      },
+      {
+        "name": "Madeleine G. Hall",
+        "character": "Hattebergs' Daughter",
+        "profile_path": ""
+      },
+      {
+        "name": "Holly Pitrago",
+        "character": "Shapiro's Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Ken Korach",
+        "character": "Radio Color Commentator (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Julie Wagner",
+        "character": "Clubhouse Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2LRRhUnWAyGeixKUIofXvskgY6u.jpg"
+      },
+      {
+        "name": "Ken Colquitt",
+        "character": "Clubhouse Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b57nOViXBMMLDHsH28hRx6P4zyx.jpg"
+      },
+      {
+        "name": "Eric Winzenried",
+        "character": "PR Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sKVpBvvg6aPxUSToBFKVbfmgBx8.jpg"
+      },
+      {
+        "name": "Richard Padilla",
+        "character": "Umpire - Game 20",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kZmnExv79mRlUc2v7wnqOIpTw2m.jpg"
+      },
+      {
+        "name": "Ed Montague",
+        "character": "Umpire - Indians",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Knight",
+        "character": "Umpire - 1984",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8FPcLAlqmBDyfwUDcJvF1Fw7Jxy.jpg"
+      },
+      {
+        "name": "Patrick Riley",
+        "character": "Umpire - 1989",
+        "profile_path": ""
+      },
+      {
+        "name": "Phil Benson",
+        "character": "1st Base Umpire",
+        "profile_path": ""
+      },
+      {
+        "name": "Joyce Guy",
+        "character": "Flight Attendant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9KoD9o0ieRkimvEkIriQ6HlwNHL.jpg"
+      },
+      {
+        "name": "George Thomas",
+        "character": "Security Guard #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Spike Jonze",
+        "character": "Alán (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x2QeqEXvi3QjgTybvZ4mmqUf4qO.jpg"
+      },
+      {
+        "name": "Derek Jeter",
+        "character": "Himself (archive footage)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zPuiq4sz76ZfTcCUq2pJ7tcagJ3.jpg"
+      },
+      {
+        "name": "Deanna Marks",
+        "character": "Player's Wife (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qYEp06TktZ2QgJIitRUofhRXFio.jpg"
+      },
+      {
+        "name": "Bobby Kotick",
+        "character": "Stephen Schott",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Bennett Miller",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r1XGBl8TYNuCm7APjWN8npP4DEw.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "underdog",
+    "california",
+    "sports",
+    "1970s",
+    "baseball",
+    "based on true story",
+    "oakland, california",
+    "job transfer",
+    "oakland athletics",
+    "franchise",
+    "talent manager",
+    "statistics",
+    "1980s",
+    "2000s",
+    "mlb"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Oakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players.",
+    "Oakland A's GM Billy Beane is handicapped with the lowest salary constraint in baseball. If he ever wants to win the World Series, Billy must find a competitive advantage. Billy is about to turn baseball on its ear when he uses statistical data to analyze and place value on the players he picks for the team.—Douglas Young (the-movie-guy)",
+    "In 2001, General Manager Billy Beane's Oakland A's lose to the Yankees in the playoffs then lose three stars to free agency. How can Beane field a competitive team when the A's player salaries total less than a third of the rich teams'? To the consternation of his scouts, Beane hires and listens to Peter Brand, a recent Yale grad who evaluates players using Bill James' statistical approach. Beane assembles a team of no names who, on paper, can get on base and score runs. Then, Beane's manager, Art Howe, won't use the players as Beane wants. Can Beane circumvent Howe, win games, make it to the 2002 Series, and stand baseball's hidebound conventions on their heads?—<jhailey@hotmail.com>",
+    "The Oakland A's end their 2001 season with a loss in the AL fifth game of a best of five elimination series, still an admirable accomplishment seeing as the A's are considered a poor team with a payroll one-third of that of a rich team like the New York Yankees. During the off season, they lose three of their star players through free agency, most problematic being first baseman Jason Giambi. Without more money which he doesn't get from owner Stephen Schott, the A's GM, Billy Beane, knows that they will never win the World Series as richer teams will always be able to pilfer their best players - ones they have been able to nurture - with more lucrative contracts. Billy knows they have to think differently about how to replace the three, looking at what they require in combination rather than looking at the three as individuals, which is different than the way scouts have looked at players over the sport's history. In a meeting with Cleveland Indians management about players, Billy meets Peter Brand, a quiet Yale Economics graduate, who works for the Indians doing player analysis. Upon questioning Peter later in private, Billy realizes that purely academic Peter has much the same thought process as he does. Billy hires him as the A's Assistant GM after receiving what he considers the correct answer to Billy's question on his own checkered past as a first round 1979 draft pick which led to notoriety as a failure as a player. But once on the payroll, Peter convinces Billy to look at the entire dugout, and acquire undervalued players for what they can do in order for the team to win. As an example, they acquire former catcher Scott Hatteberg, whose career is seen as being over by all other teams due to an elbow injury that doesn't allow him to throw. Although not a hitter, they acquire him for his ability to \"get on base\" in whatever way required (usually by walks), and plan to teach him how to play first base, a generally non-throwing position. These moves don't sit well with the A's scouting team and sports analysts. Problematic is that the A's Manager, Art Howe, who also doesn't agree with or understand the strategy, refuses to listen to Billy about how best to manage the team as assembled. Billy knows that his and Peter's jobs are on the line if they don't produce, which he realizes means nothing less than winning the World Series. But more important to Billy is to show the world of baseball that his way is the right way.—Huggo",
+    "Bennett Miller's adaptation of Michael Lewis' non-fiction best seller Moneyball stars Brad Pitt as Billy Beane, a one-time phenom who flamed out in the big leagues and now works as the GM for the Oakland Athletics, a franchise that's about to lose their three best players to free agency. Because the team isn't in a financial position to spend as much as perennial favorites like the Yankees and the Red Sox, Beane realizes he needs to radically change how he evaluates what players can bring to the squad. After he meets Peter Brand (Jonah Hill), an Ivy League economics major working as an executive assistant for scouting on another team, Beane realizes he's found the man who understands how to subvert the system of assessing players that's been in place for nearly a century. However, as the duo begin to acquire players that seem too old, injured, or inept to play major-league baseball, they face stiff resistance from both the A's longtime scouts and the team's manager Art Howe (Philip Seymour Hoffman), who outright refuses to allow Beane's more-nontraditional acquisitions to play. When Billy gets fired for his actions, Peter Brand (Jonah Hill) becomes GM and becomes the greatest GM ever."
+  ],
+  "synopsis": "The Oakland Athletics baseball team won many games and succeeded in reaching the \"Playoffs\" games of the 2001 post-season. When they lose the elimination games against the Yankees, their general manager Billy Beane (Brad Pitt) is very disappointed. He knows that several good players will soon be leaving the team: i.e. star players Johnny Damon (Johnny Damon), Jason Giambi (Jason Giambi), and Jason Isringhausen. Beane negotiates for replacement players in the hope of assembling a competitive team for the following year, but the teams budget for payroll is limited. During a visit to the Cleveland Indians, Beane meets Peter Brand (Jonah Hill). Brand says that he is a Yale economics graduate. Beane sees that Brand has radical ideas about assessing players' value. Beane tests Brand's theory by asking whether Brand would have drafted him. Despite the fact that Beane was a Major League player before becoming general manager, and scouts considered Beane a phenomenal player, Brand says that he would not have drafted Beane until the ninth round. He adds that Beane would probably have gone to college instead. Sensing opportunity, Beane hires Brand as the Athletics' assistant general manager.The team's scouts are first dismissive of and then hostile towards Brand's non-traditional ideas for scouting players. Rather than relying on the scouts' experience and intuition, Brand selects players based almost exclusively on their on base percentage (OBP). By finding players with a high OBP but characteristics that lead scouts to dismiss them, Brand assembles a team of undervalued players with far more potential than the A's hamstrung finances would otherwise allow. Despite vehement objections from the scouts, Beane supports Brand's theory and hires the players he selected, such as unorthodox submarine pitcher Chad Bradford (Casey Bond). Following the free agent signings, Beane finds that he also faces opposition from Art Howe (Philip Seymour Hoffman), the Athletics' manager. With tensions already high between them because of a contract dispute, Howe disregards Beane and Brand's strategy and plays the team in a traditional style despite their unsuitability. Beane is eventually forced to trade away the lone traditional star player, Carlos Peña (Gerardo Celasco), to force Howe to use the new recruits.Early in the season, the Athletics fare poorly, leading critics within and outside the team to dismiss the new method as a dismal failure. Beane convinces the owner to stay the course, and eventually the team's record begins to improve. Ultimately, the Athletics win an unprecedented 20 consecutive games, setting the American League record. Their streak is capped with a victory over the Kansas City Royals. Like many baseball players, Beane is superstitious and avoids attending or sometimes even following games as they are in progress. His family convinces him to go to the A's game against the Royals, as Oakland is already leading 11 to 0 after the third inning and appears set to continue their winning streak. Beane arrives, only to watch the team go to pieces and allow the Royals to even the score. Finally, the A's do clinch the victory with a walk-off home run by one of Brand's picks, Scott Hatteberg (Chris Pratt). Despite all their success, the A's lose in the first round of the postseason, this time to the Minnesota Twins. Beane is disappointed, but satisfied at having demonstrated the value of his and Brand's methods.In closing, the film notes that Beane passed up the opportunity to become the general manager of the Boston Red Sox, despite an offer of $12.5 million a year salary, which would have made him the highest paid GM in baseball history. Also noted is Boston's World Series victory soon after in 2004, based on the theories that Beane pioneered.",
+  "imdb_score": 7.6
+}

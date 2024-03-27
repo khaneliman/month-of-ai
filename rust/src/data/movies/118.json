@@ -1,0 +1,313 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/bSvUW4JQ6g4QiKvwejcfcPRd4Ke.jpg",
+  "id": 118,
+  "title": "Charlie and the Chocolate Factory",
+  "poster_path": "https://image.tmdb.org/t/p/w500/wfGfxtBkhBzQfOZw4S8IQZgrH0a.jpg",
+  "release_date": "2005-07-13",
+  "vote_average": 7.049,
+  "vote_count": 14455,
+  "popularity": 212.767,
+  "overview": "A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.",
+  "imdb_id": "tt0367594",
+  "budget": 150000000,
+  "homepage": "https://www.warnerbros.com/charlie-and-chocolate-factory",
+  "revenue": 475000000,
+  "runtime": 115,
+  "tagline": "Prepare for a taste of adventure.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "Village Roadshow Pictures",
+    "The Zanuck Company",
+    "Plan B Entertainment",
+    "Theobald Film Productions"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Johnny Depp",
+        "character": "Willy Wonka",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wcI594cwM4ArPwvRd2IU0Z0yLuh.jpg"
+      },
+      {
+        "name": "Freddie Highmore",
+        "character": "Charlie Bucket",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9larfGVg8ALIVFkr7cZzv4Emh1F.jpg"
+      },
+      {
+        "name": "David Kelly",
+        "character": "Grandpa Joe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6nk5gVXHpOV9gqWrjR4lis1BCP7.jpg"
+      },
+      {
+        "name": "Helena Bonham Carter",
+        "character": "Mrs. Bucket",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3D0dHVJ8YeVP8Uag0JUIIQji7C8.jpg"
+      },
+      {
+        "name": "Noah Taylor",
+        "character": "Mr. Bucket",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a9VuohmpqbvcYflOpi0F3ck8L2j.jpg"
+      },
+      {
+        "name": "Missi Pyle",
+        "character": "Mrs. Beauregarde",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lKMPTI0PbPv6kGQiublwHOp73Ff.jpg"
+      },
+      {
+        "name": "James Fox",
+        "character": "Mr. Salt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fO11c8zUNNgNhYu4aLxgYiBoo6R.jpg"
+      },
+      {
+        "name": "Deep Roy",
+        "character": "Oompa Loompa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hXq63dj4WjwcKann7h9Wy7z7Ac7.jpg"
+      },
+      {
+        "name": "Christopher Lee",
+        "character": "Dr. Wonka",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dA26fBr3t7mKqjn3OYW6kbD1LXM.jpg"
+      },
+      {
+        "name": "Adam Godley",
+        "character": "Mr. Teavee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xOM0zOb2KZ2q8M6lRrDo9bEBeJE.jpg"
+      },
+      {
+        "name": "Franziska Troegner",
+        "character": "Mrs. Gloop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s8MkmfwX9gXIGRpPiAYjmS1G7cS.jpg"
+      },
+      {
+        "name": "AnnaSophia Robb",
+        "character": "Violet Beauregarde",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tWlnAuyQeFidHcAo2zUVxNv0G0T.jpg"
+      },
+      {
+        "name": "Julia Winter",
+        "character": "Veruca Salt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3HKwgDkcPIVipD7PV1WaJtrUxzu.jpg"
+      },
+      {
+        "name": "Jordan Fry",
+        "character": "Mike Teavee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sYOwt75vhzZsVOJr44myYj0fpyW.jpg"
+      },
+      {
+        "name": "Philip Wiegratz",
+        "character": "Augustus Glupsch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jVGKw04FoBN8QX0PNfP32xh8dgA.jpg"
+      },
+      {
+        "name": "Blair Dunlop",
+        "character": "Little Willy Wonka",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zCKvnOoZXdSLY6pehUym09eKkcJ.jpg"
+      },
+      {
+        "name": "Liz Smith",
+        "character": "Grandma Georgina",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nexS9F9J6v6mTqNv5cIUm9LfuNm.jpg"
+      },
+      {
+        "name": "Eileen Essell",
+        "character": "Grandma Josephine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uIb38xoBdw1lDmQ7wzFXjZ9e93E.jpg"
+      },
+      {
+        "name": "David Morris",
+        "character": "Grandpa George",
+        "profile_path": ""
+      },
+      {
+        "name": "Nitin Ganatra",
+        "character": "Prince Pondicherry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gFvTl8vphafRHdqlEPWmVnV6DYT.jpg"
+      },
+      {
+        "name": "Shelley Conn",
+        "character": "Princess Pondicherry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zD9zlJmp8VuHFtpc07qZUJ1ONYD.jpg"
+      },
+      {
+        "name": "Chris Cresswell",
+        "character": "Prodnose",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4THEIzybYZu5AkWqjTjunqlFFpE.jpg"
+      },
+      {
+        "name": "Philip Philmar",
+        "character": "Slugworth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z9QWTyjPFTuMMUX7uzDUrpLsjCw.jpg"
+      },
+      {
+        "name": "Tony Kirwood",
+        "character": "Finckelgruber",
+        "profile_path": ""
+      },
+      {
+        "name": "Todd Boyce",
+        "character": "TV Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kM5syx6Xry0q23Dh1MP3NBJLKvr.jpg"
+      },
+      {
+        "name": "Nayef Rashed",
+        "character": "Moroccan Market Vendor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7IbvrK7Tj1DrORGmekK90bB7Bdw.jpg"
+      },
+      {
+        "name": "Menis Yousry",
+        "character": "Moroccan Market Trader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AlHO9Sa1oIFPVXdwZn6GoktZhUk.jpg"
+      },
+      {
+        "name": "Harry Taylor",
+        "character": "Mr. Gloop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tJVi0TZbqUxOHHDUaV2eExKyykC.jpg"
+      },
+      {
+        "name": "Hubertus Geller",
+        "character": "German Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1AxjwSgy5I1q68plLC23Covrd5A.jpg"
+      },
+      {
+        "name": "Francesca Hunt",
+        "character": "Mrs. Salt",
+        "profile_path": ""
+      },
+      {
+        "name": "Garrick Hagon",
+        "character": "Denver Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lDtVxw5eMfmexYgL6OZJTfSCRCN.jpg"
+      },
+      {
+        "name": "Kevin Eldon",
+        "character": "Man with Dog",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1S3ft0f71Hho9QlHUnuyJVHrfKH.jpg"
+      },
+      {
+        "name": "Mark Heap",
+        "character": "Man with Dog",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pP0XWwB3NXp2akr3leXfDXAfSVp.jpg"
+      },
+      {
+        "name": "Roger Frost",
+        "character": "Tall Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Oscar James",
+        "character": "Shopkeeper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i8S9LvbGAckdVCDmefyGGrMfcc6.jpg"
+      },
+      {
+        "name": "Colette Appleby",
+        "character": "Customer in Shop",
+        "profile_path": ""
+      },
+      {
+        "name": "Débora Monteiro",
+        "character": "Woman in Shop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xUM8tJMdAaNLuh2AqoaCbIA6lD8.jpg"
+      },
+      {
+        "name": "Annette Badland",
+        "character": "Jolly Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
+      },
+      {
+        "name": "Steve Hope Wynne",
+        "character": "Museum Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n0HMc1pHAsYIiQdCOCgPZ0wB00s.jpg"
+      },
+      {
+        "name": "Geoffrey Holder",
+        "character": "Narrator (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oGjjKM4WexZ95BRGSnVUzrwrVXi.jpg"
+      },
+      {
+        "name": "Elena Buda",
+        "character": "Character Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/buMnKgA0I9ISzevGVMaZpth1aSS.jpg"
+      },
+      {
+        "name": "Rene Costa",
+        "character": "Factory Worker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5Kab6UmuAfnynI0I4QXkfFIP6PY.jpg"
+      },
+      {
+        "name": "Danny Elfman",
+        "character": "Oompa Loompa (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bcpur9bF56nLxzFzZowipA2wZhy.jpg"
+      },
+      {
+        "name": "Aiko Horiuchi",
+        "character": "Woman in shop (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brigitte Millar",
+        "character": "Journalist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xjRbpfeQl1YkVcqoET8UG29roGf.jpg"
+      },
+      {
+        "name": "Valery Richardson",
+        "character": "Zombie Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nhQ8Rx1vIM2S5ImO4mtXI25bhcP.jpg"
+      },
+      {
+        "name": "John Warman",
+        "character": "Policeman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vn9yprak8rarcy99iRB1Kfn7DA8.jpg"
+      },
+      {
+        "name": "Tracy Yarkoni",
+        "character": "Violet's Neighbor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mnF5UwqU7pF4tze6BkrrcsxH9FF.jpg"
+      },
+      {
+        "name": "Jynine James",
+        "character": "Salts Nuts Girl (Uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5Da6GUHO1GDG8kpGMhFjmEgWFFV.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Tim Burton",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oWZDgLRr4zgRiJEsOAtgntPd5bI.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "factory worker",
+    "london, england",
+    "based on novel or book",
+    "chocolate",
+    "candy",
+    "overweight child",
+    "parent child relationship",
+    "grandparent grandchild relationship",
+    "teacher",
+    "candy bar"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.",
+    "When Willy Wonka decides to let five children into his chocolate factory, he decides to release five golden tickets in five separate chocolate bars, causing complete mayhem. The tickets start to be found, with the fifth going to a very special boy, called Charlie Bucket. With his Grandpa, Charlie joins the rest of the children to experience the most amazing factory ever. But not everything goes to plan within the factory.—FilmFanUK",
+    "Charlie Bucket, an honest boy with a heart of gold, has only one dream: to see the inside of exceptional chocolatier Willy Wonka's mysterious candy factory. And when Willy organises a worldwide contest, Charlie will finally embark on an exciting journey into his idol's sweet, secret world with four other equally lucky children. Now, the sky is the limit. After all, no one knows how the talented chocolate maker makes his scrumptious Wonka Bars or who will win the grand prize. But all in due time. Can the ambitious visitors of Willy's wondrous chocolate factory pass Wonka's crucial ultimate test?—Nick Riganas",
+    "Charlie Bucket comes from a poor family, and spends most of his time dreaming about the chocolate that he loves but usually can't afford. Things change when Willy Wonka, head of the very popular Wonka Chocolate empire, announces a contest in which five gold tickets have been hidden in chocolate bars and sent throughout the country. The kids who find the tickets will be taken on a tour of Wonka's chocolate factory and get a special glimpse of the wonders within. Charlie miraculously finds a ticket, along with four other children much naughtier than him. The tour of the factory will hold more than a few surprises for this bunch.—rmlohner",
+    "Charlie Bucket is a young boy who comes from a poor but loving family and would love nothing more than to find a golden ticket to enter the amazing chocolate factory run by inventor and owner Willy Wonka. As luck would have it, Charlie finds the last golden ticket and goes on this once-in-a-lifetime adventure with his grandpa Joe. Among the other four winners are Veruca Salt, a spoiled rich girl; Augustus Gloop, a gluttonous kid who stuffs his face with sweets; Violet Beuragarde, a champion trophy gum chewer; and Mike Teavee, a kid who spends more time watching TV and playing video games than anything else. Most fascinating is the mysterious Willy Wonka who in turn had a troubled childhood and has a special grand prize at the end for one of the kids. Also along the tour are Wonka's staff the singing, working Oommpa Loompas.—van_whistler@hotmail.co.uk"
+  ],
+  "synopsis": "Charlie Bucket is a kind, loving boy who lives in poverty with his mother, father, and four bedridden grandparents. Directly across the street from their house is a world-famous chocolate factory, the owner of which, Willy Wonka (Jhonny Depp), has long since closed access to the factory due to problems concerning industrial espionage that ultimately led him to fire all his employees, among them Charlie's Grandpa Joe. One day, Wonka announces a contest in which five Golden Tickets have been placed in five random Wonka Bars worldwide, and the winners will be given a full tour of the factory, as well as a lifetime supply of chocolate. One ticket-holder will be given a special prize at the end of the tour.The first four tickets are found by Augustus Gloop, a greedy, gluttonous eater from Düsseldorf; Veruca Salt, a spoiled, rotten brat from Buckinghamshire; Violet Beauregarde, a boastful, competitive gum chewer from Atlanta; and Mike Teavee, an arrogant, aggressive video-game addict from Denver. Two of Charlie's attempts to find a ticket end in failure. With one ticket remaining, and his father laid off from his job at a toothpaste factory, replaced by a robot, Charlie's hopes are then broken when rumors spread that the last ticket has been found by a rich boy in Russia resulting in the end of the Golden Ticket search. Charlie then finds a dollar bill on the street and buys another Wonka Bar with it, hoping it will cheer him up. At the same time news spread that the rich boy's ticket was a fake, Charlie opens up the bar and finds, with much shock and joy, the last Golden Ticket.Chaperoned by Grandpa Joe and one of their respective parents, Charlie and the other ticket holders are greeted by Wonka, who leads the group through the facility. During the tour, each of the bad children disobeys Mr. Wonka's orders after being tempted by something related to their individual character flaws. They suffer various consequences as a result: Augustus falls into a chocolate river from which he was drinking and is sucked up a chocolate-extraction pipe; Violet chews an experimental gum and swells up into an oversized blueberry; Veruca is pushed into a garbage chute by worker squirrels after trying to take one of them as a pet, and Mike is shrunk by a Teleporter that he uses on himself. Each misfortune is accompanied by a song of morality sung by Mr. Wonka's employees, the Oompa-Loompas. The children later leave the factory, each with an exaggerated characteristic relating to their demise: Augustus covered in chocolate, Violet being juiced and becoming blue and flexible, Veruca and her father covered in garbage, and Mike being stretched by a taffy puller into a thin shape.With Charlie the last remaining child on the tour, Mr. Wonka offers him the tour's secret prize: a chance to live in the factory and work with him, revealing that the purpose of the contest was to make the least rotten child heir to the factory so he can have someone carry on his legacy when he dies. The only condition, however, is that Charlie must leave his family behind. As detailed by a series of flashbacks throughout the film, Mr. Wonka ran away from his own father, a dentist, who fitted him with oppressive orthodontic headgear and forbade him from eating candy. As a result, Mr. Wonka believes that Charlie's parents will similarly restrain Charlie's creativity as a candy-maker. Charlie refuses Mr. Wonka's offer, considering his family to be the most important thing in his life.From that moment on, Charlie and his family begin living contently, with his father being rehired at the toothpaste factory to do maintenance on the robot that replaced him, though Mr. Wonka becomes depressed. After he returns to Charlie to seek advice, Charlie helps Wonka reunite with his estranged father and repair their relationship. Afterwards, Charlie accepts inheritance of the factory and moves his whole family into the facility, becoming good friends and business partners with Mr. Wonka.",
+  "imdb_score": 6.7
+}

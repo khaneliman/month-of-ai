@@ -1,0 +1,457 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/6c7j7MQCczzNVvcrNEiXbs8Kt2p.jpg",
+  "id": 9509,
+  "title": "Man on Fire",
+  "poster_path": "https://image.tmdb.org/t/p/w500/v8H6dPqXhHWW137ubxqD4HdHTib.jpg",
+  "release_date": "2004-04-23",
+  "vote_average": 7.46,
+  "vote_count": 4824,
+  "popularity": 35.592,
+  "overview": "Jaded ex-CIA operative John Creasy reluctantly accepts a job as the bodyguard for a 10-year-old girl in Mexico City. They clash at first, but eventually bond, and when she's kidnapped he's consumed by fury and will stop at nothing to save her life.",
+  "imdb_id": "tt0328107",
+  "budget": 70000000,
+  "homepage": "",
+  "revenue": 130300000,
+  "runtime": 146,
+  "tagline": "Creasy's art is death, and he is about to paint his masterpiece.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Fox 2000 Pictures",
+    "Regency Enterprises",
+    "New Regency Pictures",
+    "Scott Free Productions",
+    "Epsilon Motion Pictures"
+  ],
+  "production_countries": [
+    "CH",
+    "GB",
+    "US",
+    "MX"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Denzel Washington",
+        "character": "John W. Creasy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+      },
+      {
+        "name": "Dakota Fanning",
+        "character": "Lupita Ramos",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xPxZqf4uzP4j37Tpmh9v8A47UAi.jpg"
+      },
+      {
+        "name": "Christopher Walken",
+        "character": "Paul Rayburn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+      },
+      {
+        "name": "Radha Mitchell",
+        "character": "Lisa Ramos",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8EVKyEkwPfIA6GxlIo0PJv0A5mm.jpg"
+      },
+      {
+        "name": "Marc Anthony",
+        "character": "Samuel Ramos",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mOkqbV5iiusOLEOVPmepQcAGF8K.jpg"
+      },
+      {
+        "name": "Giancarlo Giannini",
+        "character": "Miguel Manzano",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xsnoThKUjFlhmvXKS4ZqAx1x3zb.jpg"
+      },
+      {
+        "name": "Mickey Rourke",
+        "character": "Jordan Kalfus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i6vXukUwRsJa7S9yhZgoKt9xLDv.jpg"
+      },
+      {
+        "name": "Rachel Ticotin",
+        "character": "Mariana Garcia Guerrero",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ihLzHGkgQcpUX26K5AtfG8VuYGB.jpg"
+      },
+      {
+        "name": "Roberto Sosa",
+        "character": "Daniel Sanchez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sZ3PedQA175VHlm4A1n5rn3KDg8.jpg"
+      },
+      {
+        "name": "Jesús Ochoa",
+        "character": "Victor Fuentes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7q5cin3hrPIhMqRkPZ2sSyTrqlk.jpg"
+      },
+      {
+        "name": "Gero Camilo",
+        "character": "Aurelio Sanchez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1gM6S64Zpat4DJPzLgN15cg2rF3.jpg"
+      },
+      {
+        "name": "Mario Zaragoza",
+        "character": "Jorge Gonzalez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3d6BX9epH4Yfk0g4cNY3IgZx24V.jpg"
+      },
+      {
+        "name": "Charles Paraventi",
+        "character": "Jersey Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3vo65ipC5cSmctFdZoEbLSh03pH.jpg"
+      },
+      {
+        "name": "Carmen Salinas",
+        "character": "Guardian Three",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qQgg0a73sSE6GkYu5HkzmK0aw2C.jpg"
+      },
+      {
+        "name": "Esteban de La Trinidad",
+        "character": "Guardian Thwo",
+        "profile_path": ""
+      },
+      {
+        "name": "Angelina Peláez",
+        "character": "Sister Anna",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kpsyYf7mq5cjYsbcfFxAeYFvSGK.jpg"
+      },
+      {
+        "name": "Norma Pablo",
+        "character": "Reina Rosas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gEOxHbmMEt8uYMnCCKbNCFJzcJx.jpg"
+      },
+      {
+        "name": "Rosa María Hernández",
+        "character": "Maria",
+        "profile_path": ""
+      },
+      {
+        "name": "Heriberto del Castillo",
+        "character": "Bruno",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Gonzales",
+        "character": "Insurance Lawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hCAVb12tmiR3CklaIL2yOzFGG8I.jpg"
+      },
+      {
+        "name": "Andrés Pardave",
+        "character": "Vet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/57pjtI7Mg7ZhPNliqwlNUdqNFpk.jpg"
+      },
+      {
+        "name": "Rodrigo Zurita",
+        "character": "Eighteen",
+        "profile_path": ""
+      },
+      {
+        "name": "Marisol Cal y Mayor",
+        "character": "Eighteen's Girlfriend",
+        "profile_path": ""
+      },
+      {
+        "name": "Hector Hernandez Zertuche",
+        "character": "Chauffeur",
+        "profile_path": ""
+      },
+      {
+        "name": "René Campero",
+        "character": "Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zmpIQuIiJAB91bn7LGttK0onrOQ.jpg"
+      },
+      {
+        "name": "Angélica Rosado",
+        "character": "Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4wIOIFjvvN6PiJGHFlDBjax38Jy.jpg"
+      },
+      {
+        "name": "Georgina González",
+        "character": "Rayburn's Wife",
+        "profile_path": ""
+      },
+      {
+        "name": "Abraham Sandoval",
+        "character": "Rayburn's Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Hugo Pelaez",
+        "character": "Pedro",
+        "profile_path": ""
+      },
+      {
+        "name": "Jorge Victoria",
+        "character": "Comandande Judicial",
+        "profile_path": ""
+      },
+      {
+        "name": "Ariane Pellicer",
+        "character": "Reporter 1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iYd6AbRFrxVoWooBSsuw3FfDWtW.jpg"
+      },
+      {
+        "name": "Jorge Picont",
+        "character": "Piano Teacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Alberto Estrella",
+        "character": "Adjutant AFI",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mbzQRSMSjGFl0CWdI9pG6fNn2L.jpg"
+      },
+      {
+        "name": "Gerardo Taracena",
+        "character": "Executive Adjutant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wvqDQf71ezlA36ZzhWe1D7cKLLS.jpg"
+      },
+      {
+        "name": "Nydia A. Trujillo",
+        "character": "Nurse 1",
+        "profile_path": ""
+      },
+      {
+        "name": "Maria Hall Rueda",
+        "character": "Nurse 2",
+        "profile_path": ""
+      },
+      {
+        "name": "Elvira Richards",
+        "character": "Vet Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Javier Zaragoza",
+        "character": "Sandri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/saJ7bjOk9FdcGnDNf8rFXSrCwgA.jpg"
+      },
+      {
+        "name": "Valentina Garcia Contreras",
+        "character": "Camila",
+        "profile_path": ""
+      },
+      {
+        "name": "Enrique Cimet",
+        "character": "Elderly Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Sparkle",
+        "character": "Elderly Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Dunia Alvarez",
+        "character": "AFI Plainclothes 1",
+        "profile_path": ""
+      },
+      {
+        "name": "Beatriz Pina",
+        "character": "Undercover AFI",
+        "profile_path": ""
+      },
+      {
+        "name": "Hector Tagle",
+        "character": "Mariana's Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Jose Jesus Garcia",
+        "character": "Sanchez Kid 1",
+        "profile_path": ""
+      },
+      {
+        "name": "Guadalupe Flores Garcia",
+        "character": "Sanchez Kid 2",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniela Martinez",
+        "character": "Sanchez Kid 3",
+        "profile_path": ""
+      },
+      {
+        "name": "Rubén Santana",
+        "character": "AFI Trailer Tech 1",
+        "profile_path": ""
+      },
+      {
+        "name": "Fernando Berzosa",
+        "character": "AFI Trailer Tech 2",
+        "profile_path": ""
+      },
+      {
+        "name": "Eduardo Rivera",
+        "character": "AFI Operator on Radio",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lnaUBKQNCGWp9ErxDyW1JSvrw4l.jpg"
+      },
+      {
+        "name": "Victor De Pascual",
+        "character": "Arms Dealer",
+        "profile_path": ""
+      },
+      {
+        "name": "Norma Martínez",
+        "character": "Arms Dealer 2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dXQhH1AmnuRw52zKjfvJ15asr8h.jpg"
+      },
+      {
+        "name": "Aram Cardenas",
+        "character": "Nephew",
+        "profile_path": ""
+      },
+      {
+        "name": "Manuel Poncelis",
+        "character": "School Clerk",
+        "profile_path": ""
+      },
+      {
+        "name": "Alejandro Camps",
+        "character": "Bodyguard 1",
+        "profile_path": ""
+      },
+      {
+        "name": "Jorge Almada",
+        "character": "Bodyguard 1A",
+        "profile_path": ""
+      },
+      {
+        "name": "Carlos Barada",
+        "character": "Bodyguard 2",
+        "profile_path": ""
+      },
+      {
+        "name": "Eduardo Yáñez",
+        "character": "Bodyguard 2A",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eRHKw2zBPgw4K01zy2PPB4oOaKn.jpg"
+      },
+      {
+        "name": "Jorge Merlo",
+        "character": "Judicial Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Alberto Pineda",
+        "character": "Fuentes Man 1",
+        "profile_path": ""
+      },
+      {
+        "name": "Jesús González Leal 'Chis Chas'",
+        "character": "Fuentes Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Rodrigo Chavez",
+        "character": "Fuentes Man 5",
+        "profile_path": ""
+      },
+      {
+        "name": "Fernando Arvizu",
+        "character": "Thug Cop 1",
+        "profile_path": ""
+      },
+      {
+        "name": "Ghalil Elhateb Estrada",
+        "character": "Thug Cop 2",
+        "profile_path": ""
+      },
+      {
+        "name": "Hugo Genesio",
+        "character": "Plainclothes 1",
+        "profile_path": ""
+      },
+      {
+        "name": "Gonzalo Alvarez",
+        "character": "Plainclothes 2",
+        "profile_path": ""
+      },
+      {
+        "name": "Itatí Cantoral",
+        "character": "Evelyn (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mpkvomyNT4QkhjIVFV0M78pLTAr.jpg"
+      },
+      {
+        "name": "Arturo Farfán",
+        "character": "Bartender (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bPUYYa7py9wGCe5mrmjhERkgzlJ.jpg"
+      },
+      {
+        "name": "Adrian Grünberg",
+        "character": "Docile Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ubhQE5F4orGeAuQYN1PoY8ZJc3n.jpg"
+      },
+      {
+        "name": "Jorge Guerrero",
+        "character": "Priest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Roberto Kwok",
+        "character": "Japanese Businessman 6 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "José Montini",
+        "character": "Restaurant Owner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Stacy Perskie",
+        "character": "Cynical Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/glZjEjhYGFuAU91YfnSdxpMHnKw.jpg"
+      },
+      {
+        "name": "Berenice Manjarrez Vericat",
+        "character": "Newscaster (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/918utLP1ou9TXTQsczVfeSW3U2X.jpg"
+      },
+      {
+        "name": "Raúl Zermeño",
+        "character": "Highranking Government Official (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jorge Zárate",
+        "character": "Customs Official (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l2bUAP2ZjpoJG3N1CCvQ0Cqyefn.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Tony Scott",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zEEbiNa8Pqw3U6pZ8Z2y3dlJJnC.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "cia",
+    "mexico",
+    "mexico city, mexico",
+    "based on novel or book",
+    "kidnapping",
+    "bodyguard",
+    "diary",
+    "bible",
+    "remake",
+    "stuffed animal",
+    "revenge",
+    "cell phone",
+    "alcoholic",
+    "grenade launcher",
+    "child kidnapping",
+    "bloodshed",
+    "swim meet",
+    "corrupt cop"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "In Mexico City, a former CIA operative swears vengeance on those who committed an unspeakable act against the family he was hired to protect.",
+    "Hard-drinking, burnt-out ex-CIA operative John Creasy has given up on life until he's hired as a bodyguard to protect 9-year-old Pita Ramos. Bit by bit, Creasy begins to reclaim some of his soul, but when Pita is kidnapped, Creasy's fiery rage is finally released and he will stop at nothing to save her as he sets out on a dangerous, revenge-fueled rescue mission.—Freddie Bidwell",
+    "John Creasy is a hard drinking ex-CIA operative whose past causes him to carry a heavy conscience. Creasy reluctantly takes a job as a bodyguard to a little girl in Mexico City, Lupita Ramos. Although Creasy is burnt out, with Pita's help, he learns to live again. Just as Creasy is regaining his own well-being, Pita is taken by experienced kidnappers. He tries valiantly to fight them off, but they flee with Pita. At this point Creasy will stop at nothing to find those involved and exact justice. Creasy wages all-out war on anyone involved, learning about the corruption in the highest of places and their involvement in the kidnapping racket.—Dalton M",
+    "Slowly falling into deep depression against the backdrop of a seemingly-endless string of violent abductions in bustling Mexico City, the former U.S. Marine Corps officer and now a burnt-out heavy drinker, John Creasy, hesitantly accepts a new job as a personal bodyguard for 9-year-old Pita Ramos. Little by little, the distant, taciturn gun-for-hire will surprisingly find a new purpose in life; however, when John fails to protect the young heiress from a blood-drenched kidnapping operation, his whole world crumbles into dust. Now, a war against everyone involved in Pita's abduction is the only solution. Who can stand in the way of a man on fire?—Nick Riganas",
+    "A wave of kidnappings has swept through Mexico, feeding a growing sense of panic among its wealthier citizens, especially parents. In one six-day period, there were 24 abductions, leading many to hire bodyguards for their children. Into this world enters John Creasy, a burned-out ex-CIA operative/assassin, who has given up on life. Creasy's friend Rayburn brings him to Mexico City to be a bodyguard to 9-year-old Pita Ramos, daughter of industrialist Samuel Ramos and his wife Lisa. Creasy is not interested in being a bodyguard, especially to a youngster, but for lack of something better to do, he accepts the assignment. Creasy barely tolerates the precocious child and her pestering questions about him and his life. But slowly, she chips away at his seemingly impenetrable exterior, his defenses drop, and he opens up to her. Creasy's new-found purpose in life is shattered when Pita is kidnapped. Despite being seriously wounded during the kidnapping, he vows to kill anyone involved in or profiting from the kidnapping. And no one can stop him.—Sujit R. Varma"
+  ],
+  "synopsis": "In Mexico City, criminal gangs are kidnapping rich people and extorting their families for the lucrative ransom money. A young man, \"Eighteen,\" is walking through the city streets with his girlfriend, and he is kidnapped. As police detective Victor Fuentes (Jesús Ochoa) consoles the family, Eighteen's wealthy father receives a call from human trafficker Daniel Sanchez (Gustavo Sánchez Parra), who is very interested in Eighteen's ten million dollar life insurance policy. The father and Fuentes arrange a dead drop, and Eighteen is found near a freeway overpass, blindfolded and in his underwear, but alive. Mexican businessman Samuel Ramos (Marc Anthony) discusses this incident with his attorney Jordan Kalfus (Mickey Rourke), as it has convinced Ramos' wife, Lisa (Radha Mitchell), that they need to hire a bodyguard for their nine-year-old daughter Lupita \"Pita\" Ramos (Dakota Fanning). Ramos is reluctant to do this, and it is implied that he is having financial problems, as Pita had a bodyguard until recently but they had to let him go. Kalfus reminds Ramos that he needs to hire another bodyguard in order to renew the family's ransom insurance, and recommends he talk to Paul Rayburn (Christopher Walken), a former CIA agent who now runs an executive security firm. Rayburn refers the family to his old CIA buddy John Creasy (Denzel Washington).Ramos is impressed with Creasy's résumé, which includes a variety of counterinsurgency and counter-terrorism activities. However, Creasy is burned out from all the death and horror and has taken to alcoholism to ease the burden. He even attempts suicide, which fails when his gun misfires. Rayburn attributes this to a bullet's tendency to find its way to truly deserving targets. Creasy is not interested in bodyguard work and even less with the youngster, but he needs a job. Creasy's initial impatience slowly fades as he finds himself opening up to the child. He replaces her parents in their absence, giving her advice and coaching her in her swimming lessons and competitions. He helps her overcome her fear of the sound of starter pistols, turning it into an eagerness to move at the sound of one. Pita gives Creasy an emblem of St. Jude, the patron saint of lost causes, saying she bought it for him with her own money.Shortly after delivering her to a piano audition, Creasy notices a suspicious vehicle driving past and a pair of police cars blocking off the surrounding street. As Pita emerges from the building and freezes, Creasy pulls out his gun and fires a shot into the air, similar to a starter pistol, startling her into running away. During the ensuing gun battle, four of the attackers are fatally shot, including two corrupt police officers. The battle leaves Creasy seriously wounded and unconscious, allowing the surviving kidnappers to grab the child.The police chief publicly ridicules Creasy while he is unconscious in the hospital, claiming he murdered the two police officers. A journalist, Mariana Guerrero (Rachel Ticotin) finds it suspicious that the cops were supposed to be off duty, yet were in uniform and driving squad cars. Her Federal Ministerial Police contact, Miguel Manzano (Giancarlo Giannini), matter of factly states that the cops were corrupt. They decide to talk to Creasy once he has recovered.Although Kalfus wants the police kept out of the negotiation for Pita's release, the death of the two officers make the kidnapping a police matter, so Fuentes takes charge, assuring the family that the chances of Pita's safe return are good as long as they listen to him. Soon after, Sanchez demands a dead drop ransom of ten million dollars in exchange for Pita. Although Ramos is instructed to come to the drop alone, Fuentes advises against this, and accompanies Ramos to the drop. The drop goes badly, as the kidnappers are ambushed, and Ramos and Fuentes are forced to flee. A furious Sanchez reveals that his nephew was killed in the ambush, and he blames this on Ramos disobeying his instructions. He says that Pita is lost to them forever, which is assumed to mean she is dead.Rayburn learns about Creasy's situation and helps Creasy escape to a safe house where he can recover from his injuries. After Creasy is well, he returns to Pita's home and promises Lisa that he will kill everyone who was involved in, or profited from, the kidnapping. With help from Guerrero and Manzano, Creasy learns that the corrupt cops belong to a powerful crime syndicate called La Hermandad (Spanish for \"the Brotherhood\"). Creasy kidnaps and tortures several Brotherhood members, forcing them to reveal the names of the people involved in the kidnapping ring, including Fuentes. With help from Guerrero, he learns that Fuentes will be travelling through the city in a high security motorcade. Using a hotel room as a sniper's nest, Creasy uses a rocket launcher to destroy the armored vehicles escorting Fuentes' limo, then heads down to the street to engage the remaining guards. After a protracted shootout with Creasy using advanced guerilla warfare tactics, Creasy hijacks the limo and knocks Fuentes out.Under interrogation, Fuentes reveals that he ambushed the dead drop because he had had organized so many of them in the past, he thought it would be easy money. However, the bags stolen from the drop only contained 2.5 million, a quarter of the actual ransom. Fuentes begs to be spared, insisting that he is just a hired professional like Creasy. A disgusted Creasy reveals that he planted an explosive within Fuentes' rectum while he was unconscious, and it will explode in five minutes. As Creasy walks away, Fuentes spends the last few minutes of his life screaming until the explosive detonates, killing him.Creasy traces another 2.5 million to Kalfus and goes to his house to confront him, only to find his decapitated body floating in a pool. He confronts Ramos, who admits that he was danger of going bankrupt, so Kalfus suggested they stage Pita's kidnapping so he could collect the insurance money. Kalfus had made most of the arrangements, and assured Ramos that Pita would simply be watching cartoons in a safehouse for a few hours. Things went south once Fuentes got too greedy, Ramos blamed Kalfus for this and had him executed. Creasy leaves a pistol (the same one from his failed suicide attempt) and a single bullet on the table, reiterating Rayburn's earlier advice about bullets always finding deserving targets. After Creasy and Lisa leave, Ramos uses the gun to kill himself.As Creasy continues his pursuit of Sanchez, Manzano's men are tracking him electronically. Guerrero prepares to publish Sanchez' photo in the newspaper but is attacked on the way home by a gang member who threatens to kill her if she publishes the picture. The paper publishes it anyway and the headlines label it \"Tiene Vo el Miedo\" (\"Fear has a Voice\").After Creasy learns where Sanchez' brother Aurelio (Gero Camilo) lives, he gains access to his apartment. Aurelio wounds Creasy in the chest, but Creasy is able to chase him. Aurelio attempts to escape in a VW bus, but Creasy wounds him and he crashes into a large truck. Creasy takes Aurelio back to his apartment and captures Sanchez' very pregnant wife, Raina. He tortures Aurelio and forces Raina to page Sanchez who then calls back.Creasy is intent on killing Sanchez when Sanchez reveals that Pita is still alive. He offers to release her if Creasy surrenders himself and lets Aurelio live. Creasy agrees and takes Lisa to a remote rural area to make the exchange. After Pita runs to her mother, Aurelio and Creasy get into a car, which speeds off. In the back seat, Creasy dies from his gunshot wound and drops the emblem of St. Jude that Pita gave him. An epilogue reveals that Sanchez was killed by Manzano during a police raid that same day.",
+  "imdb_score": 7.7
+}

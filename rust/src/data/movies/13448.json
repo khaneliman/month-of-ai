@@ -1,0 +1,987 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/cj0VkGBTywa7WTIPPW9xgqmUVWl.jpg",
+  "id": 13448,
+  "title": "Angels & Demons",
+  "poster_path": "https://image.tmdb.org/t/p/w500/hrvNVd0GDeytbDhduWa3SFKmg4A.jpg",
+  "release_date": "2009-05-13",
+  "vote_average": 6.707,
+  "vote_count": 6492,
+  "popularity": 41.187,
+  "overview": "Harvard symbologist Robert Langdon is recruited by the Vatican to investigate the apparent return of the Illuminati - a secret, underground organization - after four cardinals are kidnapped on the night of the papal conclave.",
+  "imdb_id": "tt0808151",
+  "budget": 150000000,
+  "homepage": "http://www.angelsanddemons.com/",
+  "revenue": 485900000,
+  "runtime": 138,
+  "tagline": "The holiest event of our time. Perfect for their return.",
+  "genres": [
+    "Thriller",
+    "Mystery"
+  ],
+  "production_companies": [
+    "Columbia Pictures",
+    "Imagine Entertainment",
+    "Skylark Productions",
+    "Panorama Films"
+  ],
+  "production_countries": [
+    "IT",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Robert Langdon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg"
+      },
+      {
+        "name": "Ewan McGregor",
+        "character": "Camerlengo Patrick McKenna",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qYRGu6NIqkUYIO7ftso110WNQ6P.jpg"
+      },
+      {
+        "name": "Ayelet Zurer",
+        "character": "Vittoria Vetra",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ea3MLLgsIdDhDLkjUCmkR0ZxjDC.jpg"
+      },
+      {
+        "name": "Stellan Skarsgård",
+        "character": "Commander Richter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x78BtYHElirO7Iw8bL4m8CnzRDc.jpg"
+      },
+      {
+        "name": "Pierfrancesco Favino",
+        "character": "Inspector Olivetti",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hedzgTKFKrSleWvLkBlANng8w4T.jpg"
+      },
+      {
+        "name": "Nikolaj Lie Kaas",
+        "character": "Assassin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oc0wzmAJILh21Gf0cVOwPTA8fMf.jpg"
+      },
+      {
+        "name": "Armin Mueller-Stahl",
+        "character": "Cardinal Strauss",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yDT9hMg3osAbiWl5YZXTYG4SmGj.jpg"
+      },
+      {
+        "name": "Thure Lindhardt",
+        "character": "Chartrand",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lDkRe6dlQoiehjay8pEP2WLU4qG.jpg"
+      },
+      {
+        "name": "David Pasquesi",
+        "character": "Claudio Vincenzi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oQplec891LMv0wndTtKh1bIS11Z.jpg"
+      },
+      {
+        "name": "Cosimo Fusco",
+        "character": "Father Simeon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uIYyguOSgQ4DNaN8UZkzcHG6dAO.jpg"
+      },
+      {
+        "name": "Victor Alfieri",
+        "character": "Lieutenant Valenti",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zbdOrUkg0kLdYV3ovohJV3dMBcr.jpg"
+      },
+      {
+        "name": "Franklin Amobi",
+        "character": "Cardinal Lamasse",
+        "profile_path": ""
+      },
+      {
+        "name": "Curt Lowens",
+        "character": "Cardinal Ebner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mYXwty2LAgEuhq6aSvxUInDzp61.jpg"
+      },
+      {
+        "name": "Bob Yerkes",
+        "character": "Cardinal Guidera",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uhgqPGZH2i2MzVBdAqPpasF3gGx.jpg"
+      },
+      {
+        "name": "Marc Fiorini",
+        "character": "Cardinal Baggia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hHUyBrbdq5xPIoxviQ7hbXlINLZ.jpg"
+      },
+      {
+        "name": "Carmen Argenziano",
+        "character": "Father Silvano Bentivoglio",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aiHWJmsVn7iWuohSg6lzF23XYVr.jpg"
+      },
+      {
+        "name": "Howard Mungo",
+        "character": "Cardinal Yoruba",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a0IkeKFiDj79H81FxYOWkCqej1B.jpg"
+      },
+      {
+        "name": "Rance Howard",
+        "character": "Cardinal Beck",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rYejoZAvgvy0jyRu9fMH9PBKOWM.jpg"
+      },
+      {
+        "name": "Steve Franken",
+        "character": "Cardinal Colbert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wdiQ9Pye2vM1Tfgr3QJ0XUEFYGX.jpg"
+      },
+      {
+        "name": "Gino Conforti",
+        "character": "Cardinal Pugini",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u1eyPOCnqApU2WmLbAQJZhfygM8.jpg"
+      },
+      {
+        "name": "Elya Baskin",
+        "character": "Cardinal Petrov",
+        "profile_path": "https://image.tmdb.org/t/p/w185/30RVRgcJTZlJBKeSCZN2tg0ryvE.jpg"
+      },
+      {
+        "name": "Richard Rosetti",
+        "character": "Conclave Cardinal",
+        "profile_path": ""
+      },
+      {
+        "name": "Silvano Marchetto",
+        "character": "Conclave Cardinal",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Morris",
+        "character": "Urs Weber",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5wFMGMbPs15tbwIulOkANsANeWx.jpg"
+      },
+      {
+        "name": "Jonas Fisch",
+        "character": "Adrian Bachman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fyCTUF9y0Zxv0GgRdQXxlWbxXUe.jpg"
+      },
+      {
+        "name": "August Wittgenstein",
+        "character": "Swiss Guardsman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8cATVO3sCDbA1IFM5vuUS8ICJkv.jpg"
+      },
+      {
+        "name": "Ben Bela Böhm",
+        "character": "Swiss Guardsman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ibEvbA6rzn1TsouehqsbSeBYQ9M.jpg"
+      },
+      {
+        "name": "Paul Schmitz",
+        "character": "Swiss Guardsman",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeffrey Boehm",
+        "character": "Swiss Guard Blue",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jcWV9r4ybKGSlrNCDvViKdTDZPS.jpg"
+      },
+      {
+        "name": "Xavier J. Nathan",
+        "character": "Philippe",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Kehela",
+        "character": "American Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fzuwseqyMnsZhHa34yLtKwL79JX.jpg"
+      },
+      {
+        "name": "Ursula Brooks",
+        "character": "BBC Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tITSmCLd33KULa9pqwHrJpV1CII.jpg"
+      },
+      {
+        "name": "Rashmi",
+        "character": "British Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h0vJsTLHCaEAhLczsZVXIrRf8PL.jpg"
+      },
+      {
+        "name": "Yan Cui",
+        "character": "Chinese Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h52ZfVpHarummZwXUFpDNhFnBtQ.jpg"
+      },
+      {
+        "name": "Fritz Michel",
+        "character": "French Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8OWZwjMBIPQGFWLVzNXNCpvhDWm.jpg"
+      },
+      {
+        "name": "Maria Cristina Heller",
+        "character": "Italian Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ix2JiCxNp7MdsL98j7EnuQYvVc5.jpg"
+      },
+      {
+        "name": "Rafael Petardi",
+        "character": "Italian Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cZ9g0Cfyy7Xor2nCvh6pub05gA6.jpg"
+      },
+      {
+        "name": "Yesenia Adame",
+        "character": "Mexican Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fRLUXNemg9IVxTHw14YL1Y8fF5B.jpg"
+      },
+      {
+        "name": "Kristof Konrad",
+        "character": "Polish Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ihAXnPIVjw70HBts5MhpIKQk9sW.jpg"
+      },
+      {
+        "name": "Masasa Moyo",
+        "character": "South African Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9TvAkxkLGsnREVqzg7JRHtSVzZW.jpg"
+      },
+      {
+        "name": "Ed Francis Martin",
+        "character": "South American Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/no9krpU7f0mqr86kQc6ktS1wi3W.jpg"
+      },
+      {
+        "name": "Cheryl Howard",
+        "character": "CERN Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j1Hx5Dnx2WNyuDvlYuWThGtgZg0.jpg"
+      },
+      {
+        "name": "Endre Hules",
+        "character": "CERN Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nIAnouBLmT2kbYA7fs9R8ix9I50.jpg"
+      },
+      {
+        "name": "Norbert Weisser",
+        "character": "CERN Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A2QeLaigXmj1dtJHVLl27N8qNFd.jpg"
+      },
+      {
+        "name": "Shelby Zemanek",
+        "character": "Little Girl in Square",
+        "profile_path": ""
+      },
+      {
+        "name": "Vanna Salviati",
+        "character": "Protester",
+        "profile_path": ""
+      },
+      {
+        "name": "Raffi Di Blasio",
+        "character": "Protester",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vayd7MA3WKAv6trtFtXIAvGzBVU.jpg"
+      },
+      {
+        "name": "Todd Schneider",
+        "character": "Carabinieri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iYK1vXyekEebqkPYP9oSBsrugiP.jpg"
+      },
+      {
+        "name": "Roberto Donati",
+        "character": "Carabinieri",
+        "profile_path": ""
+      },
+      {
+        "name": "Rocco Passafaro",
+        "character": "Carabinieri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/EOX1tkmoN2yxmftlT5xE7SA2Ke.jpg"
+      },
+      {
+        "name": "Emanuele Secci",
+        "character": "Carabinieri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k7sPSrNKZXdS5mNl4ualvyAmEEr.jpg"
+      },
+      {
+        "name": "Anna Katarina",
+        "character": "Docent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hnwiiEA975IPOLRf8QwGE5TPTvV.jpg"
+      },
+      {
+        "name": "James Ritz",
+        "character": "Tourist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sA87bIUW8qEPlPzcS0rBhkegfD0.jpg"
+      },
+      {
+        "name": "Felipe Torres Urso",
+        "character": "Tourist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kPwrTOkyfEpzSgh23zbXs2HZzOW.jpg"
+      },
+      {
+        "name": "Jose David Acevedo",
+        "character": "Italian Police (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Roy Allen III",
+        "character": "Cardinal (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gTLk5iJUULcJM28bEjhjVnDSgYn.jpg"
+      },
+      {
+        "name": "Tibor Ambra",
+        "character": "Carabinieri Captain (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor of Aquitaine",
+        "character": "Vatican Choir Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eFV5hSeFzyn1u1afBCBuFTaQyFO.jpg"
+      },
+      {
+        "name": "Michael Ark",
+        "character": "CNN Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rjphQ02WqL2Tmire5oOW096XI3g.jpg"
+      },
+      {
+        "name": "John Jason Bailey",
+        "character": "Swiss Guard Blue (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jerred Berg",
+        "character": "Stem Cell Protestor #2 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sally Berman",
+        "character": "Vatican Square Singer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9jqFKENX5inalJLp9sQ5W5t0cku.jpg"
+      },
+      {
+        "name": "Yuki Bird",
+        "character": "Scientist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Bonaventura",
+        "character": "Vatican Police (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9GvSvS3wLVYmVyar1VDltxI1NVR.jpg"
+      },
+      {
+        "name": "Robert Bradvica",
+        "character": "Italian Boy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pLGNNvdmqP3tPJVwx2I87Gdavl3.jpg"
+      },
+      {
+        "name": "Ciara Bravo",
+        "character": "Italian Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dnMZJgfFSk0hHtKX4yMw2TBOjYT.jpg"
+      },
+      {
+        "name": "Michael Patrick Breen",
+        "character": "Ukrainian General (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Aidan Bristow",
+        "character": "Conclave Priest #1 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ilCwCIuN3EDXn2UQYioa1oOpYlN.jpg"
+      },
+      {
+        "name": "Cheryl BryantBruce",
+        "character": "Diplomat's Wife Vatican Mourner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Raúl Cardona",
+        "character": "Piazza Navona Tourist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gWUWLRMmlUv32A5zG7FEOszmndd.jpg"
+      },
+      {
+        "name": "Christopher Casa",
+        "character": "Tourist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick Casa",
+        "character": "Choirboy / Tourist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Pasquale Cassalia",
+        "character": "Rai Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nWAfv5Gt5KHC35578R4nK178SvO.jpg"
+      },
+      {
+        "name": "Farouk Chakwa",
+        "character": "Carabinieri (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bacha Chilaia",
+        "character": "Carabinieri Sergeant (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jimmy Clabots",
+        "character": "Vatican Choir Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Yrv0AeB7QxwDoohHwgo1QOld9G.jpg"
+      },
+      {
+        "name": "Mark E. Clason",
+        "character": "Vatican Choir Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tammy Colbert",
+        "character": "Vatican Square Gypsy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Austin Michael Coleman",
+        "character": "Young Funeral Mourner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/krTeIJWPxoPjix8lteSUKIqxzRi.jpg"
+      },
+      {
+        "name": "Robert Corvin",
+        "character": "U.S. Army General (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Luca Costa",
+        "character": "Fireman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gina D'Acciaro",
+        "character": "Vatican Square Singer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Dardenne",
+        "character": "Swiss Guard Multicolor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "William \"Will\" Daubert",
+        "character": "Priest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zjmibZu62zvYLhLmUPyDetGrSVq.jpg"
+      },
+      {
+        "name": "Shervin Davatgar",
+        "character": "Arab Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Blake Dawson",
+        "character": "Italian Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Vincent De Paul",
+        "character": "Vatican Pall Bearer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rXtyNgYJQojb8zzBBK07xGNil59.jpg"
+      },
+      {
+        "name": "Calvin Dean",
+        "character": "Choir Member #1 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s9BnUmXGMCKfDtX04V43YPuKjNR.jpg"
+      },
+      {
+        "name": "David Dedinsky",
+        "character": "Vatican Cardinal (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lea Deesing",
+        "character": "Italian Mourner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Norman Deesing",
+        "character": "Italian Mourner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yWTuAJdq4gQhjFLzvkkolw9jJXG.jpg"
+      },
+      {
+        "name": "Angelique Deuitch",
+        "character": "Tourist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul DiVito",
+        "character": "Priest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/83rAhfChYz5jiiNSwn5VOVu9heC.jpg"
+      },
+      {
+        "name": "Brant Dorman",
+        "character": "Swiss Guard Blue (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Allen Dula",
+        "character": "Vatican Police Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Liz Duran",
+        "character": "Vatican Mouner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew Earnest",
+        "character": "Italian Mourner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Ettinger",
+        "character": "Tourist With Backpack (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonn Faircrest",
+        "character": "Papal Photographer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Les Feltmate",
+        "character": "Priest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "William Ferguson",
+        "character": "Cardinal (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kiFbjEH4tfkArl5hslQr3Rvt9Wy.jpg"
+      },
+      {
+        "name": "Amanda Jane Fleming",
+        "character": "Tourist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vZQDr7II7HUf4HN3EkMGt97AgKE.jpg"
+      },
+      {
+        "name": "David Fletcher",
+        "character": "Protestor #3 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gregory George Frank",
+        "character": "Protester (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pH7LcFrL5dF1OT2gcb1PsPGqKVE.jpg"
+      },
+      {
+        "name": "Harrison Freed",
+        "character": "Tourist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Aaron Denius Garcia",
+        "character": "Carabinieri (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pgILzvrHhMtmVsW0SKrapHubV7o.jpg"
+      },
+      {
+        "name": "Nancy Gassner-Clayton",
+        "character": "Vatican Square Singer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lCeM49Q0yAI0lamZk6McPdrZONV.jpg"
+      },
+      {
+        "name": "Justin Giddings",
+        "character": "Vatican Choir Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Phil Gold",
+        "character": "Vatican Square Singer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zGlRLx7H34y3fik8FPtBswAwgXI.jpg"
+      },
+      {
+        "name": "Alan Gray",
+        "character": "Greek Patriarch Priest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marco Greco",
+        "character": "Fireman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2FL7jUkWJLD6cqLF6L7zg5AnMsj.jpg"
+      },
+      {
+        "name": "Roger Groh",
+        "character": "Good Bishop (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nancy Guerriero",
+        "character": "Vatican Nun (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Hamilton",
+        "character": "Swiss Gaurd Multicolored (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Harris",
+        "character": "Polish Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3CRHqBr5U8pexQdtB42P0ZzK9x0.jpg"
+      },
+      {
+        "name": "Miriam Harris",
+        "character": "Mourner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5ATXQv9yEbvIXfN6XThhc7lQJs9.jpg"
+      },
+      {
+        "name": "Charlie Heydt",
+        "character": "Swiss Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bdppoKKWDuNHIOUCBaTveJU2xup.jpg"
+      },
+      {
+        "name": "David Hill",
+        "character": "Pantheon Tourist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kei Hirayama",
+        "character": "Scientist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brett Hunt",
+        "character": "Vatican Priest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tIu4PBlg40wBgt26vrLaW8o2fRC.jpg"
+      },
+      {
+        "name": "Marco Infante",
+        "character": "Italian Mourner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gvUgzJ8xwHSa5LJqAUkR1xTeSzl.jpg"
+      },
+      {
+        "name": "Clark James",
+        "character": "Vatican Policeman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Karl Johnson",
+        "character": "Cardinal (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uZBPHWgMVuClHKsoFOr1s0VZo05.jpg"
+      },
+      {
+        "name": "Dave Johnson",
+        "character": "Press Photographer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gina Juliet",
+        "character": "Vatican Square Singer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7yvmkCqNE9rcf1dVqfP5vcSb45z.jpg"
+      },
+      {
+        "name": "Andrea Kelley",
+        "character": "Italian Teen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aABtS3ptaIRWepwkWWlxVmx6Y3N.jpg"
+      },
+      {
+        "name": "Slim Khezri",
+        "character": "Vatican Square Gypsy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x4V4IIBly6X4DKD6tD1PSwOE36S.jpg"
+      },
+      {
+        "name": "Sophiah Koikas",
+        "character": "Tourist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3JZDNCpG4Z1BCy6pwOiINzmHlsh.jpg"
+      },
+      {
+        "name": "Michael Laren",
+        "character": "Vatican Choir Singer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert W. Laur",
+        "character": "Vatican Choir Singer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrian Lee",
+        "character": "Vatican Square Soloist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oEpcpF7FglLabLDXRXppqjQ5gTp.jpg"
+      },
+      {
+        "name": "David Michael Lewin",
+        "character": "Mourner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Maynor Lopez",
+        "character": "Carabinieri (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uTrHTTTq1HZ4ulRpFEOrdvL60ee.jpg"
+      },
+      {
+        "name": "Jon Lucero",
+        "character": "Vatican Police Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eder López",
+        "character": "Italian Citizen (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Julie Mabry",
+        "character": "Protester in Vatican (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Les Mahoney",
+        "character": "Hip Priest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pN1CBxiOMdA158Ro44E1agp73Xb.jpg"
+      },
+      {
+        "name": "Gary Mandarino",
+        "character": "Mourner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Albert Marrero Jr.",
+        "character": "News Camerman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8IOos0Z7wQZC5hNJJyvRAwRgdVC.jpg"
+      },
+      {
+        "name": "Stephen Marrero",
+        "character": "Priest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Carina Aviles Marshall",
+        "character": "Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Debbie McAlister",
+        "character": "Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sandra McCurdy",
+        "character": "Italian Tourist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/76UiecBUrCYfMIQowppXqTzcgri.jpg"
+      },
+      {
+        "name": "Anthony Molinari",
+        "character": "Vatican Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Gl1b5Y7QLrdv5vvOwAmJk29joM.jpg"
+      },
+      {
+        "name": "Elsa Morales Myers",
+        "character": "Tourist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary E. Morales",
+        "character": "Vatican Square Soloist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sauvion Morkunas",
+        "character": "Flag-bearer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kV514LUM8AyNspQLXLjfZ1mvv9y.jpg"
+      },
+      {
+        "name": "William Myers",
+        "character": "Photographer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Manuel Nardi",
+        "character": "Priest (Mr. Grey's Men) (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Justin Orton",
+        "character": "Tourist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarita Ospina",
+        "character": "Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dale Pavinski",
+        "character": "Carabinieri Captain (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5AmqJl4bsUzgFRJbWmOTi81iRKi.jpg"
+      },
+      {
+        "name": "Amelia Pawlak",
+        "character": "Italian Mourner / Nun (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "David Pearl",
+        "character": "Priest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tAUblLeYJBQJLvvRGomrKfbvTBn.jpg"
+      },
+      {
+        "name": "David Pryor",
+        "character": "Mourner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lawrence Ravettina",
+        "character": "Vatican Cardinal (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Richard",
+        "character": "Swissguard #4 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Louis Riviere",
+        "character": "Carabinieri (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c8mDSKRS9Bm5zQlA7Scr6cUd8IB.jpg"
+      },
+      {
+        "name": "Jarrod Robbins",
+        "character": "Swiss Guardsman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bertrand Roberson Jr.",
+        "character": "Tourist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Robert",
+        "character": "Tourist with Hat (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Adriana Roze",
+        "character": "Vatican Square Singer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iRNgg9dIBOaTr9r26q1stL6fXD4.jpg"
+      },
+      {
+        "name": "Franklin Ruehl",
+        "character": "Mourner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ljINbhe5AXa0Xx6aFGoSIFmMFuI.jpg"
+      },
+      {
+        "name": "Kelly Ryan",
+        "character": "Protestor #4 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1CSWgmw0CwcBdkG8nWxOw7OaacC.jpg"
+      },
+      {
+        "name": "Dylan Saccoccio",
+        "character": "Carabinieri (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/94jB36BE9XOno5yrHjeIE9HnZNB.jpg"
+      },
+      {
+        "name": "Frank Scozzari",
+        "character": "Vatican Police Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zdkzVza0U5lEdfmWqFPWnMjheyz.jpg"
+      },
+      {
+        "name": "James Seaman",
+        "character": "Costudi (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xp5CHiPs1nUwZ0Z52pW6LyrKi34.jpg"
+      },
+      {
+        "name": "Keith Shawn",
+        "character": "Vatican Tourist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jutta Speidel",
+        "character": "Woman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7VSgjBUuztaRHhq7hivnnsQE3t9.jpg"
+      },
+      {
+        "name": "Arne Starr",
+        "character": "Vatican Priest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew Thane",
+        "character": "Italian Visitor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "GJ Tiari",
+        "character": "The Cryer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nico Toffoli",
+        "character": "Carabieniere Riot (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eSMSUXiSGUltaEAUxhZYinX8dG.jpg"
+      },
+      {
+        "name": "Devin Toft",
+        "character": "Carabinieri (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cH5nDy9JrWKXgeW8m035lCyot06.jpg"
+      },
+      {
+        "name": "James Tumminia",
+        "character": "Vatican Priest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iEEpSWu9CmaSpp9VR9HoxHyUytC.jpg"
+      },
+      {
+        "name": "Julian Vada",
+        "character": "Carabinieri (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryan Van de Kamp Buchanan",
+        "character": "The Swiss Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ernie Ventry",
+        "character": "Gypsy in Square (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yHNekv09KoZRNS3ptVfC285NHN1.jpg"
+      },
+      {
+        "name": "Damon Viola",
+        "character": "Mourner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Shannon Watson",
+        "character": "Swiss Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Denise Winsor",
+        "character": "Vatican Nun (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xfASwcpLwIaXDPOjiqDDuSPPMi4.jpg"
+      },
+      {
+        "name": "Jon Morgan Woodward",
+        "character": "The American with the Sign (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Allan Yates",
+        "character": "Swiss Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Alfred Molina",
+        "character": "Narrator (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Ron Howard",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "based on novel or book",
+    "rome, italy",
+    "vatican",
+    "symbolism",
+    "illuminati",
+    "quantum mechanics",
+    "prequel",
+    "anti matter",
+    "conspiracy",
+    "investigator",
+    "catholicism",
+    "cern"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Harvard symbologist Robert Langdon works with a nuclear physicist to solve a murder and prevent a terrorist act against the Vatican during one of the significant events within the church.",
+    "Following the murder of a physicist, Father Silvano Bentivoglio, a symbolist, Robert Langdon, and a scientist, Vittoria Vetra, are on an adventure involving a secret brotherhood, the Illuminati. Clues lead them all around the Vatican, including the four altars of science, Earth, Air, Fire and Water. An assassin, working for the Illuminati, has captured four cardinals, and murders each, painfully. Robert and Vittoria also are searching for a new very destructive weapon that could kill millions.—XXDustfingerXX",
+    "After the untimely death of Pope Pius XVI, a momentous crisis hits the Vatican as a long-forgotten enemy of the Catholic Church emerges, threatening the lives of four abducted cardinals. Having caught the Church's attention after the events of The Da Vinci Code (2006), Harvard symbologist Professor Robert Langdon embarks on a time-sensitive mission to unravel the mystery of a murdered Italian physicist and prevent a terrorist act against Vatican City. Under those grave circumstances, Langdon teams up with CERN scientist Dr Vittoria Vetra to follow a faint trail of clues scattered all over Rome, triggering a high-stakes cat-and-mouse game. But in this frenzied quest for answers and the world's most potent and volatile energy source, the elusive adversary is always one step ahead of them. Can Langdon piece the evidence together and outsmart the Illuminati, the most dangerous secret brotherhood in history?—Nick Riganas",
+    "Despite his notorious relationship with the Roman Catholic church, Harvard symbologist Robert Langdon is once again called upon to decipher the clues to a catastrophic conspiracy. The Pope has died, and before a conclave can begin to determine his successor, the four preferitti (primary hopefuls for the papacy) are kidnapped. An ominous threat of their hourly demise, along with the complete annihilation of Vatican City, is issued as an elaborate revenge scheme by a persecuted group known as the Illuminati. With their meager time limit steadily counting down, Langdon, accompanied by beautiful physicist Vittoria Vetra, must travel throughout Rome to unravel the carefully hidden signs that will lead them to a terrifying adversary, a harrowing discovery, and the shocking truth.—The Massie Twins",
+    "The Pope has died and the conclave has been called. Four candidates have been chosen. However, before the voting, the four candidates are killed one by one. The killer leaves clues that seem to say that he or she is a member of the Illuminati. Strangely though, the Illuminati was long thought to be eradicated. Who is the mastermind? Who revived the Illuminati? What do they want?—Ryanking"
+  ],
+  "synopsis": "Under the watchful eyes of Father Silvano Bentivoglio (Carmen Argenziano) and Dr. Vittoria Vetra (Ayelet Zurer), the European Organization for Nuclear Research (CERN) initiates the Large Hadron Collider and captures three vials of antimatter. Immediately afterward, someone (Nikolaj Lie Kaas) kills Father Silvano, using his retina to infiltrate the containment chamber, and steals one vial.The Roman Catholic Church mourns the death of Pope Pius XVI in Rome. Vatican City prepares for the College of Cardinals' papal conclave, which will select the next Pope. Until that time, Camerlengo Patrick McKenna (Ewan McGregor), a papal court official and former helicopter pilot, assumes temporary control of the Vatican. Reporters, nuns, priests, and other faithful members of the Church crowd into Saint Peter's Square, waiting for the white smoke from the conclave, signaling a successful vote. But the Illuminati, a 400-year-old, underground secret society, kidnap the four most likely candidates before the conclave enters seclusion. The Illuminati threaten to kill one every hour, beginning at 8:00 pm, and then destroy the Vatican in a burst of light at midnight. A stolen security camera shows the missing antimatter vial, which will catastrophically explode when the vial's battery dies and the magnetic containment field fails.The Vatican summons symbologist Robert Langdon (Tom Hanks) from Harvard University and Vittoria Vetra from CERN to help them solve the Illuminati's threat, save the four preferiti, and replace the vial's batteries. Langdon listens to the Illuminati message and deduces that the four cardinals will die at the four altars of the \"Path of Illumination.\" However, no one knows where these altars are located. Vetra demands that Commander Richter (Stellan Skarsgård), the commandant of the Swiss Guard, to bring Father Silvano's diaries from Switzerland, hoping that they contain the name of the person with whom Silvano discussed the antimatter experiment. Langdon also demands access to the Vatican Secret Archives (something he has requested for 10 years) to see the original copy of Galileo Galilei's banned book, which may contain the locations of the four \"altars of science.\" Using the clues from this book, Langdon, Vetra, Inspector General Ernesto Olivetti (Pierfrancesco Favino), and Lieutenant Valenti (Victor Alfieri) of the Vatican Gendarmerie Corps race to the first church, only to find the first cardinal, Cardinal Ebner (Curt Lowens), dead, suffocated with dirt, eaten by rats and branded with the word \"Earth.\" They verify the second altar's location and arrive, only to witness the death of the second cardinal, Cardinal Lamassa (Franklin Amobi), his lungs lacerated and his body branded with the word \"Air.\" While Vetra studies Silvano's diaries, Langdon and the Vatican officers locate the third church and try to save the third cardinal, Cardinal Gudiera (Bob Yerkes), from burning to death, but the assassin appears and kills everyone but Langdon. The cardinal succumbs to the flames, his body branded with the word \"Fire.\"After escaping, Langdon convinces two Carabinieri officers to race with him to the last church of the \"Water\" altar, but the assassin murders the officers and drops the fourth cardinal, Cardinal Baggia (Marc Fiorini), into the Fountain of the Four Rivers. However, Langdon saves the cardinal, who tells him the location of the Illuminati's lair: Castel Sant'Angelo. When Langdon and Vetra arrive, they are confronted by the assassin, who spares their lives since they are not armed and he has not been paid to kill them. He reveals that his contractors were from the Catholic Church. The assassin escapes and finds a vehicle containing his payment, but is killed by a car bomb upon starting the engine. Langdon and Vetra discover that the final victim of the plot will be Camerlengo McKenna. After arriving at the Vatican via a secret passage, they and some Swiss Guards enter the Camerlengo's office and find him in the floor branded with the Vatican's symbol on his chest and Commander Richter near him with a gun. The Guards promptly kill Richter to save the camerlengo. During the confusion, the dying commander gives Langdon a key to his office. Then the camerlengo, Langdon, Vetra, and the Swiss Guards discover the location of the stolen antimatter vial. By the time they find it, the battery is about to expire, the deadly explosion is just minutes away. The camerlengo seizes the vial and uses a helicopter meant for escape from the Vatican to fly above the church. He then activates the autopilot and escapes with a parachute. After several seconds, the bomb explodes and the camerlengo lands, now considered a hero by the crowd and even as the best candidate to be the new Pope by the College of Cardinals. Meanwhile, Langdon and Vetra use Richter's key to watch a security video showing that the mastermind behind the murders of the original Pope and the preferiti and the antimatter robbery, in fact, is the camerlengo and not the Illuminati. While Richter tries to arrest McKenna, the priest brands himself with a seal that resembles Saint Peter's upside-down crucifixion and accuses the commander of being a member of the Illuminati. Langdon shows the video to the College. After the camerlengo realizes his plot has been uncovered, he immolates himself with oil from one of the 99 holy lamps inside St. Peter's Basilica.The Vatican announces that the camerlengo died due to internal wounds suffered during his landing, while the public demands he be canonized. The College designates Cardinal Baggia as the new Pope (who chooses to take on the name Luke), and Cardinal Strauss (Armin Mueller-Stahl) as the new camerlengo. The new camerlengo thanks Robert Langdon for saving the Vatican and the new Pope, and as a mark of his gratitude loans Galileo's \"Diagramma Veritas\" to Langdon for his reference. The film ends with the new Pope walking out on the balcony to the cheering crowd in St. Peter's Square.",
+  "imdb_score": 6.7
+}

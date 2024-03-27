@@ -1,0 +1,350 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/bQeuzbFtizthHztHpWW0Yw0ntHO.jpg",
+  "id": 6977,
+  "title": "No Country for Old Men",
+  "poster_path": "https://image.tmdb.org/t/p/w500/bj1v6YKF8yHqA489VFfnQvOJpnc.jpg",
+  "release_date": "2007-06-13",
+  "vote_average": 7.937,
+  "vote_count": 11282,
+  "popularity": 41.419,
+  "overview": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+  "imdb_id": "tt0477348",
+  "budget": 25000000,
+  "homepage": "",
+  "revenue": 171627166,
+  "runtime": 122,
+  "tagline": "There are no clean getaways.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Miramax",
+    "Scott Rudin Productions",
+    "Mike Zoss Productions",
+    "Paramount Vantage"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Josh Brolin",
+        "character": "Llewelyn Moss",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+      },
+      {
+        "name": "Javier Bardem",
+        "character": "Anton Chigurh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eCBiiPvBfIY7exDQwH0vEM6Bf3c.jpg"
+      },
+      {
+        "name": "Tommy Lee Jones",
+        "character": "Ed Tom Bell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+      },
+      {
+        "name": "Kelly Macdonald",
+        "character": "Carla Jean Moss",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
+      },
+      {
+        "name": "Woody Harrelson",
+        "character": "Carson Wells",
+        "profile_path": "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+      },
+      {
+        "name": "Garret Dillahunt",
+        "character": "Wendell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9ISUezmwt2Hnm2do6Mg75EyAwgE.jpg"
+      },
+      {
+        "name": "Tess Harper",
+        "character": "Loretta Bell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Z770Kk13MK1NP7skWmTxvRGx3V.jpg"
+      },
+      {
+        "name": "Barry Corbin",
+        "character": "Ellis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vcHtLrUmfyT1KiuBqmLdXA3luPJ.jpg"
+      },
+      {
+        "name": "Stephen Root",
+        "character": "Man Who Hires Wells",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+      },
+      {
+        "name": "Rodger Boyce",
+        "character": "El Paso Sheriff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7ZgjcEJWDpQhtwLBg44uJPUlPvp.jpg"
+      },
+      {
+        "name": "Beth Grant",
+        "character": "Carla Jean's Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6THLoPYhIu422TqUmQDgnQRfYxA.jpg"
+      },
+      {
+        "name": "Ana Reeder",
+        "character": "Poolside Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vxi8a8SkBZS4UqchRw3gbLifNXq.jpg"
+      },
+      {
+        "name": "Kit Gwin",
+        "character": "Sheriff Bell's Secretary",
+        "profile_path": ""
+      },
+      {
+        "name": "Zach Hopkins",
+        "character": "Strangled Deputy",
+        "profile_path": ""
+      },
+      {
+        "name": "Chip Love",
+        "character": "Man in Ford",
+        "profile_path": ""
+      },
+      {
+        "name": "Eduardo Antonio Garcia",
+        "character": "\"Agua\" Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Gene Jones",
+        "character": "Gas Station Proprietor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vssJ7FUw3m9vL79HLYg6G5dnoV3.jpg"
+      },
+      {
+        "name": "Myk Watford",
+        "character": "\"Managerial\" Victim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/atyeOUzaR5f6Ew3gA2qE9N0Tvcr.jpg"
+      },
+      {
+        "name": "Boots Southerland",
+        "character": "\"Managerial\" Victim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sUIXYHl18ClE8t5o8227VKJ5Cdk.jpg"
+      },
+      {
+        "name": "Kathy Lamkin",
+        "character": "Desert Aire Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Johnnie Hector",
+        "character": "Cabbie at Bus Station",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jB8dAuP4VtGnC211i735ueHcrfU.jpg"
+      },
+      {
+        "name": "Margaret Bowman",
+        "character": "Del Rio Motel Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nTWp9QENsmJXEOQhtRLNXtP9qsk.jpg"
+      },
+      {
+        "name": "Thomas Kopache",
+        "character": "Boot Salesman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kQOH3XyoGJqtQlBDCYh5o0R70Aa.jpg"
+      },
+      {
+        "name": "Jason Douglas",
+        "character": "Cabbie at Motel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9vvygaziqPt23AafWHJY8TlUK8d.jpg"
+      },
+      {
+        "name": "Doris Hargrave",
+        "character": "Waitress",
+        "profile_path": ""
+      },
+      {
+        "name": "Rutherford Cravens",
+        "character": "Gun Store Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qrwiysLs4u5nEAWYtSBIG4Gd2Cn.jpg"
+      },
+      {
+        "name": "Matthew Posey",
+        "character": "Sporting Goods Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/reqQqEFdG3jym88AI5PGAtpWvl1.jpg"
+      },
+      {
+        "name": "George Adelo",
+        "character": "Mexican in Bathtub",
+        "profile_path": ""
+      },
+      {
+        "name": "Mathew Greer",
+        "character": "Hitchhiking Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Trent Moore",
+        "character": "Nervous Accountant",
+        "profile_path": ""
+      },
+      {
+        "name": "Marc Miles",
+        "character": "Hotel Eagle Clerk",
+        "profile_path": ""
+      },
+      {
+        "name": "Luce Rains",
+        "character": "Pickup Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/az7wB3HJNQ7T3TmDdZ3rIdZ6bxO.jpg"
+      },
+      {
+        "name": "Philip Bentham",
+        "character": "Border Bridge Youth",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Reeves",
+        "character": "Border Bridge Youth",
+        "profile_path": ""
+      },
+      {
+        "name": "Josh Meyer",
+        "character": "Border Bridge Youth",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Warner",
+        "character": "Flatbed Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q6GnTJCRC2ZBwXr4pFrxLrknlWY.jpg"
+      },
+      {
+        "name": "Brandon Smith",
+        "character": "INS Official",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xdaB4K5D6D6caJw1kO9RFrZKXiY.jpg"
+      },
+      {
+        "name": "Roland Uribe",
+        "character": "Well Dressed Mexican",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Jackson",
+        "character": "Chicken Farmer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9aaW8OAo8Y4HghHA5LMwU49o8GN.jpg"
+      },
+      {
+        "name": "Josh Blaylock",
+        "character": "Boy on Bike",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fh0KDpTxVF31gj9PtFiYQ9dfYSA.jpg"
+      },
+      {
+        "name": "Caleb Landry Jones",
+        "character": "Boy on Bike",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8M5lPHrERwAIfWK56RkH30FOjhV.jpg"
+      },
+      {
+        "name": "Dorsey Ray",
+        "character": "Odessa Cabbie",
+        "profile_path": ""
+      },
+      {
+        "name": "Angel H. Alvarado Jr.",
+        "character": "Norteño Band",
+        "profile_path": ""
+      },
+      {
+        "name": "David A. Gomez",
+        "character": "Norteño Band",
+        "profile_path": ""
+      },
+      {
+        "name": "Milton Hernandez",
+        "character": "Norteño Band",
+        "profile_path": ""
+      },
+      {
+        "name": "John Mancha",
+        "character": "Norteño Band",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Flick",
+        "character": "Cab Driver (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Albert Fry Jr.",
+        "character": "El Paso Deputy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Angelo Martinez",
+        "character": "Bus Passenger (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "James Rishe",
+        "character": "Coffee Shop Customer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Elizabeth Slagsvol",
+        "character": "Nurse (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rachel Manera",
+        "character": "Pharmacy Driver (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Joel Coen",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rgVaJNkZCgMarUcZuUAsVfXMWk3.jpg"
+      },
+      {
+        "name": "Ethan Coen",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ccvoiEe3gEMAth1Oy8SJxVeMcAk.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "vietnam veteran",
+    "sheriff",
+    "trailer park",
+    "based on novel or book",
+    "hitman",
+    "psychopath",
+    "drug trafficking",
+    "texas",
+    "motel",
+    "usa–mexico border",
+    "drug cartel",
+    "fate",
+    "desert",
+    "modern-day western",
+    "neo-western",
+    "tracking device",
+    "cold blooded killer",
+    "motel room",
+    "cartel",
+    "neo-noir",
+    "1980s",
+    "mexican cartel",
+    "drug deal",
+    "coin toss",
+    "human nature",
+    "captive bolt gun",
+    "western noir",
+    "horror western",
+    "faithful adaptation"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "While out hunting, Llewelyn finds the grisly aftermath of a drug deal. Though he knows better, he cannot resist the cash left behind and takes it. The hunter becomes the hunted when a merciless killer named Chigurh picks up his trail.",
+    "In rural Texas, welder and hunter Llewelyn Moss (Josh Brolin) discovers the remains of several drug runners who have all killed each other in an exchange gone violently wrong. Rather than report the discovery to the police, Moss decides to simply take the two million dollars present for himself. This puts the psychopathic killer, Anton Chigurh (Javier Bardem), on his trail as he dispassionately murders nearly every rival, bystander and even employer in his pursuit of his quarry and the money. As Moss desperately attempts to keep one step ahead, the blood from this hunt begins to flow behind him with relentlessly growing intensity as Chigurh closes in. Meanwhile, the laconic Sheriff Ed Tom Bell (Tommy Lee Jones) blithely oversees the investigation even as he struggles to face the sheer enormity of the crimes he is attempting to thwart.—Kenneth Chisholm (kchishol@rogers.com)",
+    "1980, West Texas. While out hunting down by the US-Mexico border, good ol' Texas boy Llewelyn Moss, a welder by day who lives in a trailer park in Sanderson with his wife Carla Jean, comes across what is a drug deal gone wrong. What he finds are all the players left at the scene dead or near death and a satchel filled with $2 million which he takes, despite knowing that someone will be looking for the money and is probably willing to kill for it. As such, he not only tries to protect himself in the process of trying to find out who will be after the money, but also Carla Jean by sending her away. A person hired to retrieve the money is Anton Chigurh, who indeed will kill anyone, including innocent bystanders, necessary to get to his end goal, with a high pressure air pistol his weapon of choice especially as it leaves no bullet as evidence. Chigurh, in deciding who should live or die in his day to day life, also uses his own psychopathic set of principles. Chirgurh quickly learns that Moss has the money and is on the run. Also on both their trails is Terrell County Sheriff Ed Tom Bell and his naive deputy Wendell. Bell, a third generation sheriff, has of late contemplated his professional future solely because of the notion that he and his like have not been able to do anything to control the increasing violence of the region. Bell finds evidence that Moss has the money and that someone, who has left a trail of carnage behind him, is after Moss and the money. As such, Bell tries to find Moss solely to protect him from whoever is after him. One other person added to the mix is Carson Wells, hired by the same person that hired Chigurh also to retrieve the money, as their employer feels that Chigurh has gotten out of control. Wells knows Chigurh well and knows that he will not take too kindly to anyone else brought in on his job.—Huggo",
+    "While out poaching on the barren desert plains of 1980 West Texas, Vietnam War veteran Llewelyn Moss stumbles upon the aftermath of a bloody shoot-out and an unexpected finding: a heavy leather satchel crammed with $2 million in drug cash. And having chosen to risk life and limb to escape his miserable existence, Moss decides to get away from the gruesome site with the money, unaware that he has already set a violent cat-and-mouse game in motion. As a result, Anton Chigurh, an unfeeling, eerily efficient contract killer devoid of compassion, and old-school Sheriff Ed Tom Bell are hot on Llewelyn's trail. On the one hand, the grizzled lawman hopes to break the cycle of violence and bring Moss in before Anton finds him first. On the other hand, the vicious assassin is hell-bent on retrieving the money at all costs. As deadly mistakes pile up, can Moss stop what's coming?—Nick Riganas",
+    "Hunting in 1980 in he West Texas desert plains as usual, local welder Lewelyn Moss, a Vietnam War veteran who lives in a trailer park in Sanderson with his wife Carla Jean, accidentally discovers the site of a drug trade shootout. Rather than seeking help for the survivor or reporting the crime, he dodges the roaming killers and after a nocturnal return, he brings home to hide $2 million in dirty cash and moves out, hoping for the good life. But his trail is found by the psychopathic killer Anton Chigurh, who was hired to retrieve the money at all cost and enjoys going over corpses. After both of them are Terrell County's third-generation sheriff Ed Tom Bell and his naive deputy Wendell, who follow the trail of blood and destruction. Chigurh's employer now hires Carson Wells, feeling that uncontrollable Anton attracted too much police attention.—KGF Vissers"
+  ],
+  "synopsis": "West Texas in June 1980 is desolate, wide-open country, and Ed Tom Bell (Tommy Lee Jones) laments the increasing violence in a region where he, like his father and grandfather before him, has risen to the office of sheriff.Llewelyn Moss (Josh Brolin), hunting pronghorn, comes across the aftermath of a drug deal gone awry: several dead men and dogs, a wounded Mexican begging for water, and two million dollars in a satchel that he takes to his trailer home. Late that night, he returns with water for the dying man, but is chased away by two men in a truck and loses his vehicle. Moss escapes due to his extensive knowledge of the area which his pursuers lack. When he gets back home, he grabs the cash, sends his wife Carla Jean (Kelly Macdonald) to her mother's, and makes his way to a motel in the next county where he hides the satchel in the air vent of his room.Anton Chigurh (Javier Bardem) is a hit-man who has been hired to recover the money. He has already strangled a sheriff's deputy to escape custody and stolen a car by using a captive bolt pistol to kill the driver. Chigurh is a vicious killer but does not kill indiscriminately. His peculiar habit is that he tosses a coin & asks his victim to guess heads or tail. If they guess correctly, he spares their life.Bell is on the trail of the killings as well. In the meantime, Chigurh arrives at the scene of the drug deal & finds Moss's abandoned truck. He has been employed by the buyers to recover their money & they hand over the tracking device to him. Chigurh shoots them dead & starts tracing Moss.Now he carries a receiver that traces the money via a tracking device concealed inside the satchel. Bursting into Moss's hideout at night, Chigurh surprises a group of Mexicans set to ambush Moss and murders them all. Moss, who has rented the connecting room on the other side, is one step ahead. By the time Chigurh removes the vent cover with a dime, Moss is already back on the road with the cash.In a border town hotel, Moss finally finds the electronic bug, but not before Chigurh is upon him. A firefight between them spills onto the streets, leaving both men wounded. Moss flees across the border & hides the money in a ditch near the border & collapses from his injuries before he is taken to a Mexican hospital. There, Carson Wells (Woody Harrelson), another hired operative (hired to track & killed Chigurh by the boss of the 2 buyers killed by Chigurh), offers protection in return for the money.Meanwhile Bell visits Carla Jean & informs her that Moss has tangled himself with some bad people who won't stop till they kill him & asks her to call him as soon as she hears from Moss, so that Bell can protect him.After Chigurh cleans and stitches his own wounds with stolen supplies, he gets the drop on Wells back at his hotel and kills him just as Moss calls the room. Picking up the call and casually raising his feet to avoid the spreading blood, Chigurh promises Moss that Carla Jean will go untouched if he gives up the money. Moss remains defiant. Moss re-enters US & retrieves the money.Moss arranges to rendezvous with his wife at a motel in El Paso to give her the money and send her out of harm's way. When Carla Jean boards the bus to El Paso, the Mexicans (who have also been hired by the buyer boss who hired Chigurh). She reluctantly accepts Bell's offer to save her husband & tells him on phone where Moss is headed, but Bell arrives only in time to see a pickup carrying several men speeding away from the motel and Moss lying dead in his room. That night, Bell returns to the crime scene and finds the lock blown out in his suspect's familiar style.Chigurh hides behind the door of a motel room, observing the shifting light through an empty lock hole. His gun drawn, Bell enters Moss's room and notices that the vent cover has been removed with a dime and the vent is empty. Moss had hidden the money & Chigurh has retrieved it.Bell visits his Uncle Ellis (Barry Corbin), an ex-lawman. Bell plans to retire because he feels \"overmatched,\" but Ellis points out that the region has always been violent. For Ellis, thinking it is \"all waiting on you, that's vanity.\"\nCarla Jean returns from her mother's funeral (mother was suffering from cancer) to find Chigurh waiting in the bedroom. When she tells him she does not have the money, he recalls the pledge he made to her husband that could have spared her, had Moss accepted Chigurh's offer to return the money. The best he will offer Carla is a coin toss for her life, but she says that the choice is his. Chigurh leaves the house alone and carefully checks the soles of his boots, suggesting he killed Carla Jean. As he drives away, he is injured in a car accident and abandons the damaged vehicle.Now retired, Bell shares two dreams with his wife (Tess Harper), both involving his deceased father. In the first dream he lost \"some money\" that his father had given him; in the second, he and his father were riding horses through a snowy mountain pass. His father, who was carrying fire in a horn, quietly passed by with his head down, \"going on ahead, and fixing' to make a fire\" in the surrounding dark and cold. Bell knew that when he got there his father would be waiting.",
+  "imdb_score": 8.2
+}

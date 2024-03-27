@@ -1,0 +1,206 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/n4CvA50GBtIPrSqCl8nMNZCliYI.jpg",
+  "id": 7214,
+  "title": "Coach Carter",
+  "poster_path": "https://image.tmdb.org/t/p/w500/y3HOTTyM5nLsdUzXFtFCohG28qj.jpg",
+  "release_date": "2005-01-14",
+  "vote_average": 7.563,
+  "vote_count": 2728,
+  "popularity": 49.821,
+  "overview": "Based on a true story, in which Richmond High School head basketball coach Ken Carter made headlines in 1999 for benching his undefeated team due to poor academic results.",
+  "imdb_id": "tt0393162",
+  "budget": 30000000,
+  "homepage": "",
+  "revenue": 76700000,
+  "runtime": 136,
+  "tagline": "It begins on the streets. It ends here.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    "Paramount",
+    "MTV Films",
+    "Tollin/Robbins Productions"
+  ],
+  "production_countries": [
+    "DE",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Samuel L. Jackson",
+        "character": "Ken Carter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nCJJ3NVksYNxIzEHcyC1XziwPVj.jpg"
+      },
+      {
+        "name": "Rob Brown",
+        "character": "Kenyon Stone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jVevsp9OsdImQ8YxNjdG3KLYket.jpg"
+      },
+      {
+        "name": "Robert Ri'chard",
+        "character": "Damien Carter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jZtFgIe0ZbLvzMmgxeRaoRzW2q8.jpg"
+      },
+      {
+        "name": "Rick Gonzalez",
+        "character": "Timo Cruz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pVHDPq1a2oCZktgI3VumMRzGBd3.jpg"
+      },
+      {
+        "name": "Nana Gbewonyo",
+        "character": "Junior Battle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/seXXom4k7M88wM1HHf8ENCQlrqp.jpg"
+      },
+      {
+        "name": "Antwon Tanner",
+        "character": "Worm",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A4NzQtW7hCmPUCKBvvUlMJzu9i.jpg"
+      },
+      {
+        "name": "Channing Tatum",
+        "character": "Jason Lyle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xdnstENLdWMPWt9qyhtf695L4t6.jpg"
+      },
+      {
+        "name": "Ashanti",
+        "character": "Kyra",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8yISv5NjfgBQXs6rP7osxVIkD1U.jpg"
+      },
+      {
+        "name": "Texas Battle",
+        "character": "Maddux",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zPzagAtKxbHKrQLAQ69KSYLZxjA.jpg"
+      },
+      {
+        "name": "Lacey Beeman",
+        "character": "Susan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7gDZTxyXi2zDHvGiJGdgE7PU68L.jpg"
+      },
+      {
+        "name": "Octavia Spencer",
+        "character": "Mrs. Battle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zDGydyM1fmvNWzQlTAns9IZjNxT.jpg"
+      },
+      {
+        "name": "Allison Kyler",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/36irGL6xrlpZqXhOY4sWgUFaWU2.jpg"
+      },
+      {
+        "name": "Cindy Chiu",
+        "character": "Bay Hill Cheerleader",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrienne Bailon-Houghton",
+        "character": "Dominique",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9UA8xg1CFlAxbo1dl5WLtm74KeI.jpg"
+      },
+      {
+        "name": "Dana Davis",
+        "character": "Peyton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jsMOVi4z2E2kvLS0j3Paxd0NJsk.jpg"
+      },
+      {
+        "name": "Sonya Eddy",
+        "character": "Worm's Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u4yQNLmXkijZoXxMYC2Hs3DtA4P.jpg"
+      },
+      {
+        "name": "Debbi Morgan",
+        "character": "Tonya",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5uet40J3x2pLCxdqC07RjNHTzvH.jpg"
+      },
+      {
+        "name": "Mel Winkler",
+        "character": "Coach White",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ctkcmCVzcUJWaGpEtHxwNPpEHw7.jpg"
+      },
+      {
+        "name": "Paul Rae",
+        "character": "Guardian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b5XZK3hUrio96loH4RWoBLlxGvL.jpg"
+      },
+      {
+        "name": "Ray Baker",
+        "character": "St. Francis Coach",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6DIBcIzCCTMxR1RdMbyItg0J6YW.jpg"
+      },
+      {
+        "name": "Roger Lim",
+        "character": "Benson Chiu (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cOnturKN6JiE0mJu6CKD8TOfa1W.jpg"
+      },
+      {
+        "name": "Vincent Laresca",
+        "character": "Renny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nO1HrEcjXzot40qDJkTcI4CFqTf.jpg"
+      },
+      {
+        "name": "Sidney Faison",
+        "character": "Ty Crane",
+        "profile_path": ""
+      },
+      {
+        "name": "Marc McClure",
+        "character": "Susan's Dad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c8DFehNqNEDLBALTdAWZzUEN2tD.jpg"
+      },
+      {
+        "name": "Jenny Gago",
+        "character": "President Martinez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/usYVMd4GvrvWrMXjAOFOZgGB8ZR.jpg"
+      },
+      {
+        "name": "Ben Weber",
+        "character": "Mr. Gesek",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qmzxrNgeq0lEzHkKmISTSlbRSfX.jpg"
+      },
+      {
+        "name": "Floyd Levine",
+        "character": "Taxi Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eM3IThey5aY0jVIrA6Wx61KBUE1.jpg"
+      },
+      {
+        "name": "Robert Hoffman",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/idAwI1mQdcEzUK3ihcfCVT84vnP.jpg"
+      },
+      {
+        "name": "Denise Dowse",
+        "character": "Principal Garrison",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Ap7nK94rFEjaQcduKBsLhetmPy.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Thomas Carter",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qMaOQS043TLi5WjcosW9jZfB2HW.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "high school",
+    "scholarship",
+    "sports",
+    "black people",
+    "violence in schools",
+    "authoritarian education",
+    "basketball",
+    "teacher",
+    "teachers and students"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Controversy surrounds high school basketball coach Ken Carter after he benches his entire team for breaking their academic contract with him.",
+    "Based on a true story, a basketball coach coaches a high school basketball team. As soon as he finds out that the team of players are doing well in their studies, he suspends basketball until they get their grades up and the importance of what life really is.—RECB3",
+    "In 1999, Ken Carter accepts the job of basketball coach for his old high school in a poor area of Richmond, CA. As much dismayed by the poor attitudes of his players as well as their dismal play performance, Carter sets about to change both. He imposes a strict regime typified in written contracts that demand respectful behavior, a dress code and good grades for players. Any initial resistance is soon dispelled as the team under Carter's tutelage becomes a undefeated competitor. However, when the overconfident team's behavior begins to stray with too many doing poorly in class, Carter takes immediate action. To the outrage of the team, the school and the community, Carter cancels all team activities and locks the court until the team shows acceptable academic improvement. In the ensuing debate, Carter fights to keep his methods, determined to show the boys that they need good values for their futures and eventually finds he has affected them more profoundly than he ever expected.—Kenneth Chisholm (kchishol@rogers.com)"
+  ],
+  "synopsis": "Coach Ken Carter (Jackson) takes over the head coaching job for the Oilers basketball team at his old high school Richmond, having played on the team himself, earning unbeaten records. Carter quickly learns that the athletes are rude and disrespectful, and are in need of discipline. He hands the players individual contracts, instructing them to attend all of their classes, wear dress shirts and ties on game days, refer to everyone (players and coach alike) as \"sir\", and maintain a minimum 2.3 (C+) grade point average, among other requirements. He also teaches them to play a disciplined brand of basketball which includes an emphasis on fundamentals, execution, defense, and conditioning.Carter also asks the school staff for progress reports on the players' attendance. However, three players including Timo Cruz (Rick Gonzalez) refuse to follow the contract and quit the team. Carter's son Damien (Robert Andrew Richard) later decides to join the team, after quitting the private school St. Francis to play for his father.Teammate Kenyon Stone (Rob Brown) struggles to come to terms with his girlfriend Kyra (Ashanti) being pregnant; unsure if he can juggle basketball and aspire for college. Later, Cruz makes a valiant effort to rejoin the basketball team after watching them perform at a game in an inspiring victory and also after witnessing his only family member- who happens to be his cousin (a drug dealer)- shot one night in the streets, which Carter accepts. The team goes on to post an undefeated record eventually winning a seasonal basketball tournament. However, Carter later discovers the progress reports filled out by the faculty reveal some of the students have been skipping classes and floundering academically.Carter initiates a lockdown on the gym, banning the team from playing until they improve their grades. The act angers the locals, as Carter is criticized by parents and academic personnel alike. The school board eventually confronts Carter, who justifies his actions, explaining he wants to give his team the opportunity and option to learn good values, which is far more important for the students' futures than winning basketball games. Although the national media praises Carter for his commitment to this priority, the school board, aside from Principal Garrison (Dowse) and the chairman, vote to end the lockout, much to Carter's dismay.Just when Carter is about to quit in disgust (after promising to do so if they vote to end the lockout), he is shocked to find his players in the gym with desks and teachers studying and working to bring their grades back up. The athletes decide to fulfill Carter's original intention of pursuing academic achievement before continuing to play their next game, with one explaining that the school board can force an end to the lockout, but the players can't be forced to play. They work hard in the classroom, study after school during practice time, and eventually raise their grade point average to a point that fulfills their end of the contracts they signed. The Oilers eventually end up competing in the regional high school playoffs, but ultimately lose to St. Francis. Nonetheless, Carter is proud that the players accomplished their goal of attaining a proper education with athletics. The film's epilogue displays a series of graphics stating that a number of players went on to attend college furthering their study.",
+  "imdb_score": 7.3
+}

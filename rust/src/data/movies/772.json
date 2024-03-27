@@ -1,0 +1,443 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/8fnYJPoXxwAN4valDLgz2whMGTH.jpg",
+  "id": 772,
+  "title": "Home Alone 2: Lost in New York",
+  "poster_path": "https://image.tmdb.org/t/p/w500/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+  "release_date": "1992-11-19",
+  "vote_average": 6.73,
+  "vote_count": 9085,
+  "popularity": 148.322,
+  "overview": "Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve.",
+  "imdb_id": "tt0104431",
+  "budget": 18000000,
+  "homepage": "",
+  "revenue": 358994850,
+  "runtime": 120,
+  "tagline": "He's up past his bedtime in the city that never sleeps.",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Adventure"
+  ],
+  "production_companies": [
+    "20th Century Fox",
+    "Hughes Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Macaulay Culkin",
+        "character": "Kevin McCallister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5lSoFnWb4HmxEREqcFvBGgXu5H.jpg"
+      },
+      {
+        "name": "Daniel Stern",
+        "character": "Marv Murchins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/939oerf8bJPrqT2a0N0oGuM1bjn.jpg"
+      },
+      {
+        "name": "Joe Pesci",
+        "character": "Harry Lyme",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4AO0Rwdg2ky8Usmgzgj0dvhy7Zw.jpg"
+      },
+      {
+        "name": "Catherine O'Hara",
+        "character": "Kate McCallister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cMBxHeztNVc8YXKcj084Mdd3f3U.jpg"
+      },
+      {
+        "name": "John Heard",
+        "character": "Peter McCallister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zjhcxrCFK4q0C1gtVmeN8FeqCw0.jpg"
+      },
+      {
+        "name": "Brenda Fricker",
+        "character": "Pigeon Lady",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xLRPygF2BfqFvLAtoGAl1V8T6bZ.jpg"
+      },
+      {
+        "name": "Tim Curry",
+        "character": "Concierge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg"
+      },
+      {
+        "name": "Devin Ratray",
+        "character": "Buzz McCallister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iWUBK0pCfTAQrqYMLIEZXk4ZLwZ.jpg"
+      },
+      {
+        "name": "Gerry Bamman",
+        "character": "Frank McCallister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hiMgT6OYvmdgz758vbw4y9iEAns.jpg"
+      },
+      {
+        "name": "Rob Schneider",
+        "character": "Bellman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kVHNFDOGDrC3LjDyYf5RaCd6auK.jpg"
+      },
+      {
+        "name": "Michael C. Maronna",
+        "character": "Jeff McCallister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vLmaPosdi7sLutyg5QkJHceRY5F.jpg"
+      },
+      {
+        "name": "Terrie Snell",
+        "character": "Leslie McCallister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tcIgyeWXEYVrpynMBUnvuYjLirN.jpg"
+      },
+      {
+        "name": "Hillary Wolf",
+        "character": "Megan McCallister",
+        "profile_path": ""
+      },
+      {
+        "name": "Maureen Elisabeth Shay",
+        "character": "Linnie McCallister",
+        "profile_path": ""
+      },
+      {
+        "name": "Dana Ivey",
+        "character": "Desk Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oQEeRwEb9w4TuSVp334OP9z6Ljm.jpg"
+      },
+      {
+        "name": "Eddie Bracken",
+        "character": "Mr. Duncan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r7FMivfxnlnluluZ1JyxCPIacL4.jpg"
+      },
+      {
+        "name": "Kieran Culkin",
+        "character": "Fuller McCallister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xVJ2YLyOAKKUMM04V53zyolEyjc.jpg"
+      },
+      {
+        "name": "Jedidiah Cohen",
+        "character": "Rod McCallister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m3xXaao4ZeQLoFdAdFx4HcVhRs6.jpg"
+      },
+      {
+        "name": "Senta Moses",
+        "character": "Tracy McCallister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9BsYsjP79o3cOgliME5ibCPy3gL.jpg"
+      },
+      {
+        "name": "Diana Rein",
+        "character": "Sondra McCallister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r8zvOGEx3XYBgvzudBo5888LgsH.jpg"
+      },
+      {
+        "name": "Anna Slotky",
+        "character": "Brooke McCallister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6NvXc8Z8t8rccjliVPparVeUGj0.jpg"
+      },
+      {
+        "name": "Leigh Zimmerman",
+        "character": "Fashion Model",
+        "profile_path": "https://image.tmdb.org/t/p/w185/49uoWe6Z2VAf7lK7Vtua2IE8Ujy.jpg"
+      },
+      {
+        "name": "Ralph Foody",
+        "character": "Gangster",
+        "profile_path": ""
+      },
+      {
+        "name": "Clare Hoak",
+        "character": "Gangster - 'Dame'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5d5V0Ve5NqELPGvfrCb9AZON1Zb.jpg"
+      },
+      {
+        "name": "Monica Devereux",
+        "character": "Hotel Operator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qiAHx2rn5yajaqaXsLdfe83zM2w.jpg"
+      },
+      {
+        "name": "Bob Eubanks",
+        "character": "Ding-Dang-Dong Host",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ktTy0BSmIFLm0NUi42VT6U7bOU5.jpg"
+      },
+      {
+        "name": "Rip Taylor",
+        "character": "Celeb #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Dcp66lNJeGlgVCt6eELmv9pLBE.jpg"
+      },
+      {
+        "name": "Jaye P. Morgan",
+        "character": "Celeb #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dDHchCIqlx68tYgzw09KNjSKgdb.jpg"
+      },
+      {
+        "name": "Jimmie Walker",
+        "character": "Celeb #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k5M0PhcYZEbeeAmjomZQk3QmLKv.jpg"
+      },
+      {
+        "name": "Patricia Devereux",
+        "character": "Contestant #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Aimee Devereux",
+        "character": "Contestant #2",
+        "profile_path": ""
+      },
+      {
+        "name": "A.M. Columbus",
+        "character": "Skycap O'Hare #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Liss",
+        "character": "Skycap O'Hare #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Teri McEvoy",
+        "character": "Agent #3 - NY Gate / O'Hare",
+        "profile_path": ""
+      },
+      {
+        "name": "Ally Sheedy",
+        "character": "Ticket Agent (New York)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f6fg7E7lcMiPVDywUcsVd3PiXvo.jpg"
+      },
+      {
+        "name": "Harry Hutchinson",
+        "character": "Ticket Taker",
+        "profile_path": ""
+      },
+      {
+        "name": "Clarke Devereux",
+        "character": "Ticket Taker / Evidence Specialist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wZqqK8VzKE9JMiH6INV0nXDGWNB.jpg"
+      },
+      {
+        "name": "Sandra Macat",
+        "character": "Flight Attendant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cxmIHB1As424FTOBjAhU8K34wO9.jpg"
+      },
+      {
+        "name": "Venessia Valentino",
+        "character": "Flight Attendant",
+        "profile_path": ""
+      },
+      {
+        "name": "Andre Lachaumette",
+        "character": "Man on Plane",
+        "profile_path": ""
+      },
+      {
+        "name": "Rick Shafer",
+        "character": "Peter Look Alike",
+        "profile_path": ""
+      },
+      {
+        "name": "Rod Sell",
+        "character": "Officer Bennett",
+        "profile_path": ""
+      },
+      {
+        "name": "Ron Canada",
+        "character": "Cop in Times Square",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2B8fFweT0PGcA1sj3duMzPpLgD6.jpg"
+      },
+      {
+        "name": "Cedric Young",
+        "character": "Cop in Central Park",
+        "profile_path": ""
+      },
+      {
+        "name": "William D'Ambra",
+        "character": "Arresting Cop in Central Park #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Morettini",
+        "character": "Arresting Cop in Central Park #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vuUnVH0AtnpHshAlxqzkWGfShF5.jpg"
+      },
+      {
+        "name": "Fred Krause",
+        "character": "Cliff",
+        "profile_path": ""
+      },
+      {
+        "name": "James Cole",
+        "character": "Security Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Donald Trump",
+        "character": "Donald Trump",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oDmVFoqIzxOyZejGjy3J5QrUmjM.jpg"
+      },
+      {
+        "name": "Warren Rice",
+        "character": "Doorman",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Civitano",
+        "character": "Plaza Marketing Director",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Dassin",
+        "character": "Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Donna Black",
+        "character": "Health Club Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Abdoulaye NGom",
+        "character": "Bead Vendor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bQU2etlAnG5PxTfKx8Pyt23FBRB.jpg"
+      },
+      {
+        "name": "Peter Pantaleo",
+        "character": "Airport Van Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Hansen",
+        "character": "Airport Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Goldfinger",
+        "character": "Limo Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Mario Todisco",
+        "character": "Cab Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/paGo0TMKtKaCNu2LSjahYNz6UiK.jpg"
+      },
+      {
+        "name": "Anthony Cannata",
+        "character": "Sergeant in Toy Store",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zmwCsnyuIUofJwdIhNU74XqkXnZ.jpg"
+      },
+      {
+        "name": "Eleanor Columbus",
+        "character": "Little Girl in Toy Store",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s0Nnq0ZIRfc34Kp8xi1QTBKgQwG.jpg"
+      },
+      {
+        "name": "Karen Giordano",
+        "character": "Streetwalker #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mLiz9ZFWJ72007DZZa5U2xVhO4d.jpg"
+      },
+      {
+        "name": "Fran McGee",
+        "character": "Streetwalker #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Leonard Tepper",
+        "character": "Sleeping Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Thomas",
+        "character": "Geeky Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Al Cerullo",
+        "character": "Helicopter Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rFs2wAkDPjqwQEUjEtGWROa705r.jpg"
+      },
+      {
+        "name": "Dan Buckman",
+        "character": "Central Park Ice Skater (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Laurence S. Chess",
+        "character": "Parent at Christmas Play (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/two2BG4ttfjsCluOOMZWTNsWLUF.jpg"
+      },
+      {
+        "name": "Chris Columbus",
+        "character": "Man in Toy Store (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yCyEz90NqjEXKZ7HYcEhDXlLlPc.jpg"
+      },
+      {
+        "name": "Jonathon Gentry",
+        "character": "Choir Boy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s0zhvrPsTvR96Y4J35C2IPM12Tx.jpg"
+      },
+      {
+        "name": "Eric Ian",
+        "character": "Kid in the Airport (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cTJaHREjPnBrzNtf7uPvncxx5TL.jpg"
+      },
+      {
+        "name": "Karen Jensen-Clark",
+        "character": "Woman with Shopping Bag (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeffrey Landman",
+        "character": "Choir Singer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/LjQycGfOnKDrKR7ubLv4VFPrre.jpg"
+      },
+      {
+        "name": "Eden Riegel",
+        "character": "Choir Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vrJcfeTk6nNboL05eT2MGHANTww.jpg"
+      },
+      {
+        "name": "Mike Sode",
+        "character": "Airport College Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i82AcwcwZgrmgsKDoY7i7WeCnlc.jpg"
+      },
+      {
+        "name": "Paul Zimmerman",
+        "character": "Pedestrian (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Chris Columbus",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yCyEz90NqjEXKZ7HYcEhDXlLlPc.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "burglar",
+    "holiday",
+    "family relationships",
+    "sequel",
+    "slapstick comedy",
+    "little boy",
+    "home invasion",
+    "family",
+    "precocious child",
+    "home alone",
+    "mischievous child",
+    "christmas",
+    "kids on their own",
+    "child rescue"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "One year after Kevin McCallister was left home alone and had to defeat a pair of bumbling burglars, he accidentally finds himself stranded in New York City - and the same criminals are not far behind.",
+    "Kevin McCallister (Macaulay Culkin) is back. But this time he's in New York City with enough cash and credit cards to turn the Big Apple into his own playground. But Kevin won't be alone for long. The notorious Wet Bandits, Harry (Joe Pesci) and Marv (Daniel Stern), still smarting from their last encounter with Kevin, are bound for New York City too, plotting a huge holiday heist. Kevin's ready to welcome them with another battery of booby traps the bumbling bandits will never forget.—Anthony Pereyra <hypersonic91@yahoo.com>",
+    "Once again, it is Christmas time, and the McCallister family is planning another vacation, only this time they are bound to go to Miami, Florida. Unfortunately, Kevin (Macaulay Culkin) separates from the rest of his family and goes to New York City. Kevin will soon realize that he will not only be alone in a big city, having a luxury suite at the Plaza, he will also reunite with his rivals Harry Lime (Joe Pesci) and Marv Merchants (Daniel Stern), who are planning to rob a toy store. Kevin plans to defeat the bandits once and for all by using traps to defeat them and save Duncan's Toy Chest.—John Wiggins",
+    "Kevin McCallister (Macaulay Culkin) and his family are set to spend their Christmas vacation in Miami, Florida. However, Kevin accidentally finds himself in New York City. With his father's bag and credit card, Kevin is able to book a suite and enjoy the city. However, Kevin's enemies Harry (Joe Pesci) and Marv (Daniel Stern) have recently escaped from prison and find themselves in New York City. After Kevin crosses paths with the duo, it's up to him to bring the duo back into custody.—Sam",
+    "One short year after the terrible blunder in Home Alone (1990), the absent-minded McCallisters have done it again: this time, the now-nine-year-old Kevin ends up in festive New York City, at the Plaza Hotel. With his pockets crammed with cash and credit cards, the resourceful boy embarks on a fascinating adventure in bustling Big Apple, utterly unaware, however, that his old nemeses--the unrepentant burglars, Harry and Marv--roam the city, intent on pulling off the perfect Christmas heist. Of course, not if Kevin can help it. Are the maladroit \"Sticky Bandits\" prepared for the second round of punishment?—Nick Riganas"
+  ],
+  "synopsis": "The McCallister family is preparing for another family trip, this time to Florida. However, Kevin is not at all happy, given that there aren't any Christmas trees in Florida.The evening before the trip, the family attends a school chorus, at which Kevin has a vocal solo. However, his older brother Buzz is also in the chorus, and causes a ruckus that eventually has Kevin attack his brother, ruining the performance.Back at home, Buzz apologizes to the family for his actions, but whispers an aside to Kevin that he just said that to force Kevin to apologize. Kevin vocally chastises everyone for taking Buzz's side, and is sent to the attic.Kevin's mother Kate comes to speak with him afterwards, wanting him to apologize, but Kevin refuses, claiming that if he had his own money, he'd take his own vacation away from his family.\"Well you got your wish last year, maybe you'll get it again this year,\" says Kate.\" hope so,\" says Kevin.The next day, the family almost misses their airport express to the airport, but luckily, they make it in time, along with Kevin. By the time the family arrives at the airport, they are still late for the plane and make a mad dash. Kevin accidentally falls behind, and when he looks up, mistakes one man for his Dad, and follows him to another plane.Eventually, the McCallister family makes it to Florida, where they realize they've lost Kevin again.Meanwhile, in New York, Kevin has arrived, but is unsure just where he is. Seeing no sign of his family, he looks out the airport window to see a non-tropical city. After asking an airline attendant where he is, Kevin first bemoans what has happened...but then realizes he can have some fun on his own.Kevin is also in possession of his Dad's bag, which has cash as well as credit cards.Back in Florida, Kevin's parents have reported him missing. After calling the Chicago airport, they find that no one has reported seeing him. It is then that Kevin's Dad finds that his wallet and credit cards are missing. The lost credit cards are reported so that if Kevin attempts to use one, they can be tracked.After wandering into Central Park, Kevin soon finds himself at the Plaza Hotel. Using a tape recorder, he tapes a message and slows down his voice, placing a hotel reservation. Kevin then proceeds to the front desk, where he convinces the clerk on duty that his Father sent him to check in with his credit card.The clerk processes the paperwork, but the Concierge nearby is suspicious of Kevin.Later that evening, he intends to access Kevin's room, but Kevin fools him into thinking that he has walked in on his Father, causing the concierge to flee.The next day, in order to make amends, the concierge arranges for a limousine and a pizza for Kevin. While Kevin is out, the Concierge then double-checks the credit card that was used, and finds that it has been labeled as 'stolen.'Meanwhile, Kevin has made his way to a toy store called Duncan's Toy Chest. Kevin makes some purchases, and the old man running the register then explains that all the purchases that are made at the store that day will have their money donated to the local children's hospital. Kevin then gives the cashier some extra money as well, and is given an ornament of two turtle doves as a gift for his donation. On the way out, Kevin soon realizes that he just met the toy store owner, Mr Duncan.As he decides what to do next, a familiar voice is heard, and Kevin turns around, only to come face-to-face with Harry (Joe Pesci) and Marv (Daniel Stern), the two men who attempted to rob his family's home last Christmas! Kevin rushes off, and heads back to the Plaza Hotel. Coming up to the Concierge, Kevin asks for help, but the Concierge instead confiscates Kevin's Credit Card, and intends to report him to the Police. Kevin takes off running again, and rushes into the hotel, heading for his room. Packing his things, he quickly heads out an emergency exit: only to run into Harry and Marv again.The two take Kevin with them, mentioning how they intend to rob Duncan's Toy Chest later that evening. However, Kevin escapes from them again, and rushes into Central Park to hide.Back in Florida, the local Police report to the McCallisters that Kevin used a credit card in New York, and the family packs to head off (many eager to escape the constant rainy weather).As night falls, Kevin heads to a house that supposedly belongs to his Uncle and Aunt, but finds it in a state of being repaired. Returning to Central Park, he finds an old woman tending to some pigeons. At first, Kevin is scared, but soon realizes that she means no harm to him.She and Kevin sneak into the rafters of Carnegie Hall and watch a performance. As they play, the old woman and Kevin talk, and share their thoughts about life.Finally, Kevin heads back out into the night, and comes across a children's hospital. Remembering what Harry and Marv plan to do, Kevin hatches a plan to stop them before they can steal the money. Kevin returns to the house owned by his Uncle and Aunt, and much like his own house the year before, booby-traps it.Kevin then heads back to Duncan's Toy Chest, where he sees Harry and Marv emptying a cash register through the window. Drawing their attention, he breaks the window, setting off the alarm.Kevin then leads them back to the house where he then manages to get the two thugs to fall for most of his traps, before attempting to lead them into Central Park. However, he ends up slipping on some ice, and Harry and Marv catch up to him.Kevin is then saved when the bird woman throws bird feed on the two, causing numerous birds to attack them. The Police arrive soon afterwards and arrest Harry and Marv.",
+  "imdb_score": 6.9
+}

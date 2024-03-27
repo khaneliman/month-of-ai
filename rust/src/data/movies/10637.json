@@ -1,0 +1,518 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/cMUReq46MSz6WWsdW1Gu8oecJlc.jpg",
+  "id": 10637,
+  "title": "Remember the Titans",
+  "poster_path": "https://image.tmdb.org/t/p/w500/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg",
+  "release_date": "2000-09-29",
+  "vote_average": 7.623,
+  "vote_count": 2499,
+  "popularity": 26.885,
+  "overview": "After leading his football team to 15 winning seasons, coach Bill Yoast is demoted and replaced by Herman Boone – tough, opinionated and as different from the beloved Yoast as he could be. The two men learn to overcome their differences and turn a group of hostile young men into champions.",
+  "imdb_id": "tt0210945",
+  "budget": 30000000,
+  "homepage": "https://movies.disney.com/remember-the-titans",
+  "revenue": 136700000,
+  "runtime": 113,
+  "tagline": "History is written by the winners.",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Jerry Bruckheimer Films",
+    "Run It Up Productions Inc.",
+    "Technical Black",
+    "Walt Disney Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Denzel Washington",
+        "character": "Coach Herman Boone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+      },
+      {
+        "name": "Will Patton",
+        "character": "Coach Bill Yoast",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2vr8aJacajXz7m4lMc2WdVniCRZ.jpg"
+      },
+      {
+        "name": "Wood Harris",
+        "character": "Julius Campbell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v3puIl2KncqUd6amDyD1Y0crzkF.jpg"
+      },
+      {
+        "name": "Ryan Hurst",
+        "character": "Gerry Bertier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/467wpYYeeDyF4MeoDMuNp4bwgzH.jpg"
+      },
+      {
+        "name": "Donald Faison",
+        "character": "Petey Jones",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gNwWP1CHob9Y8fjY69w7EwGxMoz.jpg"
+      },
+      {
+        "name": "Craig Kirkwood",
+        "character": "Jerry 'Rev' Harris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6HnTYIryK8jo7sJVGZFZQNQwIzn.jpg"
+      },
+      {
+        "name": "Ethan Suplee",
+        "character": "Louie Lastik",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gGSb8P9nQdDNu0JC65zyAyMUFhS.jpg"
+      },
+      {
+        "name": "Kip Pardue",
+        "character": "Ronnie 'Sunshine' Bass",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zWLkC7AodrsZ2jooVMwwBWkAQsB.jpg"
+      },
+      {
+        "name": "Hayden Panettiere",
+        "character": "Sheryl Yoast",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bhGkVHCFu8peC4rIXIUMWCQqZR7.jpg"
+      },
+      {
+        "name": "Nicole Ari Parker",
+        "character": "Carol Boone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uy630vFQOKWpuEDFF2DuCQ1Oiez.jpg"
+      },
+      {
+        "name": "Kate Bosworth",
+        "character": "Emma Hoyt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/egbJ47dPYvcWrr4NLmVBhDuirhl.jpg"
+      },
+      {
+        "name": "Earl Poitier",
+        "character": "Blue Stanton",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryan Gosling",
+        "character": "Alan Bosley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+      },
+      {
+        "name": "Burgess Jenkins",
+        "character": "Ray Budds",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tLuduvqouKKaGpSbq5npmUGCAvX.jpg"
+      },
+      {
+        "name": "Neal Ghant",
+        "character": "Frankie Glascoe",
+        "profile_path": ""
+      },
+      {
+        "name": "David Jefferson",
+        "character": "Cook",
+        "profile_path": ""
+      },
+      {
+        "name": "Preston Wigasi Brant",
+        "character": "Jerry Buck",
+        "profile_path": ""
+      },
+      {
+        "name": "John Michael Weatherly",
+        "character": "Kirk Barker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/auR1OVsUZF0NjE4aeFu90Iksx4A.jpg"
+      },
+      {
+        "name": "Gregory Alan Williams",
+        "character": "Coach Paul 'Doc' Hines",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3IM9qtI4c4zgraPNtRI3kCPivAo.jpg"
+      },
+      {
+        "name": "Brett Rice",
+        "character": "Coach Herb Tyrell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4OTUfCVDOsCFQoQwiNE8deDFxKW.jpg"
+      },
+      {
+        "name": "Richard Fullerton",
+        "character": "A.D. Watson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7jLHLWzDlsUadbtGr3fF8etvsz0.jpg"
+      },
+      {
+        "name": "J. Don Ferguson",
+        "character": "Executive Director",
+        "profile_path": ""
+      },
+      {
+        "name": "Krysten Leigh Jones",
+        "character": "Nicky Boone",
+        "profile_path": ""
+      },
+      {
+        "name": "Afemo Omilami",
+        "character": "Charles Campbell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/usW1GHq20ZEX3rpei1HpeXfSpiP.jpg"
+      },
+      {
+        "name": "Andrew Masset",
+        "character": "Colonel William G. Bass",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vMJACG1phniCBDjIX3rqtQEDVD1.jpg"
+      },
+      {
+        "name": "Tim Ware",
+        "character": "Fred Bosley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sZope09mLYOPaRT32DYIPxNH6Q1.jpg"
+      },
+      {
+        "name": "Tom Turbiville",
+        "character": "Captain Hal",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Nowicki",
+        "character": "Coach Ed Henry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b823hpQ5FzQeom8Sj6DJ81ezVWQ.jpg"
+      },
+      {
+        "name": "Jim Grimshaw",
+        "character": "Coach Taber",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mjOfyUmrD1GYzt9VUXWUaEs1gek.jpg"
+      },
+      {
+        "name": "David Dwyer",
+        "character": "Coach Tolbert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kMTtoYRHltlJI9YzWPKe56gK99h.jpg"
+      },
+      {
+        "name": "Bo Keister",
+        "character": "Kip Tyler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6rOg9u7Cm28Tf0UPyv14FeHOpIO.jpg"
+      },
+      {
+        "name": "Lou Walker",
+        "character": "Ferdinand Day",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rpQ0UYnKI1LLFriImlhtRu8RxNF.jpg"
+      },
+      {
+        "name": "Marion Guyot",
+        "character": "Mrs. Jean Bertier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5444iiLk5xgZQh5u1UmPXAsYEBV.jpg"
+      },
+      {
+        "name": "Rhubarb Jones",
+        "character": "Radio Announcer",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob Neal",
+        "character": "Colorman",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Albright",
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kxxnuT7sLPrGwObDv0XO0xgR1sp.jpg"
+      },
+      {
+        "name": "Mike Pniewski",
+        "character": "Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aQz8I1lPjTFsxsrITaJQJH8P6zW.jpg"
+      },
+      {
+        "name": "Sharon Blackwood",
+        "character": "Nurse Allice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sdbIIWqcIinNGP0OZbEWX3rEpLo.jpg"
+      },
+      {
+        "name": "Paula Claire Jones",
+        "character": "White Girl #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Kelly Cheston",
+        "character": "White Girl #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c9R42pnFK6zDqqgXlBDBycJDjGD.jpg"
+      },
+      {
+        "name": "Walker Jones",
+        "character": "White Kid #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Ronald L. Conner",
+        "character": "Black Kid #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wIUvyWuYQZj5S3VmlODoaHDOZa0.jpg"
+      },
+      {
+        "name": "Courtney James Stewart",
+        "character": "Black Kid #2",
+        "profile_path": ""
+      },
+      {
+        "name": "E.Y. Coley",
+        "character": "Official",
+        "profile_path": ""
+      },
+      {
+        "name": "John Wesley",
+        "character": "Official",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kD6BbJYQhq3XxCTw4UvS3AuBMRl.jpg"
+      },
+      {
+        "name": "B. Keith Harmon",
+        "character": "Crooked Official",
+        "profile_path": ""
+      },
+      {
+        "name": "Andy Francis",
+        "character": "Quarterback",
+        "profile_path": ""
+      },
+      {
+        "name": "Stuart Greer",
+        "character": "Marshall Assistant Coach",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lHF0P4kzBLASzTCEotFAl6wwSM2.jpg"
+      },
+      {
+        "name": "Derick Marshall",
+        "character": "Lee Roy 'Monk' Davis",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Thomas",
+        "character": "Fred Alderson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bMcJpcHIlMX0Cw3VJfPvvl7ZKWm.jpg"
+      },
+      {
+        "name": "Kevin Dankosky",
+        "character": "Reporter #1",
+        "profile_path": ""
+      },
+      {
+        "name": "David Chandley",
+        "character": "Reporter #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Slade",
+        "character": "Reporter #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Ric Reitz",
+        "character": "Reporter #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/PILYr8ZQsCop1Yz5UQ1FOeh2h5.jpg"
+      },
+      {
+        "name": "Steve Barnes",
+        "character": "Titan Supporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3OMw1COzbaiN7DK2HkJmooNTnb6.jpg"
+      },
+      {
+        "name": "Rory Griffin",
+        "character": "Titan",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryan Kowalske",
+        "character": "Titan",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Elliott",
+        "character": "Titan",
+        "profile_path": ""
+      },
+      {
+        "name": "C. Stephen Browder",
+        "character": "Titan #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mHS5QGSwmwpSpwRVt93bWBfKuXG.jpg"
+      },
+      {
+        "name": "Jameel Jackson",
+        "character": "Titan",
+        "profile_path": ""
+      },
+      {
+        "name": "Randy D. Patman Jr.",
+        "character": "Titan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yzsZtK7zm4EKEr4toXN8cmsBwls.jpg"
+      },
+      {
+        "name": "Jemal L. Webb",
+        "character": "Titan",
+        "profile_path": ""
+      },
+      {
+        "name": "Shawn Cummings",
+        "character": "Titan",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Rouby",
+        "character": "Titan",
+        "profile_path": ""
+      },
+      {
+        "name": "Ray Stoney",
+        "character": "Titan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k8NQq0IvE9PavHOZZJz1S7dwnkR.jpg"
+      },
+      {
+        "name": "John Paul Rice",
+        "character": "Titan (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Shanda Lee Munson",
+        "character": "Emma's Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wLICy5vaIaZnRcZ6dWc8FYqfxnp.jpg"
+      },
+      {
+        "name": "David de Vries",
+        "character": "Parent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5dhZVrTfNFpJZP5qvbiaaYrC7Z4.jpg"
+      },
+      {
+        "name": "Andrew Collins",
+        "character": "Black Newspaper Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen O'Neil Martin",
+        "character": "Heckler",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Adams",
+        "character": "Heckler",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcus M. Moore",
+        "character": "Special Teams Coach",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryan Duncan",
+        "character": "Opposition Quarterback",
+        "profile_path": ""
+      },
+      {
+        "name": "Lauren Aparicio",
+        "character": "Fan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kX5sFcXLNz56cLhF2aGrO6IqZrj.jpg"
+      },
+      {
+        "name": "Nicky Buggs",
+        "character": "Neighbor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2yhO7xNP2rdzrR0J5IoGm4LoF3y.jpg"
+      },
+      {
+        "name": "Tyreese Burnett",
+        "character": "Team Member - Stillwell Titans (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/32fxBSBzdmcqTUv394Yh4XaTxaM.jpg"
+      },
+      {
+        "name": "Don Cochran",
+        "character": "News Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o2PaBKDFRzQ3ZoMYTaUnEjGEST1.jpg"
+      },
+      {
+        "name": "Darren W. Conrad",
+        "character": "Football Player (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iaunt7VS0YIZ5eyDT25kN5BmfvF.jpg"
+      },
+      {
+        "name": "Doshia Darmane",
+        "character": "Mourner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nLs9uq2eRVC3ue23RaDiFF0uB9y.jpg"
+      },
+      {
+        "name": "Alton Glass",
+        "character": "Titan (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jyn Hall",
+        "character": "Ray Budds' Sister (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/60NbNgSOB4z2vUPbSd7ih7FYC3P.jpg"
+      },
+      {
+        "name": "Lucinda Jenney",
+        "character": "Arleen Yoast (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ahR0bNUJRi9Phpd7RZWx4ILiMEb.jpg"
+      },
+      {
+        "name": "Tina King",
+        "character": "Blues Mom (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ron Marino",
+        "character": "Stillwell Titan (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tess Panzer",
+        "character": "Grownup Sheryl Yoast (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Xavier Rivers",
+        "character": "Church Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aXmvsqoR1K3Vn4dGVizbY9Zdnot.jpg"
+      },
+      {
+        "name": "Irone Singleton",
+        "character": "Football Player (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lKxvihaUzrTJj1tZJSprj7JhMhL.jpg"
+      },
+      {
+        "name": "Jonathan Thompson",
+        "character": "Reporter / Commentator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Shayne Tingle",
+        "character": "Team Doctor (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Boaz Yakin",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fBMZdwXjIilRm4tWHs24fPnsVeq.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "high school",
+    "friendship",
+    "sports",
+    "ku klux klan",
+    "politics",
+    "american football",
+    "1970s",
+    "trainer",
+    "race politics",
+    "civil rights",
+    "apartheid",
+    "racial segregation",
+    "based on true story",
+    "racist",
+    "high school sports",
+    "coaction",
+    "racial tension",
+    "xenophobia",
+    "virginia",
+    "head coach"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "In 1971 Virginia high school football was everything to the people of Alexandria. But when the school board was forced to integrate an all-black school with an all-white one, the very foundation of football's tradition was put to the test.",
+    "A high school football team is forced to integrate, bringing together players from different racial backgrounds. Coach Boone, played by Denzel Washington, takes charge and helps the team overcome their differences and work together. Amidst challenges and resistance, the players learn to respect and support each other. Through hard work and determination, they become a united team, overcoming prejudice and achieving success on the field. The movie shows how sports can bring people together and promote understanding, even in the face of adversity.—Evan Almindo",
+    "Suburban Virginia schools have been segregated for generations. One Black and one White high school are closed and the students sent to T.C. Williams High School under federal mandate to integrate. The year is seen through the eyes of the football team where the man hired to coach the Black school is made head coach over the highly successful white coach. Based on the actual events of 1971, the team becomes the unifying symbol for the community as the boys and the adults learn to depend on and trust each other.—LMN13",
+    "In the early 1970s, two schools in Alexandria, Virginia integrate forming T.C. Williams High School. The European American head coach of the Titans is replaced by an African American coach from North Carolina. Tensions arise when players of different races are forced together on the same football team. Many of these tensions are eased during the two-week training camp in Gettysburg, Pennsylvania. When players returned to Alexandria the players found the city in turmoil due to the forced desegregation of the high school. As the season progresses the team's success caused the community to accept the changes. After the Titans' perfect season, the team and the city were closer than ever.—WSU Honors ENG 102-13",
+    "Denzel Washington plays Herman Boone, who is hired as the T.C. Williams High football coach over a white coach in Alexandria, Virginia in the early 1970's during a time when the school has just been integrated to allow blacks into the school.—Anonymous"
+  ],
+  "synopsis": "In 1971 in Alexandria, Virginia, at the desegregated T. C. Williams High School, African American head coach Herman Boone (Denzel Washington) is hired to lead the school's football team.\nThe schools for the whites and the African Americans have been recently brought together under a single roof. The city was the verge of exploding when an African American teenager was killed by a white store owner.Coach Boone takes the coaching position from current head coach Bill Yoast (Will Patton), who has been nominated for the Virginia High School Hall of Fame (with 15 winning seasons under his belt), and who also later decides to move on to other coaching opportunities. Sheryl is Yoast's daughter and is very passionate about the game. She stays with Yoast at every training session and every game. Sheryl is dismayed at Boone being appointed head coach over Yoast.\nThe board explains to Yoast that every other coach in the high school system in the state is white. So, they had to give something to the African Americans.\nBoone's family includes his wife Carol (Nicole Ari Parker), and 2 daughters Nicky and Karen.In a show of respect and in an attempt to ease racial tension, Boone offers an assistant coaching position to Yoast. Yoast at first refuses Boone's offer but is then tempted to join after the white players pledge to boycott the team if he doesn't participate. The white team was already worried that many of their mates would lose their starting positions under the new coach.\nDismayed at the prospect of the students losing their chances at scholarships, Yoast changes his mind and takes up the position of defensive coordinator.Boone holds his first team meeting with mostly African American students in the school gymnasium but is interrupted by the arrival of Yoast and several white students. Yoast accepts Boone's offer to work under him, but Boone warns Yoast that it is his team, and he will not tolerate Yoast undermining him.\nCamp is in Gettysburg college and the bus leaves on Aug 15th 7:29 AM.The African American and white athletes of the football team frequently clash in racially motivated conflicts at their football camp, including those between captain Gerry Bertier (Ryan Hurst) and Julius Campbell (Wood Harris). Other players include Alan Bosley (Ryan Gosling), Ray Budds (Burgess Jenkins), Petey Jones (Donald Faison), Jerry Harris (Craig Kirkwood), Louie Lastik (Ethan Suplee), Darryl \"Blue\" Stanton (Earl C. Poitier), Ronnie \"Sunshine\" Bass (Kip Pardue) and so on.However, after forceful coaxing and rigorous athletic training by Boone, the team achieves both racial harmony and triumph. He makes the team to work together ignoring their racial identity. He makes them learn everything about all the players not from their own race, by spending time with them.\nIn one scene, Coach Boone wakes the team up around 3:00 AM and takes them to a cemetery where Battle of Gettysburg was fought and delivers a speech about hatred.\nRay is a blocker who decides not to block properly to make the quarterback Petey look bad. Gerry tells Julius that he has a lot of talent, but he is not playing for the team. Julius hits back pointing out that Ray is not blocking to protect Petey and yet Gerry has done nothing about it.\nGerry confronts Ray on the field for not doing his job, and the team starts to come together. Ronnie and Petey team together to make a great quarterback and catcher pair.After returning from football camp, Boone is told by a member of the school board that if he loses even a single game, he will be fired.\nGerry introduces Julius to his girlfriend Emma (Kate Bosworth). Emma is not willing to mingle with the African Americans.Subsequently, the Titans go through the season undefeated while battling racial prejudice, before slowly gaining support from the community.\nPetey is not working out on the offense and Boone benches him. But Yoast takes Petey on the defense as he is fast and works as a blocker for the runners on the other team.\nBoone and Yoast start trusting each other to the extent that Sheryl starts spending time with Nicky at her place. Gerry and Julius team up to control their respective crowds at school to prevent any racial flareups.\nWhen Jerry breaks his wrist in a game, Boone puts Ronnie in as the Quarterback. The move works perfectly. Gerry asks Boone to get Ray off the team. Gerry says Ray missed the block on purpose, which led to Jerry's injury.Just before the state semi-finals, Yoast is told by a member of the school board that he will be inducted into the Hall of Fame after the Titans lose their game, implying that the game has been fixed to ensure Boone gets fired over his race.During the game, when it becomes apparent that the referees are engaging in biased officiating against the Titans, Yoast warns the head official that he will go to the press and expose the scandal unless the game is called fairly. The referees yield and the Titans ultimately win the game, but Yoast is told afterward that his actions have resulted in his loss of candidacy for the Hall of Fame.Later, while celebrating after the victorious game, Bertier is paralyzed from the waist down in a car accident, when he is hit by a truck while accelerating into an intersection. Despite the fact that Bertier is no longer able to play, the team goes on to win the championship.Ten years later, the coaches and athletes from the team reunite to attend Bertier's funeral, as Sheryl (Hayden Panettiere) reiterates the message of racial equality taught by the Titans.\nIn the epilogue, it reveals what many of the Titans are doing, ranging from getting married to going to college.",
+  "imdb_score": 7.8
+}

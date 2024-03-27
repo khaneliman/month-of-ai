@@ -1,0 +1,554 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/jhM3wgWUrrOkz9r4xwV5cV5RhI4.jpg",
+  "id": 17654,
+  "title": "District 9",
+  "poster_path": "https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+  "release_date": "2009-08-05",
+  "vote_average": 7.43,
+  "vote_count": 8956,
+  "popularity": 42.033,
+  "overview": "Thirty years ago, aliens arrive on Earth. Not to conquer or give aid, but to find refuge from their dying planet. Separated from humans in a South African area called District 9, the aliens are managed by Multi-National United, which is unconcerned with the aliens' welfare but will do anything to master their advanced technology. When a company field agent contracts a mysterious virus that begins to alter his DNA, there is only one place he can hide: District 9.",
+  "imdb_id": "tt1136608",
+  "budget": 30000000,
+  "homepage": "http://www.d-9.com/",
+  "revenue": 210800000,
+  "runtime": 112,
+  "tagline": "You are not welcome here.",
+  "genres": [
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "TriStar Pictures",
+    "Block / Hanson",
+    "WingNut Films",
+    "District 9"
+  ],
+  "production_countries": [
+    "NZ",
+    "ZA",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Sharlto Copley",
+        "character": "Wikus van de Merwe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q2dl9gYrMmgJIOemr4oo5l4gwpu.jpg"
+      },
+      {
+        "name": "Jason Cope",
+        "character": "Christopher Johnson / Grey Bradnam / Trent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xEqMZClrQQvaygQakUwtS5l7TYH.jpg"
+      },
+      {
+        "name": "Nathalie Boltt",
+        "character": "Sarah Livingstone - Sociologist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mYvZlMSwvv6WDfJHfV6bYm4ddES.jpg"
+      },
+      {
+        "name": "Sylvaine Strike",
+        "character": "Dr Katrina McKenzie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A1O7oEwqy3vebOdnXhyRtKCBeg4.jpg"
+      },
+      {
+        "name": "Elizabeth Mkandawie",
+        "character": "Interviewee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qqiB2LLwNjaEnivKXaRm5opKU4b.jpg"
+      },
+      {
+        "name": "John Sumner",
+        "character": "Les Feldman - MIL Engineer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rsyOO8YniQa0vQKklUYWYVOUyoO.jpg"
+      },
+      {
+        "name": "William Allen Young",
+        "character": "Dirk Michaels",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3QMYa0lOFs76wXmPuvdmTyz0KUA.jpg"
+      },
+      {
+        "name": "Nick Blake",
+        "character": "Francois Moraneu - CIV Engineer Team",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eC9GDVX5yo4BPrbF7Syhf6xaDVz.jpg"
+      },
+      {
+        "name": "Greg Melvill-Smith",
+        "character": "Interviewer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kHFoDthDdI2RsNRaxrNQO9ihuQs.jpg"
+      },
+      {
+        "name": "Robert Hobbs",
+        "character": "Ross Pienaar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bTAi1h6oS2KC80HJAzeHN1IpT5T.jpg"
+      },
+      {
+        "name": "Vanessa Haywood",
+        "character": "Tania van de Merwe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h7FoJwTm8erZCkPMXKtRDmun165.jpg"
+      },
+      {
+        "name": "Morena Busa Sesatsa",
+        "character": "Interviewee",
+        "profile_path": ""
+      },
+      {
+        "name": "Themba Nkosi",
+        "character": "Interviewee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1OoWuf02Ndn0CIg0brbVKcXiwP3.jpg"
+      },
+      {
+        "name": "Mzwandile Nqoba",
+        "character": "Interviewee",
+        "profile_path": ""
+      },
+      {
+        "name": "Barry Strydom",
+        "character": "Interviewee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/56eUoxrm6zlZFTEnTHCAz5W9vxq.jpg"
+      },
+      {
+        "name": "Jed Brophy",
+        "character": "James Hope - Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tMLPV314du8eoumIipLFgn37rTe.jpg"
+      },
+      {
+        "name": "Louis Minnaar",
+        "character": "Piet Smit",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sOyiE99K6szRqXkYeXKePWTlbCR.jpg"
+      },
+      {
+        "name": "Marian Hooman",
+        "character": "Sandra van de Merwe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1M74MzrgfLFM153EDVUge03g8wH.jpg"
+      },
+      {
+        "name": "Vittorio Leonardi",
+        "character": "Michael Bloemstein - MNU Alien Civil Affairs",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fSf5JpFltAeJQABdsvlfFcuWOGT.jpg"
+      },
+      {
+        "name": "David Clatworthy",
+        "character": "MNU Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f7Nc90L59usUFkgtrpc381v4RSC.jpg"
+      },
+      {
+        "name": "Michael Huff",
+        "character": "MSU Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cg1gNFFiGNIYwB3Jm0ldtHPS4n.jpg"
+      },
+      {
+        "name": "David James",
+        "character": "Koobus Venter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rqZopaTxXJCXiFcZ6TETE8b94wI.jpg"
+      },
+      {
+        "name": "Tim Gordon",
+        "character": "Clive Henderson - Entomologist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/weSmPdpAw3XnFKco5XUAoeUwyDg.jpg"
+      },
+      {
+        "name": "Anthony Bishop",
+        "character": "Paramedic",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Fridjhon",
+        "character": "MNU Executive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ncvvawJYw4cvJEAiNU6ruwOn3Np.jpg"
+      },
+      {
+        "name": "Eugene Khumbanyiwa",
+        "character": "Obesandjo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1RHZIniQ21TwUgUxoIlTFFWuzuy.jpg"
+      },
+      {
+        "name": "Melt Sieberhagen",
+        "character": "Anton Grobler",
+        "profile_path": ""
+      },
+      {
+        "name": "Andre Odendaal",
+        "character": "Mike Van Kerland",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zzu6YKNWnzyfb9s9hIFjRySSDIL.jpg"
+      },
+      {
+        "name": "Louise Saint-Claire",
+        "character": "MNU Medical Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q67SDqx6NtQAst9WzR3EXTpFXsE.jpg"
+      },
+      {
+        "name": "Norman Anstey",
+        "character": "MNU Lead Medical Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pmb6pFiGvtWbJLV43TgmSjrz8Gt.jpg"
+      },
+      {
+        "name": "Nick Boraine",
+        "character": "Craig Weldon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lcuyeUFhnYVp2YdUscYNFOQxkJ3.jpg"
+      },
+      {
+        "name": "Brandon Auret",
+        "character": "MNU Mercenary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7MjyB6s1LGzDbcvm4dwKRi0QLzq.jpg"
+      },
+      {
+        "name": "Jacques Gombault",
+        "character": "MNU Mercenary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/75dSXlubKdR1xoDGnCK5PTdtAin.jpg"
+      },
+      {
+        "name": "Justin Strydom",
+        "character": "MNU Mercenary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eSsrFy98hyeAvzTIAxNp8iSdX0h.jpg"
+      },
+      {
+        "name": "Simo Mogwaza",
+        "character": "MNU Mercenary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w7Xrr6Ws0qa3gAhtY81Ly8yTzYy.jpg"
+      },
+      {
+        "name": "Matt Stern",
+        "character": "MNU Mercenary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kqfofe39YAKiQ6eFjaH678f9wKz.jpg"
+      },
+      {
+        "name": "David Dukas",
+        "character": "MNU Mercenary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5LvqM7MOLxklChoN9BQF0KxktTz.jpg"
+      },
+      {
+        "name": "Daniel Hadebe",
+        "character": "MNU Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gUXxRdir1U892ArOB2CuStE7bNV.jpg"
+      },
+      {
+        "name": "Bongo Mbutuma",
+        "character": "Nigerian Gangster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jByYhcxIlAdEqpGnHiLzGXsTJ2b.jpg"
+      },
+      {
+        "name": "Johnny Selema",
+        "character": "Nigerian Gangster",
+        "profile_path": ""
+      },
+      {
+        "name": "Mandla Gaduka",
+        "character": "Fundiswa Mhlanga",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h0UZnFbBxeaF4ocH1xuHCGrtQzA.jpg"
+      },
+      {
+        "name": "Johan van Schoor",
+        "character": "Nicolas van de Merwe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mxJMWbMSEp99H91tgYi1v1Lfqet.jpg"
+      },
+      {
+        "name": "Stella Steenkamp",
+        "character": "Phyllis Sinderson - MNU Alien Relations",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xgUqBEXb8v2sqCo2L9I5Stlr3hi.jpg"
+      },
+      {
+        "name": "Mampho Brescia",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e8HjH0CReDvJnWUqGW1sRJc47uk.jpg"
+      },
+      {
+        "name": "Morne Erasmus",
+        "character": "MNU Medic",
+        "profile_path": ""
+      },
+      {
+        "name": "Hlengiwe Madlala",
+        "character": "Sangoma",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AoT5OJse6vb0nfAgAd1pIiawq3R.jpg"
+      },
+      {
+        "name": "Siyabonga Radebe",
+        "character": "Obesandjo's Lieutenant",
+        "profile_path": ""
+      },
+      {
+        "name": "Alan Glauber",
+        "character": "MNU Operating Room Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4xSkhAaOL4eoyg9w9JbdM0gEU1V.jpg"
+      },
+      {
+        "name": "Nicolas Herbstein",
+        "character": "MNU Biolab Technician",
+        "profile_path": ""
+      },
+      {
+        "name": "Sibulele Gcilitshana",
+        "character": "Ü Günters Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bVRyvYIUS2CyTv8RSMaaMXTACGe.jpg"
+      },
+      {
+        "name": "Mahendra Raghunath",
+        "character": "SABC Anchor Person",
+        "profile_path": ""
+      },
+      {
+        "name": "Phillip Mathebula",
+        "character": "Meat Stall Seller",
+        "profile_path": ""
+      },
+      {
+        "name": "Claudine Bennent",
+        "character": "MNU Office Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Michelle Ayden",
+        "character": "MNU Office Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fWfmS1DcvVx0AXcRus49YJO7es5.jpg"
+      },
+      {
+        "name": "Antony Sarak",
+        "character": "MNU Office Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Billy Somagaca",
+        "character": "MNU Office Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryan Whittal",
+        "character": "MNU Office Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "John Jacob",
+        "character": "MNU Office Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xRox9zu1Ax2S1sop9mMNjN8T8Rq.jpg"
+      },
+      {
+        "name": "Yashik Maharaj",
+        "character": "MNU Office Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Fernando Saraiva",
+        "character": "MNU Office Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Sharon Waugh",
+        "character": "MNU Office Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Theunis Nel",
+        "character": "MNU Mercenary",
+        "profile_path": ""
+      },
+      {
+        "name": "Sonni Chidiebere",
+        "character": "MNU Mercenary",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Datnow",
+        "character": "MNU Mercenary",
+        "profile_path": ""
+      },
+      {
+        "name": "Wisani Mbokota",
+        "character": "MNU Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Craig Jackson",
+        "character": "MNU Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7nszwhXtLsEG52LD32mxWMwGbtL.jpg"
+      },
+      {
+        "name": "Justin Duplessis",
+        "character": "MNU Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Rodney Downey",
+        "character": "MNU Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Den Antonakas",
+        "character": "MNU Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Mashabela Galane",
+        "character": "Nigerian Gangster",
+        "profile_path": ""
+      },
+      {
+        "name": "Mfazwe Sekobane",
+        "character": "Nigerian Gangster",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicholas Ratlou",
+        "character": "Nigerian Gangster",
+        "profile_path": ""
+      },
+      {
+        "name": "Saint Gregory Nwokedi",
+        "character": "Nigerian Gangster",
+        "profile_path": ""
+      },
+      {
+        "name": "Donalson Rabisi",
+        "character": "Nigerian Gangster",
+        "profile_path": ""
+      },
+      {
+        "name": "Zephania Sibanda",
+        "character": "Nigerian Gangster",
+        "profile_path": ""
+      },
+      {
+        "name": "Gideon Thodane",
+        "character": "Nigerian Gangster",
+        "profile_path": ""
+      },
+      {
+        "name": "Mdu Mthabela",
+        "character": "Nigerian Gangster",
+        "profile_path": ""
+      },
+      {
+        "name": "David Mikhethi",
+        "character": "Nigerian Gangster",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeffries Simelane",
+        "character": "Nigerian Gangster",
+        "profile_path": ""
+      },
+      {
+        "name": "Shafique Allan",
+        "character": "Nigerian Gangster",
+        "profile_path": ""
+      },
+      {
+        "name": "Wendy Mbatha",
+        "character": "Nigerian Hooker",
+        "profile_path": ""
+      },
+      {
+        "name": "Leigh Mashupye",
+        "character": "Nigerian Hooker",
+        "profile_path": ""
+      },
+      {
+        "name": "Beauty Setai",
+        "character": "Nigerian Hooker",
+        "profile_path": ""
+      },
+      {
+        "name": "Nkiyase Mondlana",
+        "character": "Nigerian Hooker",
+        "profile_path": ""
+      },
+      {
+        "name": "Kuda Rusike",
+        "character": "Soweto Resident",
+        "profile_path": ""
+      },
+      {
+        "name": "Morena Setatsa",
+        "character": "Soweto Resident",
+        "profile_path": ""
+      },
+      {
+        "name": "Mpho Molao",
+        "character": "Soweto Resident",
+        "profile_path": ""
+      },
+      {
+        "name": "Ntombi Nkuua",
+        "character": "Soweto Resident",
+        "profile_path": ""
+      },
+      {
+        "name": "Absalom Dikane",
+        "character": "Soweto Resident",
+        "profile_path": ""
+      },
+      {
+        "name": "Monthandazo Thomo",
+        "character": "Soweto Resident",
+        "profile_path": ""
+      },
+      {
+        "name": "Norman Thabalala",
+        "character": "Soweto Resident",
+        "profile_path": ""
+      },
+      {
+        "name": "Siphiwe Mbuko",
+        "character": "Soweto Resident",
+        "profile_path": ""
+      },
+      {
+        "name": "Shiela Nene",
+        "character": "Soweto Resident",
+        "profile_path": ""
+      },
+      {
+        "name": "Neill Blomkamp",
+        "character": "Man with Wikus' Coordinates (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yj40QEEfjbRFnlwY0XunocNKdAe.jpg"
+      },
+      {
+        "name": "Trevor Coppola",
+        "character": "MNU Mercenary (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kCi4CFwnCv6pQSfCRYKXFqBUpzb.jpg"
+      },
+      {
+        "name": "Kenneth Nkosi",
+        "character": "Thomas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xrpoWGq0SB8gsUf3sifnpHAj94g.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Neill Blomkamp",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yj40QEEfjbRFnlwY0XunocNKdAe.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "street gang",
+    "government",
+    "genetics",
+    "slum",
+    "mutation",
+    "dystopia",
+    "transformation",
+    "south africa",
+    "johannesburg south africa",
+    "satire",
+    "mockumentary",
+    "alien",
+    "prawn",
+    "alternate history",
+    "racism",
+    "metamorphosis",
+    "xenophobia",
+    "internment camp",
+    "alien technology",
+    "segregation",
+    "private military company",
+    "based on short film"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Violence ensues after an extraterrestrial race forced to live in slum-like conditions on Earth finds a kindred spirit in a government agent exposed to their biotechnology.",
+    "In 1982, a massive star ship bearing a bedraggled alien population, nicknamed \"The Prawns,\" appeared over Johannesburg, South Africa. Twenty-eight years later, the initial welcome by the human population has faded. The refugee camp where the aliens were located has deteriorated into a militarized ghetto called District 9, where they are confined and exploited in squalor. In 2010, the munitions corporation, Multi-National United, is contracted to forcibly evict the population with operative Wikus van der Merwe in charge. In this operation, Wikus is exposed to a strange alien chemical and must rely on the help of his only two new 'Prawn' friends.—Kenneth Chisholm (kchishol@rogers.com)"
+  ],
+  "synopsis": "The film opens with a documentary-style series of interviews that introduce the story: twenty years prior, an alien ship arrives above Johannesburg, South Africa. It hovers above the city for three months without any contact; eventually humans take the initiative and cut into the ship. They discover a large group of aliens who are malnourished and sick. The aliens are later assessed as being \"workers\", with their leadership mysteriously missing (it is hypothesized that a plague may have wiped out all of the leadership-caste). Grainy footage shows part of the ship (supposedly a command module) falling to Earth, but nobody has been able to find it, leaving the ship still hovering but inoperable.The creatures are given permission to leave their craft and live on Earth but are housed in a squalid government camp consisting mostly of dilapidated one to two room shacks. The alien race's true name is never learned; they are primarily referred to as \"prawns\", a derogatory term referring to the bottom-feeding sea creature they resemble or, more rarely, \"non-humans\". Overcrowding and militarization eventually turn the area into a slum known as District 9. A massive black market is set up between the aliens and a group of Nigerians primarily led by Mumbo, a paraplegic warlord. In addition to inter-species prostitution, the Nigerians exchange canned cat food for alien weapons, of which the cat food has an effect similar to catnip on the aliens.The present story takes place in 2010. Patience over the alien situation among the human population of Johannesburg has run out and control over them has been contracted to Multi-National United (MNU), a private company that shows little regard for the aliens' welfare. MNU's actual agenda is their interest in the aliens' advanced weaponry, but its integration with alien biology makes it useless to humans.An MNU field operative named Wikus van der Merwe (Sharlto Copley) is tasked with moving 1.8 million aliens to a new camp, District 10, located 240 km from Johannesburg, with help from private security forces working for MNU. MNU teams serving warrants for the relocation of the aliens find caches of contraband items, including weapons, in many alien shacks. Wikus himself oversees several inspections and is assisted by Koobus Venter, a belligerent MNU military operative whose tactics with the aliens are ruthless and cruel. In another shack, not far away, an alien named Christopher distills a mysterious black substance that has taken him 20 years to find the components for and stores it in a small black cylinder. While serving and eviction notice to Christopher, and searching his shack, Wikus finds the cylinder which squirts its contents into his face. He becomes almost instantly nauseous and collects the device as evidence.Wikus returns to his office and grows increasingly ill throughout the day, the side-effects of the black fluid becoming more prominent. He returns home that evening and collapses at a surprise party in his house. He is rushed to a hospital where a doctor discovers his left arm has metamorphosed into that of a prawn's. Wikus is then taken into custody by MNU, the cylinder is confiscated, and a series of tests and experiments are performed on him. Most surprising to those studying him, is that his DNA has been altered to the point, that he can operate the alien's weapons with both his alien hand, and human hand. The scientists discover that his DNA is currently \"in balance\" with the alien DNA, which is gradually transforming him completely into a prawn. With the permission of Wikus' ruthless father-in-law, they decide to harvest his body for biological material at this critical point, to see if they can figure out how to get the same reaction in other human subjects later on.However, during the attempted vivisection, Wikus overpowers his captors and escapes, fleeing from MNU. Attempting to return home, he finds MNU agents already there. Making his way across the city, he is shocked when an all-points bulletin is put out for his capture, with doctored footage showing him having \"interacted\" with the aliens in an unsavory way. With nowhere else to turn to, Wikus finds refuge in District 9.Wikus returns to Christopher's run-down shack where he finds the alien's small son. It is hinted that Christopher might be a surviving member of the prawn leadership caste, as he shows much more knowledge of how alien technology works, possesses or at least found the command module, and interacts with MNU officials more articulately than other aliens.Looking around inside, it, Wikus is shocked to find that hidden under the shack, is the mother ship's command module. Christopher explains to Wikus that the cylinder he took, was the power source that could power the module to return to the ship...where the prawn explains there would be technology to reverse the man's current mutation!In order to get the cylinder back from MNU, Wikus steals some alien weaponry from Mumbo and his gang, with Mumbo vowing to capture Wikus and eat his mutated arm (his witch doctor believes this will give him the power to operate the alien weaponry). With Christopher's help they launch an assault on MNU and successfully retrieve the fuel cylinder. While there, Christopher discovers that MNU has been conducting horrific experiments on his people, before he and Wikus fight their way back to District 9.However, after seeing what the humans are doing to his race, Christopher's priorities have changed, with him claiming that Wikus' cure will take three years, while he (Christopher) attempts to find a way to seek help for the other Prawns in Johannesburg. Furious, Wikus knocks Christopher unconscious and powers up the ship himself. The MNU mercenaries target Wikus and destroy one of the command module's engines, causing it to crash land inside District 9.After Wikus is captured by MNU, a battle between the MNU mercenaries and Mumbo's gang breaks out. After a protracted firefight, the Nigerians capture Wikus. Just before Wikus' arm is chopped off, Christopher's son (using the command module controls) activates several systems in the mothership, including the autopilot routine of a mechanized battle suit; it slaughters Mumbo and his men after they fire on it. Wikus enters the alien walker battle suit, and after initially attempting to flee, returns and rescues Christopher. Armed with a lightning cannon, tracking missiles, and a high-powered machine gun, Wikus begins to fight the MNU men. After being knocked over by an anti-tank sniper round, he convinces Christopher to return to the shuttle without him, over Christopher's objections. Christopher promises Wikus that he will return in three years to repair his body. Christopher then boards the shuttle and activates a tractor beam which returns the command module to the mother ship. The mother ship powers up with a loud, rolling boom and flies off. On TV, humans cheer as the ship leaves Earth.Wikus' battle suit is hit in the back and the suit ejects him. Wikus, heavily wounded, begins dragging himself away from Koobus Venter, the sole survivor of an MNU squad, but is quickly caught. As he prepares to shoot Wikus, other prawns appear, attacking and dismembering Venter.The film concludes with another series of interviews and news broadcasts, providing human opinions on the events that unfolded. The aliens are successfully moved to District 10, which now has a population of 2.5 million and is growing. One of Wikus' coworkers hacks MNU's database and publicly exposes their illegal genetic experiments. There are many differing theories on Wikus' fate. Some people believe that he either left on the mother ship, is in hiding, was captured by MNU or a government agency. Some interviewees hypothesize that the aliens are planning to return with a full army and declare war on humanity. An interview with Wikus' wife reveals a small metal rose was left on her doorstep (Wikus has earlier demonstrated his affection for his wife with similar handmade gifts). Her friends have told her that it could not have possibly been Wikus, but she appears unsure.In the final scene, an alien with a bandaged left arm is shown in a junk yard, fashioning a rose out of scrap metal.",
+  "imdb_score": 7.9
+}

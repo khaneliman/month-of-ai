@@ -1,0 +1,586 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/nrDDTgU0tAHVlwCQ02cUWlPGtiQ.jpg",
+  "id": 1538,
+  "title": "Collateral",
+  "poster_path": "https://image.tmdb.org/t/p/w500/iOpi3ut5DhQIbrVVjlnmfy2U7dI.jpg",
+  "release_date": "2004-08-04",
+  "vote_average": 7.215,
+  "vote_count": 5255,
+  "popularity": 29.058,
+  "overview": "Cab driver Max picks up a man who offers him $600 to drive him around. But the promise of easy money sours when Max realizes his fare is an assassin.",
+  "imdb_id": "tt0369339",
+  "budget": 65000000,
+  "homepage": "",
+  "revenue": 220239925,
+  "runtime": 120,
+  "tagline": "It started like any other night.",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Paramount",
+    "Parkes/MacDonald Productions",
+    "Edge City",
+    "DreamWorks Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Cruise",
+        "character": "Vincent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eOh4ubpOm2Igdg0QH2ghj0mFtC.jpg"
+      },
+      {
+        "name": "Jamie Foxx",
+        "character": "Max Durocher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hPwCMEq6jLAidsXAX5BfoYgIfg2.jpg"
+      },
+      {
+        "name": "Jada Pinkett Smith",
+        "character": "Annie Farrell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yEcuU0hsbrw7wBUjNlWkKHitVCp.jpg"
+      },
+      {
+        "name": "Mark Ruffalo",
+        "character": "Det. Ray Fanning",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+      },
+      {
+        "name": "Peter Berg",
+        "character": "Richard Weidner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1pR16H0zqRG49ns8cYykYpodgGF.jpg"
+      },
+      {
+        "name": "Javier Bardem",
+        "character": "Felix Reyes-Torrena",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eCBiiPvBfIY7exDQwH0vEM6Bf3c.jpg"
+      },
+      {
+        "name": "Bruce McGill",
+        "character": "Frank Pedrosa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9zF43TgWiO3AlKC4I48S7ZK09lK.jpg"
+      },
+      {
+        "name": "Klea Scott",
+        "character": "Zee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/HdChlo9bawU9MgKHC11YNOSNAj.jpg"
+      },
+      {
+        "name": "Barry Shabaka Henley",
+        "character": "Daniel Baker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q0hI6T9OlmdUYdjYRX8K3pdRnYH.jpg"
+      },
+      {
+        "name": "Irma P. Hall",
+        "character": "Ida Durocher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kKLDJvpAE1uKLeTw5jUmBwPgqOd.jpg"
+      },
+      {
+        "name": "Richard T. Jones",
+        "character": "Traffic Cop #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hdko2C45Wr5G03Z8JwGjWMynP84.jpg"
+      },
+      {
+        "name": "Jamie McBride",
+        "character": "Traffic Cop #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zIyDtW2bKZVzr4S0R94MAQg2aHs.jpg"
+      },
+      {
+        "name": "Troy Blendell",
+        "character": "Morgue Attendant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x63p8KjNN3jns9LonNCWqRnOLvi.jpg"
+      },
+      {
+        "name": "Emilio Rivera",
+        "character": "Paco",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pHgPJSoZVgmt4FQ8zyMVqwovpRb.jpg"
+      },
+      {
+        "name": "Bodhi Elfman",
+        "character": "Young Professional Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jQSJxARZYfznOKIDvBdYhXeFMvP.jpg"
+      },
+      {
+        "name": "Debi Mazar",
+        "character": "Young Professional Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cU3LhqOjXzOqpGCSDFj5otlZreu.jpg"
+      },
+      {
+        "name": "Ken Waters",
+        "character": "FBI Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlie E. Schmidt",
+        "character": "FBI Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/77RbGl4toZI2JhLv9DZv4NjcZN5.jpg"
+      },
+      {
+        "name": "Michael Bentt",
+        "character": "Fever Bouncer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ian Hannin",
+        "character": "Cell Phone Partier",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Deamer",
+        "character": "Sergeant",
+        "profile_path": ""
+      },
+      {
+        "name": "David Mersault",
+        "character": "Crime Scene Cop",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Ochoa",
+        "character": "Crime Scene Cop",
+        "profile_path": ""
+      },
+      {
+        "name": "Omar Orozco",
+        "character": "El Rodeo Doorman",
+        "profile_path": ""
+      },
+      {
+        "name": "Cosme Urquiola",
+        "character": "El Rodeo Doorman",
+        "profile_path": ""
+      },
+      {
+        "name": "Edgar Sánchez",
+        "character": "El Rodeo Doorman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mjHdN5i9raxsBFJJrSsGdjqEcCo.jpg"
+      },
+      {
+        "name": "Angelo Tiffe",
+        "character": "Sylvester Clarke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lPHzW9gqNUzSbcm6P3gXxfISLIk.jpg"
+      },
+      {
+        "name": "Thomas Rosales Jr.",
+        "character": "Ramon Ayala",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tlJzLctGc6UmB7JQrkFcdMEuRx3.jpg"
+      },
+      {
+        "name": "Inmo Yuon",
+        "character": "Peter Lim",
+        "profile_path": ""
+      },
+      {
+        "name": "Wade Williams",
+        "character": "Fed #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hXb5ZzrjLnu9dcYaW1kAy9i5Luw.jpg"
+      },
+      {
+        "name": "Paul Adelstein",
+        "character": "Fed #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9qkGnEWPzGayZg9gaB4xbP8UL4g.jpg"
+      },
+      {
+        "name": "Jessica Ferrarone",
+        "character": "Female Criminalist",
+        "profile_path": ""
+      },
+      {
+        "name": "Howard Bachrach",
+        "character": "Pissed Off Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Chic Daniel",
+        "character": "Plainclothes Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mLf3j2ner6ZJKpmrbZxway8uR7u.jpg"
+      },
+      {
+        "name": "Corinne Chooey",
+        "character": "Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fVKwp6LQrY2uOFtD011Qg6xivWE.jpg"
+      },
+      {
+        "name": "JoNell Kennedy",
+        "character": "Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x4cz9yoidhypVcxJQXau7PFAj2L.jpg"
+      },
+      {
+        "name": "Steven Kozlowski",
+        "character": "White Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Roger Stoneburner",
+        "character": "White Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nF4Q7YBFoT51vWnkdBW6SuDSABj.jpg"
+      },
+      {
+        "name": "Rodney Sandberg",
+        "character": "White Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "George Petrina",
+        "character": "White Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Donald Dean",
+        "character": "Jazz Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Elliott Newman",
+        "character": "Jazz Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Trevor Ware",
+        "character": "Jazz Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Bobby English",
+        "character": "Jazz Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Auggie Cavanagh",
+        "character": "Jazz Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Ronald Muldrow",
+        "character": "Jazz Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter McKernan",
+        "character": "Police Helicopter Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y9TwHiOhGphwiedYtgW97AxCUtk.jpg"
+      },
+      {
+        "name": "Ivor Shier",
+        "character": "News Helicopter Pilot",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Luján",
+        "character": "Rubio #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4T7nSAqO1AKiA5lQw8u7nw7BQcA.jpg"
+      },
+      {
+        "name": "Eddie Diaz",
+        "character": "Rubio #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m2cC1ui0ellOoyALERuaHM66Rtq.jpg"
+      },
+      {
+        "name": "Joey Burns",
+        "character": "El Rodeo Band Member",
+        "profile_path": ""
+      },
+      {
+        "name": "John Convertino",
+        "character": "El Rodeo Band Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Josh Cruze",
+        "character": "El Rodeo Band Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e0pQM4JUExvPKWY8l65ryc9dc9P.jpg"
+      },
+      {
+        "name": "Martin Flores",
+        "character": "El Rodeo Band Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Rick Garcia",
+        "character": "El Rodeo Band Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry G. Goldman",
+        "character": "El Rodeo Band Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Maurilio Pineda",
+        "character": "El Rodeo Band Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Sistos",
+        "character": "El Rodeo Band Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacob Valenzuela",
+        "character": "El Rodeo Band Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Luis Villegas",
+        "character": "El Rodeo Band Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Yussi Wenger",
+        "character": "El Rodeo Band Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Statham",
+        "character": "Man in Airport",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lldeQ91GwIVff43JBrpdbAAeYWj.jpg"
+      },
+      {
+        "name": "Ismeal Vidrio",
+        "character": "Gas Station Attendant",
+        "profile_path": ""
+      },
+      {
+        "name": "Ron Eckert",
+        "character": "Hotel Security Desk Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Manuel Urrego",
+        "character": "Direction Asking Businessman",
+        "profile_path": ""
+      },
+      {
+        "name": "Jessie Bernard",
+        "character": "Nurse",
+        "profile_path": ""
+      },
+      {
+        "name": "Luis Moncada",
+        "character": "Cold Eyed Killer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t3H7bTAu3lYKvHAEYtevOd91kzx.jpg"
+      },
+      {
+        "name": "Dyna Teal",
+        "character": "Sylvester Clarke Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Sandi Schroeder",
+        "character": "Sylvester Clarke Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zFSNa5ceqEMmKMVU54SGNcuxvb2.jpg"
+      },
+      {
+        "name": "Michael-John Wolfe",
+        "character": "Hotel Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tUGr4FYqrZJFn8HnTPqYG80KIGt.jpg"
+      },
+      {
+        "name": "Addie Yungmee",
+        "character": "Fever Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aW3ylr7AWC9aKBqJzfDk6CREl1y.jpg"
+      },
+      {
+        "name": "J.D. McElroy",
+        "character": "Fever Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Megan Hiratzka",
+        "character": "Fever Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kate Gopacco",
+        "character": "Young Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Christy Yi",
+        "character": "Young Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Marie Basada",
+        "character": "Young Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Wilson Wong",
+        "character": "Tactical Sergeant",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Stainbrook",
+        "character": "Tactical",
+        "profile_path": ""
+      },
+      {
+        "name": "Brandon Molale",
+        "character": "Limo Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vdmlsB7caZMJs57RT38oJa5s0U.jpg"
+      },
+      {
+        "name": "Marianne M. Arreaga",
+        "character": "Police Helicopter Co-Pilot",
+        "profile_path": ""
+      },
+      {
+        "name": "Spike Silver",
+        "character": "Police Helicopter Co-Pilot",
+        "profile_path": ""
+      },
+      {
+        "name": "Ben Mihm",
+        "character": "News Helicopter Co-Pilot",
+        "profile_path": ""
+      },
+      {
+        "name": "Niles Roth",
+        "character": "Helicopter Pilot",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Waxman",
+        "character": "Lenny the Dispatcher (voice) (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Linda Asuma",
+        "character": "Richard Weidner's Wife (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3dni0s3ikAzWgYdo4VLVbVERq13.jpg"
+      },
+      {
+        "name": "Conor Dean Smith",
+        "character": "Tom (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gino Montesinos",
+        "character": "Rubio (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1LyJSfm95LRurMdnDPHZ4JmO332.jpg"
+      },
+      {
+        "name": "Paul Aulicino",
+        "character": "Police Dispatcher (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Andy Cheng",
+        "character": "Blonde Peter Lim Bodyguard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aO32rP2VY87vFBEComXmxWapmsK.jpg"
+      },
+      {
+        "name": "D-Teflon",
+        "character": "Peter Lim's Bodyguard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Del Toro",
+        "character": "Cold Eye Killer #3 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Dotson",
+        "character": "Bar Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Melissa Gomez",
+        "character": "Salsa Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jerald Garner",
+        "character": "Dancer at Club Fever (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Cameron Lee",
+        "character": "Club Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kYcUNhNHj6pKSqpGu4NJMuGcWKU.jpg"
+      },
+      {
+        "name": "Annabella Gutman",
+        "character": "Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Masami Okada",
+        "character": "Club Goer at Korean Club (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Sagastizado I",
+        "character": "Nightclub Staff (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Kubr",
+        "character": "Drug Man (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gary Rodriguez",
+        "character": "Precision Driver (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wa3UjmJ7lF6RgSP0vaP5qUBw54J.jpg"
+      },
+      {
+        "name": "Henry T. Yamada",
+        "character": "Korean Gangster (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tara Erickson",
+        "character": "Supporting (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uiyStgMsovXa18Wtqtbsle73hUl.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Michael Mann",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/syowcptZIOosLMwVWbXFOU8jVvd.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "taxi",
+    "police",
+    "hitman",
+    "hostage",
+    "self-fulfilling prophecy",
+    "taxi driver",
+    "fbi",
+    "nightclub",
+    "briefcase",
+    "sociopath",
+    "professional hit",
+    "one night",
+    "gun violence",
+    "lapd",
+    "contract killer",
+    "neo-noir",
+    "cabbie",
+    "federal prosecutor",
+    "taxi ride",
+    "suspense thriller",
+    "los angeles airport (lax)"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A cab driver finds himself the hostage of an engaging contract killer as he makes his rounds from hit to hit during one night in Los Angeles.",
+    "This action thriller follows LA cabbie Max Durocher, the type of person who can wax poetic about other people's lives, which impresses U.S. Justice Department prosecutor Annie Farrell, one of his fares, so much that she gives him her telephone number at the end of her ride. Although a dedicated man as seen through the efficiency in which he does his work, he can't or won't translate that eloquence into a better life for himself. He deludes himself into believing that his now twelve year cabbie job is temporary and that someday he will own his own limousine service. He even lies to his hospitalized mother that he already owns one, with a further lie that he tells her as such primarily to make her happy, rather than the truth which is that he won't do anything to achieve that dream. One night, Max picks up a well dressed man named Vincent, who asks Max to be his only fare for the evening. For a flat fee of $600, plus an extra $100 if he gets to the airport on time - Vincent wants Max to drive him to five stops that evening. Max somewhat reluctantly agrees. Max learns the hard way at their first stop when a body falls from a third story apartment window and lands dead on top of his cab that Vincent is a contract hit man. Vincent's main goal, as per his current contract, is to kill five people, one at each of the stops, but he will not let others get in the way of that goal, even if it means killing them, including Max. As Vincent forces Max to continue driving him for the evening, Max tries slyly at every turn to take back control of his life from Vincent, especially when Max learns of one of the names on Vincent's hit list. Meanwhile, LAPD narcotics detective, Ray Fanning, and ultimately the FBI get involved when Vincent's first victim is associated with a case in which Ray is working undercover. Ray is able to piece together information which makes him hot on Max and Vincent's tail.—Huggo",
+    "Los Angeles cab driver Max Durocher lives an incredibly mundane life. He drives a cab day in and day out - and has for the last twelve years. His only escape from reality is a photo of a tropical island and the fact that he wants to start his own limo company. All that changes when a government investigative attorney named Annie Ferrell gets in his cab from the airport. Max is seemingly unaware of the case that Annie is involved in is about to have dire consequences for his very life. Immediately after dropping Annie off downtown, he picks up a fare who's known only by his first name - Vincent. Vincent offers Max a deal he can't refuse - $700 for making five stops, then getting him to the airport without making a run for it. But at the first stop, a body drops from the sky and Max soon realizes that Vincent is someone he's probably better off not knowing. Vincent is a calculating assassin hired by the very people being prosecuted by Annie - who's out to wipe out all the witnesses in the federal prosecution trial. Will Max make it out alive and live to tell the tale? Or will Vincent require more trunk space in the cab?—halo1k",
+    "Navigating through bustling Los Angeles' crammed streets for twelve hard years, the observant cab driver, Max, receives the first customer for the night: the formidable U.S. prosecutor, Annie Farrell. As one thing leads to another, and the total strangers start sharing things, Max picks up his second passenger after dropping Annie off at the city centre: the steely man of determination, Vincent, who offers Max a hefty $600 payment to hire him for the rest of his shift. Now, unbeknownst to them, Max and Annie's lives become inextricably intertwined with Vincent's, as his sinister schemes and his detailed list of appointments take them to various places in L.A. Now, five names, five locations, and a dead body in the trunk determine Max's fate. Who shall live and who shall die in this long and deadly passage into hell?—Nick Riganas",
+    "After a long day, LA taxi driver Max is about to knock off when sharp-suited Vincent offers him $600 to make five stops. Sounds good until Vincent turns out to be a merciless hit-man and each one of those stops involves a hit. As the night goes on, Max starts to wonder if he'll live to see the sunrise, as the pair are hunted by the police and the FBI.—Nick Maston"
+  ],
+  "synopsis": "Max is a cab driver in Los Angeles. One night he picks up Annie, a beautiful district attorney. The two have very friendly chat where Annie talks about her nervousness over her upcoming trial appearance and Max discusses his dream business, a limo company. When she suggests Max take a specific route to her office building downtown, Max suggests an alternate route. Annie insists on her first route and Max agrees but later is proven right. At the end of the ride Annie gives Max her card. Max tells Annie that he takes a vacation once a day: he has a picture of a tropical beach attached to his sun visor and stares at it every few hours to relax. Annie thanks him for the pep talk and leaves the cab and goes inside her building to work on her important case.A man approaches the cab, and Max almost doesn't notice him, but he gets the man in anyway. The man introduces himself as Vincent. He's very friendly and offers Max $600 to drive him around for the entire night. Max reluctantly agrees, knowing his supervisor disapproves of his drivers taking on single fares for an entire night. As the two chat, Vincent says that he hates Los Angeles because it is impersonal. He recalls a news story about a man who died on the subway but remained on the train for hours without anyone noticing. Max tells Vincent about his dream of opening a limo company, describing his job as a cab driver as temporary. Vincent asks how long he has been doing it, and Max confesses that his \"temporary\" job has lasted 12 years.Vincent has Max drive him to an apartment building and park in a side alley, mostly out of sight. Vincent goes upstairs as Max eats a sandwich. Suddenly, a dead body falls on the roof and windshield of Max's cab, breaking the glass, the light dome on top and putting a large dent in the roof. Vincent comes downstairs and reveals that he shot the man. He forces Max at gunpoint to help him hide the body in the cab's trunk. They wash the blood off the car and repair the light dome with duct tape. Max begs Vincent to let him go, but Vincent insists that he go with him. They are later pulled over by the LAPD, who notice the damage to Max's cab. Max is able to stall them for a few minutes by saying he hit a deer; the police are called away to handle another incident. Not long after, Max receives a call from his boss, who had received a call from the police informing him of the damage. Vincent instructs Max to tell his boss off and poses as an attorney, telling Max's boss that insurance will pay for the damage. He also tells Max to insult his boss, which Max reluctantly does.As the evening continues, Vincent has Max deliver him to more places where Vincent kills people. He has to kill five people by the end of the night. Meanwhile, a detective named Fanning is chasing the two, slowly figuring out what is going on. He pieces together several clues involving the people Vincent has killed, determining that the killer has used the same method to shoot them all; two shots in the chest and one in the skull. All the victims are know associates of a drug-dealing criminal set to go to trial in a few days. Fanning takes on the case.Despite the circumstances, Vincent seems to take a liking to Max, who doesn't return the favor. They later visit Max's mother in the hospital; Vincent wants Max's evening's work to appear as normal as possible to avoid suspicion. Max manages to slip away from Vincent with Vincent's bag, containing his laptop and the identity records of his targets. Max runs over a pedestrian bridge over an expressway and tosses the laptop over the fence where it's run over by a truck. Vincent responds by forcing Max to go to the man, who ordered these hits, a drug dealing gangster, Felix, and retrieve duplicates of the information. Max pretends to be Vincent to the mob boss, and successfully gets the remaining info for the hits. By this time, Fanning has joined an FBI stakeout of Felix's club and identifies Max, whom he thinks is the killer, as a cabbie. Fanning joins the FBI in following the cab. Meanwhile, Felix, questioning his confidence in Vincent, also has him followed by his own men to insure that Vincent will complete the final two hits.Vincent and Max go to a busy night club to kill a heavily guarded target. The FBI, LAPD, and Fanning also show up; Fanning is looking specifically for Max to escort him to safety. A massive gunfight ensues where Vincent kills his target and saves Max's life. Detective Fanning finds Max and is leading him out when Vincent appears behind him and shoots the police officer.Max and Vincent escape the carnage and head for the third mark. By this time Max has reached his breaking point and deliberately wrecks his cab. Vincent crawls out and leaves him behind. A police officer approaches Max to help him but sees the bodies Vincent hid in the trunk. While on the ground, Max sees Vincent's new computer screen and realizes that Annie is the final target, which explains why Vincent was outside that particular building earlier; he was studying the building's security systems.Max overpowers the cop and takes his gun. He races to Annie's building and reaches her at the same time Vincent does. Max shoots Vincent and runs away with Annie. However, Vincent survives his injury and chases the two of them onto a subway train. Vincent and Max fire their guns at one another, with Vincent sustaining mortal wounds. Vincent asks Max if he thinks anyone will notice his body. He dies in a sitting position as Max and Annie leave the train.",
+  "imdb_score": 7.5
+}

@@ -1,0 +1,400 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
+  "id": 19995,
+  "title": "Avatar",
+  "poster_path": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+  "release_date": "2009-12-15",
+  "vote_average": 7.578,
+  "vote_count": 30418,
+  "popularity": 120.695,
+  "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+  "imdb_id": "tt0499549",
+  "budget": 237000000,
+  "homepage": "https://www.avatar.com/movies/avatar",
+  "revenue": 2923706026,
+  "runtime": 162,
+  "tagline": "Enter the world of Pandora.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Dune Entertainment",
+    "Lightstorm Entertainment",
+    "20th Century Fox",
+    "Ingenious Media"
+  ],
+  "production_countries": [
+    "US",
+    "GB"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Sam Worthington",
+        "character": "Jake Sully",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+      },
+      {
+        "name": "Zoe Saldaña",
+        "character": "Neytiri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+      },
+      {
+        "name": "Sigourney Weaver",
+        "character": "Dr. Grace Augustine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+      },
+      {
+        "name": "Stephen Lang",
+        "character": "Colonel Miles Quaritch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xEBuFWrCKDQD6r6CZK71GYIc4UW.jpg"
+      },
+      {
+        "name": "Michelle Rodriguez",
+        "character": "Trudy Chacon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xSvkVrLz6xas1mCeOR9i4QtmhnQ.jpg"
+      },
+      {
+        "name": "Giovanni Ribisi",
+        "character": "Parker Selfridge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Tqh4AMtqCqPljNe2agZD9ZeoFf.jpg"
+      },
+      {
+        "name": "Joel David Moore",
+        "character": "Norm Spellman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qrDWE1tBKZKKBrPgB8aWptt1EoB.jpg"
+      },
+      {
+        "name": "CCH Pounder",
+        "character": "Mo'at",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c0ey32ObHhJIQVQYqGejaxOS23x.jpg"
+      },
+      {
+        "name": "Wes Studi",
+        "character": "Eytukan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dAO2bY2NCceYLZiJaBjBdY19Hox.jpg"
+      },
+      {
+        "name": "Laz Alonso",
+        "character": "Tsu'Tey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nmgOd3X2Xn3jIp9OLCRJzLExRWN.jpg"
+      },
+      {
+        "name": "Dileep Rao",
+        "character": "Dr. Max Patel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jRNn8SZqFXuI5wOOlHwYsWh0hXs.jpg"
+      },
+      {
+        "name": "Matt Gerald",
+        "character": "Corporal Lyle Wainfleet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k5iEsYWb1Prho4IO2xGTFaIwKu1.jpg"
+      },
+      {
+        "name": "Sean Anthony Moran",
+        "character": "Private Fike",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9bsNN91o9iNVLK3W7js99kvg26L.jpg"
+      },
+      {
+        "name": "Jason Whyte",
+        "character": "Cryo Vault Med Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lCZ5Z3RJG6BxP05FPf7kCoQGZdI.jpg"
+      },
+      {
+        "name": "Scott Lawrence",
+        "character": "Venture Star Crew Chief",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8lwnmlHN6QPK75NwfufsIFZZhmB.jpg"
+      },
+      {
+        "name": "Kelly Kilgour",
+        "character": "Lock Up Trooper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hYjTULtIOYDaLRK7RIxMkRVgnUX.jpg"
+      },
+      {
+        "name": "James Patrick Pitt",
+        "character": "Shuttle Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xiL0EwEAqfburE9Bzmbepvk2KFz.jpg"
+      },
+      {
+        "name": "Sean Patrick Murphy",
+        "character": "Shuttle Co-Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uF5e8PxkWZjDnTvRsfN4NbjVd89.jpg"
+      },
+      {
+        "name": "Peter Dillon",
+        "character": "Shuttle Crew Chief",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e6C1bHTSEqzLrnpBFSfdATOkS4t.jpg"
+      },
+      {
+        "name": "Kevin Dorman",
+        "character": "Tractor Operator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jByqQyo6VsnbtXwKGidaadSBOPb.jpg"
+      },
+      {
+        "name": "Kelson Henderson",
+        "character": "Dragon Gunship Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rJ7NpeOhBgM5QsTzpCDNtjvH1cC.jpg"
+      },
+      {
+        "name": "David Van Horn",
+        "character": "Dragon Gunship Gunner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s7awwHEcRBVVl6h0yuExTD6ZkZi.jpg"
+      },
+      {
+        "name": "Jacob Tomuri",
+        "character": "Dragon Gunship Navigator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f0jPDz0beDrLsmXWAnfXZqwHqFO.jpg"
+      },
+      {
+        "name": "Michael Blain-Rozgay",
+        "character": "Suit #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lvGN9WdNXEht0O3w1HXxabKwYwi.jpg"
+      },
+      {
+        "name": "Jon Curry",
+        "character": "Suit #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wpmmEJQuJtvfiV6bJk7uIVfDsZY.jpg"
+      },
+      {
+        "name": "Julene Renee",
+        "character": "Ambient Room Tech / Troupe",
+        "profile_path": ""
+      },
+      {
+        "name": "Luke Hawker",
+        "character": "Ambient Room Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kKLXCalV2OOdtPYWXdGsv7waPXb.jpg"
+      },
+      {
+        "name": "Woody Schultz",
+        "character": "Ambient Room Tech / Troupe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iKR2ZQSAjmTQvbe7uVeT30AYm9n.jpg"
+      },
+      {
+        "name": "Peter Mensah",
+        "character": "Horse Clan Leader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t94TFc6f71AUmZFqdaQfjr7LTRp.jpg"
+      },
+      {
+        "name": "Sonia Yee",
+        "character": "Link Room Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hNKc1piMTWhc6xocYgI0XInMceY.jpg"
+      },
+      {
+        "name": "Jahnel Curfman",
+        "character": "Basketball Avatar / Troupe",
+        "profile_path": ""
+      },
+      {
+        "name": "Ilram Choi",
+        "character": "Basketball Avatar",
+        "profile_path": ""
+      },
+      {
+        "name": "Kyla Warren",
+        "character": "Na'vi Child",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e7gLkWagqln0SmiPRAPoNatjHQi.jpg"
+      },
+      {
+        "name": "Lisa Roumain",
+        "character": "Troupe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d2zC29HKEdcksHOAKKh8nJACLew.jpg"
+      },
+      {
+        "name": "Debra Wilson",
+        "character": "Troupe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3anRgUtqohXRNM6HtwGl1ZFgCS8.jpg"
+      },
+      {
+        "name": "Taylor Kibby",
+        "character": "Troupe",
+        "profile_path": ""
+      },
+      {
+        "name": "Jodie Landau",
+        "character": "Troupe",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Mala",
+        "character": "Troupe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cAyjOvwYu1eDpsaRF2klhD9buCE.jpg"
+      },
+      {
+        "name": "Julie Lamm",
+        "character": "Troupe",
+        "profile_path": ""
+      },
+      {
+        "name": "Cullen B. Madden",
+        "character": "Troupe",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Brady Madden",
+        "character": "Troupe",
+        "profile_path": ""
+      },
+      {
+        "name": "Frankie Torres",
+        "character": "Troupe",
+        "profile_path": ""
+      },
+      {
+        "name": "Austin Wilson",
+        "character": "Troupe",
+        "profile_path": ""
+      },
+      {
+        "name": "Sara Wilson",
+        "character": "Troupe",
+        "profile_path": ""
+      },
+      {
+        "name": "Tamica Washington-Miller",
+        "character": "Troupe",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucy Briant",
+        "character": "Op Center Staff",
+        "profile_path": ""
+      },
+      {
+        "name": "Nathan Meister",
+        "character": "Op Center Staff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z5drJ8g34CvCbuA76uOhipDjDZJ.jpg"
+      },
+      {
+        "name": "Gerry Blair",
+        "character": "Op Center Staff",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew Chamberlain",
+        "character": "Op Center Staff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uU7EgWP99f74bChfzcMxuHdBqFM.jpg"
+      },
+      {
+        "name": "Paul Yates",
+        "character": "Op Center Staff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8k3SHBgolDRnP08YECsxhG9NI6X.jpg"
+      },
+      {
+        "name": "Wray Wilson",
+        "character": "Op Center Duty Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "James Gaylyn",
+        "character": "Op Center Staff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yZAOLYunFLzjoBk6UEIsp8k9nhG.jpg"
+      },
+      {
+        "name": "Melvin Leno Clark III",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Carvon Futrell",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Brandon Jelkes",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Micah Moch",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pvnyutEl4oXSPUWpBxpI1eSuRlq.jpg"
+      },
+      {
+        "name": "Haniyyah Tahirah",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Nolen",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Christa Oliver",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "April Marie Thomas",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Bravita A. Threatt",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Alicia Vela-Bailey",
+        "character": "Ikran Clan Leader (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2isB8x0wahPz4sZ8QSX7Up4iDq9.jpg"
+      },
+      {
+        "name": "Larry Rew",
+        "character": "Crematorium Tech (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/npGdeQhDXtnjhxMmBigN99L2COL.jpg"
+      },
+      {
+        "name": "Dina Morrone",
+        "character": "TV Voice Over Announcer (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ckeDAxUeAf6sMSUFQHNsGEaCCcg.jpg"
+      },
+      {
+        "name": "Rodney Cook",
+        "character": "Trooper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dKVfrwyzprn9Sn2V3L1Pad2x7ax.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "James Cameron",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "future",
+    "society",
+    "culture clash",
+    "space travel",
+    "space war",
+    "space colony",
+    "tribe",
+    "romance",
+    "alien",
+    "futuristic",
+    "space",
+    "alien planet",
+    "marine",
+    "soldier",
+    "battle",
+    "love affair",
+    "nature",
+    "anti war",
+    "power relations"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "When his brother is killed in a robbery, paraplegic Marine Jake Sully decides to take his place in a mission on the distant world of Pandora. There he learns of greedy corporate figurehead Parker Selfridge's intentions of driving off the native humanoid \"Na'vi\" in order to mine for the precious material scattered throughout their rich woodland. In exchange for the spinal surgery that will fix his legs, Jake gathers knowledge, of the Indigenous Race and their Culture, for the cooperating military unit spearheaded by gung-ho Colonel Quaritch, while simultaneously attempting to infiltrate the Na'vi people with the use of an \"avatar\" identity. While Jake begins to bond with the native tribe and quickly falls in love with the beautiful alien Neytiri, the restless Colonel moves forward with his ruthless extermination tactics, forcing the soldier to take a stand - and fight back in an epic battle for the fate of Pandora.—The Massie Twins",
+    "On the lush alien world of Pandora live the Na'vi, beings who appear primitive but are highly evolved. Because the planet's environment is poisonous, human/Na'vi hybrids, called Avatars, must link to human minds to allow for free movement on Pandora. Jake Sully, a paralyzed former Marine, becomes mobile again through one such Avatar and falls in love with a Na'vi woman. As a bond with her grows, he is drawn into a battle for the survival of her world.—Jwelch5742",
+    "Earth, 2154. As part of the ambitious Avatar Program, a project created to explore the hostile environment of Earth-like exomoon Pandora, Jake Sully, a 22-year-old paraplegic Marine veteran, arrives on the mysterious planet. As Sully learns to control his advanced bio-engineered avatar to infiltrate the indigenous Omatikaya clan, a race of sapient humanoids dwelling in Pandora's lush jungles, he undertakes a dangerous mission: build bridges between humans and the blue-skinned, peace-loving Na'vi giants. Sinister forces, however, threaten the verdant extrasolar planet with ulterior motives. Now, torn between two worlds, the earthling in an alien body must pick sides. Can Sully win the natives' trust and help protect the virgin green haven?—Nick Riganas"
+  ],
+  "synopsis": "In 2154, humans have depleted Earth's natural resources, leading to a severe energy crisis. The Resources Development Administration (RDA) mines a valuable mineral Unobtanium on Pandora, a densely forested habitable moon orbiting Polyphemus, a fictional gas giant in the Alpha Centauri star system. Pandora, whose atmosphere is poisonous to humans, is inhabited by the Na'Vi, a species of 10-foot tall (3.0 m), blue-skinned, sapient humanoids that live in harmony with nature and worship a mother goddess named Eywa. It takes 6 years to get from Earth to Pandora in cryogenic sleep.To explore Pandora's biosphere, scientists use Na'Vi-human hybrids (grown from human + native DNA) called \"avatars\", operated by genetically matched humans. Jake Sully (Sam Worthington), a paraplegic former Marine, replaces his deceased identical twin brother as an operator of one. Jake was leading a purposeless life on Earth and was contacted by RDA when his brother died. his brother represented a significant investment by RDA, since the avatars are linked to the human DNA/genome. Since Jake is a twin, he has the same exact DNA as his brother and can take his place in the Avatar program.\nDr. Grace Augustine (Sigourney Weaver), head of the Avatar Program, considers Sully an inadequate replacement (as she considers Jake a mere Jarhead) but accepts his assignment as a bodyguard for excursions deep into Na'Vi territory.Tracy (Michelle Rodriguez) is the pilot assigned to Grace and her team of Na'Vis. While escorting the avatars of Grace and fellow scientist Dr. Norm Spellman (Joel David Moore), Jake's avatar is attacked by a Thanator (while they were visiting the school that Grace was operating to teach the Omaticaya. She also does test on tree roots and is developing a theory that all living things on the planet are somehow attached and connected to each other) and flees into the forest, where he is rescued by Neytiri (Zoe Saldana), a female Na'Vi. Witnessing an auspicious sign (Seeds of the sacred tree land on Jake, covering him. Something she later calls Eywa), she takes him to her clan. The Na'Vi respect all living things and Neytiri is angry because to save Jake she had to kill many native species. Neytiri's mother Mo'At (CCH Pounder), the clan's spiritual leader, orders her daughter to initiate Jake into their society.\nGrace and Tracy return to base camp, as they are not allowed to run night ops as per protocol. The Omaticaya (the Na'Vi clan has its HQ in the Hometree)Colonel Miles Quaritch (Stephen Lang), head of RDA's private security force, promises Jake that the company will restore his legs if he gathers information about the Na'Vi and the clan's gathering place, a giant tree called Hometree, which stands above the richest deposit of Unobtanium in the area. Jake has 3 months to convince the Na'Vi to move as that's when the bulldozers get to the tree. Jake learns that Neytiri and her sister Slywanin studied at Grace's school. Sylwanin is dead.\nWhen Grace learns of Jake's work for Miles (she sees him explaining the inner structure of the Hometree to Miles and Parker), she transfers herself, Jake, and Norm to an outpost. Over the following three months, Jake and Neytiri fall in love as Jake grows to sympathize with the natives. Neytiri also teaches Jake about Eywa, the network of energy that flows through all living things. Grace also reveals that one day the Omaticaya destroyed a bulldozer and hid inside her school. Miles's troopers attacked them and Sylwanin died. The Na'Vi never returned. They wanted Grace to protect the Na'Vi.After Jake is initiated into the tribe (he even captures a banshee/Ikran (a flying predator kind of creature), after Neytiri deems him ready to be a warrior. She even takes Jake to the tree of souls, their most sacred site), he and Neytiri choose each other as mates. Jake and Neytiri escape an attack from Toruk, the biggest banshee in the sky. Rider of the Toruk is called Toruk Macto.\nSoon afterward, Jake reveals his change of allegiance when he attempts to disable a bulldozer that threatens to destroy a sacred Na'Vi site. When Quaritch shows a video recording of Jake's attack on the bulldozer to Administrator Parker Selfridge (Giovanni Ribisi), and another in which Jake admits that the Na'Vi will never abandon Hometree, Selfridge orders Hometree destroyed (this was after the Omaticaya retaliated and destroyed the bulldozers and killed 6 humans in the process. Grace thinks the bulldozers were specifically sent to evoke a response and use that as an excuse for war)Despite Grace's argument that destroying Hometree could damage the biological neural network native to Pandora, Selfridge gives Jake and Grace one hour to convince the Na'Vi to evacuate before commencing the attack. Jake confesses to the Na'Vi that he was a spy, and they take him and Grace captive. Quaritch's men destroy Hometree, killing Neytiri's father (the clan chief) and many others. Mo'At frees Jake and Grace, but they are detached from their avatars and imprisoned by Quaritch's forces. Pilot Trudy Chacón, disgusted by Quaritch's brutality, frees Jake, Grace, and Norm, and airlifts them to Grace's outpost, but Grace is shot by Quaritch during the escape. Trudy takes the mobile station and hides it near the tree of souls where Miles cannot find it as the flux vortex scrambles all radars.To regain the Na'Vi's trust, Jake attacks and connects his mind to that of Toruk, a dragon-like predator feared and honored by the Na'Vi. Jake finds the refugees at the sacred Tree of Souls (the Omaticaya are forced to take him seriously due to the power and symbolism of the Toruk) and pleads with Mo'At to heal Grace. The clan attempts to transfer Grace from her human body into her avatar with the aid of the Tree of Souls, but she dies before the process can be completed. Supported by the new chief Tsu'Tey (Laz Alonso), Jake unites the clan and tells them to gather all of the clans to battle the RDA. Quaritch organizes a preemptive strike against the Tree of Souls, believing that its destruction will demoralize the natives. On the eve of battle, Jake prays to Eywa, via a neural connection with the Tree of Souls, to intercede on behalf of the Na'Vi.During the subsequent battle, the Na'Vi suffer heavy casualties, including Tsu'Tey and Trudy, but are rescued when Pandoran wildlife unexpectedly join the attack and overwhelm the humans, which Neytiri interprets as Eywa's answer to Jake's prayer. Jake destroys a makeshift bomber before it can reach the Tree of Souls; Quaritch, wearing an AMP suit, escapes from his own damaged aircraft and breaks open the avatar link unit containing Jake's human body, exposing it to Pandora's poisonous atmosphere. Quaritch prepares to slit the throat of Jake's avatar, but Neytiri kills Quaritch and saves Jake from suffocation, seeing his human form for the first time.With the exceptions of Jake, Norm and a select few others, all humans are expelled from Pandora and sent back to Earth. Jake is permanently transferred into his avatar with the aid of the Tree of Souls.",
+  "imdb_score": 7.9
+}

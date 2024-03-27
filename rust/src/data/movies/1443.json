@@ -1,0 +1,404 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/ojv61rqGQdet3uyc2cY3OmXxkHm.jpg",
+  "id": 1443,
+  "title": "The Virgin Suicides",
+  "poster_path": "https://image.tmdb.org/t/p/w500/1NCQtXPQnaHRjOZVmktA9BSM35F.jpg",
+  "release_date": "1999-12-31",
+  "vote_average": 7.1,
+  "vote_count": 2985,
+  "popularity": 28.687,
+  "overview": "A group of male friends become obsessed with five mysterious sisters who are sheltered by their strict, religious parents.",
+  "imdb_id": "tt0159097",
+  "budget": 6000000,
+  "homepage": "http://www.paramountvantage.com/virginsuicides/html_3/",
+  "revenue": 10409377,
+  "runtime": 97,
+  "tagline": "Beautiful, mysterious, haunting, invariably fatal. Just like life.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "American Zoetrope",
+    "Muse Productions",
+    "Eternity Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "James Woods",
+        "character": "Mr. Lisbon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tLH7mpH4KqkWL5VgjueTbewGsfK.jpg"
+      },
+      {
+        "name": "Kathleen Turner",
+        "character": "Mrs. Lisbon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2DN4MsALqscuUtLzwUuQ8CVV6tz.jpg"
+      },
+      {
+        "name": "Kirsten Dunst",
+        "character": "Lux Lisbon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sFYHUU1gWd57pttD8732tkBsXV5.jpg"
+      },
+      {
+        "name": "Josh Hartnett",
+        "character": "Trip Fontaine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dCfu2EN7FjISACcjilaJu7evwEc.jpg"
+      },
+      {
+        "name": "Michael Paré",
+        "character": "Adult Trip Fontaine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jxrXW8OL6hwJgtJgePdMO5yHuAM.jpg"
+      },
+      {
+        "name": "Scott Glenn",
+        "character": "Father Moody",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8DHORod2l6ZFS9KR0gNAAM3WZfI.jpg"
+      },
+      {
+        "name": "Danny DeVito",
+        "character": "Dr. Horniker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gNHF2SNXFFCRqwIQ2Xv6r6aV6UD.jpg"
+      },
+      {
+        "name": "A.J. Cook",
+        "character": "Mary Lisbon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tvEjGDQVuu7jiOvWXwEU6tEE7NW.jpg"
+      },
+      {
+        "name": "Hanna Hall",
+        "character": "Cecilia Lisbon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xkZ2Hwz1QLXvQCgGlWgVgx00Rtd.jpg"
+      },
+      {
+        "name": "Leslie Hayman",
+        "character": "Therese Lisbon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k7DjLtSRkmCLD4j8G0cUkGxe8N4.jpg"
+      },
+      {
+        "name": "Chelse Swain",
+        "character": "Bonnie Lisbon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/re5BZouOpGC1GrjQkym0TnPDxUm.jpg"
+      },
+      {
+        "name": "Anthony DeSimone",
+        "character": "Chase Buell",
+        "profile_path": ""
+      },
+      {
+        "name": "Lee Kagan",
+        "character": "David Barker",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Schwartzman",
+        "character": "Paul Baldino",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aA0kVZY28PHOmCfWfDALS4oYZ6u.jpg"
+      },
+      {
+        "name": "Noah \"40\" Shebib",
+        "character": "Parkie Denton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3VnO1QebrlJEyHUsYJwG2qBocs3.jpg"
+      },
+      {
+        "name": "Jonathan Tucker",
+        "character": "Tim Weiner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9rHZEb3Xfb8PkpVAQc5v8lz3PKh.jpg"
+      },
+      {
+        "name": "Joe Roncetti",
+        "character": "Kevin Head",
+        "profile_path": ""
+      },
+      {
+        "name": "Hayden Christensen",
+        "character": "Jake Hill Conley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/RuwAecNK9VDeTrfw6LUE4q4rIt.jpg"
+      },
+      {
+        "name": "Chris Hale",
+        "character": "Peter Sisten",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Dinicol",
+        "character": "Dominic Palazzolo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xI2JVyNnjjVveupCR89qqkoAkZM.jpg"
+      },
+      {
+        "name": "Suki Kaiser",
+        "character": "Lydia Perl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4aMOXt0uggTCvvqQIOZnPAVqNoq.jpg"
+      },
+      {
+        "name": "Dawn Greenhalgh",
+        "character": "Mrs. Scheer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/isOxFi3dluHUwHGx76mqshFEK7U.jpg"
+      },
+      {
+        "name": "Allen Stewart-Coates",
+        "character": "Mr. Scheer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/IBOnj0O6zx1YCtaVPl9XxofX7H.jpg"
+      },
+      {
+        "name": "Sherry Miller",
+        "character": "Mrs. Buell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8loCxWNAAF7m3C3kFAREKqO7mBc.jpg"
+      },
+      {
+        "name": "Jonathan Whittaker",
+        "character": "Mr. Buell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6OPjAhgCQvkQ2gLUqDp3frPHHAy.jpg"
+      },
+      {
+        "name": "Michèle Duquet",
+        "character": "Mrs. Denton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pZh47lOJ93xGk6UqoP7ZedWhXZ5.jpg"
+      },
+      {
+        "name": "Murray McRae",
+        "character": "Mr. Denton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rGxlJL4FiZLrQ7lFJNkrCMUZ56O.jpg"
+      },
+      {
+        "name": "Roberta Hanley",
+        "character": "Mrs. Weiner",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Sybersma",
+        "character": "Joe Larson",
+        "profile_path": ""
+      },
+      {
+        "name": "Susan Sybersma",
+        "character": "Mrs. Larson",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Snider",
+        "character": "Trip's Dad",
+        "profile_path": ""
+      },
+      {
+        "name": "Gary Brennan",
+        "character": "Donald",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ueuS2848ClzI67MDfMjrvZXtoiU.jpg"
+      },
+      {
+        "name": "Charles Boyland",
+        "character": "Curt Van Osdol",
+        "profile_path": ""
+      },
+      {
+        "name": "Dustin Ladd",
+        "character": "Chip Willard",
+        "profile_path": ""
+      },
+      {
+        "name": "Kristin Fairlie",
+        "character": "Amy Schraff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oihUbCLxPYcesc0gOwq9E0fOOmx.jpg"
+      },
+      {
+        "name": "Melody Johnson",
+        "character": "Julie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/86bRViOIKc7Uqdx7vWQvWR5pqS7.jpg"
+      },
+      {
+        "name": "Sheyla Molho",
+        "character": "Danielle",
+        "profile_path": ""
+      },
+      {
+        "name": "Ashley Ainsworth",
+        "character": "Sheila Davis",
+        "profile_path": ""
+      },
+      {
+        "name": "Courtney Hawkrigg",
+        "character": "Grace",
+        "profile_path": ""
+      },
+      {
+        "name": "François Klanfer",
+        "character": "Doctor",
+        "profile_path": ""
+      },
+      {
+        "name": "Mackenzie Lawrenz",
+        "character": "Jim Czeslawski",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Hall",
+        "character": "Kurt Siles",
+        "profile_path": ""
+      },
+      {
+        "name": "Amos Crawley",
+        "character": "John",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gYhZT8ZPVbACovG660z5NeBgdO6.jpg"
+      },
+      {
+        "name": "Andrew Gillies",
+        "character": "Principal Woodhouse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u2kf1FH3GsniNA5QwPOCx0xzfiT.jpg"
+      },
+      {
+        "name": "Mairlyn Smith",
+        "character": "Mrs. Woodhouse",
+        "profile_path": ""
+      },
+      {
+        "name": "Sally Cahill",
+        "character": "Mrs. Hedlie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k31FjvVt2YoaaWpAH30k0tM5x9Y.jpg"
+      },
+      {
+        "name": "Tracey Ferencz",
+        "character": "Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AtT473tMVoHqjlopPVLdNa1UVBQ.jpg"
+      },
+      {
+        "name": "Scot Denton",
+        "character": "Mr. O'Conner",
+        "profile_path": ""
+      },
+      {
+        "name": "Catherine Swing",
+        "character": "Mrs. O'Conner",
+        "profile_path": ""
+      },
+      {
+        "name": "Timothy Adams",
+        "character": "Buzz Romano",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fJgSUWCVxCgbyarN5DnTyx081a4.jpg"
+      },
+      {
+        "name": "Michael Michaelessi",
+        "character": "Parks Department Foreman",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah Minhas",
+        "character": "Wanda Brown",
+        "profile_path": ""
+      },
+      {
+        "name": "Megan Kennedy",
+        "character": "Cheerleader",
+        "profile_path": ""
+      },
+      {
+        "name": "Sandi Stahlbrand",
+        "character": "Meredith Thompson",
+        "profile_path": ""
+      },
+      {
+        "name": "Neil Girvan",
+        "character": "Drunk Man in Pool",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fOhrMtrfoaNHSQUFaehNMK1E4vE.jpg"
+      },
+      {
+        "name": "Jaya Karsemeyer",
+        "character": "Gloria",
+        "profile_path": ""
+      },
+      {
+        "name": "Leah Straatsma",
+        "character": "Rannie",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Polley",
+        "character": "Cemetery Worker #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Kirk Gonnsen",
+        "character": "Cemetery Worker #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Marianne Moroney",
+        "character": "Teacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Anne Wessels",
+        "character": "Woman in Chiffon",
+        "profile_path": ""
+      },
+      {
+        "name": "Giovanni Ribisi",
+        "character": "Narrator (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Tqh4AMtqCqPljNe2agZD9ZeoFf.jpg"
+      },
+      {
+        "name": "Derek Boyes",
+        "character": "Football \"Grieving Teacher\" (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Buchan",
+        "character": "John (Lydia's Boss) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ddN6XClbwbiAlONc2FPGW1Q6NZp.jpg"
+      },
+      {
+        "name": "Conor Dean Smith",
+        "character": "Frankie (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mandy Lee Jones",
+        "character": "Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Mars",
+        "character": "Prom Night Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3FX7yRkhqFhb1A38qFwq6p0HgI4.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Sofia Coppola",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dzHC2LxmarkBxWLhjp2DRa5oCev.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "suicide",
+    "based on novel or book",
+    "michigan",
+    "suicide attempt",
+    "1970s",
+    "coming of age",
+    "suburb",
+    "lust",
+    "family",
+    "catholic",
+    "overprotective parent",
+    "teen suicide",
+    "femininity",
+    "woman director",
+    "male gaze",
+    "sisters"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A group of male friends become obsessed with five mysterious sisters who are sheltered by their strict, religious parents in suburban Detroit in the mid 1970s.",
+    "A man about forty years of age tells the story from when he was a teenager in upscale suburban Detroit of his and three of his friends' fascination with the mysterious and doomed Lisbon sisters. In 1974, the sisters were seventeen year old Therese, sixteen year old Mary, fifteen year old Bonnie, fourteen year old Lux, and thirteen year old Cecilia. Their fascination still remains as they try to piece together the entire story. The sisters were mysteries if only because of having a strict and overprotective upbringing by their father, who taught math at the girls' private co-ed school, and overly devout Catholic mother, who largely dictated the household rules. The story focuses primarily on two incidents and the resulting situations on the girls' lives. The first was an action by Cecilia to deal with her emotions over her life. And the second was the relationship between Lux - the sister who pushed the boundaries of the household rules most overtly in doing what most teenagers want to do - and Trip Fontaine, he who could have any girl he wanted but wanting solely Lux.—Huggo",
+    "The story of five sisters, and their mysterious existence growing up in the 1970s. The film follows the chain of events initiated by one of the Lisbon sisters' suicide attempt, and its effects on their family, their suburban town and most importantly, the young men who loved the Lisbons from afar and whose words provide the narrative for the film.",
+    "The lives of an eclectic group of men who live in an affluent Detroit suburb in the '70s are forever changed by their obsession with five sisters.—Anonymous",
+    "In this movie you see the lives of a family and friends go down the drain day by day. The Lisbon sisters/family seem to have it all until one of the sisters commits suicide. Their parents become tolerably strict until Lux ruins that for herself and her sisters. They are soon taken out of school, not able to communicate with the opposite sex, and soon take a wrong turn which turns fatal. This story is told from former friends of the Lisbon sisters.—Luckychicka87"
+  ],
+  "synopsis": "The story takes place in affluent Grosse Pointe, Michigan, in 1974, as four neighborhood boys reflect on their neighbors, the five Lisbon sisters. Strictly unattainable due to their overprotective, authoritarian parents, Ronald (James Woods) and Sara (Kathleen Turner), the girls: 17-year-old Therese (Leslie Hayman), 16-year-old Mary (A.J. Cook), 15-year-old Bonnie (Chelse Swain), 14-year-old Lux (Kirsten Dunst), and 13-year-old Cecilia (Hanna R. Hall), are the enigma that fill the boys' conversations and dreams.The film begins with the suicide attempt of the youngest sister, Cecilia, as she slits her wrist in a bath. The family therapist Dr. Horniker (Danny DeVito) suggests to Ronald and Sara and Cecilia may have a problem with feeling neglected and says that they should pay more attention to Cecilia and the rest of their children.A few days later, Ronald and Sara throw a chaperoned party at their house which is intended to make Cecilia feel better. Cecilia excuses herself and jumps out her second-floor bedroom window, dying when she impales herself on an iron fence. In the wake of her act, the Lisbon parents begin to watch over their daughters even more closely, further isolating the family from the community and heightening the air of mystery about the Lisbon family and what they are really about.At the beginning of the new school year in the fall, Lux forms a secret relationship with Trip Fontaine (Josh Hartnett), the school heartthrob. Trip comes over one night to the Lisbon residence to watch television and persuades Mr. Lisbon to allow him to take Lux to the Homecoming Dance by promising to provide dates for the other sisters, to go as a group. Mr. Lisbon agrees as well as volunteers to be one of the chaperones. After being crowned Homecoming Queen and King, Lux and Trip have sex on the football field. Lux falls asleep, and Trip abandons her immediately. Lux wakes up alone and has to take a taxi home.Having broken curfew, Lux and her sisters are punished by a furious Mrs. Lisbon by being taken out of school and sequestered in their house. Unable to leave the house, the sisters contact the boys across the street by using light signals and sharing songs over the phone as a means of sharing their feelings.During this time, Lux begins to have anonymous sexual encounters on the roof of the house late at night; the boys watch from across the street. Finally, after months of confinement, the sisters leave a note for the boys, presumably asking for help to escape. When the boys arrive that night, they find Lux alone in the living room, smoking a cigarette. She invites them to wait for her sisters, while she goes to wait in the car. The boys briefly imagine the group of them driving blissfully away on a sun-soaked country road.The boys wander into the basement and discover Bonnie's body hanging from the ceiling. Terrified, they rush upstairs only to stumble across the bodies of the remaining sisters. They had all killed themselves in an apparent suicide pact moments before: Therese took an overdose of sleeping pills; Mary stuck her head in the gas oven; and Lux left the car engine running in the sealed garage.Devastated by the suicides of all their children, Mr. and Mrs. Lisbon quietly flee the neighborhood in the middle of the night, never to return. Mr. Lisbon calls a friend to sell off the family belongings, especially those belonging to the girls, in a yard sale; whatever didn't sell was put in the trash, including the family photos, which the neighborhood boys kept as mementos of the mysterious girls. Soon after, a young couple from Boston purchases the Lisbon's house. Seemingly unsure how to react, the adults in the community go about their lives as if nothing important happened. Mr. and Mrs. Lisbon were never seen or heard of again. People in the community to this day talk as if the Lisbon family never existed. The five dead girls forever remain a source of mystery and grief for the boys, who cannot forget them. The film ends with one of the boys acknowledging in voice-over that they will spend the rest of their lives trying to put together the unsolvable mystery of the Lisbon sisters and why they choose to commit suicide.",
+  "imdb_score": 7.2
+}

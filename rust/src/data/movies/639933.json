@@ -1,0 +1,350 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/xOMLQ0NypqxlEge75I7prBRvRbc.jpg",
+  "id": 639933,
+  "title": "The Northman",
+  "poster_path": "https://image.tmdb.org/t/p/w500/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
+  "release_date": "2022-04-07",
+  "vote_average": 7.078,
+  "vote_count": 3868,
+  "popularity": 67.865,
+  "overview": "Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy's mother. Two decades later, Amleth is now a Viking who's on a mission to save his mother, kill his uncle and avenge his father.",
+  "imdb_id": "tt11138512",
+  "budget": 80000000,
+  "homepage": "https://www.focusfeatures.com/the-northman",
+  "revenue": 69633110,
+  "runtime": 137,
+  "tagline": "Conquer your fate.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Focus Features",
+    "Regency Enterprises",
+    "Perfect World Pictures",
+    "New Regency Pictures",
+    "Square Peg"
+  ],
+  "production_countries": [
+    "CN",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Alexander Skarsgård",
+        "character": "Amleth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hIuDik6KDmHLrqZWxBVdXzUw1kq.jpg"
+      },
+      {
+        "name": "Nicole Kidman",
+        "character": "Queen Gudrún",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg"
+      },
+      {
+        "name": "Claes Bang",
+        "character": "Fjölnir the Brotherless",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fqSBUq2UEoQYuqjjKNMQzDVxZv2.jpg"
+      },
+      {
+        "name": "Anya Taylor-Joy",
+        "character": "Olga of the Birch Forest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yZpghhtKM2VZHDx6JGAZqAVU4PL.jpg"
+      },
+      {
+        "name": "Ethan Hawke",
+        "character": "King Aurvandil War-Raven",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a7rgJl8TYUWAfJuM4fxbLHgD7BL.jpg"
+      },
+      {
+        "name": "Gustav Lindh",
+        "character": "Thórir the Proud",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nrDYmssLbWpwvGKmhMFxgaGgzBp.jpg"
+      },
+      {
+        "name": "Elliott Rose",
+        "character": "Gunnar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ynHFe2SYMaLP2ooqt4k6HWByQvx.jpg"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "Heimir the Fool",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+      },
+      {
+        "name": "Phill Martin",
+        "character": "Hallgrímr Half-Troll",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wKdO0FqPdz0nh8KZnMcqjgabA7S.jpg"
+      },
+      {
+        "name": "Eldar Skar",
+        "character": "Finnr the Nose-Stub",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ofDdXn7Y4uo2otPeoCexFA58gTQ.jpg"
+      },
+      {
+        "name": "Olwen Fouéré",
+        "character": "Áshildur Hofgythja",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jvBLYkqqEdZGGcg4YVUZhBl6or4.jpg"
+      },
+      {
+        "name": "Edgar Abram",
+        "character": "Hersveinn Battle-Hard",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Gassmann",
+        "character": "Hjalti Battle Hasty",
+        "profile_path": ""
+      },
+      {
+        "name": "Ingvar E. Sigurðsson",
+        "character": "He-Witch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rRzLj3miinQxIpPxJUzMdV9ZJb6.jpg"
+      },
+      {
+        "name": "Oscar Novak",
+        "character": "Young Amleth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1szSUGDHFQjCZDdnKVBf9iVti1V.jpg"
+      },
+      {
+        "name": "Jack Walsh",
+        "character": "Hallur Freymundur",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7De6BQnzhSQvytpUE3b5StayESw.jpg"
+      },
+      {
+        "name": "Björk",
+        "character": "Seeress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Ahc3TWomYakLcbqZRVBDdf3rhMR.jpg"
+      },
+      {
+        "name": "Ian Whyte",
+        "character": "The Mound Dweller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/svlJyDgPbTHoGjbQKU4S2J6g5hi.jpg"
+      },
+      {
+        "name": "Katie Pattinson",
+        "character": "Shield Maiden",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eS2uhlsPkgxaxPFpuPkxIaY7cYL.jpg"
+      },
+      {
+        "name": "Andrea O’Neill",
+        "character": "Helga the Nanny",
+        "profile_path": ""
+      },
+      {
+        "name": "Rebecca Ineson",
+        "character": "Halla the Maiden",
+        "profile_path": ""
+      },
+      {
+        "name": "Kate Dickie",
+        "character": "Halldóra the Pict",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mlFYUmZycpRa7TGgDTfP0xanE1Q.jpg"
+      },
+      {
+        "name": "Ísadóra Bjarkardóttir Barney",
+        "character": "Melkorka",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zWQqL9xmFu1yOgtQvtLPhEWifd6.jpg"
+      },
+      {
+        "name": "Kevin Horsham",
+        "character": "Völundur the Smith",
+        "profile_path": ""
+      },
+      {
+        "name": "Seamus O'Hara",
+        "character": "Audunn the Irish",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2ifk5Am8x3mOon4NHTWACkhjUWZ.jpg"
+      },
+      {
+        "name": "Scott Sinclair",
+        "character": "Grímr Skull-Hammer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tadhg Murphy",
+        "character": "Eiríkr Blaze-Eye",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5YQzdACbDvDwcfITmcwxMUEPJLK.jpg"
+      },
+      {
+        "name": "James Yates",
+        "character": "Hrólfur Split-Lip",
+        "profile_path": ""
+      },
+      {
+        "name": "Hafþór Júlíus Björnsson",
+        "character": "Thórfinnr Tooth-Gnasher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wDyF1bkjZb2c4zw7hi27LZh2H6a.jpg"
+      },
+      {
+        "name": "Ian Gerard Whyte",
+        "character": "Thórvaldr Giant-Crusher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2YBcEMozsTjO49Jt068pgDO9Njg.jpg"
+      },
+      {
+        "name": "Ralph Ineson",
+        "character": "Captain Volodymyr",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sn3ONJw2pJxMHiCqPwvkaiWr5mc.jpg"
+      },
+      {
+        "name": "Murray McArthur",
+        "character": "Hákon Iron-Beard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aW9Ib3PzKuWuSd0YrTIbFLGX877.jpg"
+      },
+      {
+        "name": "Nille Glæsel",
+        "character": "Gunnhildr Ship-Breasted",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonas Lorentzen",
+        "character": "Eysteinn",
+        "profile_path": ""
+      },
+      {
+        "name": "Magne Osnes",
+        "character": "Berserker Priest",
+        "profile_path": ""
+      },
+      {
+        "name": "Ineta Sliuzaite",
+        "character": "Valkyrja",
+        "profile_path": ""
+      },
+      {
+        "name": "Finn Lafferty",
+        "character": "Fisherman’s Son",
+        "profile_path": ""
+      },
+      {
+        "name": "Jon Campling",
+        "character": "Standard Bearer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yeWRsLQ6MRc3hVC5RqOmeqbIl5E.jpg"
+      },
+      {
+        "name": "Helen Roche",
+        "character": "Hofgythja",
+        "profile_path": ""
+      },
+      {
+        "name": "Faoileann Cunningham",
+        "character": "Kormlöth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yeEkdlFhMoXziCGK6i6BwafpeOO.jpg"
+      },
+      {
+        "name": "Gareth Parker",
+        "character": "The Hird Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w8TPJoac6x2ha6iVCUv2DI7cEos.jpg"
+      },
+      {
+        "name": "Mark Fitzgerald",
+        "character": "Hallucinating Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Gavin Peden",
+        "character": "Burly Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Joel Hicks",
+        "character": "Fengr Shield-Biter",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Finlayson",
+        "character": "Grani Battle-Screamer",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Higgins",
+        "character": "Ketill the Whale Sided",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Symonds",
+        "character": "Ragnar Cold-Mouthed",
+        "profile_path": ""
+      },
+      {
+        "name": "Luca Evans",
+        "character": "Ivan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d3uOMtWAIdm7R3hnjntwrjHlyYX.jpg"
+      },
+      {
+        "name": "James Harper-Jones",
+        "character": "Vasill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/75DwDddY2VnjL1Dt4oYqvYCmyWA.jpg"
+      },
+      {
+        "name": "Thomas Harper-Jones",
+        "character": "Stanislav",
+        "profile_path": "https://image.tmdb.org/t/p/w185/19fTH8ykiuL8eKwftYn23mrzVyG.jpg"
+      },
+      {
+        "name": "Lily Bird",
+        "character": "The Maiden King",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fZzWQW9cBBfjmUzZvROdddM9sCU.jpg"
+      },
+      {
+        "name": "Sunil Beniwal",
+        "character": "Jacky (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael McGeown",
+        "character": "Rower (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9CdQ3O8NILWW8X23hu5Sx4JQWTm.jpg"
+      },
+      {
+        "name": "Peter Vamos",
+        "character": "Slav Villager (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sheila Flitton",
+        "character": "Lyudmila",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4kmscr7OwIUQGGqCsneCEZ2sVfc.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Robert Eggers",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xdN30BowN6uLjeNXYWWZINeht12.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "father murder",
+    "sword",
+    "prince",
+    "gore",
+    "viking",
+    "iceland",
+    "death of father",
+    "northern ireland",
+    "sword fight",
+    "revenge",
+    "fate",
+    "king",
+    "brutality",
+    "hamlet",
+    "based on myths, legends or folklore",
+    "nordic",
+    "10th century",
+    "viking age",
+    "muscular men",
+    "fantasy",
+    "graphic violence"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A young Viking prince is on a quest to avenge his father's murder.",
+    "The Viking Age. With a mind aflame with hate and revenge, Prince Amleth, the wronged son of King Aurvandill War-Raven, heads to cold, windswept Iceland to retrieve what was stolen from him: a father, a mother, and a kingdom. And like a war dog picking up the enemy's scent, brutal Amleth embarks on a murderous quest to find the hateful adversary, whose life is forever woven together with his by the threads of fate. Now, in the name of Valhalla, no one can stop the Northman, not even God.—Nick Riganas"
+  ],
+  "synopsis": "In AD 895, King Aurvandill returns to the island of Hrafnsey after his overseas conquests, reuniting with his wife, Queen Gudrún, and his heir, Prince Amleth. To prepare Amleth for his eventual ascension, the two participate in a spiritual ceremony overseen by Aurvandill's jester, Heimir. The next morning, Aurvandill's bastard brother Fjölnir murders the king, raids his hillfort and carries away Gudrún. Amleth flees by boat swearing vengeance.Years later, Amleth lives as a berserker with a band of Vikings. After an attack in Gardariki, Amleth encounters a Seeress in the temple of Svetovit; the Seeress predicts that Amleth will soon take revenge on Fjölnir, and that his path is intertwined with a Maiden-King. Amleth learns that Fjölnir was overthrown by Harald of Norway and lives in exile in Iceland. Posing as a slave, Amleth sneaks aboard a ship. He encounters a Slavic woman named Olga, who claims to be a sorceress. They are taken to Fjölnir's farm, where he learns his mother has married and bore a son named Gunnar with Fjölnir.One night, Amleth encounters a He-witch, who facilitates a spiritual dialogue between Amleth and the late Heimir, revealed to have been murdered by Fjölnir. He then tells Amleth about Draugr, a magical sword at the Gates of Hel. Amleth enters a mound and obtains the blade after fighting the undead Mound Dweller. The next day, Amleth is selected to compete in a game of knattleikr against another farm. The game turns violent and Gunnar is almost killed, but Amleth saves him. As a reward, Fjölnir's adult son, Thorir, grants him overseer duties and allows him to choose a woman.During the evening celebrations, Amleth and Olga have sex; they promise to overcome Fjölnir together. Amleth kills several of Fjölnir's men, and Olga mixes their food with fly agaric, a potent hallucinogen. The ensuing chaos allows Amleth to enter Fjölnir's house. He meets his mother who reveals that she was originally taken into slavery, and that Amleth's conception was the result of rape. She reveals that she wanted Aurvandill and Amleth dead; she tries but fails to seduce Amleth. Enraged, Amleth kills Thorir and steals his heart.Gudrún reveals Amleth's true identity to Fjölnir, and calls for him to kill him. Fjölnir threatens to kill Olga, but Amleth offers to trade Olga's life for Thorir's heart. After a severe beating, Amleth is released from his restraints by a flock of ravens. Olga rescues Amleth and the two escape by boat. Amleth has a vision and discovers that Olga is pregnant with twins, one of whom will become the Maiden-King prophesied by the Seeress. Fearing that his children will never be safe, Amleth decides to kill his uncle and jumps overboard, despite Olga's pleas.Back at the farm, Amleth frees the slaves and kills most of Fjölnir's men. While searching for Fjölnir, Amleth is attacked by his mother and drives Draugr through her heart. Gunnar attacks Amleth, stabbing him repeatedly in the back before Amleth kills him. Fjölnir, discovering his wife and son dead, tells Amleth to meet him at the Gates of Hell-the crater of the volcano Hekla-to resolve the conflict via holmgang. At the volcano, Amleth and Fjölnir engage in a fierce swordfight; Fjölnir is decapitated, and Amleth is fatally wounded. As Amleth lies dying, he has a future vision of Olga embracing their twin children, before a valkyrie appears to carry him through the gates of Valhalla.",
+  "imdb_score": 7
+}

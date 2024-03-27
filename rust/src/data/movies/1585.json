@@ -1,0 +1,659 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/ch3lDc4xQ9MpsNEpnRhvR8PIxxK.jpg",
+  "id": 1585,
+  "title": "It's a Wonderful Life",
+  "poster_path": "https://image.tmdb.org/t/p/w500/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg",
+  "release_date": "1946-12-20",
+  "vote_average": 8.27,
+  "vote_count": 4029,
+  "popularity": 48.422,
+  "overview": "A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
+  "imdb_id": "tt0038650",
+  "budget": 3180000,
+  "homepage": "",
+  "revenue": 9644124,
+  "runtime": 130,
+  "tagline": "It's a wonderful laugh! It's a wonderful love!",
+  "genres": [
+    "Drama",
+    "Family",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Liberty Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "James Stewart",
+        "character": "George Bailey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jam9DRhOuKomlr0vUXTamPoxPdk.jpg"
+      },
+      {
+        "name": "Donna Reed",
+        "character": "Mary Hatch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7xKSO6wQGD6nYxEJAlSP1XqBWnY.jpg"
+      },
+      {
+        "name": "Lionel Barrymore",
+        "character": "Mr. Potter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j7UjmpRAZ7imblut0WHqjS13mmg.jpg"
+      },
+      {
+        "name": "Thomas Mitchell",
+        "character": "Uncle Billy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uOhcftGVj7tPrCKBYHYtYPlQKUP.jpg"
+      },
+      {
+        "name": "Henry Travers",
+        "character": "Clarence",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7qsZdxnngfOqXVaJOodfzeH6OGx.jpg"
+      },
+      {
+        "name": "Beulah Bondi",
+        "character": "Mrs. Bailey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xs59uKHICUcEZTmruXNUwtAUnwU.jpg"
+      },
+      {
+        "name": "Frank Faylen",
+        "character": "Ernie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zmPkR8mUFDNGYNl3iTLh9uehNTn.jpg"
+      },
+      {
+        "name": "Ward Bond",
+        "character": "Bert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6F8pPEwBHWDpX04R8LkARFejwtC.jpg"
+      },
+      {
+        "name": "Gloria Grahame",
+        "character": "Violet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fkLKs1uxIIJCKzgmMMqs1RnjO9N.jpg"
+      },
+      {
+        "name": "H.B. Warner",
+        "character": "Mr. Gower",
+        "profile_path": "https://image.tmdb.org/t/p/w185/be4wXVyhbvdbViK0gOZSrdbfie8.jpg"
+      },
+      {
+        "name": "Frank Albertson",
+        "character": "Sam Wainwright",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sT9JZ8GgHgunZS4PWIDX6wMoIS7.jpg"
+      },
+      {
+        "name": "Todd Karns",
+        "character": "Harry Bailey",
+        "profile_path": ""
+      },
+      {
+        "name": "Samuel S. Hinds",
+        "character": "Pa Bailey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uwUEvtPnO79him7Lf8lwQlVW78X.jpg"
+      },
+      {
+        "name": "Mary Treen",
+        "character": "Cousin Tilly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oSwwQrc6CWCpW8WOvvK5RGLuWxi.jpg"
+      },
+      {
+        "name": "Virginia Patton",
+        "character": "Ruth Dakin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rVe8gdwsVJfzm1ofkBXpzErVRge.jpg"
+      },
+      {
+        "name": "Charles Williams",
+        "character": "Cousin Eustace",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah Edwards",
+        "character": "Mrs. Hatch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qhS2kgNAmcaQDy8HZMeAOGqVTE9.jpg"
+      },
+      {
+        "name": "William Edmunds",
+        "character": "Mr. Martini",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2sdkeTDzCcgJVzeoQlCn2qIkOZG.jpg"
+      },
+      {
+        "name": "Lillian Randolph",
+        "character": "Annie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k3dOsZunpup8wQcj1jKem9Oam8E.jpg"
+      },
+      {
+        "name": "Argentina Brunetti",
+        "character": "Mrs. Martini",
+        "profile_path": "https://image.tmdb.org/t/p/w185/laWjqkjhnDTuWjZcQyuJLgPxm7L.jpg"
+      },
+      {
+        "name": "Robert J. Anderson",
+        "character": "Little George",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dQfQxxfJMkVliMS2XqZUIiPJprG.jpg"
+      },
+      {
+        "name": "Ronnie Ralph",
+        "character": "Little Sam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ct8qRFmPJpIlZEOry8SVPCvMgfz.jpg"
+      },
+      {
+        "name": "Jeanne Gail",
+        "character": "Little Mary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/drHkehM1h92oi06I2Fa3XiqVimP.jpg"
+      },
+      {
+        "name": "Jeanine Ann Roose",
+        "character": "Little Violet",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Mummert",
+        "character": "Little Marty Hatch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Uw1h2dgVbyiHVQbvm3aNKeGwaq.jpg"
+      },
+      {
+        "name": "Georgie Nokes",
+        "character": "Little Harry Bailey",
+        "profile_path": ""
+      },
+      {
+        "name": "Sheldon Leonard",
+        "character": "Nick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eNJbTTD9NOQNdXS5TBAkm5Iq9v0.jpg"
+      },
+      {
+        "name": "Frank Hagney",
+        "character": "Potter's Bodyguard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eUun6Blqa6hEBrlscgz9qnH6Ly0.jpg"
+      },
+      {
+        "name": "Ray Walker",
+        "character": "Joe (Luggage Shop)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dBxmthwUYMVi7gykFcJxoSlgZKr.jpg"
+      },
+      {
+        "name": "Charles Lane",
+        "character": "Real Estate Salesman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ghyuQ8HoIY1ozRzbLGJNl2d1dz6.jpg"
+      },
+      {
+        "name": "Edward Keane",
+        "character": "Tom (Bldg. & Loan)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4PLA77BDa27cI9gMzOuadJmbt2t.jpg"
+      },
+      {
+        "name": "Carol Coombs",
+        "character": "The Bailey Child - Janie",
+        "profile_path": ""
+      },
+      {
+        "name": "Karolyn Grimes",
+        "character": "The Bailey Child - Zuzu",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7QfMrjGzNJGMoX3FroXoor2PzUI.jpg"
+      },
+      {
+        "name": "Larry Simms",
+        "character": "The Bailey Child - Pete",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q5z02wJLuECyXnYDdxWmIe6IVvp.jpg"
+      },
+      {
+        "name": "Jimmy Hawkins",
+        "character": "The Bailey Child - Tommy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/crfGFdEHKEqH5z5mopu1KjfBmZ6.jpg"
+      },
+      {
+        "name": "Jean Acker",
+        "character": "Townswoman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sfN6pIGusrgAfYu23Tyu5Ouojbp.jpg"
+      },
+      {
+        "name": "Ernie Adams",
+        "character": "Ed (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xDhu9q3Sk3kMVzcOqfa4YibKWMP.jpg"
+      },
+      {
+        "name": "Monya Andre",
+        "character": "Elderly Woman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Stanley Andrews",
+        "character": "Mr. Welch (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zAW09eb1f0g4OPtNkJk83ej1os5.jpg"
+      },
+      {
+        "name": "Sam Ash",
+        "character": "Nervous Banker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9yWsQsSXQTTMcQIzpGjjyMDdT86.jpg"
+      },
+      {
+        "name": "Jack Bailey",
+        "character": "One of Vi's Suitors (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5enFcEhAAfPMYmiKoZuikoIEw99.jpg"
+      },
+      {
+        "name": "Louise Bates",
+        "character": "Building & Loan Depositor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary Bayless",
+        "character": "Townswoman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Beth Belden",
+        "character": "Young Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brooks Benedict",
+        "character": "Military Officer in Montage (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l3Bw5oBij94yG0QSO45inFnySRZ.jpg"
+      },
+      {
+        "name": "Joseph E. Bernard",
+        "character": "Townsman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z81t8lhw2YZbiALAoTs0AK03kZD.jpg"
+      },
+      {
+        "name": "Al Bridge",
+        "character": "Sheriff (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sWYGabnivhoQ4OJ7yFyrzFGevGq.jpg"
+      },
+      {
+        "name": "Buz Buckley",
+        "character": "Young Boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marian Carr",
+        "character": "Jane Wainwright (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6AJcsfwgpmgWLMxMQk7BdL6uvgc.jpg"
+      },
+      {
+        "name": "Adriana Caselotti",
+        "character": "Singer at Martini's (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7nOCtRQnfH6RQ39IZBDffIadgR7.jpg"
+      },
+      {
+        "name": "Lane Chandler",
+        "character": "Policeman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zwUk9TYX6u2Y7jr6VDEW1NW7Flr.jpg"
+      },
+      {
+        "name": "Michael Chapin",
+        "character": "Young George's Friend (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k8NXYRPkfSvSYTMVUzK82aBJxxy.jpg"
+      },
+      {
+        "name": "Tom Chatterton",
+        "character": "Townsman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wVqT4BBuBbe8TjgS91l1MgI0za4.jpg"
+      },
+      {
+        "name": "Jack Cheatham",
+        "character": "Cop Arresting Violet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wkuXdur3tGNWh20xJTe6lqcS6Kv.jpg"
+      },
+      {
+        "name": "Harry Cheshire",
+        "character": "Dr. Campbell (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eYW4TZXfi6Z0sEkfs3iSYfMQAej.jpg"
+      },
+      {
+        "name": "Edward Clark",
+        "character": "Building & Loan Board Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Coleman",
+        "character": "Building & Loan Customer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ellen Corby",
+        "character": "Ms. Davis (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sf45aqBW2iYSnWU1aTGozEemMby.jpg"
+      },
+      {
+        "name": "Bryn Davis",
+        "character": "Elderly Woman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lew Davis",
+        "character": "High School Teacher at Poolside (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Harry Denny",
+        "character": "(uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Helen Dickson",
+        "character": "Woman at Graduation Dance (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dick Elliott",
+        "character": "Man on Porch (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4v08cvtoM8hjpZh2s9uIJZh75WD.jpg"
+      },
+      {
+        "name": "Tom Fadden",
+        "character": "Tollhouse Keeper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5fZfgiaVkVfYrt4dG44CngwFGM.jpg"
+      },
+      {
+        "name": "Frank Fenton",
+        "character": "Violet's Boyfriend (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p7db2hAreSPMEBg0mId2XbyDw4k.jpg"
+      },
+      {
+        "name": "Eddie Fetherston",
+        "character": "Horace (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tWoMtn9jYC0ZixRJQgLIfzh9xHQ.jpg"
+      },
+      {
+        "name": "Sam Flint",
+        "character": "Relieved Banker in Potter's Office (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iZXn3Myb6SVQifYpWt1aixEyqWJ.jpg"
+      },
+      {
+        "name": "Lee Frederick",
+        "character": "(uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dick Gordon",
+        "character": "Photographer with Sheriff (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Gordon",
+        "character": "Bar Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Herschel Graham",
+        "character": "Townsman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zdOUMFvOUqsUN0zmfKzP9CZo8DQ.jpg"
+      },
+      {
+        "name": "Joseph Granby",
+        "character": "Elderly Man (voice) (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Halton",
+        "character": "Carter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t3M7SJbcKxM2Nz7H46BAJ1A2MKm.jpg"
+      },
+      {
+        "name": "Carl Eric Hansen",
+        "character": "(uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Herbert Heywood",
+        "character": "Building & Loan Depositor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bFrpuJ7mINuyPZWcL1GikqSpw6t.jpg"
+      },
+      {
+        "name": "Harry Holman",
+        "character": "Mr. Partridge (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4J1Z6ndpZTDnSwKMIf6qAr5LfJz.jpg"
+      },
+      {
+        "name": "Art Howard",
+        "character": "Building & Loan Board Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bert Howard",
+        "character": "Building & Loan Board Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Arthur Stuart Hull",
+        "character": "Mr. Randall (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/34BsAhaFC9k3iGa47Hq4GFVQ7jO.jpg"
+      },
+      {
+        "name": "John Indrisano",
+        "character": "Man in Fantasy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eddie Kane",
+        "character": "Building & Loan Depositor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5kpL02ZOsNwYNUQ6pxM0cnGdg0U.jpg"
+      },
+      {
+        "name": "Carl Kent",
+        "character": "Townsman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nQADaHIQAMdkhpX4EqQ2Fa8pjp6.jpg"
+      },
+      {
+        "name": "Milton Kibbee",
+        "character": "Building & Loan Board Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hhWsIJNBO0ENVbfExPL6EqlZJUD.jpg"
+      },
+      {
+        "name": "Effie Laird",
+        "character": "Townswoman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Lally",
+        "character": "Building & Loan Customer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Harold Landon",
+        "character": "Marty Hatch (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Meade 'Lux' Lewis",
+        "character": "Pianist in Nick's Place (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Lomas",
+        "character": "Bar Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "J. Farrell MacDonald",
+        "character": "Man Whose Grandfather Planted Tree (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hSINvJ003UJAohrEgqBPkXzu1cM.jpg"
+      },
+      {
+        "name": "Irene Mack",
+        "character": "Townswoman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Wilbur Mack",
+        "character": "Building & Loan Customer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pzPyhbKqQDduj9EhWa43gLtKsis.jpg"
+      },
+      {
+        "name": "Charles Meakin",
+        "character": "Elderly Man (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tauVR2XMFNSlorG8G63mXqvcCty.jpg"
+      },
+      {
+        "name": "Priscilla Montgomery",
+        "character": "Student in Gym (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bert Moorhouse",
+        "character": "Man with Sheriff (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Evelyn Moriarty",
+        "character": "Bar Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Philip Morris",
+        "character": "Building & Loan Customer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "George Noisom",
+        "character": "School Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob O'Connor",
+        "character": "Bar Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank O'Connor",
+        "character": "Military Officer in Montage (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8ah94UFfqDRNvousj3doLVLYIYU.jpg"
+      },
+      {
+        "name": "Lynn O'Leary-Jameson",
+        "character": "Infant Janie Bailey (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Moroni Olsen",
+        "character": "Senior Angel (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xJ56TNofwpQH3b0UAs8spNq35OR.jpg"
+      },
+      {
+        "name": "Garry Owen",
+        "character": "Bill-Poster (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4lXrRqVoopFMS8hPEaR7BwEtLmD.jpg"
+      },
+      {
+        "name": "Netta Packer",
+        "character": "Elderly Woman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Franklin Parker",
+        "character": "Photographer / Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Suzanne Ridgway",
+        "character": "Nick's Waitress (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fCzOpu1U7YmVWKjSXlPXUYY92k4.jpg"
+      },
+      {
+        "name": "Mark Roberts",
+        "character": "Mickey (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ezNTZ5sl9P83tlyq6vg2Z6wKhVT.jpg"
+      },
+      {
+        "name": "Constantine Romanoff",
+        "character": "Bar Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z9ERbNoNfll9giTWo04jYbOW2xr.jpg"
+      },
+      {
+        "name": "Cy Schindell",
+        "character": "Nick's Bouncer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2M7kwjd1yXrdebkxE9F7xj7P58.jpg"
+      },
+      {
+        "name": "Almira Sessions",
+        "character": "Potter's Secretary (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pQC9t4rOPGmUqwD4JdV2D2xpvch.jpg"
+      },
+      {
+        "name": "Cedric Stevens",
+        "character": "Townsman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brick Sullivan",
+        "character": "Man in Fantasy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Sullivan",
+        "character": "Nick's Bartender (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jD3ajxyJEtjDoQFGXs3Pq9nV37K.jpg"
+      },
+      {
+        "name": "Carl Switzer",
+        "character": "Freddie Othello (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/60tMCtabBchVnAwPdqJ4GfFeYOB.jpg"
+      },
+      {
+        "name": "Max Wagner",
+        "character": "Cashier / Nick's Assistant Bouncer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry Wheat",
+        "character": "Building & Loan Board Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rf5flpbljcYPr13ZAa9V5MKvAKn.jpg"
+      },
+      {
+        "name": "Charles C. Wilson",
+        "character": "Charlie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fnMy7U8FuGxSgwVGg2Qr9KNIhXk.jpg"
+      },
+      {
+        "name": "Jimmy the Crow",
+        "character": "Uncle Billy's pet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8RP9vIF6yTebD1HKYU7ijWhE87v.jpg"
+      },
+      {
+        "name": "Finn Zirzow",
+        "character": "Bar Patron (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Frank Capra",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ekvnffPsTGHyukMHpxprNxRt3g5.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "small town",
+    "angel",
+    "suicide attempt",
+    "holiday",
+    "bank",
+    "great depression",
+    "family business ",
+    "black and white",
+    "nervous breakdown",
+    "old house",
+    "alternate reality",
+    "newlywed",
+    "magic realism",
+    "told in flashback",
+    "guardian angel",
+    "high school dance",
+    "christmas"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+    "George Bailey has spent his entire life giving of himself to the people of Bedford Falls. He has always longed to travel but never had the opportunity in order to prevent rich skinflint Mr. Potter from taking over the entire town. All that prevents him from doing so is George's modest building and loan company, which was founded by his generous father. But on Christmas Eve, George's Uncle Billy loses the business's $8,000 while intending to deposit it in the bank. Mr. Potter finds the misplaced money and hides it from Uncle Billy. When the bank examiner discovers the shortage later that night, George realizes that he will be held responsible and sent to jail and the company will collapse, finally allowing Mr. Potter to take over the town. Thinking of his wife, Mary, their four children, and others he loves will be better off with him dead, he contemplates suicide. But the prayers of his loved ones result in his guardian angel named Clarence Odbody coming to Earth to help him, with the promise of earning his wings. He shows him what things would have been like if he had never been born.—alfiehitchie",
+    "A young George Bailey, overwhelmed by family obligations and a sense of responsibility toward his community, feels tied down to a company he never had an interest in working for, and a life he never wanted to live. As he ages, he sees his youth, dreams and opportunities pass him by. Unknown to George, all of his friends and family have been praying for him to get through those hard times. Told through the point of view of a group of angels, he is met by his guardian angel, Clarence Odbody, as he contemplates ending his life.—Marielle <msaz.movies@gmail.com>",
+    "George Bailey never got a chance to fulfill his life's ambitions of exploring the world and building skyscrapers. As he watches his friends and family become success stories, he dreads on running his father's building and loan business, rivaling the grumpy old Mr. Potter. When a financial discrepancy puts him in a difficult position, his guardian angel, Clarence Odbody, comes to show him what life would have been like if he had never been born.—Eric Johnson",
+    "George Bailey spends his entire life giving up his big dreams for the good of Bedford Falls as we see in flashback. But in the present, on Christmas Eve, he is broken and suicidal over the misplacing of an $8000 loan and the machinations of the evil millionaire Mr. Potter. His guardian angel, Clarence Odbody, falls to Earth literally, and shows him how his town, family, and friends would have turned out if he had never been born. He meant so much to so many people; should he really throw it all away?—Tommy Peter"
+  ],
+  "synopsis": "This movie is about a divine intervention by a guardian angel, to help a man in distress. It opens with a fanciful depiction of angels in heaven discussing a problem that has come up. They are receiving prayers from mortals, like \"Please, God, something's the matter with Daddy\". George Bailey (James Stewart) is about to kill himself, and they need to send an angel down to Earth to stop him. They select Clarence (Henry Travers), a somewhat down-on-his-luck angel who hasn't earned his wings yet, but who they decide is right for the job. The senior angels promise that Clarence will get his wings if he succeeds. The bulk of the movie is a replaying of George's life, by the senior angels and for Clarence's benefit, so that Clarence will understand George.George Bailey was a young man, living in a small upstate New York town, but with big dreams. From an early age, he wanted to get away from Bedford Falls, travel the world, and accomplish big things--planning cities and building huge airfields, skyscrapers, and bridges. The first incident that Clarence sees is that, at age 12, George saved his younger brother Harry's (Todd Karns) life in an accident while playing on an ice-covered pond. George lost the hearing in his left ear due to being in the icy water. Shortly after that, while working part-time in Mr. Gower's (H.B. Warner) drug store, he prevents a mistake in a prescription from fatally poisoning someone. Angry at the neglected delivery, Gower, drunk in the sorrow at the recent death of his son, beats George until the boy explains the situation. Upon testing the medicine and realizing the boy had averted a horrible mistake, Gower is profoundly remorseful and grateful to George, who vows to keep the error to himself. The two little girls in George's life at that point are Mary Hatch (Donna Reed) and Violet Bick (Gloria Grahame), who seem to be competing for his notice.George's father (Samuel S. Hinds), with a small staff including Uncle Billy (Thomas Mitchell), run a small Building and Loan company that finances mortgages for the people of Bedford Falls. They face a difficult battle with the evil, avaricious, and wealthy Henry Potter (Lionel Barrymore). The wheelchair-bound Mr. Potter is on the board of directors of the Building and Loan, holds much of its assets, along with almost everything else in town, charges people exorbitant rent on his own apartments, and would like to put Bailey's company out of business.George wants to begin his adventures after going to college. While he has enormous respect for his father and what he is doing to help people, he definitely does not want to follow in his father's footsteps at the Building and Loan. But one thing after another thwarts his plans.George went to work at the Building and Loan for a few years after graduating from high school, with the expectation that Harry would take this over when he graduated, and George would go on a European tour and then go to college. But his father has a fatal stroke, and George has to take over the B&L for a few months, giving up the European tour. Then Potter attempts to liquidate the B&L, the only thing that can stop it is for George himself to take it over. So he gives up college, and gives his college money to Harry. The plan at that point was that, after Harry graduates, he will take over the B&L, and George will go to college. But Harry returns from college having married Ruth Dakin, and Ruth's father has offered him a job in upstate New York. Although Harry vows to turn it down for George's sake, George cannot bear to cost his brother the opportunity, so he has no choice but to stay with the B&L.George marries Mary Hatch after a difficult introduction--he mistakenly thinks Mary is in love with his lifelong rival Sam Wainwright (Frank Albertson). They are about to go on their honeymoon with $2000 they have saved up. But a banking crisis occurs. Potter has taken over the bank that guarantees the B&L's loans, and has called in the loans. The customers are in a panic and are tempted to go over to Potter's bank. The only way George can save the situation is to provide for the customers' needs out of his honeymoon money. Their friends Ernie (Frank Faylen) the cabbie and Bert (Ward Bond) the policeman arrange for them to have a cut-rate honeymoon at their house. They serenade the newlyweds from outside in the rain.The B&L continues to provide affordable housing for the people of Bedford Falls, creating a whole subdivision \"Bailey Park\". This includes the home of Mr. Martini (William Edmunds), the local tavern keeper, and his family. Sam Wainwright and his wife come by to offer that George and Mary take a vacation with them in Florida, but they can't get away even for that.Potter is disturbed that George's B&L is taking customers away from his own apartment business, and attempts to bribe George into working for him instead, offering a huge salary and extensive travel. Tempting as that is, George is repelled by everything Potter stands for, and declines.So George stays with his wife and four children in Bedford Falls, never getting to leave. World War II comes and goes, and Harry serves (George is exempt because of his ear) and heroically saves an entire transport ship by shooting down two attacking airplanes. He is awarded the Congressional Medal of Honor at a ceremony in Washington.On the morning before Christmas, the day that Bedford Falls will have a huge celebration for Harry, a bank examiner arrives to conduct a routine audit. The same day, Uncle Billy goes to the bank for a routine deposit of $8,000 in cash. Potter happens by, and Billy proudly points out the newspaper with the news about Harry. He accidentally folds the newspaper with the cash envelope in it, and Potter takes it back. Billy then realizes that he has lost the money. Potter, now in another room, sees this, and sneaks out.Billy arrives at the B&L, where George, generous as always, is giving Violet some of his own money for her to travel to New York City and start a new life. When Billy tells George about the loss, there is an uproar. George and Billy search everywhere that the money could possibly have been left. George shouts at Billy that this means bankruptcy, scandal and prison, and that he, George, isn't the one who will go to prison.George goes home in an incredibly foul mood, where his family are preparing for a Christmas party that evening. George is extremely bitter and nasty, and verbally abuses everyone, saying at one point \"Why do we have to have all these kids?\" The whole family are alarmed at his behavior. He learns that their youngest daughter \"Zuzu\" (Karolyn Grimes) is in bed with a cold. She apparently caught it walking home from school, having not buttoned her coat because she didn't want to harm a rose that she had been given. George goes up to see her. While handling the rose, some petals fall off. George puts them in his watch pocket.Zuzu's teacher, Mrs. Welch, phones to ask about Zuzu. George gives her a brutal tongue-lashing over her carelessness. When Mr. Welch gets on the line, George abuses and threatens him. Then George starts kicking and throwing things. The children are in tears. George refuses to talk about what's wrong or what is bothering him and storms out of the house. Mary phones Uncle Billy to find out what's wrong. The children ask whether they should pray for their father, and Mary says yes.While word spreads of the calamity, George goes to see Mr. Potter to beg for a loan of $8,000. Mr. Potter is completely unsympathetic and sarcastic. He suggests that George has been cooking the books, playing the market with company money, or perhaps paying off a woman, pointing out that he is known to have been giving money to Violet Bick. Potter asks about collateral. All George has is a $15,000 life insurance policy, but with only $500 equity. Mr. Potter says \"You're worth more dead than alive.\"George goes to Mr. Martini's tavern and starts drinking, and then praying for divine guidance. His friends, including the kind and gentle bartender Nick (Sheldon Leonard), notice and try to help. Mr. Martini mentions George's name out loud, and Mr. Welch (Stanley Andrews), the husband of the teacher that George insulted for no reason over the telephone earlier, sitting nearby, hears it. He punches George, causing a bloody lip. George leaves, though his friends urge him to stay and rest. George drives his car toward a bridge. Because of the snowy weather, he accidentally drives it into a tree. The homeowner comes out and upbraids him for harming the tree. George just keeps walking, out onto the bridge, to kill himself.Just as George is about to jump into the frigid river and drown, Clarence comes down to Earth; his moment has come. He knows George well enough to know that if he, Clarence, jumps into the river, George will rescue him. He does so, and George jumps in and rescues him as predicted. They go to the toll-taker's shack to dry their clothes. Clarence explains all--that he is an angel, \"Clarence Odbody, Angel second class\", sent to save George from committing suicide. To George's astonishment, Clarence knows the whole story of his life. George is disbelieving and cynical about the whole thing, mentioning that it is not surprising that he got only a second-class angel, one without wings. He resists Clarence's entreaties, believing that he must have consumed tainted liquor. He finally says \"I wish I'd never been born.\" Clarence formulates his plan, and, after a little prayerful communication with the senior angels, says \"You've got your wish. You've never been born.\"Things change immediately. In the alternate universe it isn't snowing. George notices that he can hear through his left ear, and his lip isn't bleeding. Clarence points out that many things will be different now.As George and Clarence walk back toward town, they pass the tree that George had hit with his car. The car is gone, and there is no gash in the tree. The homeowner stops by, and George asks about the car and the damage to the tree. The homeowner knows nothing about this. He says \"You had me worried. One of the oldest trees in Pottersville.\" George is confused, and tries to correct the man, but the man angrily tells George that the town is called Pottersville. George and Clarence walk off.They continue into town. Martini's tavern has become a sleazy dive, and Mr. Martini is nowhere to be found. It is now owned by the bartender Nick, but who is now very nasty and insulting. George and Clarence sit down at the bar. Clarence's polite speech and demeanor immediately displease Nick. George knows Nick, but Nick does not know George. When a cash register rings, Clarence points out that, whenever that happens, it means an angel has earned his wings. An elderly Mr. Gower, now a homeless derelict, comes in, and Nick tells him to leave. George speaks to Mr. Gower, but Mr. Gower doesn't recognize him. When George asks about the guy, Nick says that Mr. Gower spent 20 years in prison for poisoning some child in a manslaughter charge, and that if this stranger knows Mr. Gower, he must be a convict also. Nick has George and Clarence thrown out of the tavern, and then derisively makes the cash register ring, saying that he is giving out angel wings.In front of the tavern, George is seriously disturbed by what is going on when he sees the sign for 'Nick's' in place of Martini's name. Clarence explains once again that George doesn't exist from that wish he made that he was never born. George brings up the issue that if he was never born and is alive and interacting with people... then who is he? Clarence replies that George is a person with no identity in this alternate reality. George checks his pockets for his wallet, other identification, or his life insurance policy. Clarence points out that they do not exist. Finally, George checks his watch pocket. Clarence says \"They're not there either.\"\n\"What?\" George asks.\n\"Zuzu's petals. You've been given a great gift, George. The chance to see what the world would be like without you.\"Continuing to be in denial of what is going on, George continues to walk downtown without Clarence. Bedford Falls has become Pottersville, and it is a dreary, brutish, and perverse place, full of bars and sleazy nightclubs. The movie theater, the Emporium department store, and the B&L, are long gone. Police are everywhere, dealing with disorders. George sees the police arrest Violet and take her away from a brothel which is the former B&L. He hails Ernie's taxi cab and asks to be taken home. Ernie has no idea who he is or where he lives. He gives Ernie the address, and Ernie tells him that that is an abandoned house, but he will take him there anyway. When George asks Ernie about his life, Ernie tells George that his wife left him three years ago, and that he now lives alone in a place called Potter's Field. He visually signals for Bert the policeman to follow them. As George searches the house calling out for his family, Clarence appears. Bert attempts to arrest them, but Clarence intervenes and then vanishes, allowing George to escape.George then goes to his mother's house, which has become a broken-down boarding house called \"Ma Bailey's Boarding House\". She opens the front door, but she does not recognize him and tells him to leave. George mentions Uncle Billy, and she says that he has been in an insane asylum since the B&L went out of business many years ago.Still in denial of what is happening, George then goes with Clarence to Martini's house in Bailey Park. There is no such place--it is a wasteland with a cemetery. Clarence points out the grave of Harry Bailey. Clarence says \"Your brother Harry Bailey broke through the ice and was drowned at the age of nine.\"\"That's a lie! Harry Bailey went to war. He got the Congressional Medal of Honor. He saved the lives of every man on that transport.\" says George.\"Every man on that transport died. Harry wasn't there to save them, because you weren't there to save Harry. You see, George, you really had a wonderful life. Don't you see what a mistake it would be to throw it away?\"George then asks to see Mary. Clarence says that she never married, and works at the library. George goes there. She doesn't recognize him. He tries to embrace her; she screams and runs into a nightclub. He runs after her, but is confronted by a crowd made of many he knows, but they of course have no recognition of this wild man they have never met before in this reality. Finally aware of what is happening, George calls out for Clarence as the police intervene. George slugs Bert and runs away. Bert shoots at him but misses, then pursues in his squad car.George runs to the bridge where he had been about to jump, and calls out \"Help me Clarence, please! Please! I want to live again!\" He piteously calls to God bring him back.With that plea, the alternate universe suddenly ends. It's snowing once again. Bert arrives in his police car, and calls out to George that he's been looking for him, since seeing his car plowed into the tree. He also points out that George's lip is bleeding. George is delighted to hear this, and to know that Bert knows him. He checks his watch pocket; the rose petals are there!George is ecstatic. He runs into town, which is once again Bedford Falls, and has all its familiar institutions, which he greets with unbounded joy. He even wishes Mr. Potter a Merry Christmas, who sarcastically wishes him a Happy New Year in jail considering the authorities are waiting for him at home. George arrives home, knowing that he will likely be arrested for bank fraud. The officials are there, ready to arrest him. However, George stuns them by his delight at his arrest warrant, especially since his children are there also, and all have a joyful reunion.Mary comes home, along with many people led by Uncle Billy. Contrary to Mr. Potter's claim that they would hate him for losing their money, it turned out that when word got around that George was in financial trouble, the townspeople that he had been so generous to had contributed whatever they could provide. Dozens of people arrive, with a whole laundry basket full of money, jewelry, and other valuables. A telegram arrives from Sam Wainwright in Europe, saying that he had been contacted by Mr. Gower about the situation, and would advance up to $25,000 to cover the debt on the B&L. At this, the Bank Examiner, both moved by this show of public support and knowing that the financial deficit will be compensated, moves up to contribute and the attending police officer tears up the arrest warrant with a smile. Suddenly, Harry arrives from New York, having immediately left his award banquet upon hearing that his brother needed his support, and toasts \"To my big brother George. The richest man in town.\"In the last scene, as the whole crowd sings \"Hark the Herald Angels Sing\" and then \"Auld Lang Syn\" George finds a copy of the 'The Adventures of Tom Sawyer' with a brief handwritten note on the inner pages in his inside coat pocket. It reads, \"Dear George. Remember no man is a failure who has friends. Thanks for the wings! Love, Clarence.\" When Mary asks who Clarence is, George, well aware she would never believe the whole story, just says it is a Christmas present from a very dear friend. At that moment, a bell on the Christmas tree rings. Zuzu says \"Look, daddy. Teacher says, every time a bell rings, an angel gets his wings.\" George says \"That's right. That's right.\" And, glancing heavenward, \"Attaboy, Clarence.\"",
+  "imdb_score": 8.6
+}

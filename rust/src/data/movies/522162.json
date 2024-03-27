@@ -1,0 +1,516 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/5xegGPhCSVMKbyh6zeT6Th0BWLB.jpg",
+  "id": 522162,
+  "title": "Midway",
+  "poster_path": "https://image.tmdb.org/t/p/w500/hj8pyoNnynGeJTAbl7jcLZO8Uhx.jpg",
+  "release_date": "2019-11-06",
+  "vote_average": 7.152,
+  "vote_count": 2318,
+  "popularity": 29.646,
+  "overview": "The story of the Battle of Midway, and the leaders and soldiers who used their instincts, fortitude and bravery to overcome massive odds.",
+  "imdb_id": "tt6924650",
+  "budget": 100000000,
+  "homepage": "https://midway.movie",
+  "revenue": 127400000,
+  "runtime": 138,
+  "tagline": "One battle turned the tide of war",
+  "genres": [
+    "Action",
+    "Drama",
+    "War",
+    "History"
+  ],
+  "production_companies": [
+    "AGC Studios",
+    "Centropolis Entertainment",
+    "Street Entertainment",
+    "Entertainment One",
+    "Starlight Culture Entertainment Group",
+    "Shanghai RuYi Entertainment"
+  ],
+  "production_countries": [
+    "CA",
+    "HK",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Ed Skrein",
+        "character": "Lieutenant Richard 'Dick' Best",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AaMTvZkroI8uo5JXQiJ5pSLEgSJ.jpg"
+      },
+      {
+        "name": "Patrick Wilson",
+        "character": "Rear Admiral Edwin T. Layton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tc1ezEfIY8BhCy85svOUDtpBFPt.jpg"
+      },
+      {
+        "name": "Woody Harrelson",
+        "character": "Admiral Chester W. Nimitz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+      },
+      {
+        "name": "Luke Evans",
+        "character": "Commander Wade McClusky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qUkYJcrDc4M0LHNYASs30luFvw0.jpg"
+      },
+      {
+        "name": "Mandy Moore",
+        "character": "Anne Best",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gEMfAKZAbBRzvBDj42DambFs9to.jpg"
+      },
+      {
+        "name": "Luke Kleintank",
+        "character": "Lieutenant Clarence Earle Dickinson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9iDyOwyeUyXNNjpqNwmXKwmwpTh.jpg"
+      },
+      {
+        "name": "Dennis Quaid",
+        "character": "Vice Admiral William 'Bull' Halsey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+      },
+      {
+        "name": "Aaron Eckhart",
+        "character": "Lieutenant Colonel Jimmy Doolittle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5EFQvRHlpP1Iaw2e6vjOaBny6DV.jpg"
+      },
+      {
+        "name": "Keean Johnson",
+        "character": "Chief Aviation Radioman James Murray",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qYslz07HQUW1bAqdYSa3dUbnglb.jpg"
+      },
+      {
+        "name": "Nick Jonas",
+        "character": "Bruno Gaido",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o0BVIpLe8VnCkTuLsk5ObcQmRJr.jpg"
+      },
+      {
+        "name": "Etsushi Toyokawa",
+        "character": "Admiral Isoroku Yamamoto",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9yUKBVACR2vsjl4a4sdo8UgGqDc.jpg"
+      },
+      {
+        "name": "Tadanobu Asano",
+        "character": "Rear Admiral Tamon Yamaguchi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wDw1z9Pk9dEzopzlZQ4X8wTbj1t.jpg"
+      },
+      {
+        "name": "Darren Criss",
+        "character": "Commander Eugene Lindsey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kqdhJuaHjgeVcnmA9DwWEIMdtBb.jpg"
+      },
+      {
+        "name": "Brandon Sklenar",
+        "character": "George 'Tex' Gay",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vXJFJpryuhc4ZVepwSRVjjMo4jm.jpg"
+      },
+      {
+        "name": "Jake Manley",
+        "character": "Willie West",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mu8otJW0iA89jqF7SVe59ccrfAI.jpg"
+      },
+      {
+        "name": "Jun Kunimura",
+        "character": "Vice Admiral Chūichi Nagumo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zC0GbuXQGPur7i8AkdPUWedmDKz.jpg"
+      },
+      {
+        "name": "Nobuya Shimamoto",
+        "character": "Captain Tomeo Kaku",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ocn3uQD9E01BTe3bQkeN9r0KE8M.jpg"
+      },
+      {
+        "name": "Brennan Brown",
+        "character": "Commander Joseph Rochefort",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ulP8XOTkF1EOfZGiyLXMrpkIZzo.jpg"
+      },
+      {
+        "name": "Jake Weber",
+        "character": "Rear Admiral Raymond Spruance",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z1RTh4qvyMFha8nKd5Uw1dKwkZz.jpg"
+      },
+      {
+        "name": "Alexander Ludwig",
+        "character": "Lieutenant Roy Pearce",
+        "profile_path": "https://image.tmdb.org/t/p/w185/unP5YUgEdECL2gMLs0zCNya6is6.jpg"
+      },
+      {
+        "name": "David Hewlett",
+        "character": "Husband Kimmel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hUcYyssAPCqnZ4GjolhOWXHTWSa.jpg"
+      },
+      {
+        "name": "Mark Rolston",
+        "character": "Ernest King",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hcrNRIptYMRXgkJ9k76BlQu6DQp.jpg"
+      },
+      {
+        "name": "Eric Davis",
+        "character": "Captain Miles Browning",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jcLaVXfXVeCIPnow8oNXQilUTRP.jpg"
+      },
+      {
+        "name": "Kenny Leu",
+        "character": "Zhu Xuesan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9e8mnD6SfsQAW536tpm5On8LXTP.jpg"
+      },
+      {
+        "name": "Rachael Perrell Fosket",
+        "character": "Dagne Layton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5NDV4zLePU3euu5Cokbyh42MiXH.jpg"
+      },
+      {
+        "name": "Peter Shinkoda",
+        "character": "Cmdr. Minoru Genda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lCQl28poQr4bLwqZjhryGkV73jO.jpg"
+      },
+      {
+        "name": "James Carpinello",
+        "character": "William Brockman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/18b4AHQ5P21I4tM7vN8jYvpJv6j.jpg"
+      },
+      {
+        "name": "Tim Beckmann",
+        "character": "Captain Rawlings",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4u9cCTDSsgoKeX9eRKTppYGPW6D.jpg"
+      },
+      {
+        "name": "Sarah Souza",
+        "character": "Marie Pearce",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aZTcd9OEvhv2CbXoiGLF94uyV0A.jpg"
+      },
+      {
+        "name": "Cameron Brodeur",
+        "character": "Sully Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g5hHxY8QAKpCbcAyatqF1WRPZQB.jpg"
+      },
+      {
+        "name": "Hiromoto Ida",
+        "character": "Prime Minister Tojo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lXs6jQfbFfPmA9fQTmkgzwRPXJ0.jpg"
+      },
+      {
+        "name": "Hiroaki Shintani",
+        "character": "Emperor Hirohito",
+        "profile_path": ""
+      },
+      {
+        "name": "Russell Dennis Lewis",
+        "character": "Ensigh O’Flaherty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rqu1qPn26APEi02CJJJ2mEDHyks.jpg"
+      },
+      {
+        "name": "Geoffrey Blake",
+        "character": "John Ford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uKdiO6QagiT0mZ7tf9Xrl8OZUKy.jpg"
+      },
+      {
+        "name": "Mikaël Conde",
+        "character": "Bill Miller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zjg10lLfFsKxi8MWVokUBtMxgWg.jpg"
+      },
+      {
+        "name": "Madison Roukema",
+        "character": "Barbara Best",
+        "profile_path": ""
+      },
+      {
+        "name": "Christie Brooke",
+        "character": "Millicent McClusky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AjBCAiqy4FhIaRJi4YDvQTayRJ6.jpg"
+      },
+      {
+        "name": "Dustin Geiger",
+        "character": "Paul Crosley",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Lee Hoy",
+        "character": "Pat Rooney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4HfI26yj5p55N5HvEtcgN5HtAwM.jpg"
+      },
+      {
+        "name": "Ellen Dubin",
+        "character": "Admiral King Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cvf1pX4t6ZzDPsRi9J2xGrGj78c.jpg"
+      },
+      {
+        "name": "Jason New",
+        "character": "Marine Captain (Midway)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/thJTgscIRvpSPNgReibrhk2PrBx.jpg"
+      },
+      {
+        "name": "Dean Schaller",
+        "character": "Jack MacKenzie Jr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hDdXa5OHfRdX2PDIOW6a1tPnX8R.jpg"
+      },
+      {
+        "name": "Jacob Blair",
+        "character": "Hank Potter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rFL3qaFa6vlw6gLDNBEDrqMP6JS.jpg"
+      },
+      {
+        "name": "Kayo Yasuhara",
+        "character": "Geisha",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3UIQovsveNzTKGpIDs87bmrm0O0.jpg"
+      },
+      {
+        "name": "Rudolph Wallstrom",
+        "character": "Petty Officer (Pacific HQ)",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew MacCaull",
+        "character": "Staff Officer (Nimitz)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gXR34RaA4JohuzT4bjWbgWVNvIx.jpg"
+      },
+      {
+        "name": "Philip Fu-Kang Wang",
+        "character": "Chinese Major",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x53o0QAHZeKMLJNe4sTBaD6Ro3X.jpg"
+      },
+      {
+        "name": "Johan Strombergsson-Denora",
+        "character": "Radioman #1 (Enterprise SC)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5J7NJfeJ6kd3a5z4BaE756npHxB.jpg"
+      },
+      {
+        "name": "Nico DeCastris",
+        "character": "Radioman #2 (Enterprise SC)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p7D1xR79cl7mXTuqSCK7loL9T48.jpg"
+      },
+      {
+        "name": "Alexandre Dubois",
+        "character": "Radar Officer (Enterprise)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qF25jUBLtvowFRdoBTosakwHUdd.jpg"
+      },
+      {
+        "name": "Tyler Elliot Burke",
+        "character": "Radar Officer (Enterprise)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7nQS7XoQhVzJ5qUNdTAC45weETK.jpg"
+      },
+      {
+        "name": "Raphael Grosz-Harvey",
+        "character": "Lt. JG (Hospital)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h78FvoeeuTtX5K6DwcamB4kU27T.jpg"
+      },
+      {
+        "name": "Trevor Danielson",
+        "character": "Talker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e6bknDwq9EmiW2INNpder8vplQg.jpg"
+      },
+      {
+        "name": "Agostino Michael Cimino",
+        "character": "Buzz Davis (Sonar Tech Nautilus)",
+        "profile_path": ""
+      },
+      {
+        "name": "Takeshi Kurokawa",
+        "character": "Imperial Guardsman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AiMTdYXMZ038mRV1izzfWQN4GfW.jpg"
+      },
+      {
+        "name": "Ryuta Kato",
+        "character": "Japanese Junior Officer (Yamat)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/su1AdAS2UXSbx0jfwMruL4z0my6.jpg"
+      },
+      {
+        "name": "Garret Sato",
+        "character": "Japanese Officer (Prison)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yEORvpqsasweaMIThCLBKqYjJ7E.jpg"
+      },
+      {
+        "name": "Neil Girvan",
+        "character": "Navy Yard Inspector",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fOhrMtrfoaNHSQUFaehNMK1E4vE.jpg"
+      },
+      {
+        "name": "Ellis Arch",
+        "character": "Lofton Henderson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dwq90x3I968AN5i6uOSDnffIpSk.jpg"
+      },
+      {
+        "name": "Robert Crooks",
+        "character": "McClusky's Radioman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nrGJWpytpp8zZzjZM0KdrzgwnhP.jpg"
+      },
+      {
+        "name": "Sean Colby",
+        "character": "Gay's Radioman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ryFDXt2hoFkscOb3GX4giXWIi8o.jpg"
+      },
+      {
+        "name": "Kasey Ryne Mazak",
+        "character": "Signal Officer (Akagi)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pVC3OtRyUV6JPFwsoGtBkD4VNsJ.jpg"
+      },
+      {
+        "name": "Ryo Hayashida",
+        "character": "Deck Officer (Akagi)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Chapman",
+        "character": "Helmsman (Nautilus)",
+        "profile_path": ""
+      },
+      {
+        "name": "Masahiro Tanikawa Masa Tani",
+        "character": "Damage Control Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryohei Arima",
+        "character": "Japanese Lieutenant (Kaga)",
+        "profile_path": ""
+      },
+      {
+        "name": "Hiro Kanagawa",
+        "character": "Makigumo Captain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dyWOPJmZTfy3r3R5eDY2d7yf8Ze.jpg"
+      },
+      {
+        "name": "Ken Takikawa",
+        "character": "Makigumo Lieutenant",
+        "profile_path": ""
+      },
+      {
+        "name": "Leonardo Boudreau",
+        "character": "Passing Sailor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iqKLZzZqEFaAqPL2YGJeyrGIVPC.jpg"
+      },
+      {
+        "name": "Tony Christopher",
+        "character": "SBD Pilot (Enterprise)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mrbbQlg0RVA9GvjwZSEizmKytew.jpg"
+      },
+      {
+        "name": "Yuta Takenaka",
+        "character": "Staff Officer (Yamato)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/36kGGXODint5SGMHqXQQLAU8W63.jpg"
+      },
+      {
+        "name": "Tatsuya Shirato",
+        "character": "Flag Officer (Yamato)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uGCGXCc3nzReGvZ2c7v1tXErvUh.jpg"
+      },
+      {
+        "name": "Tyler Hall",
+        "character": "William 'Slim' Townsend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lN0FFCcqLTAKMv9uyWYR2o1OPRl.jpg"
+      },
+      {
+        "name": "Kyle Bougeno",
+        "character": "Smoking Sailor",
+        "profile_path": ""
+      },
+      {
+        "name": "David Dacosta",
+        "character": "Breathless Ensign (Enterprise)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d7X2ogV3lDha83vJ20BTok9gG8J.jpg"
+      },
+      {
+        "name": "Kazuki Gonzalez-Adachi",
+        "character": "Hiryu Helmsman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/svmy5eWWIBDXKHFXlgSEqtMqtGa.jpg"
+      },
+      {
+        "name": "Reyn Halford",
+        "character": "Torpedo Room Chief",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hzvdAOLMXBlBGY7UtP1OP8xRs7P.jpg"
+      },
+      {
+        "name": "Toyoaki Ito Leung",
+        "character": "Japanese Boy (10 YO)",
+        "profile_path": ""
+      },
+      {
+        "name": "Halta Nonen",
+        "character": "Japanese Boy #2 (6 YO)",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrian Spencer",
+        "character": "Chief Medic (Enterprise)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ibDcS36iABXTNnbQUN10TLZ6EKT.jpg"
+      },
+      {
+        "name": "James Hicks",
+        "character": "Edwin Kroeger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/27Ovnj1L3vU7tA2IKjK9PFvNZuB.jpg"
+      },
+      {
+        "name": "Sebastian Pigott",
+        "character": "Petty Officer #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dFdv24Qa9j3WhJDxchn6s8jeepj.jpg"
+      },
+      {
+        "name": "Simon Pelletier-Gilbert",
+        "character": "Yorktown Spotter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AmV9BXYWAMexDZDsYDc4ecmT4jJ.jpg"
+      },
+      {
+        "name": "Philippe Verville",
+        "character": "Doolittle's Bombardier",
+        "profile_path": ""
+      },
+      {
+        "name": "Shigeru Yabuta",
+        "character": "Japanese Duck Netting Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Seunghwan Min",
+        "character": "Zero Pilots Squadron Leader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xMgZOJLLHG18zivnZtSOcJjNK53.jpg"
+      },
+      {
+        "name": "Christopher Tapia",
+        "character": "Hiryu Pointer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sangwon Jun",
+        "character": "Hiryu Talker",
+        "profile_path": ""
+      },
+      {
+        "name": "Motoo Taira",
+        "character": "Akagi Spotter",
+        "profile_path": ""
+      },
+      {
+        "name": "Ana Maria Lombo",
+        "character": "Ballroom Singer",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Roland Emmerich",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mN8x74uv9yQ7dJl8nh2q26mkY8v.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "world war ii",
+    "u.s. navy",
+    "battle of midway",
+    "pacific war",
+    "historical fiction",
+    "pacific theater",
+    "naval warfare",
+    "1940s"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "The story of the Battle of Midway, told by the leaders and the sailors who fought it.",
+    "MIDWAY centers on the Battle of Midway, a clash between the American fleet and the Imperial Japanese Navy which marked a pivotal turning point in the Pacific Theater during WWII. The film, based on the real-life events of this heroic feat, tells the story of the leaders and soldiers who used their instincts, fortitude and bravery to overcome the odds.",
+    "In May 1942 the Imperial Japanese Navy launches an attack on the island of Midway in the Pacific Ocean. Securing it will provide a base for operations against Pearl Harbour and ultimately allow them to attack the US west coast. However, US Navy Intelligence has worked out their plan. Admiral Chester Nimitz sends two US Task Groups with three aircraft carriers to set a trap for the Japanese fleet. What follows is one of the most important battles in history.—grantss"
+  ],
+  "synopsis": "Kyoto, Japan, 1937Lieutenant Commander Edwin T. Layton (Patrick Wilson) meets with Admiral Isoroku Yamamoto (Etsushi Toyokama) following a dinner with the Japanese navy. Yamamoto tells Layton how Japan is eager to become a world power on the same level as the U.S. and China, but the U.S. only sends a limited amount of oil. He promises to Layton that if their supplies are compromised, the Japanese will be forced to take drastic measures.Four years later on December 7, 1941, World War II is raging on, with Japan having invaded China and Hitler taking over Europe. The U.S. has remained neutral up until this point. Just over a thousand miles of Pearl Harbor, pilot Dick Best (Ed Skrein) is flying during a routine exercise with other pilots, ending with a rocky landing aboard the USS Enterprise. He must stay behind and work with his superior officer, Wade McClusky (Luke Evans).On the USS Arizona, Lt. Roy Pearce (Alexander Ludwig) is setting up for church with the rookies. Moments later, Japanese airships fly in and begin to fire upon Pearl Harbor. Ships are bombed and pilots are shot out of the sky. Best's wife Ann (Mandy Moore) and daughter Barbara (Madison Roukema) notice the attack from their backyard. Layton is alerted to the attack and joins his fellow officers. Pearce helps the young men move across to a safer boat while he stays behind and tries to fight back. McClusky gathers his men to prepare themselves for battle, now that the U.S. is officially part of WWII. Just then the Arizona explodes from several hits by Japanese planes, killing nearly everyone on board.After the attack is over, bodies are recovered from the water. Best goes to identify Pearce's body, as he was his roommate and old friend. With Pearce's body burnt beyond recognition, Best can only identify him with a class ring. Later, Best joins his fellow soldiers at a bar to toast to Pearce's memory. Meanwhile, Layton reports to Admiral Kimmel that while the attack did serious damage, it could have been worse. Namely, the base's fuel oil storage facilities were untouched: had they been attacked and destroyed, that loss could have crippled the US Pacific fleet by itself by eliminating its main refuelling facility in the middle of Pacific Ocean and forced to its retreat to the West Coast of the United States.In Japan, Yamamoto becomes aware that the attack has provoked the U.S. He meets with Rear Admiral Tamon Yamaguchi (Tadanobu Asano), having hoped that Vice Admiral Chuichi Nagumo (Jun Kunimara) would destroy the U.S. oil tank farms, , but the men proceed to work on their next move, which is to go after the U.S. air carriers.Admiral Chester Nimitz (Woody Harrelson) arrives in Washington to be assigned as the new commander of the U.S. Pacific Fleet, which took a major hit with the Pearl Harbor attack. He later meets Layton, discussing the latter's failure to warn his superiors in time prior to the attack. Nimitz is firm that he will help lead the men in their next fight, starting by sending them to invade the Marshall Islands.McClusky's men fly into the Islands, while William \"Bull\" Halsey's (Dennis Quaid) men take on the Japanese from the seas. A fight ensues, with U.S. pilots firing upon Japanese ships. A machinist named Bruno Gaido (Nick Jonas) manages to successfully shoot down a Japanese plane into the ocean, which gets him promoted by Halsey.Later on, Lt. Colonel James Doolittle (Aaron Eckhart) arrives as the men are heading to Japan to provide bomber planes with the intent of striking Tokyo. They begin their air raids across Japan. Doolittle ends up in Japanese-occupied territory in China. After some convincing that he is an American military pilot, the Chinese civilians and guerillas congratulate him for striking a blow against Japan. Japanese planes fire upon the village where Doolittle is, killing a number of civilians. Meanwhile, Admiral Yamamoto is despondent at allowing such a brazen attack, but his spirits are lifted upon learning that the incident has convinced the alarmed Japanese government to agree to his plan to take Midway.Layton informs Nimitz that crypt-analyst Joseph Rochefort (Brennan Brown) has picked up a message that indicates the Japanese are moving toward the Coral Sea, targeting something referred to as \"AF\". The Americans make their move in that direction as well. Halsey promotes McClusky to lead the pilots while Best is promoted to skipper. Layton thinks that, contrary to Washington's belief on the Japanese are targeting a location in the South Pacific, Layton thinks \"AF\" is code for Midway, and they are planning to attack there in a matter of weeks. Layton brings Nimitz to personally meet with Rochefort to back up their claims. Nimitz orders them to try and convince Washington with this information. To do, Layton secretly arranges the Midway base to broadcast an uncoded radio message saying their water treatment systems have malfunctioned. Sure enough, Layton's codebreakers intercept a Japanese coded message saying AF is having water problems, and Layton cheerfully passes that clear confirmation of Japan's target to Nimitz.Best begins training the rookies to fly. As it happens, the conditions for takeoffs from the carrier prove dangerously poor and he is barely able to ascend into the air. Unfortunately, Best's warning to abort more sorties until the carrier is repositioned come too late and another pilot lands in the water, getting killed when the ship sails over the plane despite the helm's best efforts to avoid it. Best expresses his woes and doubts to Ann later that night.Nimitz orders USS Hornet and Enterprise out of the Coral Sea and demands that Yorktown, which has been greatly damaged, be readied for the battle within 72 hours. The men continue to prepare and train themselves, all while dreading the battle that lies ahead. However, the arrival of the USS Yorktown lifts their spirits for the action ahead.On the morning of June 4, 1942 the Japanese launch their air attack on Midway. Director John Ford (Geoffrey Blake) runs around the scene with his crew to get some great footage for his next project despite the weapons fire around him. The Americans swoop in the join the battle. McClusky orders his men to follow the Japanese as their destroyer makes its way back to the main fleet for reinforcements. The U.S. launch a torpedo at a Japanese battleship, but they miss. Meanwhile, Nagumo and Yamaguchi plot to launch another strike against the air carriers. The pilots proceed to bomb the Japanese battleships, severely wiping out their attache. In the middle of the battle, Gaido and another soldier are found by the Japanese in the ocean and are brought on-board. After Gaido insults them, he is thrown overboard and sunk with an anchor.The Japanese retaliate and destroy Yorktown. Best is informed that his squadron has lost many men and that one Japanese carrier remains, so he rounds up all the men he can to head out and destroy it, which is successfully done. Following the loss of their carriers, Admiral Yamamoto, painfully aware that the Americans had been apparently been aware of their plans and expecting them all this time, orders his fleet to retreat rather than risk more casualties. Washington learns of the Japanese surrender, and they celebrate their victory. Yamaguchi and Nagumo stay behind and go down with their ship as it is bombed.The soldiers return home from their battle. Best, after giving his thanks to Layton for his superb intelligence work that helped make that victory possible, reunites with Ann, informing her that he may not fly again since the doctors told him he inhaled caustic fumes. She is just happy that he is home, safe and sound.There are numerous texts regarding the fates of the American and Japanese men involved, as well as acknowledging that 250,000 Chinese were murdered by the Japanese army for helping the Doolittle Raiders escape, as well as a dedication to all those that gave their lives.",
+  "imdb_score": 6.7
+}

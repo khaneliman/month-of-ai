@@ -1,0 +1,490 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/9GeuSS66C0xcX1En4uKYgxWCGrS.jpg",
+  "id": 9291,
+  "title": "The Longest Yard",
+  "poster_path": "https://image.tmdb.org/t/p/w500/nbKcVBcxF96ARW2oKHqDYAcLdu.jpg",
+  "release_date": "2005-05-27",
+  "vote_average": 6.649,
+  "vote_count": 3174,
+  "popularity": 43.517,
+  "overview": "Disgraced pro football quarterback Paul Crewe lands in a Texas federal penitentiary, where manipulative Warden Hazen recruits him to advise the institution's football team of prison guards. Crewe suggests a tune-up game which lands him quarterbacking a crew of inmates in a game against the guards. Aided by incarcerated ex-NFL coach and player Nate Scarborough, Crewe and his team must overcome not only the bloodthirstiness of the opposition, but also the corrupt warden trying to fix the game against them.",
+  "imdb_id": "tt0398165",
+  "budget": 82000000,
+  "homepage": "",
+  "revenue": 190300000,
+  "runtime": 113,
+  "tagline": "If you can't get out, get even.",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "production_companies": [
+    "Callahan Filmworks",
+    "Paramount",
+    "MTV Films",
+    "Columbia Pictures",
+    "Happy Madison Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Adam Sandler",
+        "character": "Paul Crewe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1xVMlB2Ufj8MtXzZkfQlPoadRMm.jpg"
+      },
+      {
+        "name": "Chris Rock",
+        "character": "Caretaker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cqI8yQ00GNDV3PAAz5UeLj7vOX0.jpg"
+      },
+      {
+        "name": "James Cromwell",
+        "character": "Warden Hazen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
+      },
+      {
+        "name": "Burt Reynolds",
+        "character": "Coach Nate Scarborough",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iBtcPHUOhA3xH3LMPLRJrQRKI3W.jpg"
+      },
+      {
+        "name": "Nelly",
+        "character": "Megget",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k82qmqN3V8Z1ABaZhIKMYfLevuj.jpg"
+      },
+      {
+        "name": "William Fichtner",
+        "character": "Captain Knauer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg"
+      },
+      {
+        "name": "David Patrick Kelly",
+        "character": "Unger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dPAqT9CuCgvMxEZQqtQPWEQwmIe.jpg"
+      },
+      {
+        "name": "Tracy Morgan",
+        "character": "Ms. Tucker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ec0OJVbs6NZKMbS1yiCAJKjeoJf.jpg"
+      },
+      {
+        "name": "Cloris Leachman",
+        "character": "Lynette",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vsaw9iOVSuluGsOgIGfyGTW9znG.jpg"
+      },
+      {
+        "name": "Michael Irvin",
+        "character": "Deacon Moss",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Romanowski",
+        "character": "Guard Lambert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/viGSGtPxcMXP1s3AL4jHHaaulLf.jpg"
+      },
+      {
+        "name": "Brian Bosworth",
+        "character": "Guard Garner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uIfFfXmBwHpupCNYpjnguEF4HYv.jpg"
+      },
+      {
+        "name": "Terry Crews",
+        "character": "Cheeseburger Eddy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pxTY4SglLo5hFcMH00MxPeC5u55.jpg"
+      },
+      {
+        "name": "Nicholas Turturro",
+        "character": "Brucie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cEMidXA2J6ow6yTR5U2to3pHDkj.jpg"
+      },
+      {
+        "name": "Bill Goldberg",
+        "character": "Battle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Aqh2luDxGap5hoVXw8uj9eEN6Oe.jpg"
+      },
+      {
+        "name": "Kevin Nash",
+        "character": "Guard Engleheart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/thfEbBasyj8isWxrQ7dQuTROATJ.jpg"
+      },
+      {
+        "name": "Steve Austin",
+        "character": "Guard Dunham",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xLc81J33tXrzlMjEFxBTKP4kgO0.jpg"
+      },
+      {
+        "name": "Bob Sapp",
+        "character": "Switowski",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8lmzp41I6Wlh8KvF39msaGQMly3.jpg"
+      },
+      {
+        "name": "Steve Reevis",
+        "character": "Baby Face Bob",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3rwvjFw0NuyvkCeoXeDRH6cIWYH.jpg"
+      },
+      {
+        "name": "Lobo Sebastian",
+        "character": "Torres",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jY11dhfqwvh5BTx0cVU5ZooHcpU.jpg"
+      },
+      {
+        "name": "Dalip Singh",
+        "character": "Turley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mjHFbkOUhf8pb44tfkv815rjUh.jpg"
+      },
+      {
+        "name": "Joey Diaz",
+        "character": "Big Tony",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pLWM7fQoqbbNui1vf7PKE0jdlm2.jpg"
+      },
+      {
+        "name": "Edward Bunker",
+        "character": "Skitchy Rivers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/or5afkJZ6wVCL9XWOxs7tjft2El.jpg"
+      },
+      {
+        "name": "Michael Papajohn",
+        "character": "Guard Papajohn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hdTJBfIXfvRdlD1p8y6rra207UP.jpg"
+      },
+      {
+        "name": "Conrad Goode",
+        "character": "Guard Webster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wcGtpT5FR5PPh9OqfS44hSyUNZT.jpg"
+      },
+      {
+        "name": "Brandon Molale",
+        "character": "Guard Malloy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vdmlsB7caZMJs57RT38oJa5s0U.jpg"
+      },
+      {
+        "name": "Todd Holland",
+        "character": "Guard Holland",
+        "profile_path": ""
+      },
+      {
+        "name": "Walter Williamson",
+        "character": "Errol Dandridge",
+        "profile_path": ""
+      },
+      {
+        "name": "Allen Covert",
+        "character": "Referee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7n3euonyxM0wOGfk0T50pgHo06v.jpg"
+      },
+      {
+        "name": "Rob Schneider",
+        "character": "Punky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kVHNFDOGDrC3LjDyYf5RaCd6auK.jpg"
+      },
+      {
+        "name": "Chris Berman",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/78fG1kUNOqWWfVGrF1pavAAsL1v.jpg"
+      },
+      {
+        "name": "Jim Rome",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sjOC4elKT66hjd4kUXTpBNmhfoO.jpg"
+      },
+      {
+        "name": "Patrick Bristow",
+        "character": "Walt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bNnv5c0AyJdfI5kYhucARYvqm9F.jpg"
+      },
+      {
+        "name": "Lauren Sánchez",
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ahOwHtOHrFZUoJDOd7VvF7RPiL.jpg"
+      },
+      {
+        "name": "Dan Patrick",
+        "character": "Officer Jack Pugh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A4G9dtCuma1yR9QAkhqSyGZsDvr.jpg"
+      },
+      {
+        "name": "Christopher Neiman",
+        "character": "Big Ear Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5lUixsXfOaZjhhRDxhq3m73YNLs.jpg"
+      },
+      {
+        "name": "Ed Lauter",
+        "character": "Duane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5q1CNG6M4cKIrFjFmy7typjEPqt.jpg"
+      },
+      {
+        "name": "Sean Salisbury",
+        "character": "Vic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lqFBF4lE52hSYZMgs35frYcbVNs.jpg"
+      },
+      {
+        "name": "Rob \"Revolution\" Moore",
+        "character": "Gavin",
+        "profile_path": ""
+      },
+      {
+        "name": "Big Boy",
+        "character": "Jesse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4bhx7eZcjNW65tknD5wP3kFinhI.jpg"
+      },
+      {
+        "name": "Michael H. Goodwyn",
+        "character": "Con Transvestite",
+        "profile_path": ""
+      },
+      {
+        "name": "Ray Stoney",
+        "character": "Con Transvestite",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k8NQq0IvE9PavHOZZJz1S7dwnkR.jpg"
+      },
+      {
+        "name": "Michael Silas",
+        "character": "Con Transvestite",
+        "profile_path": "https://image.tmdb.org/t/p/w185/adrPR3ps2MW4fSpDEQgkj7WkhnO.jpg"
+      },
+      {
+        "name": "Andre Fuentes",
+        "character": "Con Transvestite",
+        "profile_path": ""
+      },
+      {
+        "name": "Lonnie Henderson",
+        "character": "Con Transvestite",
+        "profile_path": ""
+      },
+      {
+        "name": "Asiel Hardison",
+        "character": "Con Transvestite",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eYSdGhrzRvAZd7m6Z5NpqvUGCO9.jpg"
+      },
+      {
+        "name": "Colin Kim",
+        "character": "Con Transvestite",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Robert Ellis",
+        "character": "Stretcher Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nTeU4XH7C8aenTnGCg8I75M0W2X.jpg"
+      },
+      {
+        "name": "Timothy F. Crowley",
+        "character": "Umpire",
+        "profile_path": ""
+      },
+      {
+        "name": "Mr. Porter",
+        "character": "Basketball Convict",
+        "profile_path": ""
+      },
+      {
+        "name": "Bizarre",
+        "character": "Basketball Convict",
+        "profile_path": ""
+      },
+      {
+        "name": "Proof",
+        "character": "Basketball Convict",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aBaGTqbtqfwQJGKdTyMVQ7YJ5G6.jpg"
+      },
+      {
+        "name": "Kuniva",
+        "character": "Basketball Convict",
+        "profile_path": ""
+      },
+      {
+        "name": "Swift",
+        "character": "Basketball Convict",
+        "profile_path": ""
+      },
+      {
+        "name": "Bryan Burwell",
+        "character": "Sportswriter",
+        "profile_path": ""
+      },
+      {
+        "name": "Sam Farmer",
+        "character": "Sportswriter",
+        "profile_path": ""
+      },
+      {
+        "name": "Jay Glazer",
+        "character": "Sportswriter",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter King",
+        "character": "Sportswriter",
+        "profile_path": ""
+      },
+      {
+        "name": "John McClain",
+        "character": "Sportswriter",
+        "profile_path": ""
+      },
+      {
+        "name": "Adam Schefter",
+        "character": "Sportswriter",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry Weisman",
+        "character": "Sportswriter",
+        "profile_path": ""
+      },
+      {
+        "name": "Marc S. Ganis",
+        "character": "Lorenzo",
+        "profile_path": ""
+      },
+      {
+        "name": "Shane Ralston",
+        "character": "Bradlee",
+        "profile_path": ""
+      },
+      {
+        "name": "Jenae Altschwager",
+        "character": "Party Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wvDlc9LWXb59uFZVbuhVb3wr8MI.jpg"
+      },
+      {
+        "name": "Candace Juleff",
+        "character": "Party Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Bryan Ross",
+        "character": "Party Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ufn1yhElASQs0kGGgIZ6PsqkupN.jpg"
+      },
+      {
+        "name": "Ricardo J. King",
+        "character": "Press Box Technician",
+        "profile_path": ""
+      },
+      {
+        "name": "Stink Fisher",
+        "character": "Cafeteria Prisoner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kIr9B5t7DmKriwF246cJubeK0dD.jpg"
+      },
+      {
+        "name": "Jasper Pendergrass",
+        "character": "Cafeteria Prisoner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hVj21o7nY1IhyBOKyzjVsyiEzov.jpg"
+      },
+      {
+        "name": "Sean McNamara",
+        "character": "Cafeteria Prisoner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iJLRIBB2P3LXsPBvzdYhf06Lful.jpg"
+      },
+      {
+        "name": "Robert Harvey",
+        "character": "Cafeteria Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Chmielecki",
+        "character": "Guard Sniper",
+        "profile_path": ""
+      },
+      {
+        "name": "Denise Marie Jerome",
+        "character": "Guard Cheerleader",
+        "profile_path": ""
+      },
+      {
+        "name": "Jaayda McClanahan",
+        "character": "Guard Cheerleader",
+        "profile_path": ""
+      },
+      {
+        "name": "Tara Wilson",
+        "character": "Guard Cheerleader",
+        "profile_path": ""
+      },
+      {
+        "name": "Rachel Saydak",
+        "character": "Guard Cheerleader",
+        "profile_path": ""
+      },
+      {
+        "name": "Cara-Lee Knodel",
+        "character": "Guard Cheerleader",
+        "profile_path": ""
+      },
+      {
+        "name": "Nora Hassan",
+        "character": "Guard Cheerleader",
+        "profile_path": ""
+      },
+      {
+        "name": "John Hockridge",
+        "character": "Guard Hock",
+        "profile_path": ""
+      },
+      {
+        "name": "Courteney Cox",
+        "character": "Lena (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o4Fjm9aHL5UNqkXeRgTG8wtvgQv.jpg"
+      },
+      {
+        "name": "Jason Williams",
+        "character": "Texas State Policeman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/41wG3RdT1o9NA5WrfPAicrBFDMd.jpg"
+      },
+      {
+        "name": "Steven Alford",
+        "character": "K-9 Officer Beller (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lJ2iR2FgallflZwTJWWFkElwccI.jpg"
+      },
+      {
+        "name": "Kyle S. Brown",
+        "character": "Football Fanatic (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tUyg3dbPIIHOteKdAg026AU6Z0e.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Peter Segal",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x0nAuktiPai0OovveeegPAi0dRF.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "prison",
+    "corruption",
+    "prisoner",
+    "smuggling (contraband)",
+    "sports",
+    "american football",
+    "blackmail",
+    "texas",
+    "prison warden",
+    "prison guard",
+    "remake",
+    "based on movie",
+    "quarterback",
+    "prisoner abuse",
+    "political aspiration",
+    "public disgrace",
+    "probation violation",
+    "federal penitentiary",
+    "professional football player",
+    "shaving points",
+    "football game",
+    "hotbox"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Prison inmates form a football team to challenge the prison guards.",
+    "Paul \"Wrecking\" Crewe was a revered football superstar back in his day, but that time has since faded. But when a messy drunk driving incident lands him in jail, Paul finds he was specifically requested by Warden Hazen (James Cromwell), a duplicitous prison official well aware of Paul's athletic skills. Paul has been assigned the task of assembling a team of convicts, to square off in a big football game against the sadistic guards. With the help of fellow convict Caretaker, and an old legend named Nate Scarborough to coach, Crewe is ready for what promises to be a very interesting game. It's only the warden and the guards who have no idea who or what they're up against, with Paul the driving force behind the new team.—mystic80",
+    "A group of male prisoners form a gridiron team to play against the guards in a huge match that will be seen by multiple people. As they get ready, the warden tries everything that he can to get into the heads of the prisoners and make them lose the match.—RECB3"
+  ],
+  "synopsis": "Back in his prime, Paul \"Wrecking\" Crewe (Adam Sandler) was the quarterback everyone loved. But when accused of shaving points off a football game, he was out of the picture and hasn't been seen in action since. One night when his obnoxious girlfriend tries to get him to attend her party while he's in the middle of watching a football game he tricks her into going into the closet for a \"gift\" he had stashed away for her and locks her inside. Then he takes her car out for a drive (even though he's extremely drunk and paranoid). He's later stopped by the police, but proceeds with his wreckless driving anyway, only to end up in a huge pile up that ends with the car being completely wrecked and surrounded by thousands of policeman all over television! Crewe is later sent to Allenville State Penitentiary where he meets the gruesome guardsmen headed by Captain Knauer (William Fichtner) and commanded by the sleazy Warden Hazen (James Cromwell). After spending a week in the hotbox, Hazen recruits him to help out with the guards' football team. But despite Crewe's previous refusal, he decides to organize a \"fixed game\" in which the prison inmates [under Crewe's leadership along with the helpful support of Caretaker (Chris Rock) and legendary football coach Nate Scarborough (Burt Reynolds)] will organize a football team of their own for a game of football against the guards. This is the moment every convict has been waiting for: a free shot against the guards. The one chance for one day to take a stand in the midst of a contact sport and fight back! Now the guards are about to get something they have had coming to them for a long time: Payback by the inmates! Of course, Crewe dosen't expect his boys to stand a chance against Hazen's Guards. But come game day, it takes a valuable lesson in self-respect and pride to learn that in order to get your second chance, you have take it like there's no tommorow or spend the next twenty-five years in Allenville Prison.",
+  "imdb_score": 6.4
+}

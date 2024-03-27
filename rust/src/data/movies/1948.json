@@ -1,0 +1,363 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/kSTvteM3ekuoeO7u7GJtZQkZuom.jpg",
+  "id": 1948,
+  "title": "Crank",
+  "poster_path": "https://image.tmdb.org/t/p/w500/toaY9CoMAy37QNv8HbbUqWS4X1Q.jpg",
+  "release_date": "2006-08-31",
+  "vote_average": 6.642,
+  "vote_count": 3523,
+  "popularity": 31.074,
+  "overview": "Chev Chelios, a hit man wanting to go straight, lets his latest target slip away. Then he awakes the next morning to a phone call that informs him he has been poisoned and has only an hour to live unless he keeps adrenaline coursing through his body while he searches for an antidote.",
+  "imdb_id": "tt0479884",
+  "budget": 12000000,
+  "homepage": "",
+  "revenue": 42900000,
+  "runtime": 88,
+  "tagline": "There are a thousand ways to raise your adrenaline. Today, Chev Chelios will need every single one.",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    "Lakeshore Entertainment",
+    "RadicalMedia",
+    "GreeneStreet Films",
+    "Lionsgate"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jason Statham",
+        "character": "Chev Chelios",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lldeQ91GwIVff43JBrpdbAAeYWj.jpg"
+      },
+      {
+        "name": "Amy Smart",
+        "character": "Eve",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cGbVgcBDYeSqNWUrwCUKZZbVMje.jpg"
+      },
+      {
+        "name": "Jose Pablo Cantillo",
+        "character": "Ricky Verona",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qtNesvN1bAQ779gJBt3LYDsm8f7.jpg"
+      },
+      {
+        "name": "Efren Ramirez",
+        "character": "Kaylo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vo4IDt4NeNCHBXLz58Wjlx5994a.jpg"
+      },
+      {
+        "name": "Dwight Yoakam",
+        "character": "Doc Miles",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lMqcRiQs2OELf0xvFbLbX4nnXi8.jpg"
+      },
+      {
+        "name": "Carlos Sanz",
+        "character": "Carlito",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pk6v9wnVgw2JhwFOH0jEU5f0WrB.jpg"
+      },
+      {
+        "name": "Reno Wilson",
+        "character": "Orlando",
+        "profile_path": "https://image.tmdb.org/t/p/w185/odYnlRblq5nQHqFgOAu5zPUJCde.jpg"
+      },
+      {
+        "name": "Edi Gathegi",
+        "character": "Haitian Cabbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nOkjzPRI2y3uDlWT5bGoRtEtcII.jpg"
+      },
+      {
+        "name": "Glenn Howerton",
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9nvdlnsDWJc2A5fCjvnufBcPlTj.jpg"
+      },
+      {
+        "name": "Jay Xcala",
+        "character": "Alex",
+        "profile_path": ""
+      },
+      {
+        "name": "Keone Young",
+        "character": "Don Kim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nDTQe7D7NmbzAryfKQKx2NALmid.jpg"
+      },
+      {
+        "name": "Valarie Rae Miller",
+        "character": "Chocolate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zVD40ujRFilHsDLkVl3vYiDfgPO.jpg"
+      },
+      {
+        "name": "Yousuf Azami",
+        "character": "Arab Cabbie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oqNkMKmvDtmJIiU0c2oi6AYMDDN.jpg"
+      },
+      {
+        "name": "Laurent Schwaar",
+        "character": "Man in Garage",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aYQGLLZftyxyZI6zHjkmIDpasVX.jpg"
+      },
+      {
+        "name": "David Brown",
+        "character": "Sin City Brother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/szoY2neK7jSf3a847dIGr5cj3KF.jpg"
+      },
+      {
+        "name": "Dorian Kingi",
+        "character": "Convenience Store Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2bqMvUVaQUg8jGqpf3OcQyKhUYg.jpg"
+      },
+      {
+        "name": "Med Abrous",
+        "character": "Verona Crew #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yPwNU07Pq9y5oifyrzYBiRv8Fnn.jpg"
+      },
+      {
+        "name": "Daniel Stevens",
+        "character": "Verona Crew #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oJhASwyMincQlxf42aJn9khlt9Z.jpg"
+      },
+      {
+        "name": "Wally Lozano",
+        "character": "Verona Crew #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jtHY6g7NgJSwWA4nGEK6QAnanwR.jpg"
+      },
+      {
+        "name": "David T. Green",
+        "character": "Hightower",
+        "profile_path": ""
+      },
+      {
+        "name": "Eve Loseth",
+        "character": "Restaurant Waitress",
+        "profile_path": ""
+      },
+      {
+        "name": "Allen Bloomfield",
+        "character": "Pharmacy Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bXwXGFGT1yh4V9iV1xTuZ1lSq7H.jpg"
+      },
+      {
+        "name": "Stephanie Mace",
+        "character": "Pharmacist",
+        "profile_path": ""
+      },
+      {
+        "name": "Chester Bennington",
+        "character": "Pharmacy Stoner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6100kBIvUHArlQnBYO0B3u107rV.jpg"
+      },
+      {
+        "name": "Michael McLafferty",
+        "character": "Hospital Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mBNmcXecpuj3DJ3NIjbcD6wzXwp.jpg"
+      },
+      {
+        "name": "Earl Carroll",
+        "character": "Stretcher Patient",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Swibel",
+        "character": "Hospital Tech #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b8LoONvPu4xgTtuUoaaz6J5nGdq.jpg"
+      },
+      {
+        "name": "Donnie Smith",
+        "character": "Hospital Tech #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hqIfHkQa0yqObqoHj7s7htcVXVS.jpg"
+      },
+      {
+        "name": "Sean Graham",
+        "character": "Motorcycle Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Q23eM5kV3QVLb7fYIaR60UpOPV.jpg"
+      },
+      {
+        "name": "Dan Callahan",
+        "character": "TV Store Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/anDbPDbFeftVrnlirB3VQVfwsYT.jpg"
+      },
+      {
+        "name": "Noel Gugliemi",
+        "character": "Warehouse Rooftop Hood",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8jujXofjpSroMQ1R2JLB0GWIPor.jpg"
+      },
+      {
+        "name": "Daniel Venegas",
+        "character": "Warehouse Window Hood",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zau847ynl4vfpWdlqQTjrpiXoLe.jpg"
+      },
+      {
+        "name": "Francis Capra",
+        "character": "Warehouse Hood Leader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iMbTbfIKNqjNwtwtdMLMRJUG1ej.jpg"
+      },
+      {
+        "name": "Frank Blake",
+        "character": "Warehouse Hood #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9kffdXSIh5TBE5Wm7M1Lpuw5Cru.jpg"
+      },
+      {
+        "name": "Mike G.",
+        "character": "Warehouse Hood #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g4Vp1kQq6E05Czb1JNyIFbfVWO0.jpg"
+      },
+      {
+        "name": "Ken Moreno",
+        "character": "Hood #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Troy Robinson",
+        "character": "Hood #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eYnD3gE7Mjo26fQLuT0MSsVTMfq.jpg"
+      },
+      {
+        "name": "Eddie Perez",
+        "character": "Hood #5",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lJ0584zfHNwj2QywbBvF7TcEy8w.jpg"
+      },
+      {
+        "name": "Justin Riemer",
+        "character": "Hood #6",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fopwG7tU8UK5pWuqThf0CjMZGnE.jpg"
+      },
+      {
+        "name": "Peter Choi",
+        "character": "Shirt Factory Supervisor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4HFdgrWjgS5KFnwbhRlKGDHHOCL.jpg"
+      },
+      {
+        "name": "Elizabeth Jayne Hong",
+        "character": "Bus Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j3q8VoKN8cjIlcXVM3ew48BMxka.jpg"
+      },
+      {
+        "name": "Toshi Toda",
+        "character": "Japanese Businessman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/74UmEu6NOr7pNRbC1PbVKusUCsz.jpg"
+      },
+      {
+        "name": "Sam Witwer",
+        "character": "Shootout Henchman #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8flOyMoh9hBQPqi6ISD7W1mDjnY.jpg"
+      },
+      {
+        "name": "Jai Stefan",
+        "character": "Shootout Henchman #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sozdbMim6v10gaTM0QhyLBMev6f.jpg"
+      },
+      {
+        "name": "Jacki R. Chan",
+        "character": "Cocoon Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Rick Shuster",
+        "character": "Helicopter Pilot",
+        "profile_path": ""
+      },
+      {
+        "name": "Ted Garcia",
+        "character": "TV Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eClwg7pZyIRzGKah0X8M1d0PrbM.jpg"
+      },
+      {
+        "name": "Candice A. Buenrostro",
+        "character": "Bikini Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/54DCsu4eE34Eh2KSBNpanxa9pl1.jpg"
+      },
+      {
+        "name": "Nina Kaze",
+        "character": "Freaky Club Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lY7Fbqq6E9olNCR7z0DUUKHtjkO.jpg"
+      },
+      {
+        "name": "Michael Dane",
+        "character": "Traffic Cop",
+        "profile_path": ""
+      },
+      {
+        "name": "Guillaume DeLouche",
+        "character": "Hooded Terrorist",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard T. Henry",
+        "character": "SWAT Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ceTZ2xHgYUX6z7Du88ZIsXmDOex.jpg"
+      },
+      {
+        "name": "Klaudia Ann Jaworski",
+        "character": "Cocoon Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "India King",
+        "character": "Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/760l7fpWFhdlID7ZecKCSX6mK7R.jpg"
+      },
+      {
+        "name": "Melissa Barker",
+        "character": "Pedestrian (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AvgPOhPqxFiX0Va62bFl61yloO4.jpg"
+      },
+      {
+        "name": "Bai Ling",
+        "character": "Girlfriend (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4NB0MRVFjwutFQCPy8kbq6MEFrb.jpg"
+      },
+      {
+        "name": "Nick Dash",
+        "character": "Gangster (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Brian Taylor",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1TXxgF48STiUb3F9cp1L5iEx5Pb.jpg"
+      },
+      {
+        "name": "Mark Neveldine",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lgmXPChEiXBSzroCSZS5XNqaZJF.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "assassin",
+    "helicopter",
+    "hitman",
+    "poison",
+    "adrenaline",
+    "fistfight",
+    "swimming pool",
+    "revenge",
+    "shootout",
+    "motorcycle",
+    "drugs",
+    "cell phone",
+    "pharmacy",
+    "defibrillation",
+    "hospital gown",
+    "emergency room",
+    "aftercreditsstinger",
+    "sweatshop",
+    "epinephrine"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Professional assassin Chev Chelios learns his rival has injected him with a poison that will kill him if his heart rate drops.",
+    "Poisoned by the potent and deadly mix of synthetic drugs called \"The Beijing Cocktail\" for getting in the way of the Triads, the tough-as-nails British hitman living in Los Angeles, Chev Chelios, wakes up with a terrible headache. With less than an hour to live, Chev will have to use all the help he can get from his doctor, and use every trick in the book, to consistently keep his heart rate up so that the adrenaline in his bloodstream staves off the effects of the deadly toxin. Now, his heart is pounding faster than any other human being, and as Chelios darts across the city's streets in search of an antidote and the arrogant criminal, Ricky Verona, to exact his revenge, he finds himself compelled to pick fights with no-nonsense drug dealers, murderous assassins, and an army of thugs. But, can Chelios stay alive long enough to protect those he loves, and make it through the day?—Nick Riganas",
+    "Chev Chelios is a professional assassin working for the West Coast crime syndicate. Chev's girlfriend Eve doesn't know what Chev does and Chev is planning to quit the crime syndicate so he can spend more time with her. But for Chev, things about to get very bad, when he learns he has been injected with a poison by his rival Verona, which will kill him if his heart rate drops. Trying to stay alive and seeking help from friend, Kaylo and Doc Miles, to keep his heart pumping. Chev sets out to find answers as well as protecting Eve, and get his revenge on those who have betrayed him before the poison kills him.—Daniel Williamson"
+  ],
+  "synopsis": "The plot revolves around Carlito (Carlos Sanz), who leads a wealthy and influential Mexican-American crime syndicate in Los Angeles. Worried about the encroachment of a group of heavily-armed members of the Chinese mafia, Carlito orders the contract killing of their leader, Don Kim (Keone Young). Carlito's best hitman, a British man called Chev Chelios (Jason Statham), is ordered to do the job. However Carlito underestimated the Chinese and after the hit, the anger of the Chinese is much greater than Carlito expected. Carlito regrets the hit, deeming it \"ill-advised\", and to ease the pressure Carlito offers the Chinese an explanation and a solution: the hit was nothing to do with him, and Carlito will remove certain elements within his own organization who were responsible and operating on their own.Ricky Verona (Jose Pablo Cantillo), a small time criminal and long-time rival of Chelios, uses the opportunity to conspire with Carlito against Chelios, unknown to Chelios who believes Carlito is still loyal to him. While Chelios sleeps in his apartment one night, Verona breaks in and injects Chelios with the \"Beijing Cocktail\". This is a synthetic drug which inhibits the flow of adrenaline from the adrenal glands, slowing the heart, and eventually killing the victim. Chelios wakes to find a recorded video explaining that Chelios should only have about an hour left before the poison stops his heart.Chelios phones Doc Miles (Dwight Yoakam) who often works as a personal physician to the Mafia, who informs Chelios that in order to survive and keep his heart beating he must keep his adrenaline pumping through constant excitement and danger, or get some artificial adrenaline, epinephrine. With his own adrenaline keeping the poison at bay at first, Chelios breaks into a hospital and steals numerous drugs, much more than Doc Miles advises him to take and also being \"juiced\" by hits from a defibrilator. He must keep his adrenaline up through reckless and dangerous acts such as picking fights with other gangsters, stealing things, committing robberies, fighting with police and driving cars through shopping malls.The entire film takes place in a single day. Over the course of the day Chelios sets out to get his revenge on Verona, knowing that he probably will not make it to the end of the day, and attempting to find Verona and his street gang through Chelios' street contact Kaylo (Efren Ramirez), a flamboyant homosexual. Chelios also goes to pick up his girlfriend Eve (Amy Smart) before Verona's thugs get to her. Chelios has sex with Eve in the middle of a busy street in Chinatown while hundreds of people look on, in order to keep his adrenaline up.In the end it is revealed that Chelios spared Don Kim's life and told him to leave LA. Towards the end of the film, Chelios arranges a rooftop meeting with Carlito, Verona and their henchmen, who promise him a fake antidote. Don Kim arrives along with his Triads to assist Chelios, and in a shootout many of Carlito's men are killed. Carlito is killed by an ambitious and treacherous Verona, who then attempts to leave in Carlito's helicopter. The film concludes with Chelios confronting Verona in the helicopter and as they fight the pair fall from the chopper thousands of feet above LA, and mid-flight Chelios breaks Verona's neck. He then calls Eve on his cell phone, apologizing that he will not be coming back to her. Chelios hits a car, bounces off it and lands right in front of the camera. In the last shot it is implied that his adrenaline is indeed still flowing fast; his nostrils flare, he blinks, and two heartbeats are heard.",
+  "imdb_score": 6.9
+}

@@ -1,0 +1,328 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg",
+  "id": 530915,
+  "title": "1917",
+  "poster_path": "https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+  "release_date": "2019-12-25",
+  "vote_average": 7.992,
+  "vote_count": 11686,
+  "popularity": 39.052,
+  "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+  "imdb_id": "tt8579674",
+  "budget": 100000000,
+  "homepage": "https://www.1917.movie/",
+  "revenue": 394638258,
+  "runtime": 119,
+  "tagline": "Time is the enemy",
+  "genres": [
+    "War",
+    "Action",
+    "Drama"
+  ],
+  "production_companies": [
+    "DreamWorks Pictures",
+    "Reliance Entertainment",
+    "New Republic Pictures",
+    "Neal Street Productions",
+    "Mogambo Films",
+    "Amblin Partners"
+  ],
+  "production_countries": [
+    "IN",
+    "ES",
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "George MacKay",
+        "character": "Lance Corporal Schofield",
+        "profile_path": "https://image.tmdb.org/t/p/w185/agJ3u6vNmXyMhQo7qB3I1kXOEIY.jpg"
+      },
+      {
+        "name": "Dean-Charles Chapman",
+        "character": "Lance Corporal Blake",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sDWP1EZKmzb46Arm8igxpI9siYx.jpg"
+      },
+      {
+        "name": "Mark Strong",
+        "character": "Captain Smith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
+      },
+      {
+        "name": "Andrew Scott",
+        "character": "Lieutenant Leslie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/akbGBP3RI4siNLPr8Pa6YcD2NJt.jpg"
+      },
+      {
+        "name": "Richard Madden",
+        "character": "Lieutenant Blake",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kC7X9LgAtJfpxUBRtVwaVTEXomH.jpg"
+      },
+      {
+        "name": "Claire Duburcq",
+        "character": "Lauri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qS6WwLJb8GlYcIV5Cj16J3RJDE3.jpg"
+      },
+      {
+        "name": "Colin Firth",
+        "character": "General Erinmore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4VBeYEUQbfhnivdkqInM36u5fda.jpg"
+      },
+      {
+        "name": "Benedict Cumberbatch",
+        "character": "Colonel MacKenzie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fBEucxECxGLKVHBznO0qHtCGiMO.jpg"
+      },
+      {
+        "name": "Daniel Mays",
+        "character": "Sergeant Sanders",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2qmA5mXnhA7Nelu2BTbJTvzq35u.jpg"
+      },
+      {
+        "name": "Adrian Scarborough",
+        "character": "Major Hepburn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/61lXhIEZzSsT38yBro8Rh01GDmA.jpg"
+      },
+      {
+        "name": "Chris Walley",
+        "character": "Private Bullen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qASA1oFOwEvL7epg0HZkPE4SRwc.jpg"
+      },
+      {
+        "name": "Nabhaan Rizwan",
+        "character": "Sepoy Jondalar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ljDpNmRnx9Mxe6DZbOMVZlGVXAN.jpg"
+      },
+      {
+        "name": "Jamie Parker",
+        "character": "Lieutenant Richards",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kioFUj2azjO6DLPNxWiKr8nvk6K.jpg"
+      },
+      {
+        "name": "Tommy French",
+        "character": "Private Butler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fDEVG8sRsVuwWdF13Qm8FJT276v.jpg"
+      },
+      {
+        "name": "Paul Tinto",
+        "character": "NCO Baker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xkuHCToqahrpzcFbqBlxIxbE6cV.jpg"
+      },
+      {
+        "name": "Billy Postlethwaite",
+        "character": "NCO Harvey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cpHNAqOBP8SIcml1A8ODmtuEyNh.jpg"
+      },
+      {
+        "name": "Richard McCabe",
+        "character": "Colonel Collins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j7ra3qbWSYKwONNfJ6GBMuIoixY.jpg"
+      },
+      {
+        "name": "Justin Edwards",
+        "character": "Captain Ivins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vhAAVpzdswyq95pmVyKv9PsQPyQ.jpg"
+      },
+      {
+        "name": "Pip Carter",
+        "character": "Lieutenant Gordon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1ToRZDhzyIkTvexq5zmiQIQRLhP.jpg"
+      },
+      {
+        "name": "Andy Apollo",
+        "character": "Sergeant Miller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q5pziqEDK8MN65NLBuRsBvndUXv.jpg"
+      },
+      {
+        "name": "Josef Davies",
+        "character": "Private Stokes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/geljWJJDVuthFmwqiFundYwqwPR.jpg"
+      },
+      {
+        "name": "Gabriel Akuwudike",
+        "character": "Private Buchanan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8ZsobpbFutJZt3X8yAJJk2HGiHm.jpg"
+      },
+      {
+        "name": "Spike Leighton",
+        "character": "Private Kilgour",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y6YSlsVnsUDjsKfDUpP53pgSvdC.jpg"
+      },
+      {
+        "name": "Robert Maaser",
+        "character": "German Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A1YhyTwttU94AsaA2zktcEeDMmz.jpg"
+      },
+      {
+        "name": "Gerran Howell",
+        "character": "Private Parry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uckDufKbHfRhz94BaMdkurRp6ra.jpg"
+      },
+      {
+        "name": "Adam Hugill",
+        "character": "Private Atkins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o0XToJB2MrTtNm5n2g3UYxcMNrV.jpg"
+      },
+      {
+        "name": "Benjamin Adams",
+        "character": "Sergeant Harrop",
+        "profile_path": ""
+      },
+      {
+        "name": "Anson Boon",
+        "character": "Private Cooke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nxrcq1SiFpvrMckcDq5SV3fwYvj.jpg"
+      },
+      {
+        "name": "Kenny Fullwood",
+        "character": "Private Rossi",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryan Nolan",
+        "character": "Private Malky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kbRJCpyE1mgU4lFtCtoZErAZJCp.jpg"
+      },
+      {
+        "name": "Elliot Baxter",
+        "character": "Private Sniper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gKkEF8ZgN8TFbltGmpU4Ry0WkSb.jpg"
+      },
+      {
+        "name": "Kye Mckee",
+        "character": "German Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "Ivy-I Macnamara",
+        "character": "French Baby",
+        "profile_path": ""
+      },
+      {
+        "name": "Merlin Leonhardt",
+        "character": "Soldat Muller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q0RbAJ0EOUVKGYRVrhFDXkNbc0B.jpg"
+      },
+      {
+        "name": "Taddeo Kufus",
+        "character": "Soldat Baumer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jos Slovick",
+        "character": "Wayfaring Stranger Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mkJgrZeItMVVNzclJ4OLJbbDaRl.jpg"
+      },
+      {
+        "name": "Luke Hornsby",
+        "character": "Private Pinwood",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v1JkBn17BXc79xpGxA7pwGBI7t0.jpg"
+      },
+      {
+        "name": "Jack Shalloo",
+        "character": "Private Seymour",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nnllU5Uiif7a2Txmy3cNVJztXNG.jpg"
+      },
+      {
+        "name": "Elliot Edusah",
+        "character": "Private Grey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cqtqwlmmg13D342GmZLpgab2BcY.jpg"
+      },
+      {
+        "name": "Joe Anders",
+        "character": "Private Willock",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacob James Beswick",
+        "character": "Lance Corporal Duff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zdXqPO42sFulUn10suNuzAG69fZ.jpg"
+      },
+      {
+        "name": "Michael Jibson",
+        "character": "Lieutenant Hutton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eGdaqVXfjRPBFqddHiSKS7SorM2.jpg"
+      },
+      {
+        "name": "Ian Wilson",
+        "character": "Sergeant Wright",
+        "profile_path": ""
+      },
+      {
+        "name": "Bradley Connor",
+        "character": "Sergeant Gardner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/enT9EegNtt9vWnei4CmAuk3gqBH.jpg"
+      },
+      {
+        "name": "John Hollingworth",
+        "character": "Sergeant Guthrie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7aT6wgl1xYfBHtW2q3oADUuAwMM.jpg"
+      },
+      {
+        "name": "Samson Cox-Vinell",
+        "character": "Orderly Dixon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6p5k7eW3dnTO0EcaPs9L3XtcrP.jpg"
+      },
+      {
+        "name": "Jonny Lavelle",
+        "character": "Orderly Byrne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sJbxDXtXzUb2EDCEv2YsKa428xg.jpg"
+      },
+      {
+        "name": "Michael Rouse",
+        "character": "Captain Rylands",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zGs7QH27q1OEIN0hcpvSK2IM2R4.jpg"
+      },
+      {
+        "name": "Richard Dempsey",
+        "character": "Mackenzie Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gaUPWEBm4qMlqXstzRgu9s3OGMT.jpg"
+      },
+      {
+        "name": "Phil Cheadle",
+        "character": "Mackenzie Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4JDkMQsBQ2tEhKjk8bw3dD5u1Wu.jpg"
+      },
+      {
+        "name": "Jonah Russell",
+        "character": "Captain Morahan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8lhY8m9bD3mkqgXI5iMS5nNSxv3.jpg"
+      },
+      {
+        "name": "Daniel Attwell",
+        "character": "Captain Sandbach",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gfMYoB3OGXQRrtDLBgDP1FtYcdL.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Sam Mendes",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5z89X9rB76JDblqMQ52fviwXxAN.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "race against time",
+    "world war i",
+    "british army",
+    "soldier",
+    "trenches",
+    "1910s",
+    "trench warfare",
+    "no man's land"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+    "April 1917, the Western Front. Two British soldiers are sent to deliver an urgent message to an isolated regiment. If the message is not received in time the regiment will walk into a trap and be massacred. To get to the regiment they will need to cross through enemy territory. Time is of the essence and the journey will be fraught with danger.—grantss",
+    "April 6, 1917. On a battlefield in Northern France, Lance Corporal Tom Blake with the British Army is asked to choose one of his battalion colleagues to join him on an assignment, he choosing his best friend, Lance Corporal Will Schofield. It isn't until Blake chooses Schofield that they learn of the dangerous nature of the mission: to hand deliver a message to Colonel MacKenzie leading another nearby battalion, they having to cross no man's land to what they have been told are now the abandoned German trenches to get to MacKenzie just past the nearby town of Écoust. The message, which must reach its destination by dawn tomorrow, is for MacKenzie to abort his troop's attack then on the supposedly retreating Germans who are in reality lying in wait, the Germans having planned this deception for months. The lives of MacKenzie and his 1,600 men are at risk if the message does not make it through in time, one of those men being Blake's brother, Lt. Joseph Blake. Blake and Schofield's stories as it pertains to them as soldiers in the bigger picture of the war, as soldiers trying to stay alive, as friends, and as human beings who have their own motivations are told for as long as they are able to survive on this mission.—Huggo",
+    "It's been already three devastating years into the costly World War I, and the Imperial German Army seems to have retreated from their position in the battle-scarred Western Front--an elaborate scheme designed to lure the Allies into a deadly trap. On April 6, 1917--with the lives of 1,600 fellow soldiers hanging by a thread--the best friends and British Army Lance Corporals, Tom Blake and Will Schofield, undertake a peril-laden mission to hand-deliver an urgent, life-saving message to Colonel MacKenzie's Second Battalion of the Devonshire line infantry regiment. With this in mind, amid the horrors of an uncannily silent no man's land, the young brothers-in-arms must traverse nine long miles of hostile enemy terrain in the French countryside, to reach the 2nd Devons in time and call off the imminent attack. Now, two ordinary troopers walk into certain death. What makes a true hero?—Nick Riganas",
+    "British trenches somewhere in France. World War One has been going on for the third year, heroic illusions have dissipated; general mood - boredom and fatigue. Stuff the belly, sleep, return home to Christmas Eve. On another quiet day, when nothing happens, two young soldiers, Blake and Schofield, are summoned to the general, who instructs them to send an important message to Colonel MacKenzie in the Second Devonshire Battalion, whose telephone connection was cut off by the enemy.—Peter-Patrick76 (peter-patrick@mail.com)"
+  ],
+  "synopsis": "At the height of the First World War in April 1917 in northern France, two young British soldiers, Lance Corporal Will Schofield (George MacKay) and Lance Corporal Tom Blake (Dean-Charles Chapman), are given a mission directly by General Erinmore (Colin Firth) to hand-deliver a message to the 2nd Battalion of the Devonshire Regiment, calling off their planned attack on the German forces. The Germans have feigned retreat to the Hindenburg Line (it is 3 miles deep, artillery, defenses and fortifications never seen before) and are prepared to ambush the battalion of 1,600 men, Blake's brother Lieutenant Joseph Blake (Richard Madden) among them. Erinmore has aerial photos that show the German fortifications which will destroy the advance of the Devonshire Regiment, who aims to attack at dawn the following morning. As all phone lines are cut there is no other way to get the message across.Schofield wants to wait till dark, but Blake wants to save his brother and leaves immediately. They are 9 miles from their destination. It should take them 6-8 hours to get there at the most.\nLieutenant Leslie (Andrew Scott) is in command of the trench from where the duo have to access the No man's land. Leslie doesn't believe Erinmore's analysis and says that the Germans are still manning their trenches. He calls it a trap but shows them the best way across the No Man's Land.Schofield and Blake cross no man's land to reach the abandoned German trenches, but Schofield injures his left hand along the way (when it snags in the 2nd line of barbed wire). In an underground barracks (the duo finds massive under bunkers in the German trenches with cots for soldiers to sleep), they discover a tripwire set by the Germans, which is promptly triggered by a rat; the explosion almost kills Schofield, but Blake saves him, and the two escape.They arrive at an abandoned farmhouse (Schofield fills his water flask with milk he finds in a bucket), where a German plane is shot down in a dogfight with Allied aircraft. Schofield and Blake save the burned pilot from the wreck. Blake persuades Schofield to get water for the pilot. When Schofield's back is turned, the pilot stabs Blake. Schofield shoots the pilot dead and comforts Blake as he dies, promising to complete the mission and to write to Blake's mother. Taking Blake's rings and dog tag, as well as Erinmore's letter, he is picked up by a passing British unit (led by Captain Smith (Mark Strong)) and dropped off near the bombed-out village of Ecoust-Saint-Mein. Smith tells Schofield to have witnesses when he gives the orders to Mackenzie. Smith knows that some men just want a fight and Mackenzie may not call off the attack even after being ordered.A destroyed canal bridge near Ecoust-Saint-Mein prevents the British lorries from crossing, and Schofield chooses to part with them. He uses what is left of the bridge to cross alone and comes under fire from a sniper. Exchanging shots, Schofield wounds the sniper and advances, whereupon he and the sniper shoot each other simultaneously; the sniper is killed, while Schofield is struck in the helmet and knocked unconscious. He awakens at night and makes his way through the flare-lit ruins of the town.After evading a German soldier, he discovers a French woman hiding with a presumably orphaned infant. She treats his wounds, and he gives her his canned food and milk from the farm. Despite her pleas, Schofield leaves, after hearing the chimes of a nearby clock and realizing that time is running out. Encountering German soldiers who were occupying Ecoust, he strangles one to death and escapes pursuit by jumping into a river. The river carries him while the cherry blossoms fall. He is swept over a waterfall before reaching the riverbank.Schofield reaches the 2nd Battalion in the morning only to find that the attack has already begun, and that Blake's brother is among the first wave to go over the top. As the company starts to move toward the front, Schofield tries to reach Colonel Mackenzie (Benedict Cumberbatch).Realizing that the trenches are too crowded for him to make it to Mackenzie in time, Schofield goes \"over the top\" and sprints on the open battlefield parallel to the British trench line, just as the infantry begins its charge. He forces his way in to meet Mackenzie, who reads the message and reluctantly calls off the attack.\nSchofield looks for Blake's brother, and finds him, who was among the first wave and is bloodied but unharmed. Schofield informs Joseph of his mission and of Tom's death, passing on Tom's rings and dog tag. Joseph is deeply upset about his brother but thanks Schofield for his efforts. Schofield asks for permission to write to their mother about Tom's heroics, to which Joseph agrees. Exhausted, Schofield sits under a nearby tree and looks at photographs of his family; on the back of one of them is the message Come back to us.",
+  "imdb_score": 8.2
+}

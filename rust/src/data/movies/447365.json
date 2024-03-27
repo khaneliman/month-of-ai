@@ -1,0 +1,512 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+  "id": 447365,
+  "title": "Guardians of the Galaxy Vol. 3",
+  "poster_path": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+  "release_date": "2023-05-03",
+  "vote_average": 7.985,
+  "vote_count": 5841,
+  "popularity": 199.318,
+  "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+  "imdb_id": "tt6791350",
+  "budget": 250000000,
+  "homepage": "https://www.marvel.com/movies/guardians-of-the-galaxy-volume-3",
+  "revenue": 845600000,
+  "runtime": 150,
+  "tagline": "Once more with feeling.",
+  "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Action"
+  ],
+  "production_companies": [
+    "Marvel Studios",
+    "Kevin Feige Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Chris Pratt",
+        "character": "Peter Quill / Star-Lord",
+        "profile_path": "https://image.tmdb.org/t/p/w185/83o3koL82jt30EJ0rz4Bnzrt2dd.jpg"
+      },
+      {
+        "name": "Zoe Saldaña",
+        "character": "Gamora",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+      },
+      {
+        "name": "Dave Bautista",
+        "character": "Drax the Destroyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+      },
+      {
+        "name": "Karen Gillan",
+        "character": "Nebula",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6WgDVH5OiR0gZ6WlQZSWgv3Wl1U.jpg"
+      },
+      {
+        "name": "Pom Klementieff",
+        "character": "Mantis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hfUKAI2kXTMMWjno0i4sLPJud5N.jpg"
+      },
+      {
+        "name": "Vin Diesel",
+        "character": "Groot (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+      },
+      {
+        "name": "Bradley Cooper",
+        "character": "Rocket (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lq68RaE8zK4lNaB49RWOukyorgn.jpg"
+      },
+      {
+        "name": "Sean Gunn",
+        "character": "Kraglin / Young Rocket (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/72EeniY2lnlXLRvL34LnU0skfe5.jpg"
+      },
+      {
+        "name": "Chukwudi Iwuji",
+        "character": "The High Evolutionary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5JILtFNmAmA8T4gRQrO5sn8krDv.jpg"
+      },
+      {
+        "name": "Will Poulter",
+        "character": "Adam Warlock",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9blYMaj79VGC6BHTLmJp3V5S8r3.jpg"
+      },
+      {
+        "name": "Maria Bakalova",
+        "character": "Cosmo (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nUivgeC0kyhkI6QOAhw2k5VGhBk.jpg"
+      },
+      {
+        "name": "Elizabeth Debicki",
+        "character": "Ayesha",
+        "profile_path": "https://image.tmdb.org/t/p/w185/etzJKGHJPEB28CVMnW55JqucjNI.jpg"
+      },
+      {
+        "name": "Sylvester Stallone",
+        "character": "Stakar Ogord",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mJHmLVLctqZd30CSEUKuVFEPrnt.jpg"
+      },
+      {
+        "name": "Austin Freeman",
+        "character": "On-Set Groot / Phlektik Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ayMPH1a0QKAeiCVk77L5i5IZdlc.jpg"
+      },
+      {
+        "name": "Stephen Blackehart",
+        "character": "Steemie Blueliver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v5niazocH1HjyCIxrnbrf93P1dK.jpg"
+      },
+      {
+        "name": "Terence Rosemore",
+        "character": "Xlomo Smeth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mjBaREqAREvJLxDpOlUGLxaYrIP.jpg"
+      },
+      {
+        "name": "Sarah Alami",
+        "character": "Ssssaralami",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9FukH6xhQpxymjHNF6WpCLT6s9z.jpg"
+      },
+      {
+        "name": "Jasmine Munoz",
+        "character": "Hoobtoe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/exwKk7e8Xy8SuUKUHfTRN1Wli9D.jpg"
+      },
+      {
+        "name": "Giovannie Cruz",
+        "character": "Orloni Peddler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oHVCayiyaf2c9zlZE6DJDZMy70F.jpg"
+      },
+      {
+        "name": "Nico Santos",
+        "character": "Recorder Theel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e96iYbxaqC9zGaFPxZ2fH82MBNu.jpg"
+      },
+      {
+        "name": "Miriam Shor",
+        "character": "Recorder Vim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mT3sSMwk0opAQze2bJvu2JWyHoe.jpg"
+      },
+      {
+        "name": "Noa Raskin",
+        "character": "Baby Rocket (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Linda Cardellini",
+        "character": "Lylla",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bcycvynDprC1rrhBNrnBjn5uOUd.jpg"
+      },
+      {
+        "name": "Asim Chaudhry",
+        "character": "Teefs",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1F0DwOpxUAEpw5iovMHZ5Y1C8n6.jpg"
+      },
+      {
+        "name": "Mikaela Hoover",
+        "character": "Floor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vH7XYI6cw6PFRDflOJY8iQEEg7g.jpg"
+      },
+      {
+        "name": "Judy Greer",
+        "character": "War Pig (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qiwvGgbbgwiE8gA4oBQpFnTNzl2.jpg"
+      },
+      {
+        "name": "Reinaldo Faberlle",
+        "character": "Behemoth (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tara Strong",
+        "character": "Mainframe (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Z86FfWbnUJnyFTcLa9MpVVFhMh.jpg"
+      },
+      {
+        "name": "Jared Leland Gore",
+        "character": "Krugarr",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Rosenbaum",
+        "character": "Martinex",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9a1wACjRIAg1cbTEsL5WrzPwnFi.jpg"
+      },
+      {
+        "name": "Elan Gale",
+        "character": "Beardy Ravager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/An6kvqA5gkQnNO9aOqxSiY4U54w.jpg"
+      },
+      {
+        "name": "Molly C. Quinn",
+        "character": "Molly Ravager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c3pWyH63Z7RHZkU3y3u6O8f07qf.jpg"
+      },
+      {
+        "name": "Gerardo Davila",
+        "character": "Fitz-Gibbonok",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ba90ieL9PZVj7buy3FehvqPS3LK.jpg"
+      },
+      {
+        "name": "Dee Bradley Baker",
+        "character": "Blurp (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+      },
+      {
+        "name": "Hanna Pak",
+        "character": "Humanimal Turtle Experiment",
+        "profile_path": ""
+      },
+      {
+        "name": "Jennifer Holland",
+        "character": "Administrator Kwol",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ynuKq1Pd6aVGwhb07uJ0PiYV4F6.jpg"
+      },
+      {
+        "name": "Nathan Fillion",
+        "character": "Master Karja",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg"
+      },
+      {
+        "name": "Kyle Mclean",
+        "character": "The Boss's Nephew",
+        "profile_path": ""
+      },
+      {
+        "name": "Benjamin Byron Davis",
+        "character": "Bletelsnort",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5WHDh9l9Ylsbf5ZKt3nQ4FRweUi.jpg"
+      },
+      {
+        "name": "Tiffany Smith",
+        "character": "Orgocorp Host Friniki",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7kPvIwIEJ5WuoQgOnrxjngyl3Sp.jpg"
+      },
+      {
+        "name": "Joe Daru",
+        "character": "Security Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniela Melchior",
+        "character": "Ura",
+        "profile_path": "https://image.tmdb.org/t/p/w185/as7JfOagvDzhINDdA9Lkrp98UnJ.jpg"
+      },
+      {
+        "name": "Jonathan Mercedes",
+        "character": "Gamora Shoots This Guy!",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gYHqbkELVQ0oPblACYxRUtBXOls.jpg"
+      },
+      {
+        "name": "Jonathan Fritschi",
+        "character": "Carrot Head Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fUUlHNQLQinFlHZN3q0OAnNyrzH.jpg"
+      },
+      {
+        "name": "Diego Ward",
+        "character": "Carrot Head's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Max Bickelhaup",
+        "character": "Kitty Orgosentry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6FMDwtzToz68NQckTvMn0r0siAB.jpg"
+      },
+      {
+        "name": "Renae Moneymaker",
+        "character": "Violent Orgosentry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k96lYjDhLJbhIDLjmxcOxCcHumW.jpg"
+      },
+      {
+        "name": "Alexis Hadesty",
+        "character": "Humanimal Rabbit",
+        "profile_path": ""
+      },
+      {
+        "name": "Tara Warren",
+        "character": "Humanimal Kangaroo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sRzZ8WZfJ8e5RwgbYSaYgaYAyug.jpg"
+      },
+      {
+        "name": "Candi VandiZandi",
+        "character": "Humanimal Monkey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Nk56tHKUYsIldkcFpMaqzfMbWc.jpg"
+      },
+      {
+        "name": "Grecia Balboa",
+        "character": "Warthog Mother",
+        "profile_path": ""
+      },
+      {
+        "name": "Caleb Spillyards",
+        "character": "Humanimal Panda Bear",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5r7Q82C3g8CCIR2Eew6gc2oWSK2.jpg"
+      },
+      {
+        "name": "Darla Delgado",
+        "character": "Neelie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5BZyQGMxVQ0DIwjsZuvB6YWCQdh.jpg"
+      },
+      {
+        "name": "Michelle Civile",
+        "character": "Blue Jay Postal Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Ken Lyle",
+        "character": "Rabbit Businessman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gNJ6YnTVE4WNK0Jy9crauHgJHuq.jpg"
+      },
+      {
+        "name": "Elodie Clarke",
+        "character": "Humanimal Bush Baby Toddler",
+        "profile_path": ""
+      },
+      {
+        "name": "John William Wright",
+        "character": "Humanimal Hyena",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8CrPANpRT8vaUsF4paVmbNbXkNJ.jpg"
+      },
+      {
+        "name": "Autumn Griffin",
+        "character": "Humanimal Bat Child",
+        "profile_path": ""
+      },
+      {
+        "name": "Skylar Huntley",
+        "character": "Humanimal Bat Child",
+        "profile_path": ""
+      },
+      {
+        "name": "Randy Havens",
+        "character": "Till",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Lh5eGcXZUoPJcTWaUw369R706E.jpg"
+      },
+      {
+        "name": "Dane DiLiegro",
+        "character": "Unsavory Octopus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dBaJs1QNTpYL3RIdBz8VN01mmDf.jpg"
+      },
+      {
+        "name": "Kai Zen",
+        "character": "Phyla",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cF15QimDJrSvSvMbYtz8Z9UHIcs.jpg"
+      },
+      {
+        "name": "Sarah Anne",
+        "character": "Latti",
+        "profile_path": ""
+      },
+      {
+        "name": "Yael Ocasio",
+        "character": "Star Child",
+        "profile_path": ""
+      },
+      {
+        "name": "Adelynn Spoon",
+        "character": "Star Child",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gw9Van9nmkdaUoGdE2YVinL2Raj.jpg"
+      },
+      {
+        "name": "Henry Heffernan",
+        "character": "Star Child",
+        "profile_path": ""
+      },
+      {
+        "name": "Brooklyn Skye Oliver",
+        "character": "Star Child",
+        "profile_path": ""
+      },
+      {
+        "name": "Scarlett Blum",
+        "character": "Star Child",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5Dy1xkJYm9g03jRx5RVgOtVNoay.jpg"
+      },
+      {
+        "name": "Baby Dro",
+        "character": "Star Child",
+        "profile_path": ""
+      },
+      {
+        "name": "Emery Grilliot",
+        "character": "Star Child",
+        "profile_path": ""
+      },
+      {
+        "name": "Amelia Waters",
+        "character": "Star Child",
+        "profile_path": ""
+      },
+      {
+        "name": "Lloyd Kaufman",
+        "character": "Gridlemop (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jOkuLNusxT07mxTIJ3ApAdjPy6M.jpg"
+      },
+      {
+        "name": "Seth Green",
+        "character": "Howard the Duck (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg"
+      },
+      {
+        "name": "Christopher Fairbank",
+        "character": "Broker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eSOuf8dTGjwjlConY7d1FGgRNY7.jpg"
+      },
+      {
+        "name": "Rhett Miller",
+        "character": "Bzermikitokolok",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pu1pcZBbkq43qxECHi3YzbZfLnn.jpg"
+      },
+      {
+        "name": "Natalia Safran",
+        "character": "Controller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3luVtifpeQvF54jEf6NbK2Oz0dE.jpg"
+      },
+      {
+        "name": "Murphy Weed",
+        "character": "Murf",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Rooker",
+        "character": "Yondu Udonta",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dq3xFKDWJsQjPffm1bmB3TbMilq.jpg"
+      },
+      {
+        "name": "James Gunn",
+        "character": "Lamb-Shank (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2kFzvqCGeYBrgbuuvvyGE75d9gM.jpg"
+      },
+      {
+        "name": "Pete Davidson",
+        "character": "Phlektik",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f3kubnZu3KgMniExcq9nJy8RwjW.jpg"
+      },
+      {
+        "name": "Jessica Fontaine",
+        "character": "Phlektik Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mtFALO0oGgHFFCJaqjungGITIRw.jpg"
+      },
+      {
+        "name": "Karen Abercrombie",
+        "character": "Grandma Quill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yDTPfrVXge69QZo8hc8GTDPnW9U.jpg"
+      },
+      {
+        "name": "Gregg Henry",
+        "character": "Grandpa Quill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j17nuAFulrbYP34g4Qw8SZRDNUo.jpg"
+      },
+      {
+        "name": "Adriana Leonard",
+        "character": "Crying Krylorian Citizen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5bGKWNYkYb2KgsrrIVElUZoKPKg.jpg"
+      },
+      {
+        "name": "Bonnie Discepolo",
+        "character": "Crying Krylorian Citizen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vGIlPXkuqLhe8kVmQigbEv7dTAE.jpg"
+      },
+      {
+        "name": "Clare Grant",
+        "character": "Crying Krylorian Citizen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uCPsHBUYuDAdOyTpDYDften00El.jpg"
+      },
+      {
+        "name": "Grace Gunn",
+        "character": "Crying Krylorian Citizen",
+        "profile_path": ""
+      },
+      {
+        "name": "Will Gunn",
+        "character": "Crying Krylorian Citizen",
+        "profile_path": ""
+      },
+      {
+        "name": "Brandon Morales",
+        "character": "Dancing Guard",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "James Gunn",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2kFzvqCGeYBrgbuuvvyGE75d9gM.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "hero",
+    "superhero",
+    "mad scientist",
+    "based on comic",
+    "sequel",
+    "superhero team",
+    "space opera",
+    "raccoon",
+    "aftercreditsstinger",
+    "duringcreditsstinger",
+    "marvel cinematic universe (mcu)",
+    "cosmic",
+    "outer space",
+    "chosen family"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and one of their own - a mission that could mean the end of the Guardians if not successful.",
+    "In Marvel Studios \"Guardians of the Galaxy Vol. 3\" our beloved band of misfits are looking a bit different these days. Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.—Marvel Studios",
+    "With everyone around him dead and Gamora's tragic demise in Avengers: Infinity War (2018) etched on his mind, a broken Peter Quill drowns his sorrows in Knowhere, the Guardians' headquarters. But life and time wait for no one. And as a devastating blow comes out of nowhere, leaving a dear friend incapacitated, the depressed Star-Lord must pull himself together to assemble his crew for one last life-and-death mission. This time, however, it seems the space defenders have bitten off more than they can chew. They say the third time's the charm. But with the dark past catching up with them, can the Guardians of the Galaxy (2014) thwart the sinister plans of an unstoppable intergalactic megalomaniac? Can they save the universe one more time?—Nick Riganas",
+    "Due to losing his beloved Gamora during the events of Infinity War, Peter Quill is in a dismal state of depression. But now, Peter must rally the Guardians of the Galaxy to come back together once more when Rocket's past comes back to haunt him. Along with aid from the Ravagers and a duplicate Gamora (who doesn't remember her last life with the team), the Guardians travel to a world that is similar to Earth full of anthropomorphic animal experimentations that is ruled by the malicious High Evolutionary who seeks to make the universe better in his image. Now it will take all the wit and charm and strength of the Guardians to fight the High Evolutionary's plans and save the universe one final time.—Blazer346",
+    "Peter is still depressed over losing Gamora at the hands of Thanos back in Infinity War and 2014 Gamora has no memory of her future relationship with Peter. But things become worse for the Guardians of the Galaxy, when Rocket is severely injured by Adam Warlock, son of the disgraced high priestess Ayesha. In order to save Rocket from dying, the Guardians decide to infiltrate Orgo Corp with the help from 2014 Gamora, who has joined the United Ravagers. The Guardians soon learn that the High Evolutionary is responsible for experimenting on Rocket many years ago on Counter Earth, but horrific truths will soon come into light for the heroes including the High Evolutionary's desperation to capture Rocket for his illegal experiments."
+  ],
+  "synopsis": "Peter is in depression ever since Gamora lost her memory from the last few years.At their new headquarters on Knowhere, the Guardians of the Galaxy are attacked by Adam Warlock (Will Poulter), a Sovereign warrior created by High Priestess Ayesha (Elizabeth Debicki), who seeks to destroy them for stealing from her. Adam easily defeats Rocket, Mantis, Peter Nebula and Groot. Kraglin's arrows cannot pierce Adam's metallic skin. Even Drax is no match for Adam's strength and is subdued.After critically wounding Rocket (Bradley Cooper), Adam is stabbed by Nebula (Karen Gillan), and flees. The Guardians' med-packs are useless at healing Rocket's wounds, who has a kill switch embedded in him by Orgocorp, a company led by the High Evolutionary (Chukwudi Iwuji), Rocket's creator. The code on Rocket's kill switch is 89P13.\nThe Guardians travel to Orgocorp's headquarters to find the switch's override code and save Rocket's life. Kraglin is left in charge of Knowhere with Cosmos, whom Kraglin considers an ugly dog.As Rocket lies unconscious, he recalls his past. He was found as a baby raccoon and was experimented on by the High Evolutionary, an alien cyborg scientist and CEO of OrgoCorp specializing in creating hybrid creatures and Rocket's creator, seeking to forcibly enhance all living beings into a \"special race\" where he has been credited as creating the Animen, the Humanimals, the Hell Spawn, the Sovereign, the Xeronians, and the Star Children, to create an ideal society called Counter-Earth.\nRocket befriended his fellow Batch 89 test subjects: the otter Lylla (Linda Cardellini), the walrus Teefs (Asim Chaudhry), and the rabbit Floor (Mikaela Hoover).\nThe High Evolutionary was impressed by Rocket's growing intelligence and used his insight to fix a defect in later Humanimal batches but planned to harvest Rocket's brain for further research and exterminate the obsolete Batch 89.\nThe High Evolutionary shows Rocket how he has perfected programmed evolution, but for some reason, the evolved organisms are violent by nature. Rocket is able to point out specific changes to the evolutionary program that would help control the level of violence tendency in the evolved organisms.After making the suggested changes, the programmed evolution sequence works. The High Evolutionary is amazed that Rocket, from batch 89, was able to figure this technology out, but could not figure out that batch 89 was only an experiment and not meant for the New World he was building.\nRocket attempted to free his friends, before the High Evolutionary killed Lylla and mocked Rocket for showing grief over her death. Enraged, Rocket mauled the High Evolutionary's face, whose henchmen killed Teefs and Floor in the ensuing firefight. Rocket fled in a spaceship.Back in the present, Ayesha is shown to be working for the High Evolutionary. High Evolutionary is livid with Ayesha for knowing of 89P13's existence for several years without alerting him. High Evolutionary wants 89P13 returned to him, else he promises to wipe out Ayesha's entire Sovereign race.The Ravagers (The Ravagers are an interstellar criminal syndicate that specialize in thievery, trafficking and piracy. There were nearly one hundred factions of Ravagers around the galaxy. Each faction has a captain of its own, leading their operations), including an alternate version of Gamora (Zoe Saldana), help the Guardians infiltrate Orgocorp.\nPeter tries to get Gamora to remember their life together, but she says that it was some future version of her, and not her who fell in love with Peter. Gamora also points out that the things Peter loves, it sounds like he is in love with Nebula.\nOrgocorp is completely made of organic material. Gamora gets them in via a decompression chamber, but the group is soon discovered.\nThey retrieve Rocket's file and fight off Orgacorp sentries to be picked up Groot who flies in with their spaceship.\nThe group discover that the code to override the kill switch was removed, with the likely culprit being Theel (Nico Santos), one of the High Evolutionary's advisers. High Evolutionary has used Orgocorp to fund his experiments that lie outside Inter-Galactic law.The Guardians, along with Gamora, depart for Counter-Earth to find him.\nGamora argues that this is a trap since the High Evolutionary is looking for Rocket and they are taking him straight to the High Evolutionary. Gamora signals the Ravagers to pick her up, but her communication is intercepted by Ayesha, who follows the Guardians with Adam.The Guardians reach Counter-Earth and are guided to the Arete Laboratories complex. Drax (Dave Bautista) and Mantis (Pom Klementieff) remain with Gamora and Rocket, while Peter Quill (Chris Pratt), Groot (Vin Diesel), and Nebula travel to Arete. Nebula is forced to wait outside the complex by guards as she is armed; Quill and Groot enter Arete to meet the High Evolutionary, while Drax tricks Mantis into pursuing Quill's group.\nAs Quill's group is engaged in banter by the High Evolutionary, he launches an attack by his guards on Quill's ship to retrieve Rocket.\nGamora saves Rocket from being captured by Adam and the High Evolutionary's guard War Pig (Judy Greer). Adam kills War Pig as he wanted to present Rocket to the High Evolutionary and save the Sovereign.Questioned by Quill, the High Evolutionary admits this version Counter-Earth's society is imperfect, so he bombards the planet, killing the Humanimals as well as Ayesha. This enrages Adam who considered Adam as his mother. Adam's ship is destroyed and he has no option but to take shelter with Gamora.Arete departs as a spaceship, with Nebula, Drax and Mantis boarding it to rescue Quill and Groot, who instead escape Arete with Theel, who they kill before retrieving the code from his corpse and being rescued by Gamora in their ship.\nAs Quill's group uses the code, Rocket flat-lines and has a near-death experience, in which he reunites with Lylla, Teefs, and Floor. He learns from Lylla that his time has not yet come, as Quill uses the code to disable the kill switch and restart Rocket's heart.Drax, Nebula, and Mantis encounter several genetically modified humanoid children on Arete before being captured by the High Evolutionary. The High Evolutionary wants Peter to bring Rocket to him in exchange for the captured trio. Peter contacts Kraglin on the Knowhere to help.\nThe High Evolutionary tells his advisers that in thousands of generations that he created, only one experiment led to true intelligence and that was Rocket, which is studying him is critical.The other Guardians stage a rescue, leading to a battle against the High Evolutionary's forces.\nKraglin (Sean Gunn) fires on Arete with Knowhere, dooming Arete. Kraglin and Cosmos then help to save Knowhere's citizens from a counter-attack by the High Evolutionary's Hellspawn. Cosmos is revealed to have Tele-Kinetic abilities. Intent on retreat, the High Evolutionary's crew mutiny only to be killed by their leader.Drax, Nebula, and Mantis befriend three monstrous Abilisks to escape and reunite with Quill's group. The Guardians delay leaving Arete, choosing to rescue the children created by the High Evolutionary, who escape to Knowhere via a tunnel constructed by Cosmo's telekinesis.\nRocket discovers imprisoned animals on the ship before being confronted by the High Evolutionary, whom the other Guardians defeat.Rocket spares the High Evolutionary, and the Guardians help the animals escape to Knowhere. Quill nearly dies trying to cross over, but is saved by Adam, who was saved from Arete by Groot as \"everyone deserves a second chance\".In the end, Quill decides to leave the Guardians, naming Rocket as captain, and travels to Earth to reunite with Jason (Gregg Henry), his grandfather. Mantis embarks on a journey of self-discovery with the Abilisks, Gamora rejoins the Ravagers, and Nebula and Drax remain on Knowhere to raise the rescued children.In a mid-credits scene, the new Guardians, consisting of Rocket, Groot, Kraglin, Cosmo, Adam, Phyla (one of the rescued children), and Adam's pet Blurp, take on a new mission.",
+  "imdb_score": 7.9
+}

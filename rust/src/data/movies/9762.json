@@ -1,0 +1,486 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/sVSbH2s83EZR3YOkGSw1OmVe1Ct.jpg",
+  "id": 9762,
+  "title": "Step Up",
+  "poster_path": "https://image.tmdb.org/t/p/w500/9Y2i54Etpx7JvCxj6D8P3VAH152.jpg",
+  "release_date": "2006-08-11",
+  "vote_average": 6.9,
+  "vote_count": 3563,
+  "popularity": 26.508,
+  "overview": "Tyler Gage receives the opportunity of a lifetime after vandalizing a performing arts school, gaining him the chance to earn a scholarship and dance with an up and coming dancer, Nora.",
+  "imdb_id": "tt0462590",
+  "budget": 12000000,
+  "homepage": "",
+  "revenue": 114194847,
+  "runtime": 104,
+  "tagline": "Every second chance begins with a first step.",
+  "genres": [
+    "Music",
+    "Drama",
+    "Romance",
+    "Crime"
+  ],
+  "production_companies": [
+    "Eketahuna LLC",
+    "Touchstone Pictures",
+    "Summit Entertainment",
+    "Offspring Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Channing Tatum",
+        "character": "Tyler Gage",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xdnstENLdWMPWt9qyhtf695L4t6.jpg"
+      },
+      {
+        "name": "Jenna Dewan",
+        "character": "Nora Clark",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ugOR6KEjOxkYliP6gL1ShcXOO07.jpg"
+      },
+      {
+        "name": "Damaine Radcliff",
+        "character": "Mac Carter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gGOeqSAVy10lppPVAtv3rDLRWII.jpg"
+      },
+      {
+        "name": "Rachel Griffiths",
+        "character": "Director Gordon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n7rKwLjZmbkBKWBwhj9SYzsRaF6.jpg"
+      },
+      {
+        "name": "Deirdre Lovejoy",
+        "character": "Nora's Mom / Katherine Clark",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Iv7NcwLcxen5ql8PAkCy9VpsTf.jpg"
+      },
+      {
+        "name": "Alyson Stoner",
+        "character": "Camille",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xFRoIsR4XJ9QI8IIZfM9sVD8Qa4.jpg"
+      },
+      {
+        "name": "Drew Sidora",
+        "character": "Lucy Avila",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jkDS6GwQkp4NISyrMqQrnlOs1Tl.jpg"
+      },
+      {
+        "name": "Josh Henderson",
+        "character": "Brett Dolan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wF10rTNFfTUrTmflFOe9zYQ2a08.jpg"
+      },
+      {
+        "name": "Heavy D",
+        "character": "Omar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oSNehsmEedRsSfAcZG0NqY5XjIe.jpg"
+      },
+      {
+        "name": "Ryan Sands",
+        "character": "History Teacher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4gTsTZbAJ6a2OedzCLmTRHvbZCF.jpg"
+      },
+      {
+        "name": "Frank Ferrara",
+        "character": "Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4p3T0p1cYxxKPGDWgOVdN63gxQ3.jpg"
+      },
+      {
+        "name": "Frank Herzog",
+        "character": "Judge Milton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/octUAdEBYGJ9MwzRDPjOLsMxum1.jpg"
+      },
+      {
+        "name": "De'Shawn Washington",
+        "character": "Skinny Carter",
+        "profile_path": ""
+      },
+      {
+        "name": "Mario Barrett",
+        "character": "Miles Darby",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Lacatena",
+        "character": "Andrew",
+        "profile_path": ""
+      },
+      {
+        "name": "Jane Beard",
+        "character": "Lena Freeman",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Pelzman",
+        "character": "Bill Freeman",
+        "profile_path": ""
+      },
+      {
+        "name": "Carlyncia S. Peck",
+        "character": "Mac's Mother",
+        "profile_path": ""
+      },
+      {
+        "name": "DeLon Howell",
+        "character": "PJ",
+        "profile_path": ""
+      },
+      {
+        "name": "Dominique Boyd",
+        "character": "Omar Party Girl Yvette",
+        "profile_path": ""
+      },
+      {
+        "name": "Reina Poindexter",
+        "character": "Omar Party Girl #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Angelica Huesca",
+        "character": "Omar Party Girl #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Anne Fletcher",
+        "character": "Ms. Stephanie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8gD32nqf3fghg6FZhDbHxuowtyu.jpg"
+      },
+      {
+        "name": "Natalie Steinberg",
+        "character": "Little Girl Ballerina",
+        "profile_path": ""
+      },
+      {
+        "name": "Jamie Scott",
+        "character": "Colin",
+        "profile_path": ""
+      },
+      {
+        "name": "Isaiah Washington",
+        "character": "Malcolm",
+        "profile_path": ""
+      },
+      {
+        "name": "Jiehae Park",
+        "character": "Stagehand",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dAuRgH8zXGpt9ADjnnAsAjqnSE2.jpg"
+      },
+      {
+        "name": "Sheila Cutchlow",
+        "character": "Scout #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mn4EFMtGAil8ydxipNavKlKDN6a.jpg"
+      },
+      {
+        "name": "John Leslie Wolfe",
+        "character": "Scout #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Karim Fawzy",
+        "character": "Oamr Partier",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Quinn",
+        "character": "Music Teacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Shiloh Monaco",
+        "character": "Piano Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Caitlin Kinney",
+        "character": "Ballerina",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeanne",
+        "character": "Girl Singer #1 / Lucy Back Up Singer #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeannie Ortega",
+        "character": "Girl Singer #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Donald Rheubottom",
+        "character": "Court Room Sheriff",
+        "profile_path": ""
+      },
+      {
+        "name": "Donald Waugh",
+        "character": "Fruit Vendor",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Seresin",
+        "character": "Custodian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z1gtMRLItEj02DfrzeS8ZjPMZUu.jpg"
+      },
+      {
+        "name": "Spencer Longmore",
+        "character": "Omar's Chop Shop Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrienne Canterna",
+        "character": "Ballet Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Oscar Campisi",
+        "character": "Ballet Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tara Ghassemieh",
+        "character": "Ballet Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nikkia Parish",
+        "character": "Ballet Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryan Rankine",
+        "character": "Ballet Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Emily Bicks",
+        "character": "Dance Class Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Whitney Brown",
+        "character": "Dance Class Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ashley Canterna",
+        "character": "Dance Class Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sara Cato",
+        "character": "Dance Class Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Caitlin Gold",
+        "character": "Dance Class Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephanie Jingle",
+        "character": "Dance Class Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Rebecca Mejia",
+        "character": "Dance Class Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Carr",
+        "character": "Nora's Finale Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Laura Edwards",
+        "character": "Nora's Finale Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Cnr7bFNEFwlDNf1DZgIKAO18jD.jpg"
+      },
+      {
+        "name": "Samantha Frampton",
+        "character": "Nora's Finale Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Antonio Hudnell",
+        "character": "Nora's Finale Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Julie Nelson",
+        "character": "Nora's Finale Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Samantha Zweben",
+        "character": "Nora's Finale Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Shawn Michelle Cosby",
+        "character": "Nightclub Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2qW0Btutyh8Qq0L7Oa7dJEBTSwP.jpg"
+      },
+      {
+        "name": "Melissa Emrico",
+        "character": "Nightclub Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sabrina Furr",
+        "character": "Nightclub Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "George Hubela",
+        "character": "Nightclub Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jameson Perry",
+        "character": "Nightclub Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zAkmcsMv9IQVRqLf4rFN9lrULjP.jpg"
+      },
+      {
+        "name": "Ashley Phipps",
+        "character": "Nightclub Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Denise Piane",
+        "character": "Nightclub Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah Satow",
+        "character": "Nightclub Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jamal Sims",
+        "character": "Nightclub Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/OXnZk1sduWNbGy10tXU1ukC0t.jpg"
+      },
+      {
+        "name": "Adam Shankman",
+        "character": "Nightclub Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Eu0BNd8rMuXaIXkF7nPD7qYYW2.jpg"
+      },
+      {
+        "name": "Zachary Woodlee",
+        "character": "Nightclub Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1fmzKHfS928pYm4sqE4o3CNFw.jpg"
+      },
+      {
+        "name": "John Alix",
+        "character": "Audition Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kellie Corbett",
+        "character": "Hip Hop Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lance Guillermo",
+        "character": "Hip Hop Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kirk Jennings",
+        "character": "Hip Hop Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Monica Warr",
+        "character": "Hip Hop Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Joanna Becker",
+        "character": "Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Devon",
+        "character": "Defense Attorney (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o8KsixveQn7inWu4VrjIGt1i4rH.jpg"
+      },
+      {
+        "name": "Kawan Kean",
+        "character": "Music Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris O'Brocki",
+        "character": "Music Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Emily Peachey",
+        "character": "Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ksdIVlCbPufni6ToR8CRvSUPzus.jpg"
+      },
+      {
+        "name": "Jennifer Rouse",
+        "character": "Nightclub Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Natasha Sattler",
+        "character": "Concert Usher (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Noah Schaftel",
+        "character": "Nightclub Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Leo Christopher Sheridan",
+        "character": "Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas W. Stewart",
+        "character": "Nightclub Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "JB Tadena",
+        "character": "MSA Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4iFL7FlCsstZaNX3P0hLiOQKG74.jpg"
+      },
+      {
+        "name": "Eddy Shalita",
+        "character": "Club Patron Dancing (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Anne Fletcher",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8gD32nqf3fghg6FZhDbHxuowtyu.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "dancing",
+    "dance",
+    "new love",
+    "baltimore, usa",
+    "art school",
+    "woman director"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Tyler Gage receives the opportunity of a lifetime after vandalizing a performing arts school, gaining him the chance to earn a scholarship and dance with an up and coming dancer, Nora.",
+    "In Baltimore, the troublemaker and street dancer Tyler Gage lives with his foster parents in a lower class neighborhood. His best friends are Mac Carter and his little brother Skinny Carter and they used to hang around together, going to parties and stealing cars. After being expelled from a party, the trio breaks in the Maryland School of Arts and commits vandalism, destroying the stage. Tyler is arrested and sentenced to 200 hours of community service in the school and Director Gordon assigns him to help the janitor cleaning the place. One afternoon, the ballet dancer Nora Clark sees Tyler dancing in the parking area and when her partner Andrew has a strain and Tyler offers to help her in the choreography, she accepts the offer; they rehearsal and become close to each other while Tyler becomes friend of the students Miles Darby and Lucy Avila. When Andrew returns, Tyler that is known for quitting everything he starts gives up dancing and leaves Nora alone. After an incident, Tyler has to decide to follow his dream or return to his life of rebel loser.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "Late teen Tyler Gage is a directionless young man, despite the care provided by his loving foster family. With his best friend Marcus \"Mac\" Carter and Mac's younger brother \"Skinny\" Carter, Tyler spends his time stealing cars, playing pick-up games of basketball, and attending house parties where hip-hop is king. After he is caught and convicted of vandalism, Tyler is sentenced to community service at the scene of the crime: the Maryland School of the Arts. Tyler feels out of his element among most of the students at the school. But after her dance partner Andrew suffers an injury, classically trained dance student Nora Clark, who is preparing for her potentially career starting senior showcase, asks Tyler, who she spied doing an impromptu hip-hop dance out on the street, to replace Andrew in her showcase for rehearsal purposes only until Andrew recovers, despite Tyler not being a trained dancer. Getting the reluctant OK from the school's director, Miss Gordon, Tyler agrees. This partnership begins Tyler's association with the artistic side of the school and the students. Although their partnership has its many bumps, Nora helps Tyler see his life in a different way, while Tyler makes Nora examine how she sees her craft. Their professional partnership and burgeoning personal relationship is threatened by Nora's self-centered boyfriend, Brett Dolan, and Nora's commitment to Andrew as a dance partner. Tyler also feels like he's being pulled in two directions, especially as Mac sees him leaving his old friends behind him. An incident concerning Skinny makes both Tyler and Mac examine in which direction their lives should lead.—Huggo",
+    "Everyone deserves a chance to follow their dreams, but some people only get one shot. Tyler Gage is a rebel from the wrong side of Baltimore¹s tracks ­ and the only thing that stands between him and an unfulfilled life are his dreams of one day making it out of there. Nora is a privileged ballet dancer attending Baltimore¹s ultra-elite Maryland School of the Arts -- and the only thing standing in the way of her obviously brilliant future is finding a great dance partner for her senior showcase. When trouble with the law lands Tyler with a community service gig at Maryland School of the Arts, he arrives as an angry outsider, until his skills as a gifted street dancer draw Nora¹s attention. Now, as sparks fly between them, both on and off stage, Tyler realizes he has just one performance to prove that he can step up to a life far larger than he ever imagined.—Anonymous"
+  ],
+  "synopsis": "Tyler Gage (channing tatum) is from the wrong side of the tracks, caught up in a world of drugs,violence and crime.After leaving a party Tyler and his two friends end up outside the Maryland school of the arts they break in and find themselves in the theater where they destroy the set. the boys are busted by a rent a cop and he grabs Mac, Tyler tackles the cop telling mac and skinny to run and is taken to court the next day he is made to serve community service at the scene of the crime.Nora Clark a senior dancer at the school is work hard for her final show piece on which she is basing all her dreams of being accepted into a dance company. When her partner break his leg in a accident, Tyler steps in temporarily.While learning with Nora, Tyler starts changing his perspective of life and becomes a little more serious about his future. He requests the School's director to let him join as a student. But she tells when he proves that he is dedicated, she will consider his request then.Tyler suggests new line to the show piece and both Nora and himself choreograph a fusion of Ballet and Hip Hop. When Nora's old partner Andrew returns, Tyler storms out angrily accusing Nora of using him as a replacement. Andrew unable to pick up Hip Hop, leaves Nora partner-less. Nora choreographs another sequence without a partner.When Tyler and Mac are in a club Skinny steals a car from their rival gang and gets shot and dies. Tyler decides to do the show piece with Nora. He goes backstage and convinces a reluctant Nora to change the sequence back to the one they composed together. They both deliver a spectacular performance landing Nora a place in a dance company. The school director accepts Tyler as a student.",
+  "imdb_score": 6.5
+}

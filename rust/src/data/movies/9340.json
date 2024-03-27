@@ -1,0 +1,256 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/5qsyqA7FeYRymBmNbPBqBgqWPO4.jpg",
+  "id": 9340,
+  "title": "The Goonies",
+  "poster_path": "https://image.tmdb.org/t/p/w500/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+  "release_date": "1985-06-07",
+  "vote_average": 7.516,
+  "vote_count": 5398,
+  "popularity": 38.046,
+  "overview": "A young teenager named Mikey Walsh finds an old treasure map in his father's attic. Hoping to save their homes from demolition, Mikey and his friends Data Wang, Chunk Cohen, and Mouth Devereaux run off on a big quest to find the secret stash of Pirate One-Eyed Willie.",
+  "imdb_id": "tt0089218",
+  "budget": 19000000,
+  "homepage": "https://www.warnerbros.com/movies/goonies",
+  "revenue": 61389680,
+  "runtime": 114,
+  "tagline": "Take the oath. Join the adventure.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    "Amblin Entertainment",
+    "Warner Bros. Pictures",
+    "Warner Bros."
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Sean Astin",
+        "character": "Mikey Walsh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5oJzy6Ra0tuMEV7mfxjtqye5qUX.jpg"
+      },
+      {
+        "name": "Josh Brolin",
+        "character": "Brand Walsh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+      },
+      {
+        "name": "Jeff Cohen",
+        "character": "Lawrence \"Chunk\" Cohen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iuD0UN3cdRc9ZSnmebeJUy14lde.jpg"
+      },
+      {
+        "name": "Corey Feldman",
+        "character": "Clark \"Mouth\" Devereaux",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9n5xDsrBFY0AFESmXOJEzEj4ezx.jpg"
+      },
+      {
+        "name": "Kerri Green",
+        "character": "Andy Carmichael",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u59mLMNfSPjkaEGzLRgPwrmwM1h.jpg"
+      },
+      {
+        "name": "Martha Plimpton",
+        "character": "Stephanie \"Stef\" Steinbrenner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bCfhOm4WRb2X5RQdfz5TpMvMZ1.jpg"
+      },
+      {
+        "name": "Ke Huy Quan",
+        "character": "Richard \"Data\" Wang",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5PfYVcNLs1gGKIo0qwJrvyc2UOZ.jpg"
+      },
+      {
+        "name": "John Matuszak",
+        "character": "Sloth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/83WCS7g8I5VFu0LWD3ng9HtsqHb.jpg"
+      },
+      {
+        "name": "Robert Davi",
+        "character": "Jake Fratelli",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yizOUAKs59CwKM6pU30gIP9gTup.jpg"
+      },
+      {
+        "name": "Joe Pantoliano",
+        "character": "Francis Fratelli",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cXMOad9KKVBK1lg8EjEbcNPn1OT.jpg"
+      },
+      {
+        "name": "Anne Ramsey",
+        "character": "Mama Fratelli",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ne2o2YwaGzQy1Ne9ddZMwfEtkV7.jpg"
+      },
+      {
+        "name": "Lupe Ontiveros",
+        "character": "Rosalita",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bFlpBo46W4KXQVNspvPTUhZvsmQ.jpg"
+      },
+      {
+        "name": "Mary Ellen Trainor",
+        "character": "Mrs. Walsh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Y926jxSOXikBiqQIptho1VzU9o.jpg"
+      },
+      {
+        "name": "Keith Walker",
+        "character": "Mr. Walsh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s4dUkFANMNg68Mo0gNPNEczIrTS.jpg"
+      },
+      {
+        "name": "Steve Antin",
+        "character": "Troy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/id9xROmosHeF1W4HqDu8oi2zeF3.jpg"
+      },
+      {
+        "name": "Paul Tuerpe",
+        "character": "Sheriff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1S2Q3SPFz0uNlZC6LpDgGuUiVRe.jpg"
+      },
+      {
+        "name": "George Robotham",
+        "character": "Prison Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles McDaniel",
+        "character": "Chunk's Father",
+        "profile_path": ""
+      },
+      {
+        "name": "Elaine Cohen McMahon",
+        "character": "Chunk's Mother",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Paul Chan",
+        "character": "Data's Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fb51LbRcqIsfgvrs5ZpwVyuDYU2.jpg"
+      },
+      {
+        "name": "George Nicholas McLean",
+        "character": "Mouth's Father",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Bradley",
+        "character": "Bill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nPWkeNuscBYTV8ra0uLf4syXeUZ.jpg"
+      },
+      {
+        "name": "Jeb Stuart Adams",
+        "character": "Troy's Friend #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/seeA4grZOtuSPaBY5trmyxcRnXl.jpg"
+      },
+      {
+        "name": "Eric Briant Wells",
+        "character": "Troy's Friend #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Gene Ross",
+        "character": "Man in Shower #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9VnYVtFLgHAOSIqVqmSz2G5P0u0.jpg"
+      },
+      {
+        "name": "Max Segar",
+        "character": "Man in Shower #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Newt Arnold",
+        "character": "Man in Shower #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack O'Leary",
+        "character": "Reporter #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick Cameron",
+        "character": "Reporter #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hpP17378yPqgtnHu5wjEIchciGk.jpg"
+      },
+      {
+        "name": "Orwin C. Harvey",
+        "character": "Tennis Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Ted Grossman",
+        "character": "FBI Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2L7S57LmXg1EFwVOkI06JS5oAhM.jpg"
+      },
+      {
+        "name": "Richard Donner",
+        "character": "Policeman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wjRecQiVLUAm6jwyT5craxhg3lD.jpg"
+      },
+      {
+        "name": "Eydie Faye",
+        "character": "Eydie - Chunk's Older Sister (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jrC9B2pZrbxHEut4k50j8Qmwgfj.jpg"
+      },
+      {
+        "name": "Rick Kuhn",
+        "character": "Parent #3 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Cyndi Lauper",
+        "character": "Cyndi Lauper (archival footage)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4fMFl40wCdIEjlajmdpqqPJkhMQ.jpg"
+      },
+      {
+        "name": "Jennie Lew Tugend",
+        "character": "Mrs. Wang (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Quan",
+        "character": "Data's Sister (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Curt Hanson",
+        "character": "Mr. Perkins (as Curtis Hanson)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rTFZ33KNq9CJ9WlODYgGiqHtYGM.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Richard Donner",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wjRecQiVLUAm6jwyT5craxhg3lD.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "gang of thieves",
+    "treasure map",
+    "oregon, usa",
+    "gunfight",
+    "childhood friends",
+    "booby trap",
+    "water slide",
+    "foreclosure",
+    "walking the plank",
+    "lost treasure",
+    "social outcast",
+    "pirate ship",
+    "henchmen"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure.",
+    "Goon Docks, Oregon. To make way for a new golf course, the entire community of the peaceful coastal town faces imminent foreclosure. But the game isn't over until the fat lady sings. When a band of local childhood friends calling themselves the Goonies stumble upon an old map, secret clues leading to the fabled treasure of notorious pirate One-Eyed Willy set in motion a wild mission to save their homes. With the criminal Fratelli family hot on their trail, a frantic race against time begins. Faced with Willy's complex booby traps, will the Goonies prove their mettle? But first things first. Is the mythical treasure real?—Nick Riganas",
+    "A ruthless crime family calling themselves the \"Fratellis\" have somehow escaped from jail and are now hiding in a town of Astoria, Oregon. Home of a secret kid society known as \"The Goonies\", their leader is Michael \"Mikey\" Walsh, and they are enjoying their last weekend together as a system of contractors have bought their neighborhood and are considering on transforming it into a golf course. However Mikey, stumbles upon a mysterious map to a treasure of a famed pirate \"One-Eyed\" Willie. So, The Goonies embark on an adventure to find the treasure and save their neighborhood. However, they also came across the Fratellis. So, The Goonies have to stay one step head of the Fratellis and find the treasure while avoiding a system of traps.—John Wiggins",
+    "The Goonies are a group of friends living in a village, the groups leader Mikey Walsh, his older brother Brand and gang members Andy, Data, Stef, Mouth, and Chunk are being evicted from their homes which are to be demolished. Setting out to find a way of saving their homes, The Goonies find a treasure map and they set off in search for the treasure of the legendary pirate One-Eyed Willy. The Goonies embark on a great adventure through a underground maze filled with traps and skeletons, where they are pursued by Momma Fratelli and brothers Jake and Francis who are also after One-Eyed Willy's treasure and they are willing to get the treasure first.—Daniel Williamson"
+  ],
+  "synopsis": "",
+  "imdb_score": 7.7
+}

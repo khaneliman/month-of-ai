@@ -1,0 +1,602 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/wOfzdzC0QZyhUIlyjeMuUYSb8Ax.jpg",
+  "id": 289,
+  "title": "Casablanca",
+  "poster_path": "https://image.tmdb.org/t/p/w500/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+  "release_date": "1942-11-26",
+  "vote_average": 8.2,
+  "vote_count": 5098,
+  "popularity": 34.357,
+  "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+  "imdb_id": "tt0034583",
+  "budget": 878000,
+  "homepage": "",
+  "revenue": 10462500,
+  "runtime": 102,
+  "tagline": "They had a date with fate in Casablanca!",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Humphrey Bogart",
+        "character": "Rick Blaine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uuLZcNsRTof5wh1RddLbFEsGjoN.jpg"
+      },
+      {
+        "name": "Ingrid Bergman",
+        "character": "Ilsa Lund",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jXEE0P6705JbMAJ2nwtHjmqkd5F.jpg"
+      },
+      {
+        "name": "Paul Henreid",
+        "character": "Victor Laszlo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Y04k5ItlDiN1xyghhFHhhGBSOD.jpg"
+      },
+      {
+        "name": "Claude Rains",
+        "character": "Captain Louis Renault",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fcM7Xfs0lWBw8TDjcFSLosX2YAD.jpg"
+      },
+      {
+        "name": "Conrad Veidt",
+        "character": "Major Heinrich Strasser",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5PvSGqd3ZR9hjLE0Wo5yUPnKgPx.jpg"
+      },
+      {
+        "name": "Sydney Greenstreet",
+        "character": "Signor Ferrari",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t44Y10C2uP3JkzeeN1wOy13MPhw.jpg"
+      },
+      {
+        "name": "Peter Lorre",
+        "character": "Ugarte",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hgum7XGkYgiJ8jkFr4MC03PCnD4.jpg"
+      },
+      {
+        "name": "S.Z. Sakall",
+        "character": "Carl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AviTmjTn7MUezntky2YqBUh9Jiu.jpg"
+      },
+      {
+        "name": "Madeleine Lebeau",
+        "character": "Yvonne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4Mx6Nj7sPwA8OWHgcWOTL6OXWWE.jpg"
+      },
+      {
+        "name": "Dooley Wilson",
+        "character": "Sam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eLXMuPM0lBXvmikeT77alaNPcgX.jpg"
+      },
+      {
+        "name": "Joy Page",
+        "character": "Annina Brandel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bCwMkDrF0kUECkEoJ00fofLSXeo.jpg"
+      },
+      {
+        "name": "John Qualen",
+        "character": "Berger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aMuzXYaBmblQm95JxHZrmseeIYh.jpg"
+      },
+      {
+        "name": "Leonid Kinskey",
+        "character": "Sascha",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e5WkDoFos1oolme2fbKNa6wgGqe.jpg"
+      },
+      {
+        "name": "Curt Bois",
+        "character": "Pickpocket",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r7C49zEsGX7uG7SlcRegJlNGUI2.jpg"
+      },
+      {
+        "name": "Enrique Acosta",
+        "character": "Guest at Rick's (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sQp9QLTnRYaLQOUkM9gNKP5OU3P.jpg"
+      },
+      {
+        "name": "Ed Agresti",
+        "character": "Bar Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Louis V. Arco",
+        "character": "Refugee at Rick's (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Arnold",
+        "character": "Overseer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Leon Belasco",
+        "character": "Dealer at Rick's (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AuimSqbQ7lmRNIUmuMEkGguamJ9.jpg"
+      },
+      {
+        "name": "Nino Bellini",
+        "character": "Gendarme (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Oliver Blake",
+        "character": "Waiter at the Blue Parrot (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zcyhlzaZ4N7JJJVvTmtAkbjEu6F.jpg"
+      },
+      {
+        "name": "Monte Blue",
+        "character": "American (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gZmW84Pg3bALCGXw01gvEEvTcUc.jpg"
+      },
+      {
+        "name": "Eugene Borden",
+        "character": "Policeman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dick Botiller",
+        "character": "Native Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/paRg7wpQSaixpA8egCQ6znmtC7r.jpg"
+      },
+      {
+        "name": "Maurice Brierre",
+        "character": "Baccarat Dealer at Rick's (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sebastian Cabot",
+        "character": "Bearded Man in Street Watching Plane in Flight (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uAgoTmwvabGX00LnYyDfyL7TPUP.jpg"
+      },
+      {
+        "name": "Anita Camargo",
+        "character": "Woman Companion (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "George M. Carleton",
+        "character": "American (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lKRkFkF59Hr2j5iooE1WalIVGMD.jpg"
+      },
+      {
+        "name": "Spencer Chan",
+        "character": "Guest at Rick's (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Melie Chang",
+        "character": "Oriental at Rick's (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tex Cooper",
+        "character": "Commuter at Train Station (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q1ttkxmUkR3bEEvSsaNlfpo5GTj.jpg"
+      },
+      {
+        "name": "Gino Corrado",
+        "character": "Waiter at Rick's (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f4FxGEcWMoRcBbArEvYCxy7QSk7.jpg"
+      },
+      {
+        "name": "Franco Corsaro",
+        "character": "French Police Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrienne D'Ambricourt",
+        "character": "Concierge (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q0x08PBrN72gvUmfzxQeVPoawJe.jpg"
+      },
+      {
+        "name": "Marcel Dalio",
+        "character": "Emil - Croupier at Rick's (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yYZMbAl56e5S7uFbiFbj0YziIDB.jpg"
+      },
+      {
+        "name": "Helmut Dantine",
+        "character": "Jan Brandel (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AcKhHPzV6lCTamh1S2tFr8fgo6V.jpg"
+      },
+      {
+        "name": "Jean De Briac",
+        "character": "Orderly (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dCXXBKJ2zu7TnjirmHhpU1RuyVP.jpg"
+      },
+      {
+        "name": "George Dee",
+        "character": "Lt. Casselle (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lG5JddY8futeP7FpQhiAP6WPkX8.jpg"
+      },
+      {
+        "name": "Jean Del Val",
+        "character": "Police Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3JyToN4VZ4Gwcoia9MpeF1MTFmR.jpg"
+      },
+      {
+        "name": "Carl Deloro",
+        "character": "Arab Guest with Fez (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph DeVillard",
+        "character": "Moroccan (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Arthur Dulac",
+        "character": "News Vendor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "William Edmunds",
+        "character": "Second Contact Man at Rick's (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2sdkeTDzCcgJVzeoQlCn2qIkOZG.jpg"
+      },
+      {
+        "name": "Herbert Evans",
+        "character": "Englishman Questioning Casino's Honesty (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tL2j1O5smA8WOdHgvrG2b1ifhdb.jpg"
+      },
+      {
+        "name": "Fred Farrell",
+        "character": "Singing Frenchman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Adolph Faylauer",
+        "character": "Gambler at Rick's (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/UsFTfNPUh2raMPRxUk9t3E7drc.jpg"
+      },
+      {
+        "name": "O.K. Ford",
+        "character": "Conspirator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Martín Garralaga",
+        "character": "Headwaiter at Rick's (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tmXwvyHlxPhfig7qKhzIRxfid3Y.jpg"
+      },
+      {
+        "name": "Gregory Gaye",
+        "character": "German Banker Refused by Rick (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wJ6IzGvnmahSKDcT1TcMC1WhgL7.jpg"
+      },
+      {
+        "name": "Gregory Golubeff",
+        "character": "Cashier at Rick's (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ilka Grüning",
+        "character": "Mrs. Leuchtag - Carl's Immigrating Friend (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aZ4Upu1Woc3bh7yqDOUWSljk126.jpg"
+      },
+      {
+        "name": "Creighton Hale",
+        "character": "Customer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7rTJcSkHJ77iU62HXcL8NZa6gth.jpg"
+      },
+      {
+        "name": "Winifred Harris",
+        "character": "Englishwoman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fFtaIroBXjTJ3G55e6f0iJHOIzR.jpg"
+      },
+      {
+        "name": "Jamiel Hasson",
+        "character": "Muezzini (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Arthur Stuart Hull",
+        "character": "Elderly Admirer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/34BsAhaFC9k3iGa47Hq4GFVQ7jO.jpg"
+      },
+      {
+        "name": "Olaf Hytten",
+        "character": "Pickpocketed Prosperous Man (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A47xM0KsIYVS0wMHNKdME8DyOwr.jpg"
+      },
+      {
+        "name": "Charles La Torre",
+        "character": "Italian Officer Tonnelli (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "George J. Lewis",
+        "character": "Haggling Arab Monkey Seller (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cgo8gX8VDRoQV42rgQKJU4ceP3p.jpg"
+      },
+      {
+        "name": "Manuel Lopez",
+        "character": "Policeman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacques Lory",
+        "character": "Moor Buying Diamonds (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lou Marcelle",
+        "character": "Narrator (voice) (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Martelli",
+        "character": "Bartender (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "George Meeker",
+        "character": "Rick's Friend (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AoJtJAJGAdCYGnPiCxipob9skxE.jpg"
+      },
+      {
+        "name": "Lal Chand Mehra",
+        "character": "Policeman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p4X33YiC8AyuxNmdr41gof9Dl9a.jpg"
+      },
+      {
+        "name": "Hercules Mendez",
+        "character": "Arab Guest with Fez (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Louis Mercier",
+        "character": "Conspirator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Torben Meyer",
+        "character": "Dutch Banker at Cafe Table (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A5TLcObSezrwH2u5FCfi6mY69Z9.jpg"
+      },
+      {
+        "name": "Alberto Morin",
+        "character": "French Officer Insulting Yvonne (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ml7oMdKvxZMSxVDT0vORlQ7S558.jpg"
+      },
+      {
+        "name": "Leo Mostovoy",
+        "character": "Fydor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Corinna Mura",
+        "character": "Singer with Guitar (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Mqc4ESO9SZLKiPrA1KeV0l3SGQ.jpg"
+      },
+      {
+        "name": "Barry Norton",
+        "character": "Gambler at Rick's (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nguhCb1NDANgok4uFmv4gjw1X0c.jpg"
+      },
+      {
+        "name": "Lotte Palfi Andor",
+        "character": "Woman Selling Her Diamonds (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Panzer",
+        "character": "Paul - Waiter at Rick's (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6NhO8FSFg6azBGaga5IaSNaUNEs.jpg"
+      },
+      {
+        "name": "Manuel París",
+        "character": "Guest at Rick's (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5F9318EvUe9IbR1NMKGmRR99uPc.jpg"
+      },
+      {
+        "name": "Alexander Pollard",
+        "character": "Croupier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Puglia",
+        "character": "Arab Vendor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r1wLNTEnjKEQGrfUB5qzf8RpiCn.jpg"
+      },
+      {
+        "name": "Georges Renavent",
+        "character": "Conspirator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Q6aXsam6e0EeZAaHsmFYBCruGA.jpg"
+      },
+      {
+        "name": "Dewey Robinson",
+        "character": "Bouncer at Rick's (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zq14YNrOf2yA3G4tEmYXlZDC704.jpg"
+      },
+      {
+        "name": "Richard Ryen",
+        "character": "Col. Heinz - Strasser's Aide (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b3MQihcLtic7EwT1CmcYPEui9lY.jpg"
+      },
+      {
+        "name": "Dan Seymour",
+        "character": "Abdul (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tBAnxubpVCsGEWaY8hkcRSNQS04.jpg"
+      },
+      {
+        "name": "Lester Sharpe",
+        "character": "Refugee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dina Smirnova",
+        "character": "Woman Customer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gerald Oliver Smith",
+        "character": "Pickpocketed Englishman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tIF3pb7XwJbSWWC7CW0vnN5IGTq.jpg"
+      },
+      {
+        "name": "George Sorel",
+        "character": "Native Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Geoffrey Steele",
+        "character": "Customer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ludwig Stössel",
+        "character": "Mr. Leuchtag (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p6ioKRb3FNRteCC47HnNTGVlNRq.jpg"
+      },
+      {
+        "name": "Mike Tellegen",
+        "character": "Gambler (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rafael Trujillo",
+        "character": "Man Turning Propeller at Airport (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacques Vanaire",
+        "character": "Frenchman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ellinor Vanderveer",
+        "character": "Woman Gambler at Rick's Next to Croupier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ynfcRdgYvMQ8OELK6AnS22R4zNs.jpg"
+      },
+      {
+        "name": "Norma Varden",
+        "character": "Wife of Pickpocketed Englishman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fzzz1rWjO3EWsHOX7bUUOwB6axC.jpg"
+      },
+      {
+        "name": "Hans Heinrich von Twardowski",
+        "character": "German Officer with Yvonne (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kip8D2tvcdEJiPtZaGioQD6vSjV.jpg"
+      },
+      {
+        "name": "Jack Wise",
+        "character": "Waiter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Wolfgang Zilzer",
+        "character": "Man with Expired Papers (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yz1BhA7fvTiyEw3PAJxiwrxlrnn.jpg"
+      },
+      {
+        "name": "Trude Berliner",
+        "character": "Baccarat Player at Rick's (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xrLYVr9DqQx1b8nNvu2XsPXtu0D.jpg"
+      },
+      {
+        "name": "Paul Porcasi",
+        "character": "Native Introducing Ferrari (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dlrr1MmW5n1aBAkZnzyUJ1oB8BP.jpg"
+      },
+      {
+        "name": "Max Linder",
+        "character": "Gambler (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Mazzola",
+        "character": "Moroccan Boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Henry Rowland",
+        "character": "German Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rMtslQ2Vhs8a4mRZHADA6ET7xX3.jpg"
+      },
+      {
+        "name": "Leo White",
+        "character": "Emile - Waiter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pKJDApReiE0EVmmkTYbHNW7d1Yu.jpg"
+      },
+      {
+        "name": "Paul Irving",
+        "character": "Prosperous Tourist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brandon Beach",
+        "character": "Guest at Rick's (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Romito",
+        "character": "Guest at Rick's (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Mark",
+        "character": "Vendor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pyaRTg34fJqoqpr3UmJYla0HUGx.jpg"
+      },
+      {
+        "name": "Bhogwan Singh",
+        "character": "Merchant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/trcW2zCadsZ4zXeFrmiX3O2hHm0.jpg"
+      },
+      {
+        "name": "Jack Benny",
+        "character": "Background Customer at Rick’s (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nHhy8tF4WjGWvAfv0tM2pyl4D6R.jpg"
+      },
+      {
+        "name": "Finn Zirzow",
+        "character": "Guest at Rick's (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Michael Curtiz",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AnxPuEsdjPTJ6uIaHY0KdgBeu7t.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "corruption",
+    "nazi",
+    "escape",
+    "love triangle",
+    "resistance",
+    "spy",
+    "patriotism",
+    "casablanca, morocco",
+    "vichy regime",
+    "visa",
+    "nationalism",
+    "world war ii",
+    "morocco",
+    "film noir",
+    "black and white",
+    "war"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+    "The story of Rick Blaine, a cynical world-weary ex-patriate who runs a nightclub in Casablanca, Morocco during the early stages of WWII. Despite the pressure he constantly receives from the local authorities, Rick's cafe has become a kind of haven for refugees seeking to obtain illicit letters that will help them escape to America. But when Ilsa, a former lover of Rick's, and her husband, show up to his cafe one day, Rick faces a tough challenge which will bring up unforeseen complications, heartbreak and ultimately an excruciating decision to make.—Kyle Perez",
+    "In World War II Casablanca, Rick Blaine, exiled American and former freedom fighter, runs the most popular nightspot in town. The cynical lone wolf Blaine comes into the possession of two valuable letters of transit. When Nazi Major Strasser arrives in Casablanca, the sycophantic police Captain Renault does what he can to please him, including detaining a Czechoslovak underground leader Victor Laszlo. Much to Rick's surprise, Lazslo arrives with Ilsa, Rick's one time love. Rick is very bitter towards Ilsa, who ran out on him in Paris, but when he learns she had good reason to, they plan to run off together again using the letters of transit. Well, that was their original plan....—Gary Jackson <garyjack5@cogeco.ca>",
+    "During World War II, Europeans who were fleeing from the Germans, sought refuge in America. But to get there they would first have to go Casablanca and once they get there, they have to obtain exit visas which are not very easy to come by. Now the hottest spot in all of Casablanca is Rick's Cafe which is operated by Rick Blaine, an American expatriate, who for some reason can't return there, and he is also extremely cynical. Now it seems that two German couriers were killed and the documents they were carrying were taken. Now one of Rick's regulars, Ugarte entrusts to him some letters of transit, which he intends to sell but before he does he is arrested for killing the couriers. Captain Renault, the Chief of Police, who is neutral in his political views, informs Rick that Victor Laszlo, a resistance leader from Czechoslovakia, is in Casablanca and will do anything to get an exit visa but Renault has been \"told\" by Major Strasser of the Gestapo, to keep Laszlo in Casablanca. Laszlo goes to Rick's to meet Ugarte, because he was the one Ugarte was going to sell the letters to. But since Ugarte was arrested he has to find another way. Accompanying him is Ilsa Lund, who knew Rick when he was in Paris, and when they meet some of Rick's old wounds reopen. It is obvious that Rick's stone heart was because of her leaving him. And when they learn that Rick has the letters, he refuses to give them to him, because \"he doesn't stick his neck out for anyone\".—rcs0411@yahoo.com",
+    "Rick Blaine, who owns a nightclub in Casablanca, Morocco, discovers his old flame Ilsa is in town with her husband, Victor Laszlo. Laszlo is a resistance leader from Czechoslovakia, and with Germans on his tail, Ilsa knows Rick can help them get out of the country - but will he?—Anonymous"
+  ],
+  "synopsis": "Rick Blaine (Humphrey Bogart) is a cynical American expatriate living in Casablanca in early December 1941. His upscale nightclub and gambling den, \"Rick's Cafe American\", attracts a mixed clientele: Vichy French, Italian, and Nazi officials; refugees desperately seeking to reach the United States, as yet not involved in the war; and those who prey on them. Although Rick professes to be neutral in all matters, it is later revealed he ran guns to Ethiopia to combat the 1935 Italian invasion and fought on the Loyalist side in the Spanish Civil War.Black-and-white film screenshot of several people in a nightclub. A man on the far left is wearing a suit and has a woman standing next to him wearing a hat and dress. A man at the center, wearing a military uniform and hat, is looking at the man on the left. A man on the far right is wearing a suit and looking to the other people.Petty crook Signor Ugarte (Peter Lorre) shows up and boasts to Rick of \"letters of transit\" he obtained through the murder of two German couriers. The papers allow the bearer to travel freely around German-controlled Europe and to neutral Portugal. The letters are almost priceless to the continual stream of refugees who end up stranded in Casablanca. Ugarte plans to sell them to the highest bidder at the club later that night. Before the exchange can take place, however, Ugarte is arrested by the local police under the command of Vichy Captain Louis Renault (Claude Rains), a self-confessed corrupt official. Ugarte dies in custody without revealing that he had entrusted the letters to Rick.At this point, the reason for Rick's bitterness re-enters his life. His ex-lover, Norwegian Ilsa Lund (Ingrid Bergman), walks into his establishment. Upon spotting Rick's friend and house pianist, Sam (Dooley Wilson), Ilsa asks him to play \"As Time Goes By\". When Rick storms over, furious that Sam has disobeyed his order never to perform that song, he is shocked to see Ilsa. She is accompanied by her husband, Victor Laszlo (Paul Henreid), a renowned fugitive Czech Resistance leader who has escaped from a Nazi concentration camp. They need the letters to leave for America, where he can continue his work. German Major Strasser (Conrad Veidt) arrives in Casablanca to see to it that Laszlo does not succeed.When Laszlo makes inquiries, Signor Ferrari (Sydney Greenstreet), a major underworld figure and Rick's friendly business rival, divulges his suspicion that Rick has the letters. In a private meeting, Rick refuses to sell at any price, telling Laszlo to ask his wife for the reason. They are interrupted when Strasser leads a group of officers in singing \"Die Wacht am Rhein\". Laszlo orders the house band to play \"La Marseillaise\". When the band looks to Rick for guidance, he nods his head. Laszlo starts singing, alone at first, then patriotic fervor grips the crowd, and everyone joins in, drowning out the Germans. In retaliation, Strasser has Renault close the club.That night, Ilsa confronts Rick in the deserted cafe. When he refuses to give her the letters, she threatens him with a gun, but then confesses that she still loves him. She explains that when they first met and fell in love in Paris, she believed that her husband had been killed attempting to escape from the concentration camp. Later, while preparing to flee with Rick from the imminent fall of the city to the German army, she learned that Laszlo was in fact alive and in hiding. She left Rick without explanation to tend to her ill husband.With the revelation, the lovers are reconciled. Rick agrees to help, leading her to believe that she will stay behind with him when Laszlo leaves. When Laszlo unexpectedly shows up, having narrowly escaped a police raid on a Resistance meeting, Rick has waiter Carl (S. K. Sakall) spirit Ilsa away.Laszlo reveals he is aware of Rick's love for Ilsa and tries to persuade him to use the letters to take her to safety. When the police arrest Laszlo on a minor, trumped-up charge, Rick convinces Renault to release him by promising to set him up for a much more serious crime: possession of the letters of transit. To allay Renault's suspicions, Rick explains he and Ilsa will be leaving for America.When Renault tries to arrest Laszlo as arranged, Rick forces him at gunpoint to assist in their escape. At the last moment, Rick makes Ilsa board the plane to Lisbon with her husband, telling her she would regret it if she stayed, \"Maybe not today, maybe not tomorrow, but soon and for the rest of your life.\"\nMajor Strasser, tipped off by Renault, drives up alone. Rick shoots Strasser when he tries to intervene. When his men arrive, Renault pauses, then tells them to \"round up the usual suspects.\" Once they are alone, Renault suggests to Rick that they join the Free French at Brazzaville as they walk away into the fog.",
+  "imdb_score": 8.5
+}

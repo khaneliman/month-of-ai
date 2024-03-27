@@ -1,0 +1,491 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
+  "id": 333339,
+  "title": "Ready Player One",
+  "poster_path": "https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+  "release_date": "2018-03-28",
+  "vote_average": 7.602,
+  "vote_count": 14762,
+  "popularity": 77.915,
+  "overview": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
+  "imdb_id": "tt1677720",
+  "budget": 175000000,
+  "homepage": "http://readyplayeronemovie.com",
+  "revenue": 607274134,
+  "runtime": 140,
+  "tagline": "A better reality awaits.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Amblin Entertainment",
+    "De Line Pictures",
+    "Warner Bros. Pictures",
+    "Farah Films & Management",
+    "Village Roadshow Pictures",
+    "Access Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tye Sheridan",
+        "character": "Wade Watts / Parzival",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d5ZS2fjqC98cIGkhEGX0fRYhku4.jpg"
+      },
+      {
+        "name": "Olivia Cooke",
+        "character": "Samantha Cook / Artemis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aEzpMnOPx24pXkz8kUSXmCONEMJ.jpg"
+      },
+      {
+        "name": "Ben Mendelsohn",
+        "character": "Nolan Sorrento",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pA9mu9D2IolVA0v2Yo0tJm6uUyI.jpg"
+      },
+      {
+        "name": "Lena Waithe",
+        "character": "Helen Harris / Aech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yidK25mjpxTTYCICmZnxgks6utx.jpg"
+      },
+      {
+        "name": "T.J. Miller",
+        "character": "i-R0k (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rRrVvBxOkyYM5XdLXimShHR1Itn.jpg"
+      },
+      {
+        "name": "Simon Pegg",
+        "character": "Ogden Morrow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kIMnWkZciXXHYyD8GxMYvDLD29x.jpg"
+      },
+      {
+        "name": "Mark Rylance",
+        "character": "James Halliday / Anorak",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bztEZRyXrvW3Pg1fexNASXlZrq7.jpg"
+      },
+      {
+        "name": "Philip Zhao",
+        "character": "Zhou / Sho",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e7ZKuxGfyeKjvFMXXeGBMjUvWkS.jpg"
+      },
+      {
+        "name": "Win Morisaki",
+        "character": "Toshiro / Daito",
+        "profile_path": "https://image.tmdb.org/t/p/w185/im1ZzQdfjd5NL9wjFwZj4zh6rOC.jpg"
+      },
+      {
+        "name": "Hannah John-Kamen",
+        "character": "F'Nale Zandor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b1u2DtcUKrdFloYopG9D7RW6sBy.jpg"
+      },
+      {
+        "name": "Ralph Ineson",
+        "character": "Rick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sn3ONJw2pJxMHiCqPwvkaiWr5mc.jpg"
+      },
+      {
+        "name": "Susan Lynch",
+        "character": "Alice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sTl2Tn2nzLRjKdk0CKMBb87Gz8X.jpg"
+      },
+      {
+        "name": "Clare Higgins",
+        "character": "Mrs. Gilmore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Jb5cg5GdADejWR6kzm0IP9spUn.jpg"
+      },
+      {
+        "name": "Perdita Weeks",
+        "character": "Kira",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2XHfEagkwU9DowhDtG0vi5kagMp.jpg"
+      },
+      {
+        "name": "Letitia Wright",
+        "character": "Rebel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f7PevpEeBqwzACPhoZ8K3ktrKvE.jpg"
+      },
+      {
+        "name": "Mckenna Grace",
+        "character": "Elementary Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e8pnblWxirhG54tlNTQyXNjXQd4.jpg"
+      },
+      {
+        "name": "Lulu Wilson",
+        "character": "Elementary Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fJGCTvZipct4Jp8rlMu8g5Wij2S.jpg"
+      },
+      {
+        "name": "Cara Pifko",
+        "character": "Leslee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oe6Xx56bpVYpcTJJNJFbzN0PWfA.jpg"
+      },
+      {
+        "name": "Vic Chao",
+        "character": "Goro",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pPI9e95fOcLR3nGsIIRZsDokHJT.jpg"
+      },
+      {
+        "name": "Cara Theobold",
+        "character": "Tracer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rEfG0CWqOTcqUU34IiV3unQOHca.jpg"
+      },
+      {
+        "name": "Isaac Andrews",
+        "character": "Young Halliday",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2yAIab9aaNE4ksqnVXSoU4FttnZ.jpg"
+      },
+      {
+        "name": "Joel MacCormack",
+        "character": "Sixer #6655",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vkxCmcjAVK8RZBhnjtqByecxkgW.jpg"
+      },
+      {
+        "name": "Kit Connor",
+        "character": "Reb Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dhDcqxc5llsRtQpwfdRKVjAefIy.jpg"
+      },
+      {
+        "name": "Leo Heller",
+        "character": "Reb Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tVx0uKySnIs1tTBZyb69PR1jYIG.jpg"
+      },
+      {
+        "name": "Antonio Mattera",
+        "character": "Reb Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4os9nVNu3lQJA29DyrEUgmFcwmA.jpg"
+      },
+      {
+        "name": "Lynne Wilmot",
+        "character": "Pole Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1vZNcMyUcmwXo7UCF5czgN1ms65.jpg"
+      },
+      {
+        "name": "Kae Alexander",
+        "character": "Reb (Safe House)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/71SVrlqJ7ai04T7W06CoyTn7K1Q.jpg"
+      },
+      {
+        "name": "Michael Wildman",
+        "character": "Sixer Drill Instructor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7JzaKisWtdqYmuuEunjTkU8zDf8.jpg"
+      },
+      {
+        "name": "Adolfo Álvarez",
+        "character": "Elementary Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/isFNRWg0t7gL7zxUgBP5EiUhGMm.jpg"
+      },
+      {
+        "name": "Alonso Alvarez",
+        "character": "Elementary Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AvuROIHUWz3oAVWCQxAnN7KHWkW.jpg"
+      },
+      {
+        "name": "Jadah Marie",
+        "character": "Elementary Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/32edKrecLJdugi2GUSMLu515d3H.jpg"
+      },
+      {
+        "name": "Arianna Jaffier",
+        "character": "High School Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dpmopRrlxMqNm3vUossRHpzT8ia.jpg"
+      },
+      {
+        "name": "Armani Jackson",
+        "character": "High School Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1EJ5sW4Nu9NkYGteiS26HyA6rZr.jpg"
+      },
+      {
+        "name": "Britain Dalton",
+        "character": "High School Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zB42Yop5X3CPLzguun11XqdcLkW.jpg"
+      },
+      {
+        "name": "Jacob Bertrand",
+        "character": "High School Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j1V1788QXnzZ2Flp5pllqeodjYT.jpg"
+      },
+      {
+        "name": "Gareth Mason",
+        "character": "Chubby Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8IRkwlbcbO37d7V7XAF47zmrk2o.jpg"
+      },
+      {
+        "name": "Ronkẹ Adékoluẹjo",
+        "character": "Sorrento's Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ytKTDHU5SX8P0M8heXP3mC6xJ5n.jpg"
+      },
+      {
+        "name": "Daniel Zolghadri",
+        "character": "High School Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gN3pqBffxKmCRw2pK1aif5StN3D.jpg"
+      },
+      {
+        "name": "William Gross",
+        "character": "Ten-Year Old Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Laurence Spellman",
+        "character": "Lame Tattoo Guy (Reb)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/47xoUxleCv94VQnkzkAoa1xRS5Z.jpg"
+      },
+      {
+        "name": "Daniel Eghan",
+        "character": "Corporate Businessman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nTNg1qxJBc2JASmwdOIgVwM0zFB.jpg"
+      },
+      {
+        "name": "Julia Nickson",
+        "character": "JN / Commuter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lLtwvseiNe9pIjhC293nPmyRAET.jpg"
+      },
+      {
+        "name": "Kiera Bell",
+        "character": "IOI Staff (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qdhc56MunR26QWb3fgb7RqxZN6X.jpg"
+      },
+      {
+        "name": "Samantha Russell",
+        "character": "Player (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m3fVEv2gZ5cKkWqjE2uDqYEfruf.jpg"
+      },
+      {
+        "name": "James Dryden",
+        "character": "Oology Expert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9eYxdu0dzydWEPzNHIDYVwpQSTW.jpg"
+      },
+      {
+        "name": "Violet McGraw",
+        "character": "Shopping Cart Kid (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mAhZNh3iEn0sjbnuWSeHnlWw2yA.jpg"
+      },
+      {
+        "name": "Jayden Fowora-Knight",
+        "character": "Boy Playing Tennis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5BVoFIkq4gQuRdRbRwVXKwFMUiM.jpg"
+      },
+      {
+        "name": "Turlough Convery",
+        "character": "Chief Oology Expert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xDHf65t9vtxmIAmDxp5yMKZUtPt.jpg"
+      },
+      {
+        "name": "Rona Morison",
+        "character": "Oology Expert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mbKkxCix9sKGmk3FE3MaMtFRR4q.jpg"
+      },
+      {
+        "name": "Elliot Barnes-Worrell",
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l1GhbH1JKvHOLEDB4RJeJRbwPeo.jpg"
+      },
+      {
+        "name": "Asan N'Jie",
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a46GTuLoxCGcU6Tv7CD1PALvKsU.jpg"
+      },
+      {
+        "name": "Amy Clare Beales",
+        "character": "Shop Staff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kKPPFEc074ApzUdV52PYOsJVkFq.jpg"
+      },
+      {
+        "name": "Racheal Ofori",
+        "character": "Beautiful Woman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eSyj6uX3K57ssIBZRnLnEmX3iGN.jpg"
+      },
+      {
+        "name": "Sandra Dickinson",
+        "character": "Old Boxing Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uFFNRY2tptP1GRogBM9t7PVtilZ.jpg"
+      },
+      {
+        "name": "Mark Stanley",
+        "character": "Old Zombie Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kA4Z9W7hAQa6VUQkPnSEdLUpqI2.jpg"
+      },
+      {
+        "name": "Emily Beacock",
+        "character": "Twin",
+        "profile_path": ""
+      },
+      {
+        "name": "Rosanna Beacock",
+        "character": "Twin",
+        "profile_path": ""
+      },
+      {
+        "name": "Gemma Refoufi",
+        "character": "Pretty Naked Girl Body Double",
+        "profile_path": "https://image.tmdb.org/t/p/w185/drwGzHpj54bWNZQHUCxrLcOMl1w.jpg"
+      },
+      {
+        "name": "Jane Leaney",
+        "character": "Queen of Cats / Bathroom Zombie / Mocap Core Cast",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pDMlghXzz9XyKbdWQrHn0isFyLr.jpg"
+      },
+      {
+        "name": "Robert Gilbert",
+        "character": "Andrew (Sorrento's Head of Security)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tJIcASVHyZvA5C9Hw0qxs1pz1UQ.jpg"
+      },
+      {
+        "name": "Stephen Mitchell",
+        "character": "Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u5iCaSdCDLuhgjkfoJKdN7VziWE.jpg"
+      },
+      {
+        "name": "Joshua Archer",
+        "character": "Mocap Core Cast / Sixer Instructor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p94kpPAb4QeAViwaJ4WxxpswYJY.jpg"
+      },
+      {
+        "name": "Avye Leventis",
+        "character": "Mocap Core Cast / Female Sixer #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eh69mD5HCLSjl4F7ltaOoPHEWcK.jpg"
+      },
+      {
+        "name": "Dean Street",
+        "character": "Mocap Core Cast",
+        "profile_path": "https://image.tmdb.org/t/p/w185/viwCKjlUHrpJpF2zQ2BLEQjCGv9.jpg"
+      },
+      {
+        "name": "Joe Hurst",
+        "character": "Oology Expert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2OK4pzKuMw9fnPiDOef7509p7qN.jpg"
+      },
+      {
+        "name": "Eric Sigmundsson",
+        "character": "Oology Expert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/25d39zqpgnuCOi7FXnVZfgA2vk7.jpg"
+      },
+      {
+        "name": "Danielle Phillips",
+        "character": "Oology Expert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c1WqUgsPxaC2H7KXWk4Kzdib09Y.jpg"
+      },
+      {
+        "name": "Khalil Madovi",
+        "character": "Oology Expert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/28JXe0WQOYwF88E3fgstZNKPaPw.jpg"
+      },
+      {
+        "name": "Bruce Lester-Johnson",
+        "character": "IOI Board Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qcDYGUloUe2thCpaBWHJ1yOWqWY.jpg"
+      },
+      {
+        "name": "Tom Turner",
+        "character": "IOI Board Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wtL9eRpelekpa3Fbmql297BcpGJ.jpg"
+      },
+      {
+        "name": "Paul Barnhill",
+        "character": "Sorrento's Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gw594eJ6IbpCe7AIKuUHrA7i0wL.jpg"
+      },
+      {
+        "name": "Maeve Bluebell Wells",
+        "character": "Female Sixer #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1PaZsOPFfC0J9oVQsktjolOTlua.jpg"
+      },
+      {
+        "name": "Neet Mohan",
+        "character": "Snacks (Bootsuit Commercial)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4IVkX9rtA9QvXHxhnJWOvOCDqkE.jpg"
+      },
+      {
+        "name": "Georgie Farmer",
+        "character": "Kid (Bootsuit Commercial)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r3AC3MDS81mWAsxoVNCSi8trLiP.jpg"
+      },
+      {
+        "name": "Kathryn Wilder",
+        "character": "Female Gamer (Bootsuit Commercial)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4vXOwKOkbR6rDkwMKhzRcTo3mWW.jpg"
+      },
+      {
+        "name": "Sid Sagar",
+        "character": "Regular Guy (Bootsuit Commercial)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gS3sPHu7zWexkynZYYWscRxQo3w.jpg"
+      },
+      {
+        "name": "David Forman",
+        "character": "Hong Kong Businessman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y7CJ5d7j1A3dDnUl0xkze7O4jp9.jpg"
+      },
+      {
+        "name": "Ian Davies",
+        "character": "Police Officer (Stacks Explosion)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cPp0fpc1t7F8khdzqzuJOzywBtD.jpg"
+      },
+      {
+        "name": "Dallas Dupree Young",
+        "character": "Elementary Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2whzoMgXAmyGCQthZsFtkuEplXL.jpg"
+      },
+      {
+        "name": "Sydney Brower",
+        "character": "Girl in Bedroom at House",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gkMFsNeptmxQ3OckkzDTHkHVOiL.jpg"
+      },
+      {
+        "name": "Jaeden Bettencourt",
+        "character": "Soccer Player (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wpUPXoG1QLZPmxE1nB7VIPQ2bEl.jpg"
+      },
+      {
+        "name": "Gavin Marshall",
+        "character": "Shift Manager / Mocap Core Cast",
+        "profile_path": ""
+      },
+      {
+        "name": "Juan Carlos Cantu",
+        "character": "Bus Passenger (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zg0zGiingVYY2MxAsj0nAazHYMA.jpg"
+      },
+      {
+        "name": "Annarie Boor",
+        "character": "Sixer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Z307H8HXRReXXzLorLorSpTwNq.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Steven Spielberg",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "future",
+    "based on novel or book",
+    "video game",
+    "virtual reality",
+    "dystopia",
+    "nostalgia",
+    "love",
+    "film in film",
+    "evil corporation",
+    "quest",
+    "1980s",
+    "2040s",
+    "based on young adult novel",
+    "columbus, ohio"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world.",
+    "In the year 2045, the real world is a harsh place. The only time Wade Watts (Tye Sheridan) truly feels alive is when he escapes to the OASIS, an immersive virtual universe where most of humanity spends their days. In the OASIS, you can go anywhere, do anything, be anyone--the only limits are your own imagination. The OASIS was created by the brilliant and eccentric James Halliday (Mark Rylance), who left his immense fortune and total control of the Oasis to the winner of a three-part contest he designed to find a worthy heir. When Wade conquers the first challenge of the reality-bending treasure hunt, he and his friends--The High Five--are hurled into a fantastical universe of discovery and danger to save the OASIS.—Warner Bros.",
+    "In the year 2045, on his deathbed James Halliday, the creator of a wildly-popular virtual reality utopia known as the OASIS, begins a hunt for his fortune and ownership of the whole VRMMO world with puzzles and riddles based on Halliday's obsession with pop culture of decades past. After years of searching for Halliday's \"Easter Egg,\" one average teenager named Wade Watts solves the first clue, sparking excitement and hope back to the hunt, and throwing him into a world of people willing to kill for the information he has, changing his life forever.—ahmetkozan",
+    "In a not-so-distant and gloomy 2045, the late James Halliday's parallel virtual universe euphemistically called the \"Oasis\", alleviates the burden of a depressing daily life, with millions of online users preferring the vast and colourful cyberworld over their dystopian reality. As anyone can be anything he desires within the Oasis, the dedicated gamer, Wade Watts--or, better yet, Parzival, after his avatar--is obsessed with finding an elusive Easter Egg hidden meticulously inside the code, to inherit not only an immense fortune but also the game's total control. Three trials, three keys, a cut-throat competition, and an army of professional no-joke players who only want the same thing. Can Wade pull off a surprising victory?—Nick Riganas",
+    "In 2045, people seek regular escape from life through the virtual reality entertainment universe OASIS, co-created by James Halliday and Ogden Morrow of Gregarious Games. After Halliday's death, a recorded message left by his avatar Anorak announces a game, granting ownership of OASIS to the first to find the Golden Easter egg within it, which is locked behind a gate requiring three keys. The contest has lured a number of 'gunters', or egg hunters, and the interest of Nolan Sorrento, the CEO of Innovative Online Industries (IOI) who seeks to control OASIS himself. IOI uses a number of indentured servants and employees called \"Sixers\" to find the egg."
+  ],
+  "synopsis": "In 2045, many of Earth's population centers have become slum-like cities. To escape their desolation, people engage in the virtual reality world of the OASIS (Ontologically Anthropocentric Sensory Immersive Simulation), where they can engage in numerous activities for work, education, and entertainment. Users have discovered Anorak's Quest inside OASIS, a game programmed by the late OASIS creator, James Halliday (Mark Rylance). The first to find the Easter egg, locked behind a gate requiring three keys within Anorak's Quest is promised full ownership of OASIS among other gifts. This has attracted a number of Gunters (\"egg hunters\") to play the game. Innovative Online Industries (IOI), a video game conglomerate and manufacturer of most of the virtual reality equipment used to access the OASIS, also wants ownership. The new CEO of the company, Nolan Sorrento (Ben Mendelsohn), has amassed an army of debt-indentured players, known as \"Sixers\" (due to their six-digit identification), to seek the prize. However, to date, no one has managed to finish the first quest, a vehicle race across an ever-shifting version of New York City.Wade Watts (Tye Sheridan), an orphaned, 20-year-old Gunter, lives in a Columbus, Ohio, slum with his aunt. In the OASIS, Wade goes by his avatar Parzival, and has partnered with Aech, a male avatar that serves as a virtual mechanic. He later befriends well-known player Art3mis after saving her from dying in-game - referred to as being \"zeroed out\" - which would reset her avatar's character progression and remove all her goods. Wade decides to study the virtual OASIS library to learn about Halliday's personal life, hoping to find a hint to finish the race. Wade learns that Halliday felt regret when he had to accept the resignation of his partner, Ogden Morrow (Simon Pegg), over a personal falling-out, musing, \"Why can't we go backwards for once? Backwards really fast, as fast as we can - really put the pedal to the metal.\" At the next race, Wade reverses from the start line, finding a hidden, safe path to the finish line of the race. He gains the first key and a clue to the next quest. Aech and Art3mis, as well as players Daito and Sho, follow Wade to finish the quest, and the five appear atop the global scoreboards, becoming known as the \"High Five\".IOI takes interest in them, desiring to learn their real-life identities. Bounty hunter i-R0k (T.J. Miller) overhears Wade tell Art3mis his real name, disclosing it to Sorrento, who approaches Wade in an attempt to convince him to join IOI to solve Anorak's Quest, but Wade refuses. In retaliation, Sorrento has his assistant F'Nale Zandor (Hannah John-Kamen) attack Wade's slum, killing Wade's aunt and her boyfriend. Wade is rescued by Art3mis' real-life friends and is taken to a Gunter hideout in Columbus, where he meets Art3mis' player, Samantha Cook (Olivia Cooke). The two discover that Halliday had once dated Kira (Perdita Weeks), who later became Morrow's wife, and was the source of their falling-out. In the virtual OASIS archives, Wade wins a bet with its Curator regarding whether Kira's memory remains anywhere within the archives, winning a 25-cent coin and access to Halliday's memories of Kira, which turn out to be the entrance to the second quest. In a re-creation of The Shining, the High Five team each gain the second key and the clue that the last quest is in Castle Anorak on Planet Doom.Zandor discovers the Gunter hideout and kidnaps Samantha. Meanwhile, Wade is rescued by the real-life players of Aech (Lena Waithe), Daito and Sho (Philip Zhao), who have taken to hiding in Aech's van. In the OASIS, they learn that IOI has erected a force field blocking access to the castle, maintained by the Sixers, including an enslaved Samantha. Wade hacks into IOI signals into OASIS & hacks Sorrento's personal account & blackmails Sorrento into revealing Samantha's location and communication access code to free her, and sends a message to all OASIS players about IOI's activities, convincing millions to join their side. With Aech, Daito, and Sho leading the players, Samantha is able to shut down the field, by accessing the real world IOI war room as a Sixer and allowing Wade inside. Wade finds that several Sixers have found the Atari room, trying to determine which Atari 2600 game was Halliday's favorite; choosing the wrong one leads to being zeroed out after precisely one minute. Sorrento and Wade recognize the right game as Adventure, but successfully completing it causes the playing Sixer to be zeroed out.Sorrento activates the Cataclyst, after a confrontation with Wade and Sho which zeroes out all players on Planet Doom. However, the Curator's coin is revealed to be an extra life, protecting Wade's avatar. Continuing the quest, Wade deduces that the goal is not to win Adventure but to find its own Easter egg. Upon doing so, he is given the last key. Wade uses the keys to open a gate in the castle, where he is congratulated and presented with a contract by Anorak. Recognizing it as the one Morrow had to sign on his termination, Wade declines. Anorak transforms into a projection of Halliday, who reveals that this was a final test, which centered around his biggest regret in his life. Halliday offers Wade the opportunity to wipe out the OASIS with the Big Red Button if he considers it for the best, and otherwise awards him with the Golden Egg, granting Wade control of OASIS.Sorrento and Zandor are arrested, and IOI's indentured servitude division removed, heavily restructuring the company. Wade shares control of OASIS with the other members of the High Five. Morrow offers to help consult on a salary of 25 cents, while revealing he had been the OASIS' Curator all along. The High Five decide to have OASIS shut down twice a week, to coax people into spending more time in experiencing and fixing problems in the real world, while Wade and Samantha form a romantic relationship and move in together",
+  "imdb_score": 7.4
+}

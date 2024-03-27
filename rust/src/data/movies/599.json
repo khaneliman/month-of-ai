@@ -1,0 +1,423 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
+  "id": 599,
+  "title": "Sunset Boulevard",
+  "poster_path": "https://image.tmdb.org/t/p/w500/sC4Dpmn87oz9AuxZ15Lmip0Ftgr.jpg",
+  "release_date": "1950-08-10",
+  "vote_average": 8.3,
+  "vote_count": 2408,
+  "popularity": 27.279,
+  "overview": "A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity.",
+  "imdb_id": "tt0043014",
+  "budget": 1752000,
+  "homepage": "",
+  "revenue": 5000000,
+  "runtime": 110,
+  "tagline": "A Hollywood Story.",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Paramount"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "William Holden",
+        "character": "Joe Gillis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qEuJZiPXKFm1LdtbnHKGj2hQm8a.jpg"
+      },
+      {
+        "name": "Gloria Swanson",
+        "character": "Norma Desmond",
+        "profile_path": "https://image.tmdb.org/t/p/w185/akmlp75ESHjtGOVtOCfJYxkX4eo.jpg"
+      },
+      {
+        "name": "Erich von Stroheim",
+        "character": "Max von Mayerling",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lUoSEdmX6Cl7lLUnV4ewLkVDnhY.jpg"
+      },
+      {
+        "name": "Nancy Olson",
+        "character": "Betty Schaefer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/419ZEkm8PQSp9RS7NXb4yJPDRm4.jpg"
+      },
+      {
+        "name": "Fred Clark",
+        "character": "Sheldrake",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yBjSwb6xma9ukYpbSe75C0eqNTx.jpg"
+      },
+      {
+        "name": "Lloyd Gough",
+        "character": "Morino",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hWyEWTVQ0dy8RE9l2fEkOaKTQwX.jpg"
+      },
+      {
+        "name": "Jack Webb",
+        "character": "Artie Green",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4X6wbZ9wDqVrpDP3WvIJZBLPsLh.jpg"
+      },
+      {
+        "name": "Franklyn Farnum",
+        "character": "Undertaker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sm3iLc3LbupzuwEgQgnHOo4ojFz.jpg"
+      },
+      {
+        "name": "Larry J. Blake",
+        "character": "1st Finance Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b4dfz0xLUHJJJEPmAmAI2jrzXBj.jpg"
+      },
+      {
+        "name": "Charles Dayton",
+        "character": "2nd Finance Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Cecil B. DeMille",
+        "character": "Cecil B. DeMille",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lxY61cx23rcCenlTvcwn8Cmpnrp.jpg"
+      },
+      {
+        "name": "Hedda Hopper",
+        "character": "Hedda Hopper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kfXPY1cSrOmjJ3TYrGF4giT6EPI.jpg"
+      },
+      {
+        "name": "Buster Keaton",
+        "character": "Buster Keaton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iP0of33Hi6hGGojegJQ4sjNwW2l.jpg"
+      },
+      {
+        "name": "Anna Q. Nilsson",
+        "character": "Anna Q. Nilsson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w7gnNb8HtrETfAGP7qet5hFyYwY.jpg"
+      },
+      {
+        "name": "H.B. Warner",
+        "character": "H.B. Warner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/be4wXVyhbvdbViK0gOZSrdbfie8.jpg"
+      },
+      {
+        "name": "Ray Evans",
+        "character": "Ray Evans",
+        "profile_path": ""
+      },
+      {
+        "name": "Jay Livingston",
+        "character": "Jay Livingston",
+        "profile_path": ""
+      },
+      {
+        "name": "Fred Aldrich",
+        "character": "Cop Who Drags Joe's Body from Pool (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s3s32bjmkC6gsa4S59Nrk4qgn3G.jpg"
+      },
+      {
+        "name": "Joel Allen",
+        "character": "Prop Man #2 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gertrude Astor",
+        "character": "Courtier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jjIoqFS6mmfZFlhX8pcBhPVzIBJ.jpg"
+      },
+      {
+        "name": "Anne Bauchens",
+        "character": "Editor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7PhdD1fHETSckYRo1MJb4OPFYaJ.jpg"
+      },
+      {
+        "name": "Edward Biby",
+        "character": "Restaurant Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pWSH1HclcGZ5ExUe5hynS48lJQ3.jpg"
+      },
+      {
+        "name": "Danny Borzage",
+        "character": "Accordionist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ken Christy",
+        "character": "Homicide Captain (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ruth Clifford",
+        "character": "Sheldrake's Secretary (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l5x0tNNX59PmF03566UqNu140OT.jpg"
+      },
+      {
+        "name": "John Cortay",
+        "character": "Young Gate Guard Mac at Paramount Studios (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Archie R. Dalzell",
+        "character": "Camera Operator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eddie Dew",
+        "character": "Assistant Coroner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7NxwyQTp9lhEY5qkm1cjMf0EPmH.jpg"
+      },
+      {
+        "name": "Julia Faye",
+        "character": "Hisham (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5RRx4HV5JVtbSgjn4wbK1xcA2iA.jpg"
+      },
+      {
+        "name": "Al Ferguson",
+        "character": "Phone Standby (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eUbChU8WLFgCPN9OrwGZE5oNMt0.jpg"
+      },
+      {
+        "name": "Gerry Ganzer",
+        "character": "Betty's Roommate Connie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qVouV95ZrG3leQPh5VCcp0OtRHL.jpg"
+      },
+      {
+        "name": "Rudy Germane",
+        "character": "Detective (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kenneth Gibson",
+        "character": "Salesman at Men's Shop (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Creighton Hale",
+        "character": "Creighton Hale (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7rTJcSkHJ77iU62HXcL8NZa6gth.jpg"
+      },
+      {
+        "name": "Chuck Hamilton",
+        "character": "Grip on DeMille Set (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yEaR9SLMkQmEoW16Bf99hwLeQqT.jpg"
+      },
+      {
+        "name": "Len Hendry",
+        "character": "Police Sergeant (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "E. Mason Hopper",
+        "character": "Doctor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Stan Johnson",
+        "character": "First Assistant Director (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tiny Jones",
+        "character": "Little Woman Outside Paramount Gate (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Howard Joslin",
+        "character": "Police Lieutenant (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Arthur Lane",
+        "character": "Camera Operator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Perc Launders",
+        "character": "Violinist at Norma's New Year's Eve Party (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "William Meader",
+        "character": "Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gertrude Messinger",
+        "character": "Hairdresser (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1gmJg3HQotI8BIxa2bXTBhHN6YI.jpg"
+      },
+      {
+        "name": "Harold Miller",
+        "character": "Man on Golf Course (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/baYrpaujUdnO5aoQFHJrkLru7l0.jpg"
+      },
+      {
+        "name": "Howard Negley",
+        "character": "Police Captain (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hwJF6mVvArbWXnJIj3qE0jl5ACH.jpg"
+      },
+      {
+        "name": "John \"Skins\" Miller",
+        "character": "Hog-Eye Electrician (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tQnHKNqeb6DUUX3OgEsBQmvGmJG.jpg"
+      },
+      {
+        "name": "Lee Miller",
+        "character": "Dancing Party Guest / Paramount Studio Employee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ralph Montgomery",
+        "character": "Prop Man #1 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bert Moorhouse",
+        "character": "Gordon Cole (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jay Morley",
+        "character": "Fat Man (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zqsOuckqfn3XLnIIOi8pcs8bQd9.jpg"
+      },
+      {
+        "name": "Eva Novak",
+        "character": "Courtier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dvg9DEBHyXLixbwsaZlQi6IUsXN.jpg"
+      },
+      {
+        "name": "Frank O'Connor",
+        "character": "Courtier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8ah94UFfqDRNvousj3doLVLYIYU.jpg"
+      },
+      {
+        "name": "Robert Emmett O'Connor",
+        "character": "Older Paramount Gate Guard Jonesy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/udAKCPDJt2yQ7gdqdhZLvA73BSl.jpg"
+      },
+      {
+        "name": "Jack Perrin",
+        "character": "Detective (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sIDD5DtGAyf8ZGhHz19xvRobnRG.jpg"
+      },
+      {
+        "name": "Sidney Skolsky",
+        "character": "Sidney Skolsky (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Emmett Smith",
+        "character": "Black Man (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Archie Twitchell",
+        "character": "Salesman at Men's Shop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hX3XTHmU7cteLYwU1DIJYm8vcAn.jpg"
+      },
+      {
+        "name": "Yvette Vickers",
+        "character": "Giggling Girl on Phone at Party (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7lScXrjqBKFXwK2CZ5gSWzXIPY8.jpg"
+      },
+      {
+        "name": "Edward Wahrman",
+        "character": "Camera Assistant (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Henry Wilcoxon",
+        "character": "Actor on DeMille's 'Samson & Delilah' Set (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xO7tbWF9pAQrPmwHBeMrlv8iOw6.jpg"
+      },
+      {
+        "name": "Peter Drynan",
+        "character": "Tailor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sanford E. Greenwald",
+        "character": "Newsreel Cameraman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "James Hawley",
+        "character": "Camera Assistant (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Alan Marston",
+        "character": "Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bernice Mosk",
+        "character": "Bernice (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Virginia L. Randolph",
+        "character": "Courtier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Sheehan",
+        "character": "Second Assistant Director (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Roy Thompson",
+        "character": "Rudy, Shoeshine Boy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Warden",
+        "character": "Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hSShXiYMfRpMByaB5euZ59qCKN.jpg"
+      },
+      {
+        "name": "Finn Zirzow",
+        "character": "Actor on DeMille's 'Samson & Delilah' Set (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Billy Wilder",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tfVte6h2dlLn59Q0Mi6AvWAyRLP.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new year's eve",
+    "jealousy",
+    "loss of sense of reality",
+    "screenwriter",
+    "butler",
+    "delusion",
+    "diva",
+    "film noir",
+    "hollywood",
+    "los angeles, california",
+    "black and white",
+    "madness",
+    "aging actor",
+    "has been",
+    "silent film star",
+    "grandiose  behavior",
+    "kept man",
+    "movie studio"
+  ],
+  "mpaa": "NR",
+  "summaries": [
+    "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+    "Desperate for cash, screenwriter Joe Gillis has a chance meeting with a faded silent film star. Norma Desmond lives in her crumbling Sunset Boulevard mansion with only her butler to keep her company. She has become a sad demented recluse convinced that the outside world is clamoring for her dramatic return. Enticing him with the prospect of script work she puts him up in her mansion and he becomes ever more involved and entangled in her life.—B.A. Black",
+    "Joe Gillis is a struggling hack B-movie Hollywood screenwriter who is having problems making ends meet. His car, a symbol of independence, is about to be repossessed because he's behind in payments. In eluding the repossessors, Joe stumbles onto the decaying Sunset Boulevard mansion of 50-uear-old faded silent-film star Norma Desmond,, who has largely been forgotten by the moviegoing public. The only other person living in her mansion is her valet Max, whose unofficial job is to prime her fragile but larger-than-life ego. It is somewhat due to Max's lies about the public still clamoring for her that a delusional Norma is working toward her return to pictures in a vanity project. Even if her script was any good, the lead role should be filled by someone half Norma's age. Joe senses an opportunity to act as Norma's ghostwriter to make a quick buck to pay off his creditors, not caring if the movie gets produced. In maneuvering to do the ghost writing work, Joe may be unprepared for what else Norma has in store for him in her need to be loved and wanted. As Joe gets seduced by the comfort that Norma's wealth can afford, it may be too late for him when he finally comes to the realization about what he really wants and how much he must forgo in stoking Norma's ego.—Huggo",
+    "In this dark film-noir tale, aging silent-film queen Norma Desmond refuses to accept that her time in the limelight has finished. She lives as a recluse with the deranged beliefs that her stardom is as strong as ever. After meeting Joe Gillis, a young hack screenwriter, she hires him to write a screenplay starring her as an effort to set up her comeback in film. The screenwriter believes he can manipulate her, but soon learns the difficulty of such a task. Furthermore, his ambivalence about their relationship, coupled with Norma's demented unwillingness to let go, leads to damaging consequences for both parties involved.—Kyle Perez",
+    "An aging silent-film queen refuses to accept that her stardom has ended. She hires a young screenwriter to help set up her movie comeback. The screenwriter believes he can manipulate her, but he soon finds out he is wrong. The screenwriter's ambivalence about their relationship and her unwillingness to let go leads to a situation of violence, madness, and death.—Jwelch5742"
+  ],
+  "synopsis": "The film opens with the camera tracking down Sunset Boulevard in Los Angeles, California as police cars begin racing down it. The lifeless body of a young man, Joe Gillis (Holden) floats in the swimming pool of a palatial mansion. As the police begin converging on the house Joe's voice narrates, in flashback style, the events leading up to his own murder.Six months earlier, Joe was down on his luck, unable to find work as a screenwriter, having only made a few undistinguished films in his short career. Broke and on the verge of having his car repossessed, with no other options except a low-paying newspaper job in Ohio, Joe tries to persuade Paramount Pictures producer Sheldrake (Clark) to buy his most recent script, but fails after script reader Betty Schaefer (Olson) gives Sheldrake a harsh critique of the script in her summation. Joe then tries unsuccessfully to borrow money from his friends. Fleeing from repossession men in his car, one of Joe's tires blows out in front of a large and seemingly deserted mansion on Sunset. Hiding the car in the garage, he sets out to explore the decaying house, when a woman inside calls to him. Mistaken for the undertaker to a recently deceased pet chimpanzee, he is ushered in by the mysterious butler, Max Von Mayerling (Von Stroheim). Meeting the woman who owns the house, he recognizes her as long-forgotten silent-film star Norma Desmond (Swanson). When she learns that he is a writer, she invites him in and asks for his opinion on an immense script she has written for a film about Salome that she hopes will revive her faded acting career. Although Joe finds the script awful, he flatters Norma into hiring him as an editor.Joe is put up in her guest room. The next morning he objects when he sees that Max has moved his belongings to the mansion on Norma's orders, and that she has paid his overdue rent. Though he hates being dependent on her, he accepts the situation and begins living at the mansion, first in a room over the garage, then in the mansion itself. As he works on Norma's script, he comes to see how unaware she is of how her fame has died. She refuses to hear any criticism of her work, and makes him watch her old films in the evenings. Although she still receives fan mail, Joe later learns that Max feeds into Norma's fantasy by sending the letters himself. He explains that Norma's state of mind is fragile, and she has attempted suicide in the past.Over the next few weeks, Norma lavishes attention on Joe and buys him expensive clothing, including a tuxedo for a private New Year's Eve party attended only by the two of them. Horrified to learn that she has fallen in love with him, he tries to let her down gently, but she slaps him and retreats to her room. Joe, thinking his time with her is over, escapes to a party at his friend, assistant director Artie Green's (Webb) house, where he meets Betty Schaefer again. While still unimpressed with most of his work, she believes a scene in one of his scripts has potential. Joe half-agrees to work on it with her, and calls the house on Sunset to tell Max he is leaving. However, when Max informs him that Norma has attempted suicide with Joe's razor blade, Joe leaves the party and returns to the mansion, where he apologizes to Norma and makes love to her.After a while, Norma considers her script complete, and sends it to Cecil B. DeMille at Paramount and waits for his answer. Not long afterwards, calls from Paramount asking for Norma begin to arrive. They come from an executive named Gordon Cole, and Norma petulantly refuses to speak to anyone other than DeMille himself. Eventually, she has Max drive her and Joe to the studio in her 1929 Isotta Fraschini Tipo 8A, a rare vintage luxury car. While DeMille entertains Norma, many of the older guards, technicians and extras on the set recognize her and welcome her back. Joe and Max, meanwhile, learn that Cole had called because the studio wants to rent her car and has no interest in her script (DeMille tells an assistant in private that the script is awful). Max insists that they hide these facts from her. He later confesses to Joe that he was once a respected film director who discovered Norma as a girl, and was also her first husband, and that he now remains as her servant because he cannot bear to leave her.While Norma undergoes a rigorous series of beauty treatments to prepare for her comeback, Joe has secretly begun to work with Betty on a screenplay. Though she is now engaged to Artie, she falls in love with him. Although he likes her, Joe is dismayed at the triangle in which he is now caught. When Norma discovers the script with Betty's name on it, she phones Betty and insinuates what sort of man Joe really is. Joe, hearing her, invites Betty to the mansion to see for herself. When she arrives, he coldly terminates their relationship by letting her believe that he is a gigolo and prefers to live off Norma. After Betty leaves the mansion in tears, Joe begins packing, having decided to return to Ohio. He bluntly informs Norma of the truththat there will be no comeback, her fan letters come from Max, and she is forgotten. He ignores Norma's threats to shoot herself, and in a fit of passion she shoots him as he leaves, leaving him dead in the pool.The scene returns to the opening. Still narrating, Joe expresses fear over how Norma will be unable to cope with the disgrace, and the discovery of how forgotten she truly is. By the time the police arrive, however, she has completely broken with reality and slipped into a delusional state of mind, thinking the news cameras are set up for a film shoot. To help the police coax her down the stairs, Max plays along with her hallucination that she is on the set of her new film. He verbally sets up the scene for her, and yells \"Action!\"; Norma dramatically descends her grand staircase. Joe, in voiceover, remarks that life has decided to spare her the pain of that discovery, and that \"The dream she had clung to so desperately had enfolded her.\" Norma makes a short speech at how happy she is to be back making a film, and delivers the film's most famous line: \"All right, Mr. DeMille, I'm ready for my close-up.\"",
+  "imdb_score": 8.4
+}

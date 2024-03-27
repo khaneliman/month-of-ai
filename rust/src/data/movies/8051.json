@@ -1,0 +1,344 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/l9WzjwHwF7I2DwCtK8DXVQExGjH.jpg",
+  "id": 8051,
+  "title": "Punch-Drunk Love",
+  "poster_path": "https://image.tmdb.org/t/p/w500/vT2CXIsVKoGl0DZ8USwLWzEFznI.jpg",
+  "release_date": "2002-10-11",
+  "vote_average": 7.136,
+  "vote_count": 2166,
+  "popularity": 25.353,
+  "overview": "A socially awkward and volatile small business owner meets the love of his life after being threatened by a gang of scammers.",
+  "imdb_id": "tt0272338",
+  "budget": 25000000,
+  "homepage": "",
+  "revenue": 24665649,
+  "runtime": 96,
+  "tagline": "I have a love in my life. It makes me stronger than anything you can imagine.",
+  "genres": [
+    "Romance",
+    "Drama",
+    "Comedy"
+  ],
+  "production_companies": [
+    "Revolution Studios",
+    "New Line Cinema",
+    "JoAnne Sellar Productions",
+    "Ghoulardi Film Company",
+    "Columbia Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Adam Sandler",
+        "character": "Barry Egan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1xVMlB2Ufj8MtXzZkfQlPoadRMm.jpg"
+      },
+      {
+        "name": "Emily Watson",
+        "character": "Lena Leonard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg"
+      },
+      {
+        "name": "Philip Seymour Hoffman",
+        "character": "Dean Trumbell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+      },
+      {
+        "name": "Luis Guzmán",
+        "character": "Lance",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+      },
+      {
+        "name": "Mary Lynn Rajskub",
+        "character": "Elizabeth Egan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rJxAkgYX3RfY9x2aYo2InbEp1HL.jpg"
+      },
+      {
+        "name": "Robert Smigel",
+        "character": "Walter the Dentist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xGlGVcLhiZ4a7GIGlLzGmZtbvUF.jpg"
+      },
+      {
+        "name": "Jason Andrews",
+        "character": "Operator Carter (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Don McManus",
+        "character": "Plastic (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rGdpdQ0DDVDX4FlQzrdFGcOlRGB.jpg"
+      },
+      {
+        "name": "David Schrempf",
+        "character": "Customer #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Seann Conway",
+        "character": "Customer #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Rico Bueno",
+        "character": "Rico",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iM5SIP4fnJNnsRt6wi7z04vsJPB.jpg"
+      },
+      {
+        "name": "Hazel Mailloux",
+        "character": "Rhonda",
+        "profile_path": ""
+      },
+      {
+        "name": "Karen Kilgariff",
+        "character": "Anna (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4GBJJkzzNQFyAL9knurHFFP69RX.jpg"
+      },
+      {
+        "name": "Julie Hermelin",
+        "character": "Kathleen",
+        "profile_path": ""
+      },
+      {
+        "name": "Salvador Curiel",
+        "character": "Sal",
+        "profile_path": ""
+      },
+      {
+        "name": "Jorge Barahona",
+        "character": "Jorge",
+        "profile_path": ""
+      },
+      {
+        "name": "Ernesto Quintero",
+        "character": "Ernesto",
+        "profile_path": ""
+      },
+      {
+        "name": "Julius Steuer",
+        "character": "Mechanic",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Spector",
+        "character": "Susan",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicole Gelbard",
+        "character": "Nicole",
+        "profile_path": ""
+      },
+      {
+        "name": "Mia Weinberg",
+        "character": "Gilda",
+        "profile_path": ""
+      },
+      {
+        "name": "Karen Hermelin",
+        "character": "Anna",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry Ring",
+        "character": "Steve - Brother-in-Law",
+        "profile_path": ""
+      },
+      {
+        "name": "Kerry Gelbard",
+        "character": "Richard - Brother-in-Law",
+        "profile_path": ""
+      },
+      {
+        "name": "Ashley Clark",
+        "character": "Phone Sex Sister",
+        "profile_path": ""
+      },
+      {
+        "name": "Alan Parry",
+        "character": "Member of After Eden Band",
+        "profile_path": ""
+      },
+      {
+        "name": "John E. Beck",
+        "character": "Member of After Eden Band",
+        "profile_path": ""
+      },
+      {
+        "name": "Eddie Wayne Howell",
+        "character": "Member of After Eden Band",
+        "profile_path": ""
+      },
+      {
+        "name": "Taylor J. Thomas",
+        "character": "Member of After Eden Band",
+        "profile_path": ""
+      },
+      {
+        "name": "Bobby Bluehouse",
+        "character": "After Eden Sound Man",
+        "profile_path": ""
+      },
+      {
+        "name": "David H. Stevens",
+        "character": "David",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sE0EIZbyMT5lkJj832g5yOIAf5y.jpg"
+      },
+      {
+        "name": "Nathan Stevens",
+        "character": "Nate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3ruKLGTYge9uTEavhFSZDZhSY5W.jpg"
+      },
+      {
+        "name": "Jimmy Stevens",
+        "character": "Jim",
+        "profile_path": ""
+      },
+      {
+        "name": "Carol Mirelez",
+        "character": "Phone Sex Girl #1 - Utah",
+        "profile_path": ""
+      },
+      {
+        "name": "June Sepulveda",
+        "character": "Phone Sex Girl #2 - Utah",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Higgs",
+        "character": "Restaurant Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Rogerlyn Kanealii Wakinekona",
+        "character": "Lena's Apartment Receptionist",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike D. Stevens",
+        "character": "Mike D.",
+        "profile_path": ""
+      },
+      {
+        "name": "Catherine Cooley",
+        "character": "Flight Attendant",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Immel",
+        "character": "Man on Plane",
+        "profile_path": ""
+      },
+      {
+        "name": "Ross Lasi Tanoai",
+        "character": "Cab Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Loughran",
+        "character": "Wrong Number (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jNXgI1GRWJ1qquFkloj484rujAJ.jpg"
+      },
+      {
+        "name": "Kaila",
+        "character": "Member of Ladies K Band",
+        "profile_path": ""
+      },
+      {
+        "name": "Ku'Ulei",
+        "character": "Member of Ladies K Band",
+        "profile_path": ""
+      },
+      {
+        "name": "Sissy Lake",
+        "character": "Hula Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Marie Irwin",
+        "character": "Lena's Nurse",
+        "profile_path": ""
+      },
+      {
+        "name": "Esther Imade Balogun",
+        "character": "Receptionist Nurse",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Bornt",
+        "character": "Dean's Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary Kilmartin",
+        "character": "D&D Mattress Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "Anica Brown",
+        "character": "Parader (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryder Davis",
+        "character": "Customer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aJ60ETSuozUcR3XenIQlN04TFhC.jpg"
+      },
+      {
+        "name": "Wells Rosales",
+        "character": "Leo (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Shelley Waggener",
+        "character": "Co-Worker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9GiYzgh1YwwjLbycwuvHYf8FaRB.jpg"
+      },
+      {
+        "name": "Joji Yoshida",
+        "character": "Japanese Tourist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fqrbjWhK4TeuGESwGfPSitp6CTd.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Paul Thomas Anderson",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wKAs2LtLYSUzt3ZZ8pnxMwuEWuR.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "depression",
+    "sibling relationship",
+    "businessman",
+    "shyness",
+    "hawaii",
+    "dysfunctional family",
+    "psychological abuse",
+    "los angeles, california",
+    "scam artist",
+    "telephone sex",
+    "pudding",
+    "sweepstakes",
+    "harmonium",
+    "absurdist",
+    "social anxiety",
+    "emotional abuse",
+    "provo utah",
+    "scam call center",
+    "overbearing sister"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Socially frustrated Barry Egan calls a phone-sex line to curb his loneliness. Little does he know it will land him in deep trouble and will jeopardize his burgeoning romance with the mysterious Lena.",
+    "Barry Egan hates himself and hates his life. The only male among eight siblings, Barry is treated poorly by his overbearing sisters. Despite owning his own business, he has gotten nowhere in life largely because of his insecurities. He leads a solitary life, which allows him to hide his violent outbursts that occur when he's frustrated. His solitude however allows him to think, he stumbling upon a scheme to travel the world on a pittance, travel which he has never done. Concurrently, he meets two people who pull him in two different directions. The first is Lena Leonard, a friend of his sister Elizabeth. Barry is slow to realize that Lena is attracted to him, he making her make all the first moves. Lena is eventually able to get Barry out of his shell, she who sticks around despite his obvious problems. His burgeoning relationship and thus new life with Lena is threatened by the second, \"Georgia\", who he contacted in an effort to alleviate his loneliness. Georgia and her \"band of brothers\" do whatever they can get get out of Barry what they want, no matter the price to Barry.—Huggo",
+    "Barry Egan runs his own company, is continually hounded by his seven sisters, and every now and then gets a tiny bit violent. One odd morning a harmonium first appears in the street then a striking young lady asks for his help with her car. She re-appears a few days later and there seems to be a spark between them, but can they possibly cut through his seemingly over-complicated life and his somewhat unusual interpersonal skills?—J-26",
+    "Barry Egan is a wreck, driven to breakdown by the henpecking of his seven sisters. He steals his heart and manhood away from the curbside. Slowly he learns how to direct them toward love, for the sake of and with the help of another troubled soul.—Jeff Smith"
+  ],
+  "synopsis": "Barry Egan (Adam Sandler) is a single man who owns a company that markets themed toilet plungers and other novelty items. He has seven overbearing sisters who ridicule and emotionally abuse him regularly and leads a very lonely life punctuated by fits of rage and anguish. In the span of one morning, he witnesses a bizarre car accident, picks up an abandoned harmonium from the street, and encounters Lena Leonard (Emily Watson), a co-worker of his sister, Lena having orchestrated this meeting after seeing him in a family picture belonging to his sister Elizabeth (Mary Lynn Rajskub).Coping with his loneliness, Barry calls a phone sex hotline, but the female operator attempts to extort money and sends her four henchmen, who are brothers, to collect. This complicates his budding relationship with Lena, as well as his plan to exploit a loophole in a Healthy Choice promotion and amass a million frequent flyer miles by buying large quantities of pudding (based on the true story of David Phillips). After Lena leaves for Hawaii on a business trip, Barry decides to follow her. He arrives and calls one of his manipulative sisters to learn where Lena is staying. When his sister tries manipulating him again, Barry snaps and demands she give him the information, which she does. Lena is unexpectedly overjoyed to see Barry, and they have a pillow talk scene. At first, Barry explains that he is in Hawaii on a business trip by coincidence, but he soon admits that he came to pursue a romantic relationship. The romance further develops, and Barry finally feels some relief from the emotional isolation he has endured.After they return home, the four brothers ram their car into Barry's, leaving Lena mildly injured. With his newly found freedom from loneliness in jeopardy, a surprisingly aggressive and poised Barry adeptly fights off all four the goons in a matter of seconds. Suspecting that Lena will leave him if she finds out about the phone sex hotline fiasco, Barry leaves Lena at the hospital and tries to end the harassment by calling back the phone-sex line and speaking to the \"supervisor\", who turns out to be Dean Trumbell (Philip Seymour Hoffman), who is also an owner of a mattress store. Barry travels to the mattress store in Provo, Utah, to confront Dean face to face. Dean, at first trying to intimidate Barry, finds Barry much more intimidating and Barry compels Dean to leave him alone.\nBarry decides to tell Lena about his phone-sex fiasco and begs her for forgiveness, pledging his loyalty and to use his frequent-flier miles to accompany her on all future business trips. She readily agrees, and they embrace happily. Lena approaches Barry in his office while he plays the harmonium. She puts her arms around him and says, \"So, here we go.\"",
+  "imdb_score": 7.3
+}

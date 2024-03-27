@@ -1,0 +1,582 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/oRiUKwDpcqDdoLwPoA4FIRh3hqY.jpg",
+  "id": 466272,
+  "title": "Once Upon a Time… in Hollywood",
+  "poster_path": "https://image.tmdb.org/t/p/w500/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+  "release_date": "2019-07-24",
+  "vote_average": 7.44,
+  "vote_count": 12619,
+  "popularity": 62.455,
+  "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
+  "imdb_id": "tt7131622",
+  "budget": 95000000,
+  "homepage": "https://www.sonypictures.com/movies/onceuponatimeinhollywood",
+  "revenue": 374300000,
+  "runtime": 162,
+  "tagline": "Anybody order fried sauerkraut?!",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Heyday Films",
+    "Columbia Pictures",
+    "Bona Film Group"
+  ],
+  "production_countries": [
+    "CN",
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Rick Dalton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+      },
+      {
+        "name": "Brad Pitt",
+        "character": "Cliff Booth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+      },
+      {
+        "name": "Margot Robbie",
+        "character": "Sharon Tate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
+      },
+      {
+        "name": "Emile Hirsch",
+        "character": "Jay Sebring",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Ah8BYOB7P8tX9jnQVrnAbL2kxYJ.jpg"
+      },
+      {
+        "name": "Margaret Qualley",
+        "character": "'Pussycat'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jStNyMj3acpLuH48awLVLqqlyaV.jpg"
+      },
+      {
+        "name": "Timothy Olyphant",
+        "character": "Jim Stacy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg"
+      },
+      {
+        "name": "Julia Butters",
+        "character": "Trudi Fraser",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ylnvmzWrNlCucGpbhuTHcR2J0qc.jpg"
+      },
+      {
+        "name": "Austin Butler",
+        "character": "'Tex'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aGZKvPmjopFfbehunaXXzeZ8eXy.jpg"
+      },
+      {
+        "name": "Dakota Fanning",
+        "character": "'Squeaky'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xPxZqf4uzP4j37Tpmh9v8A47UAi.jpg"
+      },
+      {
+        "name": "Bruce Dern",
+        "character": "George Spahn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Y4RiTNc6mENWQPNp6JS2m6xfPZ.jpg"
+      },
+      {
+        "name": "Mike Moh",
+        "character": "Bruce Lee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8BdgFHa3V74fITOjji4zLCeaHZi.jpg"
+      },
+      {
+        "name": "Luke Perry",
+        "character": "Wayne Maunder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/78TAr0wLoRHyubnYxjyHNCt70V2.jpg"
+      },
+      {
+        "name": "Damian Lewis",
+        "character": "Steve McQueen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qm4M15FTUmuf1j8Kp3M7p0LaqC2.jpg"
+      },
+      {
+        "name": "Al Pacino",
+        "character": "Marvin Schwarz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2dGBb1fOcNdZjtQToVPFxXjm4ke.jpg"
+      },
+      {
+        "name": "Nicholas Hammond",
+        "character": "Sam Wanamaker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/islrUN3Qr8JLX7977pShM8j9Kzz.jpg"
+      },
+      {
+        "name": "Samantha Robinson",
+        "character": "Abigail Folger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uA7HT2XwOSxXAsEY8NVM5GX5D97.jpg"
+      },
+      {
+        "name": "Rafał Zawierucha",
+        "character": "Roman Polanski",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dqI32lryiPq0RDnXL0N9J8YLD0x.jpg"
+      },
+      {
+        "name": "Lorenza Izzo",
+        "character": "Francesca Capucci",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cGjEIwvt4YUOqX0twIMcnzjMKmZ.jpg"
+      },
+      {
+        "name": "Costa Ronin",
+        "character": "Voytek Frykowski",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5MNJNUW8LW2wKm9b78ypATyaKTq.jpg"
+      },
+      {
+        "name": "Damon Herriman",
+        "character": "Charlie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Wb5q2nua0JGJRdtZLRBon6uAua.jpg"
+      },
+      {
+        "name": "Lena Dunham",
+        "character": "'Gypsy'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nRMeKctDpp5vgYCbrFXEmrAch6k.jpg"
+      },
+      {
+        "name": "Madisen Beaty",
+        "character": "'Katie'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/918cRrEML3EmKeRnrckcX39p6hU.jpg"
+      },
+      {
+        "name": "Mikey Madison",
+        "character": "'Sadie'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bcDV4CbxTmOLq2QJbDojxp1oQxF.jpg"
+      },
+      {
+        "name": "James Landry Hébert",
+        "character": "'Clem'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1WC4pv2BWJGNqqoo3CnCelXmGEE.jpg"
+      },
+      {
+        "name": "Maya Hawke",
+        "character": "'Flowerchild'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/evjbbHM1bzA6Ma5Ptjwa4WkYkkj.jpg"
+      },
+      {
+        "name": "Victoria Pedretti",
+        "character": "'Lulu'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dSrIMNn803L8fqqWjkCSRv4iOu1.jpg"
+      },
+      {
+        "name": "Sydney Sweeney",
+        "character": "'Snake'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wrPmsC9YATcnyAxvXEdGshccbqU.jpg"
+      },
+      {
+        "name": "Harley Quinn Smith",
+        "character": "'Froggie'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6aUlJSKXJrRc2GzcSr9gsrg6wZH.jpg"
+      },
+      {
+        "name": "Dallas Jay Hunter",
+        "character": "'Deliah'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cMwv5Id3lcqsHyM9hyoSGz5pd3Z.jpg"
+      },
+      {
+        "name": "Kansas Bowling",
+        "character": "'Blue'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3HSqVbE2fKX5bVg0MNZ6qvSlJOW.jpg"
+      },
+      {
+        "name": "Parker Love Bowling",
+        "character": "'Tadpole'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kX9Yi4lCb5W3MwECC0Gnk24N6BC.jpg"
+      },
+      {
+        "name": "Cassidy Vick Hice",
+        "character": "'Sundance'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gQH230XT2RmHQv97XNIjj4JteSt.jpg"
+      },
+      {
+        "name": "Ruby Rose Skotchdopole",
+        "character": "'Butterfly'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y7eHBLrkU1jsPh1wT6gOqTQDx1r.jpg"
+      },
+      {
+        "name": "Danielle Harris",
+        "character": "'Angel'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5REXVo1Q3xA9bMjpHmWM3v5lSiZ.jpg"
+      },
+      {
+        "name": "Josephine Valentina Clark",
+        "character": "'Happy Cappy'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4gyvzy2ec8EuW9eImEqqBgN5qlV.jpg"
+      },
+      {
+        "name": "Scoot McNairy",
+        "character": "'Lancer' - 'Business Bob' Gilbert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oP2LJEqupxVZ2XdEW1lN5Q5LF3M.jpg"
+      },
+      {
+        "name": "Clifton Collins Jr.",
+        "character": "'Lancer' - Ernesto the Mexican Vaquero",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ceryVVubF74pgu13Y0KUqIzxOae.jpg"
+      },
+      {
+        "name": "Marco Rodríguez",
+        "character": "'Lancer' - Bartender Pepe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p0Sf93CgRmysHEBRapRpqlFH1SJ.jpg"
+      },
+      {
+        "name": "Ramón Franco",
+        "character": "Movie Theater Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3BogYBK202y7DdDzBbMDtojthfe.jpg"
+      },
+      {
+        "name": "Raúl Cardona",
+        "character": "'Lancer' - 'Bad Guy' Delgado",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gWUWLRMmlUv32A5zG7FEOszmndd.jpg"
+      },
+      {
+        "name": "Courtney Hoffman",
+        "character": "Rebekka",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cK9AujvWiUgW4H6XanDSjLzwKZ0.jpg"
+      },
+      {
+        "name": "Dreama Walker",
+        "character": "Connie Stevens",
+        "profile_path": "https://image.tmdb.org/t/p/w185/105ENm1xzWlE9iJjw5C2suFfjBC.jpg"
+      },
+      {
+        "name": "Rachel Redleaf",
+        "character": "Mama Cass",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g2QTATOp1CsQEvIZJYqIJ3B2M1f.jpg"
+      },
+      {
+        "name": "Rebecca Rittenhouse",
+        "character": "Michelle Phillips",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jQMrD7E4FCEBOD8tqQsi6q5FwH.jpg"
+      },
+      {
+        "name": "Rumer Willis",
+        "character": "Joanna Pettet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l8pgRZp35O6UeDaCegwOvLBOrVb.jpg"
+      },
+      {
+        "name": "Spencer Garrett",
+        "character": "Allen Kincade",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jJWISea4PvC9Mv5kWONAMKhEK7j.jpg"
+      },
+      {
+        "name": "Clu Gulager",
+        "character": "Book Store Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vIcvay2xPmaQJF78GWLcCCRf6no.jpg"
+      },
+      {
+        "name": "Martin Kove",
+        "character": "'Bounty Law' - Sheriff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vKfS55g6rqldWekNdy4JifuJQsw.jpg"
+      },
+      {
+        "name": "Rebecca Gayheart",
+        "character": "Billie Booth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mWbafESLGexG5akqRIBFtCm9G25.jpg"
+      },
+      {
+        "name": "Kurt Russell",
+        "character": "Randy / Narrator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg"
+      },
+      {
+        "name": "Zoë Bell",
+        "character": "Janet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fDckmfcIrrdcOgyGifVF2FvQtiE.jpg"
+      },
+      {
+        "name": "Michael Madsen",
+        "character": "'Bounty Law' - Sheriff Hackett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/69cqjkTNKI1muAfnvorfmWNVgIe.jpg"
+      },
+      {
+        "name": "Perla Haney-Jardine",
+        "character": "Hippie Selling Acid Cigarettes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wzdoXy3yvrWM7Fhrh1rPHnvTf75.jpg"
+      },
+      {
+        "name": "James Remar",
+        "character": "'Bounty Law' - 'Ugly Owl'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
+      },
+      {
+        "name": "Monica Staggs",
+        "character": "Connie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/caiiJJqD7MGquoLNniwPIrSYdxw.jpg"
+      },
+      {
+        "name": "Craig Stark",
+        "character": "Land Pirate Craig",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r6KyyR7OPB1Bo3lBV51YPH9u47T.jpg"
+      },
+      {
+        "name": "Keith Jefferson",
+        "character": "Land Pirate Keith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sgeLEldvPlTIogfriyoOJHmhH4.jpg"
+      },
+      {
+        "name": "Omar Doom",
+        "character": "Donnie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uIyS0Rx2hDJNBBSoC3wQH49FXVi.jpg"
+      },
+      {
+        "name": "Kate Berlant",
+        "character": "Bruin Box Office Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kVUd1rIM50AsrcEmnLhaGfawNP3.jpg"
+      },
+      {
+        "name": "Victoria Truscott",
+        "character": "Musso & Frank Hostess (Gina)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lCbmZae5BUhaE552mx0Drg8Wkgp.jpg"
+      },
+      {
+        "name": "Allison Yaple",
+        "character": "'Lancer' - Script Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aWOzuR0zBtxonWKYTW6bHL2nvfl.jpg"
+      },
+      {
+        "name": "Bruce Del Castillo",
+        "character": "Back Lot Crew Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hNuRFnCU7JLy5IQ0bLCgQhpLRU3.jpg"
+      },
+      {
+        "name": "Brenda Vaccaro",
+        "character": "Mary Alice Schwarz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sWRvlw6udCXbMWczGA4TGWWC0Jn.jpg"
+      },
+      {
+        "name": "Lew Temple",
+        "character": "Land Pirate Lew",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s8FXAUqIclO4ndI9BsLavrxqQup.jpg"
+      },
+      {
+        "name": "Daniella Pick",
+        "character": "Daphna Ben-Cobo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/24MF2xkji63pJoEf1vaYK6BEKp4.jpg"
+      },
+      {
+        "name": "David Steen",
+        "character": "'Straight Satan' David",
+        "profile_path": "https://image.tmdb.org/t/p/w185/frsLHFlVY6UVwh0ux4vrqHixO5C.jpg"
+      },
+      {
+        "name": "Mark Warrack",
+        "character": "Curt",
+        "profile_path": ""
+      },
+      {
+        "name": "Gabriela Flores",
+        "character": "Maralu the Fiddle Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1i55bIaChmxuFjTF5rZEXJn7jdO.jpg"
+      },
+      {
+        "name": "Heba Thorisdottir",
+        "character": "Make-Up Artist Sonya",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i8B2cXDxv58NoSCEG1XALUuu8CQ.jpg"
+      },
+      {
+        "name": "Breanna Wing",
+        "character": "Young Girl Hippy Hitchhiker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cyVyO96XO8q4his43y4OLRqnr9M.jpg"
+      },
+      {
+        "name": "Kenneth Sonny Donato",
+        "character": "Musso & Frank Bartender",
+        "profile_path": ""
+      },
+      {
+        "name": "Sergio Gonzalez",
+        "character": "Musso & Frank Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Casey O'Neill",
+        "character": "Nazi Soldier / McCluskey Burn Nazi #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aoT1prEjm2i4BYk2UUwYYhUtwTZ.jpg"
+      },
+      {
+        "name": "Michael Graham",
+        "character": "Policeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7yAQG0rghD3zeOMQwUZn4c0Fdn4.jpg"
+      },
+      {
+        "name": "Emile Williams",
+        "character": "Paramedic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/urlNucsxw9kutrJtSZtYVS08FKd.jpg"
+      },
+      {
+        "name": "Vincent Laresca",
+        "character": "Land Pirate Vincent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nO1HrEcjXzot40qDJkTcI4CFqTf.jpg"
+      },
+      {
+        "name": "JLouis Mills",
+        "character": "Land Pirate J",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tsi14lj20OMSuKB12EAR5sUByXt.jpg"
+      },
+      {
+        "name": "Gilbert Saldivar",
+        "character": "Land Pirate Gil",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jqHVgDMgLMD74tqnlahgpQlpgkv.jpg"
+      },
+      {
+        "name": "Maurice Compte",
+        "character": "Land Pirate Maurice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9PFInf2I0kqjAU0CmZhdDWmHfwT.jpg"
+      },
+      {
+        "name": "Eddie Perez",
+        "character": "Land Pirate Eddie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lJ0584zfHNwj2QywbBvF7TcEy8w.jpg"
+      },
+      {
+        "name": "Hugh McCallum",
+        "character": "'Lancer' - Camera Operator Hugh",
+        "profile_path": ""
+      },
+      {
+        "name": "Zander Grable",
+        "character": "Hermann the Nazi Youth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lxttNh71ZoPZW8KucY5ZpDnUuhf.jpg"
+      },
+      {
+        "name": "Ed Regine",
+        "character": "Cicada Maitre'd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s5GIban5JFvE6a2p8IWnSc3nlNc.jpg"
+      },
+      {
+        "name": "Michael Bissett",
+        "character": "Officer Mike",
+        "profile_path": ""
+      },
+      {
+        "name": "Lenny Langley Jr.",
+        "character": "Dashihi Donnell",
+        "profile_path": ""
+      },
+      {
+        "name": "Gillian M. Berrow",
+        "character": "Gillian",
+        "profile_path": ""
+      },
+      {
+        "name": "Chad Ridgely",
+        "character": "Cop #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1g663csevlwCEksyFLJHSqHPP6S.jpg"
+      },
+      {
+        "name": "Chic Daniel",
+        "character": "Cop #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mLf3j2ner6ZJKpmrbZxway8uR7u.jpg"
+      },
+      {
+        "name": "Corey Burton",
+        "character": "'Bounty Law' - Promo Announcer (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg"
+      },
+      {
+        "name": "Michaela Sprague",
+        "character": "Dancer #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uK7xV6xOkkRoK6Re6SFVeWKi20c.jpg"
+      },
+      {
+        "name": "Ryan Ramirez",
+        "character": "Dancer #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Kayla Jenee Radomski",
+        "character": "Dancer #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4bQxG6wFaIXLylc566k4YhOUfuV.jpg"
+      },
+      {
+        "name": "Kerry Westcott",
+        "character": "Dancer #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a6LkiANuO65XXjAUVvHcxhN9Twz.jpg"
+      },
+      {
+        "name": "William DeAtley",
+        "character": "Jack (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brianna Joy Chomer",
+        "character": "Starlet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xFJjWgDKXF6PbqivcrxF4ZcMVwN.jpg"
+      },
+      {
+        "name": "Quentin Tarantino",
+        "character": "Red Apple Ad Director (uncredited) (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg"
+      },
+      {
+        "name": "Johnny Otto",
+        "character": "Police Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i5LOfr6GLH6hvBdCoMyKY457IQZ.jpg"
+      },
+      {
+        "name": "Gina Aponte",
+        "character": "Waitress (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Adam West",
+        "character": "Batman (uncredited) (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a3Yw8bb6AF7a8Zr7IyEZhZxWVWN.jpg"
+      },
+      {
+        "name": "Burt Ward",
+        "character": "Robin (uncredited) (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/13qUIbdB6D6BaTy3znHoHWdHuYN.jpg"
+      },
+      {
+        "name": "Katarína Paveleková",
+        "character": "Movie Date (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Quentin Tarantino",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "movie business",
+    "male friendship",
+    "based on true story",
+    "celebrity",
+    "fame",
+    "hollywood",
+    "los angeles, california",
+    "historical fiction",
+    "buddy",
+    "filmmaking",
+    "struggling actor",
+    "satanic cult",
+    "revisionist history",
+    "duringcreditsstinger",
+    "western filmmaking",
+    "manson family murders",
+    "1960s",
+    "stunt double",
+    "old hollywood",
+    "sharon tate",
+    "charles manson"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A faded television actor and his stunt double strive to achieve fame and success in the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+    "Quentin Tarantino's Once Upon a Time... in Hollywood visits 1969 Los Angeles, where everything is changing, as TV star Rick Dalton (Leonardo DiCaprio) and his longtime stunt double Cliff Booth (Brad Pitt) make their way around an industry they hardly recognize anymore. The ninth film from the writer-director features a large ensemble cast and multiple storylines in a tribute to the final moments of Hollywood's golden age.",
+    "1969. Rick Dalton was once the star of a highly popular TV series but a few bad choices have set his career back, leaving him wondering if he should quit showbiz altogether. His best friend is Cliff Booth, an aging stuntman who was Dalton's stunt-double in movies and TV. His career is largely over. While Booth ekes out an existence, Dalton still lives a life of relative luxury in Hollywood, rubbing shoulders with the rich and famous. In fact, his neighbours are Roman Polanski and Sharon Tate.—grantss",
+    "Set in Los Angeles, 1969. Over the hill TV actor, Rick Dalton, and his best friend and stunt-double, Cliff Booth, strive to reignite their careers as their failure is juxtaposed with the success of Rick's new next door neighbours: Sharon Tate Tate and Roman Polanski Rick and Cliff become unwittingly entangled with the infamous Manson family in the process.—jmcrighton-892-694446",
+    "After a meteoric five-year rise to the top in the cut-throat world of dazzling Hollywood and a long decade of treading water, the once-young-and-popular action star, Rick Dalton, finds it difficult to swallow that the rapacious and always hungry for new blood film industry can do without him. Sensing that his career may be nearing its end, Rick along with his sympathetic confidant and former stunt double, Cliff Booth, face the grim possibility of a mundane new life in an ever-changing 1969 Los Angeles. Now, unlike his glamorous next-door neighbours--the young director fresh off the triumphant success of Rosemary's Baby (1968), Roman Polanski, and the rising star of The Wrecking Crew (1968), Sharon Tate--Rick has to make a difficult decision. Of course, none of them is aware that their fates, and their very lives, are on a collision course with a certain Charles Manson, and his army of ferociously zealous believers. Will Hollywood ever be the same after August 9, 1969?—Nick Riganas"
+  ],
+  "synopsis": "In February 1969, Hollywood actor Rick Dalton (Leonardo DiCaprio), former star of 1950s Western television series Bounty Law, laments to his best friend and former stunt double, Cliff Booth (Brad Pitt), that his career is over. Dalton has lunch with Producer and Agent Marvin Schwarz who makes Dalton realize that playing a guest negative role in new network shows is going to ruin his career. Dalton realizes that he officially is designated as a \"has been\". Booth (a war veteran who lives in a trailer with his pit bull, Brandy) drives Dalton around town and relies on him for work due to rumors that Booth killed his wife (and hence no producer would directly work with Booth due to his reputation).\nMeanwhile, actress Sharon Tate (Margot Robbie) and her husband, director Roman Polanski (Rafal Zawierucha), have moved into the house next door to Dalton's. Dalton dreams of befriending the couple in order to restore his status as a movie lead. Later that night, Tate and Polanski join Jay Sebring (Emile Hirsch) (a Hollywood hairstylist and friend and ex-boyfriend of Tate) at a celebrity-filled party at the Playboy Mansion.At Dalton's house, Booth reminisces on a sparring match he had on the set of The Green Hornet with Bruce Lee (Mike Moh). Charles Manson (Damon Herriman) stops by the home of Polanski and Tate looking for record producer Terry Melcher, who used to live there, but is turned away by Sebring. Later, while driving Dalton's car, Booth picks up a young hitchhiker called \"Pussycat\" (Margaret Qualley), dropping her off at Spahn Ranch, where Booth once filmed Bounty Law. \"Pussycat\" tries to persuade Booth to stay, but he is suspicious of the large number of hippies squatting on the property, and suspects they are taking advantage of the owner, George Spahn (Bruce Dern) (an 80-year-old nearly blind man who rented his ranch out for Westerns. Charles Manson convinced Spahn to allow him and his followers to live on the ranch). Booth insists on checking on Spahn despite \"Squeaky\"'s (Dakota Fanning) objections; Spahn dismisses Booth's fears.Returning to the car, Booth discovers that Clem Grogan (James Landry Hébert) has slashed the front tire; Booth brutally beats Grogan and forces him to change the tire. One of the Manson girls, Sundance (Cassidy Vick Hice), goes to fetch Tex Watson (Austin Butler), but by the time Watson arrives on horseback Booth is driving away. Tate goes for a walk and decides to stop at a movie theater to watch herself in The Wrecking Crew.Dalton lands the role of a villain in a new series, Lancer where he strikes up a conversation with his eight-year-old co-star, Trudi (Julia Butters). During one of his scenes, Dalton struggles with his dialogue due to his alcoholism. After having an emotional breakdown in his trailer, Dalton returns to the set and delivers a powerful performance that impresses the director, Sam Wanamaker (Nicholas Hammond), and Trudi, bolstering Dalton's confidence.After watching Dalton's guest performance on an episode of The F.B.I., casting agent Marvin Schwarz (Al Pacino) offers Dalton the opportunity to shoot a Spaghetti Western in Italy. Dalton, who considers Spaghetti Westerns to be the bottom of the movie industry, reluctantly agrees, bringing Booth with him for the six-month stint. Dalton films four movies, including Nebraska Jim with Sergio Corbucci, and gets married.Returning to Los Angeles, Dalton informs Booth he can no longer afford his services, and they agree to go their separate ways. They go out for drinks and return to Dalton's home, where Booth smokes an acid-laced cigarette and takes Brandy for a walk. Meanwhile, Tex Watson, Susan Atkins (Mikey Madison), Linda Kasabian (Maya Hawke), and Patricia Krenwinkel (Madisen Beaty) park outside, in their loud 1959 Ford Galaxie, in preparation to murder everyone in Tate's house (their cult leader apparently had told Tex Waton to go to \"Terry's old house\" (where Tate now stays) and kill everyone inside). Dalton hears the car, comes out, and angrily orders them to leave.They drive off, but Atkins hatches a plan to return and kill Dalton instead. Kasabian deserts the group and the remaining three proceed with Atkins' plan. They break into Dalton's house and confront Booth, who recognizes them from Spahn Ranch. Booth orders Brandy to attack, and together they kill Krenwinkel and Watson and severely injure Atkins. Atkins, gun in hand, stumbles outside, alarming Dalton, who was listening to music on headphones and oblivious to the mayhem inside. Dalton retrieves a flamethrower he had kept from a film shoot and incinerates Atkins. Booth is taken to the hospital for injuries. Sebring engages Dalton in conversation and Tate, over the intercom, invites Dalton up to her house for drinks with her still-alive house-guests, Sebring, Abigail Folger (Samantha Robinson) and Wojciech Frykowski (Costa Ronin).",
+  "imdb_score": 7.6
+}

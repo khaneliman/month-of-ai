@@ -1,0 +1,507 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/4iUuOIYBBy12N21AAcEbHr5LQJr.jpg",
+  "id": 1701,
+  "title": "Con Air",
+  "poster_path": "https://image.tmdb.org/t/p/w500/kOKjgrEzGOP92rVQ6srA9jtp60l.jpg",
+  "release_date": "1997-06-05",
+  "vote_average": 6.734,
+  "vote_count": 3879,
+  "popularity": 35.785,
+  "overview": "Newly-paroled former US Army ranger Cameron Poe is headed back to his wife, but must fly home aboard a prison transport flight dubbed \"Jailbird\" taking the “worst of the worst” prisoners, a group described as “pure predators”, to a new super-prison. Poe faces impossible odds when the transport plane is skyjacked mid-flight by the most vicious criminals in the country led by the mastermind — genius serial killer Cyrus \"The Virus\" Grissom, and backed by black militant Diamond Dog and psychopath Billy Bedlam.",
+  "imdb_id": "tt0118880",
+  "budget": 75000000,
+  "homepage": "",
+  "revenue": 224012234,
+  "runtime": 116,
+  "tagline": "They were deadly on the ground. Now they have wings.",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    "Touchstone Pictures",
+    "Jerry Bruckheimer Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Nicolas Cage",
+        "character": "Cameron Poe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ar33qcWbEgREn07ZpXv5Pbj8hbM.jpg"
+      },
+      {
+        "name": "John Malkovich",
+        "character": "Cyrus \"The Virus\" Grissom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vmhs8FRzfFmy8vX63bqQOkK0PuB.jpg"
+      },
+      {
+        "name": "John Cusack",
+        "character": "Agent Vince Larkin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
+      },
+      {
+        "name": "Ving Rhames",
+        "character": "Nathan \"Diamond Dog\" Jones",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ohAOsD8E4tu35PI2buzZORpn9Ef.jpg"
+      },
+      {
+        "name": "Mykelti Williamson",
+        "character": "\"Baby-O\" O'Dell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e5f7XCZAUEQ55rVhdphqzdMMI8b.jpg"
+      },
+      {
+        "name": "Dave Chappelle",
+        "character": "\"Pinball\" Parker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8n64np7IAXbpQQJKxUncihJpq0G.jpg"
+      },
+      {
+        "name": "Colm Meaney",
+        "character": "Agent Duncan Malloy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/guL6RJdlRMtOJN3LoaY3G8hG4Rd.jpg"
+      },
+      {
+        "name": "Monica Potter",
+        "character": "Tricia Poe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jCFOlFAjNPMkX9pJF2Au0cquZ6v.jpg"
+      },
+      {
+        "name": "Landry Allbright",
+        "character": "Casey Poe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vTjroX0wuJlOtgSjev1mzAjSpGv.jpg"
+      },
+      {
+        "name": "Rachel Ticotin",
+        "character": "Guard Sally Bishop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ihLzHGkgQcpUX26K5AtfG8VuYGB.jpg"
+      },
+      {
+        "name": "Steve Buscemi",
+        "character": "Garland Greene - \"The Marietta Mangler\"",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lQKdHMxfYcCBOvwRKBAxPZVNtkg.jpg"
+      },
+      {
+        "name": "Nick Chinlund",
+        "character": "William \"Billy Bedlam\" Bedford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lRmgWDIXqBTneGbKlJNSFyiis1e.jpg"
+      },
+      {
+        "name": "M.C. Gainey",
+        "character": "\"Swamp Thing\"",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nM82se0lOFbOhhj3J6tRFcdEydO.jpg"
+      },
+      {
+        "name": "Danny Trejo",
+        "character": "\"Johnny-23\"",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg"
+      },
+      {
+        "name": "Renoly Santiago",
+        "character": "\"Sally-Can't Dance\"",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mdWgsQM0u6w9nBVzTHIY7FY1nOG.jpg"
+      },
+      {
+        "name": "Steve Eastin",
+        "character": "Guard Falzon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f6jwyMkbEmIzK70vUO8l0oQJjxX.jpg"
+      },
+      {
+        "name": "Brendan Kelly",
+        "character": "Conrad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nJXxgwcGdAL5P1KfgcGrjDaCbsY.jpg"
+      },
+      {
+        "name": "Jesse Borrego",
+        "character": "Francisco Cindino",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bK9cPqXTJSRN72ZDKN3UXlKN3gU.jpg"
+      },
+      {
+        "name": "Carl Ciarfalio",
+        "character": "Con #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yADROfK7uJkmd8p3GyjxH8WZqRL.jpg"
+      },
+      {
+        "name": "Mongo Brownlee",
+        "character": "Ajax",
+        "profile_path": "https://image.tmdb.org/t/p/w185/chHO4vrhTtngLPrU01ngN7MP5v9.jpg"
+      },
+      {
+        "name": "José Zúñiga",
+        "character": "Sims",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r6nFkJkMHP9tFDohwfav9Bf2rCR.jpg"
+      },
+      {
+        "name": "Ned Bellamy",
+        "character": "Chopper Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9qj6thu0g6iUc2hvfoEYlO4GSbY.jpg"
+      },
+      {
+        "name": "John Marshall Jones",
+        "character": "Gator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8aQ8qxVOeUx23Jw89ouj9gOwy1W.jpg"
+      },
+      {
+        "name": "John Roselius",
+        "character": "Devers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2r5I69fsHlHExO07GTrQCCT9peM.jpg"
+      },
+      {
+        "name": "Fredric Lehne",
+        "character": "Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qjtfC2QWLukoNVnDjp8QZF6E6Xz.jpg"
+      },
+      {
+        "name": "Martin McSorley",
+        "character": "Co-Pilot",
+        "profile_path": ""
+      },
+      {
+        "name": "Dylan Haggerty",
+        "character": "Starkey",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Bell",
+        "character": "Fuel Jockey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y7rMuhQXCYtBgK7BOwslx3nwLyo.jpg"
+      },
+      {
+        "name": "Bob Stephenson",
+        "character": "Ted, the Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/htF2P5zyyFFB1jpBNGVvTiGH01F.jpg"
+      },
+      {
+        "name": "Scott Ditty",
+        "character": "Bus Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eJkFSj6srNLWu2GQPb229Zwuf0A.jpg"
+      },
+      {
+        "name": "Tommy Bush",
+        "character": "Sheriff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xfziwL5Dz26Py4OuDQKWsvONNr3.jpg"
+      },
+      {
+        "name": "Lauren Pratt",
+        "character": "Debbie (6 Yrs Old)",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Hulin",
+        "character": "Ronnie",
+        "profile_path": ""
+      },
+      {
+        "name": "Don Charles McGovern",
+        "character": "Smoke",
+        "profile_path": ""
+      },
+      {
+        "name": "Angela Featherstone",
+        "character": "Ginny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dQnJ3Hv1ENvroNbBJm0wppyghzN.jpg"
+      },
+      {
+        "name": "Doug Hutchison",
+        "character": "Donald",
+        "profile_path": "https://image.tmdb.org/t/p/w185/afAENhxoHikCAKFaILFdSwVdkCw.jpg"
+      },
+      {
+        "name": "Jeris Poindexter",
+        "character": "Watts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dHKzZRNZWAuO3VMRPJPiSC2afwm.jpg"
+      },
+      {
+        "name": "David Ramsey",
+        "character": "Londell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bZWO7WfBYI8iojTFozzqN2X3RWL.jpg"
+      },
+      {
+        "name": "Conrad Goode",
+        "character": "Viking",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wcGtpT5FR5PPh9OqfS44hSyUNZT.jpg"
+      },
+      {
+        "name": "Emilio Rivera",
+        "character": "Carlos",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pHgPJSoZVgmt4FQ8zyMVqwovpRb.jpg"
+      },
+      {
+        "name": "Mario Roberts",
+        "character": "Mongoose (Stunt)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/smpxow6kyXsEYhqmiFqjlFHufsp.jpg"
+      },
+      {
+        "name": "Ty Granderson Jones",
+        "character": "Blade",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9oHPeVWxKofKTnIMbbloW7uT2U8.jpg"
+      },
+      {
+        "name": "Earl Billings",
+        "character": "Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4Wj6Q2yyRbOEZacfTaxLhLJgwx2.jpg"
+      },
+      {
+        "name": "Greg Collins",
+        "character": "Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/42p7hsOck2OzIkr4b9Wtp0HckkG.jpg"
+      },
+      {
+        "name": "Billy Devlin",
+        "character": "Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dnxo4BhdJk2LWYnhz7zLiuZZ9mt.jpg"
+      },
+      {
+        "name": "Mark Ginther",
+        "character": "Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kaaLC5LcqpsLIdbaINQuUfbbrCr.jpg"
+      },
+      {
+        "name": "Joseph Patrick Kelly",
+        "character": "Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wvUpGz4QG18czmQkFqx91KbD7Ha.jpg"
+      },
+      {
+        "name": "Jeff Olson",
+        "character": "Uncle Bob",
+        "profile_path": ""
+      },
+      {
+        "name": "Dawn Bluford",
+        "character": "Female Baggage Handler",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlie Paddock",
+        "character": "Transportation Officer #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Randee Barnes",
+        "character": "Stickman",
+        "profile_path": ""
+      },
+      {
+        "name": "Don S. Davis",
+        "character": "Man In Car",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gxUvCXIFxAMqcWgosErBP5rHKDw.jpg"
+      },
+      {
+        "name": "Barbara Sharma",
+        "character": "Woman In Car",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Rosales Jr.",
+        "character": "Cindino Gunman (Stunts)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tlJzLctGc6UmB7JQrkFcdMEuRx3.jpg"
+      },
+      {
+        "name": "Eddie Perez",
+        "character": "Cindino Gunman (Stunts)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lJ0584zfHNwj2QywbBvF7TcEy8w.jpg"
+      },
+      {
+        "name": "Scott McCoy",
+        "character": "Cindino Gunman (Stunts)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Hayes Currie",
+        "character": "Cop In Vegas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fZ7wnZvxVKIoYCsHYUIgmkfQwk.jpg"
+      },
+      {
+        "name": "Ashley Smock",
+        "character": "Huey Pilot",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Lynn Frost",
+        "character": "DEA Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Joey Miyashima",
+        "character": "Tech Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fTEpfX8jaThOwHA2RyGkNTibCUM.jpg"
+      },
+      {
+        "name": "Scott Burkholder",
+        "character": "Air Traffic Controller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7cfSbcHsi6T5dI29B22fImWcND7.jpg"
+      },
+      {
+        "name": "Kevin Cooney",
+        "character": "Judge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iPhJ6276RTcdpyeuhi6U6y1p8Ci.jpg"
+      },
+      {
+        "name": "Gérard L'Heureux",
+        "character": "Guard Renfro",
+        "profile_path": ""
+      },
+      {
+        "name": "Pete Antico",
+        "character": "Guard Garner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eG7VI6yLvSfPxTGKsv3vRaNCCHl.jpg"
+      },
+      {
+        "name": "John Robotham",
+        "character": "Guard Ryan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zg5l2Yb2iNY46xmMFGrAIxx2hfM.jpg"
+      },
+      {
+        "name": "Gilbert Rosales",
+        "character": "Ramirez (Stunt)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gb60pzm0vP0X56BiHKIEkyg7wRq.jpg"
+      },
+      {
+        "name": "Richard L. Duran",
+        "character": "Warlock (Stunt)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4zQq980bBvOnHVtzxiMQpO8b5y6.jpg"
+      },
+      {
+        "name": "George Randall",
+        "character": "Old Con on Plane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/74ABScWbnnzj8841WKyADbGMMjN.jpg"
+      },
+      {
+        "name": "Jamie Bozian",
+        "character": "Con",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i9My29azUfVBLYwUVxbQ35GNyfr.jpg"
+      },
+      {
+        "name": "Harley Zumbrum",
+        "character": "Con",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b47Mx5rHGnU8j6rxkIBlCxie9uS.jpg"
+      },
+      {
+        "name": "Doug Dearth",
+        "character": "Con",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oF2vxY6t2fuKjfG9EpEF3JKTLd2.jpg"
+      },
+      {
+        "name": "David Roberson",
+        "character": "Supervisor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nHP28UTXJYqv85B5dBfdX4v7y0N.jpg"
+      },
+      {
+        "name": "Alexandra Balahoutis",
+        "character": "Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wpTfZyWnalztlsJLqPc6685wP20.jpg"
+      },
+      {
+        "name": "Dick 'Skip' Evans",
+        "character": "Airplane Pilot",
+        "profile_path": ""
+      },
+      {
+        "name": "Sheldon Worthington",
+        "character": "Co-Pilot",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Taft",
+        "character": "Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert White",
+        "character": "Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Ellis",
+        "character": "BOP Official Grant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zSoBhmD7KtHi9YrBVrHK9QSl8DU.jpg"
+      },
+      {
+        "name": "John Campbell",
+        "character": "BOP Bus Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Willems",
+        "character": "Paramedic",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Cusack",
+        "character": "Paramedic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gzFrSaKHWiNw3QnoJe1Amv2mcpH.jpg"
+      },
+      {
+        "name": "Dabbs Greer",
+        "character": "Old Man Under Truck",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ffm1QvndSpydujTPQ6gG2satfxq.jpg"
+      },
+      {
+        "name": "Marco Kyris",
+        "character": "Cindino's Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aRrJ1pp47h4yLDa9gyllbeVmakV.jpg"
+      },
+      {
+        "name": "Kevin Gage",
+        "character": "Billy Joe (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nTaDLkN1RAhPGaM0AO1CFysnwUl.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Simon West",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yQpwEIsszmeVCmEAp8yrPP8LtvS.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "prison",
+    "helicopter",
+    "airplane",
+    "escape",
+    "undercover",
+    "ambush",
+    "war veteran",
+    "gas station",
+    "psychopath",
+    "bravery",
+    "mexican standoff",
+    "sandstorm",
+    "hijacking",
+    "us army",
+    "prison guard",
+    "u.s. marshal",
+    "serial killer",
+    "shootout",
+    "las vegas",
+    "explosion",
+    "brutality",
+    "convict",
+    "desert",
+    "war hero",
+    "diabetic",
+    "dea agent",
+    "hostile takeover",
+    "skyjacker",
+    "motorcycle chase",
+    "disguises",
+    "action hero",
+    "army veteran",
+    "prisoner transport",
+    "transport plane"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Newly-paroled ex-con and former U.S. Ranger Cameron Poe finds himself trapped in a prisoner-transport plane when the passengers seize control.",
+    "Cameron Poe, a highly decorated Army Ranger, comes home to Alabama to his wife Tricia, only to run into a few drunken regulars at the bar where she works. Cameron accidentally kills one of the drunks, and is sent to a federal penitentiary for involuntary manslaughter for seven years. He becomes eligible for parole and can now go home to his wife and daughter. Unfortunately, Cameron has to share a prison airplane with some of the country's most dangerous criminals, who take control of the plane and are now planning to escape the country. Cameron has to find a way to stop them while playing along. Meanwhile, United States Marshal Vince Larkin is trying to help Cameron get free and stop the criminals, led by Cyrus \"The Virus\" Grissom.—John Wiggins",
+    "Cameron Poe, a highly decorated US ranger, is convicted of manslaughter after protecting his wife in a drunken brawl. Finally, after eight years, he's being paroled and going home to his wife and daughter. His ride home: the Jailbird, which is also transporting society's vicious murderers to Feltham Penitentiary, Lousiana's toughest maximum security prison. A surprising escape is made on board the plane as the cons seize control of the plane, and head it towards Las Vegas. The officials on the ground want to blow it out of the sky, but three people know an alternative... US Marshal Vince Larkin, Cameron Poe's wife, and his daughter.—Cameron Poe <sprintcs@idirect.com>",
+    "Cameron Poe is a highly decorated military officer who is sent to prison because of killing a man while defending his wife. Seven years later, he is granted a parole. He is put on a plane with many other convicts. Everything looks smooth until one of the convicts, Cyrus \"The Virus\" Grissom breaks out of his restraints and takes control of the plane. The D.E.A quickly learns of the event and plans on shooting the plane down, but U.S. Marshall Vince Larkin sees Poe as an ally and tries to work with him before his superiors shoot down the plane.—Ridley Lavine",
+    "When Cameron Poe, of the US Army, is found guilty of manslaughter after killing a drunk man while protecting his wife outside a bar, he is sent to jail for eight years. During that time his daughter is born, but he waits patiently in his cell until his release date. He is flown home on board the Jailbird, which also transports some very dangerous convicts to a maximum-security prison in Louisiana. The convicts manage to escape directed by Cyrus \"The Virus\", who also leads the plane's take-over and re-routes it to an abandoned airfield to catch another plane which will take them to a foreign country. With Poe's help, the authorities learn where the convicts are headed for and manage to get there before they take off again. After the police and army are killed in an ambush at the airfield, the convicts take off again toward Las Vegas, but a US Marshal, Vince Larkin, with the help of Poe on board gets there again in time to finally stop the convicts.—Marcos Eduardo Acosta Aldrete"
+  ],
+  "synopsis": "Cameron Poe (Nicholas Cage), a honorably discharged United States Army Ranger, is found guilty of manslaughter in the death of an innocent but drunk bar customer while trying to defend his pregnant wife Tricia (Monica Potter) from him, and sentenced to seven to ten years by a bias judge. During his time in prison, he communicates with his wife and daughter while taking time to better himself.Eight years later, Poe is released on parole, and is scheduled to be flown back to Alabama on the same day as his daughter Casey's seventh birthday. Poe is arranged transport on the \"Jailbird\", a C-123 airplane, along with a fellow prisoner Mike \"Baby-O\" O'Dell (Mykelti Williamson). This prison transfer flight is being used by U.S. Marshal Vince Larkin (John Cusack) to transport a number of notorious violent criminals to a new supermax prison. These include William \"Billy Bedlam\" Bedford (Nick Chinlund), convicted of murdering his wife's entire family after he caught her in bed with another man; Nathan \"Diamond Dog\" Jones (Ving Rhames), a black supremacist who bombed an NRA meeting claiming that \"they represented the basest negativity of the white race,\" then wrote a New York Times bestseller from prison that apparently is getting a movie adaptation starring Denzel Washington; Johnny \"23\" Baca (Danny Trejo), a serial rapist; Joe \"Pinball\" Parker (Dave Chappelle); and perhaps the most violent criminal in the prison system, Cyrus \"The Virus\" Grissom (John Malkovich), who's served time for kidnapping, robbery, murder, and extortion, shanked 11 inmates, incited three prison riots, and escaped from prison twice, and likes to brag that he's killed more men than cancer.Prior to the flight, Larkin is approached by DEA agent Duncan Malloy (Colm Meaney), who asks to put undercover agent Willie Sims (José Zúñiga) on board the plane to get more information out of drug lord Francisco Cindino, before he is incarcerated in the new prison. Larkin acquiesces but insists the agent go aboard unarmed, but Malloy is able to sneak Sims a gun during the boarding pat-down.Shortly after the flight takes off, Jones and Grissom are able to free themselves with the help of a distraction by another prisoner, Pinball Parker (Dave Chappelle) setting the inmate next to him on fire. The prisoners quickly subdue the guards and Cyrus heads up to the cockpit and quickly kills the co-pilot who came out to settle the riot. Cyrus seizes the copilot's pistol, then quickly takes control of the cockpit to prevent the pilot from reporting the riot and telling the next control center that a small disturbance occurred but is under control. As Pinball is uncuffing the prisoners, Sims attempts to threaten Grissom with Pinball as his hostage, but Poe, recognizing that Sims is at a disadvantage since his hostage is a worthless prisoner like Pinball, attempts to talk the agent out of it; Sims ignores the advice and is killed.As Cyrus organizes the other prisoners to prepare for a scheduled landing in Carson City in order to meet the required number of prisoners being transferred, Pinball informs Cyrus that some of the prisoners that were scheduled to get off were killed during the takeover. Poe initially decides to get off hoping to expose the takeover, but reconsiders when he discovers they are placing tape over the mouths of the transferees who are getting off as a precaution and the pilot is transferred off in his place. His main reason for staying is that O'Dell is a diabetic and the injection needles for his insulin were damaged in the takeover and are unusable so he needs to find a way to help him. Also, Johnny 23 is after the only female guard on the plane, Sally Bishop, despite the fact that Cyrus (who also shares a strong disgust towards rapists) has threatened to kill Johnny if he attempts to rape her. Poe spots a recording device on Sims' body; he transfers it to one the guards that are being substituted for dead prisoners hoping it would attract the attention of the guards on the prison bus.Upon landing to refuel and pick up more prisoners to take them to freedom, Cyrus ensures that the prison transfer goes smoothly. Among the new prisoners boarding are drug lord Francisco Cindino (Jesse Borrego), the mastermind of the escape (and who Sims was sent to interrogate), transvestite serial killer Ramon 'Sally Can't Dance' Martinez (Renoly Santiago), their new pilot, \"Swamp Thing\" Williams (M. C. Gainey) and cannibal serial killer Garland Greene (Steve Buscemi) known as \"The Marietta Mangler\". Grissom instructs Pinball to hide the plane's transponder, and despite Poe's efforts, the plane leaves Carson City without problems even though the guards on the prison bus discover the true identity of the prisoners on the bus and backup arrives too late because the prisoners spotted their vehicles approaching the runway. Around that time Larkin discovers the plans for the plane's takeover in Cyrus's old jail cell and narrowly avoids getting killed on his way out when one of the guards disregards his advice and opens a small cigar box that has a bomb hidden inside it.After Larkin and Malloy discover what happened, Larkin having heard about Poe from one of their guards suspects Poe is on their side. Malloy, against Larkin's advice, immediately takes off to follow the plane's transponder, which unknown to him was snuck aboard a sightseeing plane. Poe, along with Jones, go into the hull to determine the cause of the plane's slow speed and find that Pinball's body is lodged in the landing wheel compartment, having missed the plane taking off. Poe takes the opportunity to write a message on Parker's shirt to Larkin and pushes the body out of the plane, where it lands in the middle of traffic in Fresno, California.Larkin has a meeting with Trisha and Casey to determine why Poe chose to stay on the plane, when a call comes in from Fresno police and Larkin is quickly made aware of the message. Larkin recognizes that the prisoners' plane is headed in the opposite direction to the disused Lerner Airfield. Unable to convince Malloy of this information over the radio, he borrows Malloy's Corvette to make it to the field before the plane can land, calling in the National Guard and other forces to help secure the airfield.Aboard the plane, Poe attempts to keep his identity secret, killing Bedford when he discovers Poe's parole letter in the personal belongings in the hull. Poe learns from Grissom that Cindino is promising that once they land at Lerner, another plane will be waiting for them to help them gain asylum in \"non-extradition territory\".The plane lands at the airfield, running aground, but no plane seems to be waiting for them; while the rest of the prisoners are forced by Grissom to dig out the plane (after Poe warns him about trusting Cindino, based on what he heard about Cindino's past treachery), Poe explores the field to try to find an injection needle for O'Dell's insulin whom is going into diabetic shock. Larkin, also on the field, happens upon the plane that Cindino promised, finding that Cindino has double-crossed Grissom and trying to flee on his own and helps rescue Poe from Cindino's henchmen who are there waiting for their boss. Larkin and Poe briefly meet and discuss the situation before Poe leaves to find an injection needle. Cindino slips away from the other prisoners to board his plane and has his pilot take off. Larkin is able to disable the plane, and the crash alerts Grissom, who throws a lit match at the fuel leaking from Cindino's plane, starting a fire and burning Cindino alive.The prisoners observe that armed forces are advancing on the field, and upon Cyrus discovering the small arsenal hidden in the bottom of the plane (and Bedford's body), they set up an ambush trap for the forces. Larkin goes off to help stop the troops from being massacred by reactivating an old unused plow and using it to create a makeshift bulletproof shield, while Poe manages to find an injection needle and returns to the plane to give O'Dell his insulin and manages to stop Johnny from raping Bishop. As the troops overrun the trap, Grissom and the remaining prisoners return to the plane and take off, despite damage to the plane and before Poe could escape with O'Dell and Bishop.Grissom soon discovers Poe's true identity after Jones found Poe's parole letter. After shooting O'Dell in the stomach who tried to take the blame, Cyrus prepares to kill Poe. Malloy, having recognized that Larkin was telling the truth earlier upon encountering the sightseeing plane has tracked down the Jailbird. He has his helicopter pilot open fire on it and disables one of the engines, causing the plane to lose fuel. With Grissom and the others distracted, shooting from the aircraft's ramp at the helicopters, Poe gains control of the cockpit after hand-to-hand combat with prisoners in his path and orders not to fire. When Larkin in a second helicopter, tells Malloy about Poe's identity as a parolee, Malloy orders \"hold fire\" and joins forces. Attempting to land the aircraft at McCarran International Airport in Las Vegas, the crippled Jailbird is forced to crash land on \"The Strip\".The landing causes injuries and fatalities among the inmates while also causing massive destruction along \"The Strip\" until it comes to a halt in the lobby of the Sands Hotel. Amid the chaos, Poe is thanked by both O'Dell and Bishop for his help as the police arrest the surviving prisoners. Grissom, Jones, and \"Swamp Thing\" escape on a fire truck. Larkin and Poe see them trying to flee, pursue them on motorcycles, eventually killing all three escapees; Jones being hit by Poe's motorbike, Swamp Thing hurtling through the windshield and being run over after Larkin floods the inside of the fire truck with water from the fire hose, and Cyrus, being beaten by Poe, handcuffed to the fire ladder, and then sent flying after the truck crashes leaving Cyrus to be crushed by a pile driver in a nearby construction site. Poe is finally able to reunite with his loving wife and daughter, who have been brought by Larkin to meet him.In the final scene, a croupier at a craps table in one of the Vegas casinos asks a new shooter if he feels lucky. The shooter, Garland Greene (whom is the only prisoner who escaped), takes the dice, sips a margarita and replies without a smile.",
+  "imdb_score": 6.9
+}

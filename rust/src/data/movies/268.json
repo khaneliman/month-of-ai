@@ -1,0 +1,362 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/92PG1J4gvxjTRLXTqDzPqjpe6fp.jpg",
+  "id": 268,
+  "title": "Batman",
+  "poster_path": "https://image.tmdb.org/t/p/w500/7xiCfaVZXfNPhZ5e9YqsjWR0oLz.jpg",
+  "release_date": "1989-06-21",
+  "vote_average": 7.224,
+  "vote_count": 7343,
+  "popularity": 42.518,
+  "overview": "Batman must face his most ruthless nemesis when a deformed madman calling himself \"The Joker\" seizes control of Gotham's criminal underworld.",
+  "imdb_id": "tt0096895",
+  "budget": 35000000,
+  "homepage": "",
+  "revenue": 411348924,
+  "runtime": 126,
+  "tagline": "Justice is always darkest before the dawn.",
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Crime"
+  ],
+  "production_companies": [
+    "The Guber-Peters Company",
+    "Warner Bros. Pictures",
+    "Polygram Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Michael Keaton",
+        "character": "Bruce Wayne / Batman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/baeHNv3qrVsnApuKbZXiJOhqMnw.jpg"
+      },
+      {
+        "name": "Jack Nicholson",
+        "character": "Jack Napier / The Joker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6h12pZsgj3WWjMtykUgfLkLEBWz.jpg"
+      },
+      {
+        "name": "Kim Basinger",
+        "character": "Vicki Vale",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iqQ4o2sRna7J1Z9KkB9Avp9CIsk.jpg"
+      },
+      {
+        "name": "Michael Gough",
+        "character": "Alfred Pennyworth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/owcwnV6dymBd9YIQKDPzVA5EtZX.jpg"
+      },
+      {
+        "name": "Jerry Hall",
+        "character": "Alicia Grissom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kInkl0xOfRhzA0x72JjIA5w2ugt.jpg"
+      },
+      {
+        "name": "Robert Wuhl",
+        "character": "Alexander Knox",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e01JiHVW5cdBkLu7aVDhRilfCvY.jpg"
+      },
+      {
+        "name": "Pat Hingle",
+        "character": "Commissioner James Gordon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/QBAxFVZQ0Hu6rxlFavhwUq0zug.jpg"
+      },
+      {
+        "name": "Billy Dee Williams",
+        "character": "Harvey Dent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dCiHLiCapPuRwKkM1ytVZ7PwYQY.jpg"
+      },
+      {
+        "name": "Jack Palance",
+        "character": "Carl Grissom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sRr2YPa1IElRE1vG1PQcgLrS9om.jpg"
+      },
+      {
+        "name": "Tracey Walter",
+        "character": "Bob the Goon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/brqhinzxGKzqfAhOq6Npi3GFVWW.jpg"
+      },
+      {
+        "name": "Lee Wallace",
+        "character": "Mayor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3ah3QRJXpvxrLWLZ7r31aqwnDH.jpg"
+      },
+      {
+        "name": "William Hootkins",
+        "character": "Eckhardt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dav2i86GN0UvYIyoTwQmGE8Nweg.jpg"
+      },
+      {
+        "name": "Richard Strange",
+        "character": "Goon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f7QFUkwkqyegwUIFKarU4ahz3Ku.jpg"
+      },
+      {
+        "name": "Carl Chase",
+        "character": "Goon",
+        "profile_path": ""
+      },
+      {
+        "name": "Mac McDonald",
+        "character": "Goon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gejehuptBzsJlPiWKU8B9TTrc7r.jpg"
+      },
+      {
+        "name": "George Lane Cooper",
+        "character": "Goon",
+        "profile_path": ""
+      },
+      {
+        "name": "Terence Plummer",
+        "character": "Goon",
+        "profile_path": ""
+      },
+      {
+        "name": "Philip Tan",
+        "character": "Goon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6cXDkOsHPbdsgiUUM7UIz6s8cXX.jpg"
+      },
+      {
+        "name": "John Sterland",
+        "character": "Accountant",
+        "profile_path": ""
+      },
+      {
+        "name": "Edwin Craig",
+        "character": "Rotelli",
+        "profile_path": ""
+      },
+      {
+        "name": "Vincent Wong",
+        "character": "Crimelord 1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lWPw6iMQKOSh4w099GkexZKkv4F.jpg"
+      },
+      {
+        "name": "Joel Cutrara",
+        "character": "Crimelord 2",
+        "profile_path": ""
+      },
+      {
+        "name": "John Dair",
+        "character": "Ricorso",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Fairbank",
+        "character": "Nic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eSOuf8dTGjwjlConY7d1FGgRNY7.jpg"
+      },
+      {
+        "name": "George Roth",
+        "character": "Eddie",
+        "profile_path": ""
+      },
+      {
+        "name": "Kate Harper",
+        "character": "Anchorwoman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uN0CA2CsywCU3ZUbZBEOCwqS8lQ.jpg"
+      },
+      {
+        "name": "Bruce McGuire",
+        "character": "Anchorman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mdy1CIIAtvWvEsGY1qOook98VKb.jpg"
+      },
+      {
+        "name": "Richard Durden",
+        "character": "TV Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eH5gdjtoCMFNs2OlSyWb0ha2yHn.jpg"
+      },
+      {
+        "name": "Kit Hollerbach",
+        "character": "Becky",
+        "profile_path": ""
+      },
+      {
+        "name": "Lachele Carl",
+        "character": "TV Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/me1nkBO717RiYUeoHQht0VFNoYv.jpg"
+      },
+      {
+        "name": "Del Baker",
+        "character": "Napier Hood",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qFfE9Dx3nimQdb0eDsfO1XTy05B.jpg"
+      },
+      {
+        "name": "Jazzer Jeyes",
+        "character": "Napier Hood",
+        "profile_path": ""
+      },
+      {
+        "name": "Wayne Michaels",
+        "character": "Napier Hood",
+        "profile_path": ""
+      },
+      {
+        "name": "Valentino Musetti",
+        "character": "Napier Hood",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6IheLyxykYQFMWAlogumzfRAvEL.jpg"
+      },
+      {
+        "name": "Rocky Taylor",
+        "character": "Napier Hood",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l367aS36f5vHh0bn4NWeHExw9qd.jpg"
+      },
+      {
+        "name": "Keith Edwards",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Leon Herbert",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z1Ap0OjXrO8mwcTqCZt3ycZcfTm.jpg"
+      },
+      {
+        "name": "Steve Plytas",
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qFGSjfiC6qBEMCdpvZgI4YIUvE4.jpg"
+      },
+      {
+        "name": "Anthony Wellington",
+        "character": "Patrolman at Party",
+        "profile_path": ""
+      },
+      {
+        "name": "Amir M. Korangy",
+        "character": "Wine Steward",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kMT5dZ2BN7pFz3Y9elSLRlthiWz.jpg"
+      },
+      {
+        "name": "Hugo Blick",
+        "character": "Young Jack Napier",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Roskilly",
+        "character": "Young Bruce Wayne",
+        "profile_path": ""
+      },
+      {
+        "name": "Philip O'Brien",
+        "character": "Maitre d'",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Balfour",
+        "character": "Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uLybbsWryAsc7gZ0CDIY8V34HRT.jpg"
+      },
+      {
+        "name": "Garrick Hagon",
+        "character": "Dad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lDtVxw5eMfmexYgL6OZJTfSCRCN.jpg"
+      },
+      {
+        "name": "Liza Ross",
+        "character": "Mom",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrian Meyers",
+        "character": "Jimmy",
+        "profile_path": ""
+      },
+      {
+        "name": "David Baxt",
+        "character": "Dr Wayne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/amzGafV7re5W1Xxnsj0L52eZiIy.jpg"
+      },
+      {
+        "name": "Sharon Holm",
+        "character": "Mrs Wayne",
+        "profile_path": ""
+      },
+      {
+        "name": "Clyde Gatell",
+        "character": "Other Mugger",
+        "profile_path": ""
+      },
+      {
+        "name": "Jon Soresi",
+        "character": "Medic",
+        "profile_path": ""
+      },
+      {
+        "name": "Elliott Stein",
+        "character": "Man in Crowd",
+        "profile_path": ""
+      },
+      {
+        "name": "Sam Douglas",
+        "character": "Lawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hGtVDo5BF4utyCbrEUm3RDNA28B.jpg"
+      },
+      {
+        "name": "Denis Lill",
+        "character": "Bob the Cartoonist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9tbJGo2OC4dzr8Mpk3QM0sMfdMb.jpg"
+      },
+      {
+        "name": "Paul Birchard",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3A8JwCXwIE3qYwaFLFyaixUp070.jpg"
+      },
+      {
+        "name": "Paul Michael",
+        "character": "Cop",
+        "profile_path": ""
+      },
+      {
+        "name": "Pat Gorman",
+        "character": "Cop at Axis Chemicals",
+        "profile_path": "https://image.tmdb.org/t/p/w185/heb2Bh2xLz5Q3oVtQndMOKv0nSH.jpg"
+      },
+      {
+        "name": "Chris Andrews",
+        "character": "Election Ceremony Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephanie English",
+        "character": "Woman in Green Coat",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Tim Burton",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oWZDgLRr4zgRiJEsOAtgntPd5bI.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "dual identity",
+    "double life",
+    "chemical",
+    "crime fighter",
+    "superhero",
+    "villain",
+    "based on comic",
+    "mobster",
+    "organized crime",
+    "criminal",
+    "super power",
+    "madness",
+    "good versus evil"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.",
+    "Gotham City. Crime boss Carl Grissom (Jack Palance) effectively runs the town but there's a new crime fighter in town - Batman (Michael Keaton). Grissom's right-hand man is Jack Napier (Jack Nicholson), a brutal man who is not entirely sane... After falling out between the two Grissom has Napier set up with the Police and Napier falls to his apparent death in a vat of chemicals. However, he soon reappears as The Joker and starts a reign of terror in Gotham City. Meanwhile, reporter Vicki Vale (Kim Basinger) is in the city to do an article on Batman. She soon starts a relationship with Batman's everyday persona, billionaire Bruce Wayne.—grantss",
+    "After witnessing the death of his beloved parents in front of his face, billionaire Bruce Wayne vows himself to protecting the good people of Gotham City against evil forces that threaten the city. But his vow is put to the test when he starts to wage his crime fighting crusade against the maniacal Clown Prince of Crime...also known as the Joker.—Blazer346",
+    "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman who calls himself \"The Joker\" seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.—Jwelch5742",
+    "Gotham City: dark, dangerous, 'protected' only by a mostly corrupt police department. Despite the best efforts of D.A. Harvey Dent and police commissioner Jim Gordon, the city becomes increasingly unsafe...until a Dark Knight arises. We all know criminals are a superstitious, cowardly lot...so his disguise must be able to strike terror into their hearts. He becomes a bat. Enter Vicky Vale, a prize-winning photo journalist who wants to uncover the secret of the mysterious \"bat-man\". And enter Jack Napier, one-time enforcer for Boss Grissom, horribly disfigured after a firefight in a chemical factory...who, devoid of the last vestiges of sanity, seizes control of Gotham's underworld as the psychotic, unpredictable Clown Prince of Crime...the Joker. Gotham's only hope, it seems, lies in this dark, brooding vigilante. And just how does billionaire playboy Bruce Wayne fit into all of this?—ahmetkozan"
+  ],
+  "synopsis": "The mayor of Gotham City orders District Attorney Harvey Dent (Billy Dee Williams) and Police Commissioner James Gordon (Pat Hingle) to increase police activity and combat crime in preparation for the city's bicentennial. Reporter Alexander Knox (Robert Wuhl) and photojournalist Vicki Vale (Kim Basinger) begin to investigate reports of a vigilante nicknamed \"Batman\", who is targeting the city's criminals.Mob boss Carl Grissom (Jack Palance), who has already been targeted by Dent, discovers his mistress (Jerry Hall) is involved with his second-in-command, Jack Napier (Jack Nicholson). With the help of corrupt policeman Max Eckhardt (William Hootkins), Grissom sets up Napier to be murdered during a raid at the Axis Chemicals plant. During the ensuing shootout, Napier kills Eckhardt, after which Batman suddenly appears. The two struggle, and Napier is accidentally knocked into a vat of chemical waste. Batman flees, and Napier is thought to be dead.Batman is in actuality Bruce Wayne (Michael Keaton), a billionaire industrialist who, as a child, witnessed his parents' murder at the hands of a mugger. Bruce meets and falls for Vicki at a fundraiser, and the two begin a relationship. Meanwhile, Napier survives the accident, but is horribly disfigured with chalk-white skin, emerald-green hair and a permanent ruby-red grin. Driven insane by his reflection, he reinvents himself as \"the Joker\", kills Grissom and usurps his criminal empire.The Joker begins to spread terror in the city, first by lacing hygiene products with a deadly chemical known as \"Smilex\", which causes victims to laugh to death when used in certain combinations. The Joker then sets a trap at the Gotham Museum of Art for Vicki, and he and his henchmen vandalize the surrounding works of art. Batman arrives and rescues Vicki, and the pair escape in the Batmobile. Batman gives information about Smilex to Vicki so she can warn the city via Gotham newspapers about the poisoned products.Bruce meets with Vicki at her apartment, prepared to tell her that he is Batman. They are interrupted by the Joker, who asks Bruce, \"Have you ever danced with the devil by the pale moonlight?\" before shooting him. Bruce, who was wearing body armor, escapes, and recollects that the man who killed his parents asked him the same question; he realizes that the Joker killed his parents. Vicki suddenly appears in the Batcave, having been let in by Bruce's butler, Alfred Pennyworth (Michael Gough). After avouching himself to Vicki, Bruce-as Batman-leaves to destroy the Axis Chemical plant. Meanwhile, the Joker lures the townspeople to a nighttime parade with a promise to give away $20 million in cash. When the citizens arrive, however, he attacks them with Smilex gas spewing it from his giant parade balloons. Batman arrives on the scene and saves Gotham City from the attack using the Batwing, but the Joker kidnaps Vicki and takes her to the top of a cathedral.Batman pursues the two, and at the top of the dusty edifice, he and the Joker confront each other in single combat. When the Joker attempts an escape via a helicopter, Batman grapples the Joker's leg to a heavy stone sculpture, causing him to fall to his death. Commissioner Gordon unveils the Bat-Signal along with a note from Batman read by Harvey Dent, promising to defend Gotham whenever crime strikes again.",
+  "imdb_score": 7.5
+}

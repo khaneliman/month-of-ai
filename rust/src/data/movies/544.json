@@ -1,0 +1,694 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/egJQ3nIon5fT8wyXcKRHzvmtZpD.jpg",
+  "id": 544,
+  "title": "There's Something About Mary",
+  "poster_path": "https://image.tmdb.org/t/p/w500/g03pwohXHOI75InM3zraiaEGguO.jpg",
+  "release_date": "1998-07-15",
+  "vote_average": 6.593,
+  "vote_count": 4695,
+  "popularity": 34.188,
+  "overview": "For Ted, prom night went about as bad as it’s possible for any night to go. Thirteen years later, he finally gets another chance with his old prom date, only to run up against other suitors including the sleazy detective he hired to find her.",
+  "imdb_id": "tt0129387",
+  "budget": 23000000,
+  "homepage": "http://www.aboutmary.com/",
+  "revenue": 369900000,
+  "runtime": 119,
+  "tagline": "Love is in the hair.",
+  "genres": [
+    "Romance",
+    "Comedy"
+  ],
+  "production_companies": [
+    "20th Century Fox"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Cameron Diaz",
+        "character": "Mary Jensen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+      },
+      {
+        "name": "Matt Dillon",
+        "character": "Pat Healy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wVoSUexYH79igPgxIXKWRlV2uBk.jpg"
+      },
+      {
+        "name": "Ben Stiller",
+        "character": "Ted Stroehmann",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gHLp8bqc4ZBHqp5uheYH8sPHEBB.jpg"
+      },
+      {
+        "name": "Lee Evans",
+        "character": "Tucker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2BZeVCqFjYQ826ROkJaG4gehbmy.jpg"
+      },
+      {
+        "name": "Chris Elliott",
+        "character": "Dom Woganowski",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oZFGgyDCZaanGfco1UdfxM4rHAJ.jpg"
+      },
+      {
+        "name": "Lin Shaye",
+        "character": "Magda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aL87Za52elH81zMiXQn5C7AXAeg.jpg"
+      },
+      {
+        "name": "Jeffrey Tambor",
+        "character": "Sully",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
+      },
+      {
+        "name": "Markie Post",
+        "character": "Sheila Jensen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oQvVLXw8Sh7gDww3g1jr0UY0FFj.jpg"
+      },
+      {
+        "name": "Keith David",
+        "character": "Charlie Jensen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jJLJuR7FNHYL1fB5igjj7IXzOel.jpg"
+      },
+      {
+        "name": "W. Earl Brown",
+        "character": "Warren Jensen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oBHcJc65nUmopx6lVc9ZvYYARZz.jpg"
+      },
+      {
+        "name": "Sarah Silverman",
+        "character": "Brenda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g5G711XyVokJm2RoItpkaHa8mkQ.jpg"
+      },
+      {
+        "name": "Khandi Alexander",
+        "character": "Joanie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/53IjZhkaywgsM0ZkDt3GJQtY5ls.jpg"
+      },
+      {
+        "name": "Marnie Alexenburg",
+        "character": "Lisa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ejs8dP5oJQu8HTVMEqHfGOygfY6.jpg"
+      },
+      {
+        "name": "Danny Murphy",
+        "character": "Boss' Brother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1UkjedIqmRFmiZNLtMaVLZE9kK4.jpg"
+      },
+      {
+        "name": "Richard Tyson",
+        "character": "Detective Krevoy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2VqDaBqbCTnz0qZKXLtuUa9MO7R.jpg"
+      },
+      {
+        "name": "Rob Moran",
+        "character": "Detective Stabler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lwGI1FIdRpwvKnZlD3dKhntP4i4.jpg"
+      },
+      {
+        "name": "Jackie Flynn",
+        "character": "South Carolina Police",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p2fOu4nz1NWvPkLUmDGIv194Eh2.jpg"
+      },
+      {
+        "name": "Hillary Matthews",
+        "character": "Dom's Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2m1w8f7IchtuTFH5i2xJMR2tnMl.jpg"
+      },
+      {
+        "name": "Willie Garson",
+        "character": "Dr. Zit Face / High School Pal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kTNR7cyq3ymByKdNxP3kwnHLSjJ.jpg"
+      },
+      {
+        "name": "David Shackelford",
+        "character": "Coconut Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/INcN4Mn945EaIBGCXZbKa1C6Me.jpg"
+      },
+      {
+        "name": "David Goryl",
+        "character": "Petey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lCwa56XnTghAsJRDA2c2XHJ1xCK.jpg"
+      },
+      {
+        "name": "Lori Brener",
+        "character": "Friend #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeffrey P. Lerner",
+        "character": "Car Hood Kid #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Cory Pendergast",
+        "character": "Car Hood Kid #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8XQsX31dY7mdGSLaFb8FSZthwMp.jpg"
+      },
+      {
+        "name": "Brett Favre",
+        "character": "Brett Favre",
+        "profile_path": "https://image.tmdb.org/t/p/w185/FvwMoPT6dmN3pPfVpFCpydu2rn.jpg"
+      },
+      {
+        "name": "Warren Tashjian",
+        "character": "Freddie",
+        "profile_path": ""
+      },
+      {
+        "name": "Kelly Roarke",
+        "character": "Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Herbie Flynn",
+        "character": "Homeless Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Caryl Lippman West",
+        "character": "Medical Assistant #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Ken Rogerson",
+        "character": "Pants at Ankles Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Brad Blank",
+        "character": "Paramedic",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Sweeney",
+        "character": "Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4AfIG5KraFzzrg939Ynh8XJvPHX.jpg"
+      },
+      {
+        "name": "Cindy Oliver",
+        "character": "Renise",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gAeDKcDm9ytCCHPnVLxUzrGdqnS.jpg"
+      },
+      {
+        "name": "Will Coogan",
+        "character": "Smokey",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Tyler",
+        "character": "TV News Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yMtJolHi5ZNAE8pgtZPAuFDhYne.jpg"
+      },
+      {
+        "name": "Maureen Griffin",
+        "character": "Wine Waitress",
+        "profile_path": ""
+      },
+      {
+        "name": "Mariann Farrelly",
+        "character": "Driving Range Sweetie",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Richman",
+        "character": "Jonathan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bi0528HpHi9ujAuw2OYiAZ12Udp.jpg"
+      },
+      {
+        "name": "Tommy Larkins",
+        "character": "Drummer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lenny Clarke",
+        "character": "Fireman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xu9vUYi7Eubb6cWyVmTdrRDRqdO.jpg"
+      },
+      {
+        "name": "Daniel Greene",
+        "character": "Pizza House Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fQFvA1ksyWXiBBmSuKkgbBGvqZv.jpg"
+      },
+      {
+        "name": "Michael Budge",
+        "character": "Joey Bishop Look-alike",
+        "profile_path": ""
+      },
+      {
+        "name": "James Gifford",
+        "character": "Jimmy",
+        "profile_path": ""
+      },
+      {
+        "name": "Sean Gildea",
+        "character": "Prison Warden",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A7wNQ9vHph4tmVMkNHLW0gemL9I.jpg"
+      },
+      {
+        "name": "Zen Gesner",
+        "character": "Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gaUpc3SDYQAmFei8NFllxtJGs3A.jpg"
+      },
+      {
+        "name": "Tracy Anne George",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jesse Farrelly",
+        "character": "Dom's Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "A.B. Cassidy",
+        "character": "Dom's Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zXpkKupbssBbqdadRoxFVglk4Nc.jpg"
+      },
+      {
+        "name": "Zack Lee",
+        "character": "Mary's Little Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Valerie Bruce",
+        "character": "Nimrod's Cafe Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Kelly O'Brien",
+        "character": "Office Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Charpentier",
+        "character": "Hot Club Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Grundy",
+        "character": "Hot Club Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael 'The Cannon' Gannon",
+        "character": "Hot Club Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Conway",
+        "character": "Hot Club Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Ann Conway",
+        "character": "Hot Club Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Susan O'Day",
+        "character": "Hot Club Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Heather Rosbeck",
+        "character": "Hot Club Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Shields",
+        "character": "Hot Club Barkeep",
+        "profile_path": ""
+      },
+      {
+        "name": "Fallon Shields",
+        "character": "Hot Club Barkeep",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob Grundy",
+        "character": "Hot Club Barkeep",
+        "profile_path": ""
+      },
+      {
+        "name": "Nancy Farrelly",
+        "character": "Boardroom Babe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kQ2q2IvtC3othMcAX29PweTbffF.jpg"
+      },
+      {
+        "name": "Bill Beauchene",
+        "character": "Insurance Spitballer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kathy Beauchene",
+        "character": "Insurance Spitballer",
+        "profile_path": ""
+      },
+      {
+        "name": "Manny Barrows",
+        "character": "Insurance Spitballer",
+        "profile_path": ""
+      },
+      {
+        "name": "Max Murphy",
+        "character": "Office Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hSVw2oVSbJLJZIdZyWjbPd3Drc6.jpg"
+      },
+      {
+        "name": "Sheila Mone",
+        "character": "Office Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Barbara O'Connor",
+        "character": "Ashtray Babe",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Sheehan",
+        "character": "Camera Hog",
+        "profile_path": ""
+      },
+      {
+        "name": "Richie Balsbaugh",
+        "character": "Cigar Smoker",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Blake",
+        "character": "Architect Partier",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Robbie",
+        "character": "Architect Partier",
+        "profile_path": ""
+      },
+      {
+        "name": "Providence Wissel",
+        "character": "Architect Partier",
+        "profile_path": ""
+      },
+      {
+        "name": "Ruth Michelle Meyer",
+        "character": "Architect Partier",
+        "profile_path": ""
+      },
+      {
+        "name": "Billy Meyer",
+        "character": "Architect Partier",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian McGlaughlin",
+        "character": "Architect Partier",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Mone",
+        "character": "Architect Partier",
+        "profile_path": ""
+      },
+      {
+        "name": "John Stroehman",
+        "character": "Architect Partier",
+        "profile_path": ""
+      },
+      {
+        "name": "Pete Anicelli",
+        "character": "Architect Partier",
+        "profile_path": ""
+      },
+      {
+        "name": "Duana Knight",
+        "character": "Architect Babe",
+        "profile_path": ""
+      },
+      {
+        "name": "Kelley Schneider",
+        "character": "Architect Babe",
+        "profile_path": ""
+      },
+      {
+        "name": "Meda Thomas",
+        "character": "Architect Babe",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeanie Flynn",
+        "character": "Cuban Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Civale",
+        "character": "Cuban Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Leasca",
+        "character": "Cuban Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Mercy Lopez",
+        "character": "Cuban Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Cheney",
+        "character": "Cell Block Bitch",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Rosenberg",
+        "character": "Jailbird",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uHqU0H8MSFieo1RTS3Erl6CYaH2.jpg"
+      },
+      {
+        "name": "George Bedard",
+        "character": "Jailbird",
+        "profile_path": ""
+      },
+      {
+        "name": "Terry Mullany",
+        "character": "Jailbird",
+        "profile_path": ""
+      },
+      {
+        "name": "Rick Coleman",
+        "character": "Jailbird",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Burke",
+        "character": "Jailbird",
+        "profile_path": ""
+      },
+      {
+        "name": "Kris Meyer",
+        "character": "Jailbird",
+        "profile_path": ""
+      },
+      {
+        "name": "Emilio Diaz",
+        "character": "Jailbird",
+        "profile_path": ""
+      },
+      {
+        "name": "Billy Smith",
+        "character": "Jailbird",
+        "profile_path": ""
+      },
+      {
+        "name": "Ed Nelson",
+        "character": "Jailbird",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Stuebe",
+        "character": "Jailbird",
+        "profile_path": ""
+      },
+      {
+        "name": "Don Daley",
+        "character": "Jailbird",
+        "profile_path": ""
+      },
+      {
+        "name": "Clem Franek",
+        "character": "Strip Club Pervert",
+        "profile_path": ""
+      },
+      {
+        "name": "Julia Hissom",
+        "character": "Strip Club Pervert",
+        "profile_path": ""
+      },
+      {
+        "name": "James 'Sporty' Ahern",
+        "character": "Strip Club Pervert",
+        "profile_path": ""
+      },
+      {
+        "name": "Robin Gau",
+        "character": "Strip Club Pervert",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Pelletier",
+        "character": "Cordosa Gawker",
+        "profile_path": ""
+      },
+      {
+        "name": "Monique Pelletier",
+        "character": "Cordosa Gawker",
+        "profile_path": ""
+      },
+      {
+        "name": "Jon Mone",
+        "character": "Comic Book Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicholas Greenbury",
+        "character": "Fish Hook Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Greenbury",
+        "character": "Fish Hook Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Phil Rosenberg",
+        "character": "Cell Block Masseuse",
+        "profile_path": ""
+      },
+      {
+        "name": "John-Eliot Jordan",
+        "character": "Buttercup Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "John Adamonis",
+        "character": "Buttercup Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kyle Adamonis",
+        "character": "Buttercup Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Neil Pomfret",
+        "character": "Buttercup Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ruth Pomfret",
+        "character": "Buttercup Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Josh Miller",
+        "character": "Buttercup Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Fitzpatrick",
+        "character": "Businessman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Deborah Smith Ford",
+        "character": "Doctor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jWW3gxRthJ3IJ56RBLlbEcqKXPn.jpg"
+      },
+      {
+        "name": "James Gaiero",
+        "character": "Schoolboy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Homza",
+        "character": "Fight Fan (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Debbie Howard",
+        "character": "Tourist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Jenkins",
+        "character": "Psychiatrist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/muT3RZG9hiKaKojD751RcQ5tGEy.jpg"
+      },
+      {
+        "name": "Don Julio",
+        "character": "Jailbird (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rick Michaels",
+        "character": "Restaurant Waiter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/joN56YSSG1zfob4HBsC0aNLzkzq.jpg"
+      },
+      {
+        "name": "Cord Newman",
+        "character": "Extra (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/41B1LWd5epbXXG79MsPXgql0IUP.jpg"
+      },
+      {
+        "name": "Al Quinn",
+        "character": "Domino Player (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jevon White",
+        "character": "Business Man (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/elRXz2a21ZJjx73TOvfeunIsGLH.jpg"
+      },
+      {
+        "name": "Harland Williams",
+        "character": "Hitchhiker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mnor1Hoy3kvTBygccBIVuyWfvge.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Bobby Farrelly",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i5mt42m2MjMpFVrVYlYmp5ylLDy.jpg"
+      },
+      {
+        "name": "Peter Farrelly",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3PDYOFfk5NLmNcEz6SFZmdmqVZr.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "surgeon",
+    "romantic comedy",
+    "stalker",
+    "dream girl",
+    "taboo",
+    "screwball comedy",
+    "frisbee",
+    "troubadour",
+    "intellectual disability"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A man gets a chance to meet up with his dream girl from high school, even though his date with her back then was a complete disaster.",
+    "Ted was a geek in high school, who was going to go to the prom with one of the most popular girls in school, Mary. The prom date never happened, because Ted had a very unusual accident. Thirteen years later he realizes he is still in love with Mary, so he hires a private investigator to track her down. That investigator discovers he too may be in love with Mary, so he gives Ted some false information to keep him away from her. But soon Ted finds himself back into Mary's life, as we watch one funny scene after another.—Justin Sharp <rainman88@earthlink.net>",
+    "Thirteen long years have passed since that improbable and utterly painful accident that cost gawky teenager Ted the Senior Prom with the bubbly girl of his dreams Mary, nevertheless, after all this time, he is still fond of her. As a result, Ted, now a single writer who's been in-and-out of love in search of the perfect one, decides to hire the raunchy private investigator Pat Healy to track Mary down longing for closure, and hopefully, another shot at love. But as Healy tries every trick in the book to keep Ted in the dark, at the same time, unsuspecting Mary is in for a slick, yet half-baked scam in love. In the end, they say all is fair in love and war, however, what does true love look like?—Nick Riganas"
+  ],
+  "synopsis": "In 1985, 16-year-old high school student Theodore \"Ted\" Stroehmann (Ben Stiller) is about to go on a prom date with his dream girl Mary Jensen (Cameron Diaz). Mary was supposed to go with her boyfriend Woogie. ted stands up when a bully manhandles Mary's dumb brother Warren, and Mary befriends him. She asks him to be her date for Prom. Mary lives with Charlie, Mary's stepfather (Keith David) & Sheila Jensen (Markie Post), Mary's motherTed he gets his scrotum stuck in his zipper (Ted was taking a leak and the bathroom window opened right in front of Mary's room and she thinks Ted was masturbating to her. Ted panics) & is hospitalized after managing to painfully unzip it, which cancels their date. Ted subsequently loses contact with Mary. School ended a few days later and her dad transferred to Florida.Thirteen years later in 1998, 29-year-old Ted is still in love with Mary. On the advice of his best friend Dom (Chris Elliott) (who is married), Ted hires private investigator Pat Healy (Matt Dillon) to track her down.\nHealy works with Sully (Jeffrey Tambor), who is in the Miami Police department, to track Mary. Healy discovers that she is an orthopedic surgeon living in Miami, and spending time with her friends and her neighbor Magda (Lin Shaye). After observing her for a few days, Healy falls in love with Mary. Healy learns that Mary wants a self employed guy like an architect to settle down with, someone who drinks beer and no drugs.. Wants to honeymoon in Nepal. Brenda (Sarah Silverman) is Mary's sarcastic best friend.. Her friends are perplexed that Mary has rejected perfectly good guys like Brett.. Apparently Tucker (who we learn later is Mary's patient) told Mary that Brett told him, that he would have proposed to Mary if not for Warren..He returns to Providence and lies to Ted about Mary, telling him that she is overweight and has four kids by three different men. Healy quits his job and returns to Miami to pursue her. He resorts to lying, cheating, and stalking to win Mary over. He says he has been to Nepal, and is an architect, and loves golfing, works with retards. They spend several weeks dating before Mary's friend Tucker (Lee Evans), a British architect who uses crutches due to serious spine damage, exposes him as a fraud. Healy is enraged after eavesdropping on Tucker, who lies about Healy not being an architect.Healy has a remote listening device which he uses to eavesdrop on Mary and Magda. He knows that Magda listens in on cellphone conversations in a 500 m radius. So he calls Sully with a script and admits that he is lying. That he is really is a peace corps activist who is very poor and works in third world countries to elevate poverty.. He says he didn't want to use his credentials as a currency with Mary.. Mary is impressed and takes Healy back.Meanwhile, Ted finds out from one of his old classmates that Healy was lying about Mary. He then drives down to Florida to see her. During the drive down, Ted picks up a hitchhiker (Harland Williams) who turns out to be a mass murderer (The hitchhiker kept talking to Ted about launching a video of 7 minute abs). The murderer leaves a body in Ted's car when Ted is unintentionally caught with a group of gay men while he tries to urinate.Ted is mistakenly arrested for the murder and bailed out by his friend Dom after the police catch the real killer. After Ted finds Mary (he finds Healy kissing Mary. although secretly Mary is not too convinced by Healy's attitude towards the \"retards\" which borders on harassment), they begin dating. Just after Ted meets Mary, Tucker tells her that Healy is a mass murderer and has a police record in Boston. Mary is horrified and breaks all contact with Healy. Healy was once again eavesdropping on Mary, and hears everything and is enraged..After subsequently tailing Tucker, Healy discovers him to be a fraud himself: he is an able-bodied American pizza delivery boy named Norm Phipps, who is also in love with Mary. Years earlier, Norm intentionally injured himself in order to get close to Mary, hoping that she would take him on as a patient. Although his injury has long since healed, he pretends to be disabled in order to gain Mary's sympathy, and he uses his friendship with her as a ploy to drive away any potential romantic rivals.\nTed seems to have won her love until an anonymous letter exposes his connection with Pat, and she breaks contact with him.Ted confronts Pat and Norm, and Mary is accosted by Dom, who is revealed to be her ex-boyfriend \"Woogie\", whom she has a restraining order against, and was the one who sent the letter. He wants to reconnect with her as well, which she quickly refuses, so he tries to steal her shoes to satisfy his shoe fetish.\nMeanwhile Ted learns that norm (as Tucker) said lies to Mary about Brett, and Brett never said any mean things about Warren.Ted, Norm, and Pat arrive, and, when Mary is finally together with all of her deceitful suitors, Ted realizes that the only one who did not resort to lying or manipulation to win over Mary was an ex-boyfriend named Brett, who he learns is National Football League quarterback Brett Favre. Norm had previously confessed to Ted that he lied to Mary about Brett insulting her brother Warren (W. Earl Brown) (who lives with an intellectual disability), which was why she ended the relationship.\nAfter reuniting Brett and Mary, Ted leaves tearfully until Mary catches up to Ted, saying \"I'd be happiest with you\". Mary and Ted kiss while singer/songwriter Jonathan Richman, who has periodically narrated the story in song throughout the film, is accidentally shot by Magda's boyfriend, who was trying to shoot Ted as he was also infatuated with Mary.",
+  "imdb_score": 7.1
+}

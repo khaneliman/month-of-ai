@@ -1,0 +1,478 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/2hMt6zKQsvYvH3ZRe8T6RzAD2XB.jpg",
+  "id": 87,
+  "title": "Indiana Jones and the Temple of Doom",
+  "poster_path": "https://image.tmdb.org/t/p/w500/t7Pv44sBcxhc47kNNDDafNAgr7Y.jpg",
+  "release_date": "1984-05-23",
+  "vote_average": 7.3,
+  "vote_count": 8780,
+  "popularity": 48.033,
+  "overview": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees – and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+  "imdb_id": "tt0087469",
+  "budget": 28000000,
+  "homepage": "http://www.indianajones.com",
+  "revenue": 333000000,
+  "runtime": 118,
+  "tagline": "If adventure has a name... it must be Indiana Jones.",
+  "genres": [
+    "Adventure",
+    "Action"
+  ],
+  "production_companies": [
+    "Paramount",
+    "Lucasfilm Ltd."
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Harrison Ford",
+        "character": "Indiana Jones",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zVnHagUvXkR2StdOtquEwsiwSVt.jpg"
+      },
+      {
+        "name": "Kate Capshaw",
+        "character": "Willie Scott",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dhwyfvVeF7TNnfMY74Wkab9iCgm.jpg"
+      },
+      {
+        "name": "Ke Huy Quan",
+        "character": "Short Round",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5PfYVcNLs1gGKIo0qwJrvyc2UOZ.jpg"
+      },
+      {
+        "name": "Amrish Puri",
+        "character": "Mola Ram",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uhMGFS7tuG71LDv2wk9LfZZ4EG6.jpg"
+      },
+      {
+        "name": "Roshan Seth",
+        "character": "Chattar Lal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4TbHkaZxPegaTns250cVXr8F91F.jpg"
+      },
+      {
+        "name": "Philip Stone",
+        "character": "Phillip Blumburtt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wKIz8L0TcKk26TNGj7rKfgP02UG.jpg"
+      },
+      {
+        "name": "Roy Chiao",
+        "character": "Lao Che",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oCwlvtAtzLRJIHgHBXGC3OEEG07.jpg"
+      },
+      {
+        "name": "David Yip",
+        "character": "Wu Han",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rKgB9YklJzhD98DbbOzGnts5s7C.jpg"
+      },
+      {
+        "name": "Ric Young",
+        "character": "Kao Kan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2XxcV8eGeyAXOofsXmEsN2hSx45.jpg"
+      },
+      {
+        "name": "Chua Kah Joo",
+        "character": "Chen",
+        "profile_path": ""
+      },
+      {
+        "name": "Rex Ngui",
+        "character": "Maitre d'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eIItVNFxmEOW9v4T4oWPXmM0L5g.jpg"
+      },
+      {
+        "name": "Philip Tan",
+        "character": "Chief Henchman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6cXDkOsHPbdsgiUUM7UIz6s8cXX.jpg"
+      },
+      {
+        "name": "Dan Aykroyd",
+        "character": "Art Weber",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iVMmeVJx8IpCEjlGBZWzIWvX5Qo.jpg"
+      },
+      {
+        "name": "Akio Mitamura",
+        "character": "Chinese Pilot",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Yama",
+        "character": "Chinese Co-Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1TaxJr5SkPg2EdWGcMRE59NpXEF.jpg"
+      },
+      {
+        "name": "D.R. Nanayakkara",
+        "character": "Shaman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Yudd4SAvrlpUaiaiIGMfpXWSTn.jpg"
+      },
+      {
+        "name": "Dharmadasa Kuruppu",
+        "character": "Chieftain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w6nH5cVYxMiCUjreULtkI06lC0K.jpg"
+      },
+      {
+        "name": "Stany De Silva",
+        "character": "Sajnu",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h1dFfFIS3pqwUAcjkTkz8Gu18QS.jpg"
+      },
+      {
+        "name": "Ruby de Mel",
+        "character": "Village Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Denavaka Hamine",
+        "character": "Village Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7X4IyYKLEw0TwbMHGXjTPxcErOd.jpg"
+      },
+      {
+        "name": "Iranganie Serasinghe",
+        "character": "Village Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hldPsWwH4B2dxgAGqjd3GQIbji7.jpg"
+      },
+      {
+        "name": "Dharshana Panangala",
+        "character": "Village Child",
+        "profile_path": ""
+      },
+      {
+        "name": "Raj Singh",
+        "character": "Little Maharaja",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Olegario",
+        "character": "Merchant #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dYjfii6QJFLdA1ORugjHMyJouDQ.jpg"
+      },
+      {
+        "name": "Ahmed El Shenawi",
+        "character": "Merchant #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9KSrNjOkfxl6qnxQNZzBIcJPFXA.jpg"
+      },
+      {
+        "name": "Arthur F. Repola",
+        "character": "Eel Eater",
+        "profile_path": ""
+      },
+      {
+        "name": "Nizwar Karanj",
+        "character": "Sacrifice Victim",
+        "profile_path": ""
+      },
+      {
+        "name": "Pat Roach",
+        "character": "Chief Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lFvFJR4rjM1AMkOPHc9wklUXBG6.jpg"
+      },
+      {
+        "name": "Moti Makan",
+        "character": "Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Mellan Mitchell",
+        "character": "Temple Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Bhasker Patel",
+        "character": "Temple Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1OyDAhaJ5cmwRy5igRdeRtH3OUY.jpg"
+      },
+      {
+        "name": "Arjun Pandher",
+        "character": "1st Boy in Cell",
+        "profile_path": ""
+      },
+      {
+        "name": "Zia Gelani",
+        "character": "2nd Boy in Cell",
+        "profile_path": ""
+      },
+      {
+        "name": "Debbie Astell",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Maureen Bacchus",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Corinne Barton",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Carol Beddington",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sharon Boone",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Elizabeth Burville",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Marisa Campbell",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Christine Cartwright",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrea Chance",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jan Colton",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Louise Dalgleish",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lorraine Doyle",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Vanessa Fieldwright",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Brenda Glassman",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Elaine Gough",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sue Hadleigh",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah-Jane Hassell",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Samantha Hughes",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Julie Kirk",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Deirdre Laird",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Vicki McDonald",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nina McMahon",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Julia Marstand",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Gaynor Martine",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Mulidore",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Dawn Reddall",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Rebekkah Sekyi",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Clare Smalley",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lee Sprintall",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jenny Turnock",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ruth Welby",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Yash Agnihotri",
+        "character": "Palace Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rN8elgKpynz7WdUdCtEql1jJvIU.jpg"
+      },
+      {
+        "name": "Dickey Beer",
+        "character": "Thuggee in Railway Chase / Thuggee Knocked Off Ledge / Thuggee on Bridge (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dwdp6ycU2eXcwdIfJlgU1ZOsmcs.jpg"
+      },
+      {
+        "name": "Kenneth Coombs",
+        "character": "Nightclub Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eZV8Y1MaAF7aYEfQ4fGBIl36Q9U.jpg"
+      },
+      {
+        "name": "Sidney Ganis",
+        "character": "Missionary (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n58nnoTiq0V9fmILZxY3lvuAam5.jpg"
+      },
+      {
+        "name": "Billy Horrigan",
+        "character": "Thuggee in Railway Chase (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kathleen Kennedy",
+        "character": "'Anything Goes' Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ndgYlie0PHkyqEiEBGM8SqrPOkr.jpg"
+      },
+      {
+        "name": "Brad Kesten",
+        "character": "Slave Children (voice) (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Klaus",
+        "character": "Slave Child (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yMYtTq5uqmtqZh0YZdnV61PPYBq.jpg"
+      },
+      {
+        "name": "Katie Leigh",
+        "character": "Little Maharaja (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jApn1mOWTxQG6a8a3IJmgjRaxqH.jpg"
+      },
+      {
+        "name": "Patrick Loh",
+        "character": "Triad Henchman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y1Sl5TyvP8P1SFz9DiDz0XV6YlB.jpg"
+      },
+      {
+        "name": "George Lucas",
+        "character": "Missionary (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/WCSZzWdtPmdRxH9LUCVi2JPCSJ.jpg"
+      },
+      {
+        "name": "Tress MacNeille",
+        "character": "Slave Child (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+      },
+      {
+        "name": "Frank Marshall",
+        "character": "Tourist at Airport (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lt2aBdnfDRJI4hvBu4733ZPGaCa.jpg"
+      },
+      {
+        "name": "Anthony Powell",
+        "character": "Missionary (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hFMRAnpPqstSRWBtrYoVA03vnJ3.jpg"
+      },
+      {
+        "name": "Steven Spielberg",
+        "character": "Tourist at Airport (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+      },
+      {
+        "name": "Guy Standeven",
+        "character": "Obi Wan Club Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/66sDmA4KxiW6vMV1WgLIzwJhYUP.jpg"
+      },
+      {
+        "name": "Ron Taylor",
+        "character": "Lao Chie (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uXyJt7oeI5ACFODnymK1oHs5cOV.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Steven Spielberg",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "treasure",
+    "skeleton",
+    "wind",
+    "elephant",
+    "heart",
+    "riddle",
+    "crocodile",
+    "bridge",
+    "treasure hunt",
+    "torture",
+    "india",
+    "monkey",
+    "archaeologist",
+    "conveyor belt",
+    "child driving car",
+    "mine car",
+    "rope bridge",
+    "splits",
+    "adventurer",
+    "archeology",
+    "1930s"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "In 1935, Indiana Jones is tasked by Indian villagers with reclaiming a rock stolen from them by a secret cult beneath the catacombs of an ancient palace.",
+    "Indiana Jones teams up with a nightclub singer named Wilhelmina \"Willie\" Scott and a twelve-year-old Chinese boy named Short Round. They end up in a small distressed village in India, where the people believe that evil spirits have taken all their children away after a sacred precious stone was stolen. They also discover the great mysterious terror surrounding a booby-trapped temple known as the Temple of Doom. Thuggee is beginning to attempt to rise once more, believing that with the power of all five Sankara stones they can rule the world. It's all up to Indiana to put an end to the Thuggee campaign, rescue the lost children, win the girl and conquer the Temple of Doom.—Anthony Pereyra <hypersonic91@yahoo.com>",
+    "Having escaped death by the skin of his teeth in 1935 Hong Kong, just a year before the explosive adventure in Raiders of the Lost Ark (1981), undaunted archaeology professor Dr Indiana Jones ends up in far-off India. With the sacred Sankara Stone stolen from an impoverished community, Indiana embarks on a peril-laden quest to retrieve the precious artefact, accompanied by his trusty 12-year-old sidekick Short Round and Willie Scott, a statuesque nightclub singer. But as the evil Thuggee cult spreads through the region, infecting the opulent Pankot Palace, Indy and his team must brave the odds to do the impossible. Will Indiana Jones get out of the cursed Temple of Doom in one piece and live to tell the tale?—Nick Riganas",
+    "A year before the events of \"Raiders of the Lost Ark\". Jones is in China in trade discussions with Chinese gangsters for an artifact. However, the gangsters also tried to ambush Jones but he escapes. Things go from bad to worse when his plane crashes over the Himalayas stranding him in the wastelands of India. Jones, along with a lounge singer (Wilhelmina), and a kid called \"Short Round\", get to a village that is suffering a crisis - the children are missing along with their sacred stones. Jones, Wilhelmina, and Short Round offer their help and stumble upon a temple, where a vicious voodoo priest kills and tortures his victims by tearing their hearts out. Jones has to defeat the priest and save the children and recover the sacred stones.—John Wiggins",
+    "Eminent archaeologist Indiana Jones is back in his second adventure, this time to tackle the great terror surrounding the mysterious Temple of Doom. After crash landing in India, Indiana Jones and companions Short Round and Willie Scott end up in a small distressed village where the residents claim a dark power has stolen their precious stone... and their children! Agreeing to assist the village, Indiana and friends make their way to a nearby palace and inquire further into the strange happenings. Assuring Indiana he has no idea what he's talking about, prime minister Chatter Lal offers they spend the night in the palace. However, it is that evening that Indiana discovers a secret passage into a booby-trapped temple and stumbles onto something he thought was long extinct. It seems the age-old Thuggee cult is attempting to rise once more, believing that with the power of the five Sankara stones they can rule the world. Now, it's up to Indiana to put a stop to the Thuggee campaign, rescue the lost children, win the girl and conquer the Temple of Doom.—Tomius J. Barnard"
+  ],
+  "synopsis": "In 1935, Indiana Jones narrowly escapes the clutches of Lao Che, a crime boss in Shanghai. With his eleven-year old Chinese sidekick Short Round and the gold-digging nightclub singer Willie Scott in tow, Indiana flees Shanghai on a plane that, unknown to them, is owned by Lao. The pilots leave the plane to crash over the Himalayas, though the trio narrowly manage to escape on an inflatable boat and ride down the slopes into a raging river. They come to Mayapore, a desolate village in northern India, where the poor villagers believe them to have been sent by the Hindu god Shiva and enlist their help to retrieve the sacred Sivalinga stone stolen from their shrine, as well as the community's children, from evil forces in the nearby Pankot Palace. During the journey to Pankot, Indiana hypothesizes that the stone may be one of the five fabled Sankara stones which promise fortune and glory.The trio receive a warm welcome from the residents of Pankot Palace (which includes the young Maharajah Zalim Singh and his representative, Pankot Palace Prime Minister Chattar Lal) and are allowed to stay the night as their guests, during which they attend a lavish banquet attended by the Maharajah. During the banquet, they are presented with odd culinary delicacies such as baby snakes, large beetles, eyeball soup, and chilled monkey brains. The palace rebuffs Indiana's questions about the villagers' claims and his theory that the ancient Thuggee cult is responsible for their troubles. Later that night, however, Indiana is attacked by an assassin, leading Indy, Willie, and Short Round to believe that something is amiss. They discover a series of tunnels hidden behind a statue in Willie's room and set out to explore them, facing many booby-trapped rooms and a room filled with bugs along the way.From the tunnels of the palace, they travel through an underground temple where the Thuggee worship the Hindu goddess Kali with human sacrifice. The trio discover that the Thuggee, led by their evil, villainous high priest Mola Ram (Amrish Puri), are in possession of three of the five Sankara stones, and have enslaved the children (as well as the Maharajah) to mine for the final two stones, which they hope will allow them to rule the world. As Indiana tries to retrieve the stones, he, Willie and Short Round are captured and separated.Indiana is whipped and forced to drink a potion called the \"Blood of Kali\", which places him in a trance-like state called the \"Black Sleep of Kali Ma\". As a result, he begins to mindlessly serve Mola Ram. Willie, meanwhile, is kept as a human sacrifice, while Short Round is put in the mines to labor alongside the enslaved children. Short Round breaks free and escapes back into the temple where he burns Indiana with a torch, shocking him out of the trance. The Maharajah, who was also forcibly entranced by the \"Blood of Kali\", attempts to sabotage Indiana with a voodoo doll. Short Round spars with the Maharajah, ultimately burning him to snap him out of the trance. The Maharajah then tells Short Round how to get out of the mines. While Mola Ram escapes, Indiana and Short Round rescue Willie, retrieve the three Sankara stones, and free the village children.After a mine cart chase to escape the temple, the trio emerge above ground and are again cornered by Mola Ram and his henchmen on a rope bridge on both ends over a gorge with crocodile-infested river flowing within. Using a sword stolen from one of the Thuggee warriors, Indiana cuts the rope bridge in half, leaving everyone to hang on for their lives. In one final struggle against Mola Ram for the Sankara stones, Indiana invokes an incantation to Shiva, causing the stones to glow red hot. Two of the stones fall into the river, while the last falls into and burns Mola Ram's hand. Indiana catches the now-cool stone, while Mola Ram falls into the river below, where he is devoured by crocodiles.The Thuggee across then attempt to shoot Indiana with arrows, until a company of British Indian Army riflemen from Pankot arrive, having been summoned by the palace maharajah. In the ensuing firefight, over half of the Thuggee archers are killed and the remainder are surrounded and captured. Indiana, Willie and Short Round return victoriously to the village with the missing Sivalinga stone and the children.",
+  "imdb_score": 7.5
+}

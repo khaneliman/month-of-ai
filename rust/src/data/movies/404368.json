@@ -1,0 +1,468 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/qDQEQbgP3v7B9IYLAUcYexNrVYP.jpg",
+  "id": 404368,
+  "title": "Ralph Breaks the Internet",
+  "poster_path": "https://image.tmdb.org/t/p/w500/iVCrhBcpDaHGvv7CLYbK6PuXZo1.jpg",
+  "release_date": "2018-11-20",
+  "vote_average": 7.195,
+  "vote_count": 7158,
+  "popularity": 65.334,
+  "overview": "Video game bad guy Ralph and fellow misfit Vanellope von Schweetz must risk it all by traveling to the World Wide Web in search of a replacement part to save Vanellope's video game, Sugar Rush. In way over their heads, Ralph and Vanellope rely on the citizens of the internet — the netizens — to help navigate their way, including an entrepreneur named Yesss, who is the head algorithm and the heart and soul of trend-making site BuzzzTube.",
+  "imdb_id": "tt5848272",
+  "budget": 175000000,
+  "homepage": "https://movies.disney.com/ralph-breaks-the-internet-wreck-it-ralph-2",
+  "revenue": 529323962,
+  "runtime": 112,
+  "tagline": "Who Broke the Internet?",
+  "genres": [
+    "Family",
+    "Animation",
+    "Comedy",
+    "Adventure"
+  ],
+  "production_companies": [
+    "Walt Disney Pictures",
+    "Walt Disney Animation Studios"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "John C. Reilly",
+        "character": "Wreck-It Ralph (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+      },
+      {
+        "name": "Sarah Silverman",
+        "character": "Vanellope von Schweetz (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g5G711XyVokJm2RoItpkaHa8mkQ.jpg"
+      },
+      {
+        "name": "Gal Gadot",
+        "character": "Shank (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg"
+      },
+      {
+        "name": "Taraji P. Henson",
+        "character": "Yesss (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ukSfKsDBLfmZDKvZqck5ckMeLIO.jpg"
+      },
+      {
+        "name": "Bill Hader",
+        "character": "J.P. Spamley (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg"
+      },
+      {
+        "name": "Jack McBrayer",
+        "character": "Felix (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cbr26xDPEiOuYQxggtCPbu5xhDU.jpg"
+      },
+      {
+        "name": "Timothy Simons",
+        "character": "Butcher Boy (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rl965RAjdwyVyVycjG4UGlbMceZ.jpg"
+      },
+      {
+        "name": "Phil Johnston",
+        "character": "eBay Bidder / Surge Protector (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vJyBKru0qi8YKiTPSxaZj08mkOS.jpg"
+      },
+      {
+        "name": "Anika Noni Rose",
+        "character": "Tiana (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d7aLtuNXBqVtqNnZl8wXsFV4ML5.jpg"
+      },
+      {
+        "name": "Irene Bedard",
+        "character": "Pocahontas (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nCm5940cLixwcSoB5kIqLAKNmGL.jpg"
+      },
+      {
+        "name": "Kristen Bell",
+        "character": "Anna (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rP74dJXl7EjinGM0shQtUOlH5s2.jpg"
+      },
+      {
+        "name": "Ali Wong",
+        "character": "Felony (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uUtwpBkpxuLQFNVS3F5Bs4JnYOr.jpg"
+      },
+      {
+        "name": "Alan Tudyk",
+        "character": "KnowsMore (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
+      },
+      {
+        "name": "Idina Menzel",
+        "character": "Elsa (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l2N0xOzHqZ75bKXBCciKwBdwxcN.jpg"
+      },
+      {
+        "name": "Glozell Green",
+        "character": "Little Debbie (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dw8WL3zJhHrS1f279ApsmPjqgJN.jpg"
+      },
+      {
+        "name": "Hamish Blake",
+        "character": "Pyro (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nofSlAW7zJYOJXuQpWRWF9iVMne.jpg"
+      },
+      {
+        "name": "Jane Lynch",
+        "character": "Calhoun (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nye6D17ZfCHQzr9faYZYyz1CPsZ.jpg"
+      },
+      {
+        "name": "Mandy Moore",
+        "character": "Rapunzel (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gEMfAKZAbBRzvBDj42DambFs9to.jpg"
+      },
+      {
+        "name": "Flula Borg",
+        "character": "Maybe (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jbyMShAwxHWnCzKKCl9vYsaAW4E.jpg"
+      },
+      {
+        "name": "Auli'i Cravalho",
+        "character": "Moana (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3aLGl9leGuZRKVsDjUmCHcm1q5b.jpg"
+      },
+      {
+        "name": "Ed O'Neill",
+        "character": "Mr. Litwak (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4RrxSno3UEtGWuMm4yJoaFzckpL.jpg"
+      },
+      {
+        "name": "Melissa Villaseñor",
+        "character": "Taffyta Muttonfudge (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/144VoO4M5sU0Mn4lpTOYQFAgNVO.jpg"
+      },
+      {
+        "name": "Jennifer Hale",
+        "character": "Cinderella (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oNQCrdiSm0mABCcE5YaHwuZQK8X.jpg"
+      },
+      {
+        "name": "Jodi Benson",
+        "character": "Ariel (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2qX8QKHCaFWnCcIhb3VgZeX9HPz.jpg"
+      },
+      {
+        "name": "Alfred Molina",
+        "character": "Double Dan (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+      },
+      {
+        "name": "Ming-Na Wen",
+        "character": "Mulan (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eqCzFF83It56cUdjpskzvg8jgq.jpg"
+      },
+      {
+        "name": "Della Saba",
+        "character": "Swatti (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q2ksier0nLdvKbGUzVmpblgl8NT.jpg"
+      },
+      {
+        "name": "Katie Lowes",
+        "character": "Candlehead (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5Mt9HjPk1MDUsNHtATqNQiQDeB9.jpg"
+      },
+      {
+        "name": "John DiMaggio",
+        "character": "Arthur (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/awmyFwU6ErFJbGFFzhBYZ9AQn8m.jpg"
+      },
+      {
+        "name": "Pamela Ribon",
+        "character": "Snow White (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/st45pOlgjQgi7GNUx6HJMuVC043.jpg"
+      },
+      {
+        "name": "Jamie Elman",
+        "character": "Rancis Fluggerbutter (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4Hk6F52hG8cHpHXn8dGctCEU80i.jpg"
+      },
+      {
+        "name": "Rich Moore",
+        "character": "Zangief / eBay Bidder / Sour Bill / Stormtrooper (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oIAmkZf9LuJuMqR8zSchoD3FJT8.jpg"
+      },
+      {
+        "name": "Kelly Macdonald",
+        "character": "Merida (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg"
+      },
+      {
+        "name": "Paige O'Hara",
+        "character": "Belle (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g61DJhK2rUOJJ2Rk4Kw0svUPWRh.jpg"
+      },
+      {
+        "name": "Kate Higgins",
+        "character": "Aurora (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kFAAyE63EWFiNdJEjwD534A7hQY.jpg"
+      },
+      {
+        "name": "Linda Larkin",
+        "character": "Jasmine (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uN35v1Z374JvfdnDJBVmvnB2JNQ.jpg"
+      },
+      {
+        "name": "Roger Craig Smith",
+        "character": "Sonic the Hedgehog (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6oE356GbRHAf91Llw7LDpvsAf5L.jpg"
+      },
+      {
+        "name": "Raymond S. Persi",
+        "character": "Gene (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/37HnYfTAHhtAmWdl4NlVAOR7vCW.jpg"
+      },
+      {
+        "name": "Sean Giambrone",
+        "character": "The Eboy (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sbXkWDIBmm6wJEGQBbYO5wnz4q9.jpg"
+      },
+      {
+        "name": "Rebecca Wisocky",
+        "character": "Ebay Elayne (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rR3LZIHFs0pQz0wd9zDPdVvd3nv.jpg"
+      },
+      {
+        "name": "Sam Richardson",
+        "character": "Lee the Office Nerd (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9GonbfsghKD33PZlvAttAhCS8S8.jpg"
+      },
+      {
+        "name": "Jaboukie Young-White",
+        "character": "McNeely (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8OYI8OqsMUpBZica4lM2odjgVH6.jpg"
+      },
+      {
+        "name": "Maurice LaMarche",
+        "character": "Tapper (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+      },
+      {
+        "name": "Brad Garrett",
+        "character": "Eeyore (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+      },
+      {
+        "name": "Anthony Daniels",
+        "character": "C-3PO (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c876ZM5ObwYgXksrRWNNrL9KeZg.jpg"
+      },
+      {
+        "name": "Tim Allen",
+        "character": "Buzz Lightyear (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+      },
+      {
+        "name": "Vin Diesel",
+        "character": "Baby Groot (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+      },
+      {
+        "name": "Colleen Ballinger",
+        "character": "Miranda Sings (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n5zJAiQkkW6kRlAG2GkAtjAKgpV.jpg"
+      },
+      {
+        "name": "Dani Fernandez",
+        "character": "Show Host (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rQxF8OaUA6KV1n4dq6NB137WlcR.jpg"
+      },
+      {
+        "name": "Tiffany Herrera",
+        "character": "Tiffany (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qmlSfb8DpfcZabX6wqy7jFEReFd.jpg"
+      },
+      {
+        "name": "Horatio Sanz",
+        "character": "Duncan (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ckz64bpwFOhF1tMu1klDk5AT9Ck.jpg"
+      },
+      {
+        "name": "Alex Moffat",
+        "character": "Jimmy (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1BnloTmJWCTocPoKPd586MdUmZo.jpg"
+      },
+      {
+        "name": "June Squibb",
+        "character": "Jimmy's Grandma (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5Ubwlz5c1td9fSYsUIIUuvdpY25.jpg"
+      },
+      {
+        "name": "Michaela Zee",
+        "character": "Nafisa (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ana Ortiz",
+        "character": "Ballet Mom (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qkOrJNR5TA3uZqj0lF2hfNuHP4R.jpg"
+      },
+      {
+        "name": "Dianna Agron",
+        "character": "News Anchor (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9BVahBiKoMKndboGFYQYtEd3RM4.jpg"
+      },
+      {
+        "name": "Jason Mantzoukas",
+        "character": "Hey Nongman (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ogkbSybFX2NrMZk0u0dBt1KZwVW.jpg"
+      },
+      {
+        "name": "Fuschia!",
+        "character": "Instagram Pop-Up (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rRiVcXBRh2UToegMSpSls0TbjLs.jpg"
+      },
+      {
+        "name": "Corey Burton",
+        "character": "Grumpy (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wcpFwdL7m01cZoBJiUSMQVakK2G.jpg"
+      },
+      {
+        "name": "Jason Hightower",
+        "character": "Auctioneer (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wdNUd3qVk66VunB2wH9iYLqgxhk.jpg"
+      },
+      {
+        "name": "Brian Curless",
+        "character": "Auctioneer (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ann Barry Colgin",
+        "character": "Auctioneer (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Viveca Paulin",
+        "character": "Auctioneer (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kk9JcN9fjfxYonYbrUKhbCSYWLQ.jpg"
+      },
+      {
+        "name": "Michael Giacchino",
+        "character": "FN-3181 (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1zKiTAfMpc3I8oxdLahx3k6KOOV.jpg"
+      },
+      {
+        "name": "Kevin Deters",
+        "character": "Stormtrooper (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jqckHYZdIFneYyjYdNrYgC3xJLj.jpg"
+      },
+      {
+        "name": "Jeremy Milton",
+        "character": "Stormtrooper (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AkjmE1qLyurqBOJ4tUGafWk4kd4.jpg"
+      },
+      {
+        "name": "Jesse Averna",
+        "character": "Stormtrooper (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicole Scherzinger",
+        "character": "Mo's Mom (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sB6TNkTdLCkK6DVd5NlBPtfssyD.jpg"
+      },
+      {
+        "name": "Brittany Kikuchi",
+        "character": "Baby Mo (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Olivier Bénard",
+        "character": "Goat (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eWvXKl8z71Z5kp5YvTyGk3aexkX.jpg"
+      },
+      {
+        "name": "Ben McKee",
+        "character": "Ben (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wYsFPNIQ6Xz1U2QvJZS7ECw6Zh4.jpg"
+      },
+      {
+        "name": "Daniel Platzman",
+        "character": "Daniel (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fAtyNYvSI0jGbvUUDXYfKAHsx5K.jpg"
+      },
+      {
+        "name": "Dan Reynolds",
+        "character": "Dan (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cZ3qu8mLLTSGOV6BX3dj9tDc4UB.jpg"
+      },
+      {
+        "name": "Wayne Sermon",
+        "character": "Wayne (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kia6mzQfKtEgqZcL9maGImyWD1G.jpg"
+      },
+      {
+        "name": "John Lavelle",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8tj2wsomRGjSSbdatVIO4Y7PkbK.jpg"
+      },
+      {
+        "name": "Josie Trinidad",
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rMwIL53SKwZJu7WFW1fcYIVTxhP.jpg"
+      },
+      {
+        "name": "Ruth Strother",
+        "character": "Additional Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Elise Aliberti",
+        "character": "Additional Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Maddix Robinson",
+        "character": "Additional Voices (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bradford Simonsen",
+        "character": "Additional Voices (voice)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Rich Moore",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oIAmkZf9LuJuMqR8zSchoD3FJT8.jpg"
+      },
+      {
+        "name": "Phil Johnston",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vJyBKru0qi8YKiTPSxaZj08mkOS.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "video game",
+    "cartoon",
+    "sequel",
+    "internet",
+    "lethal virus",
+    "aftercreditsstinger",
+    "duringcreditsstinger",
+    "online gaming"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "Six years after the events of \"Wreck-It Ralph,\" Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure.",
+    "Taking place six years after saving the arcade from Turbo's vengeance, the Sugar Rush arcade cabinet has broken, forcing Ralph and Vanellope to travel to the Internet via the newly-installed Wi-Fi router in Litwak's Arcade to retrieve the piece capable of saving the game.—Lucas Quaresma",
+    "After saving the arcade from Turbo's revenge, the Sugar Rush arcade cabinet has broken, forcing Ralph and Vanellope to travel to the Internet via the newly-installed Wi-Fi router in Litwak's Arcade to retrieve the piece capable of saving the game.—Lucas Quaresma",
+    "Six years after saving the arcade from the Cy-Bugs attack and from Turbo's revenge, the story leaves Litwak's video arcade behind, venturing into the uncharted, expansive and thrilling world of the internet - which may or may not survive Ralph's wrecking. Video game bad guy Ralph and fellow misfit Vanellope von Schweetz must risk it all by traveling to the world wide web in search of a replacement part to save Vanellope's video game, Sugar Rush. In way over their heads, Ralph and Vanellope rely on the citizen of the internet - the netizens - to help navigate their way, including a website entrepreneur named Yesss, who is the head algorithm and the heart and soul of trend-making site \"BuzzTube.\"—Lucas Quaresma",
+    "Wreck-It Ralph and Vanellope Van Schweetz have been best friends since their misadventures six years prior, hanging out every night after work in Litwak's Family Fun Center and Arcade. While Ralph is content with his current life, Vanellope admits to being bored with her game's predictability and wishes for something new. The next day, Ralph attempts to fulfill her desires by creating a secret bonus track during a race. Vanellope overrides player control to test it out, but the resulting conflict between her and the player results with the cabinet's steering wheel being broken. Since the company that made Sugar Rush is defunct, one of the kids finds a replacement for Mr. Litwak on eBay. Litwak finds it too expensive and has no choice but to unplug Sugar Rush, leaving the game's characters homeless.."
+  ],
+  "synopsis": "After saving the arcade from the Cy-Bugs invasion and from Turbo's revenge, six years have passed when Wreck-It Ralph and Vanellope von Schweetz are still best friends who hang out every night after work in Litwak's Family Fun Center and Arcade. However, six years of being a racer in Sugar Rush has caused Vanellope to express quandaries with the increasing predictability of her game, so Ralph tries to surprise Vanellope with a new hidden track in Sugar Rush. Vanellope enjoys the track but goes against the controls of the player to ride it, causing the wheel on the console to get stuck, and the player to accidentally remove the wheel from the game. Mr. Litwak inadvertently breaks the wheel while trying to reattach it. Knowing that the company who made the part went out of business years ago, Litwak has no choice but to unplug Sugar Rush, rendering Vanellope and its citizens homeless.After a conversation with Fix-It Felix Jr. in Tapper's, Ralph decides to venture with Vanellope via the newly installed Wifi router to the Internet to find and purchase a new wheel for Sugar Rush from eBay. The two follow Litwak's avatar and meet KnowsMore, a search engine who points them towards eBay. Ralph and Vanellope successfully acquire the wheel via auction, but find they have no money to complete its purchase, which they are told will expire within 24 hours.After consulting a pop-up advertiser named Spamley, Ralph and Vanellope venture to a popular online game, Slaughter Race, to steal a valuable car they can sell to cover the auction. After engaging in a high-speed chase throughout Slaughter Race, the car's owner Shank commends Vanellope for her racing skills, causing visible jealously in Ralph at the budding friendship. Despite not allowing the pair to take her car, Shank points the duo towards video sharing site BuzzzTube after posting a video of Ralph taking a leaf blower to the face. They meet up with an algorithm named Yesss who gives Ralph the funds earned from his videos' popularity. When the money earned turns out to not be enough to keep Vanellope from returning to Slaughter Race to consult Shank, Ralph decides to make more videos playing off the top trends to earn more money.Ralph becomes a viral sensation with Yesss playing off this by having her assistants venture out into the internet and spamming users with pop up ads. Wanting to feel useful, Vanellope offers up her services as a pop-up advertiser. Not wanting Vanellope to fall back into Slaughter Race, Ralph has Yesss appoint her to the fansite Oh My Disney! where Vanellope realizes that she is an unauthorized advertiser and ends up meeting the Disney Princesses. The Princesses speak to Vanellope and stress the importance of finding and pursuing one's dream through song, inspiring her to return to Slaughter Race.Meanwhile, Ralph successfully earns the money for their eBay bid, despite being hurt after reading the rude and mean-spirited comments posted on his videos. After being accidentally answered over the phone and put on mute, Ralph finds Vanellope back in Slaughter Race confiding in Shank about her desire to stay there and leave the arcade. Desperate to not lose his friend, Ralph approaches Spamley about any possible virus that would make Slaughter Race more boring and less desirable for Vanellope. Spamley takes Ralph to the dark web where they meet Double Dan, who gives them an insecurity virus that analyzes any imperfection and spreads it to other parts of its surrounding area. The virus, scanning Vanellope, spreads her glitch throughout Slaughter Race, causing the game to shut down and reboot, almost killing Vanellope and Ralph in the process until Ralph breaks out from the game before it shuts down.Vanellope discovers Ralph's actions and berates him for them, asking him to leave her alone. The surviving virus escapes Slaughter Race and scans Ralph's insecurities and spreads them throughout the Internet itself. The virus manifests into hundreds of alternate versions of Ralph that tear up the Internet in a rampant search for Vanellope. With the help of Knowsmore and Yesss, the pair attempt to lead the horde of virus Ralphs to an anti-virus software. The virus Ralphs form a giant Ralph that capture Vanellope, as Ralph attempts to fight them off. Ralph catches their attention and calls them out on their selfish possessiveness of Vanellope, claiming that letting go and accepting her choice to stay in Slaughter Race does not have to mean the end of their friendship, and can actually strengthen their bond. Having let go of his insecurities, the gigantic virus Ralph disappears, in the process dropping Ralph, who is saved with the help of Spamley and the Disney Princesses.The Internet is restored and Vanellope decides to stay in Slaughter Race, with Ralph returning to the arcade and participating in activities with the other arcade members, while regularly video chatting with Vanellope. He watches the sunrise from Game Central Station, coming to peace with the changes in his life as he heads to work with Felix.In a mid-credits scene, Ralph and Vanellope crash a child's Pancake Milkshake game on her iPad. In a post-credits scene, a Frozen 2 trailer is teased, only for Ralph to rickroll the audience.",
+  "imdb_score": 7
+}

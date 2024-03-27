@@ -1,0 +1,293 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/b5bcKhvN6VP82U5ztNdPfOLiolD.jpg",
+  "id": 59436,
+  "title": "Midnight in Paris",
+  "poster_path": "https://image.tmdb.org/t/p/w500/4wBG5kbfagTQclETblPRRGihk0I.jpg",
+  "release_date": "2011-05-11",
+  "vote_average": 7.5,
+  "vote_count": 6989,
+  "popularity": 33.029,
+  "overview": "A romantic comedy about a family traveling to the French capital for business. The party includes a young engaged couple forced to confront the illusion that a life different from their own is better.",
+  "imdb_id": "tt1605783",
+  "budget": 17000000,
+  "homepage": "http://www.sonyclassics.com/midnightinparis",
+  "revenue": 151119219,
+  "runtime": 94,
+  "tagline": "",
+  "genres": [
+    "Fantasy",
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    "Pontchartrain Productions",
+    "Gravier Productions",
+    "Mediapro",
+    "Versátil Cinema",
+    "TV3",
+    "Firstep"
+  ],
+  "production_countries": [
+    "FR",
+    "ES",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Owen Wilson",
+        "character": "Gil",
+        "profile_path": "https://image.tmdb.org/t/p/w185/op8sGD20k3EQZLR92XtaHoIbW0o.jpg"
+      },
+      {
+        "name": "Rachel McAdams",
+        "character": "Inez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8w2QyvUke00l0JcNXEXBoCJDqCg.jpg"
+      },
+      {
+        "name": "Kurt Fuller",
+        "character": "John",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kV02XLACLFd1YYQdSOgqy6lFmQ3.jpg"
+      },
+      {
+        "name": "Mimi Kennedy",
+        "character": "Helen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Nsu0AngAeUEawRUm72Qgg8RUL6.jpg"
+      },
+      {
+        "name": "Michael Sheen",
+        "character": "Paul",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nGxIcIcfJjdPN3k8zFabtA1gRqL.jpg"
+      },
+      {
+        "name": "Nina Arianda",
+        "character": "Carol",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5vGdet2Gg7XPRgs0OvCrSwAk8QX.jpg"
+      },
+      {
+        "name": "Marion Cotillard",
+        "character": "Adriana",
+        "profile_path": "https://image.tmdb.org/t/p/w185/biitzOF0GffIqFYLyOPkoiaOngQ.jpg"
+      },
+      {
+        "name": "Léa Seydoux",
+        "character": "Gabrielle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tUfoM95x70Qsb1ElClPSpSrZQ2v.jpg"
+      },
+      {
+        "name": "Carla Bruni",
+        "character": "Museum Guide",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tNnjIZ2LsETJxnfkCYOVXzfEZjK.jpg"
+      },
+      {
+        "name": "Maurice Sonnenberg",
+        "character": "Man at Wine Tasting",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cEp5qs6fnn12zJqbnfsLz8q8LEZ.jpg"
+      },
+      {
+        "name": "Thierry Hancisse",
+        "character": "1920's Partygoer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u2jwlcR4vcGK8mnrAMk0dGvLTsM.jpg"
+      },
+      {
+        "name": "Guillaume Gouix",
+        "character": "1920's Partygoer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/caQHHQaVmfHHvbchMxB9kJ6JSDm.jpg"
+      },
+      {
+        "name": "Audrey Fleurot",
+        "character": "1920's Partygoer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vLFsuAo10Tp0ApjmrcfwgBw6792.jpg"
+      },
+      {
+        "name": "Marie-Sohna Condé",
+        "character": "1920's Partygoer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mTixxvuMOw8Y0rZ4fUsCddC4ipU.jpg"
+      },
+      {
+        "name": "Yves Heck",
+        "character": "Cole Porter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rQND6VGER2CBK39D3SMFwUDuUmv.jpg"
+      },
+      {
+        "name": "Alison Pill",
+        "character": "Zelda Fitzgerald",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ebcCkhqFtHvHx5dkBfVmlAknDxC.jpg"
+      },
+      {
+        "name": "Tom Hiddleston",
+        "character": "F. Scott Fitzgerald",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+      },
+      {
+        "name": "Sonia Rolland",
+        "character": "Joséphine Baker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tq9p6RTFSryoiIwHj8nLPgvcGqq.jpg"
+      },
+      {
+        "name": "Corey Stoll",
+        "character": "Ernest Hemingway",
+        "profile_path": "https://image.tmdb.org/t/p/w185/etqmosIyf1xePKpi3i6rHJCm9GE.jpg"
+      },
+      {
+        "name": "Daniel Lundh",
+        "character": "Juan Belmonte",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nyzXolo9qis7t6pENMxc2BcXWA0.jpg"
+      },
+      {
+        "name": "Laurent Spielvogel",
+        "character": "Antiques Dealer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u8Lxm7eCaqYfXddwfmA9Wjylzqv.jpg"
+      },
+      {
+        "name": "Thérèse Bourou-Rubinsztein",
+        "character": "Alice B. Toklas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zQDc1NeC2MSYkmbPKu8WMQFzGTx.jpg"
+      },
+      {
+        "name": "Kathy Bates",
+        "character": "Gertrude Stein",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3MsayDvY73uXGVbCFHyy1ABTacV.jpg"
+      },
+      {
+        "name": "Marcial Di Fonzo Bo",
+        "character": "Pablo Picasso",
+        "profile_path": "https://image.tmdb.org/t/p/w185/74PcKog5zcqGBv6rvSCwvkavqbi.jpg"
+      },
+      {
+        "name": "Emmanuelle Uzan",
+        "character": "Djuna Barnes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yuwY41gD8wECD08UJjQRwG4IogO.jpg"
+      },
+      {
+        "name": "Adrien Brody",
+        "character": "Salvador Dalí",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1dBItgLFBNGEXnI48VvnnN2vFaX.jpg"
+      },
+      {
+        "name": "Tom Cordier",
+        "character": "Man Ray",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6rY15MT3DpzUPHDsVk4mtium9AE.jpg"
+      },
+      {
+        "name": "Adrien de Van",
+        "character": "Luis Buñuel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Xl1sZxG27XTwnSmelD2k7wEO2A.jpg"
+      },
+      {
+        "name": "Serge Bagdassarian",
+        "character": "Détective Duluc",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sXXnFr4TD8NgQtYuWAUdXQ1MpM2.jpg"
+      },
+      {
+        "name": "Gad Elmaleh",
+        "character": "Détective Tisserant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oxWWtXt59WrngUja6INnFlyxtD2.jpg"
+      },
+      {
+        "name": "David Lowe",
+        "character": "T.S. Eliot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gggCHHhKP8XcWvsSsjSddmb3Xd5.jpg"
+      },
+      {
+        "name": "Atmen Kelif",
+        "character": "Hotel Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2rKjNYWtAkQ8fiNXz1XqZemgo0i.jpg"
+      },
+      {
+        "name": "Yves-Antoine Spoto",
+        "character": "Henri Matisse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ziSCxaTPiRl7wAORKUc9Tsuj6sl.jpg"
+      },
+      {
+        "name": "Laurent Claret",
+        "character": "Leo Stein",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lbhnP8WmVayx4xW28KGSe3zYvdP.jpg"
+      },
+      {
+        "name": "Sava Lolov",
+        "character": "Belle Époque Couple",
+        "profile_path": "https://image.tmdb.org/t/p/w185/47JA3zNVvn0Ppnl54xSr4YmQM6R.jpg"
+      },
+      {
+        "name": "Karine Vanasse",
+        "character": "Belle Époque Couple",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9WAJ7Vgy0M61HNhZiNPOcKSvEgq.jpg"
+      },
+      {
+        "name": "Catherine Benguigui",
+        "character": "Maxim's Hostess",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iFaKeOtvxvcX0FA6pSqZn5TFlN9.jpg"
+      },
+      {
+        "name": "Vincent Menjou Cortes",
+        "character": "Henri de Toulouse-Lautrec",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t1U5G4uWdjERXlquNmfqGKjPoih.jpg"
+      },
+      {
+        "name": "Olivier Rabourdin",
+        "character": "Paul Gauguin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r15C7VnXnyMJk8JyNQOJGaauiKA.jpg"
+      },
+      {
+        "name": "François Rostain",
+        "character": "Edgar Degas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5oS1vQTvq93ujH7XCP3uD1gBrbR.jpg"
+      },
+      {
+        "name": "Marianne Basler",
+        "character": "Versailles Royalty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/74bRbi3pfSAzkwpbWtS822LRoYU.jpg"
+      },
+      {
+        "name": "Michel Vuillermoz",
+        "character": "Versailles Royalty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zYgJeIjNAJ4nieRI6ipmp9bwDEK.jpg"
+      },
+      {
+        "name": "Kenneth Edelson",
+        "character": "Guest at Maxims (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cGZ6TdjN9uufpPYO4hjsz3exwKB.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Woody Allen",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wcPQgZLDibuej1RwNTy1R2U2ZJw.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "paris, france",
+    "based on novel or book",
+    "detective",
+    "screenwriter",
+    "camping",
+    "diary",
+    "time travel",
+    "forbidden love",
+    "painter",
+    "midnight",
+    "nostalgia",
+    "past",
+    "versailles",
+    "sculpture",
+    "romance",
+    "magic realism",
+    "art history",
+    "back in time",
+    "wine drinking"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight.",
+    "Gil and Inez travel to Paris as a tag-along vacation on her parents' business trip. Gil is a successful Hollywood writer but is struggling on his first novel. He falls in love with the city and thinks he and Inez should move there after they get married, but Inez does not share his romantic notions of the city or the idea that the 1920s were the golden age. When Inez goes off dancing with her friends, Gil takes a walk at midnight and discovers what could be the ultimate source of inspiration for writing. Gil's daily walks at midnight in Paris could take him closer to the heart of the city but further from the woman he's about to marry.—napierslogs",
+    "The successful Hollywood screenplay writer Gil Pender is spending his vacation in Paris with his fiancée Inez and her parents since his future father-in-law is on a business trip. Gil is an aspiring novelist who loves Paris, and dreams of living in the city after getting married to Inez. Furthermore the romantic Gil believes that the golden age of Paris was in the 1920s and he loves to walk through the streets of the city. When Inez meets her former boyfriend, the pseudo-intellectual Paul, with his girlfriend Carol, they spend some time together visiting tourist attractions. At night they drink wine at a party and Paul invites the couple to go dancing with Carol and him. Gil, however, prefers to return walking alone to the hotel. At midnight an old car stops and the passengers invite him to go a party and soon he realizes that he is back in the 1920s, where he meets his favorite writers, musicians and artists and lives his dream.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "Pasadena-based Gil Pender would rather be a novelist than the hack--albeit successful screenwriter--that he is. A romantic at heart, Gil has little in common with his fiancée Inez or her wealthy conservative parents--she is much like them--whom Gil and Inez are with in Paris, accompanying them on her father's extended business trip. Gil, against Inez's sensibilities, would love to live in Paris so that he could write his novel full time, that novel which is a fantasy of his own life, complete in wanting to live in what he considers the golden era, 1920s Paris. Gil also has little in common with Inez's friends, most specifically Paul and Carol Bates--professor Paul, who Gil believes is pedantic as someone who spouts off everything about anything, but who Inez believes is brilliant. One evening while Inez ditches Gil for an evening out with Paul, Gil gets picked up by a group of party-goers in a 1920s vintage vehicle, who invite him along to their party. At the party, Gil meets a couple named Zelda and F. Scott Fitzgerald, their names which he initially believes is coincidence. He quickly comes to the realization that he has been transported back to 1920s Paris and the two are indeed the couple famed in literature. On subsequent evenings, Gil comes to the realization that he can travel back to this, his dream setting, at midnight every night at that exact location transported by that 1920s vehicle. Subsequently, he meets and befriends the elite of Paris arts and culture of the time, including Cole Porter, Ernest Hemingway, Gertrude Stein, Pablo Picasso, and Salvador Dalí. Gil initially plans to share this revelation with Inez, until he meets Adriana, a muse of Picasso's. There is a seeming mutual attraction between Adriana and Gil. Although he would love for his midnight trips to last forever, his time especially with Adriana shows Gil what he truly is striving for in his present twenty-first century life.—Huggo",
+    "Gil Pender is a screenwriter and aspiring novelist. Vacationing in Paris with his fiancee, he has taken to touring the city alone. On one such late-night excursion, Gil encounters a group of strange -- yet familiar -- revelers, who sweep him along, apparently back in time, for a night with some of the Jazz Age's icons of art and literature. The more time Gil spends with these cultural heroes of the past, the more dissatisfied he becomes with the present.—Jwelch5742"
+  ],
+  "synopsis": "Gil (Owen Wilson), a successful but distracted Hollywood screenwriter, and his fiancée, Inez (Rachel McAdams), are in Paris, vacationing with Inez's wealthy, conservative parents (Mimi Kennedy, Kurt Fuller). Gil is struggling to finish his first novel, which is about a man who works in a nostalgia shop, but Inez and her parents are critical and dismissive of Gil's desire to give up his lucrative Hollywood career to write it. While Gil is considering moving to the city, Inez is intent on living in Malibu. By chance, they are joined by Inez's friend Paul (Michael Sheen), a pseudo-intellectual who speaks with great authority but little actual accuracy on the history and art of the city. Inez idolizes him, but Gil, who is an ardent admirer of the Lost Generation, finds him insufferable.Paul and his wife Carol (Nina Arianda) invite Inez and Gil to go dancing. Inez accepts but Gil declines and chooses to return to the hotel through the streets of Paris, eventually becoming lost. As he stops, bells chime midnight and an antique car pulls up, and the passengers dressed in 1920s clothingurge Gil to join them. They go to a bar, where Gil comes to realize that he has been transported to the 1920s, an era he admires and idolizes in the novel he is writing. He encounters Cole Porter (Yves Heck), Josephine Baker (Sonia Rolland), and Zelda and F. Scott Fitzgerald (Alison Pill and Tom Hiddleston), who take him to meet Ernest Hemingway (Corey Stoll). Hemingway agrees to show Gil's novel to Gertrude Stein (Kathy Bates), and Gil goes to fetch his manuscript from his hotel. However, as soon as he leaves the bar, he finds he has returned to 2010.Gil attempts to bring Inez to the past with him the following night, but while they wait, she gets bored, and peevishly returns to the hotel. Just after she leaves, the clock strikes midnight and the car pulls up again, this time with Hemingway inside it. He takes Gil to meet Gertrude Stein, who agrees to read his novel and introduces him to Pablo Picasso (Marcial Di Fonzo Bo) and Picasso's mistress Adriana (Marion Cotillard), a beautiful student of couture to whom Gil is instantly attracted. The next day, back in 2010, Gil encounters Picasso's painting of Adriana at a museum, and recites much information about its creation, which annoys Paul (because it contradicts much of what he had been saying) and Inez becomes embarrassed, because she cannot appreciate what he is saying and believes Paul.Over the next few days, Gil spends each night in the past. His late-night wanderings frustrate Inez, who cannot understand his interest in Paris or his desire to write a novel, and arouse the suspicion of her father, who hires a detective (Gad Elmaleh) to follow Gil. This proves unsuccessful, as the detective attempts to follow the car and winds up lost in Versailles during the era of Louis XIV.Gil spends increasing amounts of time with Adriana, who leaves Picasso and has a brief dalliance with Hemingway. Gil realizes that he is falling in love with her, leaving him conflicted and confused. He confides his predicament to Salvador Dalí (Adrien Brody), Man Ray (Tom Cordier) and Luis Buñuel (Adrien de Van), but being surrealists they consider his position to be totally normal and see nothing strange about his coming from the future.\nWhile Inez shops for furniture in the Marché aux puces (flea market) on the outskirts of Paris, Gil meets Gabrielle (Léa Seydoux), an antiques dealer who shares his fondness for the twenties and the music of Cole Porter. Gil later discovers Adriana's diary from the 1920s in a book stall on the Seine and finds out that she was in love with him. Reading that she dreamt of receiving a gift of earrings from him and then making love to him, Gil attempts to steal a pair of earrings from Inez to give to Adriana but is thwarted by Inez's early return from a trip.Gil purchases earrings for Adriana and, returning to the past, confesses his love for her. As they kiss, a horse and carriage appears. They are invited inside by a richly-dressed couple and are transported back to the Belle Époque, an era Adriana considers Paris's Golden Age. They are taken to the famous Maxim's Paris restaurant, and meet Henri de Toulouse-Lautrec (Vincent Menjou Cortes), Paul Gauguin (Olivier Rabourdin) and Edgar Degas (François Rostain). When Gil asks what they thought the best era was, the three determine that the greatest era was the Renaissance. The enthralled Adriana is offered a job designing ballet costumes, and proposes to Gil that they stay, but Gil realizes that despite the allure of nostalgia, it is better to accept the present for what it is. Adriana elects to stay in the past, and they sadly part ways.Gil retrieves his novel from Gertrude Stein, who praises his progress as a writer but questions why the main character has not realized that his fiancée (based on Inez) is having an affair with a pedantic character based on Paul. Gil returns to the present and confronts Inez. She admits to sleeping with Paul but claims that it can be forgotten when they return to California. Gil breaks up with Inez and decides to remain in Paris. Taking a walk at midnight, he unexpectedly meets Gabrielle, and offers to walk her home.",
+  "imdb_score": 7.6
+}

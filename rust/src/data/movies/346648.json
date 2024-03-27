@@ -1,0 +1,366 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/zbdBYpte1Crlfjs8jPVzplOQBpN.jpg",
+  "id": 346648,
+  "title": "Paddington 2",
+  "poster_path": "https://image.tmdb.org/t/p/w500/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+  "release_date": "2017-11-09",
+  "vote_average": 7.464,
+  "vote_count": 2183,
+  "popularity": 38.777,
+  "overview": "Paddington, now happily settled with the Browns, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy, but it is stolen.",
+  "imdb_id": "tt4468740",
+  "budget": 40000000,
+  "homepage": "https://www.paddington.com/",
+  "revenue": 227300000,
+  "runtime": 104,
+  "tagline": "It takes a bear to catch a thief",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "production_companies": [
+    "Heyday Films",
+    "StudioCanal",
+    "Anton Capital Entertainment",
+    "Canal+",
+    "Ciné+",
+    "Marmalade Films Ltd."
+  ],
+  "production_countries": [
+    "FR",
+    "GB"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Ben Whishaw",
+        "character": "Paddington Brown (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e74Cz65ifeNb9zHfUTvF5rTix0d.jpg"
+      },
+      {
+        "name": "Sally Hawkins",
+        "character": "Mary Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/osYgwtQIiNbPFc8JkFDxreBgqxZ.jpg"
+      },
+      {
+        "name": "Hugh Grant",
+        "character": "Phoenix Buchanan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tUHkXYdwm405DjBm2IpPxGjYkjj.jpg"
+      },
+      {
+        "name": "Hugh Bonneville",
+        "character": "Henry Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/efsEe68avi6kKvnAcGRHDYxtiIm.jpg"
+      },
+      {
+        "name": "Brendan Gleeson",
+        "character": "Knuckles McGinty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/379TXtBPRrkBDrEBWPQ5v3up7kT.jpg"
+      },
+      {
+        "name": "Madeleine Harris",
+        "character": "Judy Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tvwnWhlM2M8RTOnnHc2wU7aE3yw.jpg"
+      },
+      {
+        "name": "Samuel Joslin",
+        "character": "Jonathan Brown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cVVp0DEfC0Hsu1s2oalM6iQyTMi.jpg"
+      },
+      {
+        "name": "Julie Walters",
+        "character": "Mrs. Bird",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
+      },
+      {
+        "name": "Jim Broadbent",
+        "character": "Samuel Gruber",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jTyvGwwR1NFpvgDhcmuWZCM241w.jpg"
+      },
+      {
+        "name": "Imelda Staunton",
+        "character": "Aunt Lucy (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tABRYOHUQeaUCAqrelJV5ZHjl1W.jpg"
+      },
+      {
+        "name": "Peter Capaldi",
+        "character": "Reginald Curry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rkNPOxjKJ5HsKuxwAeENUl5yVDb.jpg"
+      },
+      {
+        "name": "Michael Gambon",
+        "character": "Uncle Pastuzo (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+      },
+      {
+        "name": "Simon Farnaby",
+        "character": "Barry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ki10aIf7pVkfYun2qn9XxbC2U3K.jpg"
+      },
+      {
+        "name": "Ben Miller",
+        "character": "Colonel Lancaster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ij5nhtBWhCaOl4IEn8XhOYAGqB1.jpg"
+      },
+      {
+        "name": "Sanjeev Bhaskar",
+        "character": "Dr. Jafri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gPFoGWj5VPm4IZVn9sMdBicVh2E.jpg"
+      },
+      {
+        "name": "Joanna Lumley",
+        "character": "Felicity Fanshaw",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k9SDy0lQ4hQdXZz1RMnFLntMVg5.jpg"
+      },
+      {
+        "name": "Richard Ayoade",
+        "character": "Forensic Investigator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pdekQJx34S9mfUM356kXHPIzoCK.jpg"
+      },
+      {
+        "name": "Nicholas Woodeson",
+        "character": "Insurance Company CEO",
+        "profile_path": "https://image.tmdb.org/t/p/w185/93eFzIXmVlfJnR34TZSC0bVb1bQ.jpg"
+      },
+      {
+        "name": "Tom Conti",
+        "character": "Judge Gerald Biggleswade",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aeyH3jaaauYakZS3CWbmRPg6J10.jpg"
+      },
+      {
+        "name": "Eileen Atkins",
+        "character": "Madame Kozlova",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8gac03PfTFz2vByZi1aun0NiTqM.jpg"
+      },
+      {
+        "name": "Marie-France Alvarez",
+        "character": "Mademoiselle Dubois",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ySFOp78xQ0cuvFjGJdVA4sK1Vus.jpg"
+      },
+      {
+        "name": "Jessica Hynes",
+        "character": "Miss Kitts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eyJ9aC1FXyPAI5xose0HqA26bnm.jpg"
+      },
+      {
+        "name": "Noah Taylor",
+        "character": "Phibs",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a9VuohmpqbvcYflOpi0F3ck8L2j.jpg"
+      },
+      {
+        "name": "Shola Adewusi",
+        "character": "First Ms. Peters",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ax7DudH8MgTHrVwLOEkwrechRH3.jpg"
+      },
+      {
+        "name": "Nadine Marshall",
+        "character": "Second Ms. Peters",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nOifOrI2qX582PS1VCssbNW6Uzx.jpg"
+      },
+      {
+        "name": "Michael Mears",
+        "character": "Clerk of Court",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h2g6GLAIqZBXltY0ze6nF3xX9HW.jpg"
+      },
+      {
+        "name": "Louis Partridge",
+        "character": "G-Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Mkb5ce8SAA6kaYisKmrpCAT8Tj.jpg"
+      },
+      {
+        "name": "Robbie Gee",
+        "character": "Mr. Barnes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mzzfbA0e4DWgxvIYjaryMolkiqm.jpg"
+      },
+      {
+        "name": "Enzo Squillino Jr.",
+        "character": "Mr. Giuseppe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pXr0Vg3wrhyl32rFjCtYBojD2np.jpg"
+      },
+      {
+        "name": "Sam Payne",
+        "character": "Nelson",
+        "profile_path": ""
+      },
+      {
+        "name": "Catherine Shepherd",
+        "character": "Nelson's Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2MY9wFTqnAPGGRn8KIFRZfN1cs0.jpg"
+      },
+      {
+        "name": "Claire Keelan",
+        "character": "Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aKNSxAV4vqXi8tg28vrKjsyKACE.jpg"
+      },
+      {
+        "name": "Meera Syal",
+        "character": "Prosecutor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xjndtTD7lIvuCSMtAYBQtTVwMGV.jpg"
+      },
+      {
+        "name": "Geoffrey Lumb",
+        "character": "Second Police Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Jordan",
+        "character": "Steve Visby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6gbX9o8BvLP0BsHEk3HiBwSI3pJ.jpg"
+      },
+      {
+        "name": "Kobna Holdbrook-Smith",
+        "character": "Warden Walker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6KNQjNWVdosnKAehV7FHpxQV2dD.jpg"
+      },
+      {
+        "name": "Virgile Elana",
+        "character": "Charlie Rumble",
+        "profile_path": ""
+      },
+      {
+        "name": "Emeson Nwolie",
+        "character": "Double Bass Bob",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qnAjpaQQevcmCRpnNHqwSD05SOn.jpg"
+      },
+      {
+        "name": "Nicholas Lumley",
+        "character": "Farmer Jack",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cjUUXMeYoOlWhhv8R0DVVTsXgLM.jpg"
+      },
+      {
+        "name": "Stephen McDade",
+        "character": "Johnny Cashpoint",
+        "profile_path": "https://image.tmdb.org/t/p/w185/10DV3Pa0kzurwVEdsHIlDt9EayM.jpg"
+      },
+      {
+        "name": "Deepak Anand",
+        "character": "Mad Dog",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f6u0FjH44YEE9CeoDJvnQBMPuZn.jpg"
+      },
+      {
+        "name": "Cal McCrystal",
+        "character": "Sir Geoffrey Wilcott",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ktWVmdgAI1C1phtngcqsx2IFFhN.jpg"
+      },
+      {
+        "name": "Aaron Neil",
+        "character": "Spoon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k1fgcLv6ZPvAGWcxZgEQY5GTnFq.jpg"
+      },
+      {
+        "name": "Geoff Banks",
+        "character": "Squeaky Pete",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Davis",
+        "character": "T-Bone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n7JqvXrpPsbpfeelPpZ5R8HTWMG.jpg"
+      },
+      {
+        "name": "Jamie Demetriou",
+        "character": "The Professor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nRhjzDgxQ8PzdUX1MTGhSmWwm8D.jpg"
+      },
+      {
+        "name": "Stewart Gilchrist",
+        "character": "Chakrabatics Instructor",
+        "profile_path": ""
+      },
+      {
+        "name": "Justin Edwards",
+        "character": "Dozy Policeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vhAAVpzdswyq95pmVyKv9PsQPyQ.jpg"
+      },
+      {
+        "name": "Kya Garwood",
+        "character": "Felicity Fanshawe's Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/386H09whUSfo01p6WaXl9u5qSuz.jpg"
+      },
+      {
+        "name": "Maggie Steed",
+        "character": "Gertrude Biggleswade",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ft6dc8RJ8PtgrhYB7WYWCq84L8q.jpg"
+      },
+      {
+        "name": "Tim Fitzhigham",
+        "character": "Magician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1VRdVUN3wySxf0JhX4IPYBm9WnA.jpg"
+      },
+      {
+        "name": "Joel Fry",
+        "character": "Postman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4nEKEWJpaTHncCTv6zeP98V0qGI.jpg"
+      },
+      {
+        "name": "David J Biscoe",
+        "character": "Priest",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Antopolski",
+        "character": "St. Paul's Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Gus Brown",
+        "character": "St. Paul's Tour Guide",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3a5gaKThRbADd3cHZDdSDGLndr6.jpg"
+      },
+      {
+        "name": "David Sant",
+        "character": "Steward",
+        "profile_path": ""
+      },
+      {
+        "name": "Jennie Legat",
+        "character": "The First Madame Kozlova",
+        "profile_path": ""
+      },
+      {
+        "name": "John Shearer",
+        "character": "Steam Fair Stall Holder (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Hiten Patel",
+        "character": "Office Executive (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Izl7RXweJAcjIU6KoGI60JERKE.jpg"
+      },
+      {
+        "name": "Jag Patel",
+        "character": "Prisoner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uChgXgHBAFBsy3a9NrCiL0klPMS.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Paul King",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hDixADZQOBP0E3G9ZxC4kuNHO0.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "london, england",
+    "based on novel or book",
+    "sequel",
+    "bear",
+    "train",
+    "based on children's book",
+    "animal",
+    "aging actor",
+    "live action and animation"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "Paddington, now happily settled with the Brown family and a popular member of the local community, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy's 100th birthday, only for the gift to be stolen.",
+    "Paddington is happily settled with the Brown family in Windsor Gardens, where he has become a popular member of the community, spreading joy and marmalade wherever he goes. While searching for the perfect present for his beloved Aunt Lucy's 100th birthday, Paddington spots a unique pop-up book in Mr. Gruber's antique shop, and performs a series of odd jobs to buy it. But the book is stolen, and it's up to Paddington and the Browns to unmask the thief.—STUDIOCANAL",
+    "Having settled with the Brown family in Windsor Gardens, Paddington has become popular in his community, offering people emotional support in various ways. To purchase a unique pop-up book of London in Mr. Gruber's antique shop for Aunt Lucy's 100th birthday, Paddington performs several odd jobs and saves his wages, but the book is stolen. Paddington gives chase, but the culprit escapes, and Paddington is framed and arrested. Although Mr. Gruber and the Browns do not believe that Paddington stole the book, with no evidence that the thief even existed, Paddington is wrongfully convicted and jailed. The thief soon returns home and is revealed to be Phoenix Buchanan, an egotistical actor who lives opposite the Browns.",
+    "Finally settled nicely in the Brown home and boarding house at Windsor Gardens, generous and popular, bear Paddington is delighted with a visit form his aunt and second mother Lucy, and decides to earn her a centennial birthday present. As she admires London, he goes for a unique pop-up book of the City in Mr. Gruber's antique shop. However it's stolen with him set-up, arrested and jailed, ignoring it's the secret key to a fortune in robbed jewelry. In prison, Paddington becomes popular as the incompetent but well-feared trustee cook's assistant, and ultimately is helped to escape. The Browns set out to find the real thief, which is their own gentleman guest Phoenix Buchanan, a suave actor and trickster, who will fight them and Paddington all the way to the treasure.—KGF Vissers"
+  ],
+  "synopsis": "Paddington (Ben Whishaw), having settled with the Brown family with Henry Brown (Hugh Bonneville), Mary Brown (Sally Hawkins), Judy Brown (Madeleine Harris) and Jonathan Brown (Samuel Joslin) in Windsor Gardens, has become popular in his community, offering people emotional support in various ways. In order to purchase a unique pop-up book of London in Samuel Gruber's (Jim Broadbent) antique shop for Aunt Lucy's (Imelda Staunton) 100th birthday (Paddington was an abandoned cub and was rescued by Aunt Lucy, who gave up her dream of going to London to raise Paddington), Paddington performs several odd jobs and saves his wages, but the book is stolen.Paddington watches the burglar enter the shop to steal the book and gives chase, but the culprit escapes, and Paddington is framed and arrested. Although Mr. Gruber and the Browns do not believe that Paddington stole the book, with no evidence that the thief existed, Paddington is wrongfully convicted and jailed. The thief soon returns home, and is revealed to be Phoenix Buchanan (Hugh Grant), an egotistical actor who lives opposite the Browns. Buchanan was interested in the book as he knew it revealed the location of a treasure through its pop-up arts of London.Whilst in prison, Paddington befriends many of the inmates, including the short-tempered chef Nuckles (Brendan Gleeson), who hires Paddington, impressed by his marmalade sandwich recipe. The Browns work to clear Paddington's name, putting up sketches of the thief. Buchanan begins using the pop-up book to locate a series of clues within London's famous landmarks, which he believes will unveil the location of a secret treasure. During their efforts to prove Paddington's innocence, the Browns encounter a fortune teller who informs them that the stolen book leads to the hidden fortune of the original author (who was a famous circus artist showered with precious baubles everywhere she went. The magician of the troupe wanted the treasure and killed the artist. But when he opened her trunk, the treasure was gone and all that was left was the pop-up book). Buchanan is the grandson of the now dead Magician who tried to steal the treasure.With Paddington inside, the prison is a much livelier place, but Paddington struggles to remain positive when the Browns are unable to prove his innocence. Becoming convinced that Buchanan is the culprit, the Browns look for the stolen book inside his house. They find a secret attic where Buchanan's various costumes are stashed, as well as the book itself. Before they can act further, Buchanan returns home and suspects something is wrong. Meanwhile, the Browns have missed a prison visit with Paddington, causing Paddington to believe that the Browns have forgotten all about him.Paddington soon takes part in a prison break alongside several other inmates, including Nuckles, who promises to aid in proving his innocence but promptly abandons the idea in order to leave the country as a free man, inviting Paddington to come with him. Paddington refuses and, whilst roaming the streets and avoiding the police, uses a public telephone to contact the Browns, who assert that Buchanan is the real culprit. In order to catch him, they arrange to meet at Paddington Station, where a train carrying the supposed location of the hidden fortune is due to leave shortly. The train is the circus goods train which carries the organ of the circus artist, who hid the treasure inside the organ. The pop-up book had clues to a sequence of music notes, that would open the organ and reveal the treasure.Paddington reaches the station and makes it onto the train just as it leaves - the Browns begin their pursuit in another steam train at the opposite platform. When caught up, Henry Brown and Mrs. Bird (Julie Walters) board the other train and confront Buchanan, who overwhelms them and makes good his initial escape. Paddington is left stranded in the train's rear carriage which Buchanan severs the coupling for, leaving it to crash into a nearby river. Mary Brown tries to rescue Paddington but struggles to open the locked carriage; she is soon assisted by Nuckles and the other inmates, who have a change of heart and decide to help Paddington as promised. Eventually, Henry knocks out Buchanan just as he tries to access the so-called treasure, and he is promptly taken into custody.Paddington, now declared innocent, becomes very ill after the events, slipping into a short three-day coma yet recovering well once waking up on Aunt Lucy's birthday. With the book taken in as evidence by the police, Paddington is left disappointed that he was unable to get Lucy a present as promised, though soon discovers the Browns, with the help of various other people in the neighborhood, made sure Lucy could come to London and see it for herself. When answering the door to her, Paddington rushes up and hugs her, wishing her a happy birthday.\nMeanwhile, Buchanan is sentenced to ten years in prison. Six months later, he is shown to be putting his history as a performer to further use, hosting shows for the inmates and providing entertainment throughout the building.",
+  "imdb_score": 7.8
+}

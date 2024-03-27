@@ -1,0 +1,466 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/meag1aZB1wffo91pl5KQYTdmg9z.jpg",
+  "id": 521777,
+  "title": "Good Boys",
+  "poster_path": "https://image.tmdb.org/t/p/w500/tximyCXMEnWIIyOy9STkOduUprG.jpg",
+  "release_date": "2019-08-14",
+  "vote_average": 6.857,
+  "vote_count": 1740,
+  "popularity": 26.131,
+  "overview": "A group of young boys on the cusp of becoming teenagers embark on an epic quest to fix their broken drone before their parents get home.",
+  "imdb_id": "tt6977338",
+  "budget": 20000000,
+  "homepage": "https://www.goodboysmovie.com/",
+  "revenue": 111037232,
+  "runtime": 89,
+  "tagline": "You Must Be This Tall to See This Movie",
+  "genres": [
+    "Comedy"
+  ],
+  "production_companies": [
+    "Good Universe",
+    "Point Grey Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jacob Tremblay",
+        "character": "Max",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ngQAfH1GuKhnMSOQNm9zo7aWiqO.jpg"
+      },
+      {
+        "name": "Brady Noon",
+        "character": "Thor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mbgwWA1uVXQ09T7jxs2D333O2JN.jpg"
+      },
+      {
+        "name": "Keith L. Williams",
+        "character": "Lucas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rGNF9ab1a70wbU72x07qBf7C5GO.jpg"
+      },
+      {
+        "name": "Molly Gordon",
+        "character": "Hannah",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9aetjZLHPK1U9k1fI3svTZYytRL.jpg"
+      },
+      {
+        "name": "Midori Francis",
+        "character": "Lily",
+        "profile_path": "https://image.tmdb.org/t/p/w185/we9Z3uiLUi06NxKXYNpcexrYOJx.jpg"
+      },
+      {
+        "name": "Will Forte",
+        "character": "Max's Dad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kphnirb7YggSVEhGI47kACxaIJQ.jpg"
+      },
+      {
+        "name": "Josh Caras",
+        "character": "Benji",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AnxheIDGQs7Yh4imALUrcWkpTmq.jpg"
+      },
+      {
+        "name": "Retta",
+        "character": "Lucas' Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bIo8tjdn48wIPEdcJ0UCqqTzClV.jpg"
+      },
+      {
+        "name": "Lil Rel Howery",
+        "character": "Lucas' Dad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9MDi35Fy6ym7SYbO3B04vf1vBnm.jpg"
+      },
+      {
+        "name": "Millie Davis",
+        "character": "Brixlee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hmrTAVR6CrsmX20AGmVGrGJag8Z.jpg"
+      },
+      {
+        "name": "Enid-Raye Adams",
+        "character": "Thor's Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iUKdPsnYBLfpJj8Ra4uDSqoWXCd.jpg"
+      },
+      {
+        "name": "Michaela Watkins",
+        "character": "Saleswoman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qw8RqZ2fehR0ZlHWwyH9WFjc3Qh.jpg"
+      },
+      {
+        "name": "Sam Richardson",
+        "character": "Officer Sacks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9GonbfsghKD33PZlvAttAhCS8S8.jpg"
+      },
+      {
+        "name": "Chance Hurstfield",
+        "character": "Atticus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mSy5MRQ4pK3UXYLQ6UVkLxbSha0.jpg"
+      },
+      {
+        "name": "Vanessa Przada",
+        "character": "Kissing Party Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9clZePvPTOUCJYwQfxHcsNcmk0g.jpg"
+      },
+      {
+        "name": "Lina Renna",
+        "character": "Annabelle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jdkfBoOjPEdu1KXxthYlBuielMf.jpg"
+      },
+      {
+        "name": "Benita Ha",
+        "character": "Soren's Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/enOVSgQsiu8Vv0LCXLGrwVcL76c.jpg"
+      },
+      {
+        "name": "Maja Aro",
+        "character": "Driving Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nR9XtGl6uDmQgx83zk8lyz1wPdR.jpg"
+      },
+      {
+        "name": "Matt Ellis",
+        "character": "Mr. K",
+        "profile_path": "https://image.tmdb.org/t/p/w185/14ie0HTxcVHnZ1qDqOOBUyzNlgV.jpg"
+      },
+      {
+        "name": "Jaiven Natt",
+        "character": "Kissing Party Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nGFVWwskQWjS2JBIKl1AN0q29j3.jpg"
+      },
+      {
+        "name": "Sean Quan",
+        "character": "Choir Child #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pO3UPRVO3kFdU1UdRh8Xj6TdcW2.jpg"
+      },
+      {
+        "name": "Vicky Lambert",
+        "character": "Shopping Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mfY8t8FcDePNFJsygJbReJohg6i.jpg"
+      },
+      {
+        "name": "Esabella Anna Karena Strickland",
+        "character": "Nora",
+        "profile_path": ""
+      },
+      {
+        "name": "Izaac Wang",
+        "character": "Soren",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bzvi6adMl3zmzC7gWhS4cmO61S4.jpg"
+      },
+      {
+        "name": "Nevis Unipan",
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9pYgHEOpW4uvDo42VzHSr8oRK3d.jpg"
+      },
+      {
+        "name": "Christian Darrel Scott",
+        "character": "Marcus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fxOn5djIXg0KNJxpO8qxlpze5HR.jpg"
+      },
+      {
+        "name": "Jocelyne Gaumond",
+        "character": "Food Court Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Nolen Dubuc",
+        "character": "Theatre Kid #5",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tlDbISWg8X4hvDIFkoXn7NWJmOI.jpg"
+      },
+      {
+        "name": "Aaron Paul Stewart",
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2rDEXAjJj9LTLi337qdpVlqLXKx.jpg"
+      },
+      {
+        "name": "James Hibbard",
+        "character": "Old Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a3HcAZNIbmerj7A8WXiJII4VQTu.jpg"
+      },
+      {
+        "name": "Craig Haas",
+        "character": "Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rtYJACKrX4USa63VE9A4NWr4ArN.jpg"
+      },
+      {
+        "name": "Ian Hawes",
+        "character": "Parent",
+        "profile_path": ""
+      },
+      {
+        "name": "Kane Nelson",
+        "character": "Condiment Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lPipSFywuuBOeB47cIwvVA3f5tS.jpg"
+      },
+      {
+        "name": "Jaron Melanson",
+        "character": "Pot Smoking Frat Bro",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eGBmxkugGVCvcnSEM9mkjxI2UeK.jpg"
+      },
+      {
+        "name": "Cody Davis",
+        "character": "Bullied Scab Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qDGsJVvMM0zBzD7qdxZvNh2i3HA.jpg"
+      },
+      {
+        "name": "Andrew Anderson",
+        "character": "Taxi Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Everett Adams",
+        "character": "Scab Leader",
+        "profile_path": ""
+      },
+      {
+        "name": "Marlee Grace Becker",
+        "character": "French Fry Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonah Peacock",
+        "character": "Theatrical Scab Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Vanessa Young",
+        "character": "Breastfeeding Mom",
+        "profile_path": ""
+      },
+      {
+        "name": "Haven Rockwell O'Sullivan",
+        "character": "Theatre Kid #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Rian McCririck",
+        "character": "Older Boy #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g7fcNbXmPS2upmPcMhlb0x1iRPB.jpg"
+      },
+      {
+        "name": "Zoriah Wong",
+        "character": "Scout",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wpdL0xcaQeFN4BmGfJZHwkkq0fL.jpg"
+      },
+      {
+        "name": "Stephen Merchant",
+        "character": "Claude (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6WM2rK6390Nwk398syJbGcPvRct.jpg"
+      },
+      {
+        "name": "Macie Juiles",
+        "character": "Taylor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1XNbEymreBHJqqQ7OluYC2s9R5p.jpg"
+      },
+      {
+        "name": "Mariessa Portelance",
+        "character": "Max's Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2uQtTbqfVbeqy7EnYAti97wWQaZ.jpg"
+      },
+      {
+        "name": "Alexander Calvert",
+        "character": "Daniel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8T4d7PIOWK90UMQzYXgLHM4zbN5.jpg"
+      },
+      {
+        "name": "Christian Domínguez",
+        "character": "Other Frat Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Cameron Hilts",
+        "character": "Another Frat Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/imiy7xB8bmwgOCTAwJVjD0i0THl.jpg"
+      },
+      {
+        "name": "Kevin Fortin",
+        "character": "Thinning Hair Frat Bro",
+        "profile_path": ""
+      },
+      {
+        "name": "Yusuf A. Ahmed",
+        "character": "Large Frat Brother",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcia Moulton",
+        "character": "Security Guard (Mall)",
+        "profile_path": ""
+      },
+      {
+        "name": "Carla Marie Kelley",
+        "character": "Toddler's Mother (Mall)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jon Layo",
+        "character": "Janitor (Mall)",
+        "profile_path": ""
+      },
+      {
+        "name": "Weston Thomas",
+        "character": "Toddler (Mall)",
+        "profile_path": ""
+      },
+      {
+        "name": "Aydan Topacio",
+        "character": "Scooter Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Keona Nahanee",
+        "character": "Random Kid (Chorus)",
+        "profile_path": ""
+      },
+      {
+        "name": "William 'Big Sleeps' Stewart",
+        "character": "Delivery Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cmF8Zu5Wz86LzxzH9SvjpfRn1ig.jpg"
+      },
+      {
+        "name": "Keoni Rebeiro",
+        "character": "Bully 1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7aI1718Tmf6WTvEyy1CAszykrXs.jpg"
+      },
+      {
+        "name": "Arianna Elizabeth Savady",
+        "character": "Small Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Leo Polanski",
+        "character": "Tall Skinny Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Victoria Hunter",
+        "character": "Theater Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Eva Krishnamurti",
+        "character": "Theater Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew Mintisis",
+        "character": "Theater Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Sophie van Blokland",
+        "character": "Theater Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Augustine",
+        "character": "Cart Pusher (Mall Dancer) / Thor Skeleton",
+        "profile_path": ""
+      },
+      {
+        "name": "Natasha Davidson",
+        "character": "Woman with Stroller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4hrcyiKRWkqvvvyLRYk7WSbCN79.jpg"
+      },
+      {
+        "name": "Zac Siewert",
+        "character": "Max Skeleton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c61jyDw6acKL3bE8jjK3sUwRO3O.jpg"
+      },
+      {
+        "name": "Mark Samuels",
+        "character": "Lucas Skeleton",
+        "profile_path": ""
+      },
+      {
+        "name": "Joanne Pesusich",
+        "character": "ND Skeleton",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniela Dib",
+        "character": "ND Skeleton",
+        "profile_path": ""
+      },
+      {
+        "name": "Taylor Greening",
+        "character": "ND Skeleton",
+        "profile_path": ""
+      },
+      {
+        "name": "Craig Hempsted",
+        "character": "ND Skeleton",
+        "profile_path": ""
+      },
+      {
+        "name": "Charley Pacaud",
+        "character": "ND Skeleton",
+        "profile_path": ""
+      },
+      {
+        "name": "Yuvraj Kalsi",
+        "character": "Crying Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yHu3MhYd2bzwQClLOaIqQkcXwBW.jpg"
+      },
+      {
+        "name": "Marc Joseph",
+        "character": "Carlos",
+        "profile_path": ""
+      },
+      {
+        "name": "Audrey Smallman",
+        "character": "Locker Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pugcTbqFWzxSyX7IuouUPTuweUY.jpg"
+      },
+      {
+        "name": "Paul Becker",
+        "character": "Animatronic Dancer #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tsp0epDXxdYy8Btnw9ZFJvkUz2U.jpg"
+      },
+      {
+        "name": "Leah McKesey",
+        "character": "Animatronic Dancer #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m1WcXF2dW6d2B81So8RUcQuD6rx.jpg"
+      },
+      {
+        "name": "Matteo Christopher Pellizzari",
+        "character": "Henry",
+        "profile_path": ""
+      },
+      {
+        "name": "Lee Eisenberg",
+        "character": "Leigh Eisenberg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qxA2eLl3AmBKfXqeCQy7RDlZSkE.jpg"
+      },
+      {
+        "name": "Tasha Reign",
+        "character": "Stepmom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z42wSf3Oxfz52FVg13TomVja21i.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Gene Stupnitsky",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xAgtuSwjc8t7K4Z7AquN6a0wD0G.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "drone",
+    "best friend",
+    "first kiss",
+    "sex toy",
+    "tween",
+    "child protagonist",
+    "spin the bottle"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Three 6th-grade boys ditch school and embark on an epic journey while carrying accidentally stolen drugs, being hunted by teenage girls, and trying to make their way home in time for a long-awaited party.",
+    "Invited to his first kissing party, 12-year-old Max asks his best friends Lucas and Thor for some much-needed help on how to pucker up. When they hit a dead end, Max decides to use his father's drone to spy on the teenage girls next door. When the boys lose the drone, they skip school and hatch a plan to retrieve it before Max's dad can figure out what happened.—krmanirethnam",
+    "HD. Three 12-year-old boys endure epic misadventures as they prepare for their first \"kissing\" party in this comedy."
+  ],
+  "synopsis": "Friends Max (Jacob Tremblay), Lucas (Keith L. Williams), and Thor (Brady Noon) (The Beanbag Boys) enter sixth grade facing their own personal dilemmas: Max has a crush on classmate Brixlee (Millie Davis), Lucas learns his parents are getting divorced, and teasing from his peers discourages Thor from pursuing his love of singing. Soren is a popular student at school who continually baits Thor and makes fun of him for his \"feminine\" tastes such as singing. Thor does not have the courage to stand up to Soren and keeps suppressing his passions.When presented with the opportunity to kiss Brixlee at a party hosted by popular student Soren (Izaac Wang), Max and his friends use his father's valued drone to spy on his teenage neighbor Hannah (Molly Gordon) in an attempt to learn proper kissing. The plan goes awry and results in the drone being destroyed and Max, Lucas, and Thor in possession of Hannah's sex-ecstasy drug (which they stole from her house, when they went to beg for their drone back and Hannah chased them out).To avoid getting grounded, the three boys skip school to buy a new drone at the local mall, with Hannah and her friend Lily (Midori Francis) in pursuit. But they don't have any money, and thus plan to sell Lucas's baseball card which is worth almost $600. They still haven't managed to get rid of the drugs.At the last-minute Lucas gets cold feet and doesn't want to sell his card. So they end up selling Thor's dad's sex doll instead for the roughly the same amount of money. On the way to the mall, the boys stop at a convenience store where a cop also walks in. Lucas panics and hands over the drugs to the cop, who mistakes it for vitamins.Amid a series of escapades, Max, Lucas, and Thor reach the mall, but learn that Hannah and Lily bought the drone and will only give it to the boys in exchange for their ecstasy. Having surrendered the drugs to a police officer, the boys manage to obtain new ecstasy from Hannah's ex-boyfriend, Benji (Josh Caras), and trade it for the drone. Nevertheless, Max is unable to prevent his father from finding out that he used the drone and is grounded.An argument ensues between the friends and the three go their separate ways, although Max takes the blame for what transpired to prevent Lucas and Thor from getting in trouble. When Lucas speaks to his parents about the potential end of his friendships, they advise him that he, Max, and Thor are growing apart.\nThat night, Lucas convinces Max to sneak out to attend the party, tricking Max and Thor into meeting up again in the process. Max successfully kisses Brixlee while Lucas and Thor re-encounter Hannah and Lily, the latter revealed as Soren's sister, who encourage Thor to continue his passion for singing.In the ensuing weeks, Thor lands the role of Stacee Jaxx in the school's amateur production of Rock of Ages, Lucas joins the anti-bullying group at the school, and after his relationships with Brixlee and then her friend Taylor (Macie Juiles) end in heartbreak, Max begins dating his classmate Scout (Zoriah Wong). Following a performance of the school musical, Max, Lucas, and Thor reconcile and promise to remain in each other's lives.",
+  "imdb_score": 6.7
+}

@@ -1,0 +1,361 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/rXrpYOveFl76ivMmyb2612T7Q8w.jpg",
+  "id": 64688,
+  "title": "21 Jump Street",
+  "poster_path": "https://image.tmdb.org/t/p/w500/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg",
+  "release_date": "2012-03-14",
+  "vote_average": 6.88,
+  "vote_count": 9850,
+  "popularity": 33.674,
+  "overview": "In high school, Schmidt was a dork and Jenko was the popular jock. After graduation, both of them joined the police force and ended up as partners riding bicycles in the city park. Since they are young and look like high school students, they are assigned to an undercover unit to infiltrate a drug ring that is supplying high school students synthetic drugs.",
+  "imdb_id": "tt1232829",
+  "budget": 42000000,
+  "homepage": "http://www.21jumpstreet-movie.com/",
+  "revenue": 201600000,
+  "runtime": 109,
+  "tagline": "The only thing getting blown tonight is their cover.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "production_companies": [
+    "Columbia Pictures",
+    "Relativity Media",
+    "Original Film",
+    "Metro-Goldwyn-Mayer",
+    "Stephen J. Cannell Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jonah Hill",
+        "character": "Officer Morton Schmidt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+      },
+      {
+        "name": "Channing Tatum",
+        "character": "Officer Greg Jenko",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xdnstENLdWMPWt9qyhtf695L4t6.jpg"
+      },
+      {
+        "name": "Brie Larson",
+        "character": "Molly Tracey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8MvIsqatZIXyepKgqyjsOKgsPaI.jpg"
+      },
+      {
+        "name": "Dave Franco",
+        "character": "Eric Molson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j48eRArsXapbfXZfw9Fik7PlJSo.jpg"
+      },
+      {
+        "name": "Rob Riggle",
+        "character": "Mr. Walters",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hQgOp8vWxl6KPZbqzKSSL4k6G1j.jpg"
+      },
+      {
+        "name": "DeRay Davis",
+        "character": "Domingo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pLhmjba0zny3uzTK3ImRwssG25e.jpg"
+      },
+      {
+        "name": "Ice Cube",
+        "character": "Captain Dickson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ymR7Yll7HjL6i6Z3pt435hYi91T.jpg"
+      },
+      {
+        "name": "Dax Flame",
+        "character": "Zack",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zbGGWLa02rIPSnFL9V5A6PFhpBz.jpg"
+      },
+      {
+        "name": "Chris Parnell",
+        "character": "Mr. Gordon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8K1s949E2dwBnj9NlMX0m640HQp.jpg"
+      },
+      {
+        "name": "Ellie Kemper",
+        "character": "Ms. Griggs",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2PmzhjJTr8zme7VuTIE1Nc1n5YL.jpg"
+      },
+      {
+        "name": "Jake Johnson",
+        "character": "Principal Dadier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cRguohxju2P3dyfNSsIJjCkpOiV.jpg"
+      },
+      {
+        "name": "Nick Offerman",
+        "character": "Deputy Chief Hardy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tDzCAAJinH4Xt3lSKsajfiTyRK9.jpg"
+      },
+      {
+        "name": "Holly Robinson Peete",
+        "character": "Officer Judy Hoffs",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kIIPNgWLBb5jXLceEeKM3wwhJzL.jpg"
+      },
+      {
+        "name": "Johnny Pemberton",
+        "character": "Delroy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qP7y28lDW5wzUAUQ2sx6741Hx7a.jpg"
+      },
+      {
+        "name": "Stanley Wong",
+        "character": "Roman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tj1dCfIUQMJrgs08PYNjW40LHtM.jpg"
+      },
+      {
+        "name": "Justin Hires",
+        "character": "Juario",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oXSmmnpAMFpylDXGpVtX1xrThXo.jpg"
+      },
+      {
+        "name": "Brett Lapeyrouse",
+        "character": "Amir",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nfSFjxv4c1KvCtvHECLwrOwAAmV.jpg"
+      },
+      {
+        "name": "Lindsey Broad",
+        "character": "Lisa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lmpDz3cy5Gejs4aD8j46PZrSRU.jpg"
+      },
+      {
+        "name": "Caroline Aaron",
+        "character": "Annie Schmidt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7nnic1Dao3XoScrwX7Ac39N2BC1.jpg"
+      },
+      {
+        "name": "Joe Chrest",
+        "character": "David Schmidt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7mcsJGnqRoVPTtxAUZEKt2dZnlw.jpg"
+      },
+      {
+        "name": "Geraldine Singer",
+        "character": "Phyllis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qqm2mlRUx7tHdc6DumugSscDALN.jpg"
+      },
+      {
+        "name": "Dakota Johnson",
+        "character": "Fugazy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8eJeDm5ILi5W25X2uatVRtWMDg2.jpg"
+      },
+      {
+        "name": "Rye Rye",
+        "character": "Jr. Jr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x9BAdUwSITw8oeZSIVVEhLTEGmR.jpg"
+      },
+      {
+        "name": "Valerie Tian",
+        "character": "Burns",
+        "profile_path": "https://image.tmdb.org/t/p/w185/znUa1enmheF0mvHPIw8upy54ay.jpg"
+      },
+      {
+        "name": "Jaren Mitchell",
+        "character": "Sanders",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9fTB5oM1BmsuzH1qT17EHkt0Gq1.jpg"
+      },
+      {
+        "name": "Johnny Simmons",
+        "character": "Billiam Willingham",
+        "profile_path": "https://image.tmdb.org/t/p/w185/51LZiAAI3ZW4vabNOQnd3weYgUm.jpg"
+      },
+      {
+        "name": "Keith Kurtz",
+        "character": "DJ Ay Papi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mqn8NnCFZQhD2wEsGUkKbuPIH8U.jpg"
+      },
+      {
+        "name": "Randal Reeder",
+        "character": "Karl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eJfW7w36Vl8dEnN9T2dnlkUReWG.jpg"
+      },
+      {
+        "name": "Peter Epstein",
+        "character": "One-Percenter #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qXKeOljIVFhHTqMcqWc3YG5UC8e.jpg"
+      },
+      {
+        "name": "Anthony Molinari",
+        "character": "One-Percenter #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Gl1b5Y7QLrdv5vvOwAmJk29joM.jpg"
+      },
+      {
+        "name": "Luis Da Silva Jr.",
+        "character": "One-Percenter #3 - Luis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ajavEvDuNcinuw3BJ80OE0sEU5Q.jpg"
+      },
+      {
+        "name": "Dominic 'Taz' Alexander",
+        "character": "One-Percenter #4 - Lukas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j1Fw04r7dls1qPSOn63u3jtugnn.jpg"
+      },
+      {
+        "name": "Mike Seal",
+        "character": "One-Percenter #5 - Ed",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qUja8e2k4XMWWV3k4ocMCZb4HBl.jpg"
+      },
+      {
+        "name": "Spencer Boldman",
+        "character": "French Samuels",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8aA3AyEfoYas2vEQZbBM8T3be3o.jpg"
+      },
+      {
+        "name": "Joe Nin Williams",
+        "character": "Scott",
+        "profile_path": ""
+      },
+      {
+        "name": "Chad Hessler",
+        "character": "Crazy",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Michael Murphy",
+        "character": "Crazy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dut3N6WGAh9FfvQDgDCm9MgIVGH.jpg"
+      },
+      {
+        "name": "Victor Paguia",
+        "character": "Crazy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iH5qVLIutopRQccncbVIlVeXEBf.jpg"
+      },
+      {
+        "name": "Chanel Celaya",
+        "character": "Melodie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4UYO3JKkjILxC9IN71qmPi33mj8.jpg"
+      },
+      {
+        "name": "Carol Sutton",
+        "character": "Hamilton Principal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5kQkv64ubSeFbs2i831mvnh3o2Q.jpg"
+      },
+      {
+        "name": "Andrea Frankle",
+        "character": "Cinnamon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k1xBQPnsPZNe6lX4Y8lZOVZGJZ8.jpg"
+      },
+      {
+        "name": "Tiffney Wagoner",
+        "character": "Prostitute",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrea Madison",
+        "character": "Prostitute",
+        "profile_path": ""
+      },
+      {
+        "name": "Hristo Birbochukov",
+        "character": "Accompanist",
+        "profile_path": ""
+      },
+      {
+        "name": "Candi Brooks",
+        "character": "VW Bug Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z3Gg3PBAJx7S55le64rPKrHxInB.jpg"
+      },
+      {
+        "name": "Turner Crumbley",
+        "character": "EMT",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dzu0XavUi4QxAO1ls6Sh4DuOtfZ.jpg"
+      },
+      {
+        "name": "Haley Farris",
+        "character": "Eric's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Brittney Alger",
+        "character": "Eric's Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nNNefo1kSi0aohaw4OOnVxWSP6V.jpg"
+      },
+      {
+        "name": "Joshua Nelms",
+        "character": "Naked Drama Threesome",
+        "profile_path": ""
+      },
+      {
+        "name": "Courtney Jarrell",
+        "character": "Naked Drama Threesome",
+        "profile_path": ""
+      },
+      {
+        "name": "Melissa Cordero",
+        "character": "Naked Drama Threesome",
+        "profile_path": ""
+      },
+      {
+        "name": "Beau DeLatte",
+        "character": "Adorable Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Ferrara",
+        "character": "Janitor",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Adams",
+        "character": "Police Chief",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian H. Rossitto",
+        "character": "Instructor",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter DeLuise",
+        "character": "Officer Doug Penhall (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sLkSOm6HBLB4VCfshQLdSEq63tr.jpg"
+      },
+      {
+        "name": "Johnny Depp",
+        "character": "Officer Tom Hanson (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wcI594cwM4ArPwvRd2IU0Z0yLuh.jpg"
+      },
+      {
+        "name": "D.J. Mills",
+        "character": "Scared Kid in Park (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Phil Lord",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yGLAUCnWwB0cQM0Ivb5FKzv3tr4.jpg"
+      },
+      {
+        "name": "Christopher Miller",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "drug dealer",
+    "high school",
+    "investigation",
+    "male friendship",
+    "parody",
+    "crude humor",
+    "undercover cop",
+    "buddy cop",
+    "buddy comedy",
+    "duringcreditsstinger",
+    "based on tv series"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A pair of underachieving cops are sent back to a local high school to blend in and bring down a synthetic drug ring.",
+    "In 2005, Schmidt and Jenko are high school students, one an honor roll geek, the other a cool, athletic underachiever. By 2012, they are rookie cops, paired together, on bike patrol yearning to make arrests. After a screw up, they're sent undercover back to high school to find the source of a dangerous synthetic drug. They mix up their names, and Schmidt gets the no-brainer classes where he auditions for Peter Pan and falls in love with Wendy; Jenko gets AP classes where he falls in with high-achieving dweebs. This second chance at high school gives Schmidt delusions of grandeur, which threaten the operation. Can they sort out their relationship as they stumble onto the bad guys?—<jhailey@hotmail.com>",
+    "In 2005, Morton Schmidt and Greg Jenko were polar opposites in high school. Schmidt did well in school, but his geekish personality made it hard to him to gain acceptance among his peers. Jenko was a jock with plenty of friends but had poor grades. Seven years later, the duo join the police force and they become friends. The duo finally catch a break when they are assigned to go undercover as high school students and halt the spread of a synthetic drug that many students are getting their hands on and catch the supplier. After their identities are inadvertently mixed up, Schmidt finds himself among the popular kids, including the school's main drug dealer, while Jenko finds himself ostracized and frowned upon by most of the students. Schmidt's attempts to make something of himself leads to a rift with Jenko and threatens to derail the entire operation. Can they get their act together before the synthetic drug spirals out of control?—Sam"
+  ],
+  "synopsis": "Morton Schmidt (Jonah Hill) and Greg Jenko (Channing Tatum) are former classmates who meet again at police academy. Schmidt was a nerd while Jenko was a jock. They end up becoming friends at the academy as they help with each others' weaknesses with Schmidt helping Jenko study and Jenko motivating Schmidt through physical activity. They graduate together as partners, but are assigned to park patrol. They catch a break when they spot a group of drug dealers and arrest their leader Domingo (DeRay Davis). However, the department is forced to release him as Jenko forgot to read the Miranda rights. The two are reassigned to a revived specialty division on 21 Jump Street.They are introduced to Captain Dickson (Ice Cube), who explains the division specializes in infiltrating high schools and that they were chosen because of their youthful appearances. Schmidt and Jenko are assigned to go back to their old high school to stop a new synthetic drug from spreading to other campuses by finding the supplier. They go undercover as brothers, living at Schmidt's parents' house, and see that their high school has changed. Jenko accidentally switches their identities and they get each others' classes. They learn the lead dealer of the drug is the popular Eric (Dave Franco), but he is not the supplier.They go to the dealing room where Eric forces them to take the drug right there and not wait. They attempt to throw it up but are unsuccessful, and they undergo the phases of the drug while talking to their P.E. teacher, Mr. Walters (Rob Riggle), and also while running track and during band practice. The mistakes that happen at the track meet causes Eric to take a liking to Schmidt.Schmidt manages to fit in with the popular kids and takes a romantic interest in Eric's friend Molly (Brie Larson), while Jenko becomes friends with the nerds in his AP Chemistry class while his teacher Ms. Griggs (Ellie Kemper) takes a sexual interest in him. Jenko discovers that his new friends secretly tap into other people's cell phones to listen into their conversations. Schmidt decides to throw a party at his house to gain Eric's complete trust and Jenko takes the opportunity to tap into Eric's phone. Despite Captain Dickson ordering them not to serve alcohol and drugs to minors, they nevertheless buy alcohol and steal confiscated marijuana. When Eric arrives with Molly and his other friends, Jenko steals Eric's phone for his friends to tap into while Schmidt fights off a rival of Eric's and earns Eric's trust.Schmidt now pretends to sell the drug for Eric but is actually giving it to Captain Dickson to be confiscated. While at Eric's house, Schmidt asks Molly out to prom while Jenko listens through Eric's phone. He also insults Jenko to Eric with Jenko listening. Schmidt and Jenko learn that Eric is making a deal soon. When Jenko spots Eric leaving school, he takes Schmidt to follow him. They see that Eric is dealing with Domingo and his gang and they follow them, but are forced to run away when Domingo spots them. Back at school, Jenko accuses Schmidt of his earlier insults, possibly ruining the case, and getting in too deep, but Schmidt brushes him off. Jenko and Schmidt get into a fight that results in them getting expelled and fired from Jump Street.Later that night, both are confronted by Eric and his friends, who want to bring them on as security after hearing about what happened with Domingo. He tells them about a deal with Domingo happening during prom where they get to meet the supplier. At prom, they are surprised to see that the supplier is Mr. Walters. When Domingo and his gang arrive, he recognizes Schmidt and Jenko as police officers, and tells two of his men to kill them. However, the two men reveal themselves as DEA Agents Tom Hanson (Johnny Depp) and Doug Penhall (Peter DeLuise), who were a part of the Jump Street program when it began. Hanson casually talks to Schmidt and Jenko during the standoff which gives Domingo the opportunity to kill him and Penhall. A gunfight ensues between Schmidt and Jenko, Mr. Walters, and Domingo and his crew. Mr. Walters and Eric escape in a limo with Molly as a hostage, with Domingo and his crew in pursuit of them in another limo. Schmidt and Jenko pursue all of them in another limo where Jenko creates a homemade chemical bomb from his knowledge in AP Chemistry to kill Domingo and his crew. They then confront Mr. Walters, who shoots at Schmidt. Jenko jumps in front of Schmidt, saving his life and getting shot in the arm in the process. In response Schmidt shoots Mr. Walters in the groin, severing his penis. The duo successfully arrest him and Eric and make amends with each other. Schmidt makes amends with Molly and the two share a kiss. They are rehired into Jump Street where Dickson gives them a new assignment in a college setting, to Schmidt's excitement but to Jenko's dismay.",
+  "imdb_score": 7.2
+}

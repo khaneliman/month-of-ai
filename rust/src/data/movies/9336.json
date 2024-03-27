@@ -1,0 +1,341 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/sPzjFWvrcabcn1SoAZJm2WuCcBD.jpg",
+  "id": 9336,
+  "title": "Police Academy",
+  "poster_path": "https://image.tmdb.org/t/p/w500/m5a1U549gokC1kxsqgQoRb6XpFg.jpg",
+  "release_date": "1984-03-22",
+  "vote_average": 6.67,
+  "vote_count": 2489,
+  "popularity": 36.071,
+  "overview": "New rules enforced by the Lady Mayoress mean that sex, weight, height and intelligence need no longer be a factor for joining the Police Force. This opens the floodgates for all and sundry to enter the Police Academy, much to the chagrin of the instructors. Not everyone is there through choice, though. Social misfit Mahoney has been forced to sign up as the only alternative to a jail sentence and it doesn't take long before he falls foul of the boorish Lieutenant Harris. But before long, Mahoney realises that he is enjoying being a police cadet and decides he wants to stay... while Harris decides he wants Mahoney out!",
+  "imdb_id": "tt0087928",
+  "budget": 4500000,
+  "homepage": "https://www.warnerbros.com/movies/police-academy/",
+  "revenue": 81198894,
+  "runtime": 97,
+  "tagline": "Call them slobs. Call them jerks. Call them gross. Just don't call them when you're in trouble.",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "production_companies": [
+    "The Ladd Company",
+    "Warner Bros. Pictures",
+    "Warner Bros."
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Steve Guttenberg",
+        "character": "Carey Mahoney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ghTMepliFNcRQHNELs8pgNDsZyW.jpg"
+      },
+      {
+        "name": "Kim Cattrall",
+        "character": "Karen Thompson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jDqSho6MUPdlaBfS56FVNSbPyIS.jpg"
+      },
+      {
+        "name": "G.W. Bailey",
+        "character": "Lt. Harris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/doZuJwI446yhQ28PHT9vyM6pa0f.jpg"
+      },
+      {
+        "name": "Bubba Smith",
+        "character": "Moses Hightower",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ew7CpCLyD4FP1zqgtxUV8jDg8cX.jpg"
+      },
+      {
+        "name": "Donovan Scott",
+        "character": "Leslie Barbara",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zs0rbBBujZATXeEV3E7RMrXQ2W2.jpg"
+      },
+      {
+        "name": "George Gaynes",
+        "character": "Commandant Lassard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6NrhrTrjwpR55wffPDdCz7lNNHA.jpg"
+      },
+      {
+        "name": "Andrew Rubin",
+        "character": "George Martin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4EYUROAV5IeCKuVXIDo48AjzVfp.jpg"
+      },
+      {
+        "name": "David Graf",
+        "character": "Tackleberry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oAVx2Ea0qrND2wn78m2wQtGGlz1.jpg"
+      },
+      {
+        "name": "Leslie Easterbrook",
+        "character": "Sgt. Callahan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cgivmDAMFWTMGKGr12Z0HjEcBgN.jpg"
+      },
+      {
+        "name": "Debralee Scott",
+        "character": "Mrs. Fackler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lGXgX3naJRqtlqf0ho4Te8nt5GX.jpg"
+      },
+      {
+        "name": "Michael Winslow",
+        "character": "Larvelle Jones",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uSRS2MOI1fNFAdvUgrhatBvfsvv.jpg"
+      },
+      {
+        "name": "Bruce Mahler",
+        "character": "Doug Fackler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/abOhMKaG271Uhc2HxsHX0EJ4url.jpg"
+      },
+      {
+        "name": "Ted Ross",
+        "character": "Captain Reed",
+        "profile_path": "https://image.tmdb.org/t/p/w185/70Hao5vB24h9u6UBUftySe2krr3.jpg"
+      },
+      {
+        "name": "Scott Thomson",
+        "character": "Chad Copeland",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AaK5GQEqwcDKHyXnHnCla7PqVUu.jpg"
+      },
+      {
+        "name": "Brant von Hoffman",
+        "character": "Kyle Blankes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ijMKZOXtDZqEHdQ7oe1QNuZdw74.jpg"
+      },
+      {
+        "name": "Marion Ramsey",
+        "character": "Laverne Hooks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xd5omaBzCiDeAc91MOfFD9ane6a.jpg"
+      },
+      {
+        "name": "Georgina Spelvin",
+        "character": "Hooker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gQYpAg4ZyOL6IQq5tV8BKBYFY0Z.jpg"
+      },
+      {
+        "name": "Doug Lennox",
+        "character": "Main Bad Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9IisKPlvqzlHKAzXhEYl87DKsUg.jpg"
+      },
+      {
+        "name": "George R. Robertson",
+        "character": "Chief Hurnst",
+        "profile_path": "https://image.tmdb.org/t/p/w185/by72qET7xsXONeJpuFkPCi4RBbg.jpg"
+      },
+      {
+        "name": "Don Lake",
+        "character": "Mr. Wig",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8t5ulnlUc0V2eE4rQuP1wiEbsOA.jpg"
+      },
+      {
+        "name": "Bill Lynn",
+        "character": "Parking Lot Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael J. Reynolds",
+        "character": "Office Executive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4fjOXTU96Hlv2gHNqlXt19SJaPW.jpg"
+      },
+      {
+        "name": "Joyce Gordon",
+        "character": "Mrs. Thompson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kJ5hlJdTluchiacv4W4YlRhTRJl.jpg"
+      },
+      {
+        "name": "Don Payne",
+        "character": "Barber",
+        "profile_path": ""
+      },
+      {
+        "name": "Bruce McFee",
+        "character": "Supply Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/va55ufZr5josTVkyqLpKldqqisx.jpg"
+      },
+      {
+        "name": "Beth Amos",
+        "character": "Little Old Lady",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rcfzF2AtoXJHLNPhadrQhtz5U5N.jpg"
+      },
+      {
+        "name": "Araby Lockhart",
+        "character": "Mrs. Lassard",
+        "profile_path": ""
+      },
+      {
+        "name": "Barry Greene",
+        "character": "Cadet with Hat",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iHArLYhgMTIQjr510zGUZ7t7RMe.jpg"
+      },
+      {
+        "name": "Gary Farmer",
+        "character": "Sidewalk Store Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jGzbxhmJUZBLk3MblowFm6iI1m2.jpg"
+      },
+      {
+        "name": "Josef Field",
+        "character": "Blue Oyster Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Gary Colwell",
+        "character": "Blue Oyster Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "James Bearden",
+        "character": "Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Fred Brigham",
+        "character": "Street Punk",
+        "profile_path": ""
+      },
+      {
+        "name": "Marco Bianco",
+        "character": "Tough",
+        "profile_path": ""
+      },
+      {
+        "name": "Ted Hanlan",
+        "character": "Tough",
+        "profile_path": ""
+      },
+      {
+        "name": "F. Braun McAsh",
+        "character": "Tough",
+        "profile_path": ""
+      },
+      {
+        "name": "Rob Watson",
+        "character": "Tough",
+        "profile_path": ""
+      },
+      {
+        "name": "Roger Dunn",
+        "character": "Booking Sergeant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7MG0DYaOab0J97fsCiRdgfdSjml.jpg"
+      },
+      {
+        "name": "Vladimir Bondarenko",
+        "character": "Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "J. Winston Carroll",
+        "character": "Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "David Clement",
+        "character": "Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "George E. Zeeman",
+        "character": "Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Gino Marrocco",
+        "character": "Arresting Cop",
+        "profile_path": ""
+      },
+      {
+        "name": "Gene Mack",
+        "character": "Street Thug",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob Collins",
+        "character": "Drill Instructor",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Pawlick",
+        "character": "Pool Hall Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Ruth Sisberg",
+        "character": "Mayor",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Cox",
+        "character": "Bar Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Lima",
+        "character": "Bar Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ifKE3UfICjXfrp29TzZNJrcYE3p.jpg"
+      },
+      {
+        "name": "Dwayne McLean",
+        "character": "Bar Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1AQo4FocbPcQOGTiylpKWKX14fM.jpg"
+      },
+      {
+        "name": "Brent Meyer",
+        "character": "Bar Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Carole Alderson",
+        "character": "Martin's Lady",
+        "profile_path": ""
+      },
+      {
+        "name": "Suzanne Barker",
+        "character": "Martin's Lady",
+        "profile_path": "https://image.tmdb.org/t/p/w185/isnp4pBuyJiBJlMbS4uE2ofplkd.jpg"
+      },
+      {
+        "name": "Kimberley Boorman",
+        "character": "Martin's Lady",
+        "profile_path": ""
+      },
+      {
+        "name": "Jayne Broughton",
+        "character": "Martin's Lady",
+        "profile_path": ""
+      },
+      {
+        "name": "Julie McLeod",
+        "character": "Martin's Lady",
+        "profile_path": ""
+      },
+      {
+        "name": "Karen Robyn",
+        "character": "Martin's Lady",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Hugh Wilson",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/idUMCua7uieGl6oQoPsZgrndvCN.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "trainer",
+    "recruit",
+    "shenanigan",
+    "police academy"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A group of good-hearted, but incompetent misfits enter the police academy, but the instructors there are not going to put up with their pranks.",
+    "In desperate need of a fresh batch of police officers, the newly appointed Lady Mayoress of a crime-plagued metropolis lowers the bar for the recruitment process. As a result, all types of misfits start flocking into Commandant Eric Lassard's prestigious Police Academy, and the leader of this assortment of pariahs is Carey Mahoney: a light-hearted, devil-may-care young rebel. But now, there is no turning back, and to make matters worse, the autocratic martinet, Lieutenant Harris, can't wait to see them quit. Then, a full-scale riot breaks out, and the inexperienced but dauntless cadets will have to put their training to good use. Do they have what it takes to be law-enforcement officers?—Nick Riganas",
+    "The newly elected mayor Mary Sue Beal changes the hiring practices of an unnamed city's police, ending age-old discriminatory policies. Hundreds of people apply for training in the Metropolitan Police Academy, many of which would be considered unfit by previous standards. The Academy is no longer able to reject them. The police chief Hurnst is a reactionary who would prefer all officers to have \"the right color\" (white) and right gender (male). He instructs commandant Eric Lassard and lieutenant Thaddeus Harris to pressure \"undesirable\" cadets into quitting their training. Lassard is reluctant, but Harris is enthusiastic about the plan. Harris convinces cadets Chad Copeland and Kyle Blankes to make life miserable for their fellow cadets until the plan succeeds. Some misfit cadets have to shape up to stay in the Academy. The entire graduating class gets their baptism of fire when called to face angry rioters.—Dimos I",
+    "New rules enforced by the Lady Mayoress mean that sex, weight, height and intelligence need no longer be a factor for joining the Police Force. This opens the floodgates for all and sundry to enter the Police Academy, much to the chagrin of the instructors. Not everyone is there through choice, though. Social misfit Mahoney has been forced to sign up as the only alternative to a jail sentence and it doesn't take long before he falls foul of the boorish Lieutenant Harris. But before long, Mahoney realises that he is enjoying being a police cadet and decides he wants to stay... while Harris decides he wants Mahoney out!—Rhino <rhino@blueyonder.co.uk>"
+  ],
+  "synopsis": "A newly-elected female mayor (referred to as the \"lady mayor\" by her opponents) of an unnamed city has announced a policy requiring the police department to accept all willing recruits, effectively abolishing fitness requirements, educational levels, and medical standards, although not everyone in the police force is happy about the new changes.Carey Mahoney (Steve Guttenburg) is an easy going man who has repeatedly gotten himself in trouble with the law when standing up to arrogance. Mahoney is forced to join the police academy as an alternative to jail; a proposal by Captain Reed who has been lenient on Mahoney due to knowing his late father, who was also a policeman. Mahoney reluctantly agrees to this and decides that he will get himself thrown out as a loophole. However, the chief of police, Commandant Lassard outraged by the mayor's lowered requirements, decides that the new cadets should be forced to quit rather than being thrown out. Lieutenant Thaddeus Harris (G.W. Bailey) the arrogant and thick-headed officer who trains the cadets, agrees with the plan and employs tactics to make their lives as miserable as possible so that they do in fact quit. Mahoney tries many schemes to get thrown out as he cannot quit, as part of the deal made with Captain Reed said if he quit, he was going to be sent to jail. But toward the middle of the film he decides to stay for good having fallen in love with fellow recruit Karen Thompson (Kim Cattrall).While in the academy, Mahoney becomes friends with a group of misfit fellow cadets; the sound-mimicking wizard Larvell Jones (Michael Winslow); the gun-obsessed Eugene Tackleberry (David Graf), and especially Moses Hightower (Bubba Smith), a giant of a man (who is actually quite shy and keeps away from violence by and large), after helping him prepare for the critical driving test. After passing, Hightower is very thankful to Mahoney. Unfortunately, the quit policy does not apply to Hightower, who gets himself kicked out of the academy because of an incident. After his friend and fellow cadet Laverne Hooks has been racially insulted, an angered Hightower lifts and turns over a police car with the hated bullying cadet Copeland inside.Shortly after this, Mahoney gets involved in a lunchroom brawl caused by Copeland and Blankes, and takes the blame for throwing the first punch, which finally gives Lt. Harris the green light to expel his most despised cadet. Before Mahoney actually leaves the premises, however, a major riot breaks out downtown. The resulting police emergency forces the cadets into real action for the first time. During the riot, a tough outlaw manages to steal two cadet revolvers (one from Copeland and the other from Cadet Blankes). The outlaw grabs and disarms Lt. Harris by surprise, taking the officer to the roof of a nearby building as a hostage. Mahoney, despite his past troubles with Harris, dodges gunfire and climbs to the roof in a rescue attempt. This attempt fails and Mahoney is taken as a second hostage. Just as both hostages are about to be killed, it is none other than Hightower who suddenly appears on the rooftop in civilian clothes. The former cadet, who went back to his old job at a nearby florist just minutes earlier and left his shop due to the riot, manages to fool the hostage taker that he is a fellow crook. When asking whom the hostage-taker should shoot first, Hightower points at Harris, before knocking the hostage-taker out with a massive punch, thus rescuing Mahoney and Harris just in time.Mahoney and Hightower both graduate from the academy along with the other passing cadets, and both receive the academy's highest commendation ever bestowed upon a cadet for their rescue of Lt. Harris and capture of his kidnapper. Towards the end Mahoney suddenly stammers as he sees a prostitute concealed inside the podium, and suddenly realizes Commandant Lassard has taken subtle revenge for one of Mahoney's earlier pranks in an attempt to get himself kicked out.",
+  "imdb_score": 6.7
+}

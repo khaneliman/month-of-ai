@@ -1,0 +1,367 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/P4bGyJQF0shAcRku3I2perNUQR.jpg",
+  "id": 23483,
+  "title": "Kick-Ass",
+  "poster_path": "https://image.tmdb.org/t/p/w500/8citjdBmjddZjlPsAHEyCKwGVvD.jpg",
+  "release_date": "2010-03-22",
+  "vote_average": 7.121,
+  "vote_count": 11185,
+  "popularity": 29.504,
+  "overview": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+  "imdb_id": "tt1250777",
+  "budget": 28000000,
+  "homepage": "",
+  "revenue": 96188903,
+  "runtime": 117,
+  "tagline": "Shut up. Kick-Ass.",
+  "genres": [
+    "Action",
+    "Crime"
+  ],
+  "production_companies": [
+    "Marv",
+    "Lionsgate",
+    "Plan B Entertainment",
+    "Mandate International"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Aaron Taylor-Johnson",
+        "character": "Dave Lizewski / Kick-Ass",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vJDTkV3pWU7CKqzQTp01ui7SlWO.jpg"
+      },
+      {
+        "name": "Chloë Grace Moretz",
+        "character": "Mindy Macready / Hit-Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cfI3GcUFyzAmNINzwO7bdxIIf1H.jpg"
+      },
+      {
+        "name": "Nicolas Cage",
+        "character": "Damon Macready / Big Daddy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ar33qcWbEgREn07ZpXv5Pbj8hbM.jpg"
+      },
+      {
+        "name": "Lyndsy Fonseca",
+        "character": "Katie Deauxma",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nFgo7oEqvwubxejBfNQwHv8Tp3x.jpg"
+      },
+      {
+        "name": "Mark Strong",
+        "character": "Frank D'Amico",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
+      },
+      {
+        "name": "Deborah Twiss",
+        "character": "Mrs. Zane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gg4xoBRej4WcgN5bm4UUPy5g01c.jpg"
+      },
+      {
+        "name": "Christopher Mintz-Plasse",
+        "character": "Chris D'Amico / Red Mist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wIbheZW3KOUiP4oLzhoP5a6hFTu.jpg"
+      },
+      {
+        "name": "Elizabeth McGovern",
+        "character": "Mrs. Lizewski",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ihYdCKyr3JPz74tPuvkn1WSNh9b.jpg"
+      },
+      {
+        "name": "Omari Hardwick",
+        "character": "Marcus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/acUogRPe6eyhiK33EavBk3SWGlB.jpg"
+      },
+      {
+        "name": "Xander Berkeley",
+        "character": "Detective Vic Gigante",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oBoKGfngGGZmSVGFslphYjc23WO.jpg"
+      },
+      {
+        "name": "Garrett M. Brown",
+        "character": "Mr. Lizewski",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4tPbboNt7gBw8XPLK8UEA90iBpC.jpg"
+      },
+      {
+        "name": "Clark Duke",
+        "character": "Marty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oNzK0umwm5Wn0wyEbOy6TVJCSBn.jpg"
+      },
+      {
+        "name": "Evan Peters",
+        "character": "Todd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zxfMLydSWz5OaZp5EvGTBsuYmpt.jpg"
+      },
+      {
+        "name": "Sophie Wu",
+        "character": "Erika Cho",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pvsU3UmO8mn2FMxeiBWVclyxRZz.jpg"
+      },
+      {
+        "name": "Stu 'Large' Riley",
+        "character": "Huge Goon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vwa2qlBWpdc8ZuPmCLjg84nDxdn.jpg"
+      },
+      {
+        "name": "Michael Rispoli",
+        "character": "Big Joe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4rtCKJTtPq9cSHFQqZSbyCLLWCO.jpg"
+      },
+      {
+        "name": "Corey Johnson",
+        "character": "Sporty Goon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mhNbf4vGzixPL5mTIOBUPguqvpB.jpg"
+      },
+      {
+        "name": "Kenneth Simmons",
+        "character": "Scary Goon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t2imQcVj8fSR20VjG7PqvA0XvSj.jpg"
+      },
+      {
+        "name": "Anthony Desio",
+        "character": "Baby Goon",
+        "profile_path": ""
+      },
+      {
+        "name": "Randall Batinkoff",
+        "character": "Tre Fernandez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tq4njPdsUNXjnIAnPetT6B423BW.jpg"
+      },
+      {
+        "name": "Dexter Fletcher",
+        "character": "Cody",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yRI8MDB5sg8b8EZkzFz5cCBrnKL.jpg"
+      },
+      {
+        "name": "Yancy Butler",
+        "character": "Angie D'Amico",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z4IbPBVF4GHJq7IWdLQg71zRcyd.jpg"
+      },
+      {
+        "name": "Craig Ferguson",
+        "character": "Himself",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mBxNrOxdQeM7bVBveE47Syj9ES6.jpg"
+      },
+      {
+        "name": "Jason Flemyng",
+        "character": "Lobby Goon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nYl0180ACnLzVlGbaAfuPtdGr9K.jpg"
+      },
+      {
+        "name": "Adrian Martinez",
+        "character": "Ginger Goon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/id70SLEpj9jelZZepJlapaXH8lR.jpg"
+      },
+      {
+        "name": "Joe Bacino",
+        "character": "Posh Goon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p1V6C3xcZ9R0U6uEfu3eDwEfKhF.jpg"
+      },
+      {
+        "name": "Johnny Hopkins",
+        "character": "1st Gang Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xlhVNqdh2EBU6r3uwAvqDyyCxx7.jpg"
+      },
+      {
+        "name": "Ohene Cornelius",
+        "character": "2nd Gang Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/988Lx7esNjHLQiISo77Gf1XDHZd.jpg"
+      },
+      {
+        "name": "Carlos Besse Peres",
+        "character": "Buttons",
+        "profile_path": ""
+      },
+      {
+        "name": "Russell Bentley",
+        "character": "Medic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Q754CQvEJbtBJb0JzbrR1J9J5E.jpg"
+      },
+      {
+        "name": "Tamer Hassan",
+        "character": "Matthew",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5xDdmxKqRsiPVf2KQ16AK7Fmock.jpg"
+      },
+      {
+        "name": "Tim Plester",
+        "character": "Danil",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a66p9DDwRSQFRZcDn3sDLsGb8zu.jpg"
+      },
+      {
+        "name": "Hubert Boorder",
+        "character": "Oscar Juarez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7htmLrRZStSgp39U09EQQyh0Xyo.jpg"
+      },
+      {
+        "name": "Christopher McGuire",
+        "character": "Diner Fight Guy #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Max White",
+        "character": "Diner Fight Guy #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Dean Copkov",
+        "character": "Diner Fight Guy #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacob Cartwright",
+        "character": "Running Teenager",
+        "profile_path": ""
+      },
+      {
+        "name": "Maurice DuBois",
+        "character": "News Anchor",
+        "profile_path": ""
+      },
+      {
+        "name": "Dana Tyler",
+        "character": "News Anchor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/knRWRxEqNz5REXrjtvyDqB3g5X1.jpg"
+      },
+      {
+        "name": "Omar A. Soriano",
+        "character": "Leroy",
+        "profile_path": ""
+      },
+      {
+        "name": "Katrena Rochell",
+        "character": "Female Junkie",
+        "profile_path": ""
+      },
+      {
+        "name": "Kofi Natei",
+        "character": "Rasul",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Duran",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vCWv4gSo1QQfjzpymcub0lLkYgD.jpg"
+      },
+      {
+        "name": "Louis Young",
+        "character": "Breaking News Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Val Jobara",
+        "character": "Nervous Goon",
+        "profile_path": ""
+      },
+      {
+        "name": "Quinn Smith",
+        "character": "Big Mean Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Kirk Tingblad",
+        "character": "Audience Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Bartfay",
+        "character": "Comic Store Customer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Salkey",
+        "character": "1st Cop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qetZBxDlZA6102rvQhHqAGTMUZx.jpg"
+      },
+      {
+        "name": "Daphne Cheung",
+        "character": "Siew Ling (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vsXomv8E7Erhw3UUQeObbJXcTqO.jpg"
+      },
+      {
+        "name": "Russell De Rozario",
+        "character": "Man in Elevator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cNlEMZk6gmDOCtT75DrEbrYhpp5.jpg"
+      },
+      {
+        "name": "Annie Cooper",
+        "character": "Jess (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vEkHukoVRLIHRtoXXkniM9mdQbo.jpg"
+      },
+      {
+        "name": "Adam Blampied",
+        "character": "Kid in Comic Book Store (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jPgAv875Us68qE9mI1vZHMqLt8.jpg"
+      },
+      {
+        "name": "Wayne Curnew",
+        "character": "Bartender (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tangara Jones",
+        "character": "Gang Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rab Affleck",
+        "character": "Moustache Goon (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/56bCkeBCFWEtfz3qbiqpMt61Ugy.jpg"
+      },
+      {
+        "name": "Alexander Hathaway",
+        "character": "Comic Book Store Manager (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7knSF9YxbRyfy0YXi57NatyFRTO.jpg"
+      },
+      {
+        "name": "Ashleigh Hubbard",
+        "character": "Blonde",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fJlyTRU8CFIj3Xg7cmw5Jy6IjNQ.jpg"
+      },
+      {
+        "name": "Walle Jobara",
+        "character": "Goon",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Matthew Vaughn",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Dnbz3B7yy4u0abixuD5LakZgsy.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "hero",
+    "secret identity",
+    "crime fighter",
+    "superhero",
+    "dark comedy",
+    "comic book",
+    "based on comic",
+    "murder",
+    "mafia",
+    "family",
+    "realism",
+    "mist",
+    "adventurer",
+    "rookie",
+    "young heroes",
+    "young adult",
+    "criminal heroes",
+    "unlikely heroes",
+    "heroes",
+    "pretending to be gay"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a superhero, even though he has no powers, training or meaningful reason to do so.",
+    "Dave Lizewski is an unnoticed high school student and comic book fan with a few friends and who lives alone with his father. His life is not very difficult and his personal trials not that overwhelming; however, one day he makes the simple decision to become a super-hero, even though he has no powers or training.—Daniel J. Leary"
+  ],
+  "synopsis": "Dave Lizewski (Aaron Johnson) introduces himself as 'Kick Ass' and starts telling the story of his life, how ordinary people become super-heroes.\nSix months earlier. Dave is a geek. He has two good friends, Toddy and Marty, and spends his time at the local comic bookstore. His mother suddenly died of an aneurysm when Dave was 14. He is in love with Katie Deauxma (Lyndsy Fonseca) but she barely notices him. A genuine nice guy, he tries to reach out to people, including Chris D'Amico (Christopher Mintz-Plasse) the spoiled but lonely son of a local mobster, but Chris is not allowed to have any friends. One day, after a conversation about superheroes at the local comic book cafe, Dave and Toddy are robbed by a pair of street gang members and Dave decides that he is going to be a superhero and fight crime. He orders a green-colored diving wet suit off the Internet and starts training to become a real crime fighter.After a few weeks of physical training, Dave sees the two men who robbed him and Todd trying to break into a car so Dave puts on his suit and confronts them. He tries to fight them, but the fight ends with Dave being brutally stabbed. Clinging to life in the back of an ambulance, he is rushed to the hospital but begs the paramedic to hide his suit. He is brought to the hospital naked (heavily implied by others to be gay prostitution).A few months later, Dave is full of metal plates and has numerous frayed nerve endings (granting him a higher pain threshold). He returns to school and is shocked that Katie is talking to him. Marty explains that Katie likes lame ducks and explains that the entire school thinks that Dave is a gay prostitute. Dave is still determined to be a superhero and sets up a MySpace account so that people can contact him and give him cases. One night, Dave fights off three attackers who were beating a defenseless man in front of a diner. Some patrons record the fight and post it on YouTube. Daves alter ego, 'Kick Ass', becomes an internet phenomenon.Across town, Frank D'Amico's (Mark Strong) thugs are torturing one of his associates who claims that a man who looks like Batman attacked their cocaine dealers and stole all of their drugs. Thinking that the associate stole the cocaine for a profit, Frank has him tortured and killed However, Frank later learns that the information given to him was poor, so he sends his men to take care the Russian mobster he believes is responsible for messing with his shipments.The next morning, ex-policeman Damon MacReady (Nicholas Cage) is training his daughter Mindy to be a vigilante to fight D'Amico's minions in his personal vendetta. The two see Kick Ass exploits: Damon is not impressed, but Mindy is. Damon was sent to prison for five years, during which Mindy was raised by his former partner, Marcus. Because his wife died during his prison stint, Damon has made it his goal to avenge her by killing D'Amico's entire organization. He captures and manipulates several key members of D'Amico's crime syndicate to their deaths. Marcus (Omari Hardwick) finds Damon and tells him that he has to end his vendetta before dirty cop Detective Gigante (Xander Berkeley) finds them or D'Amico does. Damon colors a large of comic book style hit list and hangs it on the wall.As Kick Ass, Dave goes around saving people. As Katie's \"gay\" best friend, he gets closer to her and begins to get to know her as a person. She mentions that a Meth addict, Rasul, robbed her and smacked her around. That night, Kick Ass hunts down Rasul at his apartment but fails miserably. Right as Rasul and his gang members are about to castrate Kick Ass, Mindy, dressed in a purple wig, mask, and black jumpsuit with a cape, shoots through the window and fights all of the gang members with knifes and a long spear until they are all dead. As the last gang member sneaks up behind her, Big Daddy (Damon) shoots him through the head with his sniper rifle from a different building. She introduces herself as 'Hit Girl' and begins stealing all of the gang members money and guns. Mindy asks Dave to join him, but Dave can't. Dave takes off his mask at home and cries himself to sleep, realizing that he's just an incompetent overgrown child and that there are other people better suited for his job.That same night, Big Daddy and Hit Girl visit Dave. Big Daddy tells him that he is doing okay, and that he has potential to be better. They tell him that if he ever needs to reach them, he should decorate his MySpace with an 'On Vacation' banner.\nMeanwhile, Frank D'Amico learns that there are vigilantes going against his organization and gets angry. Assuming that Kick Ass is the perpetrator, Frank kills an imitator in broad daylight thinking that it was the real Kick Ass. As things become tenser and more of his gang members are killed, Frank becomes willing to try anything. He contacts Detective Gigante and tells him to take care of Kick Ass. Chris offers an alternative suggestion: Let him don the identity of a superhero called the Red Mist, frame one of D'Amico's incompetent associates and trick Kick Ass into trusting him while leading him into an ambush.Chris executes his plan & contacts Kick-Ass. Red Mist shows him his flashy sport-scar and offers to be his side kick. The two drive around and Red Mist takes him to the D'Amico stronghold, to see it burning to the ground. Kick Ass is unaware that it was an ambush, but the two go into the building to see if they can save anyone. The bodies are horribly cut up and everyone is dead. Red Mist grabs a teddy bear on a wall and runs out of the building with Kick Ass as it explodes. Kick Ass resolves to give up the crime fighting.Kick Ass goes to Katie's house to reveal his identity to her. She sprays him in the face and calls him a pervert until he removed his masks. He says that he isn't gay, that he's Kick Ass and that he loves her. He offers to go but she asks him to stay. The two start going out and having sex.\nMeanwhile, Frank D'Amico sees that the stronghold has burned down but Chris tells Frank that Kick Ass isn't the threat. He shows Frank the teddy bear, which has a Nanny Cam in it. They watch footage of Big Daddy killing all of D'Amico's men and burning the warehouse down. D'Amico convinces Chris to set up a trap to catch Big Daddy. Red Mist tries to contact Kick Ass and decides to set the plan in motion.Dave sees Red Mists' e-mails and decides to go on one last mission for him. He tells Katie what hes doing and leaves. He and Red Mist meet up and set up the MySpace to contact Big Daddy. They send Kick Ass the meeting house location and Red Mist drives them there. Red Mist drives Kick Ass to the location while D'Amico's men follow the van.\nRed Mist shoots Hit Girl twice in the chest. As she falls out of the window, Big Daddy screams and D'Amico's men rush in and beat him and Kick Ass unconscious. As they put them in the back of a waiting van. Red Mist is horrified that Frank wants to kill Kick Ass, who is Chris's friend. He explains that Big Daddy is a no one, but that killing Kick Ass sends a message to all the punks considering becoming superheroes.The city of New York is shown a countdown for Kick Ass unmasking. It shows Big Daddy and Kick Ass handcuffed to chairs about to be executed. D'Amico's men stream it all online. They pour gasoline on Big Daddy and ignite him just as Hit Girl arrives to save them. She kills all the men in a brutal gunfight and extinguishes her father but it's too late. Big Daddy dies from his severe burns and tells Hit Girl that he loves her. Hit Girl saves Kick Ass. Dave tells her that it's over but agrees to help Hit Girl exact her revenge and takes up the mysterious piece of weaponry Big Daddy had bought and put together before his death.At Frank D'Amico's headquarters, the first guards are idly standing on duty when Mindy knocks at the front door, dressed in a schoolgirl outfit. The doorman and guards, having never seen Mindy's face before, open the door to let her in. Suddenly the doorman starts to turn around and the guards see the little girl is thrusting the barrel of a big handgun right into the doorman's mouth. Mindy takes them all out easily.Mindy arrives at the penthouse floor back in her Hit Girl guise. Fighting with speed and stealth, she starts taking out more of D'Amico's men. When she runs out of bullets, one guard tries to advance and is taken out with throwing knives. The large thug runs to get a bazooka, to the shock and disgust of both Frank and Chris. The other thugs keep Hit Girl pinned down behind a counter, knowing she is out of ammunition but all too scared to charge in. The large thug is about to fire the bazooka when there is the sound of a machine. They turn and look out the window to see Kick-Ass outside with a rocket-pack strapped to his back, enabling him to fly. Two rapid-firing mini-guns protrude from the pack over his shoulders, and he wipes out the rest of the guards.In Frank's office, he and Chris hear the final sounds of the fire fight and think that the thugs were successful. But it is Hit-Girl and Kick-Ass that barge through the door, ready for the final showdown. Frank orders Chris to take on Kick-Ass. Chris is disgusted but rushes into battle. Frank squares off against Hit Girl.Kick-Ass and Chris (Red Mist) fight in the Dojo. Both of them knock each other out cold, both falling to the floor. Hit Girl battles Frank ferociously, but with the leader of the D'Amico syndicate, Hit-Girl has finally met her match. Frank becomes increasingly more ruthless. He retrieves his gun and prepares to kill Hit Girl, when suddenly he hears Kick-Ass suggesting he pick on someone his own size. Frank redirects his gun, but Kick-Ass is holding the bazooka. He fires, and the rocket propels Frank through the window, and he is wiped out.Chris comes to and draws a Katana (samurai sword), looking for a rematch, but finds Kick Ass activating the rocket pack and flying off with Hit Girl. The two land on a distant rooftop. Kick-Ass takes off his mask and tells her his real name, Dave Lizewski. Hit Girl takes off her wig and mask, showing him her face, and telling him her true name, Mindy MacReady. They shake hands and look toward the horizon.A voice-over from Dave begins as we see that Marcus has resumed guardianship of Mindy, and she now lives with him and is enrolled at Dave's school, on the promise that he'd look out for her, and we watch an amusing scene where two school bullies try to shake the \"new kid\" down for her lunch money, and she smiles and cracks her knuckles. \"Kick Ass\" has become a cultural sensation with a comic strip, though as Dave says, he is now retired from crime-fighting. There are a whole new wave of inspired people following in his footsteps.But in the final scene, back in Frank D'Amico's office where we see one who is equally determined to bring the new \"super-heroes\" down. Chris, as the new Red Mist, with a revamped costume and donning a super-villain mask. He vows revenge against Kiss Ass, Hit Girl, and any other superhero wannabe that gets in his way for his father's death.",
+  "imdb_score": 7.6
+}

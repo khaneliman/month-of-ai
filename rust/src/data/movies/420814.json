@@ -1,0 +1,323 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/3O5tanjVJGo8sgxC0Y8A1ecFB6d.jpg",
+  "id": 420814,
+  "title": "Christopher Robin",
+  "poster_path": "https://image.tmdb.org/t/p/w500/i6Ytex4d3CdfIKJFxB5v5vh24vb.jpg",
+  "release_date": "2018-08-02",
+  "vote_average": 7.317,
+  "vote_count": 2592,
+  "popularity": 26.411,
+  "overview": "Christopher Robin, the boy who had countless adventures in the Hundred Acre Wood, has grown up and lost his way. Now it’s up to his spirited and loveable stuffed animals, Winnie The Pooh, Tigger, Piglet, and the rest of the gang, to rekindle their friendship and remind him of endless days of childlike wonder and make-believe, when doing nothing was the very best something.",
+  "imdb_id": "tt4575576",
+  "budget": 75000000,
+  "homepage": "https://movies.disney.com/christopher-robin",
+  "revenue": 99138899,
+  "runtime": 104,
+  "tagline": "Don't underestimate the value of doing nothing.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Walt Disney Pictures",
+    "2DUX²"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Ewan McGregor",
+        "character": "Christopher Robin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qYRGu6NIqkUYIO7ftso110WNQ6P.jpg"
+      },
+      {
+        "name": "Hayley Atwell",
+        "character": "Evelyn Robin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zM53P3iVyEnRNEeotU4vCCv13II.jpg"
+      },
+      {
+        "name": "Bronte Carmichael",
+        "character": "Madeline Robin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fwm0THujqVnPjGeZ1rJndUFZhcP.jpg"
+      },
+      {
+        "name": "Jim Cummings",
+        "character": "Winnie the Pooh / Tigger (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+      },
+      {
+        "name": "Brad Garrett",
+        "character": "Eeyore (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+      },
+      {
+        "name": "Sophie Okonedo",
+        "character": "Kanga (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oMZmk0q04ly3ztD8Us4f1yfPyF1.jpg"
+      },
+      {
+        "name": "Toby Jones",
+        "character": "Owl (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1qNisdp4f1KstdfvAgYXMdrhwfk.jpg"
+      },
+      {
+        "name": "Nick Mohammed",
+        "character": "Piglet (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2cFSHotCLLauzqq8iDKWK6meRAY.jpg"
+      },
+      {
+        "name": "Peter Capaldi",
+        "character": "Rabbit (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rkNPOxjKJ5HsKuxwAeENUl5yVDb.jpg"
+      },
+      {
+        "name": "Sara Sheen",
+        "character": "Roo (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Gatiss",
+        "character": "Giles Winslow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jf6vBlhsDbKR8N3rjl5ulqz9ltB.jpg"
+      },
+      {
+        "name": "Oliver Ford Davies",
+        "character": "Old Man Winslow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hDdpoEWtNd0c46PcuORomdEI5j0.jpg"
+      },
+      {
+        "name": "Ronkẹ Adékoluẹjo",
+        "character": "Katherine Dane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ytKTDHU5SX8P0M8heXP3mC6xJ5n.jpg"
+      },
+      {
+        "name": "Adrian Scarborough",
+        "character": "Hal Gallsworthy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/61lXhIEZzSsT38yBro8Rh01GDmA.jpg"
+      },
+      {
+        "name": "Roger Ashton-Griffiths",
+        "character": "Ralph Butterworth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fwVK6FD82EANGLXlAu8ulXZB86q.jpg"
+      },
+      {
+        "name": "Ken Nwosu",
+        "character": "Paul Hastings",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n6zobSGBDmOEWIGNG4mlcg9evrs.jpg"
+      },
+      {
+        "name": "Amanda Lawrence",
+        "character": "Joan MacMillan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n0RmDWYo266XvrNlS0aZCXSOihn.jpg"
+      },
+      {
+        "name": "John Dagleish",
+        "character": "Matthew Leadbetter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5qngpi8kAQktdSCN8ApSQ8NPvNn.jpg"
+      },
+      {
+        "name": "Orton O'Brien",
+        "character": "Young Christopher Robin",
+        "profile_path": ""
+      },
+      {
+        "name": "Katy Carmichael",
+        "character": "Christopher Robin's Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/emnO1QR8sFDdckVIR835uOLr6Rd.jpg"
+      },
+      {
+        "name": "Tristan Sturrock",
+        "character": "Christopher Robin's Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kVKZJMocabPzk7ZdlPWUua5USbg.jpg"
+      },
+      {
+        "name": "Jasmine-Simone Charles",
+        "character": "Little Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Chahidi",
+        "character": "Cecil Hungerford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gwQ5MfY68BvvyIbef3kr2XPilTx.jpg"
+      },
+      {
+        "name": "Matt Gavan",
+        "character": "Snooty Businessman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fjGo3U3pTW7d1Qm3IgVPvrZWhgS.jpg"
+      },
+      {
+        "name": "Gareth Mason",
+        "character": "Balloon Vendor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8IRkwlbcbO37d7V7XAF47zmrk2o.jpg"
+      },
+      {
+        "name": "Summer Brooks",
+        "character": "Balloon Holder",
+        "profile_path": ""
+      },
+      {
+        "name": "Amrou Al-Kadhi",
+        "character": "Nemir Azizi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wGr7Emb8ppfUThAc7rywI6wgfBJ.jpg"
+      },
+      {
+        "name": "Zain Falzon",
+        "character": "Boy in Stroller",
+        "profile_path": ""
+      },
+      {
+        "name": "Rainy Milo",
+        "character": "Boy's Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lX7nli0tjjqjjVf1YUZMsyKLaWC.jpg"
+      },
+      {
+        "name": "Michael Jenn",
+        "character": "London Train Conductor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3NQbYl0GUHewCxBQaLnQaAnRV9G.jpg"
+      },
+      {
+        "name": "Souad Faress",
+        "character": "Wealthy Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aEGdIch9eRzJcsAGbF7mAZPUiXt.jpg"
+      },
+      {
+        "name": "Alan Clark",
+        "character": "Sussex Train Attendant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uHiDqhqf1hzR467c4gpXDZm6Jer.jpg"
+      },
+      {
+        "name": "Chris Pratt",
+        "character": "Sussex Train Porter",
+        "profile_path": ""
+      },
+      {
+        "name": "Harriet Leitch",
+        "character": "Tea Server",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8oSjwWmQLaDiV9k9RNThMiX71gu.jpg"
+      },
+      {
+        "name": "Vera Chok",
+        "character": "Margaret King (Train Passenger #1)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r6yyiZ1YsUyeO7aeFjPUFNGc3BR.jpg"
+      },
+      {
+        "name": "Claire Redcliffe",
+        "character": "Boarding School Teacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Elsa Minell Solak",
+        "character": "Madeline 3 Years Old",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Berry",
+        "character": "Policeman Bobby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7a1sWg1W7ZmNF8bLSnyAlJgQQGD.jpg"
+      },
+      {
+        "name": "Simon Farnaby",
+        "character": "Taxi Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ki10aIf7pVkfYun2qn9XxbC2U3K.jpg"
+      },
+      {
+        "name": "Matthew Earley",
+        "character": "Truck Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Mackenzie Crook",
+        "character": "Newspaper Seller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r17GbBnCjJjwUaRM3KY2e8GBjbG.jpg"
+      },
+      {
+        "name": "Vivien Bridson",
+        "character": "Old Man Winslow's Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6yNs6qUnUh70qCNH0tJbZOvd3kC.jpg"
+      },
+      {
+        "name": "Narinder Samra",
+        "character": "Milkman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8bH1pblGTmrG4Gv2q6Q1SjPhuBj.jpg"
+      },
+      {
+        "name": "Oliver Payne",
+        "character": "Milk Delivery Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "David Hartley",
+        "character": "Man on Bus",
+        "profile_path": ""
+      },
+      {
+        "name": "Clara McGregor",
+        "character": "Girl in Aircraft Design Office",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2b5RIGQn6pHgL1bxgCpokYhBEq4.jpg"
+      },
+      {
+        "name": "Raj Ghatak",
+        "character": "Neel Chawla (Barrel Mover)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5JVP7XkLbZtBlMRy3aCYe4AGu00.jpg"
+      },
+      {
+        "name": "Abbey Denne",
+        "character": "Girlfriend (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gintare Beinoraviciute",
+        "character": "Passerby (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ucqzg2TRwwr5p8D8aktYQjGmSLT.jpg"
+      },
+      {
+        "name": "Roy Beck",
+        "character": "Winslow Board Director (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aUxisX1yyK0W3uTnnxxqLDxlgH8.jpg"
+      },
+      {
+        "name": "Shola Adewusi",
+        "character": "Rosemary Hopwood (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ax7DudH8MgTHrVwLOEkwrechRH3.jpg"
+      },
+      {
+        "name": "Tim Ingall",
+        "character": "Jimmy Knowait (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gBnA6GDoL1Vr6qNUDkdRx2A0lvP.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Marc Forster",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m3WEGG6czBjgFULVyVQy6EJvUsZ.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "forest",
+    "family",
+    "animal",
+    "magic realism",
+    "childhood",
+    "live action and animation",
+    "father daughter relationship",
+    "live action remake",
+    "adulthood"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "A working-class family man, Christopher Robin, encounters his childhood friend Winnie-the-Pooh, who helps him to rediscover the joys of life.",
+    "An adult Christopher Robin, who is now focused on his new life, work, and family, suddenly meets his old friend Winnie the Pooh, who returns to his unforgotten childhood past to help him return to the Hundred Acre Wood and help find Pooh's lost friends.—Jon Meyer",
+    "Director Marc Forster directed this live action movie that features English author A. A. Milne's best loved characters as walking and talking stuffed animals. Ewan McGregor stars as a middle-aged Christopher Robin, now burdened by an stultifying white collar job that prevents him from spending quality time with his family. Winne the Pooh, Piglet, Eeyore, and Tigger venture from Hundred Acre Wood into London to turn his life around.",
+    "Christopher Robin says goodbye to his friends Winnie the Pooh, Tigger, Eeyore, Piglet, Owl, Kanga, Roo and Rabbit and leaves for boarding school. Years later and he is now married with a young daughter. He is reasonably successful in his career but his job is causing him to neglect his family. Now he has a seemingly insurmountable business problem to solve in a weekend but who should he randomly bump into: Winnie the Pooh.—grantss"
+  ],
+  "synopsis": "Christopher Robin (Ewan McGregor) is leaving for boarding school, so his friends from the Hundred Acre Wood - Winnie the Pooh, Tigger, Piglet, Eeyore, Kanga, Roo, Owl, and Rabbit - throw a goodbye party. Christopher comforts Pooh and tells him that he will never forget him.Christopher goes to boarding school, after which he grows up, meets and marries architect Evelyn (Hayley Atwell), with whom he has daughter, Madeline (Bronte Carmichael). He serves in the British Army during World War II. After the war, he works as an efficiency expert at Winslow Luggage. He neglects his family due to his demanding job and plans on sending Madeline to boarding school. With the company hitting hard times, Giles Winslow Jr. (Mark Gatiss) tells Christopher to decrease expenditures by 20%, largely by choosing which employees to lay off, and to present his plan on Monday. This causes Christopher to reluctantly miss joining his family at their countryside cottage in Sussex for a summer-ending weekend.When Pooh awakens and is unable to find his friends, he decides to travel through Christopher's door and finds himself in London. He reunites with Christopher, who is shocked to see Pooh, but takes him back to his London home. After a night and morning of chaos (including Pooh knocking down all of his kitchen shelves in search of honey), Christopher escorts the bear back to Sussex on the next train.After sneaking past Christopher's cottage, the two enter the Hundred Acre Wood. Christopher becomes exasperated by Pooh's absent-mindedness and fear of Heffalumps and Woozles, and angrily tells Pooh that he is not a child anymore, before the two get separated in the fog. After falling into a \"Heffalump Trap\", which is then flooded by rainfall, soaking him and his belongings, Christopher discovers Eeyore and Piglet, who lead him to the others, hiding in a log out of fear of a Heffalump. Unable to persuade his friends that he is truly Christopher Robin, he pretends to defeat a Heffalump to convince them. Finally believing that it is Christopher Robin, they joyfully greet him. When they reunite with Pooh at their meeting spot, Christopher apologizes for getting upset earlier. Christopher tells Pooh how lost he feels, but Pooh reminds him that they have found each other and comforts him with a hug.The next morning, Christopher, realizing how late he is, rushes from the Hundred Acre Wood to make his presentation. He encounters his family and, unable to tell them about his old friends in the Hundred Acre Wood, leaves.\nPooh realizes that Tigger removed Christopher's important paperwork when drying his briefcase, so Pooh, Tigger, Piglet and Eeyore decide to travel to London to give it back. They meet Madeline, who recognizes them from her father's drawings. She joins them, wanting to dissuade her father about boarding school; Evelyn follows after discovering a note Madeline left.At the meeting, Christopher discovers that his papers are not in his briefcase, which contains items from the woods that Tigger left for him. Evelyn arrives and Christopher joins her to search for Madeline. Madeline's group stow away in Winslow company crates, but Tigger, Eeyore and Piglet are accidentally thrown out, and they encounter Christopher and Evelyn in the process. Madeline and Pooh arrive near the Winslow building and reunite with Christopher's group, but Madeline accidentally trips on the stairs and loses all but one of the papers, upsetting her and Pooh. Christopher assures Madeline of her importance to him and that he will not send her to boarding school.Christopher improvises a plan involving reducing the prices of luggage, giving employees paid leave, and selling their luggage to everyday people to increase demand. Winslow Jr. dismisses the idea, but his father, Winslow Sr. warms to it and agrees to the plan. Winslow Jr. is humiliated as Christopher points out that he contributed nothing to the plan, having been golfing all weekend.Christopher finally takes his family into the Hundred Acre Wood to meet the rest of his friends.\nIn a mid-credits scene, the employees of Winslow's are seen having fun at the beach while Richard M. Sherman performs \"Busy Doing Nothing\" on a piano. Pooh, Piglet, Eeyore and Tigger are relaxing on beach chairs with Eeyore saying, \"Thank you for noticing me\".",
+  "imdb_score": 7.2
+}

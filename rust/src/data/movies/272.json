@@ -1,0 +1,618 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/lh5lbisD4oDbEKgUxoRaZU8HVrk.jpg",
+  "id": 272,
+  "title": "Batman Begins",
+  "poster_path": "https://image.tmdb.org/t/p/w500/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg",
+  "release_date": "2005-06-10",
+  "vote_average": 7.704,
+  "vote_count": 20040,
+  "popularity": 61.663,
+  "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+  "imdb_id": "tt0372784",
+  "budget": 150000000,
+  "homepage": "https://www.warnerbros.com/movies/batman-begins/",
+  "revenue": 374218673,
+  "runtime": 140,
+  "tagline": "Evil fears the knight.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "DC Comics",
+    "Syncopy",
+    "Legendary Pictures",
+    "Patalex III Productions Limited"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Christian Bale",
+        "character": "Bruce Wayne / Batman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b7fTC9WFkgqGOv77mLQtmD4Bwjx.jpg"
+      },
+      {
+        "name": "Liam Neeson",
+        "character": "Henri Ducard / Ra's al Ghul",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bboldwqSC6tdw2iL6631c98l2Mn.jpg"
+      },
+      {
+        "name": "Katie Holmes",
+        "character": "Rachel Dawes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gDhc9rLbhpXdY8lISD7yPiIhvp4.jpg"
+      },
+      {
+        "name": "Michael Caine",
+        "character": "Alfred Pennyworth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hZruclwEPCKw3e83rnFSIH5sRFZ.jpg"
+      },
+      {
+        "name": "Gary Oldman",
+        "character": "James Gordon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+      },
+      {
+        "name": "Cillian Murphy",
+        "character": "Jonathan Crane / Scarecrow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+      },
+      {
+        "name": "Morgan Freeman",
+        "character": "Lucius Fox",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jPsLqiYGSofU4s6BjrxnefMfabb.jpg"
+      },
+      {
+        "name": "Tom Wilkinson",
+        "character": "Carmine \"The Roman\" Falcone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d5yLk0PK8q7EKR3E3G2txO758IW.jpg"
+      },
+      {
+        "name": "Mark Boone Junior",
+        "character": "Arnold Flass",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rcncVr356hpfKX9qOrKL3SJlEO7.jpg"
+      },
+      {
+        "name": "Linus Roache",
+        "character": "Thomas Wayne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u98VM2S9mbUMCMPvCpk2OUn4Eg2.jpg"
+      },
+      {
+        "name": "Ken Watanabe",
+        "character": "Decoy Ra's al Ghul",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w2t30L5Cmr34myAaUobLoSgsLfS.jpg"
+      },
+      {
+        "name": "Rutger Hauer",
+        "character": "William Earle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Lly7qwOrESdFcwyaiEOfPlB76l.jpg"
+      },
+      {
+        "name": "Gus Lewis",
+        "character": "Bruce Wayne (Age 8)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1pSm7WsILuxbO8jbf5nguDdE8mN.jpg"
+      },
+      {
+        "name": "Emma Lockhart",
+        "character": "Rachel Dawes (Age 8)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r6CWNTU2RwCM9iGHykDFxLJmcJd.jpg"
+      },
+      {
+        "name": "Larry Holden",
+        "character": "Carl Finch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wXlesadVDSWinrYPjKLeiay3X0m.jpg"
+      },
+      {
+        "name": "Colin McFarlane",
+        "character": "Gillian B. Loeb",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dJDcUzJEhy1vTjnLm72kPaYPpbK.jpg"
+      },
+      {
+        "name": "Christine Adams",
+        "character": "Jessica",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yUMJguEggbkNzUZnvRCYgebU0Ck.jpg"
+      },
+      {
+        "name": "Vincent Wong",
+        "character": "Old Asian Prisoner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lWPw6iMQKOSh4w099GkexZKkv4F.jpg"
+      },
+      {
+        "name": "Sara Stewart",
+        "character": "Martha Wayne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nNjpDF0RuKZ7z5rMI5yxdLDim8z.jpg"
+      },
+      {
+        "name": "Richard Brake",
+        "character": "Joe Chill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/JwsiErANShzPSdYsNoiNYdrSg1.jpg"
+      },
+      {
+        "name": "Gerard Murphy",
+        "character": "Judge Faden",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2dzWjg6fsfalFEfCsLjo9mFpCIj.jpg"
+      },
+      {
+        "name": "Charles Edwards",
+        "character": "Wayne Enterprises Executive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2mFLkYEMlqRSh630wwrcYzKoS1s.jpg"
+      },
+      {
+        "name": "Tim Booth",
+        "character": "Victor Zsaz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eA4ew9eyyywC88wgGKbuImQ8xdk.jpg"
+      },
+      {
+        "name": "Rade Šerbedžija",
+        "character": "Homeless Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eGK40yJnDCJOhtGXZrhkrkfVOwu.jpg"
+      },
+      {
+        "name": "Risteard Cooper",
+        "character": "Captain Simonson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cM0PgBm4lLKCqpJaiQqS7RAReM5.jpg"
+      },
+      {
+        "name": "Andrew Pleavin",
+        "character": "Uniformed Policeman #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hp20HveWeBveVYtE87DPwmXEpD2.jpg"
+      },
+      {
+        "name": "Jo Martin",
+        "character": "Police Prison Official",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9QQycTj056llWBbkuoDf8NBSXhn.jpg"
+      },
+      {
+        "name": "Shane Rimmer",
+        "character": "Older Gotham Water Board Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/morFcla0R2Bv3vu3B1HgCmm0eiv.jpg"
+      },
+      {
+        "name": "Jeremy Theobald",
+        "character": "Younger Gotham Water Board Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/DCx1Ngl64D1OgBuGaw6ny8Hlrh.jpg"
+      },
+      {
+        "name": "Jack Gleeson",
+        "character": "Little Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/97NkocCiLUwNzMDYjngSm5soGlN.jpg"
+      },
+      {
+        "name": "Jonathan Patrick Foo",
+        "character": "League of Shadows Warrior (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uC9O2dEIkf53aFWQ1p5gMKXIKFF.jpg"
+      },
+      {
+        "name": "Spencer Wilding",
+        "character": "League of Shadows Warrior",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4NMcve4Nckpi653znyYOnoS4Mci.jpg"
+      },
+      {
+        "name": "Dave Legeno",
+        "character": "League of Shadows Warrior",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rqTATsZ15cUVT9TrkeZ6qANwSey.jpg"
+      },
+      {
+        "name": "Khan Bonfils",
+        "character": "League of Shadows Warrior",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zKSmtwNG7E3ysX9I81ZJFjPmKdX.jpg"
+      },
+      {
+        "name": "Mark Strange",
+        "character": "League of Shadows Warrior",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1oYGZnDhIHpJHonuCCwKSeTN1mR.jpg"
+      },
+      {
+        "name": "Grant Guirey",
+        "character": "League of Shadows Warrior",
+        "profile_path": ""
+      },
+      {
+        "name": "Rodney Ryan",
+        "character": "League of Shadows Warrior",
+        "profile_path": ""
+      },
+      {
+        "name": "Dean Alexandrou",
+        "character": "League of Shadows Warrior",
+        "profile_path": ""
+      },
+      {
+        "name": "Hayden Nickel",
+        "character": "James Gordon Jr.",
+        "profile_path": ""
+      },
+      {
+        "name": "Catherine Porter",
+        "character": "Blonde Female Reporter / Assassin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yT6l0dZ7ioY0Fdu9xxp8IyEJt2x.jpg"
+      },
+      {
+        "name": "John Nolan",
+        "character": "Douglas Fredericks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/deEcF1B2s5oiV36HFBPlswbLoqp.jpg"
+      },
+      {
+        "name": "Karen David",
+        "character": "Courthouse Reporter #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mVEkM2LFiB2cmMHDYFFTE7wkHtY.jpg"
+      },
+      {
+        "name": "Jonathan D. Ellis",
+        "character": "Courthouse Reporter #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/to7mwOlFiVkfFqg5duZoOtCk80K.jpg"
+      },
+      {
+        "name": "Tamer Hassan",
+        "character": "Faden's Limo Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5xDdmxKqRsiPVf2KQ16AK7Fmock.jpg"
+      },
+      {
+        "name": "Tom Wu",
+        "character": "Bhutanese Prison Guard #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qBQAerjLCCglXIyMURUj3hPpiCM.jpg"
+      },
+      {
+        "name": "Ronan Leahy",
+        "character": "Uniformed Policeman #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Chiu",
+        "character": "Bhutanese Prison Guard #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l82UjeKLoSQYXKSw7iewULMcgD.jpg"
+      },
+      {
+        "name": "Turbo Kong",
+        "character": "Enormous Prisoner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yynWA6zqoFdvrJHWF731mvmCb4o.jpg"
+      },
+      {
+        "name": "Stuart Yung Sai-Kit",
+        "character": "Chinese Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e0q2Fs3z1m0nEr1PN3TCcGzLut0.jpg"
+      },
+      {
+        "name": "Chike Chan",
+        "character": "Chinese Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1MSybWnDu56o3i9W1d91q14NP0h.jpg"
+      },
+      {
+        "name": "Tenzin Clive Ball",
+        "character": "Himalayan Child",
+        "profile_path": ""
+      },
+      {
+        "name": "Tenzin Gyurme",
+        "character": "Old Himalayan Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Jamie Cho",
+        "character": "Stocky Chinese Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nbftefBvOJBAo46FVkFZ4HO5ynH.jpg"
+      },
+      {
+        "name": "David Murray",
+        "character": "Jumpy Thug",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xjns7i38YxYPUga6KMCxkxOsBFy.jpg"
+      },
+      {
+        "name": "John Kazek",
+        "character": "Dock Thug #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Darragh Kelly",
+        "character": "Dock Thug #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick Nolan",
+        "character": "Dock Cop #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Rye",
+        "character": "Dock Cop #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1bk4kfBetEEYSzcWrpy7ra5WDeK.jpg"
+      },
+      {
+        "name": "Kwaku Ankomah",
+        "character": "Dock Cop #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tFYNhweHb6pGP8Ym1D55bePFpbW.jpg"
+      },
+      {
+        "name": "Timothy Deenihan",
+        "character": "Male Restaurant Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucy Russell",
+        "character": "Female Restaurant Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6aNWltms1Imbl9J4aXWk4p2KRZX.jpg"
+      },
+      {
+        "name": "David Bedella",
+        "character": "Maitre D",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jY9djn5uSZ2hLRhL41ZXlMHRRD.jpg"
+      },
+      {
+        "name": "Flavia Masetto",
+        "character": "Restaurant Blonde #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Emily Steven-Daly",
+        "character": "Restaurant Blonde #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin McDougall",
+        "character": "Gotham Dock Employee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sqosciocBl1OgQmnBXjSOafDvpt.jpg"
+      },
+      {
+        "name": "Noah Lee Margetts",
+        "character": "Arkham Thug #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Hanley",
+        "character": "Arkham Thug #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kqEsRKu2MjFUtRWIKZ5YuyLtMZ5.jpg"
+      },
+      {
+        "name": "Karl Shiels",
+        "character": "Arkham Thug #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y9MVZg8h4t162BI2WIjBTOnnlFr.jpg"
+      },
+      {
+        "name": "Roger Griffiths",
+        "character": "Arkham Uniformed Policeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x8n0VqAfRImHMrUFGRSf4tgvDnd.jpg"
+      },
+      {
+        "name": "Stephen Walters",
+        "character": "Arkham Lunatic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zhtty4sSjw7vqKXeptF9odqkx5e.jpg"
+      },
+      {
+        "name": "Richard Laing",
+        "character": "Arkham Chase Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l1Bk7lrXanwUxIS59vtinwiiqrd.jpg"
+      },
+      {
+        "name": "Matt Miller",
+        "character": "Gotham Car Cop #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wBtjxJwvsnB378kEltDv5Cx6A69.jpg"
+      },
+      {
+        "name": "Alexandra Bastedo",
+        "character": "Gotham Society Dame",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dIAzfO7UTVK3kNR24lnmoTHO3x8.jpg"
+      },
+      {
+        "name": "Soo Hee Ding",
+        "character": "Farmer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7zhkjjCND2NHAMpmFCZus0i7zBv.jpg"
+      },
+      {
+        "name": "Conn Horgan",
+        "character": "Monorail Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Phill Curr",
+        "character": "Transit Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oJMGLnsl3cXC79OfN1fAh5YfNve.jpg"
+      },
+      {
+        "name": "John Judd",
+        "character": "Narrows Bridge Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/93d6ih4OrAZEy33AeM6L2gWHWhW.jpg"
+      },
+      {
+        "name": "Sarah Wateridge",
+        "character": "Mrs. Dawes",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlie Kranz",
+        "character": "Basement Club Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eaXstotIMI1QRgcsIwnCCrtteb.jpg"
+      },
+      {
+        "name": "Terry McMahon",
+        "character": "Bad Swat Cop #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Cedric Young",
+        "character": "Liquor Store Owner",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Nolan",
+        "character": "Valet",
+        "profile_path": ""
+      },
+      {
+        "name": "Leon Delroy Williams",
+        "character": "Pedestrian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h1RcTtFdR6z9qoo9i5j3hJoHu97.jpg"
+      },
+      {
+        "name": "Roger Yuan",
+        "character": "Hazmat Technician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jHdxbT6n3ToYKw0DVFIUkva86SO.jpg"
+      },
+      {
+        "name": "Joe Sargent",
+        "character": "Narrows Teenager #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Mel Taylor",
+        "character": "Narrows Resident",
+        "profile_path": ""
+      },
+      {
+        "name": "Ilyssa Fradin",
+        "character": "Barbara Gordon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wyNyDhf7kLKAL9jHwq3yEujZVuV.jpg"
+      },
+      {
+        "name": "Jeff Christian",
+        "character": "Driving Cop",
+        "profile_path": ""
+      },
+      {
+        "name": "John Burke",
+        "character": "Arkham Lunatic Cell Mate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w0Wjfe4eZxe79rpK8thE8rTw3m1.jpg"
+      },
+      {
+        "name": "Alex Moggridge",
+        "character": "Arkham Asylum Orderly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ugPaiTt2LLBxPVXFiMpu8mP5glE.jpg"
+      },
+      {
+        "name": "Earlene Bentley",
+        "character": "Arkham Asylum Nurse",
+        "profile_path": ""
+      },
+      {
+        "name": "Jay Buozzi",
+        "character": "Asian Man / Ra's al Ghul",
+        "profile_path": ""
+      },
+      {
+        "name": "Jordan Shaw",
+        "character": "African Boy In Rags",
+        "profile_path": ""
+      },
+      {
+        "name": "Omar Mostafa",
+        "character": "Falafel Stand Vendor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/98FzjzgWZiEPrjy2tIAGgNXD3pB.jpg"
+      },
+      {
+        "name": "Patrick Pond",
+        "character": "Opera Performer #1 Faust (Bass)",
+        "profile_path": ""
+      },
+      {
+        "name": "Poppy Tierney",
+        "character": "Opera Performer #2 Margaret (Soprano)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rory Campbell",
+        "character": "Opera Performer #3 Mefistofele (Tenor)",
+        "profile_path": ""
+      },
+      {
+        "name": "Fabio Cardascia",
+        "character": "Caterer",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Rhino Smith",
+        "character": "League of Shadows Warrior",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cp06Vtw9yNgexpQVoHsoMJkTRlL.jpg"
+      },
+      {
+        "name": "Ruben Halse",
+        "character": "League of Shadows Warrior",
+        "profile_path": ""
+      },
+      {
+        "name": "Dominic Burgess",
+        "character": "Narrows Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ncqFGuh7Og4G2qTyliJiJErsMKe.jpg"
+      },
+      {
+        "name": "Nadia Cameron-Blakey",
+        "character": "Additional Restaurant Guest #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q2BCn2HILB7Sp5tFFEShqUA69wt.jpg"
+      },
+      {
+        "name": "Mark Straker",
+        "character": "Male Restaurant Guest #2",
+        "profile_path": ""
+      },
+      {
+        "name": "T.J. Ramini",
+        "character": "Crane Thug #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zjsOsw88MbG8XuPx6c45biYoM4j.jpg"
+      },
+      {
+        "name": "Kieran Hurley",
+        "character": "Crane Thug #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Emmanuel Idowu",
+        "character": "Narrows Teenager #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff Tanner",
+        "character": "Bridge Cop",
+        "profile_path": ""
+      },
+      {
+        "name": "Joey Ansah",
+        "character": "League of Shadows Warrior (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c45UKk6xo7Y3RMSTzjuTmqlklqh.jpg"
+      },
+      {
+        "name": "Adam Kirley",
+        "character": "Steiss (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5zsQgn1asesY2PYqKpJf0gi1Z4d.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Christopher Nolan",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "martial arts",
+    "undercover",
+    "loss of loved one",
+    "secret identity",
+    "crime fighter",
+    "superhero",
+    "based on comic",
+    "rivalry",
+    "ninja",
+    "vigilante",
+    "tragic hero",
+    "super power",
+    "haunted by the past",
+    "evil doctor",
+    "master villain",
+    "unfulfilled love"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "After witnessing his parents' death, Bruce learns the art of fighting to confront injustice. When he returns to Gotham as Batman, he must stop a secret society that intends to destroy the city.",
+    "When his parents are killed, billionaire playboy Bruce Wayne relocates to Asia, where he is mentored by Henri Ducard and Ra's Al Ghul in how to fight evil. When learning about the plan to wipe out evil in Gotham City by Ducard, Bruce prevents this plan from getting any further and heads back to his home. Back in his original surroundings, Bruce adopts the image of a bat to strike fear into the criminals and the corrupt as the icon known as \"Batman\". But it doesn't stay quiet for long.—konstantinwe",
+    "As a child, a young Bruce Wayne witnesses the death of his parents at the hands of a crazed criminal. As an adult, Bruce travels the world seeking the means to fight injustice. He lives amongst the boroughs of criminals and thieves in central Asia. Eventually, he meets a mysterious figure named Ra's Al Guhl and joins his gang called the League of Shadows. Using his training, he is able to defeat his trainer. Finally meeting up with his estate caretaker Alfred Pennyworth, Bruce Wayne returns to Gotham. There, he becomes the new head of Wayne Enterprises. Together, with the help of the C.E.O. of the Wayne Enterprises Applied Sciences division, a man name Lucius Fox, he dons a new persona: Batman. As Batman takes on the criminals and organized crime underworld of Gotham, a sinister new underbelly of the city is exposed, and a new class of criminal is born. Will Batman be the one to stop them all, or does Gotham need a hero with a face?—halo1k",
+    "Bruce Wayne, who experiences the death of his parents at a very young age, relocates to Asia and trains with his mentors, Henri Ducard and Ra's Al Ghul in fighting injustice. He returns to a crime-ridden Gotham and with the help of his old butler and estate caretaker, Alfred, the C.E.O. of Wayne Enterprises Applied Science Division Lucius Fox, he dons a new persona, Batman, to strike fear into the hearts of the criminals and the corrupt. With the help of rising cop Gordon, and the Assistant District Attorney, and Bruce's love interest Rachel Dawes, he is able to take down the Mafia Don Falcone, and the twisted doctor/drug dealer Jonathan Crane a.k.a. The Scarecrow. With Ra's Al Ghul's return with his evil plan to destroy Gotham by inducing fear into the hearts of the people, Batman must defeat his mentor once again so as to bring peace in Gotham.—srijanarora-152-448595",
+    "After the death of his parents, a rich middle-aged male learns martial arts. He returns to his home city to begin to fight as a vigilante and defend his home city from criminals who want to destroy the city and drive everyone to madness and make them lose their minds.—RECB3"
+  ],
+  "synopsis": "As a child, Bruce Wayne (Christian Bale) falls into an abandoned well filled with bats, causing him to develop a phobia, and later witnesses his parents' murder at the hands of mugger Joe Chill. Years later, Chill is granted parole in exchange for agreeing to testify against crime boss Carmine Falcone.Bruce, now a young man, goes to the courthouse intending to shoot Chill, but one of Falcone's assassins does so first. Bruce confides in his childhood friend Rachel Dawes (Katie Holmes), now a Gotham City district attorney, who is disgusted by Bruce's desire for vengeance. Bruce leaves Gotham to learn the ways of the criminal underworld, in hopes of learning skills that will allow him to return to Gotham and free it from the crime and corruption that threatens to consume it. In a Bhutanese prison, he meets Ducard, who offers to train him as a ninja of the League of Shadows led by Ra's Al Ghul. As he completes his training, Bruce learns of the League's true intentions: to liberate Gotham from the evils that plague it by destroying the city. He burns down the League's temple, killing Ra's (Liam Neeson) in the process, while saving the life of Ducard.Bruce returns to Gotham. While publicly posing as a reckless playboy, he takes an interest in his family's company, Wayne Enterprises, a technology and defense conglomerate run by the unscrupulous CEO William Earle, who intends to take the company public. Bruce meets Lucius Fox, who introduces him to several of Wayne's experimental prototype technologies, including an armored car and protective bodysuit, which Bruce uses to form his crime-fighting persona, Batman. As Batman, Bruce intercepts an illegal drug shipment, empowering Sgt. Jim Gordon and the Gotham police to arrest the previously untouchable Falcone. Meanwhile, a Wayne Enterprises cargo ship is raided and an experimental weapon is stolen, a \"Microwave Emitter\" that uses microwaves to vaporize an enemy's water supply.Back in Gotham, Falcone and his henchmen are declared mentally unfit for trial and transferred to Arkham Asylum by the corrupt Dr. Jonathan Crane, who had been using Falcone to import a dangerous hallucinogenic drug that causes severe psychosis. Crane exposes Falcone to the toxin while wearing a burlap mask, driving Falcone mad with fear of the \"Scarecrow.\" While investigating Crane, Batman is also exposed to the drug and is rescued by Alfred and given an antidote by Fox. Rachel goes to Arkham, where Crane reveals that he has been dumping the toxin into Gotham's water supply before dosing her with it. She is rescued by Batman, who exposes Crane to the toxin and interrogates him. Crane reveals that the toxin is harmless in liquid form and only dangerous if inhaled. Batman inoculates Rachel and gives her two vials of the antidote, one for Sgt. Gordon and one for mass production.At his birthday celebration at Wayne Manor, Bruce is confronted by Ducard, who reveals himself to be the real Ra's Al Ghul. Bruce fakes a drunken tirade to get rid of his guests, leaving him alone with Ra's and his ninjas. Ra's reveals the League's plan to destroy Gotham: having stolen the Microwave Emitter and conspired with Crane, they intend to vaporize the city's toxin-riddled water supply, creating mass hysteria and violence. The League sets fire to the mansion and Bruce is nearly trapped inside but is saved by Alfred. As the League begins unleashing the toxin, Batman rescues Rachel from a drug-induced mob and reveals his true identity to her. He entrusts Sgt. Gordon with the Batmobile and pursues Ra's, who is using Gotham's train system to deliver the weapon throughout the city. Batman confronts Ra's on the train and escapes just as Gordon uses the Batmobile to destroy the elevated tracks, leaving Ra's to die in the ensuing crash.Batman becomes a public hero, but simultaneously loses Rachel, who cannot bring herself to love both Bruce and Batman. Bruce buys a controlling stake in the now publicly-traded Wayne Enterprises, fires Earle, and replaces him with Fox. Jim Gordon is promoted to Lieutenant. He shows Batman the new Bat-Signal and mentions a new costumed criminal who leaves Joker cards at crime scenes. Batman promises to investigate, and disappears into the night.",
+  "imdb_score": 8.2
+}

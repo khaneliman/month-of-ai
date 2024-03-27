@@ -1,0 +1,525 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
+  "id": 497698,
+  "title": "Black Widow",
+  "poster_path": "https://image.tmdb.org/t/p/w500/kwB7d51AIcyzPOBOHLCEZJkmPhQ.jpg",
+  "release_date": "2021-07-07",
+  "vote_average": 7.273,
+  "vote_count": 9579,
+  "popularity": 70.315,
+  "overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+  "imdb_id": "tt3480822",
+  "budget": 200000000,
+  "homepage": "https://www.marvel.com/movies/black-widow",
+  "revenue": 379751131,
+  "runtime": 134,
+  "tagline": "Her world. Her secrets. Her legacy.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Marvel Studios"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Scarlett Johansson",
+        "character": "Natasha Romanoff / Black Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6NsMbJXRlDZuDzatN2akFdGuTvx.jpg"
+      },
+      {
+        "name": "Florence Pugh",
+        "character": "Yelena Belova",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f8e41Oon18FiEZr4zgyJDVUqOeh.jpg"
+      },
+      {
+        "name": "Rachel Weisz",
+        "character": "Melina Vostokoff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/msTqKPA33ryVtcVNgOdeaJGYq16.jpg"
+      },
+      {
+        "name": "David Harbour",
+        "character": "Alexei Shostakov / Red Guardian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/chPekukMF5SNnW6b22NbYPqAStr.jpg"
+      },
+      {
+        "name": "Ray Winstone",
+        "character": "Dreykov",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hhKZGnu66EXC0nDYzjErMs62ETb.jpg"
+      },
+      {
+        "name": "Olga Kurylenko",
+        "character": "Antonia Dreykov",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ei6eYUhQFw2AaV6U5fyPptBaPF0.jpg"
+      },
+      {
+        "name": "Ever Anderson",
+        "character": "Young Natasha",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qfwlXH1mmJkzmToXsCN7A6IGvcg.jpg"
+      },
+      {
+        "name": "Violet McGraw",
+        "character": "Young Yelena",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mAhZNh3iEn0sjbnuWSeHnlWw2yA.jpg"
+      },
+      {
+        "name": "O.T. Fagbenle",
+        "character": "Mason",
+        "profile_path": "https://image.tmdb.org/t/p/w185/baIiZBDYpYXfG4SlonbcqyYg6l.jpg"
+      },
+      {
+        "name": "William Hurt",
+        "character": "Secretary Thaddeus 'Thunderbolt' Ross",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j3mjmuHLBW4XQSw53C8Sh0Lh3ZQ.jpg"
+      },
+      {
+        "name": "Ryan Kiera Armstrong",
+        "character": "Young Antonia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z162srvk0yf8zD1jfEnnnxpRcvm.jpg"
+      },
+      {
+        "name": "Liani Samuel",
+        "character": "Lerato",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x80TD1jUsZwJOn1NnrU6f8h6tY1.jpg"
+      },
+      {
+        "name": "Michelle Lee",
+        "character": "Oksana",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r6QzFK8IBxO1Kp3zm3GJ3FUuwwR.jpg"
+      },
+      {
+        "name": "Lewis Young",
+        "character": "Scientist Morocco 1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/te6OwBPLWZlQuVKxxff3dcwHM7a.jpg"
+      },
+      {
+        "name": "C.C. Smiff",
+        "character": "Scientist Morocco 2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/glhejpqIphvfpeOagIvxC1gHJyo.jpg"
+      },
+      {
+        "name": "Nanna Blondell",
+        "character": "Ingrid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/llxgGKg9MtCu4v7fT93FPvhfZhI.jpg"
+      },
+      {
+        "name": "Simona Zivkovska",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iPyqxBiuqk3eThlo5j3T528QO0G.jpg"
+      },
+      {
+        "name": "Erin Jameson",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cXCJ4PDFL5BWZCGakmvCSfXSUpJ.jpg"
+      },
+      {
+        "name": "Shaina West",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A2XMk7PktS7s8AeGfv30dEFCdlL.jpg"
+      },
+      {
+        "name": "Yolanda Lynes",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vYMAWq6c1mp4YFQgb4kaTFjXna.jpg"
+      },
+      {
+        "name": "Claudia Heinz",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xEhjy00x5NAC7Hluo93vIf80rfQ.jpg"
+      },
+      {
+        "name": "Fatou Bah",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tfM5EaGiUgFJNM2yoAFYIvFH4lS.jpg"
+      },
+      {
+        "name": "Jade Ma",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r3hkiv1qBdMmYwV9XdXdjMPFhk0.jpg"
+      },
+      {
+        "name": "Jade Xu",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lJBBfW1egrlpHvm9cBv008zqMDv.jpg"
+      },
+      {
+        "name": "Lucy-Jayne Murray",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bPLENx69rIWmiVlWRP8AK0bAErj.jpg"
+      },
+      {
+        "name": "Lucy Cork",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/litpdpX4LfUyB4OM9q25pUIkPT3.jpg"
+      },
+      {
+        "name": "Eniko Fulop",
+        "character": "Widow",
+        "profile_path": ""
+      },
+      {
+        "name": "Lauren Okadigbo",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3NCpgx7ymqjBStqDFNgl8jkk1ld.jpg"
+      },
+      {
+        "name": "Aurélia Agel",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zHFdxVRVfBI4rrMBUsSyzUbZGzN.jpg"
+      },
+      {
+        "name": "Zhanè Samuels",
+        "character": "Widow",
+        "profile_path": ""
+      },
+      {
+        "name": "Shawarah Battles",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xx69SCBNcGjZeFQwU5uRWPZlqli.jpg"
+      },
+      {
+        "name": "Tabby Bond",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/snxRoygwlQCaAZgQQVJPxslkN6G.jpg"
+      },
+      {
+        "name": "Madeleine Nicholls",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vo36T6XfrsGtyHE6JY2Qnh0cNK.jpg"
+      },
+      {
+        "name": "Yasmin Riley",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vF2FaxLLkTTTlzH3ozrQzHVpcuQ.jpg"
+      },
+      {
+        "name": "Fiona Griffiths",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eP5IKdONRaq5WAVc7jBxmDZJqpj.jpg"
+      },
+      {
+        "name": "Georgia Curtis",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qJZFgX97uFxEIz0uKsw597XifzG.jpg"
+      },
+      {
+        "name": "Svetlana Constantine",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zVvQ5omQS1jpsTHqCUqvm11lK6d.jpg"
+      },
+      {
+        "name": "Ione Butler",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sZd7r2I0DU0BB5dn1AsBFPu1HJ3.jpg"
+      },
+      {
+        "name": "Aubrey Cleland",
+        "character": "Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fC27EDthUrNj9eeP2vNiBr7f8P1.jpg"
+      },
+      {
+        "name": "Kurt Yue",
+        "character": "Ross Lieutenant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kPy0d5uUNiJJB18T55IdE01Ruru.jpg"
+      },
+      {
+        "name": "Doug Robson",
+        "character": "Ohio Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcel Dorian",
+        "character": "Man In BMW",
+        "profile_path": ""
+      },
+      {
+        "name": "Zoltán Nagy",
+        "character": "Budapest Clerk",
+        "profile_path": ""
+      },
+      {
+        "name": "Liran Nathan",
+        "character": "Mechanic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4pcKpaZkqObqhkOpkkv7qIOfmZh.jpg"
+      },
+      {
+        "name": "Judit Varga-Szathmary",
+        "character": "Mechanic's Wife",
+        "profile_path": ""
+      },
+      {
+        "name": "Noel Krisztian Kozak",
+        "character": "Mechanic's Child",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Razpopov",
+        "character": "Tattoo Gulag Inmate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2DW6vLwnBEgfQpiXSgYRDrDU6sY.jpg"
+      },
+      {
+        "name": "Olivier Richters",
+        "character": "Ursa Major",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Zz5WYE1Muc3AX9daxCxgNTRE5.jpg"
+      },
+      {
+        "name": "Nina Novich",
+        "character": "Gulag Inmate",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Byron",
+        "character": "Gulag Cookie Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6p5LO85IeXqir68HvnFWDCc6Dwj.jpg"
+      },
+      {
+        "name": "Ed Ashe",
+        "character": "Strudel Gulag Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Dawid Szatarski",
+        "character": "Red Room Scientist 1",
+        "profile_path": ""
+      },
+      {
+        "name": "Cali Nelle",
+        "character": "Red Room Scientist 2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9JsBGeqfSe0Hugz9IWdkUUGIhhL.jpg"
+      },
+      {
+        "name": "Geoffrey D. Williams",
+        "character": "Ross Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Pralgo",
+        "character": "Ross Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lF2UcQemojihJM4XlLGkWEEsJuJ.jpg"
+      },
+      {
+        "name": "Jacinte Blankenship",
+        "character": "Ross Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6UZdl5MU1kTptbCN6J1qktDeh4p.jpg"
+      },
+      {
+        "name": "Josh Henry",
+        "character": "Ross Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sTNvs8688s5jlsORMzfaZf1RCQg.jpg"
+      },
+      {
+        "name": "Jose Miguel Vasquez",
+        "character": "Ross Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cv9kMHjsttfgJLy8gPRWdnEwic.jpg"
+      },
+      {
+        "name": "Valentina Herrera",
+        "character": "Young Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tZoBgvCAnmtQPv9WewjbY3w4d3K.jpg"
+      },
+      {
+        "name": "Danielle Jalade",
+        "character": "Young Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8gqda2enwgmnpWakUoiFRrzIgm6.jpg"
+      },
+      {
+        "name": "Aria Brooks",
+        "character": "Street Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jH5h7b4kAFgs5FP0TyMarVoxMzl.jpg"
+      },
+      {
+        "name": "Sophie Colgrove",
+        "character": "Street Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Caister Myung Choi",
+        "character": "Street Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "David Turner",
+        "character": "SWAT Team (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Edward L. Oliver",
+        "character": "SWAT Team Leader (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s64c2yiGaozakdNegRejZC18stH.jpg"
+      },
+      {
+        "name": "Rob Horrocks",
+        "character": "Polish Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rliI97z19GjRmqTD2yAKsm2qMbe.jpg"
+      },
+      {
+        "name": "Oliver Simms",
+        "character": "Super Soldier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Yuuki Luna",
+        "character": "Widow (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o3vsR47ZLOWSduz5xpeaMfZXPVD.jpg"
+      },
+      {
+        "name": "Kalina Vanska",
+        "character": "Commuter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jordyn Curet",
+        "character": "Young Ingrid (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t9qacVvl5pjx1LHbrGsOXnL2yUr.jpg"
+      },
+      {
+        "name": "Chad J. Wagner",
+        "character": "Neighbor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joakim Skarli",
+        "character": "Russian Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kcDgMDDxYnNJooDwKNoABWRf8BG.jpg"
+      },
+      {
+        "name": "Ian Wilson",
+        "character": "Russian Spetnaz (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tyrone Kearns",
+        "character": "Prisoner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gavin Lee Lewis",
+        "character": "Prisoner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/snwH9NgMV6gS3KXJj0kG7aiicEP.jpg"
+      },
+      {
+        "name": "Ahmed Bakare",
+        "character": "Prisoner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/upy0oFY2Z1Vg67MQXYv6c164LkQ.jpg"
+      },
+      {
+        "name": "Zoltan Rencsar",
+        "character": "Prisoner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Adam Prickett",
+        "character": "Russian Prisoner (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pDXhEuwFIEByE91tWLCqK0YyG6H.jpg"
+      },
+      {
+        "name": "Luigi Boccanfuso",
+        "character": "Gulag Prisoner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Roman Green",
+        "character": "Gulag Arm Wrestling Inmate (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uUd7UsRw94bvbluAkntDDdOJpM0.jpg"
+      },
+      {
+        "name": "Clem So",
+        "character": "Gulag Inmate (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/elyNvdqbWo2v2teDKFQ3jpoapU0.jpg"
+      },
+      {
+        "name": "Graham Kitchen",
+        "character": "Gulag Inmate #4 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Joseph Woolf",
+        "character": "Gulag Inmate #120 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/it2F1ZSOqFp68td0IdfgniooE4d.jpg"
+      },
+      {
+        "name": "John Wolfe",
+        "character": "Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pAi854GfMOaNf9FoNQ2PAWyQCCl.jpg"
+      },
+      {
+        "name": "Paul O'Kelly",
+        "character": "Riot Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Shane Askam",
+        "character": "Gulag Riot Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Obie Matthew",
+        "character": "Prison Riot Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dMf7uPLi74oLJcB67zMyRgcsO2u.jpg"
+      },
+      {
+        "name": "Ty Hurley",
+        "character": "Prison Riot Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Hn1wQPJlTd9m1vHs2TrIYC8NK1.jpg"
+      },
+      {
+        "name": "Stephen Samson",
+        "character": "KGB (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/B1Pkaj8hhEVtDhiSFNlxg3tOL9.jpg"
+      },
+      {
+        "name": "Marian Lorencik",
+        "character": "KGB (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xAQrvjx7EI5vIV8I7ebUyGqTAin.jpg"
+      },
+      {
+        "name": "Julia Louis-Dreyfus",
+        "character": "Contessa Valentina Allegra de Fontaine (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sXpjQoFoYqNehfWhlkScF8lo9vc.jpg"
+      },
+      {
+        "name": "Jeremy Renner",
+        "character": "Clint Barton / Hawkeye (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+      },
+      {
+        "name": "Dale Liner",
+        "character": "SWAT Team Leader (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g4frvT3XRUmLhS9DLZm1E1Oed0Q.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Cate Shortland",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4XvyAyqYH8QDMbo0OwZtRHtbLti.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "assassin",
+    "hero",
+    "spy",
+    "kgb",
+    "based on comic",
+    "female assassin",
+    "female spy",
+    "female hero",
+    "aftercreditsstinger",
+    "marvel cinematic universe (mcu)",
+    "woman director"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+    "In Marvel Studios' action-packed spy thriller \"Black Widow,\" Natasha Romanoff aka Black Widow confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.—topmeasure"
+  ],
+  "synopsis": "In 1995, young Natasha Romanoff and Yelena Belova are whisked away by their surrogate parents, Alexei Shostakov, originally Russia's Captain America known as the Red Guardian, and former Black Widow Melina Vostokoff from their home in Ohio. As their mission ends, Romanoff and Belova are put through the Red Room for further training.21 years later, following the battle between the Avengers at Leipzig/Halle Airport, Romanoff is a fugitive from the government for violating the Sokovia Accords. She escapes from U.S. Secretary of State Thaddeus Ross, fleeing to a safehouse in Norway, reuniting with her contact Rick Mason. In Morocco, Belova is still working for the Red Room. Belova kills Oksana, a former Black Widow, only to come in contact with a substance called Red Dust, which removes the Red Room's control over her. She sends this antidote to Romanoff's safehouse in the hopes that she will return to help her.As Romanoff unknowingly drives off with the antidote, she is attacked by Taskmaster, who is after the Red Dust. Romanoff manages to evade Taskmaster and learns that the Dust came from Belova. The two reunite in Budapest, but are attacked by Black Widows. While escaping, Romanoff learns the Red Room is still active and that its leader, Dreykov, is still alive. In order to join S.H.I.E.L.D. years previously, Romanoff's mission had been to kill Dreykov. After detonating a building containing Dreykov and his young daughter Antonia (an act that has haunted Romanoff), both were presumed dead. In the present, Romanoff and Belova evade Taskmaster and meet back up with Mason, who supplies them with an aircraft.Romanoff and Belova break Shostakov out of prison to learn where Dreykov is. He tells them that they need to speak with Vostokoff, who lives on a farm in Russia using mind control on pigs. Belova reveals that while they were not a real family, she still wanted to believe that they were so. Shostakov and Vostokoff admit that they, too, wished they were a real family. Unfortunately, Vostokoff gives their location to Dreykov. His agents arrive and take them away to the Red Room, located on an aerial base.As Dreykov congratulates Vostokoff for finding Romanoff and Belova, it is revealed that Vostokoff and Romanoff used face mask technology to switch places at the farm, having planned their own capture. Romanoff learns that Taskmaster is Dreykov's daughter Antonia, who suffered severe damage from the explosion; Dreykov was forced to put a chip in her head to help her, also turning her into the perfect soldier. Romanoff discovers that she cannot harm Dreykov due to a pheromone lock he installed in every Widow. She notices that Dreykov has been controlling Widows all around the world via his control desk. After goading Dreykov into punching her in the face, Romanoff manages to sever a nerve in her nasal passage to negate the pheromone, allowing herself to attack Dreykov.Vostokoff attempts to take out the ship's engine. Meanwhile, Shostakov battles Antonia, while Belova searches for the other Widows sent to protect Dreykov. Dreykov escapes as the Widows gang up on Romanoff. However, Belova creates a Red Dust bomb, releasing the Widows from their mind control. Romanoff reaches the control desk and copies the locations of the other Widows worldwide to a portable drive, just as the Red Room begins to explode and fall. Before leaving the control room, Romanoff picks up two vials of Red Dust that survived Belova's bomb. Vostokoff and Shostakov are forced to escape the ship via aircraft just as Belova takes out Dreykov's escape ship, killing him.Romanoff gives Belova a parachute as she and Antonia have one final battle through the sky before safely landing on the ground. Natasha uses one vial of Red Dust on Antonia, freeing her from her mind-control. The rest of the Widows arrive as Belova, Vostokoff, and Shostakov say goodbye to Romanoff. Belova gives Romanoff her vest to remember her by, and Romanoff gives Belova the last Red Dust vial and the portable drive, instructing her to find and free the other Widows. As they leave, along with a recovering Antonia, Romanoff awaits the arrival of Ross and his men. Two weeks later, Romanoff, now sporting blonde hair, reunites with Mason, supplying her with a quinjet. She rides off to free the detained Avengers from the Raft.In a post-credits scene set after Romanoff's death: Belova encounters Contessa Valentina Allegra de Fontaine, now her employer, at Romanoff's grave. Belova receives her next assignment: take down Clint Barton, the man she claims is \"responsible\" for Romanoff's death.",
+  "imdb_score": 6.7
+}

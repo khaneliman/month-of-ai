@@ -1,0 +1,273 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
+  "id": 646385,
+  "title": "Scream",
+  "poster_path": "https://image.tmdb.org/t/p/w500/nD4M4Bx457ryLuKYpxFwQ2IBJ5w.jpg",
+  "release_date": "2022-01-12",
+  "vote_average": 6.684,
+  "vote_count": 2973,
+  "popularity": 68.015,
+  "overview": "Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town’s deadly past.",
+  "imdb_id": "tt11245972",
+  "budget": 24000000,
+  "homepage": "https://www.paramountmovies.com/movies/scream",
+  "revenue": 137700000,
+  "runtime": 114,
+  "tagline": "It's always someone you know.",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Paramount",
+    "Project X Entertainment",
+    "Radio Silence",
+    "Spyglass Media Group"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Melissa Barrera",
+        "character": "Sam Carpenter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5oeFHUwrFz2UylWdYEXXJxfUUqL.jpg"
+      },
+      {
+        "name": "Jenna Ortega",
+        "character": "Tara Carpenter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q1NRzyZQlYkxLY07GO9NVPkQnu8.jpg"
+      },
+      {
+        "name": "Mason Gooding",
+        "character": "Chad Meeks-Martin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bmlry1xqBzNgv8Chm783ss93Cvg.jpg"
+      },
+      {
+        "name": "Jasmin Savoy Brown",
+        "character": "Mindy Meeks-Martin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qvN5Zb1WJJvKgUTnffPfzLaVIXc.jpg"
+      },
+      {
+        "name": "Jack Quaid",
+        "character": "Richie Kirsch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nI6ULvUIxxajya5DeTxcCdV3cal.jpg"
+      },
+      {
+        "name": "Mikey Madison",
+        "character": "Amber Freeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bcDV4CbxTmOLq2QJbDojxp1oQxF.jpg"
+      },
+      {
+        "name": "Courteney Cox",
+        "character": "Gale Weathers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o4Fjm9aHL5UNqkXeRgTG8wtvgQv.jpg"
+      },
+      {
+        "name": "David Arquette",
+        "character": "Dewey Riley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/upqqLrhVP2JOxy0XgKO0pCLWlbq.jpg"
+      },
+      {
+        "name": "Neve Campbell",
+        "character": "Sidney Prescott",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9fDbXBbrM6L10YrzDJUJowDt8U.jpg"
+      },
+      {
+        "name": "Dylan Minnette",
+        "character": "Wes Hicks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/acjK192xObchDXIHv17OjE5FkK0.jpg"
+      },
+      {
+        "name": "Skeet Ulrich",
+        "character": "Billy Loomis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/moyTBJUTl82PaAhm8aHGwlvKr7r.jpg"
+      },
+      {
+        "name": "Sonia Ammar",
+        "character": "Liv McKenzie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/berQQTh2roTqiwYfIUvGAbQlVU.jpg"
+      },
+      {
+        "name": "Roger L. Jackson",
+        "character": "'The Voice' (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kDAoLRPVKgfTXRhDep0JNouhyAV.jpg"
+      },
+      {
+        "name": "Kyle Gallner",
+        "character": "Vince Schneider",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v7wfYXfakHyeNudiATORtlQ6mny.jpg"
+      },
+      {
+        "name": "Marley Shelton",
+        "character": "Sheriff Judy Hicks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6fqY7QzZI5yoCCJZpvX0MceL6kZ.jpg"
+      },
+      {
+        "name": "Reggie Conquest",
+        "character": "Deputy Farney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yudAyvwLhTZG21dstMYg0YecKtT.jpg"
+      },
+      {
+        "name": "Heather Matarazzo",
+        "character": "Martha Meeks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/afZhMKmsAHZA9jHq7F9tNUFZci6.jpg"
+      },
+      {
+        "name": "Chester Tam",
+        "character": "Deputy Vinson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1NPEpcKbaGkdpCZywzz8Heec0OC.jpg"
+      },
+      {
+        "name": "Brooke Barnhill",
+        "character": "Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ikurnBXULRQUQk55Pzuz2lXfiVc.jpg"
+      },
+      {
+        "name": "Stephen West-Rogers",
+        "character": "EMT",
+        "profile_path": ""
+      },
+      {
+        "name": "Milli M.",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A46dMCDh7NRNQqDptWkpPPLCWjY.jpg"
+      },
+      {
+        "name": "Christopher Speed",
+        "character": "Movie Randy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/31R8cXdHFDJM5t8Y3bF0UAs4ms6.jpg"
+      },
+      {
+        "name": "Chelsea Rebecca",
+        "character": "Film Fails Host",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oq2me7xXMZR1nDeXSdoiqHXHJ5z.jpg"
+      },
+      {
+        "name": "James A. Janisse",
+        "character": "Film Fails Host",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cI90aPxgOlX78xR6TwA9dnxEiH2.jpg"
+      },
+      {
+        "name": "Drew Barrymore",
+        "character": "Principal / Party Guest (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mVQdb6w6gXmLZ6nZ3K9Fw3vzawM.jpg"
+      },
+      {
+        "name": "Adam Brody",
+        "character": "Party Guest (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aBHrdOtolyYkAOjNX0Bpkat5WX5.jpg"
+      },
+      {
+        "name": "Henry Winkler",
+        "character": "Party Guest (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c35LVOjB1gbY5iYzhN9PGIXUHWt.jpg"
+      },
+      {
+        "name": "Hayden Panettiere",
+        "character": "Party Guest (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bhGkVHCFu8peC4rIXIUMWCQqZR7.jpg"
+      },
+      {
+        "name": "Jamie Kennedy",
+        "character": "Party Guest (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ipfv0IU3VYGOz5OBmi9WJi5autF.jpg"
+      },
+      {
+        "name": "Matthew Lillard",
+        "character": "Flamethrower Ghostface / Party Guest (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/51v6jsvzuAXYirIzdqcjLBp46d6.jpg"
+      },
+      {
+        "name": "Matt Bettinelli-Olpin",
+        "character": "Party Guest (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gVb02wTpNfD2YN5oyJL2AgeFP8x.jpg"
+      },
+      {
+        "name": "Tyler Gillett",
+        "character": "Party Guest (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ynHIaic0nC2tDE1BKx1g5tmabbt.jpg"
+      },
+      {
+        "name": "Iya Labunka",
+        "character": "Party Guest (voice) (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Williamson",
+        "character": "Party Guest (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jWgZZoKBU1WFaCO5C7jpMBZ7xJs.jpg"
+      },
+      {
+        "name": "Marco Beltrami",
+        "character": "Party Guest (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fb3TfFITlOC0BN3kNpUXj1FL0LN.jpg"
+      },
+      {
+        "name": "Patrick Lussier",
+        "character": "Party Guest (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iDVSGsOz8PewY4SCAEDCDaobi4.jpg"
+      },
+      {
+        "name": "Julie Plec",
+        "character": "Party Guest (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kQeuOgZBKDs80W4Ssm91x6zAdWu.jpg"
+      },
+      {
+        "name": "Rian Johnson",
+        "character": "Party Guest (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uPWwvdppeZVKPbYcjXKU8zyuAVh.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Matt Bettinelli-Olpin",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gVb02wTpNfD2YN5oyJL2AgeFP8x.jpg"
+      },
+      {
+        "name": "Tyler Gillett",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ynHIaic0nC2tDE1BKx1g5tmabbt.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "mask",
+    "attempted murder",
+    "hallucination",
+    "murder",
+    "teen movie",
+    "serial killer",
+    "hospital",
+    "slasher",
+    "whodunit",
+    "killing spree",
+    "hometown",
+    "reboot",
+    "crime spree",
+    "illegitimate child",
+    "murder mystery",
+    "legacy",
+    "fandom",
+    "copycat killer",
+    "generation z",
+    "murder spree",
+    "sister sister relationship",
+    "retired cop",
+    "return to hometown",
+    "reddit",
+    "requel"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "25 years after a streak of brutal murders shocked the quiet town of Woodsboro, Calif., a new killer dons the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town's deadly past.",
+    "Like the original movie 25 years ago, a teenage girl is at home alone when the phone rings. A man wants to play a game with her. With the threat of killing her best friend, Tara's forced to play along. She barely survives the ghost face masked intruder's stabbing. Her 5 year older sister, Sam(antha), who left home at 18 due to mental problems, Sam's boyfriend and Tara's high school friends visit her at the hospital. Later on in a bar, a guy provokes the friends and is later attacked outside in the parking lot by Ghostface. Sam receives a call from him at the hospital and then he unsuccessfully attacks her. She later reveals family secrets to her sister. Sam contacts one of the original victims, Dewey, for help. He warns two other original victims, Sidney Prescott and Gale Weathers, about Ghostface being back. Who is Ghostface? How many more must die?—Scott Filtenborg"
+  ],
+  "synopsis": "Twenty-five years after Billy Loomis (Skeet Ulrich) and Stu Macher's killing spree in Woodsboro, high school student Tara Carpenter (Jenna Ortega) is home alone when she is attacked by Ghostface and left hospitalized. Tara only survived as the cops got to the house on time before the Ghostface could kill her.\nGale Weathers was the reporter who wrote a book on the original killings and those got adapted into a franchise of \"Stab\" movies.In Modesto, Tara's estranged older sister Sam Carpenter (Melissa Barrera) is informed by Wes Hicks (Dylan Minnette), one of Tara's friends, about the attack. Sam returns to Woodsboro with her boyfriend Richie Kirsch (Jack Quaid) to visit Tara at the hospital, where Sam is reunited with Tara's friend group: Wes, Amber Freeman (Mikey Madison), twins Chad (Mason Gooding) and Mindy Meeks-Martin (Jasmin Savoy Brown), and Liv McKenzie (Sonia Ammar).\nThat night, Liv's ex-boyfriend Vince Schneider (Kyle Gallner), who is Stu's nephew, is killed by Ghostface. Vince had been stalking Liv for the last few weeks.\nAfter an encounter with Ghostface at the hospital, Sam tells Tara that she has been dealing with hallucinations of Billy, who Sam learned as a teenager was her biological father. Sam's mother was married to her father, but had sex with Billy Loomis as an affair, and conceived Sam.\nSam's true parentage resulted in their parents' separation, and this is why Sam became estranged from Tara. Sam promised her mother that she would never reveal the truth to Tara and got into drugs to keep herself away from her reality.Sam and Richie visit Dewey Riley (David Arquette), who is divorced from Gale Weathers (Courteney Cox). They ask for his help in stopping the killer. Dewey tells Sam not to trust her boyfriend, and that the killer is most probably part of Tara's friend group.\nDewey contacts Gale and Sidney Prescott (Neve Campbell), warning them about the return of Ghostface. Dewey joins them at Mindy and Chad's home and is reunited with the twins' mother Martha (Heather Matarazzo), Randy Meeks' sister.\nThe gang realizes that Vince was the son of Stu Macher's sister. Stu Macher was Billy Loomis's accomplice.Mindy deduces that the killer is making a \"Requel\", using Tara and her friends as the new generation and using Sam's connection to Billy as a way to weave the legacy characters. Ghostface then murders Wes and his mother, Sheriff Judy Hicks (Marley Shelton), at their home. Dewey reunites with Gale, who has arrived in town to cover the story.\nMeanwhile Sam finds that all the cops are at Judy's house and realizes that her sister Tara is unprotected at the hospital. She knows that Tara is in trouble. Dewey goes with Sam.\nAt the hospital, Tara and Richie are attacked by Ghostface, but are saved by an arriving Dewey and Sam. Sam, Tara and Richie escape, but Dewey is killed when he attempts to finish off Ghostface.Sidney arrives in town after learning of Dewey's death and meets both Gale and Sam at the hospital. Sidney asks Sam to help stop the killer, but Sam declines, choosing to leave town with Richie and Tara. Sidney puts a tracker on Sam's car.\nTara forgot her inhaler and decided to make a pit stop at Amber's as she kept an extra one there.\nSidney and Gale follow the trio to Amber's, which is revealed to be Stu's former home where the original Woodsboro massacre took place. While a party is in progress to honor Wes' memory. As Sam and Tara arrive with Richie, Amber ends the party and sends everybody home. Chad and Mindy are both attacked by Ghostface, who manage to survive.\nGale calls Sam and tells her that the house they are in is the original Stu Macher's house and tells her to leave asap.\nAs the friend group convenes, Amber pulls out Dewey's gun and shoots Liv in the head, revealing herself as the killer. Sidney and Gale arrive, and Richie is revealed as Amber's accomplice. He stabs Sam, and he and Amber take Sam, Sidney, and Gale into the kitchen where Sidney had first faced off against Billy and Stu.Richie and Amber reveal they are fans of the Stab film series who met online. Disappointed in the trajectory taken with the most-recent Stab 8, they decided to embark on a new killing spree to bring back the \"original cast\" and provide new-and-improved \"source material\" for a future Stab film, then frame Sam as the killer.\nSam attacks Richie and Tara attacks Amber but is incapacitated; Richie goes after Sam while Sidney and Gale fight Amber together, ending with Gale breaking free and shooting Amber, who lands on a turned-on stove and is set on fire.\nRichie pursues Sam, who sees another hallucination of Billy, which brings her attention to Amber's abandoned knife. Embracing her paternal heritage, she uses the knife to stab Richie repeatedly and fatally slit his throat, before shooting him to ensure he is dead. A horribly burnt Amber attempts to attack the group again but is shot to death by Tara.Tara and the Meeks twins are loaded into ambulances to be taken to the hospital, and Sam thanks Sidney and Gale for their help. Gale promises not to write a new book about the new murders and give the killers notoriety, opting to write a tribute to Dewey instead. Sam joins Tara in the ambulance and the night's events are covered in a news report.",
+  "imdb_score": 6.3
+}

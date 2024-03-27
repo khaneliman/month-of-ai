@@ -1,0 +1,618 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+  "id": 1578,
+  "title": "Raging Bull",
+  "poster_path": "https://image.tmdb.org/t/p/w500/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+  "release_date": "1980-11-14",
+  "vote_average": 7.947,
+  "vote_count": 4037,
+  "popularity": 30.282,
+  "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+  "imdb_id": "tt0081398",
+  "budget": 18000000,
+  "homepage": "",
+  "revenue": 23000000,
+  "runtime": 129,
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "United Artists",
+    "Chartoff-Winkler Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Robert De Niro",
+        "character": "Jake LaMotta",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+      },
+      {
+        "name": "Cathy Moriarty",
+        "character": "Vickie LaMotta",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g5pXUDGH30egsCq9eTDrsikFAYk.jpg"
+      },
+      {
+        "name": "Joe Pesci",
+        "character": "Joey LaMotta",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4AO0Rwdg2ky8Usmgzgj0dvhy7Zw.jpg"
+      },
+      {
+        "name": "Frank Vincent",
+        "character": "Salvy Batts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ipLwnZMyi4HqpiOB5vwrktn331p.jpg"
+      },
+      {
+        "name": "Nicholas Colasanto",
+        "character": "Tommy Como",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xxLH9OyleTGlhAqSPavcYoSMpQB.jpg"
+      },
+      {
+        "name": "Theresa Saldana",
+        "character": "Lenore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/VWTUbbQQX1Sq1b8AIwbXDuT93u.jpg"
+      },
+      {
+        "name": "Mario Gallo",
+        "character": "Mario",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rogY5uQfrQHI0rr68q3AMmMOvay.jpg"
+      },
+      {
+        "name": "Frank Adonis",
+        "character": "Patsy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ewgcaacrrpFO4CzBjIUq5BUUGPS.jpg"
+      },
+      {
+        "name": "Joseph Bono",
+        "character": "Guido",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rn2nIlQqoJOTRWFFrzupR3WikqJ.jpg"
+      },
+      {
+        "name": "Frank Topham",
+        "character": "Toppy",
+        "profile_path": ""
+      },
+      {
+        "name": "Lori Anne Flax",
+        "character": "Irma",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Scorsese",
+        "character": "Charlie - Man with Como",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fYjjxe3xxjcDIrry6O94QYUcz86.jpg"
+      },
+      {
+        "name": "Don Dunphy",
+        "character": "Radio Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dbE0rFLSd7tyc33l144kViaMm0m.jpg"
+      },
+      {
+        "name": "Bill Hanrahan",
+        "character": "Eddie Eagan",
+        "profile_path": ""
+      },
+      {
+        "name": "Rita Bennett",
+        "character": "Emma - Miss 48's",
+        "profile_path": ""
+      },
+      {
+        "name": "James V. Christy",
+        "character": "Dr. Pinto",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l9GlV2bRDIpr0p2VMRPWHXO4yoG.jpg"
+      },
+      {
+        "name": "Bernie Allen",
+        "character": "Comedian",
+        "profile_path": ""
+      },
+      {
+        "name": "Floyd Anderson",
+        "character": "Jimmy Reeves (Reeves Fight)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7xlReQJFRInZ5NHtsuVwhGgJ4Tg.jpg"
+      },
+      {
+        "name": "Gene LeBell",
+        "character": "Ring Announcer (Reeves Fight)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f5p6gWqunqhK4clAgG1agI3Xzhp.jpg"
+      },
+      {
+        "name": "Harold Valan",
+        "character": "Referee (Reeves Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Magnotta",
+        "character": "Fighting Soldier (Reeves Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Johnny Barnes",
+        "character": "Sugar Ray Robinson (First Robinson Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Thomas",
+        "character": "Trainer (First Robinson Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kenny Davis",
+        "character": "Referee (First Robinson Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Carmello",
+        "character": "Ring Announcer (First Robinson Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jimmy Lennon Sr.",
+        "character": "Ring Announcer (Second Robinson Fight / Dauthuille Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bobby Rings",
+        "character": "Referee (Second Robinson Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Mahon",
+        "character": "Tony Janiro (Janiro Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marty Denkin",
+        "character": "Referee (Janiro Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Shay Duffin",
+        "character": "Ring Announcer (Janiro Fight)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A9oSkVp1v2MB2eR2ORziTi1m52b.jpg"
+      },
+      {
+        "name": "Eddie Mustafa Muhammad",
+        "character": "Billy Fox (Fox Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dick Whittington",
+        "character": "Ring Announcer (Fox Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Lotz",
+        "character": "Referee (Fox Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Breslin",
+        "character": "Heckler (Fox Fight)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9ZMUW2CxpkuSzjAauCPwJ7uOVe6.jpg"
+      },
+      {
+        "name": "Louis Raftis",
+        "character": "Marcel Cerdan (Cerdan Fight)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/93GpbkVKfJ0Uu1xN4ZE6vWikF9u.jpg"
+      },
+      {
+        "name": "Frank Shain",
+        "character": "Ring Announcer (Cerdan Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Coley Wallace",
+        "character": "Joe Louis (Cerdan Fight)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oahVXu9xt7V5NEbS41jKAQDRrQa.jpg"
+      },
+      {
+        "name": "Fritzie Higgins",
+        "character": "Woman with Vickie (Cerdan Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "George Latka",
+        "character": "Referee (Cerdan Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Fred Dennis",
+        "character": "Cornerman #1 (Cerdan Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert B. Loring",
+        "character": "Cornerman #2 (Cerdan Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Johnny Turner",
+        "character": "Laurent Dauthuille (Dauthuille Fight)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tDWiDXf5cU3sMZ0qSliQktHSIbP.jpg"
+      },
+      {
+        "name": "Vern De Paul",
+        "character": "Dauthuille's Trainer (Dauthuille Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chuck Hassett",
+        "character": "Referee (Dauthuille Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ken Richards",
+        "character": "Reporter at Phone Booth (Dauthuille Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Fain",
+        "character": "Dauthuille Corner Man (Dauthuille Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Billy Varga",
+        "character": "Ring Announcer (Third Robinson Fight)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eTbp4HBb93KYJsbJlo9Qm9aGcsK.jpg"
+      },
+      {
+        "name": "Harvey Parry",
+        "character": "Referee (Third Robinson Fight)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ISf5pLiUZmL4TTm7LiTpnpToy0.jpg"
+      },
+      {
+        "name": "Ted Husing",
+        "character": "Ted Husing - TV Announcer (voice) (Third Robinson Fight)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Badalucco",
+        "character": "Soda Fountain Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ntqAjxrBsyXbRzAaln4ynSBTE1r.jpg"
+      },
+      {
+        "name": "Thomas Beansy Lobasso",
+        "character": "Beansy",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Forrest",
+        "character": "Monsignor",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Petrella",
+        "character": "Johnny",
+        "profile_path": ""
+      },
+      {
+        "name": "Sal Serafino Tomassetti",
+        "character": "Webster Hall Bouncer",
+        "profile_path": ""
+      },
+      {
+        "name": "Geraldine Smith",
+        "character": "Janet",
+        "profile_path": ""
+      },
+      {
+        "name": "Mardik Martin",
+        "character": "Copa Waiter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qVZORrnayxmg6Sc2XLgV1BELI8r.jpg"
+      },
+      {
+        "name": "Maryjane Lauria",
+        "character": "Girl #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Linda Artuso",
+        "character": "Girl #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Savage",
+        "character": "Jackie Curtie",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel P. Conte",
+        "character": "Detroit Promoter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wB1NLBm5Qg3KF2aefpiynLbETgG.jpg"
+      },
+      {
+        "name": "Joe Malanga",
+        "character": "Bodyguard",
+        "profile_path": ""
+      },
+      {
+        "name": "Sabine Turco Jr.",
+        "character": "Bouncer at Copa",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Orlando",
+        "character": "Bouncer at Copa",
+        "profile_path": ""
+      },
+      {
+        "name": "Silvio García Jr.",
+        "character": "Bouncer at Copa",
+        "profile_path": ""
+      },
+      {
+        "name": "John Arceri",
+        "character": "Maitre 'D",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph A. Morale",
+        "character": "Man at Table #1",
+        "profile_path": ""
+      },
+      {
+        "name": "James Dimodica",
+        "character": "Man at Table #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Uricola",
+        "character": "Man Outside Cab",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6r2SUDfPhqYAJwbVTKKLBbvdU5k.jpg"
+      },
+      {
+        "name": "Andrea Orlando",
+        "character": "Woman in Cab",
+        "profile_path": ""
+      },
+      {
+        "name": "Allan Malamud",
+        "character": "Reporter at Jake's House",
+        "profile_path": ""
+      },
+      {
+        "name": "D.J. Blair",
+        "character": "State Attorney Bronson",
+        "profile_path": ""
+      },
+      {
+        "name": "Laura James",
+        "character": "Mrs. Bronson",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard McMurray",
+        "character": "J.R.",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary Albee",
+        "character": "Underage I.D. Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Katz",
+        "character": "Woman with I.D. Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Candy Moore",
+        "character": "Linda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2I126IfHPjNetbfye5HL7He7Fbd.jpg"
+      },
+      {
+        "name": "Richard A. Berk",
+        "character": "Musician #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Theodore Saunders",
+        "character": "Musician #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Noah Young",
+        "character": "Musician #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Nick Trisko",
+        "character": "Bartender Carlo",
+        "profile_path": ""
+      },
+      {
+        "name": "Lou Tiano",
+        "character": "Ricky",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob Evan Collins",
+        "character": "Arresting Deputy #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Wally K. Berns",
+        "character": "Arresting Deputy #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Allen Joseph",
+        "character": "Jeweler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gOLT3rZuMddeP2dNWZjxHvw8wAL.jpg"
+      },
+      {
+        "name": "Bob Aaron",
+        "character": "Prison Guard #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Glenn Leigh Marshall",
+        "character": "Prison Guard #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Scorsese",
+        "character": "Barbizon Stagehand",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg"
+      },
+      {
+        "name": "Vincent Barbi",
+        "character": "New Yorker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x1AuUURPoELlihBXtfOMN3wGxmu.jpg"
+      },
+      {
+        "name": "Joseph Bergmann",
+        "character": "Sailor at Ballroom (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Crawford",
+        "character": "Photographer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jLmPVqbnZ3ZG7yQJMsOhSpoDYns.jpg"
+      },
+      {
+        "name": "Dennis Crosswhite",
+        "character": "Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kgtdJy4gYelgl8oVY2vBbbaaDeP.jpg"
+      },
+      {
+        "name": "Robert Dahdah",
+        "character": "Restaurant Doorman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Vincent Di Paolo",
+        "character": "Police Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m8xbZ8QWjnso8yx7hUmxDySQFpL.jpg"
+      },
+      {
+        "name": "Bruno DiGiorgi",
+        "character": "Soda Fountain Clerk (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marty Farrell",
+        "character": "Heckler in Bar (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "R. Michael Givens",
+        "character": "Photographer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oEw2LUMJj6lO6ibPqXHhNlKMrL.jpg"
+      },
+      {
+        "name": "Charles Guardino",
+        "character": "New Yorker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob Harks",
+        "character": "Boxing Match Spectator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wNvgM0pNYk8M6O3rGn9JzWViHaC.jpg"
+      },
+      {
+        "name": "Chuck Hicks",
+        "character": "Cornerman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Nf2YXBz5T8leQcpCTIx492JMJ7.jpg"
+      },
+      {
+        "name": "Michael Charles Hill",
+        "character": "Boxing Fan (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Walt La Rue",
+        "character": "Cornerman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Angelo Lamonea",
+        "character": "Cornerman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "David LeBell",
+        "character": "Mall Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Lip",
+        "character": "Nightclub Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6xz6XmjgiCCOm067OzWYziD4Mxa.jpg"
+      },
+      {
+        "name": "Bill Mazer",
+        "character": "Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Murphy",
+        "character": "J.R.'s Friend (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gil Perkins",
+        "character": "Cornerman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jerry Schram",
+        "character": "Party Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Glenn Stanton",
+        "character": "Bar Hand (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Turturro",
+        "character": "Man at Webster Hall Table (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/63zA58rSyJxBMLBdgeMjjETmpDQ.jpg"
+      },
+      {
+        "name": "McKenzie Westmore",
+        "character": "Jake's Daughter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xYevF6Upjmn7fbOciaDp8lFjO9Y.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Martin Scorsese",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "jealousy",
+    "transporter",
+    "sports",
+    "brother",
+    "paranoia",
+    "violent husband",
+    "boxer",
+    "biography",
+    "fistfight",
+    "broken nose",
+    "domestic violence",
+    "over-the-hill fighter"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+    "When Jake LaMotta steps into a boxing ring and obliterates his opponent, he's a prizefighter. But when he treats his family and friends the same way, he's a ticking time bomb, ready to go off at any moment. Though LaMotta wants his family's love, something always seems to come between them. Perhaps it's his violent bouts of paranoia and jealousy. This kind of rage helped make him a champ, but in real life, he winds up in the ring alone.—alfiehitchie",
+    "The story of middleweight boxing champion Jake LaMotta, famously dubbed, \"The Raging Bull\" and \"The Bronx Bull\". Martin Scorsese's \"Raging Bull\" chronicles two decades of his life, and how the violence inside the ring was only an extension of his violence and temper outside of it.—Liam Alexander",
+    "The life of Bronx-based Jake LaMotta during his professional middleweight boxing career from 1941 to the mid-1950s, and his immediate post-boxing life is dramatized. Managed for most of his boxing career by his brother Joey LaMotta, Jake has the goal not only of getting the title fight at almost any cost - the one thing he unwilling to do to demonstrate that he is the best and in his \"my way or the high way\" mentality is to be knocked out, even if it is for a longer term benefit - but also to have the most fame possible, which means the improbable fantasy of becoming a heavyweight. While not managed by them, much of his career is affected by his and Joey's mafia connections. Despite his boxing prowess, Jake, to reach his own personal goals, has to overcome his disagreements with what the mafia wants and his own brutish behavior, which spills over into his personal life. That personal life shown largely is during the time of what is his second marriage, to Vickie LaMotta, a girl he spotted in the neighborhood. Their relationship is punctuated by jealousy and paranoia on Jake's side, he who becomes to believe that Vickie is sleeping with every man to who she pays any attention, those feelings by Jake which leads to emotional and physical abuse.—Huggo",
+    "Loosely based on the life and career of boxer Jake LaMotta (played by De Niro in an Oscar-winning performance), this Martin Scorsese classic focuses on Jake's rage and violence that makes him virtually unstoppable in the ring. The same anger also drives Jake to beat his wife and his brother Joey, and sends Jake down a self-destructive spiral of paranoia and rage."
+  ],
+  "synopsis": "In 1964, an aging, overweight Italian American, Jake LaMotta (Robert De Niro), practices a comedy routine.In 1941, LaMotta is in a major boxing match against Jimmy Reeves (Floyd Anderson), where Jake suffered his first loss (Jake had knocked out Reeves in the later rounds, but under Ohio state boxing rules, the results take into account the points in the first 10 rounds of the match). Jake's brother, Joey LaMotta (Joe Pesci), discusses a potential shot for the middleweight title with one of his Mafia connections, Salvy Batts (Frank Vincent). Jake is a middleweight, but wants to fight the heavy weight champ Joe Louis (Coley Wallace) and knows that he will never get a shot at that title.Some time thereafter, Jake spots a fifteen-year-old girl named Vickie (Cathy Moriarty) at an open-air swimming pool in his Bronx neighborhood. He eventually pursues a relationship with her (goes on dates with her, even though Salvy was interested in her), even though he is already married (to Irma LaMotta (Lori Anne Flax).. Irma and Jake don't get along and have screaming matches all day along in their apartment).In 1943, Jake defeats Sugar Ray Robinson (Johnny Barnes), and has a rematch three weeks later. Despite the fact that Jake dominates Robinson during the bout, the judges surprisingly rule in favor of Robinson and Joey feels Robinson won only because he was enlisting into the Army the following week. By 1945 (after defeating a few more opponents), Jake marries Vickie.Soon, JOe also gets married and both Jake and Joe have kids with their wives.\nJake constantly worries about Vickie having feelings for other men, particularly when she makes an off-hand comment about Tony Janiro (Kevin Mahon), Jake's opponent in his next fight. His jealousy is evident when he brutally defeats Janiro (in the ring) in front of the local Mob boss, Tommy Como (Nicholas Colasanto), and Vickie. As Joey discusses the victory with journalists at the Copacabana, he is distracted by seeing Vickie approach a table with Salvy and his crew.Joey speaks with Vickie, who says she is giving up on his brother. Blaming Salvy, Joey viciously attacks him in a fight that spills outside of the club. Como later orders them to apologize, and has Joey tell Jake that if he wants a chance at the championship title, which Como controls, he will have to take a dive first. In a match against Billy Fox (Eddie Mustafa Muhammad), after briefly pummeling his opponent, Jake does not even bother to put up a fight. He is suspended shortly thereafter from the board on suspicion of throwing the fight, though he realizes the error of his judgment when it is too late. He is eventually reinstated, and in 1949, wins the middleweight championship title against Marcel Cerdan (Louis Raftis).A year later in 1950, Jake asks Joey if he fought with Salvy at the Copacabana because of Vickie. Jake then asks if Joey had an affair with her; Joey refuses to answer, insults Jake, and leaves. Jake directly asks Vickie about the affair, and when she hides from him in the bathroom, he breaks down the door, prompting her to sarcastically state that she had sex with the entire neighborhood (including his brother, Salvy, and Tommy Como). Jake angrily walks to Joey's house, with Vickie following him, and assaults Joey in front of Joey's wife Lenora (Theresa Saldana) and their children before knocking Vickie unconscious.After defending his championship belt in a grueling fifteen-round bout against Laurent Dauthuille (Johnny Turner) in 1950, he makes a call to his brother after the fight, but when Joey assumes Salvy is on the other end and starts insulting and cursing at him, Jake says nothing and hangs up. Estranged from Joey, Jake's career begins to decline slowly and he eventually loses his title to Sugar Ray Robinson in their final encounter in 1951.By 1956, Jake and his family have moved to Miami. After he stays out all night at his new nightclub there, Vickie tells him she wants a divorce (which she has been planning since his retirement) as well as full custody of their kids. She also threatens to call the police if he comes anywhere near them. He is later arrested for introducing under-age girls to men in his club. He tries and fails to bribe his way out of his criminal case using the jewels from his championship belt instead of selling the belt itself. In 1957, he goes to jail, sorrowfully questioning his misfortune and crying in despair. Upon returning to New York City in 1958, he happens upon Joey, who forgives him but is elusive.Again in 1964, Jake now recites the \"I could have been a contender\" scene from the 1954 film On the Waterfront, where Terry Malloy complains that his brother should have been there for him but is also keen enough to give himself some slack. After a stagehand informs him that the auditorium where he is about to perform is crowded, Jake starts to chant \"I'm the boss\" while shadowboxing.",
+  "imdb_score": 8.1
+}

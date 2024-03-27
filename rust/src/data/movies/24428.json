@@ -1,0 +1,620 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+  "id": 24428,
+  "title": "The Avengers",
+  "poster_path": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+  "release_date": "2012-04-25",
+  "vote_average": 7.712,
+  "vote_count": 29652,
+  "popularity": 129.103,
+  "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+  "imdb_id": "tt0848228",
+  "budget": 220000000,
+  "homepage": "https://www.marvel.com/movies/the-avengers",
+  "revenue": 1518815515,
+  "runtime": 143,
+  "tagline": "Some assembly required.",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "production_companies": [
+    "Marvel Studios"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Robert Downey Jr.",
+        "character": "Tony Stark / Iron Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/im9SAqJPZKEbVZGmjXuLI4O7RvM.jpg"
+      },
+      {
+        "name": "Chris Evans",
+        "character": "Steve Rogers / Captain America",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+      },
+      {
+        "name": "Mark Ruffalo",
+        "character": "Bruce Banner / The Hulk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+      },
+      {
+        "name": "Chris Hemsworth",
+        "character": "Thor Odinson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xkHHiJXraaMFXgRYspN6KVrFn17.jpg"
+      },
+      {
+        "name": "Scarlett Johansson",
+        "character": "Natasha Romanoff / Black Widow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6NsMbJXRlDZuDzatN2akFdGuTvx.jpg"
+      },
+      {
+        "name": "Jeremy Renner",
+        "character": "Clint Barton / Hawkeye",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+      },
+      {
+        "name": "Tom Hiddleston",
+        "character": "Loki",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "character": "Nick Fury",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nCJJ3NVksYNxIzEHcyC1XziwPVj.jpg"
+      },
+      {
+        "name": "Cobie Smulders",
+        "character": "Agent Maria Hill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2CSgHUIrEi57pwtzdAY3HAxrp31.jpg"
+      },
+      {
+        "name": "Clark Gregg",
+        "character": "Agent Phil Coulson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nbxFbr2SaF4Sdc6HdsF193GInvJ.jpg"
+      },
+      {
+        "name": "Stellan Skarsgård",
+        "character": "Erik Selvig",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x78BtYHElirO7Iw8bL4m8CnzRDc.jpg"
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "character": "Virginia 'Pepper' Potts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/slPWN0VvYJtNOEuxlFSsXSNQMaF.jpg"
+      },
+      {
+        "name": "Paul Bettany",
+        "character": "Jarvis (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
+      },
+      {
+        "name": "Alexis Denisof",
+        "character": "The Other",
+        "profile_path": "https://image.tmdb.org/t/p/w185/luTHwbaLutoKYWJSpk2WyuPasvk.jpg"
+      },
+      {
+        "name": "Tina Benko",
+        "character": "NASA Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oThs7WpSLtjrlDis1nu93CWp2PR.jpg"
+      },
+      {
+        "name": "Jerzy Skolimowski",
+        "character": "Georgi Luchkov",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2gAkOxAf9sgr6RtXQeUSPu15kFx.jpg"
+      },
+      {
+        "name": "Kirill Nikiforov",
+        "character": "Weaselly Thug",
+        "profile_path": "https://image.tmdb.org/t/p/w185/694Bqo4C7sR6etcTyADUBcIc8He.jpg"
+      },
+      {
+        "name": "Jeff Wolfe",
+        "character": "Tall Thug",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mrbVMbf2IOKP9hzxH9rBZk8Vyp6.jpg"
+      },
+      {
+        "name": "M'laah Kaur Singh",
+        "character": "Young Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j2Bd3nvHCh7SqrnCDfL6UauvrUQ.jpg"
+      },
+      {
+        "name": "Rashmi Rustagi",
+        "character": "Calcutta Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/45ePs8pKwHcRTLuoW78nkF6KpPc.jpg"
+      },
+      {
+        "name": "Powers Boothe",
+        "character": "World Security Council",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dOwVFE10FgpLXrKhPdEAplpESjR.jpg"
+      },
+      {
+        "name": "Jenny Agutter",
+        "character": "World Security Council",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y33ICsDBElCEauT8siQlj2JmdjA.jpg"
+      },
+      {
+        "name": "Arthur Darbinyan",
+        "character": "World Security Council",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iwl8jHiDFWDGMDN6VWSmPZh4Ktb.jpg"
+      },
+      {
+        "name": "Donald Li",
+        "character": "World Security Council",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5m4sBKHMSnKjZLbO0K8p0Cr48J5.jpg"
+      },
+      {
+        "name": "Warren Kole",
+        "character": "Carrier Bridge Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rwJHDXng0zn4QWhAP36tfhkXWjt.jpg"
+      },
+      {
+        "name": "Alicia Sixtos",
+        "character": "Carrier Bridge Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4rUAzmYXQM5oFQ0lChuk7s7Api9.jpg"
+      },
+      {
+        "name": "Jesse Garcia",
+        "character": "Carrier Bridge Techs",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jsEZz7z1wI95277m7S9YM1dbVYb.jpg"
+      },
+      {
+        "name": "Maximiliano Hernández",
+        "character": "Agent Jasper Sitwell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yZYUmF4t7Wu3CWjAcSANvTlSop9.jpg"
+      },
+      {
+        "name": "Dieter Riesle",
+        "character": "Gala Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qehkglvKLtvJNnAYjINowLRycrD.jpg"
+      },
+      {
+        "name": "Kenneth Tigar",
+        "character": "German Old Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jgM0z7LUX5fOYkbKjZ1UVM6hcUb.jpg"
+      },
+      {
+        "name": "Walter Perez",
+        "character": "Young Shield Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/57w97q9MQNv0Zxkaf8blO1xRjKQ.jpg"
+      },
+      {
+        "name": "Harry Dean Stanton",
+        "character": "Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/197UiLVdxPOv8196sqmUpJzOQB5.jpg"
+      },
+      {
+        "name": "Josh Cowdery",
+        "character": "Maintenance Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2gAoACv2mr31vjqspM9fHIe3MgP.jpg"
+      },
+      {
+        "name": "Ashley Johnson",
+        "character": "Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8s36QwB7Zq3PrbY1W6a6ctTFFoe.jpg"
+      },
+      {
+        "name": "Katsumi Komatsu",
+        "character": "Japanese Family",
+        "profile_path": ""
+      },
+      {
+        "name": "Yumiko Komatsu",
+        "character": "Japanese Family",
+        "profile_path": ""
+      },
+      {
+        "name": "Momoko Komatsu",
+        "character": "Japanese Family",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Clohessy",
+        "character": "Police Sergeant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lhNUk6PF0mNhgbvTDxXfIy4uhRe.jpg"
+      },
+      {
+        "name": "Enver Gjokaj",
+        "character": "Young Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1M3ISdFIaf4p1N3ZZTK7KnZwj9p.jpg"
+      },
+      {
+        "name": "Fernanda Toker",
+        "character": "Office Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrea Vecchio",
+        "character": "News Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/993TAFTEgnVf9JfGWG7mNZqu88r.jpg"
+      },
+      {
+        "name": "Robin Swoboda",
+        "character": "News Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/trpkN3aqLUl4q2542BWG64YppMP.jpg"
+      },
+      {
+        "name": "Brent McGee",
+        "character": "Faceless Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xGZjnWTIf5UXLZ0Ru1301MoTrva.jpg"
+      },
+      {
+        "name": "Jamie McShane",
+        "character": "Celebration Montage Interviewee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wojvRZMpAwytyoFTMFOpvZ26qJq.jpg"
+      },
+      {
+        "name": "Michael Zhang",
+        "character": "Celebration Montage Interviewee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h9QB1ZtISG83LdllBbEDHbearPm.jpg"
+      },
+      {
+        "name": "William-Christopher Stephens",
+        "character": "Celebration Montage Interviewee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vXePrP9vsVLgnVcUbr8pmD8076L.jpg"
+      },
+      {
+        "name": "Kelley Robins Hicks",
+        "character": "Celebration Montage Interviewee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/poutoGBoAz8znML2v16DvF27q4w.jpg"
+      },
+      {
+        "name": "Romy Rosemont",
+        "character": "Shawna Lynde",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dzhrqpUa7W6lVjuigj0G28WrHQz.jpg"
+      },
+      {
+        "name": "James Eckhouse",
+        "character": "Senator Boynton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iGG7iSZ5sBrmgkT9IHg1ipZCzgq.jpg"
+      },
+      {
+        "name": "Stan Lee",
+        "character": "Stan Lee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+      },
+      {
+        "name": "Thomas Roberts",
+        "character": "Thomas Roberts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uo8k9aGD3PHDPjXnsZF2E6eA3UD.jpg"
+      },
+      {
+        "name": "Pat Kiernan",
+        "character": "Pat Kiernan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c8QASMhNim0bXySxaxRrkkzvKQ7.jpg"
+      },
+      {
+        "name": "Damion Poitier",
+        "character": "Man #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3BqfT7OMuAhLklO6TzBnhWoIZSA.jpg"
+      },
+      {
+        "name": "Lou Ferrigno",
+        "character": "The Hulk (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/obTtRrm8EbDzuiKpLjAd9s1i9v5.jpg"
+      },
+      {
+        "name": "Jillian Morgese",
+        "character": "Woman in Restaurant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tm3TQINb7D3nwhOfGRcKT0TxVCr.jpg"
+      },
+      {
+        "name": "Catherine Anderson",
+        "character": "German Pedestrian (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3xadfIc5FHvWjFozh0ntnrWOHS3.jpg"
+      },
+      {
+        "name": "Ricardo Andres",
+        "character": "Lentil Merchant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sbce6eUbj8UKH0EJhDgIV4SprxZ.jpg"
+      },
+      {
+        "name": "Logan Bennett",
+        "character": "Shield Agent (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kF64gWF3kiKxDs2q5BPM7te3ry3.jpg"
+      },
+      {
+        "name": "Mayank Bhatter",
+        "character": "Celebration Montage Man Shaving Beard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/caE4ZU2W5eKlitJv5EvnxhGhpE6.jpg"
+      },
+      {
+        "name": "Sharita Bone",
+        "character": "Gala Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/26rLpkn80TYD6THAKeAW7sCkv2s.jpg"
+      },
+      {
+        "name": "Jason Botsford",
+        "character": "Museum Gala Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dBul2857yoVn5Wpi4YPYePkcabf.jpg"
+      },
+      {
+        "name": "Mary Kate Campbell",
+        "character": "Stuttgart Biergarten patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gene N. Chavez",
+        "character": "Shield Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oy5B1rf6Ze13X5FKWFeexe8dQ4i.jpg"
+      },
+      {
+        "name": "Layla Cushman",
+        "character": "Gala Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sjiHDJ2nMkc93fAVgeZ8crHff2r.jpg"
+      },
+      {
+        "name": "Robert Dean",
+        "character": "Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sekcxYO8Rb8E0qdmlF8a33d04Dr.jpg"
+      },
+      {
+        "name": "Rick Dremann",
+        "character": "Museum Gala Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oUeXEpUYDYbdhiqM7J0QJBbnbiy.jpg"
+      },
+      {
+        "name": "Rod Fielder",
+        "character": "Pedestrian (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t2CUZTP8C2N2EKEYsmLEvCi66TR.jpg"
+      },
+      {
+        "name": "Eric Frank",
+        "character": "Stuttgart Citizen (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Israel Hall",
+        "character": "Shield Agent (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3i7JgRjUzJgUQ90IA5oeGhGzXO1.jpg"
+      },
+      {
+        "name": "Carmen Dee Harris",
+        "character": "Museum Gala Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexander Christopher Jones",
+        "character": "Mercenary (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jVGq5MSL7B9V2TLNTMAR9k51qJw.jpg"
+      },
+      {
+        "name": "Mike Karban",
+        "character": "Pedestrian (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Demoine Kinney",
+        "character": "Shield Agent (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Knode",
+        "character": "Stuttgart Citizen (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Annette Lawless",
+        "character": "Hostage (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kimberly J. Mahoney",
+        "character": "Limo Driver (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Todd Manes",
+        "character": "Helicarrier Medical Team Leader (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jorge Mardel",
+        "character": "Stuttgart Driver (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael McMillan",
+        "character": "Cafe Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sean Meehan",
+        "character": "Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r7e6ijX5RwC8OMxaCkwHOk81Stj.jpg"
+      },
+      {
+        "name": "Holly Neelie",
+        "character": "Gala Museum Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Caleb Daniel Noal",
+        "character": "Extra (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeremy Orr",
+        "character": "Shield Agent (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nate Paige",
+        "character": "New York Pedestrian (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Palmer",
+        "character": "Shiel Employee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s8SNGCcNu00ca0KxDDx5uVWNjad.jpg"
+      },
+      {
+        "name": "Maria Perossa",
+        "character": "Museum Gala Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Caleb Pieplow",
+        "character": "Extra (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexander Daniel Pimentel",
+        "character": "Helicarrier Shield Agent (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Powers",
+        "character": "Shield Agent - Loki Escort (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jaime Powers",
+        "character": "Shield Agent (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brent Reichert",
+        "character": "Stuttgart Gala Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kelly Ruble",
+        "character": "Shield Agent (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gina Sarno",
+        "character": "Restaurant Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert B. Schneider IV",
+        "character": "New York City Police Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff Seich",
+        "character": "New York Police Officer in Firefight (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Christina Shaffer",
+        "character": "Stuttgart Beer Garden Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Douglas Slygh",
+        "character": "Museum Gala Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bNjIMtucrg0nlLTK90NasPGFSzO.jpg"
+      },
+      {
+        "name": "Colin Strause",
+        "character": "Shield Agent #4 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l2kKglzUn9j2Hgio3lBzOXErHfc.jpg"
+      },
+      {
+        "name": "Robert P. Thitoff",
+        "character": "Gala Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "George Thomas",
+        "character": "S.H.I.E.L.D. Agent (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Shane Thompson",
+        "character": "Pedestrian (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jerry Lee Tucker",
+        "character": "Mercenary (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tai Urban",
+        "character": "Child on News #1 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Vaina",
+        "character": "Running Pedestrian (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5eURXxQLBqrHo3MKR6dCliCDa7m.jpg"
+      },
+      {
+        "name": "Sandra Weston",
+        "character": "Sweeper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p8cHjNXEIjzy3LS4CpZTFynwLD0.jpg"
+      },
+      {
+        "name": "Seth Zielicke",
+        "character": "Barbershop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AlRpPLjznQQz0eTR1bIG1sFWSQz.jpg"
+      },
+      {
+        "name": "Alex DeCourville",
+        "character": "Tourist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/97TmbMkAtGWe15ANftMZaMrSLYX.jpg"
+      },
+      {
+        "name": "Andrea-Nichole Olivas",
+        "character": "Shield Agent (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/RWuJ15lDLFDK0XX182cSytDwEC.jpg"
+      },
+      {
+        "name": "Tina Grimm",
+        "character": "NYC Pedestrian (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/utRFgwBWqyM2k4nMki9F15hFOeS.jpg"
+      },
+      {
+        "name": "Evan Kole",
+        "character": "Principal (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rMnLtyrejtHVn0k6ezdv3Bg2ILN.jpg"
+      },
+      {
+        "name": "Hank Amos",
+        "character": "Shield Agent (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3OMZqHIgnM81UxVnPTDgVUhBRXR.jpg"
+      },
+      {
+        "name": "Joti Nagra",
+        "character": "Waitress (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vwXR1ApsMc4HrI154TUr5ho6fX6.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Joss Whedon",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mVvpZnKYKSCtkOQixQnOonV5kv3.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "superhero",
+    "shield",
+    "based on comic",
+    "alien invasion",
+    "superhero team",
+    "aftercreditsstinger",
+    "duringcreditsstinger",
+    "marvel cinematic universe (mcu)"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "Loki, the adopted brother of Thor, teams-up with the Chitauri Army and uses the Tesseract's power to travel from Asgard to Midgard to plot the invasion of Earth and become a king. The director of the agency S.H.I.E.L.D., Nick Fury, sets in motion project Avengers, joining Tony Stark a.k.a. the Iron Man; Steve Rogers, a.k.a. Captain America; Bruce Banner, a.k.a. The Hulk; Thor; Natasha Romanoff, a.k.a. Black Widow; and Clint Barton, a.k.a. Hawkeye, to save the world from the powerful Loki and the alien invasion.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "S.H.I.E.L.D. has located the mysterious Tesseract device and the Army's super soldier Captain America. The Tesseract is actually a gateway to an entirely new world called Asgard. A mysterious being known as Loki arrives on earth and immediately assumes that he can rule all human beings. But that irks S.H.I.E.L.D. director Nick Fury the wrong way. As Loki escapes with the Tesseract, Nick Fury believes this is an act of war against Earth. His only hope is to assemble an actual team of super heroes. Dr. Bruce Banner, who turns into an enormous green rage monster known as the Hulk. Tony Stark and his venerable Iron Man armor. Captain America, the Stark Enterprises created super soldier. Thor, the god of thunder, protector of Earth and his home planet of Asgard, and Loki's brother. Master assassins Hawkeye and Natasha Romanoff. Together they will become a team to take on an attack that will call them to become the greatest of all time.—halo1k",
+    "There came a day unlike any other were earths mightiest hero united against a common threat, on that day they became The Avengers. The Invincible Armoured Ironman, Thor prince of thunder, The Hulk strongest hero there is, Captain Amarica the first Avenger, Hawkeye master of archery and Black Widow a professional spy"
+  ],
+  "synopsis": "Nick Fury (Samuel L. Jackson), director of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement, and Logistics Division), arrives at S.H.I.E.L.D. headquarters outside of Santa Fe, New Mexico, during an evacuation. The Tesseract, an energy source of unknown potential, has activated. It opens a portal through space and the exiled Norse god Loki (Tom Hiddleston) steps through, carrying a strange spear with a blue glowing tip. Loki takes the Tesseract and uses the spear to take control of the minds of several SHIELD personnel, including Dr. Erik Selvig (Stellan Skarsgård) , and Agent Clint \"Hawkeye\" Barton (Jeremy Renner), to aid him in his getaway. SHIELD personnel pull out of their base when an energy surge from the Tesseract causes the ground beneath the base to collapse and destroying it. A short pursuit of Loki fails to capture him.In response to the attack, Nick Fury issues a state of emergency, telling his top agents Phil Coulson (Clark Gregg), Natasha Romanoff (Scarlett Johansson), and Maria Hill (Cobie Smulders), that they are completely out of options. Fury pulls Romanoff and Coulson out of their respective assignments and sends them to find the heroes he needs to oppose Loki. Romanoff is found in Eastern Europe interrogating suspects, and Coulson pulls her off the assignment and sends her to find \"the big guy\": Bruce Banner (Mark Ruffalo), aka The Incredible Hulk. Banner has been living in exile in India working for a hospital in Calcutta helping sick people, and has found inner peace doing so. Romanoff tells Banner about the Tesseract and its' destructive capabilities. As the world's expert on gamma rays, Banner is their best chance to find the cube's location.During a video chat with the World Security Council, the superiors who run S.H.I.E.L.D., Fury is grilled about his plan to bring about the Avengers Initiative. The WSC are furious, saying that it's the wrong thing to do and these people will never work together as a group. Fury says they have no other option and this is their only hope of defeating Loki. The superiors reluctantly agree.Steve Rogers, (Chris Evans) on the other hand, is relatively easy to find. S.H.I.E.L.D. has been keeping tabs on him since he was found in the ice and still alive. Fury goes to greet Rogers at his gymnasium where he finds he doesn't sleep. Fury tells Rogers that he will find a briefing packet about what's going on back at his apartment. Tony Stark (Robert Downey Jr.) is seen in a new Iron Man armor that has underwater capabilities. He is installing a new electrical connection that will take his office building completely off the electrical grid allowing it to become self sustaining. He's greeted at his office by Pepper Potts (Gwyneth Paltrow) who tells him that it's date night. Tony wants Pepper to know how it feels to be a genius and after an argument about how much credit she should get for coming up with the Stark Tower idea, date night is off. Coulson arrives, and Tony quickly and repeatedly tries to cut him off. Coulson hands Tony a laptop with all the data on it about everything that's going on. Pepper decides instead to go to Washington DC to get the zoning permits for the next two buildings for Stark Tower as it seems Tony has homework to do, and a lot of it.On the airplane to the secured location - an aircraft carrier that can convert to a flying aircraft carrier, Coulson is telling Rogers about how it's such an honor that they found him and tells him about his Captain America trading card collection. They then head to the helicarrier and Rogers is introduced to Dr. Bruce Banner. The two then wonder what kind of ride they're in for. Rogers thinks it's a submarine but the last thing Dr. Banner should be riding in is a submerged, pressurized metal container. The carrier takes off. On board, they are briefed that Dr. Selvig and Loki have been traced to Stuttgart, Germany.Rogers' first assignment is to go to Stuttgart to arrest Loki and bring him on board the helicarrier. Loki is at a formal black tie gala at an art museum where he is kidnapping a doctor who harbors the element they need to make the Tesseract work. While Dr. Selvig creates a distraction and Hawkeye kills the men guarding the building, Loki carries out his plan. Outside, he is instructing the civilians present that they need to kneel before him - or else, and that freedom is life's great lie. However, one old man stands up in defiance, and Loki prepares to strike him down. However, the killing shot is neatly blocked by the shield of Rogers as Captain America before moving to confront the god. As Rogers battles Loki, Tony makes his entrance to the tune of AC/DC's \"Shoot To Kill\" with full Iron Man weapons drawn to knock down the god and daring Loki to make a move.Loki quickly surrenders when the two heroes arrive, and while being flown to the high tech prison on board the helicarrier, the plane encounters a lighting storm. Rogers asks Loki if he's afraid of lighting but Loki tells him it's not the lightning that he's afraid of. It's what follows. Thor (Chris Hemsworth), Loki's half-brother and the Norse God of thunder, arrives and attempts to capture Loki so Loki can face Asguardian justice for his crimes (which will be more effective than Earth's), but Thor gets into a fight with Rogers and Tony. The fight ends in a stalemate. Eventually, Loki is taken to the helicarrier and placed in a glass cell designed to hold the Hulk. Fury explains that if Loki attempts to escape, even by merely cracking the glass, a shaft will open below him and he'll plummet to Earth and possibly be killed.On board the aircraft carrier, the fully assembled Avengers squad is being briefed by Fury about what they think will possibly happen next. Loki is in prison and is interrogated by Agent Romanoff. Tony Stark arrives and it seems the only one of the group he really gets along with is Bruce Banner. While conducting experiments on Loki's scepter, Stark tries to get a rise out of Banner so he can witness Banner's famous party trick (read: turning into the Incredible Hulk). Banner flinches and then begins telling about how he's been unable to fully harness his abilities and that he suffered depression after the accident. That's why he moved to Calcutta, as helping people is what gives his life meaning.The Avengers, now brought together, argue and deliberate over how to approach Loki and the revelation that SHIELD plans to harness the Tesseract's power to develop weapons, a discovery made by Rogers. Fury admits that the events in New Mexico a year before (recounted in Thor (2011)) made SHIELD aware of other races on other worlds, some of whom may see Earth as an easy target. Thor is seen asking agent Coulson about what happened to Jane Foster. Coulson tells him that S.H.I.E.L.D. has placed her in their witness protection program and that she's in a safe zone in London.The decision was made to produce weapons with the Tesseract as a means of deterrence. As the group argues, Clint Barton and Loki's possessed agents attack the helicarrier, disabling one of its engines in flight. While Stark and Rogers attempt to restart the damaged engine, Romanoff tries to prevent Dr. Banner from turning into the Hulk and destroying the ship from inside. Her attempt fails and she's chased through the ship until Thor takes up the battle to pacify the beast and manages to fell him briefly with a hit from his hammer, Mjolnir. While fighting Barton, Romanoff slams him into a guard rail, and the blow to the head breaks Loki's mind control. After the Hulk falls from the ship, Thor is tricked into Loki's holding cell by Loki himself, who has recovered his scepter and releases the cell and allows Thor to plummet. Loki is held at bay briefly by Agent Coulson but is also tricked by one of Loki's holographic projections - Coulson is stabbed in the back by the real Loki. Coulson later shoots Loki with a blast from an unidentified weapon, one that harnesses the power of the Destroyer. Coulson dies while Fury tries to save his life. Thor escapes from the cell a split second before it hits the ground. Banner wakes up in his human form after crashing into an abandoned factory.Fury uses Coulson's apparent death to motivate the Avengers to work as a team. Stark and Rogers realize that simply defeating them will not be enough for Loki. He needs to overpower them in a very public way so as to validate himself as ruler of Earth. Using a device built by Dr. Selvig, Loki opens a portal to the Chitauri home world over Manhattan, summoning a Chitauri invasion. Once again the group's petty differences overshadow their ability to communicate as a team, especially with Banner now missing. While in an argument with Rogers, Tony finally figures out that Loki is a full tilt diva, and that he's obviously set up shop at the top of Stark's office.Natasha, unfortunately arrives too late just as Dr. Selvig has opened the portal. This unleashes Loki's army and all hell breaks loose. The army is massive and they can't all fight them off as much as they are entering the earth's atmosphere. Tony Stark thankfully shows up, as does Bruce Banner. While fighting, Rogers dispatches NYPD cops to direct citizens into the underground tunnels and sewers. Meanwhile, the Hulk smashes, and Tony arrives at Stark Tower where he attempts to stall Loki with a drink which is used to threaten and intimidate him. As that's going on, Tony has JARVIS prepare an under development version of Iron Man called MK18 which is contained in a giant box coded specifically for Tony and has advanced weapons capabilities. Loki refuses to cooperate, saying the destruction will continue as long as the citizens of earth don't get that they need to be ruled by him. Loki attempts to take control of Stark by using his scepter on his heart to control his mind, but it fails thanks to Tony's somewhat trusty Arc Reactor that keeps him alive.The Avengers rally in defense of New York, but quickly come to the conclusion that they will be overwhelmed as wave after wave of Chitauri descend upon Earth. With help from the reformed Barton, Rogers and Thor evacuate civilians while Dr. Banner transforms into the Hulk and goes after Loki, beating him into submission in Tony Stark's penthouse. Romanoff makes her way, with a little help from the Chitauri, to the device that holds the portal open (conveniently located on the roof of the Stark Building) and hits Dr. Selvig over the head, freeing him of Loki's control. Dr. Selvig reveals that Loki's staff can be used to close the portal.As that's happening, Hulk confronts Loki, who refuses to be intimidated by such a beast. As Rogers instructed, Hulk smashes Loki into near oblivion. That allows Romanoff to grab the scepter and head to the roof to shut down the portal. While Romanoff is securing the portal, Stark is securing the perimeter. Meanwhile, with Fury on a conference call to the council, Fury berates the council's decision to launch a nuclear missile at Manhattan. Fury tries everything possible to stop the council from launching nukes, even destroying two jets that are taking off from the helicarrier. Unfortunately as he's about to fire on a third, it gets away and launches a nuclear weapon.Tony intercepts the missile and he knows exactly where to put it - he flies it into the portal. While in the portal, Stark instructs JARVIS to try Pepper one last time. Unfortunately the call fails as Pepper is on a plane and glued to the TV with other Stark Industries executives. Tony launches the nuke at the Chitauri mothership, completely destroying the invasion. All the invading aliens collapse and are rendered useless. Stark sees the nuke go just as he runs out of oxygen and falls to what appears to be certain doom. Thankfully he manages to escape the portal just as Romanoff is able to successfully close it. Once back in the atmosphere it looks like Tony isn't going to make it, but is saved by the Hulk thanks to incredible timing. A dazed Stark, awakened by the Hulk's roar, offers to take the team out for shawarma, but they decide to apprehend Loki first. The Avengers go their separate ways. Romanoff, Rogers, and Hawkeye return to working for S.H.I.E.L.D., Tony and Pepper are seen rebuilding Stark Tower and are working on the next phase of the project. Thor escorts Loki and the Tesseract back to Asgard where Loki will stand multiple trials for war crimes from both Asgard and the Chitauri. Meanwhile, multiple TV news reports recap the events surrounding the Avengers, and while they've become worldwide heroes for to some for their efforts in New York, others are fearful and want to know who will take responsibility for the devastation.On another video conference call with the World Security Council, Fury is being congratulated, but they also grill him that now their secret's out, this group is too dangerous for the world to handle. And Fury is glad - what happened in New York is a warning. A warning to all galaxies that if they try to attack earth, S.H.I.E.L.D. is there to defend it. And they have just the team. Fury also tells the S.H.I.E.L.D. board that the Avengers' whereabouts are no longer being tracked. They've earned a leave of absence, but will be called back when needed. He also tells the council that the Tesseract is where no one on earth will ever be able to find it.In a mid-credits scene, the Chitauri leader the Other tells his master that it is futile to attack Earth, as fighting the Avengers is like courting death. His master turns, revealing himself to be Thanos, a worshiper of the personification of Death, smiling at the chance to court her with more loss of life.After further credits, the Avengers are shown eating together in a shawarma joint; the team looks worn out and no one speaks.",
+  "imdb_score": 8
+}

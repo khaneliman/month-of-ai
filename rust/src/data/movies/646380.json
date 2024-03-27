@@ -1,0 +1,739 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/w4mdpbqx0NqsgNKZ170U0QDcyl3.jpg",
+  "id": 646380,
+  "title": "Don't Look Up",
+  "poster_path": "https://image.tmdb.org/t/p/w500/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+  "release_date": "2021-12-07",
+  "vote_average": 7.123,
+  "vote_count": 7565,
+  "popularity": 42.826,
+  "overview": "Two American astronomers attempt to warn humankind about an approaching comet that will wipe out life on planet Earth.",
+  "imdb_id": "tt11286314",
+  "budget": 75000000,
+  "homepage": "https://www.netflix.com/title/81252357",
+  "revenue": 791863,
+  "runtime": 138,
+  "tagline": "Based on truly possible events.",
+  "genres": [
+    "Comedy",
+    "Science Fiction",
+    "Drama"
+  ],
+  "production_companies": [
+    "Hyperobject Industries"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jennifer Lawrence",
+        "character": "Kate Dibiasky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nSWSc3pAQEw0lPAmAk4d9GFMv6k.jpg"
+      },
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Dr. Randall Mindy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+      },
+      {
+        "name": "Meryl Streep",
+        "character": "President Orlean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/emAAzyK1rJ6aiMi0wsWYp51EC3h.jpg"
+      },
+      {
+        "name": "Rob Morgan",
+        "character": "Dr. Teddy Oglethorpe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ps6wR3JZnk6MY9tbtOLORgadqs6.jpg"
+      },
+      {
+        "name": "Jonah Hill",
+        "character": "Jason Orlean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+      },
+      {
+        "name": "Cate Blanchett",
+        "character": "Brie Evantee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A3nZcGx0qUhbb9fpNK65oPgCJtC.jpg"
+      },
+      {
+        "name": "Mark Rylance",
+        "character": "Peter Isherwell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bztEZRyXrvW3Pg1fexNASXlZrq7.jpg"
+      },
+      {
+        "name": "Tyler Perry",
+        "character": "Jack Bremmer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8KU0OizemVLrERXt5HJIa0PAkIN.jpg"
+      },
+      {
+        "name": "Timothée Chalamet",
+        "character": "Yule",
+        "profile_path": "https://image.tmdb.org/t/p/w185/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
+      },
+      {
+        "name": "Ron Perlman",
+        "character": "Benedict Drask",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9riPBfsWpzEzh2y9ucxTW22iakI.jpg"
+      },
+      {
+        "name": "Ariana Grande",
+        "character": "Riley Bina",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hPSt9xVwUcyG2BJoJsDF3ODbGex.jpg"
+      },
+      {
+        "name": "Kid Cudi",
+        "character": "DJ Chello",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z5TRmx4WQB9Ge1WQa6VdxBKnwmC.jpg"
+      },
+      {
+        "name": "Himesh Patel",
+        "character": "Phillip",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fC6diZ0i3Epot9dRl7b2SSegf4L.jpg"
+      },
+      {
+        "name": "Melanie Lynskey",
+        "character": "June Mindy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4raNiD71caQXKKqIBZS1FDsvtkd.jpg"
+      },
+      {
+        "name": "Michael Chiklis",
+        "character": "Dan Pawketty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pAkKjbzxP6Z6Y5zAGpwmWQo1iji.jpg"
+      },
+      {
+        "name": "Tomer Sisley",
+        "character": "Adul Grelio",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Tqiq9ajbiA0OGbpQDorROU2SO7.jpg"
+      },
+      {
+        "name": "Paul Guilfoyle",
+        "character": "General Themes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
+      },
+      {
+        "name": "Robert Joy",
+        "character": "Congressman Tenant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kPY9ggs4qCi3oeEvkYP17Yvfm5r.jpg"
+      },
+      {
+        "name": "Jack Alberts",
+        "character": "Oliver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yy0HXDkYuDzJY7ii6Fu85OBfwSi.jpg"
+      },
+      {
+        "name": "Ting Lik",
+        "character": "Win",
+        "profile_path": ""
+      },
+      {
+        "name": "Lance A. Williams",
+        "character": "Daniel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9ITZKZYmSdk9i7c2rnvGjnvfE96.jpg"
+      },
+      {
+        "name": "Shimali de Silva",
+        "character": "Nisha",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ackLiwy4CxfneK8fhiuAEpNtsnE.jpg"
+      },
+      {
+        "name": "Hettienne Park",
+        "character": "Dr. Calder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c5fZeiKZ6magmPWbLJkSjKm5oUX.jpg"
+      },
+      {
+        "name": "Rafael Silva",
+        "character": "Nasa Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tlLJZbGf0HEQaNbfuhEKXs5PluZ.jpg"
+      },
+      {
+        "name": "Lonnie Farmer",
+        "character": "Old Aide #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sXubJWHxeQ9TKptKKzSpUA3OJ4f.jpg"
+      },
+      {
+        "name": "Homa Sarabi Daunis",
+        "character": "White House Office Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Barbara Douglass",
+        "character": "Office Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Rena Maliszewski",
+        "character": "Anchor Reporting On Colon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Rm80y6RN8p8sLoOKCJRNfvrrGC.jpg"
+      },
+      {
+        "name": "Erik Parillo",
+        "character": "Sherriff Conlon",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Hurst Radochia",
+        "character": "Evan Mindy",
+        "profile_path": ""
+      },
+      {
+        "name": "Conor Sweeney",
+        "character": "Marshall Mindy",
+        "profile_path": ""
+      },
+      {
+        "name": "Ross Partridge",
+        "character": "Keith Ollens",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4GCbT5B0WeoDkl5gor8NuAvy4mV.jpg"
+      },
+      {
+        "name": "Richard Donelly",
+        "character": "Old Aide #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Liev Schreiber",
+        "character": "Bash Narrator (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3wFnwxs1LIZOh1FtWjZWuS2mm8z.jpg"
+      },
+      {
+        "name": "Samsara Yett",
+        "character": "Isherwell Child Aide",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ytijuIDKR55LueYLEjagILFtLsI.jpg"
+      },
+      {
+        "name": "Meara Mahoney Gross",
+        "character": "Isherwell Child Aide",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2FDxv4Om0p08N9Ey1PpKEsHgq3d.jpg"
+      },
+      {
+        "name": "Jaden Onwuakor",
+        "character": "Isherwell Child Aide",
+        "profile_path": ""
+      },
+      {
+        "name": "Staci Roberts",
+        "character": "Linda Dicalio",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pMTz66JbivrLpOTjdEqyeQBzDJr.jpg"
+      },
+      {
+        "name": "Wendy Bellevue",
+        "character": "Isherwell Child Handler",
+        "profile_path": ""
+      },
+      {
+        "name": "Mishka Yarovoy",
+        "character": "Executive",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Everett",
+        "character": "Chief Editor Paula Woods",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qYE9yQJSC0GJeCW3qs30RfvwrUS.jpg"
+      },
+      {
+        "name": "Annette Miller",
+        "character": "Mrs. Tanken",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dFYcQpvXzfCqgorOR67eie39QsW.jpg"
+      },
+      {
+        "name": "Stephen Thorne",
+        "character": "Benjamin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1IdobCSx0cUxMBIEZmgumQGNkwJ.jpg"
+      },
+      {
+        "name": "Aimee Doherty",
+        "character": "Passerby",
+        "profile_path": ""
+      },
+      {
+        "name": "Natalie Rebenkoff",
+        "character": "Talent PA",
+        "profile_path": ""
+      },
+      {
+        "name": "Gary Tanguay",
+        "character": "News Anchor #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5WnJ7WUceuarkEjZHoDPZsQA3Jy.jpg"
+      },
+      {
+        "name": "Georgia Lyman",
+        "character": "Groomer Thalia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ktLM8PeCXNjm7qu0jFKxgqmhI50.jpg"
+      },
+      {
+        "name": "Patricia DeHaney",
+        "character": "Hair Person",
+        "profile_path": ""
+      },
+      {
+        "name": "Ben Sidell",
+        "character": "Stage Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sykOYWpldybMVMaVQRidwdtOEMO.jpg"
+      },
+      {
+        "name": "Therese Plaehn",
+        "character": "Autopsy Editor In Charge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ztGYkpvfYPXCMhhhRvmUKM4Txvs.jpg"
+      },
+      {
+        "name": "Omar Ghonim",
+        "character": "Damian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4pSUOx8zsa0GpDzYW4kHCPP8i0U.jpg"
+      },
+      {
+        "name": "Jody O'Neil",
+        "character": "Stage Manager #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Meghan Leathers",
+        "character": "Media Quant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g35VXs8OeebL0Yu3f5Wph0Ho6Jv.jpg"
+      },
+      {
+        "name": "Ashleigh Banfield",
+        "character": "Dalia Hensfield",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah Silverman",
+        "character": "Sarah Benterman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g5G711XyVokJm2RoItpkaHa8mkQ.jpg"
+      },
+      {
+        "name": "Richard Snee",
+        "character": "Senator Lerner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xLloIthzN9jPqKcgVjLAUqUEvWS.jpg"
+      },
+      {
+        "name": "Darryl Wooten",
+        "character": "FBI Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Danielle Waxman",
+        "character": "College Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeffrey Smith",
+        "character": "Blind Man FBI Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Jon Glaser",
+        "character": "Meow Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wJW4JrjHUo8SAptqlsfK3yZkBrx.jpg"
+      },
+      {
+        "name": "Dorothy Dwyer",
+        "character": "Old Tough Lady",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rzhSiepehOt82HPMx2uSvSmzZYf.jpg"
+      },
+      {
+        "name": "Odis Spencer Jr.",
+        "character": "Chief Justice",
+        "profile_path": ""
+      },
+      {
+        "name": "André Silva",
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zrJw7Fmd6V6l1L3i4fQhbI1gtz5.jpg"
+      },
+      {
+        "name": "Zach Holmes",
+        "character": "#LaunchChallenge MeTuber (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q5HxqgzpKIwhR9bKy51z5V0vlzE.jpg"
+      },
+      {
+        "name": "Sarah Nolen",
+        "character": "Sammy Puppeteer",
+        "profile_path": ""
+      },
+      {
+        "name": "Alvin Keith",
+        "character": "Harrison Telms",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6xIRITgExIvwBMBGl1oHEY6cvig.jpg"
+      },
+      {
+        "name": "Alaina Pinto",
+        "character": "American Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Lizzie Short",
+        "character": "French Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Juri Love",
+        "character": "Japanese Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Sujoy De",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hyq6sQ039NjNghI5vuShr8XnByZ.jpg"
+      },
+      {
+        "name": "Brahms Guignard",
+        "character": "Haitian Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Sergei Bushmanov",
+        "character": "Russian Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Lewis D. Wheeler",
+        "character": "Mission Coordinator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6jBaDldiWtPaVl7X6Uufkv0mLNt.jpg"
+      },
+      {
+        "name": "Steve Gagliastro",
+        "character": "Onlooker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gkvExWKFhHmrsncN09s616UKpKF.jpg"
+      },
+      {
+        "name": "David J. Curtis",
+        "character": "Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ufbJYNtiGs2qxpARsNxxVHD7JeW.jpg"
+      },
+      {
+        "name": "Kevin Craig West",
+        "character": "Secretary of State",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tBgxwFUSlIvwRMq1tqDih8v7UIs.jpg"
+      },
+      {
+        "name": "Alison Weller",
+        "character": "Secretary of Education",
+        "profile_path": ""
+      },
+      {
+        "name": "Rob Lévesque",
+        "character": "Secretary of Interior",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jedOhOS3KknCvf0OPyEvZ0uYmv2.jpg"
+      },
+      {
+        "name": "Sam Zephir",
+        "character": "Captain",
+        "profile_path": ""
+      },
+      {
+        "name": "Dee Nelson",
+        "character": "Dr. Lisa Inez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kfmANsOBqw6MUsa0ZJj7nkhjpJM.jpg"
+      },
+      {
+        "name": "Beau Allen",
+        "character": "Dr. Talcamont",
+        "profile_path": ""
+      },
+      {
+        "name": "Rebecca Gibel",
+        "character": "Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bfRKCKebQWp9eSpQv7k3UPgCGzy.jpg"
+      },
+      {
+        "name": "Brian Faherty",
+        "character": "Guy from the Bar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dLpbjtTK7ICPUhDkgKEuuax004J.jpg"
+      },
+      {
+        "name": "Celeste Oliva",
+        "character": "Nearby Diner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9lgzJtLM3igvxUpopDkHJkAbilB.jpg"
+      },
+      {
+        "name": "Amanda Cass",
+        "character": "Rioting Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Roman Mitichyan",
+        "character": "Rioting Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vBxdQXMby6RtQVqgu6HEoD9zt4e.jpg"
+      },
+      {
+        "name": "Paul Marini",
+        "character": "Rioting Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Huynh",
+        "character": "Rioting Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7efiGc6I7TUQlEN7eDuahAE0WXO.jpg"
+      },
+      {
+        "name": "Michael Jibrin",
+        "character": "Federal Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Mootos",
+        "character": "Federal Attorney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jUo82h7PIZGVlc6SqGuRgGbMcvy.jpg"
+      },
+      {
+        "name": "Patti Tippo",
+        "character": "French President",
+        "profile_path": "https://image.tmdb.org/t/p/w185/68mCQgI46gAO4YdVnbaZGnXW8gZ.jpg"
+      },
+      {
+        "name": "Allyn Burrows",
+        "character": "Mr. Dibiasky",
+        "profile_path": ""
+      },
+      {
+        "name": "Tori Davis Lawlor",
+        "character": "Mrs. Dibiasky",
+        "profile_path": ""
+      },
+      {
+        "name": "Joy Lang",
+        "character": "Housewife",
+        "profile_path": ""
+      },
+      {
+        "name": "June Holmes",
+        "character": "Girl in Commercial",
+        "profile_path": ""
+      },
+      {
+        "name": "Graham Holmes",
+        "character": "Boy in Commercial",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacob Sanditen",
+        "character": "Yule's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Marrese",
+        "character": "Other Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Evans",
+        "character": "Devin Peters (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+      },
+      {
+        "name": "Caroline Bergwall",
+        "character": "Teen Girl Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vWN6LNNvBZ6WUWfBeGRGmaRMIDK.jpg"
+      },
+      {
+        "name": "Anania Williams",
+        "character": "Short Guy Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Nate Richman",
+        "character": "Stocky FBI Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n67Sj9iCe52sihZolnnZE1Che0O.jpg"
+      },
+      {
+        "name": "Wes Johnson",
+        "character": "Don't Look Up'er",
+        "profile_path": ""
+      },
+      {
+        "name": "John Bucy",
+        "character": "Don't Look Up'er",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a41u0dNBGv3t42Gg2TZhYjcI0Bm.jpg"
+      },
+      {
+        "name": "Patrick Gover",
+        "character": "Don't Look Up'er",
+        "profile_path": ""
+      },
+      {
+        "name": "Conrad Perry",
+        "character": "Don't Look Up'er",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Rouillard",
+        "character": "Don't Look Up'er",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Deschenes",
+        "character": "Don't Look Up'er",
+        "profile_path": ""
+      },
+      {
+        "name": "J.P. Aaron",
+        "character": "Just Look Up'er",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniela August",
+        "character": "Just Look Up'er",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicholai Senat",
+        "character": "Puppet Show Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexandra Zilch",
+        "character": "Puppet Show Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Kobs",
+        "character": "Truthslinger303",
+        "profile_path": ""
+      },
+      {
+        "name": "Bianca de la Garza",
+        "character": "Entertainment Journalist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mOW2jLGNeAESx1p2hUwphNPjFMF.jpg"
+      },
+      {
+        "name": "Caitlin Ishibashi",
+        "character": "DJ at Concert",
+        "profile_path": ""
+      },
+      {
+        "name": "Claire Davis",
+        "character": "Bass Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Elder Isaiah Perez",
+        "character": "Organ Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Coran Spardakis Henley",
+        "character": "Drummer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lance Norris",
+        "character": "Loyal Supporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c8If9ogFXX8qb7zpWUBizul3Bow.jpg"
+      },
+      {
+        "name": "Ralph M. Studley",
+        "character": "Kid Rock Body Double",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Ridley",
+        "character": "Flight Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b5bc1q1CfxBWAXrhdufuud4Kr3d.jpg"
+      },
+      {
+        "name": "Andrew Haserlat",
+        "character": "Mission Tech",
+        "profile_path": ""
+      },
+      {
+        "name": "Jayne McLendon",
+        "character": "Command Tech",
+        "profile_path": ""
+      },
+      {
+        "name": "Ishaan Khattar",
+        "character": "Raghav Manavalan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tPKrj1MVELkcyGEr2YbyKAl5niO.jpg"
+      },
+      {
+        "name": "Khaldoun Rajeh",
+        "character": "Egyptian Family",
+        "profile_path": ""
+      },
+      {
+        "name": "Sheren Rajeh",
+        "character": "Egyptian Family",
+        "profile_path": ""
+      },
+      {
+        "name": "Khaled Rajeh",
+        "character": "Egyptian Family",
+        "profile_path": ""
+      },
+      {
+        "name": "Kareem Rajeh",
+        "character": "Egyptian Family",
+        "profile_path": ""
+      },
+      {
+        "name": "Ahmad Rajeh",
+        "character": "Egyptian Family",
+        "profile_path": ""
+      },
+      {
+        "name": "Adila Rajeh",
+        "character": "Egyptian Family",
+        "profile_path": ""
+      },
+      {
+        "name": "J.T. Turner",
+        "character": "Old Billionaire",
+        "profile_path": ""
+      },
+      {
+        "name": "Ed Peed",
+        "character": "Lobbyist",
+        "profile_path": ""
+      },
+      {
+        "name": "Luan Gallagher",
+        "character": "Extra (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Clara Kovacic",
+        "character": "(uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7ho5KZEjrZzSiOXMsERuzjVeCgd.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Adam McKay",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xbbF6DdzOv0zTBIt444Z2pakyOd.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "artificial intelligence (a.i.)",
+    "the white house",
+    "asteroid",
+    "climate change",
+    "satire",
+    "global warming",
+    "comet",
+    "end of the world",
+    "social commentary",
+    "social satire",
+    "meteorite",
+    "astronomer",
+    "disaster",
+    "teacher student relationship",
+    "denial",
+    "mass hysteria",
+    "aftercreditsstinger",
+    "duringcreditsstinger"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Two low-level astronomers must go on a giant media tour to warn humankind of an approaching comet that will destroy planet Earth.",
+    "Kate Dibiasky (Jennifer Lawrence), an astronomy grad student, and her professor Dr. Randall Mindy (Leonardo DiCaprio) make an astounding discovery of a comet orbiting within the solar system. The problem - it's on a direct collision course with Earth. The other problem? No one really seems to care. Turns out warning mankind about a planet-killer the size of Mount Everest is an inconvenient fact to navigate. With the help of Dr. Oglethorpe (Rob Morgan), Kate and Randall embark on a media tour that takes them from the office of an indifferent President Orlean (Meryl Streep) and her sycophantic son and Chief of Staff, Jason (Jonah Hill), to the airwaves of The Daily Rip, an upbeat morning show hosted by Brie (Cate Blanchett) and Jack (Tyler Perry). With only six months until the comet makes impact, managing the 24-hour news cycle and gaining the attention of the social media obsessed public before it's too late proves shockingly comical - what will it take to get the world to just look up?.—Netflix",
+    "Astronomy student Kate discovers the existence of an unidentified comet. Her professor, Dr Mindy, calculates that the trajectory of the asteroid crosses that of the Earth and that an impact will take place in about six months, killing all life in the process. They travel to the White House to present their findings. However The White House has other plans and are trying to silence Dr Mindy and Kate. In their attempt to inform the population through a television program, nothing really changes. Nobody seems interested and they will soon find out why.—Wiki",
+    "With the enormous Dibiasky Comet hurtling towards an utterly unprotected Earth on a collision course of Apocalyptic proportions, Michigan State University astronomers Dr Mindy and his doctoral student Kate take their shocking findings to the White House. Having less than six short months until the unprecedented planet-killer tears through our atmosphere and obliterates all life on Earth, it's up to U.S. President Orlean and her apathetic staff to let the world know and, hopefully, save humankind. However, with the press more interested in celebrity scandals than facts and people refusing to accept science, this is easier said than done. But first things first. Do we know there even is a comet? Are we 100% sure that we are all going to die?—Nick Riganas"
+  ],
+  "synopsis": "Kate Dibiasky, an astronomy grad student at Michigan State University, discovers the existence of an unidentified comet. Her professor, Dr. Randall Mindy, calculates that the trajectory of the comet crosses that of the Earth and that an impact will take place in about six months, killing all life in the process. Accompanied by scholar Teddy Oglethorpe, Kate and Randall travel to the White House to present their findings, but are met with apathy from U.S. President Janie Orlean and her staff, including her son, Chief of Staff Jason. The attempt to inform the population through a television program also fails, though Kate's on-camera antics go viral online. When Orlean becomes involved in a sex scandal, she announces the threat of the comet to divert attention. The news is finally spread by the media and the launch of a spaceship that can hit and divert the comet, saving the planet, is announced. However, the operation is canceled mid-flight when Peter Isherwell, a tech billionaire and prominent funder of Orlean, discovers that the comet is composed of trillions of dollars worth of precious minerals that have become scarce on Earth. The White House plans to commercially exploit the comet by crushing it to reduce its size and recovering the fragments. Kate and Teddy immediately abandon the operation in protest, while Randall submissively becomes a prominent voice in advocating for the comet's commercial opportunities, as well as starting an affair with talk show host Brie Evantee. The world becomes ideologically divided between those who demand the total destruction of the comet, those who decry unjustified alarmism, and those who deny that a comet even exists. Meanwhile, Kate returns home to Michigan and begins a relationship with a boy named Yule. After his wife June discovers his infidelity, Randall becomes angered and voices his frustrations on live television, launching into a rant criticizing Orlean's administration for downplaying the impending apocalypse and questions humanity's indifference, before leaving the operation and reconciling with Kate. Orlean and Isherwell's plan to recover the comet's materials fails, leaving them, along with a group of wealthy Americans, to flee in a spaceship designed to find the nearest Earth-like planet. However, they accidentally leave Jason behind in the process. Before leaving, Orlean offers Randall a place on the ship, but he turns her down, choosing to spend his last moments in the company of Kate, his family, Yule, and Teddy. The comet finally hits the planet, killing everyone. In a mid-credits scene set twenty-two thousand years later, the presidential ship lands on a lush alien planet. Its passengers wake up from cryogenic sleep and take a look at the surrounding environment only to immediately be attacked and killed by the planet's wild animals. In a post-credits scene, Jason is shown to have survived the extinction of life on Earth, wondering if his mother is still coming back, and documents the aftermath on his phone.",
+  "imdb_score": 7.2
+}

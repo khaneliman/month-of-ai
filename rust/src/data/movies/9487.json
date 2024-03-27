@@ -1,0 +1,368 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
+  "id": 9487,
+  "title": "A Bug's Life",
+  "poster_path": "https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
+  "release_date": "1998-11-25",
+  "vote_average": 6.968,
+  "vote_count": 8719,
+  "popularity": 63.86,
+  "overview": "On behalf of \"oppressed bugs everywhere,\" an inventive ant named Flik hires a troupe of warrior bugs to defend his bustling colony from a horde of freeloading grasshoppers led by the evil-minded Hopper.",
+  "imdb_id": "tt0120623",
+  "budget": 80000000,
+  "homepage": "http://movies.disney.com/a-bugs-life",
+  "revenue": 363258859,
+  "runtime": 95,
+  "tagline": "An epic presentation of miniature proportions.",
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Walt Disney Pictures",
+    "Pixar"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Dave Foley",
+        "character": "Flik (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/muHRRGDTE7ZWk3guqDAk9L4DqVX.jpg"
+      },
+      {
+        "name": "Kevin Spacey",
+        "character": "Hopper (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rwIMhGHMq0nh7CJY7EYjGJZBkVt.jpg"
+      },
+      {
+        "name": "Julia Louis-Dreyfus",
+        "character": "Atta (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sXpjQoFoYqNehfWhlkScF8lo9vc.jpg"
+      },
+      {
+        "name": "Hayden Panettiere",
+        "character": "Dot (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bhGkVHCFu8peC4rIXIUMWCQqZR7.jpg"
+      },
+      {
+        "name": "Phyllis Diller",
+        "character": "Queen (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bPu5PcL6cwxKJ7xuBHcdgsdKk1H.jpg"
+      },
+      {
+        "name": "Richard Kind",
+        "character": "Molt (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qg60uiHnDP4b2pVgdFtRhGlxtq.jpg"
+      },
+      {
+        "name": "David Hyde Pierce",
+        "character": "Slim (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9BSgq4yxjPry1Oghqq92S4wUIvs.jpg"
+      },
+      {
+        "name": "Joe Ranft",
+        "character": "Heimlich (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f1BoWC2JbCcfP1e5hKfGsxkHzVU.jpg"
+      },
+      {
+        "name": "Denis Leary",
+        "character": "Francis (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nAqHuIw8z1QodcXdaJQShKogVFa.jpg"
+      },
+      {
+        "name": "Jonathan Harris",
+        "character": "Manny (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ieLNe2cBJTJ2Aeb3QAXVp6w1sKu.jpg"
+      },
+      {
+        "name": "Madeline Kahn",
+        "character": "Gypsy Moth (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Ae2CI5i91PKAagUfvyIEabVNj4Z.jpg"
+      },
+      {
+        "name": "Bonnie Hunt",
+        "character": "Rosie (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+      },
+      {
+        "name": "Michael McShane",
+        "character": "Tuck / Roll (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xGd7WMiumvnsGttbBXVRsrhos7X.jpg"
+      },
+      {
+        "name": "John Ratzenberger",
+        "character": "P.T. Flea (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e5aNU09v1q6WYTx9pNzC7yjSpve.jpg"
+      },
+      {
+        "name": "Brad Garrett",
+        "character": "Dim (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+      },
+      {
+        "name": "Roddy McDowall",
+        "character": "Mr. Soil (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mGO0pDPi5p91k2Og09HTf270rxL.jpg"
+      },
+      {
+        "name": "Edie McClurg",
+        "character": "Dr. Flora (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vU5y4hZe1WhqDAPP5jEfrWv4Iaq.jpg"
+      },
+      {
+        "name": "Alex Rocco",
+        "character": "Thorny (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uAG4qvYhYHuCyyXGm3lqC4o6ujc.jpg"
+      },
+      {
+        "name": "David Ossman",
+        "character": "Cornelius (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Carlos Alazraqui",
+        "character": "Loco (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d2hufnjlfsZiY7N9NLZ6b7FE1IZ.jpg"
+      },
+      {
+        "name": "Jack Angel",
+        "character": "Thud (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5MsVwIULYJotUSbDs61uSJff7ei.jpg"
+      },
+      {
+        "name": "Bob Bergen",
+        "character": "Aphie / Male Ants (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg"
+      },
+      {
+        "name": "Kimberly J. Brown",
+        "character": "(voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/neQjYdxOa6wPOt2RgC1pTxjGFh3.jpg"
+      },
+      {
+        "name": "Rodger Bumpass",
+        "character": "Harry Mosquito (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lGQkw6adxqB6Hcm7VK8nVHbKupe.jpg"
+      },
+      {
+        "name": "Anthony Burch",
+        "character": "Ant Boys (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aKqOh3xLr28d4RbwQNpVyZrv29w.jpg"
+      },
+      {
+        "name": "Jennifer Darling",
+        "character": "Female Ants (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g0sBNqwHOjCHo9KjPzGdYaCqh0h.jpg"
+      },
+      {
+        "name": "Rachel Davey",
+        "character": "Grasshoppers (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Debi Derryberry",
+        "character": "Baby Maggots (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aCVgHnvGBw7ssZA9kl1Pnr5pJjU.jpg"
+      },
+      {
+        "name": "Paul Eiding",
+        "character": "Male Ants (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Gxs9fTnkQLFlmMHROlgiDJ4p10.jpg"
+      },
+      {
+        "name": "Jessica Evans",
+        "character": "Female Ants (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8SDxlZ9thwA0VYPpQyywbSKzgpV.jpg"
+      },
+      {
+        "name": "Bill Farmer",
+        "character": "Male Ants (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lhezx68R12s5Bsv7d77BrQb7tWA.jpg"
+      },
+      {
+        "name": "Sam Gifaldi",
+        "character": "Ants (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brad Hall",
+        "character": "Grasshopper (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lh1iZA0lR5UpZAhaUaAIMswrIQg.jpg"
+      },
+      {
+        "name": "Jess Harnell",
+        "character": "Bus Bettle (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+      },
+      {
+        "name": "Brenden Hickey",
+        "character": "Ants (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kate Charlotte Hodges",
+        "character": "Female Ants (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Denise Johnson",
+        "character": "Bug (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "David L. Lander",
+        "character": "Thumper (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2cacF83gTLlFYcWaOWLA6emOInN.jpg"
+      },
+      {
+        "name": "John Lasseter",
+        "character": "Bug Zapper Bug #1 (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gAVAZZHBa1v3gTcsWcBUwiHcyA0.jpg"
+      },
+      {
+        "name": "Sherry Lynn",
+        "character": "Female Ants (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cp7SYig9JVbBWgc2YD4wEUNQGzh.jpg"
+      },
+      {
+        "name": "Mickie McGowan",
+        "character": "Cockroach Waitress (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4K1HF10EvDjdaIoDAnWqFZjnmvk.jpg"
+      },
+      {
+        "name": "Courtland Mead",
+        "character": "Fly (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/71Npi8B3YfSbOOXo5uvT5Nhn3Ah.jpg"
+      },
+      {
+        "name": "Christina Milian",
+        "character": "Female Ants (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mzqhZVTYbgQd3SBZrb9KGlCuRnu.jpg"
+      },
+      {
+        "name": "Kelsey Mulrooney",
+        "character": "Female Ants (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cdHJZJraJgjfO5wKJ1TfNgsrMze.jpg"
+      },
+      {
+        "name": "Ryan O'Donohue",
+        "character": "Grub (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff Pidgeon",
+        "character": "Grasshopper (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t8LV9Y6s1qwQQNSRfo6GWEExffd.jpg"
+      },
+      {
+        "name": "Phil Proctor",
+        "character": "Slick (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iLTvGROn3XvT0MPPspF2e3OsFCs.jpg"
+      },
+      {
+        "name": "Jan Rabson",
+        "character": "Axel (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8IBFupx53arTqxOYhGkGwyVSaOn.jpg"
+      },
+      {
+        "name": "Jordan Ranft",
+        "character": "Ant Boys (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hjb8NXNsozQN3uJWrRvMWXPhtYe.jpg"
+      },
+      {
+        "name": "Brian M. Rosen",
+        "character": "Fly Brothers (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rebecca Schneider",
+        "character": "Female Ants (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Francesca Marie Smith",
+        "character": "Female Ants (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hdD9meZg1rBqbc1WpYBSROQnQik.jpg"
+      },
+      {
+        "name": "Andrew Stanton",
+        "character": "Bug Zapper Bug #2 (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tRwWuo06aN9vuXAPaswMN42x2ii.jpg"
+      },
+      {
+        "name": "Hannah Swanson",
+        "character": "Female Ants (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zVLc6wbGNOt4C6MYkWcUthMZ6D9.jpg"
+      },
+      {
+        "name": "Russi Taylor",
+        "character": "Female Ants (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r79GVF7LyBExJP7cRMob8QQZ6IU.jpg"
+      },
+      {
+        "name": "Travis Tedford",
+        "character": "Ant Kids (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mVfFFVKhxADeJgyZkdmUmWTY9R1.jpg"
+      },
+      {
+        "name": "Ashley Tisdale",
+        "character": "Lead Blueberry Scout (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/znzE8om6N3H9wJQ5AUTMxPOnA3s.jpg"
+      },
+      {
+        "name": "Lee Unkrich",
+        "character": "Ant #1 (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/crb297utC6W4HSstOe5djDPTwEN.jpg"
+      },
+      {
+        "name": "Jordan Warkol",
+        "character": "Ant #2 (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3PKc7upjRt4JmkjlwIgKjDmsL7u.jpg"
+      },
+      {
+        "name": "Pat Fry",
+        "character": "Grasshoppers (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kath Soucie",
+        "character": "Ants (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/62hvT4USvGa9OAsMP9guIBtJqkf.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "John Lasseter",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gAVAZZHBa1v3gTcsWcBUwiHcyA0.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "fight",
+    "winter",
+    "ant-hill",
+    "ant",
+    "invention",
+    "collector",
+    "anthropomorphism",
+    "grass",
+    "duringcreditsstinger"
+  ],
+  "mpaa": "G",
+  "summaries": [
+    "A misfit ant, looking for \"warriors\" to save his colony from greedy grasshoppers, recruits a group of bugs that turn out to be an inept circus troupe.",
+    "At an annual pace, a huge colony of ants is forced to collect every piece of food that grows on their island for a group of menacing grasshoppers. But that all changes when a misfit inventor ant named Flik accidentally knocks over the offering pile thus forcing the grasshoppers' devious leader Hopper to force the ants to redo their gathering of food. Despite the fact that his friends don't believe him and desperate to help save the colony, Flik volunteers to go out into the world and search for a group of 'warrior' bugs. Instead, what he got was a talented group of circus performers. But when the grasshoppers return and take control of the island, Flik must prove himself a true hero before it's too late.—Blazer346",
+    "In every season, greedy grasshoppers demand a share of food from a colony of ants. But one day, their annual offering is inadvertently destroyed, and the grasshoppers demand twice as much food as compensation. So the ants send a misfit ant named Flik to seek for \"warrior bugs\" to battle the grasshoppers, only to discover that the group of bugs he recruited are an inept circus troupe. But the bugs are the ants' only hope to fight off their enemies.—MadMovieManiac",
+    "Sadly, the good Queen of Ant Island and her gracious daughter, Princess Atta, are absolutely helpless against the absurd annual demands of the ruthless Hopper and his hordes of ferocious grasshoppers. However, this year, things are bound to get from bad to worse, as an embarrassing and terrible catastrophe threatens to disrupt the already frail balance between the two species. Now, only Flik--a resourceful young ant and a hopeful inventor--a mighty army, and a genuine miracle can save the defenceless colony from the rapacious predators; however, this is easier said than done. Undoubtedly, it's a hard life for a bug out there; nevertheless, can Flik manage to save the day?—Nick Riganas",
+    "A colony of ants is under the thumb of the grasshoppers, who extort food from the ants. One ant, Flik, decides to do something about this. He sets out to the city to find some warrior bugs to fight the grasshoppers. Hew returns with an assortment of characters he believes will be enough to battle the ant's oppressors, only to find that they're a troupe of circus performers.—grantss"
+  ],
+  "synopsis": "On a small island with a large tree, a colony of ants is preparing food for the arrival of a band of grasshoppers. Of the ants that are working, one of them that stands out is an industrious one named Flik. Flik is constantly inventing new things for the colony to reduce labor, but his ideas are often shouted down and shunned by the colony, who feel the old-fashioned way of preparing the grasshoppers' \"offering\" is the only way to do things. The only one who seems to believe in Flik is the young Princess of the colony named Dot. Secretly, Flik is attracted to her older sister, Atta, who is next in line for the throne.As the time for the grasshoppers to arrive approach, the colony heads down into the anthill, intent to wait for the grasshoppers to eat the offering, and leave. Unfortunately, Flik is the last one to put his items on the offering stone, and ends up causing the platform to collapse with his piece of machinery. All the food they've gathered spills into the stream.When the grasshoppers finally arrive and find nothing, they break into the anthill to terrorize the ants. The leader of the grasshoppers, Hopper, demands that the offering be replenished by the Fall season, and terrorizes Dot, before Flik comes forward to try and defend her. Hopper then commands that the offering be doubled, due to Flik's speaking up against them. During the meeting, Hopper's dimwitted brother, Molt, lets it slip that Hopper is afraid of birds. Hopper silences his brother and the grasshoppers leave, promising to return when the last leaf of Autumn falls.The colony is now in trouble, as there isn't enough food to fulfill Hopper's request and provide sustenance for the colony. Flik is brought before a tribunal in regards to his causing the trouble. As the group convenes, Flik then thinks up a new idea: if the colony could find bigger bugs to help them defend the colony, they could be instrumental in scaring off the grasshoppers from ever returning. The others think this is a bad idea, until Flik volunteers to look. Thinking that his search will take a long time, the council decides to accept Flik's request, figuring he'll be away from them long enough to keep from causing further trouble.In another part of the region, a motley crew of bugs are performing in a circus led by a flea, PT Flea. The circus isn't well-attended, most of the audience being flies who jeer and cajole the performers, especially when their acts fail. PT, desperate to keep the flies from leaving, announces a new act call \"Flaming Death\" where his crew will work together to keep him from being burned. The act fails miserable because the bugs can't coordinate their efforts and PT is burned anyway. He fires them all on the spot.Flik sets off the next day to head for the big city, eventually finding his way into a 'bug bar,' asking around for tough 'warrior bugs.' His attention is suddenly drawn to a group of bugs in a corner, who it seems are preparing to take on a small gang of flies and their huge member, Thud. They make a valiant effort, posing as medieval knights but their ruse fails and the 'bug bar' ends up being wrecked, and Flik misses much of the fight. However, in the aftermath, Flik thinks he's found the perfect guardians to help his colony.He pleads his case to the group, saying how he's been looking for bugs with their talent, and asking for their help regarding the incoming group of grasshoppers. The group eagerly accepts, thinking Flik wants them to perform at a dinner theatre and, hoping to avoid trouble from the bar's owner & the flies they fought with, they head off for Ant Island.When Flik returns, Atta and the elders are shocked that Flik actually found 'warrior bugs.' Atta is at first unsure, but the ladybug of the group. Francis (Dennis Leary), promises that they will knock the grasshoppers 'dead' when they come.A party is then held in honor of the group, including a tribute and art showing the warriors fighting off the grasshoppers. The group then grows leery, realizing they're meant to fight a war for the ants instead of merely performing. Rosie whispers to Flik that they're actually just circus bugs and Flik is horrified, accusing the group of tricking them. When Atta appears, Flik convinces her that the circus bugs will fight for them.Discovering their mutual misunderstanding, the circus bugs attempt to leave, but are forced back by a bird. They work together to save Princess Dot, the Queen's daughter and Atta's sister, from the bird as they flee, gaining the ants' trust in the process. They continue the ruse of being \"warriors\" so the troupe can continue to enjoy the attention and hospitality of the ants. The bird encounter inspires Flik into creating an artificial bird to scare away Hopper, leader of the grasshoppers. The bird is constructed from sticks and leaves, but the circus bugs are exposed by their former ringmaster, P.T. Flea, when he arrives searching for them. Angered at Flik's deception, the ants exile him and desperately try to pull together enough food for a new offering to the grasshoppers, but fail to do so.When the grasshoppers discover a meager offering upon their arrival, they take control of the entire colony and begin eating the ants' winter store of food. After overhearing Hopper's plan to kill the queen, Dot leaves in search of Flik and the warrior bugs and convinces them to return and save the colony with his original plan. The plan nearly works, but P.T. Flea lights the artificial bird on fire, causing it to crash and be revealed as a fake. Hopper has Flik beaten by his thug, Thumper, in retaliation, but Flik defies Hopper and inspires the entire colony and the warriors to stand up to the grasshoppers and drive them out of the colony.Before Hopper can be disposed of, it begins to rain where the drops of water are like large bombs. In the chaos, Hopper viciously pursues Flik, who leads him to the actual bird's nest. Hopper mistakes the real bird for another fake bird, and taunts it, attracting its attention. The grasshopper is eaten by the bird and its chicks.Some time later, Flik has been welcomed back to the colony, and he and Atta are now a couple. As the troupe departs with the last grasshopper, Molt, as an employee, Atta is crowned the new Queen, while Dot gets the princess' crown. The circus troupe then departs as Flik, Atta and Dot watch and wave farewell in a tree branch.",
+  "imdb_score": 7.2
+}

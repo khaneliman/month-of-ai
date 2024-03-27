@@ -1,0 +1,404 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/bo4evsmoKb16AD1OhHgVOlgJtBw.jpg",
+  "id": 796499,
+  "title": "Army of Thieves",
+  "poster_path": "https://image.tmdb.org/t/p/w500/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg",
+  "release_date": "2021-10-27",
+  "vote_average": 6.855,
+  "vote_count": 1841,
+  "popularity": 38.876,
+  "overview": "A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.",
+  "imdb_id": "tt13024674",
+  "budget": 30000000,
+  "homepage": "https://www.netflix.com/title/81185548",
+  "revenue": 46900000,
+  "runtime": 127,
+  "tagline": "BEFORE VEGAS, ONE LOCKSMITH BECAME A LEGEND.",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Crime",
+    "Comedy"
+  ],
+  "production_companies": [
+    "Pantaleon Films",
+    "The Stone Quarry",
+    "Film United"
+  ],
+  "production_countries": [
+    "DE",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Matthias Schweighöfer",
+        "character": "Ludwig Dieter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i4c5JjvC5EpecZbp4J96mFmtm0Z.jpg"
+      },
+      {
+        "name": "Nathalie Emmanuel",
+        "character": "Gwendoline",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uh8EIhxKJxK7xsJlWcIgBkqyAKq.jpg"
+      },
+      {
+        "name": "Ruby O. Fee",
+        "character": "Korina",
+        "profile_path": "https://image.tmdb.org/t/p/w185/IXnwGeXbjgKhw3W2mGrK8HBSjC.jpg"
+      },
+      {
+        "name": "Stuart Martin",
+        "character": "Brad Cage",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qSM4nGc1FyxygdG9YyU4uritqn2.jpg"
+      },
+      {
+        "name": "Guz Khan",
+        "character": "Rolph",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pY2ND9eZhUtPuRBZPEoM1BRPZBd.jpg"
+      },
+      {
+        "name": "Jonathan Cohen",
+        "character": "Delacroix",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qkSGTG4cfkTRQrmxaaKVqQKOgKR.jpg"
+      },
+      {
+        "name": "Noémie Nakai",
+        "character": "Beatrix",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gS0BXE5CL7F3TZDxaj8vEQtY0Ym.jpg"
+      },
+      {
+        "name": "Christian Steyer",
+        "character": "Hans Wagner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mjHNODhlnjheVGrwN2XPGuPay5q.jpg"
+      },
+      {
+        "name": "Dan Bradford",
+        "character": "Big Tough Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yPUG9ktvrzH96YFbNxQRGOeKIC6.jpg"
+      },
+      {
+        "name": "Tonya Graves",
+        "character": "Basement McGee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aWGl7eG0AO0il5Qx54VAc5qqCmQ.jpg"
+      },
+      {
+        "name": "Trent Garrett",
+        "character": "Mr. Cool Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7T7cWwB0hxDWjQ4VOaV5NvQK1k7.jpg"
+      },
+      {
+        "name": "Barbara Meier",
+        "character": "Lucy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kFiQad1dOVkzHXgx9PLMhf3f9Hw.jpg"
+      },
+      {
+        "name": "Ephraim Goldin",
+        "character": "Competitor #4",
+        "profile_path": ""
+      },
+      {
+        "name": "Melanie Rada",
+        "character": "Competitor #5",
+        "profile_path": ""
+      },
+      {
+        "name": "Oleg Kim",
+        "character": "Competitor #6",
+        "profile_path": ""
+      },
+      {
+        "name": "Samira Mekibes Meza",
+        "character": "Competitor #7",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y5Bhu8LBzBy31ZgAxFoHbSZeQwq.jpg"
+      },
+      {
+        "name": "Charlie McGuire",
+        "character": "Competitor #8",
+        "profile_path": ""
+      },
+      {
+        "name": "Trish Osmond",
+        "character": "Bank Employee Inge",
+        "profile_path": ""
+      },
+      {
+        "name": "Pavel Gajdoš",
+        "character": "Barista",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dyFOWrfKShupH2ghMk3LZfktFgX.jpg"
+      },
+      {
+        "name": "Hana Frejková",
+        "character": "Old Lady",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ut5OM23KyrLMkhyRqZKhvzWMQV2.jpg"
+      },
+      {
+        "name": "Peter Hosking",
+        "character": "Old Security Guard Joe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ixHbOjeEvH7rdqdwbnBCBZx49sy.jpg"
+      },
+      {
+        "name": "Rebecca Connolly",
+        "character": "Old Lady Teller",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Kusche",
+        "character": "Angry Bald Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Ian Willoughby",
+        "character": "Sad Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Andreas Nowak",
+        "character": "Tom CM",
+        "profile_path": ""
+      },
+      {
+        "name": "Lukáš Duy Anh Tran",
+        "character": "Techie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7wWDquwUUbP7Ui6jIxGAEJxvLpn.jpg"
+      },
+      {
+        "name": "Jim High",
+        "character": "Rooftop Agent 1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lGOBQHhRQcqsaLHtl5I1cOqaYy7.jpg"
+      },
+      {
+        "name": "Steve Wilkie",
+        "character": "Security Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Pitthan",
+        "character": "Bank Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dcfJWYyduxuJFSGmCGVkznXbNQs.jpg"
+      },
+      {
+        "name": "Kateřina Pindejová",
+        "character": "Teller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dunqlrJ99A0EUI3IbmxoDLyCxOz.jpg"
+      },
+      {
+        "name": "Miroslav Lhotka",
+        "character": "Armed Guard #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Zdeněk Dvořáček",
+        "character": "Armed Guard #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7jUq2nf3dk1Qgc2N1rBUmYgteWx.jpg"
+      },
+      {
+        "name": "Jenn Kirk",
+        "character": "Another Teller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cnjfgrffg99bLrV4LI6HY8hY4uU.jpg"
+      },
+      {
+        "name": "Miroslav Pecháček",
+        "character": "Young Security Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Zdeněk Pecháček",
+        "character": "Old Security Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Josef Jelínek",
+        "character": "Man With Bicycle",
+        "profile_path": ""
+      },
+      {
+        "name": "Tigran Hovakimyan",
+        "character": "Local Cop",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Coltofeanu",
+        "character": "Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "David Bowles",
+        "character": "Backup",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bJFHfEI7VxmfhHw7esTIS0QVeTK.jpg"
+      },
+      {
+        "name": "Fanette Ronjat",
+        "character": "Floor Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9IACosTLBlSaymsEvvBqsDfeoXf.jpg"
+      },
+      {
+        "name": "Jeff Fritz",
+        "character": "Another Employee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rMVyefiKuPj7HLLeCpEYyoBojBX.jpg"
+      },
+      {
+        "name": "Garrett Marcantel",
+        "character": "Rooftop Agent #2 Bob",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2N2s7pWq7UmmP44Xhjxpj18wjJb.jpg"
+      },
+      {
+        "name": "Peter Stehlík",
+        "character": "Rooftop Agent #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonáš Petřík",
+        "character": "Interpol Agent #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Petr Kotík",
+        "character": "Interpol Agent #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Dunja Hayali",
+        "character": "German News Anchor",
+        "profile_path": ""
+      },
+      {
+        "name": "Sascha Graetz",
+        "character": "Father",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucie Grün",
+        "character": "Mother",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Vano",
+        "character": "Korina's Brother 5y/o",
+        "profile_path": ""
+      },
+      {
+        "name": "Ondřej Vetchý",
+        "character": "Strong Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hEaddnJEc8vK4FLHRDYdlEtr5H2.jpg"
+      },
+      {
+        "name": "Samba Goldin",
+        "character": "Teenage Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "John Bubniak",
+        "character": "Douchey Young Guy Chris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jrzNIAXcpuenLaqT8DgcfhuS1Tr.jpg"
+      },
+      {
+        "name": "Jan Cajzl",
+        "character": "Man with Skimask",
+        "profile_path": ""
+      },
+      {
+        "name": "Amy Huck",
+        "character": "Lady Café",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6b8LiCyQIFs3WHRfgJJATAP53JT.jpg"
+      },
+      {
+        "name": "Ted Otis",
+        "character": "Snob",
+        "profile_path": "https://image.tmdb.org/t/p/w185/llPP9MMXCb58hw2ngRBE8P7pFB8.jpg"
+      },
+      {
+        "name": "Jan Nemejovský",
+        "character": "Old Gun Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nD9R9fPvTejXCIcP6OwdVDNNkyE.jpg"
+      },
+      {
+        "name": "Damian Odess-Gillett",
+        "character": "Salesclerk",
+        "profile_path": ""
+      },
+      {
+        "name": "Michaela Pospíšilová",
+        "character": "Young Couple Female",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Otis",
+        "character": "Young Couple Male",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob Boudreaux",
+        "character": "Reporter Gil Pedretti",
+        "profile_path": ""
+      },
+      {
+        "name": "Leonard Treyde",
+        "character": "Young Dieter 12y/o",
+        "profile_path": ""
+      },
+      {
+        "name": "Jasmina Peña Milian",
+        "character": "Gwendoline 6y/o",
+        "profile_path": ""
+      },
+      {
+        "name": "Nandi Sawyers-Hudson",
+        "character": "Gwendoline 16y/o",
+        "profile_path": ""
+      },
+      {
+        "name": "Violina Maria Rostami",
+        "character": "Korina 10-12y/o",
+        "profile_path": ""
+      },
+      {
+        "name": "David Dvorščík",
+        "character": "Brad 11y/o",
+        "profile_path": ""
+      },
+      {
+        "name": "Sinéad Phelps",
+        "character": "Woman With Bike and Grey Helmet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oTARQq8oYMkaSqnTZJ8b6QsWO7A.jpg"
+      },
+      {
+        "name": "Hiroyuki Sanada",
+        "character": "Bly Tanaka (archive footage)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x6QHfdTvuuOclypoPqtdqQmlaGW.jpg"
+      },
+      {
+        "name": "Dave Bautista",
+        "character": "Scott Ward (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+      },
+      {
+        "name": "Ana de la Reguera",
+        "character": "María Cruz (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nEacV1wuUHV6eUyErGBhniJ85JY.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Matthias Schweighöfer",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i4c5JjvC5EpecZbp4J96mFmtm0Z.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "europe",
+    "interpol",
+    "prequel",
+    "zombie",
+    "safecracker",
+    "bank teller"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A prequel, set before the events of Army of the Dead, which focuses on German safecracker Ludwig Dieter leading a group of aspiring thieves on a top secret heist during the early stages of the zombie apocalypse.",
+    "Six years before the apocalyptic events of Army of the Dead (2021), timid small-town bank teller Sebastian leads a solitary, uneventful existence against the backdrop of an unheard-of virus outbreak in Las Vegas. Fascinated by locks and safes, the enthusiastic YouTuber and theoretical safe-cracker will get the chance to shine when mysterious Gwendoline enlists his help to pull off the heist of the century: crack a quartet of impenetrable, Richard Wagner-inspired safes. However, as Sebastian and Gwendoline's band of thieves embark on a frenzied mission across Europe, obsessive Interpol agent Delacroix is hot on their trail, and things are starting to look bleak in Sin City. Now, in the face of impossible odds, one man is about to write history. Is insecure Sebastian destined to become a legend?—Nick Riganas"
+  ],
+  "synopsis": "Sebastian (Matthias Schweighofer) has a mundane life as a bank teller in Potsdam. A zombie outbreak in Nevada dominates international news, giving him nightmares about zombies. He also produces YouTube videos about safe-cracking that receive no attention until a mysterious figure comment on his most recent, inviting him to an underground safe-cracking competition. Sebastian goes, winning the contest. Gwendoline (Nathalie Emmanuel) then introduces herself, a skilled jewel thief who had commented upon his YouTube video.Gwendoline recruits Sebastian into a heist crew consisting of herself, expert hacker Korina (Ruby O. Fee), getaway driver Rolph (Guz Khan) and gunman Brad Cage (Stuart Martin) with the intention of breaking into three banks that have the three safes created by legendary locksmith Hans Wagner (Christian Steyer) (Hans had created 4 safes, but one was lost to the vagaries of time. If you attempted to force the locks, the contents of the safe would be burnt. Hans finishes his work and locks himself in his final safe (the 5th), which was dropped in the ocean with his body still inside), which currently belong to billionaire Bly Tanaka. The safes are due to be decommissioned in less than a week (and the puzzle that Hans Wagner spent his life developing will be lost forever), so time is running out for someone to break into them.Sebastian, a theoretical expert on Wagner's work and safe-cracking but with no practical experience, is convinced by Gwendoline to join them for the challenge of breaking into a Wagner safe. Together, the crew successfully undertakes their heist of the first safe in Paris (the least complex of the 3, and also the least guarded), escaping with only a fraction of the money that is actually in the safe. Gwendoline justifies this as the challenge and reputation is better than any major monetary gain.As the crew celebrate after the Paris heist, Sebastian develops feelings for Gwendoline, drawing jealousy from Brad, her boyfriend since their teenage years when his real name was Alexis. The crew travel to Prague the location of the second safe (rumored to contain $40 MM), and are followed by Delacroix (Jonathan Cohen), an obsessive Interpol agent (who knows about the legend of Hans Wagner safes and knows where the team will strike next) leading a unit that has been trying to capture Gwendoline and the crew for years after Brad shot him during a theft.Sebastian and Gwendoline enter the bank but are soon identified by security, forcing Brad to create a distraction with a pretend robbery. He cracks the second safe, leaving with Gwendoline and another haul of money as Delacroix and his team race to the bank to stop them (he went to the wrong bank at first, who had traded their Wagner safe to one of their more prestigious branches). Brad is shot in the shoulder by a security guard and narrowly escapes the bank, ahead of Sebastian and Gwendoline. As the team flee, Brad deliberately leaves Sebastian behind, forcing him to shake off the pursuing police alone.Angry at Brad's actions, Gwendoline and Korina leave the crew, although the original plan was to ditch Sebastian after the three heists were complete. The women head back to Potsdam and reunite with Sebastian, telling him that the pursuit of the Wagner challenge is more important to them than any monetary gain.\nThe trio head to St. Moritz, location of the last safe in Europe, whilst Interpol also arrives. Delacroix's team believe they have a lead on the theft, only to be tricked again by them. They hijacked the safe during its transfer from the casino (Korina had called the casino as Interpol and told them about a possible security threat to the vault and advised them to move it). Their hijacking also usurps Brad and Rolph's idea to rob the safe themselves.Gwendoline and Sebastian leave St. Moritz on a lorry, chased by Brad and Rolph. Korina, caught by Interpol, manages to warn them about the other two. Sebastian has to crack the safe in the lorry while they are pursued by Brad and Rolph, and Interpol. He succeeds, finding another large haul of cash. Before they can leave with it however, Rolph and increasingly unstable Brad arrive. She overpowers and handcuffs them to the truck for Interpol to find before leaving with Sebastian.Before escaping on a boat from the town of Hallstatt, Austria, Sebastian, and Gwendoline confess their mutual feelings. However, Delacroix catches them, resulting in a standoff between him and Gwendoline. Out of love for Sebastian, she sacrifices herself to be arrested so that he can escape, promising to find him once she is free. Sebastian goes, vowing he will be reunited with Gwendoline one day.Sometime later, Scott Ward and Maria Cruz find Sebastian's (now Ludwig's) locksmith shop in California. They offer him the chance to crack Wagner's legendary \"missing\" safe, which Gwendoline and Sebastian had resolved to crack together once she was free; Sebastian accepts the job.",
+  "imdb_score": 6.4
+}

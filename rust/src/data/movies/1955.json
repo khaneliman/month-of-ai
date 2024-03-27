@@ -1,0 +1,471 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/hKpzq3U7X1C1lqnYh0WQwlPyxO5.jpg",
+  "id": 1955,
+  "title": "The Elephant Man",
+  "poster_path": "https://image.tmdb.org/t/p/w500/3SInR81qnXjY7Or5qXyiQLmWfEh.jpg",
+  "release_date": "1980-10-09",
+  "vote_average": 8.05,
+  "vote_count": 3258,
+  "popularity": 18.71,
+  "overview": "A Victorian surgeon rescues a heavily disfigured man being mistreated by his \"owner\" as a side-show freak. Behind his monstrous façade, there is revealed a person of great intelligence and sensitivity. Based on the true story of Joseph Merrick (called John Merrick in the film), a severely deformed man in 19th century London.",
+  "imdb_id": "tt0080678",
+  "budget": 5000000,
+  "homepage": "",
+  "revenue": 26000000,
+  "runtime": 124,
+  "tagline": "A true story of courage and human dignity.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    "Brooksfilms",
+    "Paramount"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Anthony Hopkins",
+        "character": "Dr. Frederick Treves",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9ukJS2QWTJ22HcwR1ktMmoJ6RSL.jpg"
+      },
+      {
+        "name": "John Hurt",
+        "character": "John Merrick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kFNlnnjCm7MsRNJ5yzZEH2YJIPC.jpg"
+      },
+      {
+        "name": "Anne Bancroft",
+        "character": "Mrs. Kendal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/acWCnYbmP0N2K9mpwUodNJnV594.jpg"
+      },
+      {
+        "name": "John Gielgud",
+        "character": "Carr Gomm",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rSyG2ypOnMVOuGtDJMYt5VV1bMr.jpg"
+      },
+      {
+        "name": "Wendy Hiller",
+        "character": "Mothershead",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dsdRKU1yn0USOZuTji4oiZw9lCK.jpg"
+      },
+      {
+        "name": "Freddie Jones",
+        "character": "Bytes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1xmwgQjkc68qXP43n8VVNZ2JqXD.jpg"
+      },
+      {
+        "name": "Michael Elphick",
+        "character": "Night Porter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xVmedV04Myv3doYwlL3Tf2YWOjw.jpg"
+      },
+      {
+        "name": "Hannah Gordon",
+        "character": "Mrs. Anne Treves",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sGVO0uSINiYb0RkYHazF1nJIzgf.jpg"
+      },
+      {
+        "name": "Helen Ryan",
+        "character": "Princess Alex",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ad2e0mxVGaCfiIITqMcejtRlzwe.jpg"
+      },
+      {
+        "name": "John Standing",
+        "character": "Dr. Fox",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4jxM3KYsykVd2IPUaGAv3KYgDUT.jpg"
+      },
+      {
+        "name": "Dexter Fletcher",
+        "character": "Bytes' Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yRI8MDB5sg8b8EZkzFz5cCBrnKL.jpg"
+      },
+      {
+        "name": "Lesley Dunlop",
+        "character": "Nora",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7X82PruKzTrgge15UKOiFagqYyp.jpg"
+      },
+      {
+        "name": "Phoebe Nicholls",
+        "character": "Merrick's Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d8kT2SmUGPwYJBVapftuX2EQHRr.jpg"
+      },
+      {
+        "name": "Pat Gorman",
+        "character": "Fairground Bobby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/heb2Bh2xLz5Q3oVtQndMOKv0nSH.jpg"
+      },
+      {
+        "name": "Claire Davenport",
+        "character": "Fat Lady",
+        "profile_path": ""
+      },
+      {
+        "name": "Orla Pederson",
+        "character": "Skeleton Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Patsy Smart",
+        "character": "Distraught Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r84Y2ZcsZ98OdCAnyLwt4KUqg7K.jpg"
+      },
+      {
+        "name": "Frederick Treves",
+        "character": "Alderman",
+        "profile_path": ""
+      },
+      {
+        "name": "Stromboli",
+        "character": "Fire Eater",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Hunter",
+        "character": "Hodges",
+        "profile_path": ""
+      },
+      {
+        "name": "James Cormack",
+        "character": "Pierce",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Lewis Bush",
+        "character": "Messenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Roy Evans",
+        "character": "Cabman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ckMUcvhSbesulKk5iOoa3mKstBU.jpg"
+      },
+      {
+        "name": "Joan Rhodes",
+        "character": "Cook",
+        "profile_path": ""
+      },
+      {
+        "name": "Nula Conwell",
+        "character": "Nurse Kathleen",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony London",
+        "character": "Young Porter",
+        "profile_path": ""
+      },
+      {
+        "name": "Alfie Curtis",
+        "character": "Milkman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/omAYPXQAaBz2KhiaZXdh4CW3UTY.jpg"
+      },
+      {
+        "name": "Bernadette Milnes",
+        "character": "1st Fighting Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Brenda Kempner",
+        "character": "2nd Fighting Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Carol Harrison",
+        "character": "Tart",
+        "profile_path": ""
+      },
+      {
+        "name": "Hugh Manning",
+        "character": "Broadneck",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xV9ZXVdcXCMACGDcUD1FRUxk6sm.jpg"
+      },
+      {
+        "name": "Dennis Burgess",
+        "character": "1st Committee Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Fanny Carby",
+        "character": "Mrs. Kendal's Dresser",
+        "profile_path": ""
+      },
+      {
+        "name": "William Morgan Sheppard",
+        "character": "Man In Pub",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pg6ruMIClxACsA2hBUq9ulKX5AP.jpg"
+      },
+      {
+        "name": "Kathleen Byron",
+        "character": "Lady Waddington",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AftFBxZ30sYwhg7Eh7Sv5DfckYm.jpg"
+      },
+      {
+        "name": "Gerald Case",
+        "character": "Lord Waddington",
+        "profile_path": ""
+      },
+      {
+        "name": "David Ryall",
+        "character": "Man With Whores",
+        "profile_path": "https://image.tmdb.org/t/p/w185/plcamLqqwUVggpddwnG3ji3sYpY.jpg"
+      },
+      {
+        "name": "Deirdre Costello",
+        "character": "1st Whore",
+        "profile_path": ""
+      },
+      {
+        "name": "Pauline Quirke",
+        "character": "2nd Whore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oqjGY7x7OjYORkW8ViGcpwBoH4L.jpg"
+      },
+      {
+        "name": "Kenny Baker",
+        "character": "Plumed Dwarf",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uo3RorCoGDWHecLtqjviwzFExxR.jpg"
+      },
+      {
+        "name": "Chris Greener",
+        "character": "Giant",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcus Powell",
+        "character": "Midget",
+        "profile_path": ""
+      },
+      {
+        "name": "Gilda Cohen",
+        "character": "Midget",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wt70iSgbIalBAwj1ZSvQXrRbuhM.jpg"
+      },
+      {
+        "name": "Lesley Scoble",
+        "character": "Siamese Twin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/65OBjPlAIcAE5jiGfxPFGgthcDT.jpg"
+      },
+      {
+        "name": "Teri Scoble",
+        "character": "Siamese Twin",
+        "profile_path": ""
+      },
+      {
+        "name": "Eiji Kusuhara",
+        "character": "Japanese Bleeder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hEl9QCduKTgqps0iC6ie40nwNDu.jpg"
+      },
+      {
+        "name": "Robert Day",
+        "character": "Little Jim",
+        "profile_path": ""
+      },
+      {
+        "name": "Patricia Hodge",
+        "character": "Screaming Mum",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e9IwLFI1kB9hWCyH47S2GDkkpp6.jpg"
+      },
+      {
+        "name": "Tommy Wright",
+        "character": "First Bobby",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Davidson",
+        "character": "Second Bobby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f3xJzaYpetNmrw1nSZqbQJS3wWN.jpg"
+      },
+      {
+        "name": "John Rapley",
+        "character": "King In Panto",
+        "profile_path": ""
+      },
+      {
+        "name": "Hugh Spight",
+        "character": "Puss In Panto",
+        "profile_path": ""
+      },
+      {
+        "name": "Teresa Codling",
+        "character": "Princess In Panto",
+        "profile_path": ""
+      },
+      {
+        "name": "Marion Betzold",
+        "character": "Principal Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Caroline Haigh",
+        "character": "Tree",
+        "profile_path": ""
+      },
+      {
+        "name": "Florenzio Morgado",
+        "character": "Tree",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Kravchenko",
+        "character": "Lion / Coachman",
+        "profile_path": ""
+      },
+      {
+        "name": "Beryl Hicks",
+        "character": "Fairy",
+        "profile_path": ""
+      },
+      {
+        "name": "Michele Amas",
+        "character": "Horse",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucie Alford",
+        "character": "Horse",
+        "profile_path": ""
+      },
+      {
+        "name": "Penny Wright",
+        "character": "Horse",
+        "profile_path": ""
+      },
+      {
+        "name": "Janie Kells",
+        "character": "Horse",
+        "profile_path": ""
+      },
+      {
+        "name": "Lydia Lisle",
+        "character": "Merrick's Mother",
+        "profile_path": ""
+      },
+      {
+        "name": "David Lynch",
+        "character": "Man in the Bowler Hat in the Mob Chasing Merrick (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b6TnSpuqeOlbq7aHH9G4inmQ1v9.jpg"
+      },
+      {
+        "name": "Harry Fielder",
+        "character": "Policeman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jsZ0clQ7wzDgJGQnWGHeE8rBGG4.jpg"
+      },
+      {
+        "name": "Jack Armstrong",
+        "character": "Man at Lecture (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ralph Morse",
+        "character": "Young Aristocrat (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Fred Wood",
+        "character": "Injured Man (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jcQIbcwcLYTS7JAVMg1n1f36Hsv.jpg"
+      },
+      {
+        "name": "Adam Caine",
+        "character": "Kid at Train Station (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Clarkin",
+        "character": "Thug from Pub (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aKlsJqkhfFp8TN9eZn4jHxj6seH.jpg"
+      },
+      {
+        "name": "Dave Cooper",
+        "character": "Man in crowd (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/attVQK4gYbOXSUZzhw1cg464xOX.jpg"
+      },
+      {
+        "name": "Chick Fowles",
+        "character": "Man in Pub (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Juba Kennerley",
+        "character": "Committee Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/23NJN92UVqcU9vXSYCjqZMKq2bs.jpg"
+      },
+      {
+        "name": "Eric Bergren",
+        "character": "Lyra Box Player #1 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher De Vore",
+        "character": "Lyra Box Player #2 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jay McGrath",
+        "character": "Man at Lecture (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Henry Roberts",
+        "character": "Man at Lecture (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Schumm",
+        "character": "Kid at Train Station #2 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ian Selby",
+        "character": "Courtier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Guy Standeven",
+        "character": "Committee Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/66sDmA4KxiW6vMV1WgLIzwJhYUP.jpg"
+      },
+      {
+        "name": "Reg Thomason",
+        "character": "Lecture Assistant (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jill Goldston",
+        "character": "Nurse (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9DcoU2J3OvunNAUTj94dCI6bYru.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "David Lynch",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b6TnSpuqeOlbq7aHH9G4inmQ1v9.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "exploitation",
+    "biography",
+    "based on true story",
+    "hospital",
+    "curiosity",
+    "sideshow",
+    "disfigurement",
+    "physical deformity",
+    "freak",
+    "19th century",
+    "dignity"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.",
+    "In Victorian London, Dr. Frederick Treves with the London Hospital comes across a circus sideshow attraction run by a man named Bytes called \"The Elephant Man\". In actuality, the creature on display is indeed a man, twenty-one-year-old Joseph \"John\" Merrick, who has several physical deformities, including an oversized and disfigured skull, and an oversized and disfigured right shoulder. Brutish Bytes, his \"owner\", only wants whatever he can get economically by presenting Merrick as a freak. Treves manages to bring Merrick under his care at the hospital, not without several of its own obstacles, including being questioned by those in authority since Merrick cannot be cured. Treves initially believes Bytes' assertion that mute Merrick is an imbecile, but ultimately learns that Merrick can speak and is a well-read and articulate man. As news of Merrick hits the London newspapers, he becomes a celebrated curiosity amongst London's upper class, including with Mrs. Kendal, a famed actress. Despite treated much more humanely, the question becomes whether Treves' actions are a further exploitation of Merrick. And as Merrick becomes more famous, others try to get their two-cents worth from who still remains a curiosity and a freak to most, including to Bytes, who has since lost his meal ticket.—Huggo",
+    "Forever imprisoned inside a hideous, deformed body, the unfortunate, perpetually masked in a dreadful burlap sack Victorian fairground attraction exhibit, John Merrick, is forced to live a cruel life as a curiosity. Milked for every penny by the sadistic showman, Mr Bytes, the ridiculed and multiply disfigured Merrick crosses paths with the philanthropic physician, Frederick Treves, who offers Bytes a hefty compensation to conduct a more thorough examination at the London Hospital. However, how pure and humanitarian are sympathetic Treves' motives? Is the grotesque \"Elephant Man\" doomed to relive his horrible past?—Nick Riganas"
+  ],
+  "synopsis": "In 19th Century Victorian England, Dr. Frederick Treves (Anthony Hopkins) wanders through an urban carnival in search of freak shows. He happens on a hideously deformed creature called The Elephant Man (John Hurt), and pays the owner Mr. Bytes (Freddie Jones) to examine it. Treves purpose is to present a paper to the Pathological Society and enhance his medical reputation.The Elephant Man returns from the seminar to Bytes and is beaten severely for wondering off. The man's injuries, as well as an attack from bronchitis, leads Treves to admit him to the hospital. In an attempt to convince the authorities to allow the man to stay, Treves endeavors to communicate with the person. During a meeting, Treves discovers that the man can talk and is educated. The Elephant Man's name is John Merrick and he reveals that he has had this strange disease since he was 14 which benign tumors grow all over his body, face and hands, in which he must sleep sitting up or he will die from suffocation. Merrick is given a room to live in and gradually becomes accepted by most members of the hospital staff. But one hospital night porter (Michael Elphick) sees a money spinner and each evening gathers a drunken crowd of people who will pay any price to see the freak.Treves attempts to introduce Merrick to London society and brings him over to meet with his wife (Hannah Gordon), who hides her shock at Merricks appearance. Soon the local newspapers run articles on Merrick. One is read by actress Mrs. Kendal (Ann Bancroft) who visits Merrick, tells him about her life in the theater and gives him a copy of Shakespeares plays.However the night porter is still in business in displaying Merrick. One evening, Bytes joins the throng and after a particularly humiliating brawl, kidnaps Merrick and takes him to France. Severely neglected and very ill, Merrick is once more put on display as the Elephant Man for the local crowds. Bytes' son (Adam S. Gottbetter) tells his father that he can take no more of seeing him humiliate a human being, but Bytes tells his son to mind his own business. That night, Bytes' son, with the help of other carnival freaks, releases Merrick and assists his escape back to England.Reunited with Treves, it appears that Merrick does not have long to live. Merrick visits the theater with Treves and his wife where Mrs. Kendal has her performance dedicated to him. Back at the hospital, Merrick thanks Treves for a splendid evening and afterwards discards all pillows from his bed, determined to lie down like everyone else. Merrick lies down and sleeps one final time before quietly passing away, where his late mother welcomes him to the bright glory of Heaven.",
+  "imdb_score": 8.2
+}

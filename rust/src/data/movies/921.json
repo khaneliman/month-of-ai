@@ -1,0 +1,615 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/40PwKtiXIZhHS1NmDko6h8EA391.jpg",
+  "id": 921,
+  "title": "Cinderella Man",
+  "poster_path": "https://image.tmdb.org/t/p/w500/i7OYyyAB2pSW9YwK0M2swDz6xSc.jpg",
+  "release_date": "2005-06-02",
+  "vote_average": 7.536,
+  "vote_count": 2051,
+  "popularity": 19.739,
+  "overview": "The true story of boxer Jim Braddock who, following his retirement in the 1920s, makes a surprise comeback in order to lift his family out of poverty.",
+  "imdb_id": "tt0352248",
+  "budget": 88000000,
+  "homepage": "http://www.cinderellamanmovie.com/index.php",
+  "revenue": 108539911,
+  "runtime": 144,
+  "tagline": "One man's extraordinary fight to save the family he loved.",
+  "genres": [
+    "Romance",
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    "Universal Pictures",
+    "Miramax",
+    "Imagine Entertainment",
+    "Brian Grazer Productions",
+    "Parkway Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Russell Crowe",
+        "character": "Jim Braddock",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fbzD4utSGJlsV8XbYMLoMdEZ1Fc.jpg"
+      },
+      {
+        "name": "Renée Zellweger",
+        "character": "Mae Braddock",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l4YzuDddOE2sTuscXukR5z0qmCU.jpg"
+      },
+      {
+        "name": "Paul Giamatti",
+        "character": "Joe Gould",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+      },
+      {
+        "name": "Craig Bierko",
+        "character": "Max Baer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/btsSJRxc0i7Xty1R0iCYOnbTuDE.jpg"
+      },
+      {
+        "name": "Paddy Considine",
+        "character": "Mike Wilson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uIKOm4w2wtUegxratSHj2KPFF7i.jpg"
+      },
+      {
+        "name": "Bruce McGill",
+        "character": "Jimmy Johnston",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9zF43TgWiO3AlKC4I48S7ZK09lK.jpg"
+      },
+      {
+        "name": "David Huband",
+        "character": "Ford Bond",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ArFPUIHyPibOCBjqZXMZvrEX6ZF.jpg"
+      },
+      {
+        "name": "Connor Price",
+        "character": "Jay Braddock",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tefXYO68NBYvUf8h4AtL7REOujT.jpg"
+      },
+      {
+        "name": "Ariel Waller",
+        "character": "Rosemarie Braddock",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yqGfRuIc0kBsExD8jVTOC2Pu8G3.jpg"
+      },
+      {
+        "name": "Patrick Louis",
+        "character": "Howard Braddock",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oenSgjmp9hZVee1kTmYyTOEKvsU.jpg"
+      },
+      {
+        "name": "Rosemarie DeWitt",
+        "character": "Sara",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lsjURTbXasRXYGtujwAbEj3bdZk.jpg"
+      },
+      {
+        "name": "Linda Kash",
+        "character": "Lucille Gould",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ccPTXbfYWByydwccHjPercV2G1u.jpg"
+      },
+      {
+        "name": "Nicholas Campbell",
+        "character": "Sporty Lewis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gjagM8gc9taZpvRxtalCLi5ncef.jpg"
+      },
+      {
+        "name": "Gene Pyrz",
+        "character": "Jake",
+        "profile_path": ""
+      },
+      {
+        "name": "Chuck Shamata",
+        "character": "Father Rorick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yMDT5yEOgxNzSVFc9GoGTJ1D38B.jpg"
+      },
+      {
+        "name": "Ron Canada",
+        "character": "Joe Jeanette",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2B8fFweT0PGcA1sj3duMzPpLgD6.jpg"
+      },
+      {
+        "name": "Alicia Johnston",
+        "character": "Alice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fkqNtdoPW3WzUpUSP9wl1lh2z0i.jpg"
+      },
+      {
+        "name": "Troy Amos-Ross",
+        "character": "John Henry Lewis",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Simmons",
+        "character": "Art Lasky",
+        "profile_path": ""
+      },
+      {
+        "name": "Art Binkowski",
+        "character": "Corn Griffin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/shVozAXFIO0wGLLclhUJO9wKVWz.jpg"
+      },
+      {
+        "name": "David Litzinger",
+        "character": "Abe Feldman",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew G. Taylor",
+        "character": "Primo Carnera",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ahYewygiGZGHXgb6YiksWUpDxEQ.jpg"
+      },
+      {
+        "name": "Rance Howard",
+        "character": "Announcer Al Fazin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rYejoZAvgvy0jyRu9fMH9PBKOWM.jpg"
+      },
+      {
+        "name": "James Ritz",
+        "character": "Official (Griffin / Baer Fight)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sA87bIUW8qEPlPzcS0rBhkegfD0.jpg"
+      },
+      {
+        "name": "Fulvio Cecere",
+        "character": "Referee McAvoy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Jc4LeoA0ND0stFqDiPzBeQ9SXt.jpg"
+      },
+      {
+        "name": "Clint Howard",
+        "character": "Referee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6tugb8rz1hj8tYlSaSmUBD741fw.jpg"
+      },
+      {
+        "name": "Gerry Ellison",
+        "character": "Referee",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Mackie",
+        "character": "Referee",
+        "profile_path": ""
+      },
+      {
+        "name": "Ray Marsh",
+        "character": "Referee",
+        "profile_path": ""
+      },
+      {
+        "name": "Fernand Chretien",
+        "character": "Referee",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave Dunbar",
+        "character": "Referee",
+        "profile_path": ""
+      },
+      {
+        "name": "Ken James",
+        "character": "Ancil Hoffman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/neSztvMYp0yFKwbZ7j7FxATkskC.jpg"
+      },
+      {
+        "name": "Rufus Crawford",
+        "character": "Lewis Coach",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nRajF4ZXoeE2XNWKT8eDO5Spqaj.jpg"
+      },
+      {
+        "name": "Angelo Dundee",
+        "character": "Angelo the Cornerman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cw8tJIrZa3FWc6XysB9lBDqXjRD.jpg"
+      },
+      {
+        "name": "Lou Eisen",
+        "character": "Braddock Cornerman",
+        "profile_path": ""
+      },
+      {
+        "name": "Wayne Gordon",
+        "character": "Braddock Cornerman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vq0ihshp7fbZWDkAmYTzsQAOTdH.jpg"
+      },
+      {
+        "name": "Wayne Flemming",
+        "character": "Baer Cornerman",
+        "profile_path": ""
+      },
+      {
+        "name": "Nick Alachiotis",
+        "character": "Baer Cornerman / Undercard Boxer (Feldman)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xaf3rahwlFrHj8Bww7Tuh6sRoxw.jpg"
+      },
+      {
+        "name": "Christopher D. Amos",
+        "character": "Lewis Cornerman",
+        "profile_path": ""
+      },
+      {
+        "name": "Nick Carusi",
+        "character": "Lewis Cornerman",
+        "profile_path": ""
+      },
+      {
+        "name": "Keith Murphy",
+        "character": "Lasky Cornerman",
+        "profile_path": ""
+      },
+      {
+        "name": "Everton McEwan",
+        "character": "Lasky Cornerman",
+        "profile_path": ""
+      },
+      {
+        "name": "John Kalbhenn",
+        "character": "Lasky Cornerman",
+        "profile_path": ""
+      },
+      {
+        "name": "David Georgieff",
+        "character": "Griffin Cornerman",
+        "profile_path": ""
+      },
+      {
+        "name": "Wayne Bourque",
+        "character": "Griffin Cornerman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fM0BI7MNCeEBDUQMDG4tJEzlZJ1.jpg"
+      },
+      {
+        "name": "Paul Ryan",
+        "character": "Griffin Cornerman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kf8SxngXTHs20C942GBvaTSfgkm.jpg"
+      },
+      {
+        "name": "Sean Gilroy",
+        "character": "Feldman Cornerman",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael McNamara",
+        "character": "Feldman Cornerman",
+        "profile_path": ""
+      },
+      {
+        "name": "Billy Wine",
+        "character": "Carnera Cornerman",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Bachynsky Hoover",
+        "character": "Carnera Cornerman",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Chin",
+        "character": "Carnera Cornerman",
+        "profile_path": ""
+      },
+      {
+        "name": "Stewart Lunn",
+        "character": "Campbell Cornerman",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Lewis",
+        "character": "Campbell Cornerman",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Wylie",
+        "character": "Campbell Cornerman",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomasz Kurzydlowski",
+        "character": "Tuffy Griffith",
+        "profile_path": ""
+      },
+      {
+        "name": "Stuart Clark",
+        "character": "Frankie Campbell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xKCSITjTOko5egpTuoaQ9RMEkqY.jpg"
+      },
+      {
+        "name": "Julian Lewis",
+        "character": "Undercard Boxer (Feldman)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Fink",
+        "character": "Announcer (Lasky)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sergio Di Zio",
+        "character": "Young Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e5sQM8rEXQW1UiVgzYM5C4GHScF.jpg"
+      },
+      {
+        "name": "Gavin Grazer",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/620zzsilxpBwUHu5XiyA31DSfPl.jpg"
+      },
+      {
+        "name": "Boyd Banks",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sKls5lrR3ODq6fkBkX29TOABOHh.jpg"
+      },
+      {
+        "name": "Daniel Kash",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v8xa3aFbdk0t7RXpXiLlXI7QepH.jpg"
+      },
+      {
+        "name": "Judah Katz",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gtujFQTIkQZPmJtJE3x5rI12117.jpg"
+      },
+      {
+        "name": "Angelo Tsarouchas",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ejAkVaAWZ7J0pDkX38omAfndEMK.jpg"
+      },
+      {
+        "name": "Rob Smith",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Craig Warnock",
+        "character": "1928 Fan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rci8zr4RfsRoEQmRqyGJ7ZGSbf5.jpg"
+      },
+      {
+        "name": "Aaron Abrams",
+        "character": "1928 Fan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/JBmN6Byyo1QSKIagjbCrTFX96I.jpg"
+      },
+      {
+        "name": "Duff MacDonald",
+        "character": "1935 Fan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mkIswhbUHbD0gqVRBkAePu5eJ82.jpg"
+      },
+      {
+        "name": "Andrew Stelmack",
+        "character": "1935 Fan",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Crumb",
+        "character": "1935 Fan",
+        "profile_path": ""
+      },
+      {
+        "name": "Gerry Quigley",
+        "character": "Quincy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nfnrdHOtFYhggXrpZvHF4CDAVdH.jpg"
+      },
+      {
+        "name": "Peter MacNeill",
+        "character": "Electric Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Y2O97Awq5BUH3qfWL3EUveurqI.jpg"
+      },
+      {
+        "name": "Darrin Brown",
+        "character": "Promoter",
+        "profile_path": ""
+      },
+      {
+        "name": "John Healy",
+        "character": "Dock Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xuHPu3AhrZtNXic22CQna9RzP8d.jpg"
+      },
+      {
+        "name": "Piero Didiano",
+        "character": "Dock Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "James Kirchner",
+        "character": "Dock Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c719MI51NG9hJep09SPBfH0CSV1.jpg"
+      },
+      {
+        "name": "Michael Langlois",
+        "character": "Dock Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Magdalena Alexander",
+        "character": "Angry Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/345tZtceEBhmZiQZzv11O2Rymrl.jpg"
+      },
+      {
+        "name": "Nola Augustson",
+        "character": "Relief Office Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gwlxRTVPSgcwv92Qp4u05JG28dw.jpg"
+      },
+      {
+        "name": "Gino Marrocco",
+        "character": "Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Taylor",
+        "character": "George",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zeq2b5lAuAyh80DgWMOc3P06Ujv.jpg"
+      },
+      {
+        "name": "Sharron Matthews",
+        "character": "Lady",
+        "profile_path": "https://image.tmdb.org/t/p/w185/krOUslFgR17CZrx0fIUwhKErlTJ.jpg"
+      },
+      {
+        "name": "Alec Stockwell",
+        "character": "Church Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Chick Roberts",
+        "character": "Church Old Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Isabella Fink",
+        "character": "Church Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uBYM0oASLWXJX3nyzaOSh2ANzbD.jpg"
+      },
+      {
+        "name": "Beau Starr",
+        "character": "Sam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yFNI54Z6lZGZ7jqeDvZ9UhyLEfB.jpg"
+      },
+      {
+        "name": "Philip Craig",
+        "character": "Radio Commentator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kG9GSLHvquQtYY3hirawO6MiRPI.jpg"
+      },
+      {
+        "name": "Roman Podhora",
+        "character": "Hooverville Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iOA0UBOMktb5J6dGg9ZIbj9ba0d.jpg"
+      },
+      {
+        "name": "R.D. Reid",
+        "character": "Hooverville Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x7uweLEXSJvTyfYt8lZ9kvBhZci.jpg"
+      },
+      {
+        "name": "Michael Dyson",
+        "character": "Hooverville Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/21XmYBNJ8RyOwyaWxKibbcRcsQp.jpg"
+      },
+      {
+        "name": "Sam Malkin",
+        "character": "Gibson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uWu7qpq6cXXhuzSKhCHzkLIpfUV.jpg"
+      },
+      {
+        "name": "Tony Munch",
+        "character": "Sam Penny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lRDGLUOSLRJK6SdMZTdivRnLlho.jpg"
+      },
+      {
+        "name": "Conrad Bergschneider",
+        "character": "Limo Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xjeNjDCjKkvKmLXVeG2WIly2VQC.jpg"
+      },
+      {
+        "name": "Richard Binsley",
+        "character": "Announcer (Griffith)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lrnnFSJBohneqpqtdfkelboVhBd.jpg"
+      },
+      {
+        "name": "Ramona Pringle",
+        "character": "Flapper Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xmp8jGHDbUpGUnu0Ae5ziKqiTrq.jpg"
+      },
+      {
+        "name": "Katrina Matthews Swain",
+        "character": "Flapper Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Cooper Bracken",
+        "character": "Jay Braddock (4 yrs.)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacob Bracken",
+        "character": "Jay Braddock (4 yrs.)",
+        "profile_path": ""
+      },
+      {
+        "name": "Alon Nashman",
+        "character": "Deserting Father",
+        "profile_path": ""
+      },
+      {
+        "name": "Dominic Cuzzocrea",
+        "character": "Junket",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8MobrN54vIbZIitDHQNUz3bwLKv.jpg"
+      },
+      {
+        "name": "Neil Foster",
+        "character": "Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wTb58isgSV6S5Ghvak9BXWwLA1A.jpg"
+      },
+      {
+        "name": "Brian Jagersky",
+        "character": "Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/snT7H9wKfBO4sl8R3kp8TuXDSB3.jpg"
+      },
+      {
+        "name": "Ray Kerr",
+        "character": "Fight Promoter",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Eddis",
+        "character": "Fight Promoter",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave Arkell",
+        "character": "Mr. Mills",
+        "profile_path": ""
+      },
+      {
+        "name": "Debra Sherman",
+        "character": "Mother",
+        "profile_path": ""
+      },
+      {
+        "name": "Joanne Ritcey",
+        "character": "Baer Hotel Hottie",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Cairns",
+        "character": "Baer Hotel Hottie",
+        "profile_path": ""
+      },
+      {
+        "name": "George Duff",
+        "character": "Man on Street",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Ron Howard",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "daughter",
+    "transporter",
+    "sports",
+    "world cup",
+    "socially deprived family",
+    "boxer",
+    "family's daily life",
+    "netherlands",
+    "comeback",
+    "defeat",
+    "training",
+    "heavy weight",
+    "folk hero",
+    "biography",
+    "boxing"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "The story of James J. Braddock, a supposedly washed-up boxer who came back to challenge for the heavyweight championship of the world.",
+    "During the Great Depression, common-man hero James J. Braddock (Russell Crowe), aka the Cinderella Man, was to become one of the most surprising sports legends in history. By the early 1930s, the impoverished ex-prizefighter was seemingly as broken-down, beaten-up, and out-of-luck as much of the rest of the American populace who had hit rock bottom. His career appeared to be finished, he was unable to pay the bills, his family--the only thing that mattered to him--was in danger, and he was even forced to go on Public Relief. But deep inside, James J. Braddock never relinquished his determination. Driven by love, honor, and an incredible dose of grit, he willed an impossible dream to come true. In a last-chance bid to help his family, Braddock returned to the ring. No one thought he had a shot. However Braddock, fueled by something beyond mere competition, kept winning. Suddenly, the ordinary working man became the mythic athlete. Carrying the hopes and dreams of the disenfranchised on his shoulders, Braddock rocketed through the ranks until this underdog chose to do the unthinkable: take on the heavyweight champ of the world, the unstoppable Max Baer (Craig Bierko), renowned for having killed two men in the ring.—Sujit R. Varma",
+    "Fact-based story of depression era boxing champ James J. Braddock (Russell Crowe). This movie opens with Braddock winning a fight in 1928 and becoming a contender for a championship bout. This movie then quickly jumps five years into the future. The Great Depression is on and Braddock has had a series of defeats. Fighting injured, including with a broken hand, made him less of a fighter. Braddock, like many others in that era, lost everything in the stock market and scrimping by on the small fights he can get and on dock work. His wife would prefer he quit boxing, but knows how badly they need the money to get by with their three kids. Watering down milk just to make it do for several more days is a common occurrence. When his trainer manages to get him one more fight on the spur of the moment against the current number two contender, Braddock rises to the occasion and knocks him out. His amazing comeback becomes the source of inspiration of many down-on-his-luck Americans. A series of fights later leads to the championship match against the arrogant champ, Max Baer (Craig Bierko). Baer, who had already killed two men in the ring, urges the older Braddock not to fight him. Of course, Braddock feels like he has nothing more to lose, and very devastating, intense fight ensues.—John Sacksteder <jsackste@bellsouth.net>",
+    "During the Great Depression, former successful boxer James J. Braddock (Russell Crowe) loses all of his possessions and savings with the crash of the stock market. His beloved wife Mae Braddock (Renée Zellweger) and their three children survive starvation and lack of heating and daily difficulties because they are a loving family. In 1934, when James' coach and manager Joe Gould (Paul Giamatti) offers him a chance to return to boxing, he becomes the symbol of hope to hopeless people in a ruined nation.—Claudio Carvalho, Rio de Janeiro, Brazil"
+  ],
+  "synopsis": "James J. Braddock (Russell Crowe) is a hard-nosed, Irish-American boxer from New Jersey, formerly a light heavyweight contender, who is forced to give up boxing after breaking his hand in the ring. This is both a relief and an upset to his wife, Mae (Renee Zellweger): she cannot bring herself to watch the violence of his chosen profession, yet knows they will have no good income without him boxing.As the United States enters the Great Depression, Braddock does manual labor as a longshoreman to support his family, even after badly breaking his hand. Unfortunately, he cannot get work every day. Thanks to a last-minute cancellation by another boxer, Braddock's longtime manager and friend, Joe Gould, offers him a chance to fill in for just this one night and make a little money. The fight is against the number-two contender in the world, Corn Griffin.Braddock, however, stuns the boxing experts and fans with a third-round knockout of his formidable opponent. He believes that while his right hand was broken, he became more proficient with his left hand, improving his in-ring ability. Against his wife's wishes, Braddock takes up Gould's offer to return to the ring. Mae resents this attempt by Gould to profit from her husband's dangerous livelihood, until she discovers that Gould and his wife also have been devastated by hard times.With a shot at the heavyweight championship held by Max Baer a possibility, Braddock continues to win. Out of a sense of pride, he uses a portion of his prize money to pay back money to the government given to him while unemployed. When his rags to riches story gets out, the sportswriter Damon Runyon dubs him \"The Cinderella Man,\" and before long Braddock comes to represent the hopes and aspirations of the American public struggling with the Depression.A title fight against Baer comes his way. Braddock is a 10-to-1 underdog. Mae is terrified because Baer, the champ, is a vicious man who reportedly has killed at least two men in the ring. He is so destructive that the fight's promoter, James Johnston, forces both Braddock and Gould to watch a film of Baer in action, just so he can maintain later that he warned them what Braddock was up against.Braddock demonstrates no fear. The arrogant Baer attempts to intimidate him, even taunting Mae in public that her man might not survive. When he says this, Mae becomes so angry that she throws a drink at him. She cannot bring herself to attend the fight at the Madison Square Garden Bowl or even to listen to it on the radio.On June 13, 1935, in one of the biggest achievements in boxing history, Braddock defeats the seemingly invincible Baer to become the heavyweight champion of the world.\nA graphic at the end of the film reveals that Braddock worked on the building of the Verrazano Bridge, and that he later owned and operated heavy machinery on the docks where he worked during the Depression. Also, he and Mae used the winnings to buy a house, in which they spent the rest of their lives.",
+  "imdb_score": 8
+}

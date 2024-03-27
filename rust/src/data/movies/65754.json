@@ -1,0 +1,519 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/dNFbrnF0mIBm0rClbfEFWTtsgMP.jpg",
+  "id": 65754,
+  "title": "The Girl with the Dragon Tattoo",
+  "poster_path": "https://image.tmdb.org/t/p/w500/zqDopwg7XQ4IfFX2dRlQCT1SwMG.jpg",
+  "release_date": "2011-12-14",
+  "vote_average": 7.364,
+  "vote_count": 6632,
+  "popularity": 42.886,
+  "overview": "This English-language adaptation of the Swedish novel by Stieg Larsson follows a disgraced journalist, Mikael Blomkvist, as he investigates the disappearance of a weary patriarch's niece from 40 years ago. He is aided by the pierced, tattooed, punk computer hacker named Lisbeth Salander. As they work together in the investigation, Blomkvist and Salander uncover immense corruption beyond anything they have ever imagined.",
+  "imdb_id": "tt1568346",
+  "budget": 90000000,
+  "homepage": "http://dragontattoo.com/",
+  "revenue": 232600000,
+  "runtime": 158,
+  "tagline": "Evil shall with evil be expelled.",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Mystery"
+  ],
+  "production_companies": [
+    "Columbia Pictures",
+    "Metro-Goldwyn-Mayer",
+    "Scott Rudin Productions",
+    "Yellow Bird"
+  ],
+  "production_countries": [
+    "SE",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Daniel Craig",
+        "character": "Mikael Blomkvist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg"
+      },
+      {
+        "name": "Rooney Mara",
+        "character": "Lisbeth Salander",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zT6UyHFHEQ9RcKykplWCycKBnoS.jpg"
+      },
+      {
+        "name": "Christopher Plummer",
+        "character": "Henrik Vanger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s5Zd3jqWfiLNGy0wQ1bDurUqN7c.jpg"
+      },
+      {
+        "name": "Stellan Skarsgård",
+        "character": "Martin Vanger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x78BtYHElirO7Iw8bL4m8CnzRDc.jpg"
+      },
+      {
+        "name": "Robin Wright",
+        "character": "Erika Berger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3IvlZd2PpT3Tuxy8lr6ymWLyoNU.jpg"
+      },
+      {
+        "name": "Yorick van Wageningen",
+        "character": "Nils Bjurman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eh1UkiBszBbsfrkRYakOcnNcZ2.jpg"
+      },
+      {
+        "name": "Steven Berkoff",
+        "character": "Dirch Frode",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3u4gxLWmDXAtY37GvkyCN05X2zw.jpg"
+      },
+      {
+        "name": "Joely Richardson",
+        "character": "Anita Vanger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6OWUwieNiWcZNnu4h6gd8vyhxBV.jpg"
+      },
+      {
+        "name": "Geraldine James",
+        "character": "Cecilia Vanger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wnqmn77oKtHiZFZuwxU2HWSAILF.jpg"
+      },
+      {
+        "name": "Goran Visnjic",
+        "character": "Dragan Armansky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2jFpq46QPjCbRmmGYdW9WSVC47W.jpg"
+      },
+      {
+        "name": "Donald Sumpter",
+        "character": "Detective Inspector Gustaf Morell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jCxD84Vr9TTM5am0Ij3pCsNcted.jpg"
+      },
+      {
+        "name": "Ulf Friberg",
+        "character": "Hans-Erik Wennerström",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c47DE7iv2mJqQ5qopr0DroeErs.jpg"
+      },
+      {
+        "name": "Bengt C.W. Carlsson",
+        "character": "Holger Palmgren",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u8YrM44kw12KLRbAhxitEdJAZRw.jpg"
+      },
+      {
+        "name": "Tony Way",
+        "character": "Plague",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u48ePSGsP1ww2VmPgNXgog3IM83.jpg"
+      },
+      {
+        "name": "Per Myrberg",
+        "character": "Harald",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AgsI5VEviks0KNLjC4pF3oQ99I6.jpg"
+      },
+      {
+        "name": "Josefin Asplund",
+        "character": "Pernilla",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Tj6Vh61rZYXiMYUVatnuNJ7ekG.jpg"
+      },
+      {
+        "name": "Eva Fritjofson",
+        "character": "Anna",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uIrbePfPTxa7Z8iX74e8cDjJu6d.jpg"
+      },
+      {
+        "name": "Moa Garpendal",
+        "character": "Harriet Vanger Jeune",
+        "profile_path": ""
+      },
+      {
+        "name": "Maya Hansson-Bergqvist",
+        "character": "Young Anna",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah Appelberg",
+        "character": "Young Cecilia",
+        "profile_path": ""
+      },
+      {
+        "name": "Julian Sands",
+        "character": "Young Henrik Vanger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8TYtEyKZle2B3cUYT7FBM9HJRtZ.jpg"
+      },
+      {
+        "name": "Anna Björk",
+        "character": "Young Isabella",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ry2HxLtyVORWnvKzXnkCeu3RzZI.jpg"
+      },
+      {
+        "name": "Gustaf Hammarsten",
+        "character": "Young Harald Vanger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aDiOyuZzeyWc1WZLog5qO1nssBS.jpg"
+      },
+      {
+        "name": "Simon Reithner",
+        "character": "Young Martin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i8uyHZEP3dGfolBVkPB2t0IhrvY.jpg"
+      },
+      {
+        "name": "David Dencik",
+        "character": "Young Gustaf Morell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2BPsGhw8lGhe6HNs1aLu4Q1XeVn.jpg"
+      },
+      {
+        "name": "Marcus Johansson",
+        "character": "Young Nilsson",
+        "profile_path": ""
+      },
+      {
+        "name": "Mathilda von Essen",
+        "character": "Young Anita",
+        "profile_path": ""
+      },
+      {
+        "name": "Mathias Palmér",
+        "character": "Young Birger",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Jarvis",
+        "character": "Birger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p3c8J6UrhVuQseepcbdOFMnb7J4.jpg"
+      },
+      {
+        "name": "Inga Landgré",
+        "character": "Isabella Vanger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dp6F73XAbjtki5zZoUiOcq6sS0Z.jpg"
+      },
+      {
+        "name": "Reza Dehban",
+        "character": "Hussein",
+        "profile_path": ""
+      },
+      {
+        "name": "Anders Berg",
+        "character": "Young Frode",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lHb7YOyZiJqTJMhnzXtQ4L3bsKZ.jpg"
+      },
+      {
+        "name": "Mats Andersson",
+        "character": "Nilsson",
+        "profile_path": ""
+      },
+      {
+        "name": "Anders Jansson",
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/akxYNYSb0NutPWTohD04x5HghwC.jpg"
+      },
+      {
+        "name": "Jürgen Klein",
+        "character": "Gottfried",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6bLr0bbGHlvTOO8mBU73eYk9NgL.jpg"
+      },
+      {
+        "name": "Kalle Josephson",
+        "character": "Tech at MacJesus",
+        "profile_path": ""
+      },
+      {
+        "name": "Sandra Andreis",
+        "character": "Photo Editor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hHabQadiQUrSsvEFqQOBZNIauTF.jpg"
+      },
+      {
+        "name": "Arly Jover",
+        "character": "Liv",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zmznPrQ9GSZwcOIUT0c3GyETwrP.jpg"
+      },
+      {
+        "name": "Pierre Sjö Östergren",
+        "character": "Tattoo Artist",
+        "profile_path": ""
+      },
+      {
+        "name": "Tess Panzer",
+        "character": "TV Newscaster",
+        "profile_path": ""
+      },
+      {
+        "name": "Alastair Duncan",
+        "character": "Greger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aS5VArZjMhPKHpqXQVeHop8zslU.jpg"
+      },
+      {
+        "name": "Alan Dale",
+        "character": "Detective Isaksson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3BcpSoKBOwHX0wxaPZpOJ5buO89.jpg"
+      },
+      {
+        "name": "Julia Rose",
+        "character": "Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s7TKjAZMQ4kJVG7AH23x5WWHod3.jpg"
+      },
+      {
+        "name": "Peter Carlberg",
+        "character": "Hardware Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x7uMoWw6I6qVmvu3cQo4ihxAuqd.jpg"
+      },
+      {
+        "name": "Jan Abramson",
+        "character": "Forsman",
+        "profile_path": ""
+      },
+      {
+        "name": "Lena Strömdahl",
+        "character": "Mildred",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jznIGHTRPcltXyM3jLO14JsbOPj.jpg"
+      },
+      {
+        "name": "Matthew Wolf",
+        "character": "Tech Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x3Lrc41VrY5wf0KsJNCUvyCjHhc.jpg"
+      },
+      {
+        "name": "Anne-Li Norberg",
+        "character": "Lindgren",
+        "profile_path": ""
+      },
+      {
+        "name": "Leo Bill",
+        "character": "Trinity",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lQqaDu2LxHVpqHcdWxNG2ZiGn23.jpg"
+      },
+      {
+        "name": "Marco Albrecht",
+        "character": "Junkie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z9glrN2fOwigc6fPmB4w0T0h8oQ.jpg"
+      },
+      {
+        "name": "Martina Lotun",
+        "character": "Reporter at Vanger",
+        "profile_path": ""
+      },
+      {
+        "name": "Anna Carlson",
+        "character": "FSA Official",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tcUtUHr9BBA6LMiPI90p4915fX5.jpg"
+      },
+      {
+        "name": "Yvonne Åstrand",
+        "character": "FSA Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Fredrik Dolk",
+        "character": "Wennerström's Lawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5My4Mkewa3TePMEKfTOePxfKtCP.jpg"
+      },
+      {
+        "name": "Christian Heller",
+        "character": "Banker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1KZOJsLstf8rAHBcCGNQSCJnJFi.jpg"
+      },
+      {
+        "name": "Werner Biermeier",
+        "character": "Banker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tnGBzMOQcOuqKiMX7ukTMdX3Lg7.jpg"
+      },
+      {
+        "name": "Christine Adams",
+        "character": "Barbados TV Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yUMJguEggbkNzUZnvRCYgebU0Ck.jpg"
+      },
+      {
+        "name": "Peter Hottinger",
+        "character": "Zurich TV Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rttscyq86UDIEsm0Q9I313bZ8ai.jpg"
+      },
+      {
+        "name": "Joyce Giraud",
+        "character": "Spain TV Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aM0odVNHoENZ8yOFza0ozhwRlbo.jpg"
+      },
+      {
+        "name": "Bengt Wallgren",
+        "character": "Tailor",
+        "profile_path": ""
+      },
+      {
+        "name": "Elodie Yung",
+        "character": "Miriam Wu",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aMMI81o7VcNGMapjL90f2VKiOD8.jpg"
+      },
+      {
+        "name": "Anna Charlotta Gunnarson",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eoH5CtzGnpp7ncaz2MGXDwf2Nmr.jpg"
+      },
+      {
+        "name": "Andreas Björklund",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Embeth Davidtz",
+        "character": "Annika Blomkvist Giannini",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nwsdu9lOsKJ5v9RwOCc7kAiuxSO.jpg"
+      },
+      {
+        "name": "Joel Kinnaman",
+        "character": "Christer Malm",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c4TTWy1WntzDxpgIe8kbODjWOfD.jpg"
+      },
+      {
+        "name": "Karen E. Wright",
+        "character": "Magda Lovison",
+        "profile_path": ""
+      },
+      {
+        "name": "Leah Shaw",
+        "character": "Book of Death Victim",
+        "profile_path": ""
+      },
+      {
+        "name": "George Gerdes",
+        "character": "Udevalla Detective",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zcSCEooOkh9XKQoMoz8xhM4TUTe.jpg"
+      },
+      {
+        "name": "Jenifer Brougham",
+        "character": "Murder Victim (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Laurence Fuller",
+        "character": "Hospital Visitor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Henry Hereford",
+        "character": "Lars (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Darri Ingolfsson",
+        "character": "Karlstad Police Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ePTVHCSjyScIW1uXi91CaovHc0l.jpg"
+      },
+      {
+        "name": "Christopher Maleki",
+        "character": "Hanzel (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7X8ziMt2wm9atI9T6sEWEShutie.jpg"
+      },
+      {
+        "name": "Sahlima",
+        "character": "Flight Attendant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3a0wC0Z3hiOfENQG6ezcdThKKVH.jpg"
+      },
+      {
+        "name": "Malin Toverud",
+        "character": "Abused woman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lennart B. Sandelin",
+        "character": "Lawyer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/msIe4Oqod57KoHJiPOte5vPk93Z.jpg"
+      },
+      {
+        "name": "Mitcho Batalov",
+        "character": "Wennerströms Lawyer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Melissa Ciesla",
+        "character": "Mari Holmberg (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Amanda Dyar",
+        "character": "Bar Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick Holland",
+        "character": "CNN Newscaster (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4GcAiP0OKJWYhfJR9vUlZCraszU.jpg"
+      },
+      {
+        "name": "Maja Kin",
+        "character": "Young Mrs Brunnlund (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Xrj1lYbbdYSRLIIpFjRUoIZ9FV.jpg"
+      },
+      {
+        "name": "Shaun R.L. King",
+        "character": "Henning Manderstierna (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ian Kitzmiller",
+        "character": "Swedish Police (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Annica Bejhed",
+        "character": "TV Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/88vzpKWhGtgYTyfGhD9gAPiazvN.jpg"
+      },
+      {
+        "name": "Britt Soderberg",
+        "character": "Millennium Employee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Yasmine Vine",
+        "character": "Assyrian Immigrant (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Zehr",
+        "character": "The Locksmith (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Haber",
+        "character": "Wennerström Spokesperson (Uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e6jnPrQiUs3wyEP9OVWd7sMse6B.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "David Fincher",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yV36WTsLBAGyYVUQshNdI8hyk9l.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "journalist",
+    "island",
+    "rape",
+    "hacker",
+    "based on novel or book",
+    "nazi",
+    "journalism",
+    "investigation",
+    "punk rock",
+    "scandinavia",
+    "stockholm, sweden",
+    "remake",
+    "antisocial personality disorder",
+    "disappearance",
+    "serial killer",
+    "hacking",
+    "sadist",
+    "bible quote",
+    "dead cat",
+    "millennium",
+    "based on movie",
+    "abuse",
+    "locked room mystery"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Journalist Mikael Blomkvist is aided in his search for a woman who has been missing for 40 years by young computer hacker Lisbeth Salander.",
+    "Mikael Blomkvist is a disgraced journalist who is asked by a wealthy industrialist to write a biography on his family. But what he really wants Blomkvist to do is to find out what happened to his niece, who went missing 40 years ago. At first Blomkvist isn't interested, until the man offers to help him clear his name. Blomkvist begins by talking to the man's relatives who were there when the girl went missing, but some of them are not forthcoming. Blomkvist eventually believes that her disappearance might have something to do with some serial killings that took place 20 years before she disappeared, so he asks for a research assistant. The industrialist's man suggests Lisbeth Salander, a talented hacker who does background checks for them and who even did one on Blomkvist. When he sees her report, he's impressed and asks her to work with him and she does. She's anti-social but is extremely efficient.—rcs0411@yahoo.com",
+    "After being successfully sued for libel by a wealthy industrialist, investigative journalist Mikael Blomqvist leaves his magazine Millennium and accepts an offer from Henrik Vanger to write the Vanger family history. An old industrial family, the Vangers have their share of skeletons in their closet. What Henrik is most interested in learning however is what happened to his niece, Harriet Vanger, who he is certain was murdered by a member of his family in the summer of 1966. Mikael takes on the task and moves into a small cottage on the Vanger estate. He begins to decipher some of the clues Harriet has left behind and decides to get an assistant, computer hacker Lisbeth Salander, the woman who did the very thorough background check on him for Vanger. Together, they learn of some of the Vangers' deep, violent secrets.—garykmcd",
+    "Stockholm-based Mikael Blomkvist, co-owner and co-editor of Millennium magazine, has just lost a high profile libel case resulting from an article he wrote on businessman Hans-Erik Wennerström. This loss has the potential to ruin Mikael professionally. As such, he leaves the magazine in the hands of the other co-owner/co-editor, Erika Berger, with who he is openly having an affair, which ruined his marriage. Even in Erika's hands, the magazine is also suffering because of the scandal and resulting loss of ad revenue. Because of Mikael's investigative abilities as a journalist, he receives an offer by wealthy and aged Henrik Vanger: solve the forty year old cold case of his missing and presumed dead grandniece, Harriet Vanger, who was only sixteen at the time of her disappearance. Despite Henrik's generous financial compensation, which could also save the magazine, Mikael is unconvinced to do the work until Henrik adds one additional piece of compensation that money can't buy. Mikael will largely do the work on Hedeby Island just off of Hedestad in northern Sweden, the island where Harriet was last seen, and where most of the dysfunctional extended Vanger family still lives, they who are among the suspects. To the family, Mikael is solely writing a chronicle of the Vanger family, without them knowing that his primary task is to find Harriet's killer. As Mikael proceeds with his investigation, he asks for a research assistant. Who Henrik's lawyer recommends is a young woman named Lisbeth Salanger, who conducted the background check on Mikael which Henrik ordered in preparation to hire him for this job. Mikael agrees with the choice when he sees that check she did of him, he knowing that she could only have found out key pieces of information through one means, which could help in this matter. Lisbeth is a brilliant investigator, but troubled in her personal life, which includes being under state guardianship due to incidents that happened while she was growing up. Despite what he knows of Lisbeth through her research of him, and despite her alternative appearance, Mikael begins to trust her, and she him - the first person she trusts in establishment in a long time - as they tie Harriet's disappearance to a series of what look to be murders of young women leading up to the disappearance. Through the case, Lisbeth begins to see a different life for herself, while Mikael has the larger goal of regaining his good name by knowing that Wennerström is much what he wrote.—Huggo",
+    "Found guilty on 16 counts of aggravated libel, disgraced Stockholm-based journalist of the radical Millennium magazine, Mikael Blomkvist, decides to step aside. Having all the time in the world, ruined Mikael reluctantly agrees to work for the millionaire industrialist, Henrik Vanger, who, for the past four long decades, has been trying to shed light on the mysterious disappearance of his beloved 16-year-old niece, Harriet. But as Mikael digs deep into the opaque past of the dysfunctional Vangers, under the guise of writing a memoir, he stumbles across emotionally detached Lisbeth Salander, the very same computer hacker who intruded into his personal life on Henrik's behalf. Now, against the backdrop of unaccountable disappearances, shocking family secrets, and a string of nauseating first-degree murders, the unlikely team must work in unison to unearth the truth. What has happened to poor Harriet?—Nick Riganas"
+  ],
+  "synopsis": "In Stockholm, Sweden, journalist Mikael Blomkvist (Daniel Craig), co-owner of Millennium magazine, has just lost a libel case brought against him by corrupt businessman Hans-Erik Wennerström (Ulf Friberg). Meanwhile, Lisbeth Salander (Rooney Mara), a brilliant but damaged researcher and hacker, compiles an extensive background check on Blomkvist for business magnate Henrik Vanger (Christopher Plummer), who has a special task for him. In exchange for the promise of damning information about Wennerström, Blomkvist agrees to investigate the disappearance and assumed murder of Henrik's great-niece, Harriet, 40 years before. After moving to the Vanger family's compound, Blomkvist uncovers a notebook containing a list of names and numbers that no one has been able to decipher.Harriet disappeared in 1966 when the entire Vanger family had gathered on a Swiss island for the annual board meeting. there was an accident on the only approach bridge connecting the island to the mainland, blocking traffic for 24 hrs. Harriet disappeared during that time. One of the family members is the killer.\nSalander, who is under state legal guardianship due to diagnosed mental incompetency, is appointed a new guardian, lawyer Nils Bjurman (Yorick van Wageningen), after her previous guardian has a stroke. Bjurman abuses his authority to extort sexual favors from Salander and then violently sexually assaults her, not realizing she has a hidden video camera in her bag. At their next meeting, she stuns him with a Taser, sexually assaults him with a dildo, and marks him as a sexual predator with a tattoo on his chest and stomach. She then blackmails him into writing her a glowing progress report and giving her full control of her money.Blomkvist moves into a cottage on the Vanger estate. Vanger tells him that his three brothers (Harald, Richard & Gottfried) were all members of the Swedish Nazi Party. Of the three, only Harald is still living. Harriet was Gottfried's daughter & MArtin was her brother. Martin now lives on the island & is head of the Vanger group of companies. Gottfried's wife Isabella is alive & was a terrible mother to Harriet. Harald had daughter Cecilia (Who no longer speaks to Harald). Cecilia has a sister Anita who lives in Paris. Inside Harriet's Bible, Blomkvist finds a list of five names alongside what appear to be phone numbers. He visits police inspector Morell (Björn Granath), who informs him that his investigation team had been unable to decipher them. Using a series of photographs taken during the Children's Day parade, Blomkvist believes that Harriet may have seen someone that day who may have killed her. Gottfried had died one yr before Harriet's disappearance at a cottage on the island by drowning in a nearby lake. Harriet used to visit the cottage often with Anita.Blomkvist realizes that a woman took photos at the parade of Sep 1966 of the side of the street, where Harriet saw someone that made her leave suddenly. He traces the woman & finds the picture that reveals the hazy outline of a man.\nBlomkvist's daughter visits him and notes that the numbers from the notebook are Bible references. Blomkvist tells Vanger's lawyer Dirch Frode (Steven Berkoff) that he needs help with his research, and Frode recommends Salander based on the work she did researching Blomkvist himself. Blomkvist hires Salander to further investigate the notebook's content. She uncovers a connection to a series of murders of young women that occurred from 1947 through 1967, with the women either being Hebrew or having Biblical names; many of the Vangers are known anti-Semites. Together, using the clue that Salander discovered, they connect all but one of the names on Harriet's list to murdered women between 1945 and 1955. They are all Hebrew names, leading Blomkvist and Salander to suspect that the murders were motivated by anti-Semitism.During the investigation, Salander and Blomkvist become lovers. Henrik's brother Harald (Per Myrberg) identifies Martin (Stellan Skarsgård), Harriet's brother and operational head of the Vanger empire, as a possible suspect.\nBlomkvist is shot at by a man in deer hunting costume. Inspector Morell finds the last missing name on the bible list. That lady was also brutally murdered in Jan 1965, & used to be Gottfried's secretary. Gottfried died in the lake, shortly thereafter.\nSalander's research uncovers evidence that Martin and his deceased father, Gottfried, had committed the murders. She gets access to Vanger's corporate records & figures out that the murders took place only in locations where the company had a office. The only people who consistently traveled to each of the locations on the murder dates were Martin & his father Gootfried.Blomkvist breaks into Martin's house to look for more clues, but Martin catches him and prepares to kill him. Martin brags about having killed women for decades, but denies killing Harriet. Salander arrives, subdues Martin and saves Blomkvist. While Salander tends to Blomkvist, Martin flees. Salander, on her motorcycle, pursues Martin in his SUV. He loses control of his vehicle on an icy road and dies when it catches fire. Salander nurses Blomkvist back to health, and tells him that she tried to kill her father when she was 12. After recovering, Blomkvist deduces that Harriet is still alive and her cousin Anita (Joely Richardson) likely knows where she is. He and Salander monitor Anita, waiting for her to contact Harriet. When nothing happens, Blomkvist confronts her, correctly deducing that Anita is Harriet herself. She explains that her father and brother had sexually abused her for years, and that Martin saw her kill their father in self-defense at the cottage. Her cousin Anita smuggled her out of the island and let her live under her identity. Anita died in a car accident 20 yrs ago. Finally free of her brother, she returns to Sweden and tearfully reunites with Henrik.As promised, Henrik gives Blomkvist the information on Wennerström, but it proves to be worthless. Salander hacks into Wennerström's computer and presents Blomkvist with damning evidence of Wennerström's crimes. Blomkvist publishes an article which ruins Wennerström, who flees the country. Salander hacks into Wennerström's bank accounts and, travelling to Switzerland in disguise, transfers two billion euros to various accounts. Wennerström is soon found murdered. Salander reveals to her former guardian that she is in love with Blomkvist. On her way to give Blomkvist a Christmas present, however, Salander sees him and his longtime lover and business partner Erika Berger (Robin Wright) walking together happily. Dismayed, she discards the gift and rides away.",
+  "imdb_score": 7.8
+}

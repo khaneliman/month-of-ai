@@ -1,0 +1,482 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg",
+  "id": 675,
+  "title": "Harry Potter and the Order of the Phoenix",
+  "poster_path": "https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+  "release_date": "2007-07-08",
+  "vote_average": 7.7,
+  "vote_count": 18621,
+  "popularity": 139.347,
+  "overview": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students to defend themselves against the dark arts.",
+  "imdb_id": "tt0373889",
+  "budget": 150000000,
+  "homepage": "https://www.warnerbros.com/movies/harry-potter-and-order-phoenix/",
+  "revenue": 938212738,
+  "runtime": 138,
+  "tagline": "The rebellion begins.",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "Heyday Films"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Daniel Radcliffe",
+        "character": "Harry Potter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iPg0J9UzAlPj1fLEJNllpW9IhGe.jpg"
+      },
+      {
+        "name": "Rupert Grint",
+        "character": "Ron Weasley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+      },
+      {
+        "name": "Emma Watson",
+        "character": "Hermione Granger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tvPPRGzAzdQFhlKzLbMO1EpuTJI.jpg"
+      },
+      {
+        "name": "Imelda Staunton",
+        "character": "Dolores Umbridge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tABRYOHUQeaUCAqrelJV5ZHjl1W.jpg"
+      },
+      {
+        "name": "Helena Bonham Carter",
+        "character": "Bellatrix Lestrange",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3D0dHVJ8YeVP8Uag0JUIIQji7C8.jpg"
+      },
+      {
+        "name": "Robbie Coltrane",
+        "character": "Rubeus Hagrid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+      },
+      {
+        "name": "Gary Oldman",
+        "character": "Sirius Black",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+      },
+      {
+        "name": "Ralph Fiennes",
+        "character": "Lord Voldemort",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pCnVXH1Uo2ODoOit4UXni8OD9VB.jpg"
+      },
+      {
+        "name": "Michael Gambon",
+        "character": "Albus Dumbledore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+      },
+      {
+        "name": "Alan Rickman",
+        "character": "Severus Snape",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+      },
+      {
+        "name": "Richard Griffiths",
+        "character": "Vernon Dursley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iZLE14qeU9ytbJVrfpZ8S08Qmnf.jpg"
+      },
+      {
+        "name": "Brendan Gleeson",
+        "character": "Alastor \"Mad-Eye\" Moody",
+        "profile_path": "https://image.tmdb.org/t/p/w185/379TXtBPRrkBDrEBWPQ5v3up7kT.jpg"
+      },
+      {
+        "name": "Jason Isaacs",
+        "character": "Lucius Malfoy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+      },
+      {
+        "name": "Evanna Lynch",
+        "character": "Luna Lovegood",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mebDQC5FnPVYYRxqmhCVVdl8fVM.jpg"
+      },
+      {
+        "name": "Katie Leung",
+        "character": "Cho Chang",
+        "profile_path": "https://image.tmdb.org/t/p/w185/umKxfBnY4SVl4344of8NniU5MQ0.jpg"
+      },
+      {
+        "name": "Warwick Davis",
+        "character": "Filius Flitwick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nGorSpUIQWAEErxq8KdDcIF6Q00.jpg"
+      },
+      {
+        "name": "Fiona Shaw",
+        "character": "Petunia Dursley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tjM74LcxwnYM77Csg1EtlXb1F9a.jpg"
+      },
+      {
+        "name": "Maggie Smith",
+        "character": "Minerva McGonagall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8e9l82x4oZvhq2FqyDcDWd51N8v.jpg"
+      },
+      {
+        "name": "David Thewlis",
+        "character": "Remus Lupin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gJqz8h5AKaVvOLS0hm5Vdvel6JB.jpg"
+      },
+      {
+        "name": "Emma Thompson",
+        "character": "Sybill Trelawney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xr8Ki3CIqweWWqS5q0kUYdiK6oQ.jpg"
+      },
+      {
+        "name": "Julie Walters",
+        "character": "Molly Weasley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
+      },
+      {
+        "name": "David Bradley",
+        "character": "Argus Filch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7yOYTDfO50PS187J9e5ojG4Fglt.jpg"
+      },
+      {
+        "name": "Tom Felton",
+        "character": "Draco Malfoy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4fO0PjiBbNFEnYLPe55xUUP7Wgf.jpg"
+      },
+      {
+        "name": "Robert Hardy",
+        "character": "Cornelius Fudge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5FK7rDWRsbNwAMsHHpkpeGafFtu.jpg"
+      },
+      {
+        "name": "George Harris",
+        "character": "Kingsley Shacklebolt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/law9KPIuWHTCMlozP1UMXV5fChs.jpg"
+      },
+      {
+        "name": "Natalia Tena",
+        "character": "Nymphadora Tonks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7kN9NpECZoR4NLXb4SlpHOaJx7T.jpg"
+      },
+      {
+        "name": "Mark Williams",
+        "character": "Arthur Weasley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gdlEDhxSmPv3hWHbpTuwCI5Jrtk.jpg"
+      },
+      {
+        "name": "Harry Melling",
+        "character": "Dudley Dursley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b0pHwi2MeqxEpeWnF4Llihu53aJ.jpg"
+      },
+      {
+        "name": "Jason Boyd",
+        "character": "Piers",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Macklin",
+        "character": "Malcolm",
+        "profile_path": ""
+      },
+      {
+        "name": "Kathryn Hunter",
+        "character": "Arabella Figg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ni98cNE8kOAj6kcpEVmIfi8iAsw.jpg"
+      },
+      {
+        "name": "Miles Jupp",
+        "character": "TV Weatherman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xVNI6kPi16lpIce0WQfS3DnIspT.jpg"
+      },
+      {
+        "name": "Jessica Hynes",
+        "character": "Mafalda Hopkirk (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eyJ9aC1FXyPAI5xose0HqA26bnm.jpg"
+      },
+      {
+        "name": "Adrian Rawlins",
+        "character": "James Potter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/G0PGZqTjenuVTAQiib4ScU7vAI.jpg"
+      },
+      {
+        "name": "Geraldine Somerville",
+        "character": "Lily Potter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vyLIquF45MpN6OOPmk8L7gnmKrY.jpg"
+      },
+      {
+        "name": "Peter Cartwright",
+        "character": "Elphias Doge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vS6w6Egt2Q5wlg9mfp5zUXDThcl.jpg"
+      },
+      {
+        "name": "Brigitte Millar",
+        "character": "Emmeline Vance",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xjRbpfeQl1YkVcqoET8UG29roGf.jpg"
+      },
+      {
+        "name": "Timothy Bateson",
+        "character": "Kreacher (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rLJo8duzhtaWYJUftLejVXE4AD8.jpg"
+      },
+      {
+        "name": "James Phelps",
+        "character": "Fred Weasley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dk7kTamtnbgSA40Lg00aE36hljs.jpg"
+      },
+      {
+        "name": "Oliver Phelps",
+        "character": "George Weasley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kb00uK7sCDB5K6tiH5rav9kzAfl.jpg"
+      },
+      {
+        "name": "Bonnie Wright",
+        "character": "Ginny Weasley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eCDdCvGYYlUM3neNJ1dwaPEgzqG.jpg"
+      },
+      {
+        "name": "Jamie Wolpert",
+        "character": "Newspaper Vendor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tew92nJOGmZlgZYbXf1YZa6GMvl.jpg"
+      },
+      {
+        "name": "Nicholas Blane",
+        "character": "Bob",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i58S21yG7rHtnK2LqH3gSu2clWS.jpg"
+      },
+      {
+        "name": "Daisy Haggard",
+        "character": "Lift (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/10T4bAeX8AkjNFchad2mOPtAyuV.jpg"
+      },
+      {
+        "name": "Chris Rankin",
+        "character": "Percy Weasley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bGrWreM4CeXWLJ7VulJnXoJfSgj.jpg"
+      },
+      {
+        "name": "Sian Thomas",
+        "character": "Amelia Bones",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fF33k0LQHiXxmv8rR91U2nFI3cR.jpg"
+      },
+      {
+        "name": "Jamie Waylett",
+        "character": "Vincent Crabbe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Eg3ImAsq5c5tNAyJFHcFC1lejf.jpg"
+      },
+      {
+        "name": "Josh Herdman",
+        "character": "Gregory Goyle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hebwDG5XsbfMaEaWJ0X6OrvlXwW.jpg"
+      },
+      {
+        "name": "Matthew Lewis",
+        "character": "Neville Longbottom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aPQCLK2gxWOallsFoEwjb1p9lWE.jpg"
+      },
+      {
+        "name": "Ryan Nelson",
+        "character": "Slightly Creepy Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/woIDWV0YzIXYj4oV2AI5Uyl5Mo6.jpg"
+      },
+      {
+        "name": "William Melling",
+        "character": "Nigel 2nd Year",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Ajij9WZDfaJMSemmP2HmS9TGaoY.jpg"
+      },
+      {
+        "name": "Apple Brook",
+        "character": "Wilhelmina Grubbly-Plank",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7xo2MfZTeUi3Ao16uo6sQrsNFVC.jpg"
+      },
+      {
+        "name": "Devon Murray",
+        "character": "Seamus Finnigan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2z6tYeavTWh7muPvfTOKEZGyjjM.jpg"
+      },
+      {
+        "name": "Alfred Enoch",
+        "character": "Dean Thomas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eEVvPHmxRBcEGqtoTujncmwNDhR.jpg"
+      },
+      {
+        "name": "Afshan Azad",
+        "character": "Padma Patil",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z0eJOCf7UmaK76by4PcdNz9NKeP.jpg"
+      },
+      {
+        "name": "Shefali Chowdhury",
+        "character": "Parvati Patil",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tj2UrD1uSdK1P2v0w65Ps5wuACU.jpg"
+      },
+      {
+        "name": "Jim McManus",
+        "character": "Barman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rTVtP2kThQG5IVBycARELWRQ3uw.jpg"
+      },
+      {
+        "name": "Nick Shirm",
+        "character": "Somewhat Doubtful Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pftIdsLVWmvgeupvzb5BqbzM0NF.jpg"
+      },
+      {
+        "name": "Sam Beazley",
+        "character": "Everard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o95JBOB2tBZLmCiA8Vwhg4YxfGM.jpg"
+      },
+      {
+        "name": "John Atterbury",
+        "character": "Phineas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yha0zxeZwvqL895aAFnRu50bZ5z.jpg"
+      },
+      {
+        "name": "Arben Bajraktaraj",
+        "character": "Azkaban Death Eater",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3MYjqNvkUv0ltieUw2Hhfrs3W6y.jpg"
+      },
+      {
+        "name": "Richard Leaf",
+        "character": "Dawlish",
+        "profile_path": "https://image.tmdb.org/t/p/w185/afvUxmjM76JjbVOVysuoEQfwsTa.jpg"
+      },
+      {
+        "name": "Tony Maudsley",
+        "character": "Grawp",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a85AqHWt9VOxhlkFbwTFIp92Vw3.jpg"
+      },
+      {
+        "name": "Alec Hopkins",
+        "character": "Young Severus Snape",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4EzVBuEMCzxrYk0vEqraLoDaSQs.jpg"
+      },
+      {
+        "name": "Robbie Jarvis",
+        "character": "Young James Potter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pBH7O4TxFvRkoRI8JOVjBd23jCH.jpg"
+      },
+      {
+        "name": "James Walters",
+        "character": "Young Sirius Black",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7HI0Y7da9t08v43ZdSyg3V1YMef.jpg"
+      },
+      {
+        "name": "Charles Hughes",
+        "character": "Young Peter Pettigrew",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nIHbpcdm4TJ55b7DOmcMFDUc8uF.jpg"
+      },
+      {
+        "name": "James Utechin",
+        "character": "Young Remus Lupin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/YkDA3v45cYE3bfNfE4i8IsA5KO.jpg"
+      },
+      {
+        "name": "Jason Piper",
+        "character": "Centaur",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hn2DT4XUeigmUqa7Kh4eKDKLm7S.jpg"
+      },
+      {
+        "name": "Michael Wildman",
+        "character": "Centaur",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7JzaKisWtdqYmuuEunjTkU8zDf8.jpg"
+      },
+      {
+        "name": "Richard Cubison",
+        "character": "Death Eater",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xW6UCOAOgLIrAuOXg45yYauZ6rd.jpg"
+      },
+      {
+        "name": "Peter Best",
+        "character": "Death Eater",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tKIwAXGYiZO7YBmkusI4nV5ej58.jpg"
+      },
+      {
+        "name": "Tav MacDougall",
+        "character": "Death Eater",
+        "profile_path": "https://image.tmdb.org/t/p/w185/38sj6NXVl6gHLhK5PLUgiorFQyN.jpg"
+      },
+      {
+        "name": "Richard Trinder",
+        "character": "Death Eater",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9mSZ8AIemoYYz2eVLb8zfIUo3Gd.jpg"
+      },
+      {
+        "name": "Nathan Clarke",
+        "character": "Gryffindor Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vtfEoPHdIBb4Q5LDBmZyT6iwWfi.jpg"
+      },
+      {
+        "name": "David Heyman",
+        "character": "Healer in Portrait (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m39R6xbVfHfCEO4H0s2Fhwh9mkt.jpg"
+      },
+      {
+        "name": "Cliff Lanning",
+        "character": "Edgar Bones (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fMbBthNyuTtB2bayJHSrmrWIR0G.jpg"
+      },
+      {
+        "name": "James Payton",
+        "character": "Frank Longbottom (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gkTGb4V3NNn18t9BCsaZRjteK4A.jpg"
+      },
+      {
+        "name": "Christopher Rithin",
+        "character": "Dennis (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iS7Ybzt5mRnNfYrM4gJsRcENLLC.jpg"
+      },
+      {
+        "name": "Lauren Shotton",
+        "character": "Pansy Parkinson (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nkBCPp7Ix6JXvE1zvlkvlyBp9Nq.jpg"
+      },
+      {
+        "name": "Timothy Spall",
+        "character": "Peter Pettigrew (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kcXnzkIPUHgCFtWQ7sUjQCrSIME.jpg"
+      },
+      {
+        "name": "Lisa Wood",
+        "character": "Alice Longbottom (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4PVyzADzpZp9DglJwshZW8NGTzS.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "David Yates",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fiIZNbwdK07ntpE2wpLRIMuSXEy.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "witch",
+    "dying and death",
+    "court",
+    "magic",
+    "prophecy",
+    "loss of loved one",
+    "professor",
+    "supernatural",
+    "child hero",
+    "school of witchcraft",
+    "black magic",
+    "sorcery",
+    "occult",
+    "wizard",
+    "christmas",
+    "scholar",
+    "mystical land",
+    "ministry",
+    "based on young adult novel"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "With their warning about Lord Voldemort's return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.",
+    "After a lonely summer on Privet Drive, Harry (Daniel Radcliffe) returns to a Hogwarts full of ill-fortune. Few of students and parents believe him or Dumbledore (Sir Michael Gambon) that Voldemort (Ralph Fiennes) is really back. The ministry had decided to step in by appointing a new Defense Against the Dark Arts teacher, Professor Dolores Umbridge (Imelda Staunton), who proves to be the nastiest person Harry has ever encountered. Harry also can't help stealing glances with the beautiful Cho Chang (Katie Leung). To top it off are dreams that Harry can't explain, and a mystery behind something for which Voldemort is searching. With these many things, Harry begins one of his toughest years at Hogwarts School of Witchcraft and Wizardry.—HPfan",
+    "After returning to Hogwarts to begin his fifth year at Hogwarts, Harry Potter (Daniel Radcliffe) discovers that much of the wizarding world, including the Ministry of Magic, is in denial about Lord Voldemort's (Ralph Fiennes') return. The Order of the Phoenix, a group sworn against Voldemort, is using its vast array of wizards and witches magical abilities to combat Voldemort. Cornelius Fudge (Robert Hardy), Minister for Magic, suspects that Dumbledore (Sir Michael Gambon) is using these claims of The Dark Lord's return as a means to over-throw Fudge as Minister. In retaliation, a new Defense Against the Dark Arts teacher is appointed by the Ministry in order to keep an eye on Hogwarts. This new teacher, Professor Dolores Umbridge (Imelda Staunton), implies strict new teachings and rules, forcing a group of students, under the tutelage of Harry, to form a club, by the name of \"Dumbledore's Army\".—Loopy Bug",
+    "As another year begins for Harry (Daniel Radcliffe), at Hogwarts school of Witchcraft and Wizardry, so do the never-ending articles stating that he and Dumbledore (Sir Michael Gambon) are insane. As the ministry starts to invent new and malicious lies about Harry's account of Voldemort's return, Hogwarts begins to change for the worse as the ministry sends in their cure for all of the insanity, Professor Dolores Jane Umbridge (Imelda Staunton). As she begins to inflict her rules and regulations on the students, they begin to find that with her as their teacher, they'll never be ready for the outside world. So Harry, along with his friends, decide to take things into their own hands and begin to learn magic the real way. As Harry starts having visions of terrible events happening within the Ministries very walls, he decides to take action, leading himself and his friends into battle, ultimately teaching them what friendship, loyalty, and sacrifice really means.—Kyle",
+    "After a disastrous summer with the Dursleys, including an encounter with the Dementors, Harry (Daniel Radcliffe) is shunned by friends upon returning to Hogwarts, after the return of Lord Voldemort (Ralph Fiennes) and no one believes him. He starts his fifth year while new Defense Against the Dark Arts teacher, Professor Dolores Jane Umbridge (Imelda Staunton) refuses to teach them defensive spells while refuting Harry's claims of the Dark Lord's return. So Harry sets out, with Ron (Rupert Grint) and Hermione (Emma Watson), to start up \"Dumbledore's Army\" to battle evil forces and prepare the fellow young witches and wizards for the extraordinary journey that lies ahead.—Michael Anderson"
+  ],
+  "synopsis": "Harry Potter and his cousin Dudley Dursley are attacked by two Dementors, but Harry manages to drive the Dementors off with a Patronus charm. Shortly thereafter, the Ministry of Magic detect the act of underage wizardry and attempt to have Harry expelled from Hogwarts immediately, but this is modified to a trial later in the summer. After experiencing horrible nightmares depicting the evil Lord Voldemort's return, Harry is awoken by the arrival of an advance guard of wizards who escort him to the headquarters of the Order of the Phoenix, a secret organization founded by Dumbledore. It is only now that Harry discovers that under the Ministry's influence the newspaper The Daily Prophet has launched a smear campaign against anyone who claims that Voldemort has returned, leaving Harry feeling isolated and betrayed by the Wizarding community. Harry and the other members of the Order fly to 12 Grimmauld Place, the home of Sirius Black, where they meet with Sirius, Remus, Ron, Hermione and others. Later, Ron and Hermione express concern about Harry's situation with the Ministry.Harry and Arthur Weasley head to the court where Harry's trial will take place, briefly spotting Lucius Malfoy speaking with the minister on their way. With the help of Dumbledore and Harry's neighbour, Mrs Figg, Harry is cleared of all charges at the Ministry and is allowed to return to Hogwarts. However, during Harry, Ron and Hermione's fifth year at Hogwarts School, the Minister for Magic Cornelius Fudge appoints a new Defence Against the Dark Arts teacher, Dolores Umbridge, a Senior Ministry official who refuses to teach practical magic to her students, as the Ministry fears Dumbledore will organize his own personal wizard army. One day during class, Harry is punished for claiming that Cedric Diggory was killed by Voldemort, which according to the Ministry's official policy is a lie. In Umbridge's office, Harry is forced to write \"I must not tell lies\" repeatedly as punishment. However, the sentence is magically imprinted on his hand instead, causing scarring. Meanwhile, as Umbridge's control over the school increases, Ron and Hermione aid Harry in forming a secret defence group, calling themselves \"Dumbledore's Army\" or DA for short. Harry, Ron and Hermione start teaching at Hogwarts, training students in defensive spells to become part of the Army. Draco Malfoy and other Slytherin students are then recruited by Umbridge to try to uncover the secretive group, creating the Inquisitorial Squad. Meanwhile, Harry officially begins a relationship with Cho, as they kiss one day after training. In an attempt to tighten her oppressive grip on Hogwarts, Umbridge dismisses Professor Sybill Trelawney and tries to have her banished from Hogwarts, which is only prevented after Dumbledore's intervention.Harry's nightmares continue, including a dangerous attack upon Arthur Weasley in the Department of Mysteries involving Nagini, Lord Voldemort's snake, which happens to turn true. Harry's anger starts to get out of control, as his mental connection to Voldemort grows stronger. Fearing Voldemort will exploit his connection with Harry, Dumbledore immediately instructs Professor Snape to give Harry a crash course on Occlumency lessons in an attempt to block Harry's mind from the Dark Lord's influence.Meanwhile, Bellatrix Lestrange escapes from Azkaban along with other Death Eaters after one of the prison walls is damaged by lightning flashes. At Hogwarts, Umbridge, Filch and her loyal Inquisitorial Squad, uncover Dumbledore's Army after interrogating one of the students, Cho Chang for whom Harry had developed intense feelings. Dumbledore is questioned and makes an impressive escape as Fudge orders his arrest. With Dumbledore gone, Umbridge becomes the new Headmistress, and her sinister dominance over the school continues. Later, Hagrid introduces Harry, Ron and Hermione to his half-brother giant, Grawp. Later, Harry reverses Snape's spell by glimpsing into Snape's mind. It is then that Harry learns that Harry's father used to bully Snape when they were students at Hogwarts, which appears to be the real cause behind Snape's resentment towards Harry. Meanwhile the Weasley twins, Fred and George formulate a plan of their own.During an O.W.L. exam, the Weasley twins execute their plan, launching a firework display in the great hall causing chaos for Umbridge, Fudge and the students of Slytherin house. As the students cheer joyously outside, Harry suffers a vision of Sirius trapped within the bowels of the Ministry being interrogated about the Order. Harry, Ron, and Hermione rush to search for Sirius, but Umbridge, soon after, catches the trio attempting to use the Floo Network, and begins interrogating Harry. She calls for Professor Snape to bring Veritaserum for use during her interrogation, as she has for all of her previous interrogations, but Snape tells her that the supply has been exhausted. Hermione then tricks Umbridge into entering the Forbidden Forest along with Harry and her in search of a faux weapon, really leading her to the hiding place of Grawp who has since freed himself from the tree he was latched to, when a herd of centaurs, who have their own issues with the Ministry, emerge and carry the Headmistress into the darkness. Hermione and Harry head back to Hogwarts to find Ron and other DA members, Luna Lovegood, Neville Longbottom, and Ginny Weasley, the group decided to fly to London by way of the Thestrals (winged horse-like magical creatures) to the Department of Mysteries of London City in an attempt to save Sirius.The six enter the Department of Mysteries, where they uncover a prophecy involving Harry and Voldemort, but are soon ambushed by Death Eaters, including Lucius Malfoy and Bellatrix Lestrange, Sirius's deranged cousin. After a brief battle and a failed escape attempt, the Death Eaters, manage to take Ron, Hermione, Luna, Neville, and Ginny as hostages threatening to kill them if Harry does not hand over the prophecy. Sirius appears, with the other members of the Order of the Phoenix, and attacks the Death Eaters causing Lucius to drop the prophecy, which then shatters. A battle erupts as the Death Eaters try to stop the students from escaping, resulting in Sirius's death at Bellatrix's hand. Back in the Atrium, Harry corners Bellatrix, where he struggles with his desire to enact the Cruciatus curse. Voldemort himself appears, ready to kill Harry when Dumbledore emerges to face his battle against Voldemort.A brief but furious duel between Voldemort and Dumbledore takes place, in which Bellatrix escapes through the Floo Network. When Voldemort disappears, and the battle seems over, Harry suddenly finds himself possessed by Voldemort -- recalling images of his past, of his family and his friends but throws off Voldemort's influence, stating that he is stronger than Voldemort through his friends and his ability to love. Ministry officials, including Fudge, hastily arrive via the Floo Network moments before Voldemort disappears.In the aftermath of the battle, the Ministry is forced to end their smear campaign and Umbridge is removed from Hogwarts, awaiting a formal investigation. Dumbledore explains that he had attempted to distance himself from Harry all year, hoping it would lessen the risk of Voldemort discovering and using the connection between the two. While the students head home from Hogwarts at the end of the academic year, Harry tells his friends that they have one thing Voldemort does not: love, a power worth fighting for.",
+  "imdb_score": 7.5
+}

@@ -1,0 +1,367 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/5om2iHhm2dgv0s2YgPDSEMIkRNx.jpg",
+  "id": 515195,
+  "title": "Yesterday",
+  "poster_path": "https://image.tmdb.org/t/p/w500/9fYka5CQt9nrb6LOtKicysUf9NA.jpg",
+  "release_date": "2019-06-26",
+  "vote_average": 6.71,
+  "vote_count": 3696,
+  "popularity": 19.603,
+  "overview": "Jack Malik is a struggling singer-songwriter in an English seaside town whose dreams of fame are rapidly fading, despite the fierce devotion and support of his childhood best friend, Ellie. After a freak bus accident during a mysterious global blackout, Jack wakes up to discover that he's the only person on Earth who can remember The Beatles.",
+  "imdb_id": "tt8079248",
+  "budget": 26000000,
+  "homepage": "http://www.yesterdaymovie.com",
+  "revenue": 154600000,
+  "runtime": 116,
+  "tagline": "Everyone in the world has forgotten The Beatles. Everyone except Jack…",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Music",
+    "Romance"
+  ],
+  "production_companies": [
+    "Working Title Films"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Himesh Patel",
+        "character": "Jack Malik",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fC6diZ0i3Epot9dRl7b2SSegf4L.jpg"
+      },
+      {
+        "name": "Lily James",
+        "character": "Ellie Appleton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nZaBqEZrJ2rm2bRIpvThBhqZYM5.jpg"
+      },
+      {
+        "name": "Sophia di Martino",
+        "character": "Carol",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qZdFp18btpQJfDoknxr7DgfRpcB.jpg"
+      },
+      {
+        "name": "Ellise Chappell",
+        "character": "Lucy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aiEIDSUMLY8fZDxI3ODPJ75p9Ns.jpg"
+      },
+      {
+        "name": "Meera Syal",
+        "character": "Sheila Malik",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xjndtTD7lIvuCSMtAYBQtTVwMGV.jpg"
+      },
+      {
+        "name": "Harry Michell",
+        "character": "Nick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xfoeGbAIdnx9qmAoGgJcpYko91V.jpg"
+      },
+      {
+        "name": "Vincent Franklin",
+        "character": "Brian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yVUQNN5skc1eK1UwqeHpT1Vn1l9.jpg"
+      },
+      {
+        "name": "Joel Fry",
+        "character": "Rocky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4nEKEWJpaTHncCTv6zeP98V0qGI.jpg"
+      },
+      {
+        "name": "Michael Kiwanuka",
+        "character": "Michael Kiwanuka",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kDIaM52oulCWq3xnYe9iaBiN4M7.jpg"
+      },
+      {
+        "name": "Karma Sood",
+        "character": "Young Jack",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9xbY2v4X47hST2VcQKH0c3xM6S.jpg"
+      },
+      {
+        "name": "Gus Brown",
+        "character": "Marcus the Dentist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3a5gaKThRbADd3cHZDdSDGLndr6.jpg"
+      },
+      {
+        "name": "Sanjeev Bhaskar",
+        "character": "Jed Malik",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gPFoGWj5VPm4IZVn9sMdBicVh2E.jpg"
+      },
+      {
+        "name": "Karl Theobald",
+        "character": "Terry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wOOSjkgOnV2T7mfFVNgxMfa5XD3.jpg"
+      },
+      {
+        "name": "Alexander Arnold",
+        "character": "Gavin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/piGO9wUWNL2e3Y0bvdQ7mPiZ0GG.jpg"
+      },
+      {
+        "name": "Dominic Coleman",
+        "character": "Ipswich TV Host",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pUwQtLSoGjrXffVPrxGZCyTQ4wC.jpg"
+      },
+      {
+        "name": "Ed Sheeran",
+        "character": "Ed Sheeran",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w7zbWC9AV0WfIEl8L38otal7mwS.jpg"
+      },
+      {
+        "name": "Jane Seaborn",
+        "character": "Air Hostess",
+        "profile_path": ""
+      },
+      {
+        "name": "Nic Minns",
+        "character": "Videographer",
+        "profile_path": ""
+      },
+      {
+        "name": "Maryana Spivak",
+        "character": "Alexa (Russian Stage Manager)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rCCiNJW5CROYGSJtPbGsEUN1Ehe.jpg"
+      },
+      {
+        "name": "Justin Edwards",
+        "character": "Leo (Russian Stranger)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vhAAVpzdswyq95pmVyKv9PsQPyQ.jpg"
+      },
+      {
+        "name": "Kate McKinnon",
+        "character": "Debra Hammer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2cNetzianFcxPQbyOQnkAIkKUZE.jpg"
+      },
+      {
+        "name": "Javone Prince",
+        "character": "Hans (Music Producer)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/byUv4ce1zA2irZlitzlGUbtOS86.jpg"
+      },
+      {
+        "name": "Camilla Rutherford",
+        "character": "Hilary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rVoFC3VLv5JWsBN0mlyTLrF1Zg5.jpg"
+      },
+      {
+        "name": "Sarah Lancashire",
+        "character": "Liz (Liverpool Stranger)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aDYVBAAbUgPyZ3qCyQnEfR807Np.jpg"
+      },
+      {
+        "name": "Rachael Elizabeth",
+        "character": "Hotel Waitress",
+        "profile_path": ""
+      },
+      {
+        "name": "Jimmy Gallagher",
+        "character": "Hotel Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Jaimie Kollmer",
+        "character": "Young Ellie",
+        "profile_path": ""
+      },
+      {
+        "name": "Sophie Mensah",
+        "character": "Hotel Front Desk",
+        "profile_path": ""
+      },
+      {
+        "name": "Helena Devereux",
+        "character": "Commuter (Lime Street)",
+        "profile_path": ""
+      },
+      {
+        "name": "Julian Feria",
+        "character": "Commuter (Lime Street)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lamorne Morris",
+        "character": "Head of Marketing",
+        "profile_path": "https://image.tmdb.org/t/p/w185/622IJYtqIaRBBMP4QFo3dbPSOWE.jpg"
+      },
+      {
+        "name": "Craig Rowin",
+        "character": "Marketing Executive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/beomW5OdB8oa9GKBCla9MCk2hZy.jpg"
+      },
+      {
+        "name": "James Corden",
+        "character": "James Corden",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xGB0gfZ48M27gQjjL7inJIh1Pqj.jpg"
+      },
+      {
+        "name": "Cristina Dohmen",
+        "character": "Local Newscaster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mvlAWWZjq9OISpv3T6xAZbumrV6.jpg"
+      },
+      {
+        "name": "Elizabeth Berrington",
+        "character": "Hazel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wFz71bIKTlQoa8v1s243TIh5wUm.jpg"
+      },
+      {
+        "name": "Clementine Webb",
+        "character": "Interviewer",
+        "profile_path": ""
+      },
+      {
+        "name": "Diana Pauline",
+        "character": "Interviewer",
+        "profile_path": ""
+      },
+      {
+        "name": "William McGeough",
+        "character": "Interviewer",
+        "profile_path": ""
+      },
+      {
+        "name": "Díana Bermudez",
+        "character": "Interviewer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4g1J1lAjrH62nMB7BUEIlXZJ6UW.jpg"
+      },
+      {
+        "name": "Sunny Yeo",
+        "character": "Interviewer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/suVnbRMPFq9Tt0AY4Sv7HY1gn44.jpg"
+      },
+      {
+        "name": "Charlie Hannah",
+        "character": "Guitarist Keyboards (Jack's Band)",
+        "profile_path": ""
+      },
+      {
+        "name": "Xav Clarke",
+        "character": "Guitarist (Jack's Band)",
+        "profile_path": ""
+      },
+      {
+        "name": "Oliver Booker",
+        "character": "Drummer (Jack's Band)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michele Stodart",
+        "character": "Bass Guitarist (Jack's Band)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Jablonka",
+        "character": "Guitarist (Michael Kiwanuka's Band)",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Pringle",
+        "character": "Keyboards (Michael Kiwanuka's Band)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lewis Wright",
+        "character": "Drummer (Michael Kiwanuka's Band)",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Bonfanti",
+        "character": "Bass Guitarist (Michael Kiwanuka's Band)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ifeoluwa Ogunjobi",
+        "character": "Trumpet (Brass Band)",
+        "profile_path": ""
+      },
+      {
+        "name": "Camilla George",
+        "character": "Saxophone (Brass Band)",
+        "profile_path": ""
+      },
+      {
+        "name": "Hannah Mbuya",
+        "character": "Tuba (Brass Band)",
+        "profile_path": ""
+      },
+      {
+        "name": "Richie Seivwright",
+        "character": "Trombone (Brass Band)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nH34hICSy963uNZfzdgAQcu9d9t.jpg"
+      },
+      {
+        "name": "Chilli-Rae McCormack",
+        "character": "Ukulele Band",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucie Arnoux",
+        "character": "Ukulele Band",
+        "profile_path": ""
+      },
+      {
+        "name": "Jelly Cleaver",
+        "character": "Ukulele Band",
+        "profile_path": ""
+      },
+      {
+        "name": "Daisy Chute",
+        "character": "Ukulele Band",
+        "profile_path": ""
+      },
+      {
+        "name": "Sandra-Mae Luijkx",
+        "character": "Ukulele Band",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Carlyle",
+        "character": "John Lennon (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yOdTewlmmvxqDaKbWJ7eAk0ULCf.jpg"
+      },
+      {
+        "name": "David Lautman",
+        "character": "Ringo Starr (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xzBDJKSjSDvrfCFQaHzhZZ4Dyp6.jpg"
+      },
+      {
+        "name": "K.C. Wolf",
+        "character": "Paul McCartney (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yvjj4tqGAORFUqLKE4AMMnxMDcl.jpg"
+      },
+      {
+        "name": "Hiten Patel",
+        "character": "Security Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Izl7RXweJAcjIU6KoGI60JERKE.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Danny Boyle",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vUpBkzyDnDrr5jNZ33GCsAMbasM.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "musician",
+    "record collection",
+    "pop singer",
+    "liverpool, england",
+    "music festival",
+    "alternate reality",
+    "united kingdom",
+    "rock concert",
+    "moral dilemma"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A struggling musician realizes he's the only person on Earth who can remember The Beatles after waking up in an alternate reality where they never existed.",
+    "In Lowestoft UK, Jack Malik is a frustrated musician whose musical career is going nowhere despite the faith that his friend/manager Ellie Appleton has in him. However, on the night Jack decides to give up, the whole world is momentarily hit with a massive blackout during which Jack is hit by a bus. Upon regaining consciousness, Jack learns to his astonishment that he is apparently now the only one who knows the music of the Beatles. Realizing this improbable opportunity, Jack begins playing the music of one of the world's greatest rock bands, being forced to claim it as his own. It pays off quickly and Jack becomes a worldwide musical sensation. However, Jack finds himself drifting away from Ellie, only realizing his love for her when she has become intimidated by his success, which depends on a blatant plagiarization that no one could find out. Now, Jack must make a fundamental moral decision about his music to satisfy his conscience as he decides what he truly needs.—Kenneth Chisholm",
+    "One day Jack was nobody. Everything was perfectly normal. Until on that one day, a global power outage occurred, affecting everything. The very next day, Jack discovers that he is the only one in the world who remembers The Beatles. Whilst trying to wrap his head around what is happening, Jack finds himself on a journey to figure out what happened on that one night, and to bring back joy and bring back the memory of the one band from yesterday.",
+    "Struggling to make a name for himself as a singer/songwriter, instead, hopeless Jack Malik is treading water in his career, stuck forever in the coastal town of Lowestoft, UK. Indeed, despite the unconditional support of his manager and best friend since childhood, Ellie Appleton, Jack is going nowhere fast until a cosmic freak accident alters the space/time continuum. Now, as Jack wakes up to find he is the only person on Earth who can remember the hits of the inimitable English rock band, The Beatles, he decides to start playing their songs and passing them off as his own, catching the eye of the English singer, Ed Sheeran, and the American music agent, Debra Hammer. At last, a dream comes true; however, as Jack becomes an overnight sensation, catapulting himself to global stardom, he realises that love is a delicate thing. Can Jack summon up the strength to stop living a lie?—Nick Riganas",
+    "Late twenty-something Jack Malik of Suffolk, England, gave up a path to being a schoolteacher to pursue a full-time career as a singer/songwriter, he supported by a close group of friends, most specifically fellow schoolteacher Ellie Appleton, who acts as his part-time manager and who he's known since childhood. Getting nowhere in that music career, which includes needing to work a part-time job he hates as a stock clerk at a big box retailer to pay the bills, Jack decides to give up the music career to return to teaching. Things change following being hit by a bus while out cycling during a momentary worldwide power outage, many authorities believing due to a solar flare. Recovering from his injuries, Jack slowly comes to the realization that many things he knew as reality are no more for whatever reason, the most important of those to him being that The Beatles and thus their music have never existed. Believing it a path back to that music career, Jack starts performing The Beatles songs passing them off as his own. While slow to get notice, Jack does eventually get the attention of music professionals, it the start of the road to stardom. As his fame begins, Jack has to decide what's important to him, his friendship with Ellie, each who can admit to only to oneself that there are stronger feelings more than just friends, which may be a casualty of that stardom. That fame, however, may be at risk if anyone else in the cosmos is aware of The Beatles and thus that he is a fraud.—Huggo"
+  ],
+  "synopsis": "Jack Malik (Himesh Patel) is a struggling singer-songwriter from Lowestoft. His manager and childhood friend Ellie Appleton (Lily James) encourages him not to give up on his dreams. After Jack is hit by a bus during a global blackout, he sings \"Yesterday\" for his friends, and discovers they have never heard of the Beatles. After realizing the world no longer remembers the band (google has no record of the Beatles), Jack begins performing their songs, passing them off as his own.Ellie has Jack record a demo with a local music producer Gavin (Alexander Arnold). Following a performance on local television, Jack is invited by pop star Ed Sheeran to play as his opening act in Moscow. Ellie declines to join him, saying she must work at her day job as a schoolteacher, so Jack's roadie friend Rocky (Joel Fry) travels with him instead. After the gig, Sheeran challenges Jack to a songwriting duel; he loses to Jack's \"The Long and Winding Road\". In Los Angeles, Sheeran's ruthless agent Debra Hammer (Kate McKinnon) signs him to her label and engineers his rise to global fame.The movie is interspersed with absence of famous thins like Coca Cola, Harry Potter or a cigarette, all ideas that would make Jack a multi-billionaire.At Jack's going-away party, Ellie confesses that she has always been in love with him. Jack goes back to Los Angeles and starts recording the album at EastWest Studios, but fails to come up with lyrics for the songs. Hoping to trigger memories through association, Jack goes to the Beatles' hometown of Liverpool, visiting landmarks such as Strawberry Field, Penny Lane, and \"Eleanor Rigby's grave\". Ellie joins him in Liverpool, and they spend a drunken evening and kiss, but Ellie tells him she is not interested in a one-night stand. The next morning, Jack and Rocky pursue Ellie to the train station, where she congratulates Jack but tells him she cannot be a part of his celebrity life. Jack returns to Los Angeles, heartbroken.The record label prepares to launch Jack's debut album. The producers reject his suggested titles, taken from Beatles records, and name the album One Man Only, pushing his talent. Jack persuades them to launch the album with a rooftop concert in Gorleston. Backstage, two fans approach him and tell him they know he plagiarized the songs, but thank him, fearing the music was gone forever. They give him the address of John Lennon, who has survived into old age, out of the public spotlight. Jack asks Lennon if he has led a successful life; Lennon replies that he has lived happily with his wife. He advises Jack to pursue the one he loves and always tell the truth.Sheeran arranges for Jack to perform at Wembley Stadium. Jack confesses to the crowd that he plagiarized the music and that he loves Ellie, and has Rocky upload the songs free to the internet, sabotaging the record release. Jack and Ellie marry and have a family together, and Jack becomes a music teacher.",
+  "imdb_score": 6.8
+}

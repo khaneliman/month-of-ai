@@ -1,0 +1,266 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/kPcHuPYqzkSo4bmPHtH82GaeEgX.jpg",
+  "id": 285,
+  "title": "Pirates of the Caribbean: At World's End",
+  "poster_path": "https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+  "release_date": "2007-05-19",
+  "vote_average": 7.247,
+  "vote_count": 13638,
+  "popularity": 129.924,
+  "overview": "Captain Barbossa, long believed to be dead, has come back to life and is headed to the edge of the Earth with Will Turner and Elizabeth Swann. But nothing is quite as it seems.",
+  "imdb_id": "tt0449088",
+  "budget": 300000000,
+  "homepage": "https://movies.disney.com/pirates-of-the-caribbean-at-worlds-end",
+  "revenue": 961000000,
+  "runtime": 169,
+  "tagline": "At the end of the world, the adventure begins.",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+  ],
+  "production_companies": [
+    "Jerry Bruckheimer Films",
+    "Second Mate Productions",
+    "Walt Disney Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Johnny Depp",
+        "character": "Jack Sparrow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wcI594cwM4ArPwvRd2IU0Z0yLuh.jpg"
+      },
+      {
+        "name": "Orlando Bloom",
+        "character": "Will Turner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+      },
+      {
+        "name": "Keira Knightley",
+        "character": "Elizabeth Swann",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg"
+      },
+      {
+        "name": "Geoffrey Rush",
+        "character": "Hector Barbossa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/npXFjaFQzBNroCEPllGPTZ5IisA.jpg"
+      },
+      {
+        "name": "Stellan Skarsgård",
+        "character": "William \"Bootstrap Bill\" Turner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x78BtYHElirO7Iw8bL4m8CnzRDc.jpg"
+      },
+      {
+        "name": "Chow Yun-fat",
+        "character": "Sao Feng",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uDPYSiZrW7OZ79qgcgkWefALlXY.jpg"
+      },
+      {
+        "name": "Bill Nighy",
+        "character": "Davy Jones",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+      },
+      {
+        "name": "Jack Davenport",
+        "character": "James Norrington",
+        "profile_path": "https://image.tmdb.org/t/p/w185/shGH0YWJBfiJznidS0f2ZfN056c.jpg"
+      },
+      {
+        "name": "Kevin McNally",
+        "character": "Joshamee Gibbs",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1QvG7MbfeWxb4LlZrlR4OtwvB8v.jpg"
+      },
+      {
+        "name": "Tom Hollander",
+        "character": "Cutler Beckett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cqZiJsImFZ6TaeShRRg49AZ9TyT.jpg"
+      },
+      {
+        "name": "Naomie Harris",
+        "character": "Tia Dalma",
+        "profile_path": "https://image.tmdb.org/t/p/w185/41TVAcYqKKF7PGf3x7QfaLvkLSW.jpg"
+      },
+      {
+        "name": "Jonathan Pryce",
+        "character": "Weatherby Swann",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zwSv5uXzPTtmitFe39UdqnVwmdL.jpg"
+      },
+      {
+        "name": "Keith Richards",
+        "character": "Teague Sparrow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t1oa5UsJMmrhNqCIks4jQnAYSQT.jpg"
+      },
+      {
+        "name": "Lee Arenberg",
+        "character": "Pintel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sjv8tdXzLwC8lZi6Ou6i6z5RbrW.jpg"
+      },
+      {
+        "name": "Mackenzie Crook",
+        "character": "Ragetti",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r17GbBnCjJjwUaRM3KY2e8GBjbG.jpg"
+      },
+      {
+        "name": "Greg Ellis",
+        "character": "Theodore Groves",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8PlVCevV5c2QIdZ1S6bX0ttaRUC.jpg"
+      },
+      {
+        "name": "David Bailie",
+        "character": "Cotton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k2UbrUPJMTZOHIw8Z9V3hutQRAe.jpg"
+      },
+      {
+        "name": "Martin Klebba",
+        "character": "Marty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/schnhMaXtfv5EC7EJODTgMcfzPe.jpg"
+      },
+      {
+        "name": "David Schofield",
+        "character": "Ian Mercer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/on5V05LXlkU2kiu4TjaDvpp0jBn.jpg"
+      },
+      {
+        "name": "Lauren Maher",
+        "character": "Scarlett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/udtzRPT5cf5wQSW7QT7UcnD79Os.jpg"
+      },
+      {
+        "name": "Vanessa Branch",
+        "character": "Giselle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/leVq44Yks0jtSGDE7vvhIqmgJAe.jpg"
+      },
+      {
+        "name": "Angus Barnett",
+        "character": "Mullroy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jq30ZKBPyiQT128nV5PdjgVXtzH.jpg"
+      },
+      {
+        "name": "Giles New",
+        "character": "Murtogg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e0Ap9fkLAFcxLVHpK8KH2TQV3wI.jpg"
+      },
+      {
+        "name": "Reggie Lee",
+        "character": "Tai Huang",
+        "profile_path": "https://image.tmdb.org/t/p/w185/93my9HnsFT5DFq9oY1nCJ8Ttv22.jpg"
+      },
+      {
+        "name": "Dominic Scott Kay",
+        "character": "Henry Turner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uPg5MQ6QhPKI8SrHclMLWYpmf76.jpg"
+      },
+      {
+        "name": "Takayo Fischer",
+        "character": "Ching",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xP8pWrxEOzRTzQzJTTAG4We0KxE.jpg"
+      },
+      {
+        "name": "David Meunier",
+        "character": "Greitzer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8gLRTQxeTUVtgGGb302f80peoMq.jpg"
+      },
+      {
+        "name": "Ho-Kwan Tse",
+        "character": "Hadras",
+        "profile_path": "https://image.tmdb.org/t/p/w185/amz22nCvRXbSnrEF38PrzIK2598.jpg"
+      },
+      {
+        "name": "Andy Beckwith",
+        "character": "Clacker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9fL7P2yETzD74Yli7IEpP14RJlG.jpg"
+      },
+      {
+        "name": "Peter Donald Badalamenti II",
+        "character": "Penrod",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hvLW1m2vQJTraIkrOmVYiKk93hk.jpg"
+      },
+      {
+        "name": "Christopher S. Capp",
+        "character": "Cotton's Parrot (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Hakeem Kae-Kazim",
+        "character": "Jocard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sVNHRm51c9toG73FUQ5k1St0vju.jpg"
+      },
+      {
+        "name": "Ghassan Massoud",
+        "character": "Ammand",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qOfxd4Rb5nYxVGJIX1odjGgDpH9.jpg"
+      },
+      {
+        "name": "Omid Djalili",
+        "character": "Aksay / Pusasn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lCgVvAw8EkIKbc93ZtINdwxH1CV.jpg"
+      },
+      {
+        "name": "Michelle Lee",
+        "character": "Lian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r6QzFK8IBxO1Kp3zm3GJ3FUuwwR.jpg"
+      },
+      {
+        "name": "Huynh Quang",
+        "character": "Pirate",
+        "profile_path": ""
+      },
+      {
+        "name": "Ned Wertimer",
+        "character": "Singing Gallows Pirate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yjNDhrQqt88ChUvu5ecP9une8OQ.jpg"
+      },
+      {
+        "name": "Arnold Chon",
+        "character": "Asian Pirate (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yqjpm2ukU8j2EzCwAWWNChB8BlM.jpg"
+      },
+      {
+        "name": "Larry Leong",
+        "character": "Steng",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vsjOScNd2Eztnw18P6bfZU4NZ1v.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Gore Verbinski",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rSQRdmLNAwdKxrtvBSSlBmWeSsj.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "east india company",
+    "exotic island",
+    "strong woman",
+    "love of one's life",
+    "afterlife",
+    "traitor",
+    "singapore",
+    "shipwreck",
+    "sword fight",
+    "pirate",
+    "monkey",
+    "swashbuckler",
+    "flying dutchman",
+    "rum",
+    "sailing ship",
+    "aftercreditsstinger",
+    "british navy",
+    "mass hanging"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, find Jack Sparrow, and make their final alliances for one last decisive battle.",
+    "After losing Jack Sparrow to the locker of Davy Jones, the team of Will Turner, Elizabeth Swan and Captain Barbossa make their final alliances with the pirate world to take on the forces of Lord Cutler Beckett and his crew, including Davy Jones, who he now has control over. It's not going to be easy, as they must rescue Sparrow, convince all the pirate lords to join them and defeats Beckett, whilst each individual pirate has their own route which they wish to follow.—Film_Fan",
+    "With the East India Trading Company trying to eliminate all the pirates, Barbossa, Will and Elizabeth race to bring back Jack from Davy Jones' Locker so as to bring together all the members of The Brethren Court and launch an attack on the East India Trading Company and Lord Cutler Beckett, who is in possession of the heart of Davy Jones. With everyone having his or her own agenda, who will be the one to stab the heart and live forever to be the captain of the Flying Dutchman?—srijanarora-152-448595",
+    "When villainous Lord Beckett obtains the heart of Davy Jones, Will, Elizabeth and Barbossa must form an uneasy alliance and go to Davy Jones' locker to retrieve Jack Sparrow. Once altogether, Jack, along with his crew must work to convince the Brethren Court to help them to fight Beckett and Jones in one final stand for freedom and put an end to Beckett's evil rule once and for all.—Blazer346"
+  ],
+  "synopsis": "To increase his and the East India Trading Company's power in the Caribbean, Lord Cutler Beckett executes anyone, including women and children, suspected of or remotely associated with piracy. Beckett, who now possesses Davy Jones's heart, orders Jones to destroy all pirate ships. Condemned prisoners defiantly sing a song to summon the nine pirate lords comprising the (fourth) Brethren Court to convene at Shipwreck Cove and take action against Beckett. However, Captain Jack Sparrow, pirate lord of the Caribbean, never appointed his successor, and therefore must attend. Captain Barbossa leads Will, Elizabeth, Tia Dalma and Black Pearl crewmen to rescue Jack. Sao Feng, pirate lord of the South China Sea and residing in Singapore, possesses a map to World's End, the gateway to Davy Jones' Locker, where Jack is eternally imprisoned. Elizabeth and Barbossa bargain with Feng for the map and a ship, but Feng is furious that Will already attempted to steal it. The British Royal Navy, led by Mercer, acting under orders from Beckett, make a surprise attack on Feng's bathhouse. During the ensuing chaos, Will strikes a bargain with Feng for the Black Pearl in exchange for Sparrow, who Feng wants to turn over to Beckett, presumably for immunity from Davy Jones' attacks on pirates. Will wants the Black Pearl to rescue his father from The Flying Dutchman.The crew journey through a frozen sea and sail over an enormous waterfall into the Locker. Sparrow, trapped aboard the Pearl, constantly hallucinates about an entire crew comprising himself, each representing a different facet of his character. When the Pearl is mysteriously carried to an ocean shore by crab-like creatures (presumably sent by Tia Dalma, since she is seen stroking a crab as the ship moves), Jack is reunited with his old shipmates. He is initially reluctant to rejoin a crew which includes the four people who once attempted to kill him, with one (Elizabeth) succeeding. As the Black Pearl crew seek an escape route, dead souls are seen floating by underwater. Tia Dalma reveals that Davy Jones was appointed by Calypso, Goddess of the Sea and his lover, to ferry the dead to the next world. In return, Jones was allowed to step upon land for one day every ten years to be with his love; but when she failed to meet him, the scorned captain abandoned his duty and transformed into a monster. Elizabeth sees her father, Governor Weatherby Swann's soul pass by in a boat, murdered by Cutler Beckett after Swann became suspicious about the heart. Swann reveals that whoever stabs Jones' heart becomes the Flying Dutchman's immortal captain. A distraught Elizabeth vows revenge.The Black Pearl remains trapped in the Locker until Sparrow deciphers a clue on the map, realizing the ship must be capsized to return to the living world. The ship is overturned at sunset and upturns back into the living world as the sun rises; a green flash marks their return. The crew stop at a small island to restock supplies, they find the carcass of the Kraken (the beast having been killed by Jones on Beckett's orders), where Jack realises just how serious the threat to piracy's existence truly is. Further in, they are ambushed by Sao Feng, who reveals his secret agreement with Will. However, he betrays Will, having made another deal with Cutler Beckett to hand over the crew and keep the Black Pearl. The Endeavor arrives, and Sparrow is taken aboard, although he refuses to divulge to Beckett where the Brethren Court will convene: instead, Jack manufactures a deal to lead Beckett to where the pirates will convene and lure them out for Beckett to destroy, in exchange for Beckett protecting him from Jones. When Feng is double-crossed by Beckett, Feng bargains with Barbossa to release the Pearl in exchange for Elizabeth, who he believes is Calypso trapped in human form. Feng attacks the Endeavor, allowing Jack to escape. Aboard his warship, the Empress, Feng tells Elizabeth that the first Brethren Court trapped Calypso into human form so men could rule the seas. Davy Jones attacks Feng's ship. The mortally wounded Feng appoints Elizabeth as the new captain and the Pirate Lord of the South China Sea. She and the crew are then imprisoned in the Flying Dutchman's brig. Also aboard is Admiral James Norrington, who frees Elizabeth and her crew after regretting his prior actions. They escape to their ship, although Norrington is killed by Will's deranged father, \"Bootstrap\" Bill after discovering Norrington aiding Elizabeth and her crew's escape.Will leaves a trail of floating corpses for Beckett's ship to follow. Jack catches Will and gives him his magical compass so Beckett can find Shipwreck Cove. Jack then tosses him overboard, but Will is rescued by Beckett's ship, and it is revealed that Davy Jones masterminded Calypso's imprisonment by the first pirate lords. At Shipwreck Island, the nine pirate lords introduce themselves and present the nine pieces of eight. When they are told the reason of the meeting, they disagree over freeing Calypso. Barbossa calls upon Captain Teague Sparrow, Keeper of the Pirata Codex, and Jack's father, to confirm that only a Pirate King can declare war. Elizabeth, newly ordained Pirate Lord of the South China Sea, is elected Pirate King after Sparrows vote for her breaks a stalemate (each pirate lord only voted for themselves). She orders the pirates to go to war against Beckett. During a parley with Beckett and Jones, Elizabeth and Barbossa swap Sparrow for Will.Barbossa tricks the other pirate lords into yielding their \"pieces of eight\" rank insignias, which he needs to free Calypso, who is bound in human form as Tia Dalma. As Barbossa releases her in a ritual, Will discloses that it was Davy Jones, her lover, who betrayed her to the Brethren Court. Her fury unleashes a violent maelstrom just as the Navy's massive fleet appears on the horizon. During the battle, Sparrow escapes the Flying Dutchman's brig and steals the Dead Man's Chest. Meanwhile, Davy Jones kills Mercer and obtains the key to the chest, which Jack then steals from Jones during a duel. The Black Pearl and the Flying Dutchman face off near the center of the massive maelstrom. Will proposes to Elizabeth, and Captain Barbossa marries them in the midst of battle. Will boards the Flying Dutchman to retrieve the chest, but is mortally wounded by Davy Jones. As Bootstrap Bill attacks Jones, Sparrow, who wanted the heart for his own immortality, places his broken sabre in Will's hand and helps him stab Jones' heart, killing Jones. Jack and Elizabeth escape the Flying Dutchman as the crew carve out the dead Will's heart and places it into the Dead Man's Chest; the ship disappears into the whirlpool. Beckett, never intending to honor his agreement with Jack, moves to attack the Black Pearl. The Dutchman suddenly resurfaces from the depths, with Will as the captain and the crewmen now human. Will and Sparrow aim the Flying Dutchman and the Black Pearl at the Endeavour, destroying it and killing Beckett. The armada retreats in disarray.Although Will has been saved and the Dutchman crew has regained their humanity, he is bound to sail the sea as the Dutchman's captain. Will and Elizabeth have one day together where they consummate their marriage on an island. Will departs at sunset, but first gives Elizabeth the Dead Man's Chest for safekeeping. Shortly after, Barbossa again commandeers the Black Pearl, stranding Jack and Gibbs in Tortuga. Having anticipated Barbossa's deception, however, Sparrow has already removed the map's middle that leads to the Fountain of Youth.In a post-credits scene set ten years later, Elizabeth and her and Will's nine-year old son stand atop a seacliff; a green flash fills the sky. The Flying Dutchman appears on the horizon with Will Turner aboard, sailing towards his family. In the DVD commentary, the screenwriters state that because Elizabeth remained faithful to Will for the interim 10 years, and he fulfilled his duty to ferry souls to the next world, he is freed from the Flying Dutchman. Though the \"Pirates Secrets Revealed\" leaflet insert in the DVD release says that Will is bound forever to the Flying Dutchman and may only step on land once every ten years, this may only be a misconception on Disney's part.",
+  "imdb_score": 7.1
+}

@@ -1,0 +1,712 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/n1Gh3MJAVvXmkgSDf3SOLlPCjag.jpg",
+  "id": 9390,
+  "title": "Jerry Maguire",
+  "poster_path": "https://image.tmdb.org/t/p/w500/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+  "release_date": "1996-12-13",
+  "vote_average": 6.952,
+  "vote_count": 3062,
+  "popularity": 26.197,
+  "overview": "Jerry Maguire used to be a typical sports agent: willing to do just about anything he could to get the biggest possible contracts for his clients, plus a nice commission for himself. Then, one day, he suddenly has second thoughts about what he's really doing. When he voices these doubts, he ends up losing his job and all of his clients, save Rod Tidwell, an egomaniacal football player.",
+  "imdb_id": "tt0116695",
+  "budget": 50000000,
+  "homepage": "",
+  "revenue": 273600000,
+  "runtime": 139,
+  "tagline": "Everybody loved him... Everybody disappeared. The journey is everything.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "TriStar Pictures",
+    "Gracie Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Cruise",
+        "character": "Jerry Maguire",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eOh4ubpOm2Igdg0QH2ghj0mFtC.jpg"
+      },
+      {
+        "name": "Renée Zellweger",
+        "character": "Dorothy Boyd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l4YzuDddOE2sTuscXukR5z0qmCU.jpg"
+      },
+      {
+        "name": "Cuba Gooding Jr.",
+        "character": "Rod Tidwell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j4gPj92SP3Rj5xxSUe1CIkFCXhB.jpg"
+      },
+      {
+        "name": "Kelly Preston",
+        "character": "Avery Bishop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q76vQ6yLDdkGPDSygf0ynM3GaXd.jpg"
+      },
+      {
+        "name": "Jerry O'Connell",
+        "character": "Frank Cushman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p2zcFeDIKUrPrbT5ODqoLifdN3Q.jpg"
+      },
+      {
+        "name": "Jay Mohr",
+        "character": "Bob Sugar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yQZeVYyZ04fx4bXLHpigpGg9Wkf.jpg"
+      },
+      {
+        "name": "Regina King",
+        "character": "Marcee Tidwell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fEIz0ljk9CBrp3AitM5nwjfoGVu.jpg"
+      },
+      {
+        "name": "Bonnie Hunt",
+        "character": "Laurel Boyd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+      },
+      {
+        "name": "Jonathan Lipnicki",
+        "character": "Ray Boyd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sCFCCqFNm5Xyl2eyhzoHH1L8zxF.jpg"
+      },
+      {
+        "name": "Todd Louiso",
+        "character": "Chad the Nanny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dkvuAxxXoCqGQrPNYHlELxL75q2.jpg"
+      },
+      {
+        "name": "Mark Pellington",
+        "character": "Bill Dooler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cpJLscf59MCJpmVSlAd0H9oKwiM.jpg"
+      },
+      {
+        "name": "Jeremy Suarez",
+        "character": "Tyson Tidwell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j8r6JTIS5lZvoajCiaSyF64gGlg.jpg"
+      },
+      {
+        "name": "Jared Jussim",
+        "character": "Dicky Fox",
+        "profile_path": ""
+      },
+      {
+        "name": "Benjamin Kimball Smith",
+        "character": "Keith Cushman",
+        "profile_path": ""
+      },
+      {
+        "name": "Ingrid Beer",
+        "character": "Anne-Louise",
+        "profile_path": ""
+      },
+      {
+        "name": "Jann Wenner",
+        "character": "Scully",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fQrw7HvYvxawc96cW7LnQX2hhvP.jpg"
+      },
+      {
+        "name": "Nada Despotovich",
+        "character": "Wendy",
+        "profile_path": ""
+      },
+      {
+        "name": "Ali Wentworth",
+        "character": "Bobbi Fallon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dVyX5OvRI9nbCtUwJoJLh8VO9ri.jpg"
+      },
+      {
+        "name": "Aries Spears",
+        "character": "Tee Pee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pSFQLsgwLfcY2AeWt6MZrUNk0ql.jpg"
+      },
+      {
+        "name": "Kelly Coffield Park",
+        "character": "Jan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AdJuvk2jrU0rbLGmq2PsQoJCTxI.jpg"
+      },
+      {
+        "name": "Alice Marie Crowe",
+        "character": "Alice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/texymLN97xW6AneoBJccSMuNfkw.jpg"
+      },
+      {
+        "name": "Larina Adamson",
+        "character": "Women's Group Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Winnie Holzman",
+        "character": "Women's Group Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aXZgCO7akDHLl9kJNO4y5mXR3eY.jpg"
+      },
+      {
+        "name": "Diana Jordan",
+        "character": "Women's Group Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Susan Norfleet",
+        "character": "Women's Group Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Susan Pingleton",
+        "character": "Women's Group Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Cha Cha Sandoval-McMahon",
+        "character": "Women's Group Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Hynden Walch",
+        "character": "Women's Group Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oFfZaFF1o724BuZ3cLK6tl9L03.jpg"
+      },
+      {
+        "name": "Glenn Frey",
+        "character": "Dennis Wilburn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f4Mi3Uws3ZLlb0cIGwkPX51R4ti.jpg"
+      },
+      {
+        "name": "Donal Logue",
+        "character": "Rick (Junior Agent)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5Rj850yVkIqsgCihtZLbkNSHbFb.jpg"
+      },
+      {
+        "name": "Tom Gallop",
+        "character": "Ben",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jqbrDxorFinlo6Ae39SL17AvKaf.jpg"
+      },
+      {
+        "name": "Beaumont Bacon",
+        "character": "Cleo",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Amsterdam",
+        "character": "Patricia Logan",
+        "profile_path": ""
+      },
+      {
+        "name": "Angela Goethals",
+        "character": "Kathy Sanders",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uX0ZLfklHtIk4IHZqduEvlOiNBL.jpg"
+      },
+      {
+        "name": "Leslie Upson",
+        "character": "Flight Attendant",
+        "profile_path": ""
+      },
+      {
+        "name": "Rick Johnson",
+        "character": "John Swenson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8y1B5tsZilpa4y6QB26e1EOouoL.jpg"
+      },
+      {
+        "name": "Lightfield Lewis",
+        "character": "Room Service Waiter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eCS5tPJfyObIwU9wGnliVeeZqNk.jpg"
+      },
+      {
+        "name": "Jerry Cantrell",
+        "character": "Jesus of CopyMat",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g0DYRIxeW8blPahOIDAcSZDI7Es.jpg"
+      },
+      {
+        "name": "Toby Huss",
+        "character": "Steve Remo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lFW4D9TgMgtHPTD4SM3eKFpMT67.jpg"
+      },
+      {
+        "name": "Drake Bell",
+        "character": "Jesse Remo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cXYF6s9D6YdwVQQkhF2SClFW6mi.jpg"
+      },
+      {
+        "name": "Christine Cavanaugh",
+        "character": "Mrs. Remo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qOUpGURljNhgFzZ5SmV5miAmT9x.jpg"
+      },
+      {
+        "name": "Russel Lunday",
+        "character": "Doctor",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Stoltz",
+        "character": "Ethan Valhere",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sP5tI3NVHrhmle5qotVz9q2mWfR.jpg"
+      },
+      {
+        "name": "Lamont Johnson",
+        "character": "Weepy Athlete",
+        "profile_path": "https://image.tmdb.org/t/p/w185/49CrcbKnC3hgNwlJfEjtwR4X9rd.jpg"
+      },
+      {
+        "name": "Brent Barry",
+        "character": "Calvin Nack",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlie Cronin",
+        "character": "Hootie Fan",
+        "profile_path": ""
+      },
+      {
+        "name": "Theo Greenly",
+        "character": "Hootie Fan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dc6CBtEtD5guZp6nCRnDaOz6u79.jpg"
+      },
+      {
+        "name": "Rod Tate",
+        "character": "'Baja' Brunard",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Rimmer",
+        "character": "Sad Autograph Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael James Johnson",
+        "character": "Clark Hodd",
+        "profile_path": ""
+      },
+      {
+        "name": "Jordan Ross",
+        "character": "Art Stallings",
+        "profile_path": ""
+      },
+      {
+        "name": "Brandon Christianson",
+        "character": "Young Golfer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jerry Ziesmer",
+        "character": "Trainer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oDPuZvvA02xSjQQCiWEmIBmNTOv.jpg"
+      },
+      {
+        "name": "Kirsten Krueger",
+        "character": "Draft Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Shannon Thornton",
+        "character": "Pressbox Columnist",
+        "profile_path": ""
+      },
+      {
+        "name": "Luis Damian",
+        "character": "Mariachi Band",
+        "profile_path": ""
+      },
+      {
+        "name": "Jesus Alberto Guzman",
+        "character": "Mariachi Band",
+        "profile_path": ""
+      },
+      {
+        "name": "Juan Arnoldo Morales",
+        "character": "Mariachi Band",
+        "profile_path": ""
+      },
+      {
+        "name": "Alberto Alfavo",
+        "character": "Mariachi Band",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrea Ferrell",
+        "character": "Woman in Elevator",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony Natale",
+        "character": "Man in Elevator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/laY5PnyczZOpnoJOTm3LV1KbBAv.jpg"
+      },
+      {
+        "name": "David Ursin",
+        "character": "General Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/trBIE7zB4nlXo8hxNsr27EvrJq9.jpg"
+      },
+      {
+        "name": "Thomas J. Reilly",
+        "character": "Reverend",
+        "profile_path": ""
+      },
+      {
+        "name": "Reagan Gomez-Preston",
+        "character": "Tidwell's Cousin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n27y65SOqdm4KzQY9GeNReq3Vgl.jpg"
+      },
+      {
+        "name": "Jim Moffatt",
+        "character": "NFL Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Leo Zick",
+        "character": "NFL Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Klair Bybee",
+        "character": "NFL Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Stan Sessoms",
+        "character": "Shower Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Gale Hillman",
+        "character": "Locker Room Athlete",
+        "profile_path": ""
+      },
+      {
+        "name": "Heather Cheney",
+        "character": "Idealized Kissing Wife",
+        "profile_path": ""
+      },
+      {
+        "name": "Dennis Fitzgerald",
+        "character": "Idealized Kissing Husband",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zL8Bh0plys2Dpe13oTlKbedORQO.jpg"
+      },
+      {
+        "name": "Lucy Liu",
+        "character": "Former girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dW6JDvYhXWW87P04W2SfNpiAwCO.jpg"
+      },
+      {
+        "name": "Stephanie Furst",
+        "character": "Former Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s7w6kdzEECx8RPuTgZNwaJH14v2.jpg"
+      },
+      {
+        "name": "Justina Vail Evans",
+        "character": "Former Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uMk3aADpmEvYtzFImSmPdn72Vaz.jpg"
+      },
+      {
+        "name": "Samantha Smith",
+        "character": "Former Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jHftgejkIz82x2iwQdEDGgLly3c.jpg"
+      },
+      {
+        "name": "Ivana Miličević",
+        "character": "Former Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nADYJLuKzgCSNgIHI5owYMrWlR3.jpg"
+      },
+      {
+        "name": "Lisa Rotondi",
+        "character": "Former Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/igZNHX4Jt9BTVra2Q6qdqk3cnGR.jpg"
+      },
+      {
+        "name": "Lisa Stahl",
+        "character": "Former Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gBTj1CFCCEl8SGlbp7m5e6ao9LX.jpg"
+      },
+      {
+        "name": "Emily Procter",
+        "character": "Former Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gFK8S0ZgaqDC8IgclgadDuB2eMm.jpg"
+      },
+      {
+        "name": "Amaryllis Borrego",
+        "character": "Former Girlfriend",
+        "profile_path": ""
+      },
+      {
+        "name": "Stacey A. Snyder",
+        "character": "Former Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xnr6joU8DqfhoTw9gKtyUZnqZlv.jpg"
+      },
+      {
+        "name": "Lauren Parker",
+        "character": "Former Girlfriend",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Ann Hadley",
+        "character": "Former Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dOwGVq4DHEhwQcMkxIeGAo7KN5U.jpg"
+      },
+      {
+        "name": "Kymberly Kalil",
+        "character": "Former Girlfriend",
+        "profile_path": ""
+      },
+      {
+        "name": "Alison Armitage",
+        "character": "Former Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8OaG5isDZjifrXlp2Iy5N2w0VyL.jpg"
+      },
+      {
+        "name": "Rebecca Rigg",
+        "character": "Former Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uJG3gEUhZdrsFknc037VvQdnW99.jpg"
+      },
+      {
+        "name": "Golde Starger",
+        "character": "Former Girlfriend",
+        "profile_path": ""
+      },
+      {
+        "name": "Roy Firestone",
+        "character": "Roy Firestone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/doYUrr5sVqbQsX8ObcPNJNFpPcv.jpg"
+      },
+      {
+        "name": "Al Michaels",
+        "character": "Al Michaels",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bEY2GdyNicSrLtXBx0hgbiLDubd.jpg"
+      },
+      {
+        "name": "Dan Dierdorf",
+        "character": "Dan Dierdorf",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Gifford",
+        "character": "Frank Gifford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6dIZ7SD0zUIplgC7lDTZtCniLX5.jpg"
+      },
+      {
+        "name": "Mel Kiper",
+        "character": "Mel Kiper",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeffrey Lurie",
+        "character": "Jeffrey Lurie",
+        "profile_path": ""
+      },
+      {
+        "name": "Drew Rosenhaus",
+        "character": "Drew Rosenhaus",
+        "profile_path": ""
+      },
+      {
+        "name": "Richie Kotite",
+        "character": "Richie Kotite",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim McDonald",
+        "character": "Tim McDonald",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Tirico",
+        "character": "Mike Tirico",
+        "profile_path": ""
+      },
+      {
+        "name": "Wayne Fontes",
+        "character": "Wayne Fontes",
+        "profile_path": ""
+      },
+      {
+        "name": "Evelyn Fontes",
+        "character": "Evelyn Fontes",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike White",
+        "character": "Mike White",
+        "profile_path": ""
+      },
+      {
+        "name": "Johnnie Morton",
+        "character": "Johnnie Morton",
+        "profile_path": ""
+      },
+      {
+        "name": "Rick Mirer",
+        "character": "Rick Mirer",
+        "profile_path": ""
+      },
+      {
+        "name": "Drew Bledsoe",
+        "character": "Drew Bledsoe",
+        "profile_path": ""
+      },
+      {
+        "name": "Rob Moore",
+        "character": "Rob Moore",
+        "profile_path": ""
+      },
+      {
+        "name": "Ki-Jana Carter",
+        "character": "Ki-Jana Carter",
+        "profile_path": ""
+      },
+      {
+        "name": "Herman Moore",
+        "character": "Herman Moore",
+        "profile_path": ""
+      },
+      {
+        "name": "Art Monk",
+        "character": "Art Monk",
+        "profile_path": ""
+      },
+      {
+        "name": "Troy Aikman",
+        "character": "Troy Aikman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dmeTDdaGYCDrH0NNyw1GWU3xCzx.jpg"
+      },
+      {
+        "name": "Katarina Witt",
+        "character": "Katarina Witt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ysMepIbizcIGTZN0vnro0U5zsct.jpg"
+      },
+      {
+        "name": "Dean Biasucci",
+        "character": "Dean Biasucci",
+        "profile_path": ""
+      },
+      {
+        "name": "Warren Moon",
+        "character": "Warren Moon",
+        "profile_path": ""
+      },
+      {
+        "name": "Kerry Collins",
+        "character": "Kerry Collins",
+        "profile_path": ""
+      },
+      {
+        "name": "Erica Sorgi",
+        "character": "Erica Sorgi",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Friend",
+        "character": "Tom Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Dallas Malloy",
+        "character": "Dallas Malloy",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Irsay",
+        "character": "Jim Irsay",
+        "profile_path": ""
+      },
+      {
+        "name": "Meg Irsay",
+        "character": "Meg Irsay",
+        "profile_path": ""
+      },
+      {
+        "name": "Beau Bridges",
+        "character": "Matt Cushman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Aiezvt0Uj2Ka9QVW3GvuRLkNS2V.jpg"
+      },
+      {
+        "name": "Greg Bronson",
+        "character": "Sports Agent (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/smF0hrek3d0bVhq0m7ENLPFQpcP.jpg"
+      },
+      {
+        "name": "Jacqueline Collen",
+        "character": "Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bjKfUUZIh0NaQqsEIqbZzV4IWgR.jpg"
+      },
+      {
+        "name": "Luanne Crawford",
+        "character": "Press Box Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joanna Daniels",
+        "character": "Former Girlfriend (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Micki Duran",
+        "character": "Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mia Korf",
+        "character": "Former Girlfriend (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gina La Piana",
+        "character": "Former Girlfriend (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Valerie Richards",
+        "character": "Video Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Summer Sanders",
+        "character": "Summer Sanders (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ijslzrWCJS8Unt0XqfcW9hjIrKz.jpg"
+      },
+      {
+        "name": "June Saruwatari",
+        "character": "Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Iva Franks-Singer",
+        "character": "Airplane Passenger (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e2qXaTrVKoF8fk2FRK6l3ABgPrq.jpg"
+      },
+      {
+        "name": "Carolyn Renee Smith",
+        "character": "Airplane Passenger (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lynnanne Zager",
+        "character": "Answering Machine (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gLQFDGo0l4d84BA5gdLWA13WD7k.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Cameron Crowe",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iBCN51wrmnSUr2mkQBuN9E2AZK.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "career",
+    "sports",
+    "stadium",
+    "american football",
+    "single mother",
+    "sports agent"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "When a sports agent has a moral epiphany and is fired for expressing it, he decides to put his new philosophy to the test as an independent agent with the only athlete who stays with him and his former colleague.",
+    "Jerry Maguire (Tom Cruise) is a successful sports agent. The biggest clients, the respect, a beautiful fiancée, he has it all. Until one night he questions his purpose. His place in the world, and finally comes to terms with what's wrong with his career and life. Recording all of his thoughts in a mission statement, Jerry feels he has a new lease on life. Unfortunately his opinions aren't met with enthusiasm from his superiors and after dishonorably being stripped of his high earning clients and elite status within the agency, Jerry steps out into the sports business armed with only one volatile client, Rod Tidwell (Cuba Gooding, Jr.), and the only person with belief in his abilities, Dorothy Boyd (Renée Zellweger), with the impossible task of rebuilding what he once had. Along the way, he faces the harsh truth which he'd ignored in the past and a host of hardships that he'd never faced before.—Hax_9",
+    "Jerry Maguire (Tom Cruise) used to be a typical sports agent: willing to do just about anything he could to get the biggest possible contracts for his clients, plus a nice commission for himself. Then, one day, he suddenly has second thoughts about what he's really doing. When he voices these doubts, he ends up losing his job and all of his clients, except for Rod Tidwell (Cuba Gooding, Jr.), an egomaniacal football player. Can Jerry resurrect his career while still staying true to himself?—Jean-Marc Rocher <rocher@fiberbit.net>"
+  ],
+  "synopsis": "Jerry Maguire (Tom Cruise) is a glossy 35-year-old sports agent working for Sports Management International (SMI). After suffering a nervous breakdown as a result of stress and a guilty conscience, he writes a mission statement about perceived dishonesty in the sports management business and how he believes that it should be operated. He distributes copies of it, entitled \"The Things We Think and Do Not Say: The Future of Our Business\". His co-workers are touched by his honesty and greet him with applause, but the management sends Bob Sugar (Jay Mohr), Maguire's protege, to fire him. Jerry and Sugar call all of Jerry's clients to try to convince them not to hire the services of the other. Jerry speaks to Arizona Cardinals wide receiver Rod Tidwell (Cuba Gooding, Jr.), one of his clients who is disgruntled with his contract. Rod tests Jerry's resolve through a very long telephone conversation, which culminates in the famed \"Show Me the Money!\" scene.Meanwhile, Sugar secures most of Jerry's previous clients. Frank \"Cush\" Cushman (Jerry O'Connell), a superstar quarterback prospect from Southern Methodist University expected to be #1 in the NFL Draft, also stays with Jerry after he makes a visit to the Cushman home. Leaving the office, Jerry announces he will start his own agency and asks if anyone is willing to join him, to which only 26-year-old single mother Dorothy Boyd (Renée Zellweger) agrees. The two had previously bumped into each other in the airport and Boyd had told Maguire personally how inspiring she found his \"memo.\"Jerry travels to the NFL Draft with Cush and convinces Rod to come too, to meet representatives of other NFL teams. Though Rod at first feels neglected compared to the superstar Cush, Sugar contacts Matt Cushman (Beau Bridges), Cush's dad, while Jerry is in the lobby with Rod and re-signs Cush to SMI. Jerry is devastated and turns to his fiance Avery (Kelly Preston) for support, but she rebukes him and he breaks up with her. He then turns to Dorothy, becoming closer to her young son, Ray, and eventually starts a relationship with her. However, Dorothy contemplates moving to San Diego as she has a secure job offer there. Jerry concentrates all his efforts on Rod, now his only client, who turns out to be very difficult to satisfy. Over the next several months, the two direct harsh criticism towards each other with Rod claiming that Jerry is not trying hard enough to get him a contract while Jerry claims that Rod is not proving himself worthy of the money for which he asks. Jerry marries Dorothy to help them both stay afloat financially and to keep her from moving away. He is emotionally and physically distant during the marriage, but is clearly invested in becoming a father to Ray. Although Dorothy is in love, she breaks up with him because she believes he does not love her.Before the start of a Monday Night Football game between the Cardinals and the Dallas Cowboys, Sugar attempts to steal Rod, but is rebuked by Rod and Jerry. The two reconcile soon after. Rod plays well but appears to receive a serious injury when catching a touchdown. He recovers, however, and dances for the crowd, which cheers wildly. Afterwards, Jerry and Rod embrace in front of other athletes and sports agents and show how their relationship has progressed from a strictly business one to a close personal one, which was one of the points Jerry made in his mission statement.Jerry then flies back home to meet Dorothy. He walks in and, in front of her friends, says \"Hello.\" He then speaks for several minutes, telling her that he loves her and wants her in his life, ending with the statement, \"You complete me.\" Dorothy's reply to Jerry is, \"You had me at hello\". Rod later appears on Roy Firestone's sports show. Unbeknownst to him, Jerry has secured him an $11.2 million contract with the Cardinals that will allow him to finish his pro football career in Arizona. The visibly emotional Rod proceeds to thank everyone and extends warm gratitude to Jerry. Jerry speaks with several other pro athletes, some of whom have read his earlier mission statement and respect his work with Tidwell. The film ends with Jerry, Dorothy and Ray walking in the park and stumbling across a Little League baseball game. When the ball lands near them, Ray throws it back; a surprised Jerry then comments on his natural throwing ability (and possible future in sports), much to Dorothy's dismay.",
+  "imdb_score": 7.3
+}

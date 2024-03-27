@@ -1,0 +1,312 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/gGssqOMNqrOa5EgmpKmZjJfTRlL.jpg",
+  "id": 121986,
+  "title": "Frances Ha",
+  "poster_path": "https://image.tmdb.org/t/p/w500/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+  "release_date": "2013-05-17",
+  "vote_average": 7.4,
+  "vote_count": 1479,
+  "popularity": 19.851,
+  "overview": "An aspiring dancer moves to New York City and becomes caught up in a whirlwind of flighty fair-weather friends, diminishing fortunes and career setbacks.",
+  "imdb_id": "tt2347569",
+  "budget": 0,
+  "homepage": "",
+  "revenue": 4069826,
+  "runtime": 86,
+  "tagline": "",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    "Scott Rudin Productions",
+    "RT Features",
+    "Pine District Pictures"
+  ],
+  "production_countries": [
+    "BR",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Greta Gerwig",
+        "character": "Frances Halladay",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3H0xzU12GTNJyQTpGysEuI9KyiQ.jpg"
+      },
+      {
+        "name": "Mickey Sumner",
+        "character": "Sophie Levee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gNxtYfg8xXgeQ4YC7Pl3HNRAjol.jpg"
+      },
+      {
+        "name": "Michael Zegen",
+        "character": "Benji",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xjvgA5AwCu7chihw2QhdKab8et.jpg"
+      },
+      {
+        "name": "Adam Driver",
+        "character": "Lev Shapiro",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mG2vwd6hJHTiCh8zIxPFND3ibAj.jpg"
+      },
+      {
+        "name": "Charlotte d'Amboise",
+        "character": "Colleen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/doo32w9vfCR0KFiVBLHkUmv9G9l.jpg"
+      },
+      {
+        "name": "Patrick Heusinger",
+        "character": "Reade \"Patch\" Krause",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ddtKHbu7j2qW4PXFHk1qZIvTPO8.jpg"
+      },
+      {
+        "name": "Michael Esper",
+        "character": "Dan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ri6OmRuEnbF3pcirudq3Gvc0oI5.jpg"
+      },
+      {
+        "name": "Grace Gummer",
+        "character": "Rachel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zjkPOqC81TXDfcag90y6miEOF7M.jpg"
+      },
+      {
+        "name": "Josh Hamilton",
+        "character": "Andy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7nuAUPd7E8iOE5lhUcNpogS2akP.jpg"
+      },
+      {
+        "name": "Maya Kazan",
+        "character": "Caroline",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6QQZ5taw1TKCLyzHYd5OkKXMk46.jpg"
+      },
+      {
+        "name": "Justine Lupe",
+        "character": "Nessa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3t2PyPRb44vmX6IBjDsGyrBMXA8.jpg"
+      },
+      {
+        "name": "Britta Phillips",
+        "character": "Nadia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/19N4eRFi90Yz8i7KENqIEFBrKG9.jpg"
+      },
+      {
+        "name": "Juliet Rylance",
+        "character": "Janelle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bN0cZI8DTETIBlYn0bPG3og8u7f.jpg"
+      },
+      {
+        "name": "Dean Wareham",
+        "character": "Spencer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/CxEjU0p84lIWkSy591Nl8LoUWn.jpg"
+      },
+      {
+        "name": "Hannah Dunne",
+        "character": "\"Ask Me\" Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/moc83r7ZkviwYqJXeIE84YvKsUR.jpg"
+      },
+      {
+        "name": "Daiva Deupree",
+        "character": "Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Nax9s5PUoKDXdrRI8NDm9Z0xl8.jpg"
+      },
+      {
+        "name": "Isabelle McNally",
+        "character": "Random Girl #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qy2HTnN5GB2RyeqERL7T1mjcIn0.jpg"
+      },
+      {
+        "name": "Vanessa Ray",
+        "character": "Random Girl #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iBpwnKvYExz24k5kmtE7IDfMc41.jpg"
+      },
+      {
+        "name": "Lindsay Burdge",
+        "character": "Dark Haired Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6hOtgtpjr21PVQWmbyeOUjxmwl7.jpg"
+      },
+      {
+        "name": "Marina Squerciati",
+        "character": "Waitress at Club",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j8OI9j2HUnKCIWgu8DBn7Mm3ryl.jpg"
+      },
+      {
+        "name": "Christine Gerwig",
+        "character": "Mom",
+        "profile_path": ""
+      },
+      {
+        "name": "Gordon Gerwig",
+        "character": "Dad",
+        "profile_path": ""
+      },
+      {
+        "name": "David Salem",
+        "character": "Christmas Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Isaac Salem",
+        "character": "Christmas Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Anna Salem",
+        "character": "Christmas Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Laurie Aloisio-Salem",
+        "character": "Christmas Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Roose",
+        "character": "Christmas Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Courtney Coffin-Jensen",
+        "character": "Christmas Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Kristine Jensen",
+        "character": "Christmas Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Doug Craft",
+        "character": "Reverend",
+        "profile_path": ""
+      },
+      {
+        "name": "Timothy Mickiewicz",
+        "character": "Dentist",
+        "profile_path": ""
+      },
+      {
+        "name": "Tre Borden",
+        "character": "Home Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Connor Mickiewicz",
+        "character": "Home Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f1VGW2JLMypVbHOrTd5LkoeLoeS.jpg"
+      },
+      {
+        "name": "Laura Parker",
+        "character": "Home Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zvHh8dfcK9lt1cyEdLhbhgiaGAh.jpg"
+      },
+      {
+        "name": "Serena Longley",
+        "character": "Abby",
+        "profile_path": ""
+      },
+      {
+        "name": "Barbara Ross English",
+        "character": "Dance Teacher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cMpR3Xt20apDgYK1lAEfLyR8UNP.jpg"
+      },
+      {
+        "name": "Peter Scanavino",
+        "character": "Chef",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kQzX89Ar4rEC1wwHcuDMr0YxUve.jpg"
+      },
+      {
+        "name": "Ryann Shane",
+        "character": "Crying Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/giaYi11nw4LiI4S8l6dQ7u6FJu3.jpg"
+      },
+      {
+        "name": "Danish Hyder",
+        "character": "Computer Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Teddy Cañez",
+        "character": "Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l2nRHBMJToH1LRRs4VmOfBpdJ14.jpg"
+      },
+      {
+        "name": "Gibson Frazier",
+        "character": "Catering Boss",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A8v0Wk4zIWneCjajJNfCXmKmhth.jpg"
+      },
+      {
+        "name": "Cindy Katz",
+        "character": "Congresswoman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2REv1EmoHzoJDNY9PlWnfOq5Ej4.jpg"
+      },
+      {
+        "name": "Cohlie Brocato",
+        "character": "Young Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Finnerty Steeves",
+        "character": "Co-Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Michelle Hurst",
+        "character": "Theater Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fVsvGxQntmrDyVNMSdbkk7lxxh2.jpg"
+      },
+      {
+        "name": "Molly Lieber",
+        "character": "Dance Duo",
+        "profile_path": ""
+      },
+      {
+        "name": "Eleanor Smith",
+        "character": "Dance Duo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nwrivfWDjZmWKgSVAs6G0QHxV6v.jpg"
+      },
+      {
+        "name": "Alex Moore",
+        "character": "Lighting Technician",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Noah Baumbach",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wRfV5qYIJHk4NH9gkKQnk99E5Qn.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "friendship",
+    "dancer",
+    "paris, france",
+    "freedom",
+    "loneliness",
+    "best friend",
+    "black and white",
+    "urban setting",
+    "responsibility",
+    "mumblecore",
+    "sacramento",
+    "dance teacher",
+    "millennials",
+    "late coming of age",
+    "dance show",
+    "joy",
+    "roommates"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A New York woman apprentices for a dance company and throws herself headlong into her dreams, even as the possibility of realizing them dwindles.",
+    "Frances lives in New York, but she doesn't really have an apartment. Frances is an apprentice for a dance company, but she's not really a dancer. Frances has a best friend named Sophie, but they aren't really speaking anymore. Frances throws herself headlong into her dreams, even as their possible reality dwindles. Frances wants so much more than she has but lives her life with unaccountable joy and lightness.—IFC Films",
+    "Twenty-seven-year-old Frances Halladay, originally of Sacramento, California, is trying to make it in New York City as a dancer, as an apprentice in a modern dance troupe. Despite both being heterosexual, she and her best friend, Sophie, who went to college together at Vassar, consider themselves to be like an old, married, lesbian couple who don't have sex with each other. Frances stumbles from one situation to another, both in her professional and personal lives, with her expectations and her abilities not always matching each other. In some respects, she stays true to her slightly off-kilter visions without understanding that she doesn't have the abilities to meet those visions. In other respects, she sells herself short, as when she and a male friend, Benji, kid each other that they are both undatable, while deep in their hearts they wouldn't mind dating each other. One thing that Frances does realize is that she has to work to survive in expensive New York, since she is unable to rely on her parents for financial support. The question then becomes if Frances will be able to find balance for her life in New York.—Huggo",
+    "Frances (Greta Gerwig) is a gangly 20-something who lives in New York, but is perennially broke, unfocused and prone to mildly self-destructive behaviour. An apprentice for a dance company, Frances is also a klutz, but that does not stop her from chasing her dreams.",
+    "A 27-year-old girl dedicated to her relationship with her best friend finds herself lost after that friend abandons her. So Frances has to figure out what she wants to do with her life while being an extreme people-pleaser and at the same time stuck due to her phobia for change."
+  ],
+  "synopsis": "",
+  "imdb_score": 7.4
+}

@@ -1,0 +1,444 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/cCvp5Sni75agCtyJkNOMapORUQV.jpg",
+  "id": 111,
+  "title": "Scarface",
+  "poster_path": "https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+  "release_date": "1983-12-09",
+  "vote_average": 8.168,
+  "vote_count": 11112,
+  "popularity": 65.222,
+  "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+  "imdb_id": "tt0086250",
+  "budget": 25000000,
+  "homepage": "",
+  "revenue": 66023329,
+  "runtime": 170,
+  "tagline": "He loved the American Dream. With a vengeance.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    "Universal Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Al Pacino",
+        "character": "Antonio 'Tony' Montana",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2dGBb1fOcNdZjtQToVPFxXjm4ke.jpg"
+      },
+      {
+        "name": "Steven Bauer",
+        "character": "Manolo 'Manny' Ray",
+        "profile_path": "https://image.tmdb.org/t/p/w185/onvYyp0N3vJ4fYsHkOOIgzOvRN8.jpg"
+      },
+      {
+        "name": "Michelle Pfeiffer",
+        "character": "Elvira",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oGUmQBU87QXAsnaGleYaAjAXSlj.jpg"
+      },
+      {
+        "name": "Mary Elizabeth Mastrantonio",
+        "character": "Gina Montana",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vbZ1E557K5oj34xLHR5ErO8wPCi.jpg"
+      },
+      {
+        "name": "Robert Loggia",
+        "character": "Frank Lopez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mRSUgJnfprCNw83pyVfpfW7ryfK.jpg"
+      },
+      {
+        "name": "Miriam Colon",
+        "character": "Mama Montana",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oW8N63FyKbcOK4eWbnpXPjcTzk4.jpg"
+      },
+      {
+        "name": "F. Murray Abraham",
+        "character": "Omar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg"
+      },
+      {
+        "name": "Paul Shenar",
+        "character": "Alejandro Sosa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kc0I4h9fTY8WP3wyQbwVWEzbmil.jpg"
+      },
+      {
+        "name": "Harris Yulin",
+        "character": "Bernstein",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rKEWwNwhaE4AsubDGoLu6pDIxZy.jpg"
+      },
+      {
+        "name": "Ángel Salazar",
+        "character": "Chi Chi",
+        "profile_path": ""
+      },
+      {
+        "name": "Arnaldo Santana",
+        "character": "Ernie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h120ebuCOk8aIlFYYGuW0eoDzWy.jpg"
+      },
+      {
+        "name": "Pepe Serna",
+        "character": "Angel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6fEdr5dpXYjpudCtmvhpZXl9q2F.jpg"
+      },
+      {
+        "name": "Michael P. Moran",
+        "character": "Nick The Pig",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dqQgY3uyzf1ot16iQZwcAWQnnkg.jpg"
+      },
+      {
+        "name": "Al Israel",
+        "character": "Hector The Toad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/seDaFV7BzxgVNeirCjgnP3H3L7M.jpg"
+      },
+      {
+        "name": "Dennis Holahan",
+        "character": "Banker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vaXyHuzpujZ3292uKQPVWQnVvJi.jpg"
+      },
+      {
+        "name": "Mark Margolis",
+        "character": "Shadow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rT5TYJIPLBkTqsrUs00AixGeaMM.jpg"
+      },
+      {
+        "name": "Michael Alldredge",
+        "character": "Sheffield",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cmWkrUrcApkshaSgsUHt7A71BaX.jpg"
+      },
+      {
+        "name": "Ted Beniades",
+        "character": "Seidelbaum",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1JmNxxxqlQINZFxKhIUix9RAI0.jpg"
+      },
+      {
+        "name": "Richard Belzer",
+        "character": "M.C. at Babylon Club",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jx0b3K4ZjRh8HnuvW3HpnfALTdF.jpg"
+      },
+      {
+        "name": "Paul Espel",
+        "character": "Luis",
+        "profile_path": ""
+      },
+      {
+        "name": "John Brandon",
+        "character": "Immigration Officer #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3dshU2iQbyy1lEXDrfBt1II7MV0.jpg"
+      },
+      {
+        "name": "Tony Perez",
+        "character": "Immigration Officer #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1NvbShokIyw539wBm5pyWV63jgy.jpg"
+      },
+      {
+        "name": "Garnett Smith",
+        "character": "Immigration Officer #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Loren Almaguer",
+        "character": "Dr. Munoz",
+        "profile_path": ""
+      },
+      {
+        "name": "Gil Barreto",
+        "character": "Cuban Refugee",
+        "profile_path": ""
+      },
+      {
+        "name": "Heather Benna",
+        "character": "Gutierrez Child",
+        "profile_path": ""
+      },
+      {
+        "name": "Sue Bowser",
+        "character": "Miriam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g9gtAG5eP5cSy8GYQXK7o6Iwbre.jpg"
+      },
+      {
+        "name": "Tina Leigh Cameron",
+        "character": "Saleslady",
+        "profile_path": ""
+      },
+      {
+        "name": "Victor Campos",
+        "character": "Ronnie Echevierra",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bWZhSSjo67GNhOl8FUu7z4qS6r6.jpg"
+      },
+      {
+        "name": "Robert Hammer Cannerday",
+        "character": "Marielito",
+        "profile_path": ""
+      },
+      {
+        "name": "Rene Carrasco",
+        "character": "Shooter",
+        "profile_path": ""
+      },
+      {
+        "name": "Albert Carrier",
+        "character": "Pedro Quinn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9lKc60OmnQpVdtEl40wps1Z4GYP.jpg"
+      },
+      {
+        "name": "John Carter",
+        "character": "Vic Phillips",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iv47IhfbAmGtXNqbE0ulBLBAOec.jpg"
+      },
+      {
+        "name": "Richard Caselnova",
+        "character": "Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Gary Carlos Cervantes",
+        "character": "Shooter #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bdmnlMM9tgAevlO4ZkiQLGZW0XD.jpg"
+      },
+      {
+        "name": "Carlos Augusto Cestero",
+        "character": "Matos",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vdfypCtOWTsccdQrHXqw9Wbt7p2.jpg"
+      },
+      {
+        "name": "Johnny Contardo",
+        "character": "Miguel Echevierra",
+        "profile_path": ""
+      },
+      {
+        "name": "Roberto Contreras",
+        "character": "Emilio Rebenga",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mKR7CVk9v3kAkuVkHK5fHmww2fr.jpg"
+      },
+      {
+        "name": "Gregory Cruz",
+        "character": "Shooter #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8mYGlTJPctR1D6maIc64QMspqAs.jpg"
+      },
+      {
+        "name": "Dante D'Andre",
+        "character": "General Strasser",
+        "profile_path": ""
+      },
+      {
+        "name": "Ben Frommer",
+        "character": "Male Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Ronald G. Joseph",
+        "character": "Car Salesman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yQGNLrPsoun5kpetLGfqUPiFd2i.jpg"
+      },
+      {
+        "name": "Mario Machado",
+        "character": "Interviewer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mE1gnCm9ETbVvrmdc97p7TkVOk6.jpg"
+      },
+      {
+        "name": "John McCann",
+        "character": "Bank Spokesman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mzLXClSnHX0P9g9ZmKCr8lp1BVA.jpg"
+      },
+      {
+        "name": "Victor Millan",
+        "character": "Ariel Bleyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4kumG5B5wKnKX43Otnu8wnRxupJ.jpg"
+      },
+      {
+        "name": "Santos Morales",
+        "character": "Waldo",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Moroff",
+        "character": "Gaspar's Bodyguard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ani0XQFTLNI6zf1PeKEkw0WtIHD.jpg"
+      },
+      {
+        "name": "Manuel Padilla Jr.",
+        "character": "Kid #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zag3YHVKjrePJroxBoUJgvVKj5s.jpg"
+      },
+      {
+        "name": "Michael Rougas",
+        "character": "Monsignor",
+        "profile_path": ""
+      },
+      {
+        "name": "Geno Silva",
+        "character": "The Skull",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jPI1uB7yEj3cljjwV9UpF3IujwG.jpg"
+      },
+      {
+        "name": "Charles A. Tamburro",
+        "character": "Helicopter Pilot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iCygZNkwUc2wSEIT58qUpiIkIC.jpg"
+      },
+      {
+        "name": "Angela Aames",
+        "character": "Woman at Babylon Club",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sTUtzgPNpEdcIYbxlrO0Ez898ov.jpg"
+      },
+      {
+        "name": "Lee Benton",
+        "character": "Woman at Babylon Club",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fVXFWqa8Iu6u9bLJ0fXQgGTt5Hl.jpg"
+      },
+      {
+        "name": "Lana Clarkson",
+        "character": "Woman at Babylon Club",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mPcfJBBENUFpXkK7eWGeljxhuun.jpg"
+      },
+      {
+        "name": "Ava Lazar",
+        "character": "Woman at Babylon Club",
+        "profile_path": "https://image.tmdb.org/t/p/w185/71Ah7s5PTxbUgiWPr5qRQSh8P6k.jpg"
+      },
+      {
+        "name": "Shelley Taylor Morgan",
+        "character": "Woman at Babylon Club",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ZYkAuTmJfwwnwDGxgKjXFTIX1F.jpg"
+      },
+      {
+        "name": "Emilia Crow",
+        "character": "Woman at Babylon Club",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4spPaCMJpn9r3e0hokiDSjNOmue.jpg"
+      },
+      {
+        "name": "Jeanette Linne",
+        "character": "Woman at Babylon Club",
+        "profile_path": ""
+      },
+      {
+        "name": "Margaret Michaels",
+        "character": "Woman at Babylon Club",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wmMv3aVSXAE6uslF79iFlFrvl0c.jpg"
+      },
+      {
+        "name": "Katt Shea",
+        "character": "Woman at Babylon Club",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vybIKkru5To53t1oiObk3WTj4aB.jpg"
+      },
+      {
+        "name": "Barclay DeVeau",
+        "character": "Ambassador's Daughter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Durning",
+        "character": "Immigration Officer (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/spLkni2KtQ22OITNC1oXLMIVWar.jpg"
+      },
+      {
+        "name": "Dennis Franz",
+        "character": "Immigration Officer (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kbSUcfAbhV1kWuDtLhH5CQwcbJQ.jpg"
+      },
+      {
+        "name": "Linda Gillen",
+        "character": "Voice (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eBKGY0I86SlTpdpD7FLVezUSkfz.jpg"
+      },
+      {
+        "name": "Gregg Henry",
+        "character": "Charles Goodson (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j17nuAFulrbYP34g4Qw8SZRDNUo.jpg"
+      },
+      {
+        "name": "Kevyn Major Howard",
+        "character": "Extra (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/utYdHRALnc34u49jm3Mc6U5R98u.jpg"
+      },
+      {
+        "name": "Henry Kingi",
+        "character": "Colombian Hitman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cThdKH6fn4faqei4DC2H3BQNkgI.jpg"
+      },
+      {
+        "name": "Brett Ratner",
+        "character": "Boy Lying on Raft in Pool (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uOtFtBPkLQaTq8TobPG0XvNKrvD.jpg"
+      },
+      {
+        "name": "Marcus Shirock",
+        "character": "Boy at Pool (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Maxine Wasa",
+        "character": "Dancer - LaLa (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/98p3MkxruE3cR3utpMQlTyQhD2l.jpg"
+      },
+      {
+        "name": "Ilka Tanya Payán",
+        "character": "Mrs. Gutierrez",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Delmonte",
+        "character": "Fernando",
+        "profile_path": ""
+      },
+      {
+        "name": "Terri Taylor",
+        "character": "Woman at Babylon Club",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7elUcQaNVwaDiAi0TCM2KQZBeEu.jpg"
+      },
+      {
+        "name": "Caesar Cordova",
+        "character": "Taco stand cook",
+        "profile_path": ""
+      },
+      {
+        "name": "Tammy Lynn Leppert",
+        "character": "Distraction at Lookout Car",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Brian De Palma",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4xleWFdhtVC7faer6Ru2eyEgfTv.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "corruption",
+    "sibling relationship",
+    "miami, florida",
+    "cuba",
+    "loss of loved one",
+    "gangster",
+    "cocaine",
+    "rise and fall",
+    "remake",
+    "drug cartel",
+    "mafia",
+    "drug lord",
+    "bitterness",
+    "rise to power",
+    "miami beach",
+    "cuban refugees",
+    "drug war"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+    "Tony Montana manages to leave Cuba during the Mariel exodus of 1980. He finds himself in a Florida refugee camp but his friend Manny has a way out for them: undertake a contract killing and arrangements will be made to get a green card. He's soon working for drug dealer Frank Lopez and shows his mettle when a deal with Colombian drug dealers goes bad. He also brings a new level of violence to Miami. Tony is protective of his younger sister but his mother knows what he does for a living and disowns him. Tony is impatient and wants it all however, including Frank's empire and his mistress Elvira Hancock. Once at the top however, Tony's outrageous actions make him a target and everything comes crumbling down.—garykmcd",
+    "Starving for a hearty slice of the exciting American Dream, the Cuban refugee and ex-convict, Tony \"Scarface\" Montana, winds up in the sun-drenched boulevards of President Jimmy Carter's Miami, after Fidel Castro's massive expulsion of Marielitos. There, a blood-soaked drug deal will pave the way for Tony's meteoric rise in the city's violent but lucrative cocaine scene, rapidly transforming him from a voracious dreamer into an all-powerful mega-drug lord. Now, anyone who dares to stand in the way of the cocaine king gets a lethal response from his blood-thirsty Colt AR-15. Will Tony's cocaine-fuelled paranoia mark the beginning of his downfall?—Nick Riganas",
+    "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana (Pacino) stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fuelled paranoia serve to fuel the flames of his eventual downfall.",
+    "When Fidel Castro opens the harbor at Mariel, Cuba, he sends 125,000 Cuban refugees to reunite with their relatives in the United States. Among all the refugees, there is one who wants it all, his name is Tony Montana. Tony and his friend Manny arrive in the United States and start in small time jobs. Soon, they are hired by Omar Suarez to pay money to a group of Colombians. When the deal goes wrong, Tony and Manny leave with the money and succeed in their job. Soon Tony meets with drug kingpin Frank Lopez and falls for his boss's girl, Elvira. Pretty soon Tony will know that those who want it all, do not last forever; that is the price of power.—Emphinix"
+  ],
+  "synopsis": "In May 1980, a Cuban man named Tony Montana (Al Pacino) claims asylum, in Florida, USA, and is in search of the \"American Dream\" after departing Cuba in the Mariel boat-lift of 1980. When questioned by three tough-talking INS officials, they notice a tattoo on Tony's left hand of a black heart with a pitchfork through it, which identifies him as a hit-man, and detain him in a camp called 'Freedomtown' with other Cubans, including Tony's best friend and former Cuban Army buddy Manolo \"Manny Ray\" Ribiera (Steven Bauer), under the local I-95 expressway while the government evaluates their visa petitions.After 30 days of governmental dithering and camp rumors, Manny receives an offer from the Cuban Mafia which he quickly relays to Tony. If they kill Emilio Rebenga (Roberto Contreras) a former aide to Fidel Castro who is now detained in Freedomtown, they will receive green cards. Tony agrees, and kills Rebenga during a riot at Freedomtown. The murder of Rebenga was requested by Frank López, a wealthy, politically astute man who deals cars and trades in cocaine, as Rebenga had tortured López's brother to death while still in Cuba many years earlier.After getting their Green Cards, Tony Montana and Manny Ray find work as dishwashers in a corner sandwich/taco shop. Some weeks later, a López henchman and under-boss, Omar Suárez (F. Murray Abraham), the man who contacted Manny for the Rebenga hit job, offers Tony and Manny a low-risk job of unloading 45 tons of marijuana from a boat to arrive in Miami from Mexico the following night for $500 each. Tony insults Suárez by turning down the job over the little money they will receive, and demands at least $1,000 for the work. After an altercation, Suárez sets Tony up on another job to purchase two kilograms of cocaine worth around $25,000 a piece from a Colombian dealer, named Hector The Toad, a medium to high-risk job for which Tony and Manny will receive $5,000 for their work.That weekend, Tony, Manny, and two other Marielitos in his crew whom they met in Freedomtown, Angel Fernández (Pepe Serna), and Chi Chi (Ángel Salazar) then set out to meet \"Hector the Toad\" (Al Israel) at a seedy motel on the boulevard in Miami Beach. While Manny and Chi Chi wait in the car on the street, Tony and Angel go up to the hotel room to meet with Hector. The meeting does not go smoothly, as Tony grows irritated with Hector, who is slow to give him the cocaine in exchange for money. Suddenly, Tony and Angel are double-crossed by the Colombian. It becomes apparent that Hector does not intend to sell Tony the cocaine he has; he only wants to steal the money Tony has been given to purchase the product. To convince Tony to give over the cash, Hector dismembers Angel in a shower stall with a chainsaw. After Angel is dead, Tony, about to suffer the same fate, is saved by Chi Chi and Manny who arrive in the nick of time to gun down Hector's henchmen. Manny receives a minor bullet wound in his shoulder when his Uzi sub-machine gun jams. Hector escapes but Tony vengefully confronts him in the street and shoots him dead in the middle of the crowded Ocean Drive (the now famous Miami South Beach boulevard). Tony and his crew then get away with both the cocaine and the money before the police arrive.The following night, Tony and Manny meet Frank López (Robert Loggia) at his house for the first time where Tony impresses Lopez with not only the return of his cash but with a gift of the cocaine, a prize from the botched rip off. Frank immediately hires Tony and his crew into his criminal hierarchy, a representative of a Cuban mafia. But during this initial get together Tony also meets Lopez's lady, the blond and beautiful Elvira Hancock (Michelle Pfeiffer), who will eventually become the source of tension between the two men. Taking Tony and Manny out to a local nightclub, called The Babylon Club where Frank frequently attends, Tony and Manny see first-hand the high standard of living they have come to acquire. Though Frank actually warns against these excesses, Tony is seduced by them regardless. Thus, Tony Montana begins his rise through the ranks of the Miami cocaine underworld.After three months, Tony has advanced in the ranks in Frank's cartel from drug runner and purchaser to a trusted lieutenant along with Manny. They work low-risk jobs such as being Frank's bodyguards and messengers. Tony continues to grow more attracted to Elvira as he helps her purchase a new Cadillac vehicle for herself and casually flirts with her privately. Elvira enjoys the attention but still seems to think of Tony as a low-level hood.Tony attempts to make amends by meeting with his estranged family. It is implied that Tony's father, a former U.S. Navy sailor, abandoned the family when Tony was little. Since then, his mother (Miriam Colon) and younger 19-year-old sister Gina (Mary Elizabeth Mastrantonio) have been living in Miami. Tony shows up at his mother's and Gina's house one evening, fashionably dressed, and offers them $1,000 in cash for financial support. Gina is overjoyed to see her older brother whom they have not seen for five years. However, Tony's cold and unimpressed mother has only scorn for him since he turned his back on them many years ago for the quick and easy life of crime back in Cuba, and wants nothing to do with him. She is too full of pride to accept his money despite being financially stricken. But Gina, who idolizes her brother, follows him outside where he slips her the money secretly. Gina tells Tony that she wants in on the flashy life that he has going for him. Tony's love for Gina is clearly genuine for she's the only person that he trusts, and is also obsessively protective of her. Afterward, Manny (who waited in the car that he and Tony arrived in) makes a comment to Tony about how attractive Gina is, but Tony angrily warns him to stay away from her.Several months later, Tony is sent to Bolivia to help Omar set up a new distribution deal with Bolivian kingpin Alejandro Sosa (Paul Shenar) for the purchase of 200 kilograms of cocaine, since Frank is having legal troubles that preclude him from leaving the country. Though Tony was supposed to let Omar do all the talking, Omar proves to be a poor negotiator, prompting Tony to step in and save the deal. They seem to negotiate a deal that, on the surface seems favorable to both sides, with Sosa overseeing the transportation to Panama and to let Tony and the Lopez cartel take over from there, but Omar insists that Frank would not approve. Sosa seemingly sides with Omar and suggests that Omar use his phone to call Frank. A few minutes later, Sosa hands Tony binoculars, and he sees two menacing assassins, Alberto the Shadow (Mark Margolis) and the Skull (Geno Silva), execute Omar by hanging him by the neck from an airborne helicopter. Sosa reveals that Alberto recognized Omar as once being an informant for the police several years ago when he worked in New York City... and Sosa has a zero tolerance for disloyalty. Tony insists that he never goes back on his word, and that he never trusted Omar. Believing that Tony is trustworthy, Sosa agrees to bring Tony on board with him as his North American distributor of cocaine and other drugs. But upon their verbal agreement, Sosa sternly warns Tony never to betray or double-cross him in any way.Upon his return to Florida, Tony is verbally chewed out by Frank for overstepping his authority as well as hearing about Omar's death. Tony explains to Frank that for a price of $18 million to pay Sosa for the manufacturing and transportation costs, they will receive 2,000 kilograms of cocaine from Bolivia for nationwide sale and distribution which will earn them $75 million over a period of one year. Frank is worried because he does not have the many millions to pay Sosa for the cocaine, but Tony says that he is in tight with Sosa and he has established a \"credit line\" with him as well as work out a payment plan where they will pay Sosa $5 million up front and the rest in monthly installments. Plus, in case Frank comes up short a few million, Tony will earn the money needed through his own street contacts. Frank angrily tells Tony that he did not negotiate a good deal and that Sosa merely tricked him into thinking he did. Tony replies that it's time for them to \"think big,\" and to expand the cartel for nationwide distribution of cocaine. With them as the main North American distributors and wholesalers of the Sosa cartel, they will make millions and become the biggest cartel in the continent. Frank warns Tony that Sosa cannot be trusted and that he will sooner or later turn against them for any slight deviation or compromise of his business. Frank orders Tony to stall his deal with Sosa for the time being. Frank then promptly tells Tony that ambitious drug dealers, such at himself, who want too much and crave money, power and attention, do not last long in the business. Tony leaves shrugging with indifference and strikes out on his own.After this incident, Tony then seeks out Elvira to whom he makes an unexpected marriage proposal. She is shaken but agrees to think about it. Frank López is none too happy when he hears about it and decides to take out Tony.At the Babylon nightclub that evening, Tony is approached and shaken down by a Miami police detective, named Mel Bernstein (Harris Yulin). He proposes to \"tax\" Tony on his transactions in return for police protection and information. Tony is distracted by the sight of Gina dancing with a local drug dealer. He follows the two to a restroom stall where he berates Gina for her promiscuous conduct. He asks Manny to take her home. On the way Gina admits she is attracted to Manny. Manny wards her off, mindful of Tony's obsessive protection of her.Back at the nightclub, Tony is attacked by two gunmen but manages to escape, killing them both despite being wounded by a gunshot to his left shoulder. Suspecting Frank sent Bernstein and the hit-men, Tony asks one of his bodyguards, Nick The Pig (Michael P. Moran), to call Frank after Tony arrives at Frank's office at 3:00 a.m. that very night and inform him the hit failed. Tony, Manny and Chi Chi visit Frank at his car dealership back office, who is with Det. Bernstein. Nick calls Frank, who confirms his involvement by playing the call off as Elvira telling him she'll be late home. When it becomes apparent that Bernstein (who is armed) will not help him, Frank begs for Tony's forgiveness, saying that he can have Elvira and ten million dollars in exchange for sparing his life. Tony will have none of it, and Manny coldly executes Frank. Bernstein insists that he could be a valuable ally for Tony, but Tony disagrees, and kills him too. Tony, Manny and Chi Chi then look upon the late Frank's personal bodyguard Ernie (Arnaldo Santana) and offer him a choice of being killed or work for them. Ernie naturally agrees to work for Tony.His problems apparently solved, Tony begins a profitable relationship with Sosa over the next year and-a-half. Tony marries Elvira, buys a huge mansion complete with surveillance cameras and numerous luxury items, and Tony even sets Gina up in business with her own beauty salon complete with a paid staff. Manny and Gina soon begin a romantic relationship, but they keep it secret from Tony who had firmly stated to Gina that he does not want her dating anybody (at least not anyone in the drug dealing business).As Tony's business grows, so does his cocaine addiction and paranoia, and he begins to spiral out of control... the beginning of the end. His wife, who becomes further addicted to cocaine, becomes bored and emotionally distant. Tony's banker Gerry (Dennis Holahan) informs him that laundering the increasing flow of drug money has become increasingly difficult, so he will be charging higher fees, up to 10%. A Jewish mob boss, named Mel Seidelbaum (Ted Beniades), contacts Manny, offering his assistance. However, as they are cleaning out the money, Seidelbaum reveals himself to be an undercover cop and arrests Tony along with Chi Chi.After posting a $5 million in bail, Tony and Manny meet with corrupt lawyer George Sheffield (Michael Alldredge), who tells him that although he may get him cleared of the corruption and money laundering charges, Tony will probably have to serve at least three years in prison for income tax evasion. Manny suggests that he take the plea bargain, as the American prison system is nowhere near as harsh as its Cuban counterpart, and the right legal loopholes could trim the sentence down to six months. However, the strung-out Tony defiantly yells that he would rather die than spend a single day in jail.After hearing about Tony's arrest, Sosa, not wanting to lose his main distributor, offers Tony a way out of going to prison. He calls Tony back to Bolivia where he introduces him to his cocaine \"board of directors\" a group that includes a sugar land baron, Bolivia's military chief, and a mysterious American named Charles Goodson (Gregg Henry). We assume he is a corrupt CIA officer because Sosa guarantees that the IRS will not be able to send Tony to jail. But this help comes at a price. Sosa and his group show Tony a video clip of a TV talk show featuring a Bolivian journalist who is attempting to expose the ongoing corruption in the Bolivian government involvement in drug trafficking, and his crusade is beginning to hurt Sosa and his partners. Sosa will be sending Alberto the Shadow to New York assassinate the journalist, but he needs Tony and his crew to provide some extra muscle. Tony is clearly disturbed by the assassination plot since it is against his custom to kill a man whom he sees as a civilian, plus Tony has never killed anybody who didn't wrong him personally. But seeing no other options, Tony reluctantly agrees to help Sosa with the hit.A few days later, after returning to Miami, Tony's marriage with Elvira finally ends when after a bitter altercation at a local restaurant, she finally expresses her contempt for him and the lives he had led her on, and walks out of the restaurant, and out of his life. Tony, punch-drunk on cocaine, tells the restaurant's other patrons that his existence is necessary since society needs a man like him to call a criminal. Tony also informs Manny to look after things while he travels to New York on business (but he doesn't tell him anything about the Sosa assassination deal.)Tony, with his two trusted henchmen, Chi Chi and Ernie, along with Alberto travel to New York City and Alberto places a bomb under the journalist's car in with the intention of detonating it outside the UN building before the the man addresses the General Assembly and exposes Sosa's cartel. But the next day, Tony has second thoughts when the journalist unexpectedly picks up his wife and children. Tony, saying that the team was only supposed to kill only the journalist, shoots Alberto to prevent the journalist's family from being killed. When authorities later discover the unexploded bomb underneath the journalist's car, they realize that an execution had been planned and increase the amount of security protecting the journalist. Sosa is now the primary suspect and Sosa vows to get even with Tony.Returning to Miami, Tony discovers from Nick the Pig that Gina and Manny (who opposed the trip to New York) have disappeared. Tony visits his mother again where she angrily tells him about Gina's descent into an immoral life and accuses him of corrupting her with his flashy lifestyle. After getting Gina's home address from Mrs. Montana, Tony goes to the house in nearby Palm Grove. Much to Tony's surprise, Manny unexpectedly opens the door in his bathrobe. Tony then sees Gina in a night gown at the top of the stairs. Enraged that another man has obviously slept with his sister, Tony shoots Manny dead. Hysterical, Gina reveals to Tony that they had just been married and were going to surprise him. Tony, riddled with guilt, has Gina taken back to his mansion.In revenge for Tony's failure to kill the journalist, who has now exposed Sosa and his partners to the world as drug lords, Sosa sends a Latino mercenary hit squad (the size of a large platoon), to Tony's mansion to kill him that evening. Sitting at his desk snorting from an enormous pile of cocaine, Tony realizes and regrets what he has done to his best friend. He takes a call from Sosa and berates him, telling him he's prepared for whatever Sosa can throw at him. When Tony is contemplating his actions, Sosa's mercenaries breach the main gate at Tony's estate and quietly begin to kill all the guards around the mansion. At the same time, a distraught Gina, wearing only an unbuttoned sleep shirt and armed with a revolver, enters Tony's office to confront him with the truth about his feelings for her. She now realizes that Tony loves her in an unnatural way and demands, at gunpoint, that he make love to her. She begins to shoot at him while demanding he take her. A Sosa assassin hiding on the balcony, thinking Gina is shooting at him, leaps in and riddles her with bullets. An enraged Tony throws the man off the balcony and kills him with his sub-machine gun creating a storm of chaos at the mansion. At this point, the mercenaries, robbed of the element of surprise by the gunshots, swarm in to attack Tony's mansion from all directions.As all his men are being killed, including Ernie and Nick the Pig, Tony, still delirious from the cocaine, leans over Gina's dead body begging for forgiveness, at the same time the mercs break into the mansion. Chi Chi opens fire with an Uzi as he falls back and ends up banging on the door to Tony's office (it has been locked from the inside by Gina who was planning to kill Tony). Unfortunately, Tony does not seem to hear him. Chi Chi is shot in the back and Tony sees it on the security cameras.As the hit men prepare to storm into his office, Tony finally snaps out of his drug-induced state, arms himself with an M16A1 assault rifle with an under-mounted M203 grenade launcher and blows down the door. A huge climatic gun battle begins as Tony takes position atop the grand staircase and guns down over a dozen of Sosa's men who try to storm the balcony. Tony is hit a number of times by return fire, but he keeps shooting. With most of Sosa's men dead, Tony, strung-out on drugs, defiantly yells out at the assassins, not realizing that the Skull has sneaked into the room behind him. The Skull shoots Tony in the back with a 12-Gauge shotgun. Tony falls off the balcony and into a reflecting pool at the base of the grand staircase. In the final shot, as the Skull and the few surviving assassins look on, Tony Montana lies dead... face down in the bloody reflecting pool which is located below a large brass globe that says: THE WORLD IS YOURS.",
+  "imdb_score": 8.3
+}

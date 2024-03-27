@@ -1,0 +1,362 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/vpRMzPqHC03I7hPPET4Av2OT8dI.jpg",
+  "id": 400617,
+  "title": "Phantom Thread",
+  "poster_path": "https://image.tmdb.org/t/p/w500/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+  "release_date": "2017-12-25",
+  "vote_average": 7.308,
+  "vote_count": 3292,
+  "popularity": 22.904,
+  "overview": "In 1950s London, renowned British dressmaker Reynolds Woodcock comes across Alma, a young, strong-willed woman, who soon becomes ever present in his life as his muse and lover.",
+  "imdb_id": "tt5776858",
+  "budget": 35000000,
+  "homepage": "http://focusfeatures.com/phantom-thread",
+  "revenue": 47756590,
+  "runtime": 130,
+  "tagline": "Whatever you do, do it carefully.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "Focus Features",
+    "Annapurna Pictures",
+    "Perfect World Pictures",
+    "JoAnne Sellar Productions",
+    "Ghoulardi Film Company"
+  ],
+  "production_countries": [
+    "CN",
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Daniel Day-Lewis",
+        "character": "Reynolds Woodcock",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3kNA9VcmymoEwT0btQ4bvMYxzcP.jpg"
+      },
+      {
+        "name": "Vicky Krieps",
+        "character": "Alma Elson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5XVrQrZZgmm08i6HQZnFuqom5Ie.jpg"
+      },
+      {
+        "name": "Lesley Manville",
+        "character": "Cyril Woodcock",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tioPlSoypjdME3oMu3g7XmgIIKS.jpg"
+      },
+      {
+        "name": "Camilla Rutherford",
+        "character": "Johanna",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rVoFC3VLv5JWsBN0mlyTLrF1Zg5.jpg"
+      },
+      {
+        "name": "Gina McKee",
+        "character": "Countess Henrietta Harding",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rHL7GGeFZ2x9PbFL2P3hVkLfvAS.jpg"
+      },
+      {
+        "name": "Brian Gleeson",
+        "character": "Dr. Robert Hardy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/22Mpt5w3hMMbwBYEj26S152JntG.jpg"
+      },
+      {
+        "name": "Harriet Sansom Harris",
+        "character": "Barbara Rose",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1ShvYCWkZycAGb27ZivGrLx1PhS.jpg"
+      },
+      {
+        "name": "Lujza Richter",
+        "character": "Princess Mona Braganza",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nhIMC58znoWz3Aq1TeqbSoF0n0y.jpg"
+      },
+      {
+        "name": "Julia Davis",
+        "character": "Lady Baltimore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wsUNCSKoNQTgSdlr9FIeIR6hRAd.jpg"
+      },
+      {
+        "name": "Julie Vollono",
+        "character": "London Housekeeper",
+        "profile_path": ""
+      },
+      {
+        "name": "Sue Clark",
+        "character": "Biddy",
+        "profile_path": ""
+      },
+      {
+        "name": "Joan Brown",
+        "character": "Nana",
+        "profile_path": ""
+      },
+      {
+        "name": "Harriet Leitch",
+        "character": "Pippa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8oSjwWmQLaDiV9k9RNThMiX71gu.jpg"
+      },
+      {
+        "name": "Dinah Nicholson",
+        "character": "Elsa",
+        "profile_path": ""
+      },
+      {
+        "name": "Julie Duck",
+        "character": "Irma",
+        "profile_path": ""
+      },
+      {
+        "name": "Maryanne Frost",
+        "character": "Winn",
+        "profile_path": ""
+      },
+      {
+        "name": "Elli Banks",
+        "character": "Elli",
+        "profile_path": ""
+      },
+      {
+        "name": "Amy Cunningham",
+        "character": "Mabel",
+        "profile_path": ""
+      },
+      {
+        "name": "Amber Brabant",
+        "character": "Amber",
+        "profile_path": ""
+      },
+      {
+        "name": "Geneva Corlett",
+        "character": "Geneva",
+        "profile_path": ""
+      },
+      {
+        "name": "Juliet Glaves",
+        "character": "Florist",
+        "profile_path": ""
+      },
+      {
+        "name": "Philip Franks",
+        "character": "Peter Martin",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Hansford",
+        "character": "Petrol Station Owner",
+        "profile_path": ""
+      },
+      {
+        "name": "Steven F. Thompson",
+        "character": "Maitre'D",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vcLysMpOsbvLCYrU4GmDZSPmoQ2.jpg"
+      },
+      {
+        "name": "George Glasgow",
+        "character": "Nigel Cheddar-Goode",
+        "profile_path": ""
+      },
+      {
+        "name": "Niki Angus-Campbell",
+        "character": "Young Fan",
+        "profile_path": ""
+      },
+      {
+        "name": "Georgia Kemball",
+        "character": "Young Fan's Friend",
+        "profile_path": ""
+      },
+      {
+        "name": "Nick Ashley",
+        "character": "Charles Gayford",
+        "profile_path": ""
+      },
+      {
+        "name": "Ingrid Sophie Schram",
+        "character": "House Model",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pbt1ODn2K3OSE9IrEGxOSWlhQ5g.jpg"
+      },
+      {
+        "name": "Ellie Blackwell",
+        "character": "House Model",
+        "profile_path": ""
+      },
+      {
+        "name": "Zarene Dallas",
+        "character": "House Model",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pCpRhGfErWK0jkagdmGQGpy0hLl.jpg"
+      },
+      {
+        "name": "Pauline Moriarty",
+        "character": "Minetta",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Sigmundsson",
+        "character": "Cal Rose",
+        "profile_path": "https://image.tmdb.org/t/p/w185/25d39zqpgnuCOi7FXnVZfgA2vk7.jpg"
+      },
+      {
+        "name": "Phyllis MacMahon",
+        "character": "Tippy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/simmfdBfVWY5dwNo8RwWzT2YL8D.jpg"
+      },
+      {
+        "name": "Richard Graham",
+        "character": "George Riley, News of the World",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ukEz43251dO4Gn9O3o0XzLmKqOf.jpg"
+      },
+      {
+        "name": "Silas Carson",
+        "character": "Rubio Gurrerro",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kCAq5Ma1usCYLtJAFd2iwx6eQn1.jpg"
+      },
+      {
+        "name": "Martin Dew",
+        "character": "John Evans, Daily Mail",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7NqJ8j5PUUOR4CQ02VgiSjoqifI.jpg"
+      },
+      {
+        "name": "James Thomson",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Ahern",
+        "character": "Barbara's Lawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ezVtIACGesOdSEqvBazE8lk4oTa.jpg"
+      },
+      {
+        "name": "Leopoldine Hugo",
+        "character": "Princess Mona's Mother",
+        "profile_path": ""
+      },
+      {
+        "name": "Delia Remy",
+        "character": "Bridesmaid",
+        "profile_path": ""
+      },
+      {
+        "name": "Alice Grenier",
+        "character": "Bridesmaid",
+        "profile_path": ""
+      },
+      {
+        "name": "Emma Clandon",
+        "character": "Reynolds' Mother",
+        "profile_path": ""
+      },
+      {
+        "name": "Ian Harrod",
+        "character": "Registrar",
+        "profile_path": ""
+      },
+      {
+        "name": "Sarah Lamesch",
+        "character": "Steff",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicholas Mander",
+        "character": "Lord Baltimore",
+        "profile_path": ""
+      },
+      {
+        "name": "Jordon Stevens",
+        "character": "Lady Baltimore's Daughter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pHT1akdQGsa8tmON5IMOCd9osfN.jpg"
+      },
+      {
+        "name": "Michael Stevenson",
+        "character": "MC, New Year's Eve Party",
+        "profile_path": ""
+      },
+      {
+        "name": "Jane Perry",
+        "character": "Mrs. Vaughan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gajiGfToSOUQvfy7wy8TwZi6hW9.jpg"
+      },
+      {
+        "name": "Charlotte Melen",
+        "character": "Young Fashionable Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave Simon",
+        "character": "Chelsea Arts Club New Years Eve Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "David Charles-Cully",
+        "character": "Chelsea Arts Club New Years Eve Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Louis Hannan",
+        "character": "Chelsea Arts Club New Years Eve Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Evie Wray",
+        "character": "Wedding Guest / Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rsWNDtyQsB3Grv8XM16ru3hiXXx.jpg"
+      },
+      {
+        "name": "Jonathan Wayre",
+        "character": "Pathe News Cameraman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Cécile van Dijk",
+        "character": "Cécile (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Tyson",
+        "character": "New Year's Eve Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joshua Tomkins",
+        "character": "New Year's carnival Float Team Cowboy (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Paul Thomas Anderson",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wKAs2LtLYSUzt3ZZ8pnxMwuEWuR.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "london, england",
+    "husband wife relationship",
+    "obsession",
+    "dressmaker",
+    "fashion designer",
+    "muse",
+    "doctor",
+    "wedding",
+    "fashion",
+    "fashion show",
+    "haute couture",
+    "fictional biography",
+    "1950s",
+    "fashion industry",
+    "brother sister relationship"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Set in 1950s London, Reynolds Woodcock is a renowned dressmaker whose fastidious life is disrupted by a young, strong-willed woman, Alma, who becomes his muse and lover.",
+    "In glamorous 1950s post-war London, renowned dressmaker Reynolds Woodcock (Daniel Day-Lewis) and his sister Cyril (Lesley Manville) are at the center of British fashion, dressing royalty, movie stars, heiresses, socialites, debutantes, and dames in the distinct style of The House of Woodcock. Women come and go through Woodcock's life, providing the confirmed bachelor with inspiration and companionship, until he comes across a strong-willed young woman, Alma (Vicky Krieps), who soon becomes a fixture in his life as his muse and lover. Once controlled and planned, he finds his carefully tailored life disrupted by love.—Focus Features",
+    "In the dazzling world of glamour in 1950s London, Europe's most refined, most exquisite, most brilliant couturier, Reynolds Woodcock of The House of Woodcock, rests in his laurels, knowing that his artistic creations in lustrous silk and delicate chiffon are nothing less than objects of pure desire. However, everything is about to change in the favourite dressmaker's well-organised life, when a chance encounter with Alma, the charming and almost perfectly-proportioned young waitress, will strike a chord with Woodcock, embracing the bright-eyed woman as his new muse. But is Alma just another mannequin waiting next in line?—Nick Riganas",
+    "In 1950s London, confirmed bachelor Reynolds Woodcock is a famed couturier, clothing the rich and famous. His business is a one-man-show on the design side. His genius can only be achieved within an environment which he controls to his complete sensibility. On the business side is his spinster sister, Cyril Woodcock, who maintains order within the household to allow Reynolds to work within his controlled environment. She will, however, not allow anything or anyone to upset the applecart, including Reynolds losing sight that it is a business, and not just a means to design and create fashions solely for his own satisfaction without regard for the clients. That balance in their work/live relationship has the potential to take a turn when Reynolds meets waitress Alma Elson. She not only becomes his muse but also his assistant and lover. Her entrance into his life and business changes the balance between Reynolds and Cyril, especially as Alma has her own sensibility of herself in Reynolds' life and in his business, which is often at odds with that control that Reynolds and Cyril have worked so hard to create and maintain.—Huggo",
+    "In 1954 London, renowned fashion designer Reynolds Woodcock creates dresses for members of high society. His charisma and genius are matched by his obsessive, controlling personality. His sister Cyril manages the day-to-day operations of his fashion house and has significant influence over his life. Reynolds is haunted by their mother's death and stitches hidden messages into the linings of the dresses he makes. After designing a new gown for a revered client, the Countess, Reynolds visits a restaurant in the countryside and becomes interested in a waitress, Alma. He asks her to have dinner with him, and she accepts. Their relationship develops, and she moves in with him, becoming his model, muse, and lover. Cyril initially distrusts Alma but comes to respect her willfulness and determination."
+  ],
+  "synopsis": "In 1950s London, renowned fashion designer Reynolds Woodcock creates dresses for members of high society. His charisma and genius are matched by his obsessive and controlling personality. Cyril, his sister, manages the day-to-day operations of his fashion house and has significant influence over his life. The superstitious Reynolds is haunted by the death of their mother, and often stitches hidden messages into the linings of the dresses he makes.After designing a new gown for a revered client, Countess Henrietta Harding, Reynolds visits a restaurant in the countryside and becomes interested in a foreign waitress, Alma. He asks her to have dinner with him, and she accepts. Their relationship develops, and she moves in with him, becoming his model, muse and lover. Cyril initially distrusts Alma but comes to respect her willfulness and determination.At first, Alma enjoys being a part of Reynolds' work, but he proves aloof, hard to please and overly finicky. They begin to bicker. When Alma tries to show her love for Reynolds by preparing a romantic dinner for two, he lashes out, saying he will not tolerate deviations from the routines he has worked hard to perfect.Alma \"retaliates\" by poisoning Reynolds' tea with wild mushrooms gathered outside his country house. As he readies a wedding gown for a Belgian princess, Reynolds collapses, damaging the dress and forcing his staff to work all night to repair it. He becomes gravely ill and has hallucinations of his mother. Alma nurses him back to health. He asks her to marry him; she accepts.After a brief honeymoon, Reynolds and Alma soon start bickering again. Cyril reveals to Reynolds that the Countess is now a client at a rival fashion house, and hints that his classical designs have begun appearing out-of-date. As Reynolds feels his work is suffering, he concludes it may be time to send her away; Alma overhears this.Back at the country house, Alma responds by making Reynolds a poisoned omelette. As he chews his first bite, she informs him that she wants him weak and vulnerable with only her to take care of him. Reynolds swallows the omelette and tells her to kiss him before he is sick. As Reynolds lies ill, Alma imagines their future with children, a rich social life, and her running the dressmaking business as a partner. She acknowledges that while there may be challenges ahead, their love and their new arrangement can overcome them.",
+  "imdb_score": 7.4
+}

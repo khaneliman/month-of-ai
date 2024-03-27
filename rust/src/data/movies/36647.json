@@ -1,0 +1,330 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/fUkjt1C7V5RAKnkpLaiZy3hJ7xh.jpg",
+  "id": 36647,
+  "title": "Blade",
+  "poster_path": "https://image.tmdb.org/t/p/w500/oWT70TvbsmQaqyphCZpsnQR7R32.jpg",
+  "release_date": "1998-08-21",
+  "vote_average": 6.771,
+  "vote_count": 5609,
+  "popularity": 46.321,
+  "overview": "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
+  "imdb_id": "tt0120611",
+  "budget": 45000000,
+  "homepage": "https://www.warnerbros.com/movies/blade",
+  "revenue": 131183530,
+  "runtime": 121,
+  "tagline": "The power of an immortal. The soul of a human. The heart of a hero.",
+  "genres": [
+    "Horror",
+    "Action"
+  ],
+  "production_companies": [
+    "New Line Cinema",
+    "Amen Ra Films",
+    "Imaginary Forces"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Wesley Snipes",
+        "character": "Eric Brooks / Blade",
+        "profile_path": "https://image.tmdb.org/t/p/w185/81D6oJ81kiQ5xnEHhaHrY29ntdO.jpg"
+      },
+      {
+        "name": "Stephen Dorff",
+        "character": "Deacon Frost",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wbVVPJVJaI4EXueLCa8D4Un1ezz.jpg"
+      },
+      {
+        "name": "Kris Kristofferson",
+        "character": "Abraham Whistler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wjQSTYjOpVPvfv7T08uxA3jid1J.jpg"
+      },
+      {
+        "name": "N'Bushe Wright",
+        "character": "Dr. Karen Jenson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jSXuSko6tZQ69LfJEMmNLiXEOS8.jpg"
+      },
+      {
+        "name": "Donal Logue",
+        "character": "Quinn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5Rj850yVkIqsgCihtZLbkNSHbFb.jpg"
+      },
+      {
+        "name": "Udo Kier",
+        "character": "Gitano Dragonetti",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg"
+      },
+      {
+        "name": "Arly Jover",
+        "character": "Mercury",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zmznPrQ9GSZwcOIUT0c3GyETwrP.jpg"
+      },
+      {
+        "name": "Traci Lords",
+        "character": "Racquel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xcHV0zuDDYX5TZfJAd6osXfzLWC.jpg"
+      },
+      {
+        "name": "Kevin Patrick Walls",
+        "character": "Officer Krieger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yDixh6zfvP7tvZzlWvSYv7Tq2Fj.jpg"
+      },
+      {
+        "name": "Tim Guinee",
+        "character": "Dr. Curtis Webb",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4ceLJK0hD8DhRBARGxfodluK8Bh.jpg"
+      },
+      {
+        "name": "Sanaa Lathan",
+        "character": "Vanessa Brooks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mYrlBt33pPbdsgscTuWdHScu7md.jpg"
+      },
+      {
+        "name": "Eric Edwards",
+        "character": "Pearl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/19AfQogqljLovvBrm0rIyb6LXKL.jpg"
+      },
+      {
+        "name": "Donna Wong",
+        "character": "Nurse",
+        "profile_path": ""
+      },
+      {
+        "name": "Carmen Thomas",
+        "character": "Senior Resident",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jNkb8JZStLEFLkkop1cu3XaPe9U.jpg"
+      },
+      {
+        "name": "Shannon Lee",
+        "character": "Resident",
+        "profile_path": "https://image.tmdb.org/t/p/w185/FG5ZzhP4G94MFBHUTdUw5q6kPM.jpg"
+      },
+      {
+        "name": "Kenny Johnson",
+        "character": "Heatseeking Dennis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oFjEvGUEync0f2uiyGxMbinQkEl.jpg"
+      },
+      {
+        "name": "Clint Curtis",
+        "character": "Creepy Morgue Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rhzDF47rzJ7Jd1UhsSUWR0lbRYo.jpg"
+      },
+      {
+        "name": "Judson Scott",
+        "character": "Pallantine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u4RtHhi8KNpuQU5vTlKDDa1bRgM.jpg"
+      },
+      {
+        "name": "Sidney S. Liufau",
+        "character": "Japanese Doorman",
+        "profile_path": ""
+      },
+      {
+        "name": "Keith Leon Williams",
+        "character": "Kam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6i5XNUNqVm76gUgVxyj1dU70L06.jpg"
+      },
+      {
+        "name": "Andray Johnson",
+        "character": "Paramedic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4T1P5gP4qcRCum827FqR6GpZjJZ.jpg"
+      },
+      {
+        "name": "Stephen R. Peluso",
+        "character": "Paramedic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9WjFANrwP8GzCzlZYTk2QCa8Xo8.jpg"
+      },
+      {
+        "name": "Marcus Aurelius",
+        "character": "Pragmatic Policeman",
+        "profile_path": ""
+      },
+      {
+        "name": "John Enos III",
+        "character": "Blood Club Bouncer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4OtSbi1QxeuOgOVskiduUycj88V.jpg"
+      },
+      {
+        "name": "Eboni 'Chrystal' Adams",
+        "character": "Martial Arts Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iRG8NKyGOgCwowR3uQqczFNmZ7i.jpg"
+      },
+      {
+        "name": "Lyle Conway",
+        "character": "Lyle Conway",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rmkc17aIMw8qCrUGmY6uxHDJ0ng.jpg"
+      },
+      {
+        "name": "Freeman White",
+        "character": "Menacing Stud",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pDC4CTQ0st0w3FzYFleqcdbnO7e.jpg"
+      },
+      {
+        "name": "D.V. DeVincentis",
+        "character": "Vampire Underling",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5JZ0fRBPPYWZl9LvUjt426LEivV.jpg"
+      },
+      {
+        "name": "Marcus Salgado",
+        "character": "Frost's Goon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ogJGHIwRlTKM7ApjdScbHt5CuDJ.jpg"
+      },
+      {
+        "name": "Esau McKnight",
+        "character": "Frost's Goon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hzBKmyjKAinqY9m5jOxoa0SPfCC.jpg"
+      },
+      {
+        "name": "Erl Van Douglas",
+        "character": "Von Esper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wvOutZPxUMymz7eNqN58YZHMber.jpg"
+      },
+      {
+        "name": "Matt Schulze",
+        "character": "Crease",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wFOVJr3dxEs5kC2rtS5iV3XbU0C.jpg"
+      },
+      {
+        "name": "Lennox Brown",
+        "character": "Pleading Goon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pq9OoYnLvCjrxGkA59jJTpOscoK.jpg"
+      },
+      {
+        "name": "Yvette Ocampo",
+        "character": "Party Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Irena Stepić",
+        "character": "Slavic Vampire Lord",
+        "profile_path": "https://image.tmdb.org/t/p/w185/acN2okse9a9VjeZxOhBhPKVqHZ2.jpg"
+      },
+      {
+        "name": "Jenya Lano",
+        "character": "Russian Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2qCIPFxrsmExvIw2q1WWi3Z19oV.jpg"
+      },
+      {
+        "name": "Levan Uchaneishvili",
+        "character": "Russian Vampire",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oafFCVXZK6vb7DRzcIr6R5MXcH1.jpg"
+      },
+      {
+        "name": "Richard 'Dr.' Baily",
+        "character": "Cardboard cut-out in Subway (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nikki DiSanto",
+        "character": "Vampire Victim (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryan Glorioso",
+        "character": "Blood Bath Vampire (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fN6kv8UjkWmKdICim0Un3sTXFqV.jpg"
+      },
+      {
+        "name": "Jeff Imada",
+        "character": "Henchman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sUNSaNQreSHYaJvKr0SfiBqMPDV.jpg"
+      },
+      {
+        "name": "Elliott James",
+        "character": "Blood Club (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen Norrington",
+        "character": "Vampire (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yz6mmhcGoglQEILf5uUCK636NH8.jpg"
+      },
+      {
+        "name": "Gerald Okamura",
+        "character": "Vampire (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aGR5B50q5eqfXF45Aun8lo6pVF7.jpg"
+      },
+      {
+        "name": "Frankie Ray",
+        "character": "Vampire Lord (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/enyfzIqyREAYFl1w94aHNLt8D33.jpg"
+      },
+      {
+        "name": "Carrie Seeley",
+        "character": "Woman in Elevator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Beth Theriac",
+        "character": "Woman in Elevator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ted King",
+        "character": "Vampire at rave (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6bQ6IGT8lPzDM8Pr7kQ1VfeXREO.jpg"
+      },
+      {
+        "name": "Steven Ho",
+        "character": "Frost's Goon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/knCr9YBFbNT0Qhu68Jz74G9tHon.jpg"
+      },
+      {
+        "name": "Will Leong",
+        "character": "Henchman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wmelZMEQL8b513WXfdkt9DeFyMo.jpg"
+      },
+      {
+        "name": "Al Goto",
+        "character": "Henchman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sJEtjLwLdqhY3soar4BflPBDpZu.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Stephen Norrington",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yz6mmhcGoglQEILf5uUCK636NH8.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "martial arts",
+    "hero",
+    "vampire",
+    "superhero",
+    "supernatural",
+    "based on comic",
+    "rivalry",
+    "vampire hunter (slayer)",
+    "sword fight",
+    "revenge",
+    "tragic hero",
+    "one man army",
+    "martial arts master",
+    "scientist",
+    "super power",
+    "blade",
+    "secret headquarters",
+    "escapade",
+    "deadly",
+    "master warrior",
+    "urban gothic",
+    "good versus evil"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires.",
+    "In a world where vampires walk the earth, Blade has a goal. His goal is to rid the world of all vampire evil. When Blade witnesses a vampire bite Dr. Karen Jenson, he fights away the beast and takes Jenson back to his hideout. Here, alongside Abraham Whistler, Blade attempts to help heal Jenson. The vampire Quinn who was attacked by Blade, reports back to his master Deacon Frost, who is planning a huge surprise for the human population.—Film_Fan",
+    "Imbued with the cursed gift of immortality, the invincible half-human/half-vampire hybrid, Blade, embarks on an endless mission to rid humankind of the blood-suckers that infest the Earth. Suppressing his feral thirst for human blood, the preternatural \"Day-walker\" crosses paths with the megalomaniac vampire, Deacon Frost, whose ambitious plans threaten to end the world as we know it. Now, Blade and his loyal mentor, Whistler, seem to have met their match. Can they put an end to Deacon's nightmarish scheme?—Nick Riganas",
+    "A hybrid vampire known as Blade sweeps the vampire underworld in vampire nightclubs and in the dark streets of New York City because of his hate of vampires that killed his mother in birth with the help of his weapons manufacturer Abraham Whistler. When Blade meets a Hematologist that was bitten by one of his sworn enemies he brings her to his lair and she meets his friend that gave her an antibiotic that reduces the vampire blood spread in her body he frees her but soon realizes she's not safe and discovers she could help him by creating a cure that could heal his blood thirst diseases they go on a mission to stop the neurotic bloodthirsty Deacon Frost, a turned vampire, from summoning the evil spirit of La Magra a Blood King that will sweep New York and eventually the world with it's army of vampire spirits.",
+    "When Blade's mother was bitten by a vampire during pregnancy, she did not know that she gave her son a special gift while dying: All the good vampire attributes in combination with the best human skills. Blade grew up to be a vampire hunter for revenge on his mother's death. The vampires, who managed to infiltrate nearly every major organization, need Blade's very special blood to summon La Magra, the blood god, in order to reign over the human cattle, as they call us.—Julian Reischl <julianreischl@mac.com>"
+  ],
+  "synopsis": "In 1967, a pregnant woman is rushed into a hospital in labor where a C-section is performed on her to save her baby. She dies, but her child lives.\nThree decades later, a seductive woman (Traci Lords), leads a young man to a rave club. At first, he has fun, but he notices other people staring at him. He casually bumps into the club owner, later revealed to be Deacon Frost (Stephen Dorff), a young upstart in the vampire community.The music peaks when blood is sprayed out from the sprinklers above, and most of the people reveal themselves as vampires. In the middle of the carnage, the armor-clad vampire-hunter Eric \"Blade\" Brooks (Wesley Snipes) arrives and kills a number of vampires in the club, leaving Frost's right-hand man Quinn (Donal Logue) alive and horribly burned as the police arrive on the scene.While Quinn's body is being examined in the hospital, he awakens and kills the examiner by biting his neck. Blade tracks Quinn down to a hospital, but he is able to bite a resident hematologist, Dr. Karen Jenson (N'Bushe Wright), before escaping once again after Blade severs his arm. In an act of mercy, Blade brings the injured Karen back to his lair and introduces her to Abraham Whistler (Kris Kristofferson), his mentor and weapon-smith. Whistler gives Karen garlic essence to fight the conversion to Vampirism. Karen resolves to study Vampirism and find an antidote before she becomes a vampire herself. In working to find a stable, viable cure, she soon discovers that the anticoagulant EDTA reacts explosively with the vampire infection.Meanwhile, Frost clashes with his vampire elders of the House of Erebus. He believes that vampires should rise from the shadows and enslave humanity while the elders believe in the subversive rule of (both human and vampire) society through their influence with police, politics, finance and real estate. Moreover, because he was not born a vampire as they were, Frost is shunned for his radical views and reckless activities. Frost studies ancient vampire lore and comes to believe that he can awaken La Magra, the Blood God, to gain absolute power. Together with his minions, Frost kidnaps and mutilates the chief vampire of the region, then kills him by exposing him to the sun. He imprisons the other vampire elders.Blade combats Frost's various minions in an effort to uncover his ultimate plan. After another encounter with Quinn and Frost's lover Mercury, Whistler explains to a suspicious Karen that Blade's mother, Vanessa, was attacked while pregnant and that Blade is a half-vampire hybrid with all their superhuman strengths but none of their weaknesses except the blood thirst. After witnessing Whistler give Blade a serum to counter the thirst, Karen successfully develops an antidote to cure herself of Vampirism. While Blade is out on an errand, Frost and his crew manage to invade Blade's lair, kidnap Karen and mortally wound Whistler.Blade gives the infected and horribly beaten Whistler a gun to commit suicide, then arms himself with a number of weapons and a large supply of EDTA. He storms Frost's penthouse, overrunning the bodyguards, and soon discovers Vanessa (Sanaa Lathan)-his own mother, whom he believed long dead-in Frost's bed. She reveals that Frost was the vampire that bit her while she was pregnant with Blade and caused him to become the Daywalker. More guards arrive and attack Blade as Frost intimates a long since sexual relationship with Vanessa and proclaims himself as creator of their \"family\". Thunderstruck, Blade is defeated and taken (with Karen) to the Temple of Eternal Night for Frost's blood ritual sacrifice.The temple antechamber drains Blade's blood and filters it through the ancient channels of the temple. Karen escapes the pit where Frost had put her and feeds Blade her blood, thereby restoring his strength. Frost sacrifices the elder vampires in a mystic ritual and painfully gains the power of La Magra. However, the unintended result was not the awakening of the blood God, but the culmination of the dead elders' souls that fought absorption as the energies consume Frost's body. Vanessa attacks Blade forcing him to kill her.In the melee, Karen secures a shotgun from a guard, shoots him dead and kills Mercury with concentrated garlic spray. Blade furiously cuts through Quinn and Frost's minions before engaging Frost. Frost's new powers make him immune to Blade's conventional weapons, so Blade injects him multiple times with EDTA, causing Frost to explode. As the pair leave the temple, Karen offers to cure Blade, but he chooses to forgo the cure in order to continue hunting vampires and asks her to develop a better serum.\nAn epilogue finds Blade observing a vampire attacking his date in Russia, indicating that Blade's new campaign has spread into Europe.",
+  "imdb_score": 7.1
+}

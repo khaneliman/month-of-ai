@@ -1,0 +1,303 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/xYA4iSU2mKoDu72CzOjcfKwHC7Y.jpg",
+  "id": 198277,
+  "title": "Begin Again",
+  "poster_path": "https://image.tmdb.org/t/p/w500/qx4HXHXt528hS4rwePZbZo20xqZ.jpg",
+  "release_date": "2013-09-07",
+  "vote_average": 7.244,
+  "vote_count": 3619,
+  "popularity": 20.297,
+  "overview": "Gretta, a budding songwriter, finds herself alone after her boyfriend Dave ditches her. Her life gains purpose when Dan, a record label executive, notices her talent.",
+  "imdb_id": "tt1980929",
+  "budget": 8000000,
+  "homepage": "",
+  "revenue": 63500000,
+  "runtime": 104,
+  "tagline": "You're only as strong as your next move.",
+  "genres": [
+    "Comedy",
+    "Music",
+    "Romance",
+    "Drama"
+  ],
+  "production_companies": [
+    "Likely Story",
+    "Exclusive Media",
+    "Sycamore Pictures",
+    "Apatow Productions",
+    "Black Label Media"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Mark Ruffalo",
+        "character": "Dan Mulligan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+      },
+      {
+        "name": "Keira Knightley",
+        "character": "Gretta James",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bRC1B2VwV0wK3ElciFAK6QZf2wD.jpg"
+      },
+      {
+        "name": "Adam Levine",
+        "character": "Dave Kohl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ucSpYIUJ0gKkHlPhQrHEs2HdFxZ.jpg"
+      },
+      {
+        "name": "Hailee Steinfeld",
+        "character": "Violet Mulligan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6aBclBl8GMcxbxr6XcwSGg3IBea.jpg"
+      },
+      {
+        "name": "Catherine Keener",
+        "character": "Miriam Hart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+      },
+      {
+        "name": "James Corden",
+        "character": "Steve",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xGB0gfZ48M27gQjjL7inJIh1Pqj.jpg"
+      },
+      {
+        "name": "Yasiin Bey",
+        "character": "Saul",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xP37YR6B53nY3MnzInxIhabIBjJ.jpg"
+      },
+      {
+        "name": "Aya Cash",
+        "character": "Jenny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kanvrW5ZdAS2MFmS0Pj9pSdR7p9.jpg"
+      },
+      {
+        "name": "Maddie Corman",
+        "character": "Phillis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Qa8GAf7CARtHeLXPX4GdR5ZFhm.jpg"
+      },
+      {
+        "name": "Karen Pittman",
+        "character": "Business Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8W9WXyloWrBmOUURLvEWYR8WrMy.jpg"
+      },
+      {
+        "name": "Paul Romero",
+        "character": "Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pd2sHCgXhBKj4A1E208KJV9S9FJ.jpg"
+      },
+      {
+        "name": "Andrew Sellon",
+        "character": "Christian Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k6YjOi9a9Vi4HLvHGVzknJjZh1t.jpg"
+      },
+      {
+        "name": "Ed Renninger",
+        "character": "Barman",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Burton",
+        "character": "Singer Songwriter 2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kXdpnsXyAqVJGoqQ2FrJP1ACnf2.jpg"
+      },
+      {
+        "name": "Marco Assante",
+        "character": "Marco",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jQbHkLmflPAxQxqEVfvxMvMicGz.jpg"
+      },
+      {
+        "name": "Mary Catherine Garrison",
+        "character": "Jill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3yovBlhR6lv8ODWWdnxGxM0uecS.jpg"
+      },
+      {
+        "name": "Jen Jacob",
+        "character": "Dave Fangirl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l69OpmoV621ftD0Ys27NBrZXhtw.jpg"
+      },
+      {
+        "name": "Rob Morrow",
+        "character": "CEO",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nxF4xVyEtQLMxDXlhJHnCoKM4MI.jpg"
+      },
+      {
+        "name": "Jennifer Li Jackson",
+        "character": "Mim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l0LgDfGVPzWqkf6MeDtClvYj94G.jpg"
+      },
+      {
+        "name": "Ian Brodsky",
+        "character": "Malcolm",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uxf9YHKY3xUuAzstz2akKnRMqOV.jpg"
+      },
+      {
+        "name": "Shannon Walsh",
+        "character": "Rachel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/17EARv5oZyKbo9i2hostrOSeyZK.jpg"
+      },
+      {
+        "name": "David Abeles",
+        "character": "Glen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b3ntWecVuvuG2fas1XQ3kE1OlcD.jpg"
+      },
+      {
+        "name": "Ann McGowan",
+        "character": "Ballet Teacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Ron Voz",
+        "character": "Butler",
+        "profile_path": ""
+      },
+      {
+        "name": "Cee Lo Green",
+        "character": "Troublegum",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5ixrYpXoaHliLNDjak00kbhnmkl.jpg"
+      },
+      {
+        "name": "Kena Onyenjekwe",
+        "character": "Troublegum Posse 1 - Rappa DD",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ivjDscQB9qDgHlHwi2SQtJXaNvC.jpg"
+      },
+      {
+        "name": "Harvey Morris",
+        "character": "Troublegum Posse 2 - Phat Jimmy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/polVhM1iMiY6FUKPu4kfB21FUQA.jpg"
+      },
+      {
+        "name": "Terry Lewis",
+        "character": "Troublegum Crew Member - Benson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hv5HKnmdbr96a5vMg1E7JMxb5E4.jpg"
+      },
+      {
+        "name": "Colin Love",
+        "character": "Singing Basketball Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Jimmy Palumbo",
+        "character": "Guy Shouting from Window",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q6jxzlfYZIe77h7O1p4dWypeBaH.jpg"
+      },
+      {
+        "name": "Simon Delaney",
+        "character": "Lawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wTJLpgacE6uULa8iH9S2Rqu322H.jpg"
+      },
+      {
+        "name": "Danielle Brisebois",
+        "character": "Singer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/plAB3zzm0uXtZ3ljmhSUccphJUe.jpg"
+      },
+      {
+        "name": "Keen Ruffalo",
+        "character": "Keen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mxFudk70A7lnedhBMvYzL2OQXGO.jpg"
+      },
+      {
+        "name": "Melissa Maria Gonzalez",
+        "character": "Chris",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicholas Daniel Gonzalez",
+        "character": "Zach",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d5ThVmyKo7z1WUvCXsE6QKm9mWb.jpg"
+      },
+      {
+        "name": "David Pendleton",
+        "character": "Homeless Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nMldi2SfaEjf3xAq1xkJqQWJ6oX.jpg"
+      },
+      {
+        "name": "Madison Love",
+        "character": "Singer Songwriter 1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yh6gQp14vZO9aJopEzlUPMRVLQe.jpg"
+      },
+      {
+        "name": "Joanna Mauer",
+        "character": "On Camera Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Erik Detusch",
+        "character": "On Camera Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Rich Mercurio",
+        "character": "On Camera Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Emilie Cardinaux",
+        "character": "On Camera Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Curtis Fowlkes",
+        "character": "On Camera Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Emily Yarbourgh",
+        "character": "On Camera Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Erin Benin",
+        "character": "On Camera Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexis Sykes",
+        "character": "On Camera Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Julia Bruskin",
+        "character": "On Camera Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Stacey Maltin",
+        "character": "Young Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/myprWdbAFjcPV76sHBOIb3lkR6Z.jpg"
+      },
+      {
+        "name": "Sama Fernands",
+        "character": "Concert Attendee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6sQwIxC7UpXboKIftAuQea0HcBy.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "John Carney",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a85YTkbKqmF0ht2gr5XF652eQIe.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "music recording",
+    "singer-songwriter",
+    "street musician",
+    "city life",
+    "recording session",
+    "street singer"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A chance encounter between a down-and-out music business executive, and a young singer songwriter new to Manhattan, turns into a promising collaboration between the two talents.",
+    "Gretta (Keira Knightley) and her long-time boyfriend Dave (Adam Levine) are college sweethearts and songwriting partners who decamp for New York when he lands a deal with a major label. But the trappings of his new-found fame soon tempt Dave to stray, and a reeling, lovelorn Gretta is left on her own. Her world takes a turn for the better when Dan (Mark Ruffalo), a disgraced record-label exec, stumbles upon her performing on an East Village stage and is immediately captivated by her raw talent. From this chance encounter emerges an enchanting portrait of a mutually transformative collaboration, set to the soundtrack of a summer in New York City.—The Weinstein Company",
+    "In New York City, Gretta James and Dan Mulligan meet by chance at the end of arguably one of the worst days in both their lives. Native Brit Gretta, primarily a songwriter who sings on the side, only came to New York to support her musical collaborator and boyfriend Dave Kohl, who is on the brink of pop music stardom as one of the songs he wrote and performed was featured on a movie soundtrack, he getting a record deal in the process. They broke up earlier in the day on Gretta discovering that he has been having an affair with one of the executives at the record label. Middle-aged Dan has long been divorced from Miriam, his wife of eighteen years, they now barely on speaking terms. He has just had another strained encounter with their fourteen year old daughter, Violet, in whose life he has largely been absent since the split in his destructive behavior, which includes self-medicating with alcohol to cope. Not having signed anyone in seven years, he is fired by his partner Saul from the independent record label, Distressed Records, that he founded. All these items in combination, including having no money, result in Dan being on the brink of suicide. Gretta and Dan meet when he hears her sing at a bar, her friend, Steve, the bar act that evening, who was able to convince reluctant her to sing a song she wrote. While no one else in the bar seemed really to pay attention to her performance, Dan could visualize the potential in her and the song in a produced setting. Eventually being up front with her that he has no money and is no longer officially with Distressed, he is still able to convince her to take a chance on him and herself in a musical collaboration. Without the resources, they will have to get others to buy into their vision, it ending up being an ode to New York City of sorts. Regardless of what happens on the musical side of the collaboration, Gretta and Dan may provide that much needed external point of view for the other to get their respective lives back on track in a comprehensive manner.—Huggo",
+    "Songwriting duo, Gretta, and her long-time musician boyfriend, Dave, had been dating since college when they decided to seek their fortune in bustling New York City. However, when Dave is signed by a major record label, temptation proves too powerful for him to resist, and the couple calls it quits. Crestfallen, Gretta fights to get back on her feet until one night, while performing in the East Village, she catches the eye of Dan, a famous and once-respected music executive who has since fallen on hard times. Enchanted by Gretta's powerful voice and skilful songwriting, Dan, who hasn't produced anything in the last seven years and has lost everything, convinces her to join him in a collaboration that will transform them both over the course of one unforgettable summer. What will it take to begin again, and revive a career?—Nick Riganas"
+  ],
+  "synopsis": "Dan Mulligan (Mark Ruffalo) is a formerly successful record label executive living in New York City who is estranged from his wife Miriam (Catherine Keener) and struggling to keep up with the changing music industry. After being fired from his job, he goes on a drinking binge which leads him to a bar in the Lower East Side where he encounters Gretta James (Keira Knightley). Gretta is a young and fiercely independent songwriter who has just broken up with her long-time boyfriend and songwriting partner Dave Kohl (Adam Levine), a newly successful musician who had an affair with one of his producers' assistants on a official trip to LA. Captivated by Gretta's music, Dan offers her to sign her to his former record label, and although she initially refuses she reconsiders the offer and agrees.Dan and Gretta meet with Saul, Dan's ex-business partner and co-founder of their record label, but he does not see the same potential in Gretta and turns her away. Undeterred, Dan proposes that he and Gretta produce their own album together, to be recorded live during the summer at various public locations around New York City. Recruiting a team of talented musicians, including Steve (a busker and an old best friend of Gretta's), Dan sets out to make an album worthy of being published by his label. During this time, Dan and Gretta bond both personally and professionally, and Gretta takes Dan's teenage daughter Violet (Hailee Steinfeld), a fledgling guitarist, under her wing and encourages her to play on the album.When Gretta sees Dave accepting an award on television, she criticizes him for selling out to the music industry and, with the help of Steve (James Corden) (Gretta's best friend), she expresses her grievances with him in a song which she records on his voice mail. A remorseful Dave, who is back in New York to promote his new album, returns her call and asks to see her. After some consideration, she decides to meet with him, and they critique each other's albums. Gretta feels betrayed by Dave's heavily commercialized rendition of \"Lost Stars,\" a love ballad she had once written and composed for him as a Christmas present, believing that the true meaning of the song has been lost. Dave tells her that the audiences love when he plays it in the new way, and that their energy fills the room. He believes that music is about sharing it with people, but Gretta tells him that's not what she intended for that song. Nevertheless, Dave invites her to come and hear him play the song at the Gramercy Theatre that weekend so that she can see the impact it has had on his fans.When the album is finished, Dan and Gretta meet again with Saul, who is very impressed with their collaboration. Gretta demands that Saul give Dan his job back and give her a bigger share in the deal. They leave without reaching an agreement, but Dan feels confident that Saul will eventually sign Gretta to the label. Later, after receiving a text message from Dave reminding her of his concert and much consideration, Gretta arrives at the venue just in time to watch Dave play her original arrangement of the song, but as she watches him play and sees the reaction of the crowd to the song and how Dave responds to the fans' adoration by slipping into singing the commercialized arrangement of the song, she realizes that he is a lost cause. Gretta then leaves the concert and cycles through the city with newfound closure and a dawning smile on her face.Afterwards, Gretta visits Dan at his apartment as he prepares to move back home, having made amends with his wife. She tells him that she does not want him to release her album, instead preferring to distribute it online for $1. Although Dan returns to work with Saul, he agrees to let Gretta release the album online and helps her to promote the release. The next day, Saul jokingly fires Dan for promoting Gretta's album and informs him that it sold 10,000 copies in its first day of release, proving that Dan still has a knack for what audiences want.",
+  "imdb_score": 7.4
+}

@@ -1,0 +1,520 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/pMBKzEotLUzk3NuQiyVjZEDlH70.jpg",
+  "id": 69,
+  "title": "Walk the Line",
+  "poster_path": "https://image.tmdb.org/t/p/w500/p8lPTjvjOjTfvC1E9pmMwcF9vkn.jpg",
+  "release_date": "2005-09-13",
+  "vote_average": 7.496,
+  "vote_count": 2693,
+  "popularity": 19.042,
+  "overview": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis and Carl Perkins.",
+  "imdb_id": "tt0358273",
+  "budget": 28000000,
+  "homepage": "",
+  "revenue": 186800000,
+  "runtime": 136,
+  "tagline": "Love is a burning thing.",
+  "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "production_companies": [
+    "Mars Media Beteiligungs",
+    "Tree Line Films",
+    "Konrad Pictures",
+    "Catfish Productions",
+    "Fox 2000 Pictures"
+  ],
+  "production_countries": [
+    "DE",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Joaquin Phoenix",
+        "character": "John R. Cash",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ls72wfQl8AhRVFeBnotmnAdy3JR.jpg"
+      },
+      {
+        "name": "Reese Witherspoon",
+        "character": "June Carter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7kczey006fMUuKiAu1ZENw864T4.jpg"
+      },
+      {
+        "name": "Ginnifer Goodwin",
+        "character": "Vivian Cash",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xOCA2WN5MRfXmJmlzEbFEhIbfIQ.jpg"
+      },
+      {
+        "name": "Robert Patrick",
+        "character": "Ray Cash",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qRv2Es9rZoloullTbzss3I5j1Mp.jpg"
+      },
+      {
+        "name": "Dallas Roberts",
+        "character": "Sam Phillips",
+        "profile_path": "https://image.tmdb.org/t/p/w185/irqfTXfK1rWeF6SNLzB37b6yxAN.jpg"
+      },
+      {
+        "name": "Dan John Miller",
+        "character": "Luther Perkins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8hMyA2do8GLluDpulLFt1NESgHV.jpg"
+      },
+      {
+        "name": "Larry Bagby",
+        "character": "Marshall Grant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/43N0fBlRV7NFnggRsIQ1s7McFMO.jpg"
+      },
+      {
+        "name": "Shelby Lynne",
+        "character": "Carrie Cash",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h4D4dmMthw3MNtCPpBnU2iQhQqU.jpg"
+      },
+      {
+        "name": "Tyler Hilton",
+        "character": "Elvis Presley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yfk5SWEmbdhmk1rC4vEujczAoB0.jpg"
+      },
+      {
+        "name": "Waylon Payne",
+        "character": "Jerry Lee Lewis",
+        "profile_path": ""
+      },
+      {
+        "name": "Shooter Jennings",
+        "character": "Waylon Jennings",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tAhCFZbrJapI79sRBZeVZ7dQkmL.jpg"
+      },
+      {
+        "name": "Sandra Ellis Lafferty",
+        "character": "Maybelle Carter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tlkmEzWjwaw6i8rBPE71yVJzhw9.jpg"
+      },
+      {
+        "name": "Dan Beene",
+        "character": "Ezra Carter",
+        "profile_path": ""
+      },
+      {
+        "name": "Clay Steakley",
+        "character": "W.S. \"Fluke\" Holland",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kCWFsEgcLO8DB9tppXMnjKENuo0.jpg"
+      },
+      {
+        "name": "Johnathan Rice",
+        "character": "Roy Orbison",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qjoyRzAGmFHbyrtL3MBCz9B2ETM.jpg"
+      },
+      {
+        "name": "Johnny Holiday",
+        "character": "Carl Perkins",
+        "profile_path": ""
+      },
+      {
+        "name": "Ridge Canipe",
+        "character": "Young J.R.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eOpFhGY0u7nePv7BFTaHiSg2nEu.jpg"
+      },
+      {
+        "name": "Lucas Till",
+        "character": "Young Jack Cash",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5m8xgsOgT3FgCBo2AsMn7dewe57.jpg"
+      },
+      {
+        "name": "Carly Nahon",
+        "character": "Young Reba Cash",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4sQxdGmJD05wDn7KovMUlZgRH4K.jpg"
+      },
+      {
+        "name": "McGhee Monteith",
+        "character": "Reba Cash",
+        "profile_path": ""
+      },
+      {
+        "name": "Wyatt Entrekin",
+        "character": "Tommy Cash (5)",
+        "profile_path": ""
+      },
+      {
+        "name": "Hailey Anne Nelson",
+        "character": "Roseanne Cash",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4YoyDcZkY4gjejZasFTd5HJ2on5.jpg"
+      },
+      {
+        "name": "Kerris Dorsey",
+        "character": "Kathy Cash",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xCp5jjjzh25iBrXtVV0rzolZGR5.jpg"
+      },
+      {
+        "name": "Delaney Keefe",
+        "character": "Cindy Cash",
+        "profile_path": ""
+      },
+      {
+        "name": "Victoria Hester",
+        "character": "Carlene Carter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3WQ4sas324GQx56DAwSkoZ0VwgJ.jpg"
+      },
+      {
+        "name": "Deborah Rawlings",
+        "character": "Diner Waitress",
+        "profile_path": ""
+      },
+      {
+        "name": "James DeForest Parker",
+        "character": "Inmate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t2p6hIKcZXvl4O2LlLNROrUhThg.jpg"
+      },
+      {
+        "name": "James Keach",
+        "character": "Warden",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fvy4gGSHcKnbRlgL07XfiI7udXk.jpg"
+      },
+      {
+        "name": "Davielle Boyce",
+        "character": "Maid at Door",
+        "profile_path": ""
+      },
+      {
+        "name": "Glenn Alan Gardner",
+        "character": "Texarkana Stage Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Vinson",
+        "character": "Texarkana MC",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m4NZhoQkOkcAXCgaok5hSqqSpzb.jpg"
+      },
+      {
+        "name": "Dave McPhail",
+        "character": "Armory MC",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob King",
+        "character": "Armory Stage Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zWHYTJ880TFNATNVL4tfB5OWpvz.jpg"
+      },
+      {
+        "name": "Natalie Canerday",
+        "character": "Lady in the Aisle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o1oaQCQknPps42QNsnFs9E0Jjrm.jpg"
+      },
+      {
+        "name": "Rhoda Griffis",
+        "character": "Five and Dime Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jO50PgihnZ0gAlJDulpzxMoLgRB.jpg"
+      },
+      {
+        "name": "Jeff Bailey",
+        "character": "El Paso Taxi Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Ross Harkins",
+        "character": "Record Executive",
+        "profile_path": ""
+      },
+      {
+        "name": "J.D. Evermore",
+        "character": "F.B.I. Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bTLrDTIj9DNnYP8afZXPTo31CJA.jpg"
+      },
+      {
+        "name": "Helen Ingebritsen",
+        "character": "Bank Teller",
+        "profile_path": ""
+      },
+      {
+        "name": "J.W. Williams",
+        "character": "Pill Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5OnkUe10cbrRHVgDbgsJpq7Iph1.jpg"
+      },
+      {
+        "name": "Shane Bowen",
+        "character": "JR's Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Ware",
+        "character": "A & R Man #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sZope09mLYOPaRT32DYIPxNH6Q1.jpg"
+      },
+      {
+        "name": "Dolan Wilson",
+        "character": "A & R Man #2",
+        "profile_path": ""
+      },
+      {
+        "name": "J. Allen Scott",
+        "character": "Dyess Doctor",
+        "profile_path": ""
+      },
+      {
+        "name": "Clare Grant",
+        "character": "Lissome Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uCPsHBUYuDAdOyTpDYDften00El.jpg"
+      },
+      {
+        "name": "Michael Ingersoll",
+        "character": "Donzil",
+        "profile_path": ""
+      },
+      {
+        "name": "Carter Thrower",
+        "character": "Sheriff",
+        "profile_path": ""
+      },
+      {
+        "name": "J.P. McNeely",
+        "character": "Musician",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Deas",
+        "character": "NCO",
+        "profile_path": ""
+      },
+      {
+        "name": "Glenda Pannell",
+        "character": "Neighbor Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Amy Lavere",
+        "character": "Wanda",
+        "profile_path": ""
+      },
+      {
+        "name": "Tracee Mae Miller",
+        "character": "Birdie Perkins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tuyBbv4RTn8ITvlUtbSfsKT0K1y.jpg"
+      },
+      {
+        "name": "Ken Axmaker Jr.",
+        "character": "Record Company Executive / Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bryce Blackman",
+        "character": "Prisoner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Garnet Brooks",
+        "character": "Prisoner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "David Caffey",
+        "character": "Record Company Executive (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Carter Cash",
+        "character": "Bob Neal (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kdNJbbppGmd0IS1nJLGZFZC2k9c.jpg"
+      },
+      {
+        "name": "Mark Alan Compton",
+        "character": "Man (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Crider",
+        "character": "Prisoner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Crowe",
+        "character": "Service Station Guy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Josh Driver",
+        "character": "Cash's Stagehand (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff Evans",
+        "character": "Folsom Prison Assistant Warden (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Geoff Falk",
+        "character": "Folsom Prison Assistant Warden (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3pnoinYHor6FIFbkoFMho1U3N6f.jpg"
+      },
+      {
+        "name": "Jan Falk",
+        "character": "Lady at the Five & Dime (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/srTV9nUoPheo5TTvzFkagSGGNTR.jpg"
+      },
+      {
+        "name": "Marc Farley",
+        "character": "Ferlin (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ybk9ymGDogzoPPfSgHrejtTXXmR.jpg"
+      },
+      {
+        "name": "Evelyn Diana Frogge-Chabot",
+        "character": "Audience Member / Fan (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gavin Lindsay Goode",
+        "character": "Prison Guard Sniper (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Cody Hanford",
+        "character": "Tommy Cash (age 9) (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "L. Michele Hester",
+        "character": "Columbia Records Secretary (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kimberly Hill",
+        "character": "Concertgoer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Lewin",
+        "character": "Band Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Katie Lindsey",
+        "character": "Rosey Nix (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mathew Luschek",
+        "character": "Businessman in Bathroom (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Donald Meyers",
+        "character": "Record Company Executive (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Montgomery",
+        "character": "Man in Aisle (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Zach Navarro",
+        "character": "Folsom Prison Prisoner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rich Parham",
+        "character": "Salesman / Prisoner (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Plumlee",
+        "character": "Stagehand (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Scroggs",
+        "character": "Press Photographer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Laura Lynn Seguin",
+        "character": "Screaming Fan (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brit Shaw",
+        "character": "Etta Grant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bfxu8bpzXc273Uamnviada7rh3y.jpg"
+      },
+      {
+        "name": "Melissa Goodwin Shepherd",
+        "character": "Flight Attendant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/171ZApY6MmMBvn50vxaSDheulVH.jpg"
+      },
+      {
+        "name": "Ben Taylor",
+        "character": "Jack the Drunk (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Hoyt Taylor",
+        "character": "Passionate Preacher (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eB1Gs6qz3TJ0gGDIowyBx3EMJbj.jpg"
+      },
+      {
+        "name": "Danny Thomas",
+        "character": "Prison Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sheila Thomas",
+        "character": "Girl in Crowd (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave Thompson",
+        "character": "Derwent (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i1kCnTAxogH1HyKdsSiIji8SnYG.jpg"
+      },
+      {
+        "name": "Jim Wright",
+        "character": "Military Supervisor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "R. Elkins Wright",
+        "character": "John's Friend Randy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Laurie Johnson",
+        "character": "Church Lady (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "James Mangold",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pk0GDjn99crNwR4qgCCEokDYd71.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "prison",
+    "adultery",
+    "concert",
+    "music record",
+    "country music",
+    "guitar",
+    "germany",
+    "loss of loved one",
+    "marriage",
+    "single",
+    "accident",
+    "1960s",
+    "biographical"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis, and Carl Perkins.",
+    "While growing up in the Great Depression era, Johnny Cash takes an interest in music and eventually moves out of his Arkansas town to join the air force in Germany. While there, he buys his first guitar and writes his own music, and proposes to Vivian. When they got married, they settled in Tennessee and with a daughter, he supported the family by being a salesman. He discovers a man who can pursue his dreams and ends up getting a record with the boys. Shortly after that, he was on a short tour, promoting his songs, and meets the already famous and beautiful June Carter. Then as they get on the long-term tours with June, the boys, and Jerry Lee Lewis, they have this unspoken relationship that grows. But when June leaves the tour because of his behavior, he was a drug addict. His marriage was also falling apart, and when he sees June years later at an awards show, he forces June to tour with them again, promising June to support her two kids and herself. While the tour goes on, the relationship between June and John grow more,and his marriage to his first wife ends. June finds out about the drugs, and help him overcome it. True love and care helped John eventually stop the drug usage, and finally proposes to her in front of an audience at a show.—kayleigh",
+    "The story of Johnny Cash, music legend. From his time growing up on a small farm in Arkansas, to his time in the US Air Force where his musical talented first started to manifest itself, to the early days of his career, through the trials and tribulations of being a star and beyond. We also see his relationships, particularly with his older brother Jack, his father, his first wife Vivian, and, most importantly, with June Carter.—grantss",
+    "Having found solace in music and songwriting after the shocking 1944 accident and the impact of childhood trauma, Johnny Cash writes his first song while serving in the U.S. Air Force in Germany. After getting a regular job and marrying his first wife, Vivian Liberto, Cash moves to Memphis, Tennessee, where he starts a gospel band, The Tennessee Two, and auditions for Sun Records founder Sam Phillips. While on tour with Elvis Presley, Jerry Lee Lewis, and Carl Perkins, Johnny Cash meets the love of his life, June Carter Cash. But touring takes a toll on Johnny's marriage and health. As their relationship gets a second chance, Cash performs at Folsom State Prison and records his first live album, Johnny Cash at Folsom Prison. During a live performance at the London Ice House in Ontario in 1968, Cash proposed to Carter while singing the country hit single, Jackson. The couple remained married for 35 years until June's death in May 2003. Four months later, Cash followed.—Nick Riganas",
+    "Johnny Cash grew up in Arkansas, and served in the Air Force in Germany, where he bought a guitar. He returned from the war and married. Singing and playing with two other men, he cut a record in Memphis. His reputation growing from airplay and live performances, Cash became a star, touring with the likes of Jerry Lee Lewis and others. On tour, he suffered the effects of drug addiction. He also met June Carter, who would later become his wife. Responding in part to the fan mail he received from prisoners, Cash played a legendary concert for the inmates at Folsom Prison in California.—Ken Miller <wkmiller704@yahoo.com>"
+  ],
+  "synopsis": "In 1968, an audience of inmates at Folsom State Prison cheer for Johnny Cash's band as he waits backstage near a table saw, reminding him of his early life.In 1944, Johnny, then known as J.R., grows up the son of a share cropper on a cotton farm in Dyess, Arkansas, and is adept with hymnals, while his brother Jack is training himself to become a pastor. While Jack is sawing wood for a neighbor, J.R. goes fishing while he finishes. However, Jack injures himself with the saw, and dies of his injuries. Cash's strained relationship with his father Ray, becomes much more difficult after Jack's death. In 1950, J.R. (Joaquin Phoenix) enlists in the United States Air Force as Johnny Cash, and is posted in West Germany. One day in 1952, he finds solace in playing a guitar he bought and writing songs-one of which will become \"Folsom Prison Blues\". Cash is eventually discharged, and marries his girlfriend Vivian Liberto. The couple move to Memphis, Tennessee, where Cash works as a door-to-door salesman to support his growing family. He walks past a recording studio, which inspires him to organize a band to play gospel music. Cash's band auditions for Sam Phillips, the owner of Sun Records. Phillips interrupts the audition and asks Cash to play a song that he really \"feels\", prompting them to play \"Folsom Prison Blues\". The band is contracted by Sun Records.The band begins touring as Johnny Cash and the Tennessee Two. He meets many different artists on tour, including June Carter (Reese Witherspoon), with whom Cash soon falls in love. Cash begins spending more time with June, who divorces her first husband, Carl Smith. After an attempt by Cash to woo June backfires, he begins to take drugs and alcohol. After his behavior peaks during a performance with June, they go their separate ways. Over Vivian's objections, Johnny persuades June to come out of semi-retirement at an awards show and tour with him. The tour is a success, but backstage, Vivian is critical of June's influence.After one Las Vegas performance, Cash and June sleep together in her hotel room. The next morning, she notices Cash taking several pills and begins to doubt her choices. At that evening's concert, Cash, upset by June's apparent rejection, behaves erratically and eventually passes out. June disposes of Cash's drugs and begins to write \"Ring of Fire\", describing her feelings for Cash and her pain at watching him descend into addiction.On his way home, Cash travels to Mexico to purchase more drugs and is arrested. Cash's marriage to Vivian begins to crumble and after a final violent dispute, the pair eventually divorce and Cash moves to Nashville in 1966. In an attempt to reconcile with June, Cash buys a large house near a lake in Hendersonville. His parents, and the extended Carter family, arrive for Thanksgiving, at which time Ray dismisses his son's achievements and behavior. After eating, June's mother-aware of her daughter's true feelings toward Cash-encourages her to help him. After a long detoxification period, Cash wakes up with June by his side. June says she, and God, have given Cash a second chance. Although not formally a couple, the two begin to spend most of their time with each other.Cash discovers that most of his fan mail comes from prisoners, impressed with the outlaw image that Cash has cultivated. Cash visits his recording company he signed with in 1958, Columbia Records, and proposes that he record an album live inside Folsom Prison. Despite Columbia's doubts, Cash says that he will perform regardless and the label can use the tapes if they wish.\nAt the Folsom Prison concert, Cash tells how he always admired prisoners, explaining that his arrest for drug possession helped him to relate to them. The concert is a great success, and Cash embarks on a tour with June and his band.While on a tour bus, Cash goes to see June in the back of the bus. Waking up June, he proposes to her, but she turns him down. At the next concert, June tells him that he is only allowed to speak with her on stage. There, Cash persuades June to join him in a duet. In the middle of the song, Cash stops playing, explaining that he cannot sing anymore unless June agrees to marry him. June eventually accepts and they share a passionate embrace on stage. The two marry and eventually raise their kids together and spend time with their families.",
+  "imdb_score": 7.8
+}

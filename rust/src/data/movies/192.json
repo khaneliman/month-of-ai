@@ -1,0 +1,278 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/7iVYv40E35mWe6jdPKKqGbpzNCJ.jpg",
+  "id": 192,
+  "title": "The Name of the Rose",
+  "poster_path": "https://image.tmdb.org/t/p/w500/d6dlbTBb3N7nXDz7tQslDJs2jgv.jpg",
+  "release_date": "1986-09-24",
+  "vote_average": 7.473,
+  "vote_count": 2804,
+  "popularity": 20.229,
+  "overview": "14th-century Franciscan monk William of Baskerville and his young novice arrive at a conference to find that several monks have been murdered under mysterious circumstances. To solve the crimes, William must rise up against the Church's authority and fight the shadowy conspiracy of monastery monks using only his intelligence – which is considerable.",
+  "imdb_id": "tt0091605",
+  "budget": 18000000,
+  "homepage": "",
+  "revenue": 77200000,
+  "runtime": 130,
+  "tagline": "Who, in the name of God, is getting away with murder?",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Mystery"
+  ],
+  "production_companies": [
+    "Cristaldifilm",
+    "Les Films Ariane",
+    "ZDF",
+    "RAI",
+    "Constantin Film"
+  ],
+  "production_countries": [
+    "FR",
+    "DE",
+    "IT"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Sean Connery",
+        "character": "William of Baskerville",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hbB676mW62gjsh0f51ICYE11niG.jpg"
+      },
+      {
+        "name": "F. Murray Abraham",
+        "character": "Bernardo Gui",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg"
+      },
+      {
+        "name": "Christian Slater",
+        "character": "Adso of Melk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg"
+      },
+      {
+        "name": "Helmut Qualtinger",
+        "character": "Remigio da Varagine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mSa4MUwnNKjgzZbDEddnIaawT9C.jpg"
+      },
+      {
+        "name": "Elya Baskin",
+        "character": "Severinus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/30RVRgcJTZlJBKeSCZN2tg0ryvE.jpg"
+      },
+      {
+        "name": "Michael Lonsdale",
+        "character": "The Abbot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lQZktsBj1CFbIEIpXOZp55kCiB5.jpg"
+      },
+      {
+        "name": "Volker Prechtel",
+        "character": "Malachia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kBNe9UD2doAGhWeNWSdFTlFMM3r.jpg"
+      },
+      {
+        "name": "Feodor Chaliapin Jr.",
+        "character": "Jorge de Burgos",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5UGVHeLTHgKyO9SiJ4rrtpRWQHI.jpg"
+      },
+      {
+        "name": "William Hickey",
+        "character": "Ubertino da Casale",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oPPyHJKJceliMLk8S8ldjuDg6V5.jpg"
+      },
+      {
+        "name": "Michael Habeck",
+        "character": "Berengar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cQxIhgN5wkFjCfpx38YRzS1b7u4.jpg"
+      },
+      {
+        "name": "Urs Althaus",
+        "character": "Venantius",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ltce3DkRgjXpewU1Ia2KWjsn5KA.jpg"
+      },
+      {
+        "name": "Valentina Vargas",
+        "character": "The Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kS45i62uoGlnd9HmxTaA0DjiLk2.jpg"
+      },
+      {
+        "name": "Ron Perlman",
+        "character": "Salvatore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9riPBfsWpzEzh2y9ucxTW22iakI.jpg"
+      },
+      {
+        "name": "Leopoldo Trieste",
+        "character": "Michele da Cesena",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rviagoREwu8GhuDKzju8rNoYuo1.jpg"
+      },
+      {
+        "name": "Lars Bodin-Jorgensen",
+        "character": "Adelmo",
+        "profile_path": ""
+      },
+      {
+        "name": "Giordano Falzoni",
+        "character": "Papal Envoy",
+        "profile_path": ""
+      },
+      {
+        "name": "Franco Valobra",
+        "character": "Jerome of Kaffa",
+        "profile_path": ""
+      },
+      {
+        "name": "Vernon Dobtcheff",
+        "character": "Hugh of Newcastle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o3zjo0Q8BDJQFqHMIIaFbUnckBY.jpg"
+      },
+      {
+        "name": "Donald O'Brien",
+        "character": "Pietro d'Assisi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hiECbydvhObvJ9PSO5blWK6Fi1n.jpg"
+      },
+      {
+        "name": "Andrew Birkin",
+        "character": "Cuthbert of Winchester",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m9yHHGBSmuQczgSa4GEs0OGxZO7.jpg"
+      },
+      {
+        "name": "Lucien Bodard",
+        "character": "Cardinal Bertrand",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i7aKaek5ff3yJLeRC88VmuAuEqw.jpg"
+      },
+      {
+        "name": "Peter Berling",
+        "character": "Jean d'Anneaux",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oAlkmJ99mC8KfARMiaSDm4kn9nj.jpg"
+      },
+      {
+        "name": "Pete Lancaster",
+        "character": "Bishop of Alborea",
+        "profile_path": ""
+      },
+      {
+        "name": "Franco Adducci",
+        "character": "Monk",
+        "profile_path": ""
+      },
+      {
+        "name": "Niko Brücher",
+        "character": "Monk",
+        "profile_path": ""
+      },
+      {
+        "name": "Aristide Caporale",
+        "character": "Monk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vvEgu60JuczoBLHINJJzpdm0GU6.jpg"
+      },
+      {
+        "name": "Fabio Carfora",
+        "character": "Monk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ss3lCvfiJ3ssaQdt40rOd4PCoux.jpg"
+      },
+      {
+        "name": "Francesco Scali",
+        "character": "Monk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p9dNeXkmkrSIRKi6qetrqRVfZEy.jpg"
+      },
+      {
+        "name": "Peter Clös",
+        "character": "Monk",
+        "profile_path": ""
+      },
+      {
+        "name": "Mario Diano",
+        "character": "Monk",
+        "profile_path": ""
+      },
+      {
+        "name": "Franco Pistoni",
+        "character": "Monk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o5OgKSbY2dkWjW8WKzd9ZX0m84T.jpg"
+      },
+      {
+        "name": "Maria Tedeschi",
+        "character": "Monk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tF3oeho2TkUZJrbpaIjN0slxYO7.jpg"
+      },
+      {
+        "name": "Valerio Isidori",
+        "character": "Monk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5tH9tinbTGCVHrhIi9I38PLed3.jpg"
+      },
+      {
+        "name": "Luigi Leoni",
+        "character": "Monk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t6iFmksOgOHJ4ZDvobmgPDOfNXW.jpg"
+      },
+      {
+        "name": "Armando Marra",
+        "character": "Monk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1LOi46ckmaFkMqJnuWYopYSveRq.jpg"
+      },
+      {
+        "name": "Ludger Pistor",
+        "character": "Monk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pixOQw3AM7XhOR6fjSoP6L3ml0g.jpg"
+      },
+      {
+        "name": "Franco Diogene",
+        "character": "Papal Visitor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8qrDerD68BDFM0a4odEe8pKyZQp.jpg"
+      },
+      {
+        "name": "Dwight Weist",
+        "character": "Adso as an Old Man / The Narrator (Voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ooKroRM0d9ItINpfKAzRWdJ9rwm.jpg"
+      },
+      {
+        "name": "Franco Marino",
+        "character": "Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1kJa6vTu7B0gDIzxdWDk3FAig91.jpg"
+      },
+      {
+        "name": "Kim Rossi Stuart",
+        "character": "Novitiate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hrv0rI4OKKufipR87vfF0Zdxe0K.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jean-Jacques Annaud",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dSVa9BbqtcJmH8YJmVtna0ciBim.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "based on novel or book",
+    "library",
+    "christianity",
+    "inquisition",
+    "monk",
+    "poison",
+    "secret passage",
+    "religion",
+    "labyrinth",
+    "rich",
+    "middle ages (476-1453)",
+    "persecution",
+    "medieval",
+    "franciscan",
+    "burned at the stake",
+    "poor",
+    "murder mystery",
+    "grotesque",
+    "theological debate",
+    "14th century",
+    "master disciple relationship",
+    "umberto eco"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "An intellectually nonconformist friar investigates a series of mysterious deaths in an isolated abbey.",
+    "14. century Franciscan monk William of Baskerville and his young novice arrive at a conference to find that several monks have been murdered under mysterious circumstances. To solve the crimes, William must rise up against the Church's authority and fight the shadowy conspiracy of monastery monks using only his intelligence which is considerable.—yusufpiskin",
+    "1327. After a mysterious death in a Benedictine Abbey, the monks are convinced that the apocalypse is coming. With the Abbey to play host to a council on the Franciscan's Order's belief that the Church should rid itself of wealth, William von Baskerville, a respected Franciscan friar, is asked to assist in determining the cause of the untimely death. Alas, more deaths occur as the investigation draws closer to uncovering the secret the Abbey wants hidden, and there is finally no stopping the Holy Inquisition from taking an active hand in the process. William and his young novice must race against time to prove the innocence of the unjustly accused and avoid the wrath of Holy Inquisitor Bernardo Gui.—Rick Munoz <rick.munoz@his.com>"
+  ],
+  "synopsis": "The movie opens with the arrival of Franciscan friar William of Baskerville (Sean Connery) and his novice assistant, Adso of Melk (Christian Slater) at a Benedictine Abbey in Northern Italy in 1327. They are there to attend an important conference.The abbey is in fear, however, over the recent death of one of their young monks, a brilliant illustrator. He was found killed by an impact at the base of a cliff outside the abbey, but there was no access to the roof or through a sealed window from which he could have fallen. Many of the monks fear that there can be only an evil, supernatural explanation.The Abbot (Michael Lonsdale) asks William to help solve the mystery as he is known to be a man of great intellect and a former investigator for the inquisition. William examines the evidence and comes to the conclusion the monk fell from a tower in a different section of the abbey and body rolled downhill to where it was found. He also believes it was suicide as there was no other reason for the monk to be in the tower that time of night and a murderer would not have bothered to carry the body up the stairs to get rid of it.With the Abbot assuaged the conference begins, but immediately another death takes place. A Greek translator (Urs Althaus) is found upside down and head first in a huge pot. When the body is cleaned William finds that the man has blackened fingers on his right hand and a blackened tongue.William and Adso try and examine the desks of the two dead men, but are blocked from seeing the translator's desk by the assistant librarian (Michael Habeck). Later that night, after the monks are done with their work, the two return to see what the assistant librarian was hiding. The assistant librarian is still there, however, chuckling over a book. Upon hearing their approach he takes the book and hides. On the translator's desk William finds a cryptic note that is partly written in invisible ink. It seems to give directions to a secret location in the adjacent library.The assistant librarian tosses a tool across the room distracting the two and escapes. William and Adso go after him and split up to search the Abbey. Adso wanders into the storehouse and hides when monk Remigio da Varagine (Helmut Qualtinger) checks the area for intruders. Adso is surprised when he finds a teenage girl (Valentina Vargas) with him in his hiding place. He is even more surprised when she makes passionate love to him before disappearing into the night.Meanwhile William is outside engaging hunchback monk Salvatore (Ron Perlman) in conversation. Salvatore is a half-wit who, along with Remigio, is a former member of a heretical cult. William finds this out and uses the information to force their cooperation. Salvatore tells him what he has seen happen between the illustrator, translator and assistant librarian.The next day the body of the assistant librarian is found by the abbey herbalist (Elya Baskin) submerged in a bathtub. This body too has blackened fingers and tongue. William goes to the Abbott with what he believes is the explanation for the deaths. He believes that the illustrator traded sexual favors with the assistant librarian to get access to a forbidden book: a comedy by Aristotle. Overwhelmed by guilt over what he had done, the illustrator took his own life, but not before he has passed the secret of where to find the book to his friend, the Greek Translator. The Greek translator also read the book, and later the assistant librarian. Both died of a \"book that kills\". The assistant librarian put the Greek translator's body into the pot to throw suspicion away from himself, before dying while trying to take a bath.The Abbott, underwhelmed by this explanation, burns the paper which is Williams only evidence and tells him he has concluded that he has no choice but to call in the Papal inquisition to get to the bottom of things. Bernardo Gui (F. Murray Abraham), an investigator who nearly got William executed in the past, will be arriving to take charge.William had asked the librarian (Volker Prechtel) for access to the library, but it was denied. Later he and Adso pressure Remigio to help them sneak in and find that the massive library tower is a labyrinth of rooms and passages. They use a copy of the directions to locate what they believe is the entrance to a secret room, but they fail to figure out how to open it.The next day William is interrupted during the conference by the Abbey herbalist who whispers to William that he has found the secret book hidden behind a jar in his building. Before William can excuse himself from the conference, however, the herbalist is killed by the librarian and the book taken back.That night a fire erupts in the storeroom and Bernardo catches Salvatore there with the teenage girl. He concludes that the girl is a witch, the monk has made a deal with the Satan and they are responsible for the deaths. William, however, realizes that it is more likely that the girl was exchanging sexual favors with Salvatore for food. Despite this Bernardo decides to sentence the girl, Salvatore and Remigio (by virtue of his earlier membership in the heretical cult) to burn at the stake. Because he refused to confirm Bernardo's pronouncement, William himself will be brought up on charges.During vespers that afternoon the librarian keels over and dies. His fingers and tongue are black. In the resulting confusion William and Adso manage to slip away from their guards and get back into the tower library. They hope to find evidence that will force the executions to be halted. They find their way to the secret door and solve the riddle of how to open it. Proceeding into the secret room they find Jorge de Burgos (Feodor Chaliapin Jr.), a blind and humorless senior member of the Abbey, with the secret book. Jorge invites William and Adso to examine it. William does, but puts on a glove first (though Jorge cannot see this as he is blind). William then tells Jorge that he knows that Jorge hates the book (as it is comedy and by his lights, evil) and has placed a deadly poison on the pages. That is the reason that all who read the book died (from licking their hand to turn the leaves). When William tells Jorge he is wearing a glove, Jorge snatches the book back and in the ensuing chase a candle is knocked over setting the library on fire. Jorge hides and while hiding starts to eat pages of the book.Outside the Abbey the girl, Salvatore and Remigio have been tied to stakes. Before the girl's can be ignited, however, Bernardo, the monks and guards notice the library tower is on fire. They run back to the Abbey while the girl is rescued by her peasant friends. It is too late for Salvatore and Remigio, however, and they burn to death. Bernardo, seeing the library on fire, decides things are out of control and it is time to leave the Abbey post-haste. The peasants are still mad at his sentence on the girl, however, and topple his wagon off the road and down a cliff where he is fatally impaled on a farm implement.While chasing Jorge, Adso and William are separated. William orders Adso out of the building as he and Jorge are apparently trapped by the fire. Jorge dies of poisoning from the poisoned ink that he ate. Adso makes it out and, at the last minute, so does William after having rescued a handful of important books. They depart the smoldering Abbey and on the way Adso sees the girl one last time. The narrator, Adso in his old age, reports that she was his only terrenal love, but he never knew her name. The credits roll.",
+  "imdb_score": 7.7
+}

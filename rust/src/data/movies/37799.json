@@ -1,0 +1,738 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/65D7t8wgZFpjOTvIp1HQvHFY0fC.jpg",
+  "id": 37799,
+  "title": "The Social Network",
+  "poster_path": "https://image.tmdb.org/t/p/w500/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+  "release_date": "2010-10-01",
+  "vote_average": 7.364,
+  "vote_count": 11478,
+  "popularity": 46.079,
+  "overview": "In 2003, Harvard undergrad and computer genius Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, he is one of the youngest billionaires ever, but Zuckerberg finds that his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.",
+  "imdb_id": "tt1285016",
+  "budget": 40000000,
+  "homepage": "https://www.sonypictures.com/movies/thesocialnetwork",
+  "revenue": 224920315,
+  "runtime": 121,
+  "tagline": "You don't get to 500 million friends without making a few enemies.",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Columbia Pictures",
+    "Relativity Media",
+    "Scott Rudin Productions",
+    "Michael De Luca Productions",
+    "Trigger Street Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jesse Eisenberg",
+        "character": "Mark Zuckerberg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg"
+      },
+      {
+        "name": "Andrew Garfield",
+        "character": "Eduardo Saverin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+      },
+      {
+        "name": "Armie Hammer",
+        "character": "Cameron Winklevoss / Tyler Winklevoss",
+        "profile_path": "https://image.tmdb.org/t/p/w185/19lRnnnKd6fjNmfEGR4ftM1qJOk.jpg"
+      },
+      {
+        "name": "Justin Timberlake",
+        "character": "Sean Parker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Yk5t9RwkdkAT8Qv45934Eez2CA.jpg"
+      },
+      {
+        "name": "Max Minghella",
+        "character": "Divya Narendra",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AhVDxsOOoAnwwVBL7ZY8W0mGsYJ.jpg"
+      },
+      {
+        "name": "Josh Pence",
+        "character": "Tyler Winklevoss",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tkDFl0BEVCUcwKR30ICeG3yCTbr.jpg"
+      },
+      {
+        "name": "Brenda Song",
+        "character": "Christy Lee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nJOB9ZbIchbk0omaMq9E2C22J8x.jpg"
+      },
+      {
+        "name": "Rashida Jones",
+        "character": "Marylin Delpy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cgWGm9eYCretBWeljPVtpRV7n6V.jpg"
+      },
+      {
+        "name": "John Getz",
+        "character": "Sy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/NL52y1nH5SZMlJKfKpPBnofoJk.jpg"
+      },
+      {
+        "name": "David Selby",
+        "character": "Gage",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w7OUsn0tXFV3p056704eP7DkrcP.jpg"
+      },
+      {
+        "name": "Denise Grayson",
+        "character": "Gretchen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m0Zc4BDjLudF2BRZO4Hb18CK1US.jpg"
+      },
+      {
+        "name": "Douglas Urbanski",
+        "character": "Larry Summers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jWLhfREIiedwGcxbvyMMEXLo5Ks.jpg"
+      },
+      {
+        "name": "Rooney Mara",
+        "character": "Erica Albright",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zT6UyHFHEQ9RcKykplWCycKBnoS.jpg"
+      },
+      {
+        "name": "Bryan Barter",
+        "character": "Billy Olsen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lXPpIs1MZZJqX7js2CWUG1EDW46.jpg"
+      },
+      {
+        "name": "Dustin Fitzsimons",
+        "character": "Phoenix Club President",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uC3Vcre1JSTywqTu4CVroGCT1C5.jpg"
+      },
+      {
+        "name": "Joseph Mazzello",
+        "character": "Dustin Moskovitz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/44gsv7TlXOOKDGg5aRtqxZjM9ae.jpg"
+      },
+      {
+        "name": "Patrick Mapel",
+        "character": "Chris Hughes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ft6eTNQdvNWM8Xm8o8JJZtmekF.jpg"
+      },
+      {
+        "name": "Toby Meuli",
+        "character": "Phoenix Member Playing Facemash",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fbE12VM7JIjFkLmDiLkD2rLA3UN.jpg"
+      },
+      {
+        "name": "Alecia Svensen",
+        "character": "Girl at Phoenix Club",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3zyhe6PmpGvkxx68hMWPA3VHxwX.jpg"
+      },
+      {
+        "name": "Jami Owen",
+        "character": "Student Playing Facemash",
+        "profile_path": ""
+      },
+      {
+        "name": "James Dastoli",
+        "character": "Student Playing Facemash",
+        "profile_path": "https://image.tmdb.org/t/p/w185/59AdDN5ahzhggX3iTe0dwLXjxu2.jpg"
+      },
+      {
+        "name": "Robert Dastoli",
+        "character": "Student Playing Facemash",
+        "profile_path": ""
+      },
+      {
+        "name": "Scotty Crowe",
+        "character": "Student Playing Facemash",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hxwyY3vP1LkJHbR6z19N0wKGK6I.jpg"
+      },
+      {
+        "name": "Jayk Gallagher",
+        "character": "Student Playing Facemash",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tCft2uTB9UUjzWvU3RsLAU44TiU.jpg"
+      },
+      {
+        "name": "Marcella Lentz-Pope",
+        "character": "Erica's Roommate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vSzzdPYyGtZGj4RqKsDGdXZN6E0.jpg"
+      },
+      {
+        "name": "Trevor Wright",
+        "character": "B.U. Guy in Bra",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2xsRqIdfjwEsquJdoOAIjpx0OyY.jpg"
+      },
+      {
+        "name": "Barry Livingston",
+        "character": "Mr. Cox",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6EIVcfvEUv4LLItoIrGzCM2QQnS.jpg"
+      },
+      {
+        "name": "Marybeth Massett",
+        "character": "Mrs. Cox",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xMLGROZ6iWOknl7X6VQX8NsppPF.jpg"
+      },
+      {
+        "name": "Randy Evans",
+        "character": "Student in Communications Office",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jfSoG2x8rLm4tqf2HAM0aKyzn8s.jpg"
+      },
+      {
+        "name": "Carrie Armstrong",
+        "character": "Court Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rIOFnIfdfqhPq1YaFpF46mzITSR.jpg"
+      },
+      {
+        "name": "Henry Roosevelt",
+        "character": "Henry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dnLNdEMSecgJjpIpdxsdEj73NYE.jpg"
+      },
+      {
+        "name": "Pamela Roylance",
+        "character": "Ad Board Chairwoman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lpJYXvuAK0yJsByRYJ87uUEGp1z.jpg"
+      },
+      {
+        "name": "Brian Palermo",
+        "character": "CS Lab Professor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xDtXluglFB3MVayQqQvVYm5a0YA.jpg"
+      },
+      {
+        "name": "Brett Leigh",
+        "character": "Phoenix Club Hazer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/isWZHdXIH6qYoRWj3cpZhVUkVLT.jpg"
+      },
+      {
+        "name": "Chris Gouchoe",
+        "character": "Phoenix Club Pledge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nTErKdkJJFtbDVz6iWZ5AHmL6H6.jpg"
+      },
+      {
+        "name": "Nicholas Tubbs",
+        "character": "A Capella Group",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Chui",
+        "character": "A Capella Group",
+        "profile_path": ""
+      },
+      {
+        "name": "Richie Ferris",
+        "character": "A Capella Group",
+        "profile_path": ""
+      },
+      {
+        "name": "Burke Walton",
+        "character": "A Capella Group",
+        "profile_path": ""
+      },
+      {
+        "name": "Nguyen Anh Tuan",
+        "character": "A Capella Group",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ifomKTzXrqSK7iKM0GpT7zdgWUS.jpg"
+      },
+      {
+        "name": "Inbal Amirav",
+        "character": "Model",
+        "profile_path": "https://image.tmdb.org/t/p/w185/py6UwKZPGJdeKHDFhUuXH7acArk.jpg"
+      },
+      {
+        "name": "Dane Nightingale",
+        "character": "A Capella Group",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen Fuller",
+        "character": "A Capella Group",
+        "profile_path": ""
+      },
+      {
+        "name": "John He",
+        "character": "A Capella Group",
+        "profile_path": ""
+      },
+      {
+        "name": "Nick Smoke",
+        "character": "KC's Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vKeTxT9rEmOehVIV1KVLSBpzSeX.jpg"
+      },
+      {
+        "name": "Cali Fredrichs",
+        "character": "KC's Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Kzb5TknfN6XAYdF6qfHBhTRRTJ.jpg"
+      },
+      {
+        "name": "Shelby Young",
+        "character": "KC",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oh4VeJpkORXoGJdIohNpXJyO3kt.jpg"
+      },
+      {
+        "name": "Steve Sires",
+        "character": "Speaker / Bill Gates",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vKmn7kR8Q9QVlYFBoqbS5BcP3xb.jpg"
+      },
+      {
+        "name": "Melise",
+        "character": "Alice Cantwel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1USFrxT2872quJ0KGUUs2Zur3fl.jpg"
+      },
+      {
+        "name": "Victor Z. Isaac",
+        "character": "Stuart Singer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AcH7NDvJOxKkDCyFdv3irs3h85Y.jpg"
+      },
+      {
+        "name": "Abhi Sinha",
+        "character": "Vikram",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9zWQNs1VTrdJ0K75Yrj8YX7ag4t.jpg"
+      },
+      {
+        "name": "Mark Saul",
+        "character": "Bob",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lYlJ9UEODZWTRvgo3SE7JRRZg7P.jpg"
+      },
+      {
+        "name": "Cedric Sanders",
+        "character": "Reggie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jPoC4rpGAKTHGy3oWyh0uNZgInn.jpg"
+      },
+      {
+        "name": "Dakota Johnson",
+        "character": "Amelia Ritter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8eJeDm5ILi5W25X2uatVRtWMDg2.jpg"
+      },
+      {
+        "name": "Nancy Linari",
+        "character": "Larry Summers' Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nDcIVinFEuLlM1JXHnLszP8F53F.jpg"
+      },
+      {
+        "name": "Inger Tudor",
+        "character": "Anne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2nkrYwvqWAqRuYICo2RIKNOq0PB.jpg"
+      },
+      {
+        "name": "Aaron Sorkin",
+        "character": "Ad Executive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hGkusztbd1rb23QFAjvpJxKSTAU.jpg"
+      },
+      {
+        "name": "Mariah Bonner",
+        "character": "Tori",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yuMt7XJwcBVJ0D7NOvGuAAm11GC.jpg"
+      },
+      {
+        "name": "Kyle Fain",
+        "character": "Intern Eric",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yAhy2WO64YXK3Burxfxp9w4haOm.jpg"
+      },
+      {
+        "name": "Christopher Khai",
+        "character": "Intern Ian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ae9ptSLeYnlSjtKynfyr1BCdQWH.jpg"
+      },
+      {
+        "name": "Emma Fitzpatrick",
+        "character": "Sharon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Jh67wJnYX55UWPHIYr7Yk9MpEJ.jpg"
+      },
+      {
+        "name": "Jeffrey Thomas Border",
+        "character": "Andrew",
+        "profile_path": ""
+      },
+      {
+        "name": "Courtney Arndt",
+        "character": "Victoria's Secret Model",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iYmgwKQ1HwE8ryN7g8mkbkYAStL.jpg"
+      },
+      {
+        "name": "Felisha Terrell",
+        "character": "Beautiful Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7VHzNKb3Nqvs4KzofCWhcfHyUVG.jpg"
+      },
+      {
+        "name": "Zoe De Toledo",
+        "character": "Harvard Rowers' Coxman",
+        "profile_path": ""
+      },
+      {
+        "name": "Simon Barr",
+        "character": "Harvard Rower",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Leigh",
+        "character": "Harvard Rower",
+        "profile_path": ""
+      },
+      {
+        "name": "Phil Turnham",
+        "character": "Harvard Rower",
+        "profile_path": ""
+      },
+      {
+        "name": "Richie Steele",
+        "character": "Harvard Rower",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Friend",
+        "character": "Harvard Rower",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Harvey",
+        "character": "Harvard Rower",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Olijnyk",
+        "character": "Hollandia Rowers' Coxman",
+        "profile_path": ""
+      },
+      {
+        "name": "Ray Poulter",
+        "character": "Hollandia Rower",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob Hewitt",
+        "character": "Hollandia Rower",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave Lambourn",
+        "character": "Hollandia Rower",
+        "profile_path": ""
+      },
+      {
+        "name": "James Padmore",
+        "character": "Hollandia Rower",
+        "profile_path": ""
+      },
+      {
+        "name": "Sebastian Kouba",
+        "character": "Hollandia Rower",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Herbert",
+        "character": "Hollandia Rower",
+        "profile_path": ""
+      },
+      {
+        "name": "Robin Dowell",
+        "character": "Hollandia Rower",
+        "profile_path": ""
+      },
+      {
+        "name": "Nathan Hillyer",
+        "character": "Hollandia Rower",
+        "profile_path": ""
+      },
+      {
+        "name": "James Shanklin",
+        "character": "Prince Albert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/teMNAV8dp4KmR8AriT5IJPztPEu.jpg"
+      },
+      {
+        "name": "Alex Reznik",
+        "character": "Prince Albert's Aide",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hevhkXSoKFm23t2DCCRgOnFwd2O.jpg"
+      },
+      {
+        "name": "John Hayden",
+        "character": "Howard Winklevoss",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dKpln8oWdZfKz3zYjF3inmSaiCp.jpg"
+      },
+      {
+        "name": "Oliver Muirhead",
+        "character": "Mr. Kenwright",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eWHCT4IFfE4RTKnNVxSTSKfYBkC.jpg"
+      },
+      {
+        "name": "Shane Adler",
+        "character": "Stoned Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rxtUjShMAEYsEkvehnEvyiI4Pk.jpg"
+      },
+      {
+        "name": "Amy Ferguson",
+        "character": "Stoned Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/JKVyXMemjTvL4Bl4O27mUU9bx6.jpg"
+      },
+      {
+        "name": "Monique Edwards",
+        "character": "Bank Teller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/chEmMXbXoWxD2DEmqKlvMyBR3Ht.jpg"
+      },
+      {
+        "name": "Cayman Grant",
+        "character": "Peter Thiel's Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oNC4Tkhl6NSx4uXzjixvfe8f3IP.jpg"
+      },
+      {
+        "name": "Wallace Langham",
+        "character": "Peter Thiel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pjc9iFeNMAAHI3zOsiP1anZ0wis.jpg"
+      },
+      {
+        "name": "Scott Lawrence",
+        "character": "Maurice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8lwnmlHN6QPK75NwfufsIFZZhmB.jpg"
+      },
+      {
+        "name": "Peter Holden",
+        "character": "Facebook Lawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9pAORmxw7zi5lEerUmyInQM3PlF.jpg"
+      },
+      {
+        "name": "Darin Cooper",
+        "character": "Facebook Lawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iqPOzFjFJwBSv3Pw8Y4C4B2juSk.jpg"
+      },
+      {
+        "name": "Jared Hillman",
+        "character": "Mackey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nX1NCw8t8go7EyTYCfPHRbBaWQw.jpg"
+      },
+      {
+        "name": "Caitlin Gerard",
+        "character": "Ashleigh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z0iCiV5kUb3GtKSlJ5BFZMCuRy9.jpg"
+      },
+      {
+        "name": "Lacey Beeman",
+        "character": "Sorority Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7gDZTxyXi2zDHvGiJGdgE7PU68L.jpg"
+      },
+      {
+        "name": "Cherilyn Wilson",
+        "character": "Sorority Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fKqVl4Apym9KjVm60WdK8AGFz57.jpg"
+      },
+      {
+        "name": "Caleb Landry Jones",
+        "character": "Fraternity Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8M5lPHrERwAIfWK56RkH30FOjhV.jpg"
+      },
+      {
+        "name": "Franco Vega",
+        "character": "Policeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mubbbhErHFuan2f40VNXXbzeK2P.jpg"
+      },
+      {
+        "name": "Andrew Thacher",
+        "character": "Policeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zLKEI7HiCKqzFbF5sWxG3xthfKi.jpg"
+      },
+      {
+        "name": "Adina Porter",
+        "character": "Gretchen's Associate (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1TCVeyvQ3XW5gmVXv56xO85N6gg.jpg"
+      },
+      {
+        "name": "Jeff Martineau",
+        "character": "Bobby's Friend (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sLqwrV8L2DuAr43ShlM0mPl8FjI.jpg"
+      },
+      {
+        "name": "Noah Baron",
+        "character": "Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nTZlvV8QdGhb8cyj613WRoNAiT9.jpg"
+      },
+      {
+        "name": "Jesse Heiman",
+        "character": "Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kzpEjCcrXpwFozTEBC8xPcYkU7l.jpg"
+      },
+      {
+        "name": "David Broyles",
+        "character": "Student Playing Facemash (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Bash",
+        "character": "Bob (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3AYqIZPayoJ6ghGyX5DpcUD9YbI.jpg"
+      },
+      {
+        "name": "Tony Calle",
+        "character": "Harvard Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Cooper Conley-Currier",
+        "character": "Pheonix Club Hazee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Elliott Ehlers",
+        "character": "Harvard Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brett A. Newton",
+        "character": "Harvard Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mCZThTAaKNcuRXVBJYPj2vTNm1L.jpg"
+      },
+      {
+        "name": "Nathan Dean Snyder",
+        "character": "Harvard Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kristen Clement",
+        "character": "Party Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tatum Miranda",
+        "character": "Party Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uls9oPk6VDbDBXocjvGbSFpAK92.jpg"
+      },
+      {
+        "name": "Chad Davis",
+        "character": "B.U. Guy in Bra #2 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Calvin Dean",
+        "character": "Mr. Edwards (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s9BnUmXGMCKfDtX04V43YPuKjNR.jpg"
+      },
+      {
+        "name": "Tony DeSean",
+        "character": "Waiter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Vincent Rivera",
+        "character": "Waiter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Flemyng",
+        "character": "Regatta Spectator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nYl0180ACnLzVlGbaAfuPtdGr9K.jpg"
+      },
+      {
+        "name": "Carlos Foglia",
+        "character": "MIT Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bryan Forrest",
+        "character": "Popular Harvard Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qc1DwSjh98VnbTmzjNEDuwZuZcV.jpg"
+      },
+      {
+        "name": "Jessica Franz",
+        "character": "Sorority Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eli Jane",
+        "character": "Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/93ucpvgTM54djKCJcGuRXLbFzDM.jpg"
+      },
+      {
+        "name": "Sara Murphy",
+        "character": "Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kandis Mak",
+        "character": "Go-Go Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dRmfdF7qfu7d6BGNzlNlIZdAvsy.jpg"
+      },
+      {
+        "name": "Eric La Barr",
+        "character": "Harvard Note-Passer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Naina Michaud",
+        "character": "Final Club Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ftv7KmOfmVTimQek3tBQuSIOgAD.jpg"
+      },
+      {
+        "name": "Riley Voelkel",
+        "character": "Final Club Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9k93nQjC1nh8i9M1jeY9aSYpbZq.jpg"
+      },
+      {
+        "name": "Tia Robinson",
+        "character": "Club Waitress (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeff Rosick",
+        "character": "Dorm Room Guy #2 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sDNDmyZirNE3kFzgSDvG9pK3NQw.jpg"
+      },
+      {
+        "name": "Alexandra Ruddy",
+        "character": "Ruby Skye Waitress (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bBG0qAZECMUMiStZfCJozQ2Dj9d.jpg"
+      },
+      {
+        "name": "Adrienne Rusk",
+        "character": "Club 66 Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rebecca Tilney",
+        "character": "Art History Professor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Georgina Tolentino",
+        "character": "Club-Goer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g0di3NQV9YvTFYVfeqwj9AXZMdb.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "David Fincher",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yV36WTsLBAGyYVUQshNdI8hyk9l.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "hacker",
+    "based on novel or book",
+    "boston, massachusetts",
+    "ex-girlfriend",
+    "harvard university",
+    "narcissism",
+    "based on true story",
+    "hacking",
+    "historical fiction",
+    "twins",
+    "double cross",
+    "misogyny",
+    "creator",
+    "frat party",
+    "social network",
+    "deposition",
+    "intellectual property",
+    "entrepreneur",
+    "arrogance",
+    "social media",
+    "young entrepreneur",
+    "facebook",
+    "legal drama",
+    "boat racing"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea and by the co-founder who was later squeezed out of the business.",
+    "On a fall night in 2003, Harvard undergrad and computer programming genius Mark Zuckerberg sits down at his computer and heatedly begins working on a new idea. In a fury of blogging and programming, what begins in his dorm room soon becomes a global social network and a revolution in communication. A mere six years and 500 million friends later, Mark Zuckerberg is the youngest billionaire in history... but for this entrepreneur, success leads to both personal and legal complications.—Columbia Pictures",
+    "Every age has its visionaries who leave, in the wake of their genius, a changed world--but rarely without a battle over exactly what happened and who was there at the moment of creation. \"The Social Network\" explores the moment at which Facebook was invented--through the warring perspectives of the super-smart young men who each claimed to be there at its inception. The movie moves from the halls of Harvard to the cubicles of Palo Alto to capture the heady early days of a culture-changing phenomenon in the making--and the way it both pulled a group of young revolutionaries together and then split them apart. In the midst of the chaos are Mark Zuckerberg (Jesse Eisenberg), the brilliant Harvard student who conceived a Web site; Eduardo Saverin (Andrew Garfield), once Zuckerberg's close friend, who provided the seed money for the fledgling company; Napster founder Sean Parker (Justin Timberlake), who brought Facebook to Silicon Valley's venture capitalists; and the Winklevoss twins (Armie Hammer and Josh Pence), the Harvard classmates who asserted that Zuckerberg stole their idea and then sued him for ownership of it. Each has his own narrative, his own version of the Facebook story in this multi-level portrait of 21st Century success--both the youthful fantasy of it and its finite realities as well.—Columbia Pictures",
+    "As told through flashbacks via deposition hearings for two concurrent lawsuits, the development and early days of the social networking website Facebook is presented. Harvard students Mark Zuckerberg and Eduardo Saverin - officially listed as the co-founders of the website - were once best friends. Based on an on-line blog about his ex-girlfriend and a site he developed allowing its users to rate the hotness factor of girls on campus, Zuckerberg, who exhibited a streak of arrogance, was asked by fellow Harvardites, wealthy twins Cameron Winklevoss and Tyler Winklevoss, and their friend Divya Narendra, to enter into an agreement to develop a social networking website specifically for Harvard students, the attraction for people to visit it being its exclusivity solely to Harvard students. Zuckerberg agreed. Zuckerberg, with financing from his friend Saverin, decided instead to develop his own website without telling the \"Winklevi\" (as he calls the twins) and Narenda. Zuckerberg's assertion was that he never used a line of code provided by the three in his work. As \"thefacebook\" as it was then called began to blossom, the twins and Narenda had to figure out what to do to regain what they believed their intellectual property without having to sue, since that's not what gentlemanly Harvardites do. As the site was brought to more and more university campuses, Zuckerberg and Saverin began to have a difference of opinion: Saverin wanted to sell ad space to generate revenue (as he had been the website's sole financier and he had profit mentality based on being an economics major), while Zuckerberg, never one interested in money, didn't want to go that route as the ads would make the site lose its \"cool\" factor, which made it popular. The site attracted the attention of the founder of Napster, Sean Parker, whose own dot com life had its spectacular ups and spectacular downs. As Parker ingratiated himself into Facebook's life (much to Saverin's chagrin) and as Zuckerberg began increasingly to side with Parker, Saverin slowly began to be phased out of both Zuckerberg's personal and professional life.—Huggo",
+    "The story of the creators of Facebook and the subsequent legal battles that stretched out over several years. Told mostly in flashbacks while Mark Zuckerberg gives depositions in two lawsuits, the idea of a shareable social information site came to him one night after he hacked into his school's database and published the photos of all the women at the school. One of his roommates, Eduardo Saverin, provides the upfront financing and Zuckerberg deftly outmaneuvers two other students who had a similar idea. The relationship with Saverin deteriorates and he soon finds himself on the outside looking in. All in all, an unflattering picture of all those involved.—garykmcd"
+  ],
+  "synopsis": "In October 2003, Harvard University student Mark Zuckerberg (Jesse Eisenberg) has the idea to create a website to rate the attractiveness of female Harvard undergraduates after his girlfriend Erica Albright (Rooney Mara) breaks up with him in the opening scene at a local bar after a bad date where his ego and abrasiveness brings out the worst in him. Over the course of a single night, a half-drunk Mark hacks into the databases of various residence halls, downloads pictures and names of female students and, using an algorithm for ranking chess players supplied by his best friend Eduardo Saverin (Andrew Garfield), he creates in a few hours a website called \"FaceMash.com\", where male students can interactively choose which of two girls presented at a time is more attractive.Mark is punished with six months of academic probation after the traffic to the site brings down parts of Harvard's computer network, and he becomes vilified among most of Harvard's female community. However, the popularity of \"FaceMash\" and the fact that he created it in one night, while drunk, brings him to the attention of Cameron Winklevoss and Tyler Winklevoss (Armie Hammer and Josh Pence), identical twins and members of Harvard's rowing team, and their business partner Divya Narendra (Max Minghella). As a result, he gains a job working for the Winklevoss twins as the programmer of their website, Harvard Connection.Soon afterwards, Mark approaches his friend Eduardo and tells him of his idea for what he calls \"Thefacebook\", an online social networking website exclusive to Harvard University students. He explains this would let people share personal and social information securely. Eduardo agrees to help Mark, providing a fee of $1,000 to help start the site. Once complete, they distribute the link to Eduardo's connections at the Phoenix S-K final club, and it quickly becomes popular throughout the student body. When they learn of Thefacebook, the Winklevoss twins and Narendar believe that Zuckerberg stole their idea while simultaneously stalling on their website. Cameron and Divya want to sue Mark for intellectual property theft, but Tyler convinces them they can settle the matter as \"Harvard gentlemen\" without resorting to the courts.A few months later, at a lecture by Bill Gates (Steve Sires), fellow Harvard University student Christy Lee (Brenda Song) introduces herself and her friend Alice (Melise) to Eduardo and Mark. She asks that the boys \"Facebook us\", which impresses both of them. The girls invite them to a bar, where they have sex in the toilet. Mark later runs into his ex-girlfriend, Erica, who is not aware of The Facebook's existence because she is not a Harvard University student. Stung by this, Mark decides to expand the site to more schools. Christy, Mark, and Eduardo later return to Mark's room where they outline the structure of the company and their plan for moving forward.By the spring of 2004, the Facebook grows in popularity, and it expands to other schools in the Northeastern United States, while the Winklevoss twins and Narendra become angrier at seeing \"their idea\" advance without them. Tyler refuses to sue them, instead accusing Mark of violating the Harvard student Code of Conduct. Through their father's connections they arrange a meeting with Harvard President Larry Summers (Douglas Urbanski), who is dismissive and sees no potential value in either a disciplinary action or in a lawsuit against Thefacebook website itself.Through Christy Lee, now Eduardo's girlfriend, Eduardo and Mark arrange a meeting with Napster co-founder Sean Parker (Justin Timberlake). When Christy, Mark and Eduardo meet Parker at a trendy Fusion restaurant in New York City, Eduardo becomes skeptical of the eccentric Parker, noting his problematic personal and professional history. Mark, however, is impressed with Parker since he presented a similar vision of Facebook. Although no deals are reached, Parker suggests that they drop \"The\" from Thefacebook to make it simply \"Facebook\".That summer, Mark moves the company's base of operation to Palo Alto, California at Parker's suggestion, while Eduardo remains in New York for seeking advertising support. When Eduardo visits from New York, he is angered to find that Parker is living at the house and making business decisions for Facebook. After an argument with Mark, the vindictive Eduardo freezes the company's bank account and returns to New York. Upon returning, Christy and Eduardo argue about his Facebook profile, which still lists him as \"single\". Christy accuses Eduardo of cheating on her and sets fire to a scarf he gave to her as a gift. While Eduardo extinguishes the fire, Mark angrily calls him on the phone about freezing the Facebook bank accounts, and reveals that they have secured money from \"an angel investor\" through Parker's contacts. As a result of Christy's jealousy, Eduardo ends his relationship with her.Meanwhile in England, while competing in the Henley Royal Regatta, the Winklevoss twins become outraged that Facebook has expanded to a number of universities there and they finally decide to sue Mark. Eduardo has also discovered the deal he signed with Parker's investors allows them to dilute his share of the company from a third to less than one tenth of one percent, while maintaining the ownership percentage of all other parties. He confronts his erstwhile friend Mark at his new Facebook office in downtown L.A. and announces his intention to sue him.Later that night, Parker, along with a number of Facebook interns, is arrested for possession of cocaine during a party thrown on the occasion of Facebook's 1 millionth member. It is strongly implied (but never fully explained) that Mark had anonymously tipped off the police to raid the frat house where the party was held and probably had someone plant drugs at the party to intentionally have Parker and his interns arrested to remove them from the Facebook company.In the final scene, a junior lawyer for the defense informs Mark they will be settling with Eduardo, since the sordid details of Facebook's founding and Mark's cynical personality will make a jury highly unsympathetic to him. The film ends with Mark sending a friend request to his former girlfriend Erica on Facebook, and refreshing the page every few seconds waiting for a response that never comes.Several final on-screen texts state that the Winklevoss twins agreed to a settlement of $65 million and signed a non-disclosure agreement. They later went on to row in the Beijing Olympics and arrive at sixth place.Eduardo received an unknown settlement and has his name placed back on the masthead as Facebook's Co-Founder.And that Facebook now has 500 million users in 207 countries and is valued at over $25 billion. Therefore making Mark Zuckerberg the youngest self-made billionaire in the world.",
+  "imdb_score": 7.8
+}

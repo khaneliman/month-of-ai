@@ -1,0 +1,531 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/aHcNu3tYihvkL45CrXTFY4YfrfF.jpg",
+  "id": 429197,
+  "title": "Vice",
+  "poster_path": "https://image.tmdb.org/t/p/w500/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+  "release_date": "2018-12-25",
+  "vote_average": 7.044,
+  "vote_count": 3168,
+  "popularity": 21.506,
+  "overview": "George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney's impressive résumé includes stints as White House chief of staff, House Minority Whip and Defense Secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.",
+  "imdb_id": "tt6266538",
+  "budget": 60000000,
+  "homepage": "https://www.vice.movie",
+  "revenue": 76100000,
+  "runtime": 132,
+  "tagline": "The untold true story that changed the course of history.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    "Annapurna Pictures",
+    "Gary Sanchez Productions",
+    "Plan B Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Christian Bale",
+        "character": "Dick Cheney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b7fTC9WFkgqGOv77mLQtmD4Bwjx.jpg"
+      },
+      {
+        "name": "Amy Adams",
+        "character": "Lynne Cheney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1bJUW9KPefhBfAS0UxbM05OL3lG.jpg"
+      },
+      {
+        "name": "Steve Carell",
+        "character": "Donald Rumsfeld",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dzJtsLspH5Bf8Tvw7OQC47ETNfJ.jpg"
+      },
+      {
+        "name": "Sam Rockwell",
+        "character": "George W. Bush",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vYpWxV0bnUgKo7SdasfGP9HttUq.jpg"
+      },
+      {
+        "name": "Alison Pill",
+        "character": "Mary Cheney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ebcCkhqFtHvHx5dkBfVmlAknDxC.jpg"
+      },
+      {
+        "name": "Eddie Marsan",
+        "character": "Paul Wolfowitz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9atfOgIxhfOKvv2be8HEp6SzOct.jpg"
+      },
+      {
+        "name": "Justin Kirk",
+        "character": "Scooter Libby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/68QWfaIoOYy4QzjnjiXPXxnpT6u.jpg"
+      },
+      {
+        "name": "LisaGay Hamilton",
+        "character": "Condoleezza Rice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dO5gRWDHNYeIT1EhIe2TitQUwYT.jpg"
+      },
+      {
+        "name": "Jesse Plemons",
+        "character": "Kurt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bXkAPGVnf4j8fbCZ7DrWGkYOc5S.jpg"
+      },
+      {
+        "name": "Bill Camp",
+        "character": "Gerald Ford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yZFata0EVr7TbIAz8vZFyiDKDts.jpg"
+      },
+      {
+        "name": "Don McManus",
+        "character": "David Addington",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rGdpdQ0DDVDX4FlQzrdFGcOlRGB.jpg"
+      },
+      {
+        "name": "Lily Rabe",
+        "character": "Liz Cheney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u54mVF2vcjymvLhyImxzInq4Y3o.jpg"
+      },
+      {
+        "name": "Shea Whigham",
+        "character": "Wayne Vincent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
+      },
+      {
+        "name": "Stephen Adly Guirgis",
+        "character": "George Tenet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dS7BkMwLecWfCFzRgNcesujLuXS.jpg"
+      },
+      {
+        "name": "Tyler Perry",
+        "character": "Colin Powell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8KU0OizemVLrERXt5HJIa0PAkIN.jpg"
+      },
+      {
+        "name": "Josh Latzer",
+        "character": "Secret Service Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fevFmfIsmS8IWhOEnKquzGnLurI.jpg"
+      },
+      {
+        "name": "Jeff Bosley",
+        "character": "Secret Service Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yBSDCSmPwghPJe1vL9jDAvZAC47.jpg"
+      },
+      {
+        "name": "Camille James Harman",
+        "character": "Mary Matalin",
+        "profile_path": ""
+      },
+      {
+        "name": "Jillian Armenante",
+        "character": "Karen Hughes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m6p6tULr4MIgixHqYdujhGEJO3V.jpg"
+      },
+      {
+        "name": "Matthew Jacobs",
+        "character": "Antonin Scalia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y17HY3ynCX2xHta1m6jhz7wJbbW.jpg"
+      },
+      {
+        "name": "Robert L. Hughes",
+        "character": "Justice Warren E. Burger",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Christopher",
+        "character": "Marshal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xiR9K8zkFPCsrNXH2WDx7iw6PRF.jpg"
+      },
+      {
+        "name": "Amir Malaklou",
+        "character": "Prisoner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ncciEMjm42no88h5vVARaJR6EbD.jpg"
+      },
+      {
+        "name": "Paul Perri",
+        "character": "Trent Lott",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s5WRLmXrHLOvpxjQjSMYvkMGHDc.jpg"
+      },
+      {
+        "name": "Edward Fletcher",
+        "character": "Democratic Senator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4PzQWgLttNH8z2MNXpAbAfI32vL.jpg"
+      },
+      {
+        "name": "Brian Woo Young Chung",
+        "character": "Soldier by Tank",
+        "profile_path": ""
+      },
+      {
+        "name": "Kawa Mawlayee",
+        "character": "Soldier by Tank",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex MacNicoll",
+        "character": "17 Year Old Dick Cheney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mytVKNLXbFYe7rLEYc7UkQxBRJ2.jpg"
+      },
+      {
+        "name": "Cailee Spaeny",
+        "character": "17 Year Old Lynne Vincent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yl3YeRSHlDVArfgMdHh2v7Ui9zO.jpg"
+      },
+      {
+        "name": "Brandon Sklenar",
+        "character": "Bobby Prentace",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vXJFJpryuhc4ZVepwSRVjjMo4jm.jpg"
+      },
+      {
+        "name": "Casey Sander",
+        "character": "Old Crew Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xHVyamqUbJK2dmFCw7LOQzYREJF.jpg"
+      },
+      {
+        "name": "Joe Sabatino",
+        "character": "Lineman Boss",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xwK2ciEgtElXW3L7XT6kOFdqth5.jpg"
+      },
+      {
+        "name": "Fay Masterson",
+        "character": "Edna Vincent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gKG30bketELJ7d22KIbX62djSKc.jpg"
+      },
+      {
+        "name": "Dan Gilvary",
+        "character": "Monotone Congressman",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen Friedrich",
+        "character": "Alan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h81ozSJ671PwnMPfX1qnWPfqvPb.jpg"
+      },
+      {
+        "name": "Kyle S. More",
+        "character": "Roger Ailes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yVVoIFmvRByTv5AJrh28qZ7ZwYh.jpg"
+      },
+      {
+        "name": "Robyn Wholey",
+        "character": "White House Tour Guide",
+        "profile_path": ""
+      },
+      {
+        "name": "Betsy Koch",
+        "character": "Kurt's Wife",
+        "profile_path": ""
+      },
+      {
+        "name": "Elliot Zetumer",
+        "character": "Kurt's Son",
+        "profile_path": ""
+      },
+      {
+        "name": "Kirk Bovill",
+        "character": "Henry Kissinger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k1GFLQkInVK0Z9oF6EqiJ4C9JNk.jpg"
+      },
+      {
+        "name": "Violet Hicks",
+        "character": "8 Year Old Liz Cheney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cOYrQ556Pk6FbvmIWp48lbk2s2E.jpg"
+      },
+      {
+        "name": "Colyse Harger",
+        "character": "5 Year Old Mary Cheney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gR5Va9Km1z04C8v3pOWTHMWDM6j.jpg"
+      },
+      {
+        "name": "Brandon Bales",
+        "character": "CIA Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zKjtcidJkQSwGpUfeeZBGKdqq6T.jpg"
+      },
+      {
+        "name": "Brian Poth",
+        "character": "Secret Service Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/907WvCRzIC0gBVaMGdhjntsQtCu.jpg"
+      },
+      {
+        "name": "Sam Massaro",
+        "character": "Young Antonin Scalia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t2wWa0nSpW6iposWB8wilPFqKqX.jpg"
+      },
+      {
+        "name": "Doug Simpson",
+        "character": "Campaign Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pG90BnHQCp8N8NGmQhivMIU1Rix.jpg"
+      },
+      {
+        "name": "Scott Subiono",
+        "character": "Cheney's Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r0xy019yATZzwPqm8tcKuFNInnh.jpg"
+      },
+      {
+        "name": "Dennis LaValle",
+        "character": "Mayor",
+        "profile_path": ""
+      },
+      {
+        "name": "Al Carabello",
+        "character": "Aide",
+        "profile_path": "https://image.tmdb.org/t/p/w185/33NyJLAxt2KOVQDxpmHL6Ytxmat.jpg"
+      },
+      {
+        "name": "Melissa K. Marks",
+        "character": "Heather Poe",
+        "profile_path": ""
+      },
+      {
+        "name": "Treisa Gary",
+        "character": "Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c2dkIjysJoEutupzQWRynNWb900.jpg"
+      },
+      {
+        "name": "Chris Dougherty",
+        "character": "Philip Perry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l2jHzvAm5f7kxbXJPnrd0jBUWkh.jpg"
+      },
+      {
+        "name": "John Hillner",
+        "character": "George Bush Sr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k5DB8sU4EYzqZtnZXvnA1zwNpZp.jpg"
+      },
+      {
+        "name": "Grace Rowe",
+        "character": "Teacher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qbCtSN2SaDpVy1BE94bha9lhJb0.jpg"
+      },
+      {
+        "name": "Michael Reilly Burke",
+        "character": "David Gribbin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zcvCPaOXtcNbp3yYPA9nU5sNyJq.jpg"
+      },
+      {
+        "name": "Staci Roberts",
+        "character": "Theresa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pMTz66JbivrLpOTjdEqyeQBzDJr.jpg"
+      },
+      {
+        "name": "William Goldman",
+        "character": "Dennis Hastert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ze5YFu9OzSCeyP9CdvBgpgWgSSi.jpg"
+      },
+      {
+        "name": "Tony Forsmark",
+        "character": "Grover Norquist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bdzl2r6Uj34IDX14h74GA5G8tGE.jpg"
+      },
+      {
+        "name": "Adam Bartley",
+        "character": "Frank Luntz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kD5V9cpQuheADeHXPaO9kHsYuvc.jpg"
+      },
+      {
+        "name": "Daniel Bruington",
+        "character": "Doug",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nkl2ZkOmsMM9KKcOPAhAzH9HtZL.jpg"
+      },
+      {
+        "name": "Vishesh Chachra",
+        "character": "Secret Service Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fm2jMW4y6J3COzeVIQdnE1RUuUZ.jpg"
+      },
+      {
+        "name": "Kevin Flood",
+        "character": "Richard Clarke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a2zcsmpBwW5FFoFVy695FlG7lvm.jpg"
+      },
+      {
+        "name": "Michael A. Naggi",
+        "character": "Other Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Melissa Schumacher",
+        "character": "Intelligence Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Delpaneaux Wills",
+        "character": "Intelligence Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gFWwjxIXjr9XVnqM5AqMYvCFTHc.jpg"
+      },
+      {
+        "name": "Scott Alan Smith",
+        "character": "Intelligence Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e424UmsKRjDGKfCFfW144KUHRel.jpg"
+      },
+      {
+        "name": "Paul Yoo",
+        "character": "John Yoo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pfR49ckociIqRNfF0LWZr6tC4Li.jpg"
+      },
+      {
+        "name": "Brandon Firla",
+        "character": "Jay Bybee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5GdvNqFcDb6qgKwqhWrnp4NFht7.jpg"
+      },
+      {
+        "name": "Omid Zader",
+        "character": "Waterboard Translator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5Oy2AC6TJj7NdxNLotVtnCPrbS7.jpg"
+      },
+      {
+        "name": "David Yahya",
+        "character": "Waterboard Translator",
+        "profile_path": ""
+      },
+      {
+        "name": "Karim Saleh",
+        "character": "Translator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5kzIr2drDqJvBpIznz75Xeht7Oe.jpg"
+      },
+      {
+        "name": "Terri Cavanaugh",
+        "character": "Focus Group Leader",
+        "profile_path": ""
+      },
+      {
+        "name": "Stewart J. Zully",
+        "character": "Focus Group Participant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7NKOlWGa5SYeyrAyCLNv7WmllLT.jpg"
+      },
+      {
+        "name": "Ptolemy Slocum",
+        "character": "Focus Group Participant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vCfBlwQxoVdUPzupjEFlbeK8B8z.jpg"
+      },
+      {
+        "name": "Melody Hollis",
+        "character": "Focus Group Participant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qbhUhHWz4gTY1RKBeF8VOY6Toi2.jpg"
+      },
+      {
+        "name": "Matt Champagne",
+        "character": "Douglas Feith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/29KykrzIHEmcZgUA5AjoOcCcdJu.jpg"
+      },
+      {
+        "name": "Joseph Beck",
+        "character": "Karl Rove",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vmOulJTTnBnO1QXo7jQzT5LxlZK.jpg"
+      },
+      {
+        "name": "Tony Graham",
+        "character": "Abu Musab Al-Zarqawi",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Kingi",
+        "character": "Osama Bin Laden",
+        "profile_path": ""
+      },
+      {
+        "name": "Vanessa Cloke",
+        "character": "CIA Analyst",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vaZcJGdksh4TltrmxWZgrL9z5Cb.jpg"
+      },
+      {
+        "name": "David Fabrizio",
+        "character": "Lawrence Wilkerson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8ryEXrKWyrqYbxJCEgqNT2fGpmy.jpg"
+      },
+      {
+        "name": "Matt Miller",
+        "character": "General",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wBtjxJwvsnB378kEltDv5Cx6A69.jpg"
+      },
+      {
+        "name": "Mark Bramhall",
+        "character": "Harry Whittington",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jKryMT2rr33q3MYVJQ6m5No6Iu1.jpg"
+      },
+      {
+        "name": "Holly Hawkins",
+        "character": "Katherine Armstrong",
+        "profile_path": "https://image.tmdb.org/t/p/w185/npd6XUxZBEADzlRnpEbAag6YlLn.jpg"
+      },
+      {
+        "name": "John Kellar",
+        "character": "Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zQ80ZEQmsVGaZSvmW8ub4JVJ3nP.jpg"
+      },
+      {
+        "name": "Dustin Green",
+        "character": "Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "James Hornbeck",
+        "character": "Patrick Leahy",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Loftin",
+        "character": "GW Doctor / Surgeon",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Symons",
+        "character": "Male News Anchor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lFcaLLMgVgGQK8QSfiUkoKuTDsU.jpg"
+      },
+      {
+        "name": "Stacie Greenwell",
+        "character": "Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mIWAataC2S3OuKEQ66l21f0aFz2.jpg"
+      },
+      {
+        "name": "Amy Moorman",
+        "character": "Martha Raddatz",
+        "profile_path": ""
+      },
+      {
+        "name": "Naomi Watts",
+        "character": "News Anchor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k6l8BWX1yqfGt95enzEkHoPvON4.jpg"
+      },
+      {
+        "name": "Aidan Gail",
+        "character": "12 Year Old Dick Cheney (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t6Dp8HOUVuy7mK3zg7yfvhmgfqu.jpg"
+      },
+      {
+        "name": "Alfred Molina",
+        "character": "Waiter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Adam McKay",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xbbF6DdzOv0zTBIt444Z2pakyOd.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "washington dc, usa",
+    "the white house",
+    "politics",
+    "war on terror",
+    "biography",
+    "iraq war",
+    "9/11",
+    "vice president",
+    "usa politics"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "The story of Dick Cheney, an unassuming bureaucratic Washington insider, who quietly wielded immense power as Vice President to George W. Bush, reshaping the country and the globe in ways that are still felt today.",
+    "Governor George W. Bush of Texas, picks Dick Cheney, the CEO of Halliburton Company, to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney's impressive resume includes stints as White House Chief of Staff, House Minority Whip, and Defense Secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.—Jwelch5742",
+    "From being a Yale University dropout doing odd jobs in early-1960s Wyoming, Dick Cheney decides to take back control of his life, after his sweetheart and future wife Lynne Cheney's urgent ultimatum. As an intern during Richard Nixon's administration, Cheney grabs the opportunity to join the staff of his mentor, Donald Rumsfeld, who takes him under his wing, paving the way to rise through the ranks of the White House. After losing his job during Jimmy Carter's presidency, Cheney reluctantly accepts George W. Bush's proposal to be his running mate--a decision that would grant him the power to pull the strings of foreign policy, especially after the fateful and devastating 9/11 terrorist attacks.—Nick Riganas",
+    "The political life of Dick Cheney, culminating with his Vice-Presidency in the George W. Bush administration from 2000 to 2008, is presented, that political life largely supported by his equally ambitious wife, Lynne Cheney. Their political ambitions were generally hindered by his less than charismatic demeanor which most politicians require to succeed. Those politics drifted into the right side of the spectrum rather than moving to the right by a deliberately ideological choice. But being elected the sole House Representative from their home state of Wyoming under the Republican banner led to ultimate thoughts of the top job in the White House. A number of factors kiboshed those thoughts, including how to protect his daughter Mary Cheney, who had just come out as lesbian, from public scrutiny while reconciling his support for her against the strong social conservative base of the Republican Party. The Cheneys' political fortunes changed when Dick, in the private sector as CEO of Halliburton, was asked by relatively-inexperienced George W. Bush to be his running mate. In this process, Dick began a manipulation of the system to his benefit where in his position of eventual VP he was able to be a more powerful politician working quietly and clandestinely behind the scenes than if he was actual president in the constant spotlight.—Huggo"
+  ],
+  "synopsis": "Vice is narrated by Kurt (Jesse Plemons), a fictitious veteran of the Afghanistan and Iraq Wars. The film opens with Dick Cheney (Christian Bale) and other White House officials and staff responding to the September 11 attacks. The film then flashes back to Wyoming in 1963, where Cheney finds work as a lineman but struggles with alcoholism that led him to drop out of Yale (His girlfriend Lynne got him that scholarship at Yale). After Cheney is stopped by a traffic cop for driving while intoxicated, his wife Lynne Cheney (Amy Adams) convinces her husband to clean up his life (Lynne is smart and educated, but needs Dick in 1960's as back then women cant get successful without a man's help).The film flashes forward to 1969 when Cheney finds work as a White House intern during the Nixon Administration. Working under Nixon's economic advisor Donald Rumsfeld (Steve Carell), Cheney becomes a savvy political operative as he juggles commitments to Lynne and his two daughters Liz (Lily Rabe) and Mary Cheney (Alison Pill). Cheney overhears Henry Kissinger (Kirk Bovill) discussing the secret bombing of Cambodia with President Richard Nixon, revealing the true power of the executive branch to Cheney. Rumsfeld's abrasive attitude leads to him (Nixon sends Rumsfeld to Brussels as Permanent Ambassador to NATO) and Cheney being distanced from Nixon, which works in both men's favor; after Nixon's resignation, Cheney rises to the position of White House Chief of Staff for President Gerald Ford while Rumsfeld becomes Secretary of Defense.After Ford is voted out of office, Cheney runs to be representative for Wyoming. After giving an awkward and non charismatic campaign speech, Cheney suffers his first heart attack. While he recovers, Lynne campaigns on her husband's behalf, helping him to win a seat in the U.S. House of Representatives. During the Reagan Administration, Cheney supports a raft of conservative, pro-business policies favoring the fossil fuel industries. Cheney next serves as Secretary of Defense under President George H. W. Bush during the Gulf War. Outside of politics, Cheney and Lynne come to terms with their younger daughter Mary coming out as gay. Though Cheney develops ambitions to run for president, he decides to retire from public life to spare Mary from media scrutiny.During the presidency of Bill Clinton, Cheney becomes the CEO of Halliburton while his wife Lynne raises golden retrievers and writes books. A false epilogue claims that Cheney lived the rest of his life healthy and happy in the private sector and the credits roll, only for the film to continue.Cheney is invited to become running mate to George W. Bush (Sam Rockwell) during the 2000 United States presidential election. Recognizing that the younger Bush is more interested in pleasing his father than attaining power for himself, Cheney agrees on the condition that Bush delegates \"mundane\" executive responsibilities like energy and foreign policy to him. As Vice President, Cheney works with Secretary of Defense Rumsfeld, legal counsel David Addington (Don McManus), and Chief of Staff Scooter Libby (Justin Kirk) to exercise control of key foreign policy and defense decisions throughout Washington.As VP, Cheney still manages to have regular meetings with energy CEOs' with plans to acquire Iraqi oilfields should they become available.The film returns to the aftermath of the September 11 attacks, as Cheney and Rumsfeld maneuver to initiate and then preside over the US invasions of Afghanistan and Iraq, resulting in the killing of civilians and the torture of prisoners. As the War on Terror mounts, Cheney continues to struggle with persistent heart attacks. The film also covers various events from his vice presidency, including his endorsement of the Unitary executive theory, the Plame affair, the accidental shooting of Harry Whittington, and tensions between the Cheney sisters over same-sex marriage. Cheney's actions are shown to lead to thousands of deaths and the rise of the Islamic State of Iraq and the Levant, resulting in him receiving record-low approval ratings by the end of the Bush administration.While narrating Cheney's tearful deathbed goodbye to his family after another hospitalization, Kurt is killed in a motor accident while jogging. In March 2012, his healthy heart is transplanted into Cheney. A few months later, Cheney permits Liz to take a public stand against same-sex marriage as she runs for a Senate seat in Wyoming. She later wins election to her father's former Congressional position, leading to the fragmenting of the Cheney family. At the end of the film, an irate Cheney breaks the fourth wall and delivers a monologue to the audience, stating that he has no regrets about anything he has done in his career. A mid-credits scene depicts a focus group descending into chaos when a right-winger slams the film itself as biased and wrestles with a liberal panelist, while two younger panelists discuss the next Fast and Furious movie.",
+  "imdb_score": 7.2
+}

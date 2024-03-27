@@ -1,0 +1,391 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
+  "id": 490132,
+  "title": "Green Book",
+  "poster_path": "https://image.tmdb.org/t/p/w500/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+  "release_date": "2018-11-16",
+  "vote_average": 8.243,
+  "vote_count": 10855,
+  "popularity": 51.707,
+  "overview": "Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans, forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line, relied on a guide called The Negro Motorist Green Book.",
+  "imdb_id": "tt6966692",
+  "budget": 23000000,
+  "homepage": "http://GreenBookFilm.com",
+  "revenue": 319700000,
+  "runtime": 130,
+  "tagline": "Inspired by a True Friendship",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    "Participant",
+    "DreamWorks Pictures",
+    "Cinetic Media",
+    "Innisfree Pictures",
+    "Alibaba Pictures Group"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Viggo Mortensen",
+        "character": "Tony Lip",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+      },
+      {
+        "name": "Mahershala Ali",
+        "character": "Dr. Don Shirley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg"
+      },
+      {
+        "name": "Linda Cardellini",
+        "character": "Dolores",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bcycvynDprC1rrhBNrnBjn5uOUd.jpg"
+      },
+      {
+        "name": "Sebastian Maniscalco",
+        "character": "Johnny Venere",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8TvA9HEwURJmY9MkkUruB4Sl0lR.jpg"
+      },
+      {
+        "name": "Dimiter D. Marinov",
+        "character": "Oleg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lZwHZ27xqsPsuswcxyx6uWSh5VP.jpg"
+      },
+      {
+        "name": "Mike Hatton",
+        "character": "George",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f1dQlVm0plWWCcFczq4d9jTQUxN.jpg"
+      },
+      {
+        "name": "P.J. Byrne",
+        "character": "Record Exec",
+        "profile_path": "https://image.tmdb.org/t/p/w185/shniQxLvKNvANyJy3hLG8Oo7fW7.jpg"
+      },
+      {
+        "name": "Joe Cortese",
+        "character": "Gio Loscudo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4Z2PvYRrpZ27xLKnDrtX6iRmJ3e.jpg"
+      },
+      {
+        "name": "Maggie Nixon",
+        "character": "Copa Coat Check Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8TgkYPwmsjZkkcS9OJSeY3Hc4RC.jpg"
+      },
+      {
+        "name": "Von Lewis",
+        "character": "Bobby Rydell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bD92UEjqBKe3Tu075Ww8BENDCaO.jpg"
+      },
+      {
+        "name": "Jon Sortland",
+        "character": "Rydell Band Leader",
+        "profile_path": ""
+      },
+      {
+        "name": "Don Stark",
+        "character": "Jules Podell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lkPWvElz5RxR4t4v3hM4SRy5E1j.jpg"
+      },
+      {
+        "name": "Anthony Mangano",
+        "character": "Copa Bouncer Danny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mfCIhsVXY5M0j5ZUHV93tgulqQX.jpg"
+      },
+      {
+        "name": "Paul Sloan",
+        "character": "Copa Maitre D' Carmine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xv187orDP1MOO0aKp2LadhMI81T.jpg"
+      },
+      {
+        "name": "Quinn Duffy",
+        "character": "Mikey Cerrone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8xBIEOXmMSgaDMWYcHDVR5MReY6.jpg"
+      },
+      {
+        "name": "Seth Hurwitz",
+        "character": "Johnny Randazzo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yhM80wPIUpmxD0AAgbSiT6lQiuQ.jpg"
+      },
+      {
+        "name": "Hudson Galloway",
+        "character": "Nick Vallelonga",
+        "profile_path": ""
+      },
+      {
+        "name": "Gavin Foley",
+        "character": "Frankie Vallelonga",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sRltdzqpc2JdZNmXa3Z6UPXckFe.jpg"
+      },
+      {
+        "name": "Rodolfo Vallelonga",
+        "character": "Grandpa Nicola Vallelonga",
+        "profile_path": ""
+      },
+      {
+        "name": "Louis Venere",
+        "character": "Grandpa Anthony Venere",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Vallelonga",
+        "character": "Rudy Vallelonga",
+        "profile_path": ""
+      },
+      {
+        "name": "Don DiPetta",
+        "character": "Louie Venere",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e3sv7LBTdAfJqbulhf0GdsqlpnI.jpg"
+      },
+      {
+        "name": "Jenna Laurenzo",
+        "character": "Fran Venere",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7QQkzwcmEvvYrsPR58aJZhtEmSm.jpg"
+      },
+      {
+        "name": "Suehyla El-Attar",
+        "character": "Lynn Venere",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d7vKO2lk8ojTaleeLU8yjhpFGFb.jpg"
+      },
+      {
+        "name": "Kenneth Israel",
+        "character": "Bronx Floor Repairman #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qxXRkPGV5Iyb2hmhDRlvzbe6oJp.jpg"
+      },
+      {
+        "name": "Derrick Spears",
+        "character": "Bronx Floor Repairman #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Johnny Williams",
+        "character": "Fat Paulie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mQNhYK7SCzj6TY6m764ROposuRY.jpg"
+      },
+      {
+        "name": "Randal Gonzalez",
+        "character": "Gorman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ebkmAYv65wkC5CimkotSO9v5rbC.jpg"
+      },
+      {
+        "name": "Iqbal Theba",
+        "character": "Amit",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ySSf1uWuGkyRgNwyFjB3jJipzgQ.jpg"
+      },
+      {
+        "name": "Sharon Landry",
+        "character": "Carnegie Hall Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uABdE5wKu3c2KkqaJw6IcYXool9.jpg"
+      },
+      {
+        "name": "Nick Vallelonga",
+        "character": "Augie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h0GwAHN1J5lDysqgWxMIg66LNBW.jpg"
+      },
+      {
+        "name": "David An",
+        "character": "Bobby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5iKVbJyMpxwZ0VRVsDDWdwzRr6O.jpg"
+      },
+      {
+        "name": "Mike Cerrone",
+        "character": "Joe and Joe's Customer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fHGgN0FMz3mV2iyhMgpqpdtyUMg.jpg"
+      },
+      {
+        "name": "Peter Gabb",
+        "character": "Charlie the Pawn Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Gertrud Sigle",
+        "character": "Marie",
+        "profile_path": ""
+      },
+      {
+        "name": "Geraldine Singer",
+        "character": "Pittsburgh MC",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qqm2mlRUx7tHdc6DumugSscDALN.jpg"
+      },
+      {
+        "name": "Ron Flagge",
+        "character": "Pittsburgh Chauffeur",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Bats Bradford",
+        "character": "Pittsburgh Busboy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AdvVKzkT8dtNoRPm5i1Q7UvUriN.jpg"
+      },
+      {
+        "name": "Ted Huckabee",
+        "character": "Indiana Stage Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qOBcQjDBcyNKEM5aRcOVBug7G3P.jpg"
+      },
+      {
+        "name": "Gralen Bryant Banks",
+        "character": "Horseshoe Man #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mLxMcf6IoX6e0K1YpERdKY4t0Hc.jpg"
+      },
+      {
+        "name": "Sam Malone",
+        "character": "Horseshoe Man #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wLZcQpd8s2tvYKWc88prXkRs8Tf.jpg"
+      },
+      {
+        "name": "Floyd Miles",
+        "character": "Floyd",
+        "profile_path": ""
+      },
+      {
+        "name": "David Kallaway",
+        "character": "Redneck #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8aLofxx0W42xhLH3mPAZT6rcGoT.jpg"
+      },
+      {
+        "name": "James W. Evermore",
+        "character": "Redneck #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5dbxeqhbKrbjAXZFc0tTGavEeti.jpg"
+      },
+      {
+        "name": "Harrison Stone",
+        "character": "Redneck #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wQseyyHclVhxSJGjY9rcKGjJefM.jpg"
+      },
+      {
+        "name": "Ricky Muse",
+        "character": "Barkeep",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2tGntlFcMUEzZYyfzpKRF3DyhS7.jpg"
+      },
+      {
+        "name": "Tom Virtue",
+        "character": "Morgan Anderson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/etCc7aFC9gOzOctFERT7e6qC83C.jpg"
+      },
+      {
+        "name": "Christina Simpkins",
+        "character": "Margaret Anderson",
+        "profile_path": ""
+      },
+      {
+        "name": "Kermit Burns III",
+        "character": "Pimento Cheese Waiter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cFZ2Lxj9gWAdsBQFzUTRvRTrT0P.jpg"
+      },
+      {
+        "name": "Lindsay Brice",
+        "character": "Frances Selden",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oW6o8jecJQBTUzd0ZcsJgtURHwI.jpg"
+      },
+      {
+        "name": "Shane Partlow",
+        "character": "Tailor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rVqRU4Ooc7kYjeTvT6W8niBX3pC.jpg"
+      },
+      {
+        "name": "Daniel Greene",
+        "character": "Macon Cop #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fQFvA1ksyWXiBBmSuKkgbBGvqZv.jpg"
+      },
+      {
+        "name": "Brian Distance",
+        "character": "Macon Cop #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xBl5YijUuWN1PK2OYUB3h435kbC.jpg"
+      },
+      {
+        "name": "Craig DiFrancia",
+        "character": "Dominic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/szwpdggIqQfB8NMqhnkyR3vwPZx.jpg"
+      },
+      {
+        "name": "Dennis W. Hall",
+        "character": "Mags",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l9Po37zTl20kFLMUTTxBV68jBBP.jpg"
+      },
+      {
+        "name": "Leslie Castay",
+        "character": "Well-Dressed Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zOdwk0PMnDoGZFLw1j43mywYRIT.jpg"
+      },
+      {
+        "name": "David Simpson",
+        "character": "Louisiana Host",
+        "profile_path": "https://image.tmdb.org/t/p/w185/11GdHNUq6YWSkfzzJ5l7rkmbHa3.jpg"
+      },
+      {
+        "name": "Jim Klock",
+        "character": "Patrolman #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uP9BqJHWhtLmJ2UEmwSiRp4jpp6.jpg"
+      },
+      {
+        "name": "Billy Breed",
+        "character": "Patrolman #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tIV7qBdTM8H9hzzxIZFWHzFFwB2.jpg"
+      },
+      {
+        "name": "Dane Rhodes",
+        "character": "Police Chief",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dJ1DLOEKcFmZyAV3bg4Q1lbhtgE.jpg"
+      },
+      {
+        "name": "Brian Stepanek",
+        "character": "Graham Kindell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oxBgwkiEZtoHE4Uqi7GMwM3sK9x.jpg"
+      },
+      {
+        "name": "Jon Michael Davis",
+        "character": "Birmingham Hotel Maitre D'",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cwVGuOfRRdHS6CpOjNQiaoF8Rt6.jpg"
+      },
+      {
+        "name": "Montrel Miller",
+        "character": "Birmingham Hotel Waiter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m86MTcf4WABYarhp9Z0M3zDa1PZ.jpg"
+      },
+      {
+        "name": "Ninja N. Devoe",
+        "character": "Orange Bird Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/85wHAJNTAHnsb6HgDZkYBYbWsmz.jpg"
+      },
+      {
+        "name": "Brian Hayes Currie",
+        "character": "Maryland State Trooper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fZ7wnZvxVKIoYCsHYUIgmkfQwk.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Peter Farrelly",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3PDYOFfk5NLmNcEz6SFZmdmqVZr.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "friendship",
+    "southern usa",
+    "road trip",
+    "racism",
+    "pianist",
+    "driver",
+    "lgbt",
+    "road movie",
+    "music tour",
+    "1960s",
+    "roadtrip"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
+    "In 1962, tough bouncer Frank \"Tony Lip\" Vallelonga searches for work while his nightclub is closed for renovations. The most promising offer turns out to be the driver for African-American classical pianist Don Shirley for a concert tour into the Deep South states. Although hardly enthused at working for a Black man, Tony accepts the job and they begin their trek armed with \"The Negro Motorist Green Book,\" a guide for safe travel through America's racial segregation. The snobbishly erudite pianist and the crudely practical bouncer can barely get along with their clashing attitudes to life and ideals. However, as the disparate pair witness and endure America's appalling injustices on the road, they find a newfound respect for each other's talents and start to face them together. In doing so, they nurture an understanding and a friendship that would change both their lives.—Kenneth Chisholm (kchishol@rogers.com)",
+    "New York City bouncer Frank \"Tony Lip\" Vallelonga is searching for new employment after his nightclub is closed for renovations, eventually landing an interview as a driver for \"Doc\" Don Shirley, a famed pianist. Their first encounter does not go well, as Tony's flippant, uncultured behavior clashes with Don's sophisticated, reserved demeanor. However, Don eventually hires Tony on the strength of others' word, as he needs someone to help him stay out of trouble during an eight-week concert tour through the Deep South. They embark with plans to return home on Christmas Eve. Don's recording studio gives Tony a copy of the \"Green Book\": a guide for Black travelers to find safe havens throughout the segregated South. As they begin the tour in the Midwest, then head further south, Tony and Don clash over their differences; Tony feels uncomfortable being asked to act properly, while Don is disgusted by Tony's habits. Regardless, Tony finds himself impressed with Don's talent on the piano--and increasingly disgusted by the discriminatory treatment the latter receives from the hosts when he is not on stage. After a bar incident leads to a group of white men threatening Don's life, Tony rescues him by threatening to pull a gun on them. He instructs Don not to go out without him for the rest of the tour.",
+    "Dr. Don Shirley is a world-class African-American pianist who is about to embark on a concert tour in the Deep South in 1962. In need of a driver and protection, Shirley recruits Tony Lip, a tough-talking bouncer from an Italian-American neighborhood in the Bronx. Despite their differences, the two men soon develop an unexpected bond while confronting racism and danger in an era of segregation.—Jwelch5742",
+    "In early-1960s openly and legally segregated America, two polar opposites--distinguished, refined African-American classical pianist Don Shirley and uncultivated Italian-American nightclub bouncer Tony Vallelonga--are about to form an unlikely friendship. With New York's Copacabana Club being renovated, Don and his new problem-solver chauffeur embark on a two-month concert tour through the hostile Deep South, equipped only with a subtly tremendous talent, a serenely resilient dignity, and a little vert guide book for visitors--The Negro Motorist Green-Book. Before endless kilometers of unfriendly territory, a single man chooses the hard way for the sake of progress; can one person make a difference?—Nick Riganas"
+  ],
+  "synopsis": "New York City bouncer Frank \"Tony Lip\" Vallelonga (Viggo Mortensen) is searching for new employment after the nightclub he works at is closed for renovations. Tony is a racist, while his wife Dolores (Linda Cardellini) is not. He is invited to an interview with \"Doc\" Don Shirley (Mahershala Ali), a colored pianist who is looking for a driver for his eight-week concert tour through the Deep South. Don hires Tony on the strength of his references. They embark with plans to return to New York on Christmas Eve. Tony is given a copy of the Green Book by Don's record studio: a guide for colored travelers to find motels, restaurants, and filling stations that would serve colored folks.They begin the tour in the Midwest before eventually heading further south. Tony and Don initially clash; as Tony feels uncomfortable being asked to act with more refinement, while Don is disgusted by Tony's habits (urinating by the wayside, not trusting Don at all, Gambling, Cursing, Diction, stealing, smoking). As the tour progresses, Tony is impressed with Don's talent on the piano, and increasingly appalled by the discriminatory treatment the latter receives by their hosts and the general public when he is not on stage. A group of white men threaten Don's life in a bar and Tony rescues him. He instructs Don not to go out without him for the rest of the tour.\nThroughout the journey, Don helps Tony write letters to his wife, which deeply move her. Tony encourages Don to get in touch with his own estranged brother, but Don is hesitant, observing that he has become isolated by his professional life and achievements.Don is found in a gay encounter with a white man at a YMCA pool and Tony bribes the officers to prevent the musician's arrest. Don is upset that Tony \"rewarded\" the officers for their treatment. Later, the two are arrested after a police officer pulls them over late at night in a sundown town and Tony punches him after being insulted. While they are incarcerated, Don asks to call his \"lawyer\", and uses the opportunity to reach Attorney General Robert F. Kennedy, who orders the governor to release them. Tony is amazed by the experience, while Don is humiliated. This leads to an argument where Tony angrily considers himself \"more colored\" than Don. Having reached his breaking point, Don laments to Tony that his affluence prevents him from identifying with people of his race while his race prevents him from being accepted by white people, making him feel truly alone in the world.On the night of the final performance on tour in Birmingham, Alabama, Don is refused entry into the whites-only dining room of the hotel venue. Tony threatens the owner, and Don refuses to play since they refuse to serve him in the room with his audience. He and Tony then go to a predominantly colored blues club where Don rouses the crowd with his music. Tony and Don head back north late at night in a snowstorm to try to make it home by Christmas Eve. Don takes over driving duty when Tony gets too tired, and they make it in time for Tony's family dinner, to which he invites Don. The latter returns to his apartment, but ends up going to Tony's, where he is welcomed by all after a brief silence.",
+  "imdb_score": 8.2
+}

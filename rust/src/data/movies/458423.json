@@ -1,0 +1,1201 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/gtv2H1u9eGffjxVqNfJBZuFCKxR.jpg",
+  "id": 458423,
+  "title": "Mamma Mia! Here We Go Again",
+  "poster_path": "https://image.tmdb.org/t/p/w500/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg",
+  "release_date": "2018-07-09",
+  "vote_average": 7.126,
+  "vote_count": 3188,
+  "popularity": 30.171,
+  "overview": "Five years after meeting her three fathers, Sophie Sheridan prepares to open her mother’s hotel. In 1979, young Donna Sheridan meets the men who each could be Sophie’s biological father.",
+  "imdb_id": "tt6911608",
+  "budget": 75000000,
+  "homepage": "http://mammamiamovie.com",
+  "revenue": 395100000,
+  "runtime": 113,
+  "tagline": "Discover how it all began.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    "Littlestar",
+    "Playtone",
+    "Legendary Pictures",
+    "Universal Pictures"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Lily James",
+        "character": "Teenage Donna Sheridan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nZaBqEZrJ2rm2bRIpvThBhqZYM5.jpg"
+      },
+      {
+        "name": "Amanda Seyfried",
+        "character": "Sophie Sheridan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wcHYErlynY8xWe6X7RmqEqpMBGl.jpg"
+      },
+      {
+        "name": "Meryl Streep",
+        "character": "Donna Sheridan-Carmichael",
+        "profile_path": "https://image.tmdb.org/t/p/w185/emAAzyK1rJ6aiMi0wsWYp51EC3h.jpg"
+      },
+      {
+        "name": "Cher",
+        "character": "Ruby Sheridan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/neVzXXdinRWHKbnVO5IU0K8z1SL.jpg"
+      },
+      {
+        "name": "Andy García",
+        "character": "Señor Fernando Cienfuegos",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aRooE4lECWf0YXd2NefeM4Wu4rn.jpg"
+      },
+      {
+        "name": "Alexa Davies",
+        "character": "Teenage Rosie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jQbCVOOmkQpGZ9nQuORDZXgyUVq.jpg"
+      },
+      {
+        "name": "Jessica Keenan Wynn",
+        "character": "Teenage Tanya",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rPsMIRNie4IFRibjDracyS4JPQc.jpg"
+      },
+      {
+        "name": "Dominic Cooper",
+        "character": "Sky Ramand",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wFPdARerxpaAaHucYGTSNqViWpn.jpg"
+      },
+      {
+        "name": "Julie Walters",
+        "character": "Rosie Mulligan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
+      },
+      {
+        "name": "Christine Baranski",
+        "character": "Tanya Chesham-Leigh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x6jNFlGrzaM0LwK2GsxBNdCN41N.jpg"
+      },
+      {
+        "name": "Pierce Brosnan",
+        "character": "Sam Carmichael",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AdFQZh4iGRT0qjwU9hTmTtyQ1xJ.jpg"
+      },
+      {
+        "name": "Colin Firth",
+        "character": "Harry Bright",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4VBeYEUQbfhnivdkqInM36u5fda.jpg"
+      },
+      {
+        "name": "Stellan Skarsgård",
+        "character": "Bill Anderson / Kurt Anderson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x78BtYHElirO7Iw8bL4m8CnzRDc.jpg"
+      },
+      {
+        "name": "Jeremy Irvine",
+        "character": "Teenage Sam Carmichael",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nPeBcyemdjH7zu8fL8gu9O0lnsb.jpg"
+      },
+      {
+        "name": "Josh Dylan",
+        "character": "Teenage Bill Anderson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3JxYuaQF6RddYo6zcpf1UX9J5Ry.jpg"
+      },
+      {
+        "name": "Hugh Skinner",
+        "character": "Teenage Harry Bright",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8EKiF1rBmpQxi73ryXdcYH7FZpp.jpg"
+      },
+      {
+        "name": "Maria Vacratsis",
+        "character": "Sofia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8HkZMChHTjIS7MhUISB4Fd94xQs.jpg"
+      },
+      {
+        "name": "Panos Mouzourakis",
+        "character": "Lazaros",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fBl7agfw7vg0P7ETWZS7FCcsK7M.jpg"
+      },
+      {
+        "name": "Celia Imrie",
+        "character": "Vice Chancellor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eEtVfESOVnkkdPLYkyQpalEwAwj.jpg"
+      },
+      {
+        "name": "Omid Djalili",
+        "character": "Greek Official",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lCgVvAw8EkIKbc93ZtINdwxH1CV.jpg"
+      },
+      {
+        "name": "Gerard Monaco",
+        "character": "Alexio",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qMSwdA3InoaA2p8kFObUb2RoL8w.jpg"
+      },
+      {
+        "name": "Togo Igawa",
+        "character": "Mr. Tatyama",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ceEgj3Ezbf07xWvb8CWh0MEhpTg.jpg"
+      },
+      {
+        "name": "Naoko Mori",
+        "character": "Yumiko",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ivNc7exsK13ImcL7A56hQoLXG6N.jpg"
+      },
+      {
+        "name": "Anastasia Hille",
+        "character": "Dr. Inge Horvath",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7xEVIVIizaKG624qheOpCz3I4YE.jpg"
+      },
+      {
+        "name": "Björn Ulvaeus",
+        "character": "University Professor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vYNv9yl9Fy5tg55hXCAgRJY4mbH.jpg"
+      },
+      {
+        "name": "Benny Andersson",
+        "character": "Cafe Pianist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uOM6cyli5ULhBEkgWbvuA8KZZ5E.jpg"
+      },
+      {
+        "name": "Jonathan Goldsmith",
+        "character": "Brother Rafael Cienfuegos",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dCOO6NtaRKFPEHwOqmLIGt3DoRR.jpg"
+      },
+      {
+        "name": "Anna Antoniades",
+        "character": "Apollonia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lx6iBJJyeccdYpODC5MIXEXElDX.jpg"
+      },
+      {
+        "name": "Susanne Barklund",
+        "character": "Alma",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mjRDE7NlD6rN8ADU35sDxLmyhSa.jpg"
+      },
+      {
+        "name": "Sharif Afifi",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7WihMwpvjYbY8HXxjzeREZDDZZj.jpg"
+      },
+      {
+        "name": "Kathryn Akin",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1CR7rYwRCHmHi0504Nn8JJ4URVJ.jpg"
+      },
+      {
+        "name": "Joe Allen",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Anthony",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Wendy Baldock",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mVoAqpglIOQ8j0wu3iN0BMcfhP7.jpg"
+      },
+      {
+        "name": "Caroline Bateson",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Omari Bernard",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/55JpSg70hkfpUjaJU3jZBye58Nq.jpg"
+      },
+      {
+        "name": "Christopher Blades",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Hannah Bodenham",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicole Bondzie",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Teneisha Bonner",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lauren Bott",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniella Bowen",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "William Bozier",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5bbXhCh4inuGjKMKkJctWZzfP2B.jpg"
+      },
+      {
+        "name": "Dale Branston",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g2Y5Vl2wZfoGseATPhoQKOcCdwe.jpg"
+      },
+      {
+        "name": "Jacqueline Braun",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hhbvxr0uUwYGrKESfQ4IDY36bAw.jpg"
+      },
+      {
+        "name": "Ava Brennan",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tJPgtOAELi5QKa6MUVN3HgPjFFt.jpg"
+      },
+      {
+        "name": "Myles Brown",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlie Bruce",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Dawn Buckland",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rE2XoSLlMpW5wEAlT2KyIOmh1kw.jpg"
+      },
+      {
+        "name": "Ashley Campbell",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Natalia Campbell",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Vanessa Campbell",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Clive Carter",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Harry Carter",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7bd8gLIOLWAFL2HBNoOPA2MC5sx.jpg"
+      },
+      {
+        "name": "Chrissie Cartwright",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Challis",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dbrnWiBuOxEaoDt7EuZIQbBrf08.jpg"
+      },
+      {
+        "name": "Frances Maassen Chiapetta",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Javier Cid",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Cassie Clare",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bn18nRKMVGJ2EgUg82aXugtyZz9.jpg"
+      },
+      {
+        "name": "Tom Clark",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wYQkvbOeiFsNdSjaolyX6ovJPVa.jpg"
+      },
+      {
+        "name": "Ray Clarke",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Dominic Clarson",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Emma Clayton",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicola Coates",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Elliot Collins",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Leon Cooke",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2ltoe0Ue76EAO0u1D9KbNjj60Kg.jpg"
+      },
+      {
+        "name": "Sarah Cortez",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rFhVGqvWh2S3wNqD2r4bYyzGClf.jpg"
+      },
+      {
+        "name": "Joe Da Costa",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Alie Coste",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Robbie Culley",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Daish",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s61Fw3W45TTif6WkREy7qgW6uoJ.jpg"
+      },
+      {
+        "name": "Jo Darby",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Natalie Davis",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Imelda de los Reyes",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Emma Deigman",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Reece Darlington Delaire",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeannine Desmier",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nathalie Desmier",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Maria Despina",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/23G7nzm7dNISevWW3MasCs91iYe.jpg"
+      },
+      {
+        "name": "Kieran Donovan",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sonia Dorado",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zZbOyaIIoT2dTSsrIHnbSn6BW5d.jpg"
+      },
+      {
+        "name": "Matthew James Duff",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nathaniel Ellul",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/twfQBPGkBxUMCWRyMBG1Qy96N72.jpg"
+      },
+      {
+        "name": "James Alan-Evans",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Claire Fishenden",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nia Fisher",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hO850L0bwDoIQegLXwDp7L4okAS.jpg"
+      },
+      {
+        "name": "Jane Fowler",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/abCPKxFI9X3JuPPuZhwIERFtpBk.jpg"
+      },
+      {
+        "name": "Tommy Franzen",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/chwAeHoDGPTTwAAn5sKwX565RU8.jpg"
+      },
+      {
+        "name": "Rory Furey-King",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Adam Galbraith",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5jmBGipp1DXqP6I1pO8Zsnxiqd0.jpg"
+      },
+      {
+        "name": "Jenny Galloway",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/almfxQo6b6MACL83rjsXxvR4ID1.jpg"
+      },
+      {
+        "name": "Jemma Geanaus",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qvqW7n4OCSmZTrikkiIZDWsUszz.jpg"
+      },
+      {
+        "name": "Chris George",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Linda Gibbs",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Louise Gold",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9svBFiWFS7vgWrWHkN9hR8zCCXL.jpg"
+      },
+      {
+        "name": "Mark Goldthorp",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xA0xc7C4gI7nAV4Mbfqx3VVqyvq.jpg"
+      },
+      {
+        "name": "Sharon Gomez",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a2YFy9AvpMRoV6Hsk1jWYuwopoM.jpg"
+      },
+      {
+        "name": "Georgia Reid Hamilton",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Hamshire",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Crystal Hantig",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Alison Harding",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5nF3agdWip4mnlx5P5Jk8HcMiFf.jpg"
+      },
+      {
+        "name": "Layla Harrison",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sM87T9W162tAlOmeMal3bTb8DmP.jpg"
+      },
+      {
+        "name": "Yasmin Harrison",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4Eu6648a2QNsyBRJWksTflG2WHh.jpg"
+      },
+      {
+        "name": "Linzi Hateley",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ga4nBTXq1ZpScmy2oGrGx6blB9Z.jpg"
+      },
+      {
+        "name": "Pip Hersee",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6aVSO2AmF9T07WuHWpfOLc9WW8Q.jpg"
+      },
+      {
+        "name": "Leonie Hill",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Hinton",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Todd Holdsworth",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Howie",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Lukas Hunt",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Parsifal James Hurst",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Katherine Isles",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kim Ismay",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacqui Jameson",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Cherelle Jay",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Alim Jayda",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mNHlhvrfAyXLcvewnndfvT6AZaR.jpg"
+      },
+      {
+        "name": "Alison Jenkins",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Carolyn Jones",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jamie Karitzis",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicola Keen",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wrWE2rtrIPAlBck0ChhU8otIZid.jpg"
+      },
+      {
+        "name": "Craig Anthony-Kelly",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yy2w6hzlUjBV9yoY5UMxMc4cVX6.jpg"
+      },
+      {
+        "name": "Matt Kennedy",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rywFuoNe1aFAPQFai2BR3O8Op8j.jpg"
+      },
+      {
+        "name": "Reece Kerridge",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Krikler",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Joshua Lacey",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hbrxXXX7bh1TyGZRUHmEpPnmCXA.jpg"
+      },
+      {
+        "name": "Mitchell Lathbury",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Gemma Lawson",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Le Brun",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Georgie Leatherland",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Melvin LeBlanc",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nick Len",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Leonard",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lY6eYFzKrS8eFtcq2DA3RB9iDN3.jpg"
+      },
+      {
+        "name": "Rebecca Leung",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Cassie Macmillian",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nikki Mae",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Liam Marcellino",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Edward Mascot",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Melli Matthews",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "James Paul McAllister",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Fiona McDonald",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jmQpPf6yopDvgibYybjSxTw4kQJ.jpg"
+      },
+      {
+        "name": "Myra McFadyen",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Mx6CbWCCzGyit5VsFV6Ht2Atbn.jpg"
+      },
+      {
+        "name": "Fergal McGoff",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Perry Meadowcroft",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Oliver Metzler",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Chanel Mian",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Holly Mitchell",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Mobley",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wFD7duhWg2UF6vDRgtirayNHj71.jpg"
+      },
+      {
+        "name": "Andrew Monaghan",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Mandy Montanez",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Elander Moore",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Leah Sue Morland",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jake Moyle",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Rachel Muldoon",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qWUf4W8Y7pNIMgrpMFlvhnQMF2g.jpg"
+      },
+      {
+        "name": "Charis Murray",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Mazz Murray",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p8fH1DKeA8PYOIkgYXDL93Jq44M.jpg"
+      },
+      {
+        "name": "Wolfgang Mwanje",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jayde Nelson",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Marianna Neofitou",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5VjtHfqQQ4VSPPVGxX6NCxCLkPe.jpg"
+      },
+      {
+        "name": "Robert Nerantzoulis",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jordan Nesbitt",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sam Nesti",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Oakley",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dLUmqhhWxLeYWqsVucgBGYZJ9cW.jpg"
+      },
+      {
+        "name": "Anu Ogunmefun",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Katy Osborne",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/omBd7CfSFIPfOTZVbHw8IFK1flG.jpg"
+      },
+      {
+        "name": "Aaron Ashley Parker",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Parkinson",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tamara McKoy-Patterson",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sherrie Pennington",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nuwan Hugh Perera",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Peters",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Thierry Picaut",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Pitiris",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Eve Polycarpou",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Joseph Poulton",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Zoe Purpuri",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Aaron Renfree",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dzRKj4RHGrTy0PDqpswhgVfDtp4.jpg"
+      },
+      {
+        "name": "Lisa Ritchie",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vHHZIKkSEKRc6ca793j6ZZ0DGuo.jpg"
+      },
+      {
+        "name": "Zach Robinson",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Ryan",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Simone Sault",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4i9562Tf3ZvM3hS6NaOl8xr6MKj.jpg"
+      },
+      {
+        "name": "Josie Scamell",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Julienne Schembri",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Alessio Scozzaro",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Stella Segar",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Parisa Shahmir",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Esther Scheills",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Simkins",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xDq6Nl9DbzU2dv8o4ExEIH3QzG5.jpg"
+      },
+      {
+        "name": "Gregory Sims",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Anx0yqtgMrYEAHIfQBX1ARi8c1e.jpg"
+      },
+      {
+        "name": "Helen Siveter",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Skyers",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Simon Slater",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Small",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Duncan Smith",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Philippa Stefani",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Gregor Stewart",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sandy Strallen",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q6Awb5TMQuqBQYclEvb8Tfr38xO.jpg"
+      },
+      {
+        "name": "Lizzie Stavrou",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Dean Street",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/viwCKjlUHrpJpF2zQ2BLEQjCGv9.jpg"
+      },
+      {
+        "name": "Adi Suissa",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Antonio Susinni",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jasmine Takacs",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pRo5ZnFJwc2s2JDVQ6duLk7r6HX.jpg"
+      },
+      {
+        "name": "Mikaela Taube",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Melissa Odette Teo",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kenneth Tharp",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Thomas",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Justin Thomas",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Amy Thornton",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Emily Tierney",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Poppy Tierney",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Toland",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Tomkinson",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Sebastien Torkia",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1OmdjNi5gdeOuugJ1j7Rn6K7yAh.jpg"
+      },
+      {
+        "name": "Zara Treherne",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ivWjInpK0g2OQsaUMM0JhPCOA2m.jpg"
+      },
+      {
+        "name": "Amy Trigg",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kRqVqJYdq48JNtAswtLyHPhQpvg.jpg"
+      },
+      {
+        "name": "Tim Wallers",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m3ifnldf8dszao8GgVDdsqJqeMW.jpg"
+      },
+      {
+        "name": "Billy Warren",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Wheatley",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Grace Cinque White",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Johnny White",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Chad Wilder",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Laura Wilson",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Amanda Wilkin",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bDFmkrGCi6fdfXAmfvYNLyviasn.jpg"
+      },
+      {
+        "name": "Beth Willetts",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AhkSE5Nj5kscQZ56CFAMfMY0ouS.jpg"
+      },
+      {
+        "name": "Luke Woolaston",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew Seadon-Young",
+        "character": "Ensemble Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5EUxakhHRcO8DE3mQOFVZ2HPa1y.jpg"
+      },
+      {
+        "name": "Elena Zacharia",
+        "character": "Ensemble Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Pedro Etchepare",
+        "character": "French Café Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3DiqauXxkGE8yKqVUUf8w5DdO1i.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Ol Parker",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/emW4AxRaKnKPkhR5wXttIA5qr24.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "greece",
+    "musical",
+    "sequel",
+    "greek island",
+    "aftercreditsstinger",
+    "estranged mother",
+    "long lost love",
+    "lgbt interest",
+    "jukebox musical",
+    "estranged grandparent",
+    "abba",
+    "music movie"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Five years after the events of Mamma Mia! (2008), Sophie prepares for the grand reopening of the Hotel Bella Donna as she learns more about her mother's past.",
+    "Discover Donna's (Meryl Streep, Lily James) young life, experiencing the fun she had with the three possible dads of Sophie (Amanda Seyfried). As she reflects on her mother's journey, Sophie discovers that she is more like her mother than she ever realized before.—Brian Tristam Williams",
+    "In this musical romantic comedy, a woman grapples with running her mother's villa while also expecting her first child, and worries that she won't be able to handle everything on her own, so she enlists two of her mother's friends for assurance, help, and guidance. Along the way, she learns more about her mother's past and faces a surprise visit from someone she's never met: her own grandmother. Starring Amanda Seyfried, Meryl Streep, Pierce Brosnan, Colin Firth, Stellan Skarsgärd, and Christine Baranski, and written and directed by Ol Parker.",
+    "Sophie Sheridan (Amanda Seyfried) is preparing for the grand reopening of her mother Donna's (Meryl Streep's) hotel, following Donna's death the previous year. She is upset because two of her fathers, Harry (Colin Firth) and Bill (Stellan Skarsgård), are unable to make it to the reopening and she is having trouble in her relationship with Sky (Dominic Cooper), who is in New York City, over her memorializing her mother's life. In 1979, a young Donna (Lily James) graduated from Oxford's New College with Rosie (Alexa Davies) and Tanya (Jessica Keenan Wynn), and prepares to travel the world. In Paris, she meets and parties with Harry (Hugh Skinner). They spend the night together, but she leaves soon afterwards. She later misses her boat to Kalokairi, but is offered a ride by Bill (Josh Dylan), and along the way, they help stranded fisherman Alexio (Gerard Monaco), make it in time to stop the love of his life from marrying another. Unbeknownst to Donna, Harry has followed her to Greece; but he arrives too late and sadly watches the boat sailing off in the distance."
+  ],
+  "synopsis": "",
+  "imdb_score": 6.6
+}

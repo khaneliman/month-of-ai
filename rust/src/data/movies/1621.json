@@ -1,0 +1,563 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/6Yn0N1BUYTBJDH7FyDKdHzDXarw.jpg",
+  "id": 1621,
+  "title": "Trading Places",
+  "poster_path": "https://image.tmdb.org/t/p/w500/8mBuLCOcpWnmYtZc4aqtvDXslv6.jpg",
+  "release_date": "1983-06-07",
+  "vote_average": 7.21,
+  "vote_count": 3055,
+  "popularity": 36.948,
+  "overview": "A snobbish investor and a wily street con-artist find their positions reversed as part of a bet by two callous millionaires.",
+  "imdb_id": "tt0086465",
+  "budget": 15000000,
+  "homepage": "http://www.paramount.com/movies/trading-places",
+  "revenue": 90404800,
+  "runtime": 116,
+  "tagline": "They're not just getting rich... They're getting even.",
+  "genres": [
+    "Comedy"
+  ],
+  "production_companies": [
+    "Cinema Group Ventures",
+    "Paramount"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Dan Aykroyd",
+        "character": "Louis Winthorpe III",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iVMmeVJx8IpCEjlGBZWzIWvX5Qo.jpg"
+      },
+      {
+        "name": "Eddie Murphy",
+        "character": "Billy Ray Valentine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+      },
+      {
+        "name": "Ralph Bellamy",
+        "character": "Randolph Duke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vC6cdrUUewgurTlVXt36eRAtQKb.jpg"
+      },
+      {
+        "name": "Don Ameche",
+        "character": "Mortimer Duke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p2Q0LE3SECDvb5W2yAvvfRtzIyo.jpg"
+      },
+      {
+        "name": "Denholm Elliott",
+        "character": "Coleman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eS5KwltqEj4QQGXK2zqP1WWUxKi.jpg"
+      },
+      {
+        "name": "Kristin Holby",
+        "character": "Penelope Witherspoon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mKAawXYcJS3E1FomiN7UuOKQdZZ.jpg"
+      },
+      {
+        "name": "Paul Gleason",
+        "character": "Clarence Beeks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a7PJofFcVpDxw2wAak1d56J7L4k.jpg"
+      },
+      {
+        "name": "Jamie Lee Curtis",
+        "character": "Ophelia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/biUKxigpX5aGLcKQI1SA9fvrOdy.jpg"
+      },
+      {
+        "name": "Alfred Drake",
+        "character": "President of Exchange",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vDPLdlpfWz29cfe9PEXfvc6uFNx.jpg"
+      },
+      {
+        "name": "Bo Diddley",
+        "character": "Pawnbroker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wEvWkvFJU7DAl74d6mvZJDv6ceq.jpg"
+      },
+      {
+        "name": "Frank Oz",
+        "character": "Corrupt Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg"
+      },
+      {
+        "name": "Jim Belushi",
+        "character": "Harvey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wIvFYH110ER7ukwR0qryQJJDQYH.jpg"
+      },
+      {
+        "name": "Al Franken",
+        "character": "Baggage Handler #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yQj4vgh6PHyupMe3mFeDaCNHfCq.jpg"
+      },
+      {
+        "name": "Tom Davis",
+        "character": "Baggage Handler #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Maurice Woods",
+        "character": "Duke & Duke Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard D. Fisher, Jr.",
+        "character": "Duke & Duke Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Gallagher",
+        "character": "Duke & Duke Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony DiSabatino",
+        "character": "Duke & Duke Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Bonnie Behrend",
+        "character": "Duke & Duke Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Sunnie Merrill",
+        "character": "Duke & Duke Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "James Newell",
+        "character": "Duke & Duke Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary St. John",
+        "character": "Duke & Duke Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Bonnie Tremena",
+        "character": "Duke & Duke Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "David Schwartz",
+        "character": "Duke & Duke Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Degidon",
+        "character": "Duke Domestic",
+        "profile_path": ""
+      },
+      {
+        "name": "William Magerman",
+        "character": "Duke Domestic",
+        "profile_path": ""
+      },
+      {
+        "name": "Alan Dellay",
+        "character": "Duke Domestic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lVLBbKGlPprZ7wekicjhEVjAi4r.jpg"
+      },
+      {
+        "name": "Florence Anglin",
+        "character": "Duke Domestic",
+        "profile_path": ""
+      },
+      {
+        "name": "Ray D'Amore",
+        "character": "Duke Domestic",
+        "profile_path": ""
+      },
+      {
+        "name": "Bobra Suiter",
+        "character": "Duke Domestic",
+        "profile_path": ""
+      },
+      {
+        "name": "Herb Peterson",
+        "character": "Duke Domestic",
+        "profile_path": ""
+      },
+      {
+        "name": "Sue Dugan",
+        "character": "Duke Domestic",
+        "profile_path": ""
+      },
+      {
+        "name": "Walt Gorney",
+        "character": "Duke Domestic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r4COq0gGAh8tqb4eDhvxrvRPdsD.jpg"
+      },
+      {
+        "name": "B. Constance Barry",
+        "character": "Duke Domestic",
+        "profile_path": ""
+      },
+      {
+        "name": "P. Jay Sidney",
+        "character": "Heritage Club Doorman",
+        "profile_path": ""
+      },
+      {
+        "name": "Avon Long",
+        "character": "Ezra",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Mardirosian",
+        "character": "Officer Pantuzzi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d7HTdYQ4GtRoeFKzpVtP0sjx7xx.jpg"
+      },
+      {
+        "name": "Charles Brown",
+        "character": "Officer Reynolds",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Curtis Brown",
+        "character": "Todd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rbMhXK1U9zZXcPHQKAoJ677qeak.jpg"
+      },
+      {
+        "name": "Nicholas Guest",
+        "character": "Harry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dSA11Xw5JX7uJ3SSFWc1eimtoY4.jpg"
+      },
+      {
+        "name": "John Bedford Lloyd",
+        "character": "Andrew",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tyNDFeQgf2dyjBZtRAskz1lZG1I.jpg"
+      },
+      {
+        "name": "Tony Sherer",
+        "character": "Philip",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Earl Jones",
+        "character": "Attendant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wHXkfp6KLdexNSWVHa417wLItlp.jpg"
+      },
+      {
+        "name": "Robert E. Lee",
+        "character": "Cop #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Hock",
+        "character": "Cop #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Clint Smith",
+        "character": "Doo Rag Lenny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sfELKA9icygo1fJn2m2vQJs5eoR.jpg"
+      },
+      {
+        "name": "Ron Taylor",
+        "character": "Big Black Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uXyJt7oeI5ACFODnymK1oHs5cOV.jpg"
+      },
+      {
+        "name": "James D. Turner",
+        "character": "Even Bigger Black Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Giancarlo Esposito",
+        "character": "Cellmate #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lBvDQZjxhIGMbH61iHnqerpbqHc.jpg"
+      },
+      {
+        "name": "Steve Hofvendahl",
+        "character": "Cellmate #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/miEPDs8V58RpefoQnNohhPsLPy0.jpg"
+      },
+      {
+        "name": "James Eckhouse",
+        "character": "Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iGG7iSZ5sBrmgkT9IHg1ipZCzgq.jpg"
+      },
+      {
+        "name": "Gwyllum Evans",
+        "character": "President of Heritage Club",
+        "profile_path": ""
+      },
+      {
+        "name": "Eddie Jones",
+        "character": "Cop #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nMGaE2RFCZpVv5gVlDqeLLxNql6.jpg"
+      },
+      {
+        "name": "John McCurry",
+        "character": "Cop #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aj97PGUOCfo5aG8UxYA70ReEsCb.jpg"
+      },
+      {
+        "name": "Michelle Mais",
+        "character": "Hooker #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bmP6AQh3Qf1zthLk6rEcRk9DAyO.jpg"
+      },
+      {
+        "name": "Barra Khan",
+        "character": "Hooker #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Cobbs",
+        "character": "Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cP2ETKFdk93z4e1oXZVG0utI3IM.jpg"
+      },
+      {
+        "name": "Joshua Daniel",
+        "character": "Party Goer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jacques Sandulescu",
+        "character": "Creepy Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4VSvBTIhD0xe3QtFnLhUE5ifpHw.jpg"
+      },
+      {
+        "name": "W.B. Brydon",
+        "character": "Bank Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Margaret H. Flynn",
+        "character": "Duke & Duke Receptionist",
+        "profile_path": ""
+      },
+      {
+        "name": "Kelly Curtis",
+        "character": "Muffy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m9r1KwCZro2apNZ0fjhxSHMwryw.jpg"
+      },
+      {
+        "name": "Tracey K. Shaffer",
+        "character": "Constance",
+        "profile_path": ""
+      },
+      {
+        "name": "Susan Fallender",
+        "character": "Bunny",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucianne Buchanan",
+        "character": "President's Mistress",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Garcia",
+        "character": "Jr. Executive #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Jed Gillin",
+        "character": "Jr. Executive #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Jimmy Raitt",
+        "character": "Ophelia's Client",
+        "profile_path": ""
+      },
+      {
+        "name": "Kate Taylor",
+        "character": "Duke's Secretary",
+        "profile_path": ""
+      },
+      {
+        "name": "Philip Bosco",
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gnX1WtpJk7E6hJngFQKkdpDKDi0.jpg"
+      },
+      {
+        "name": "Bill Boggs",
+        "character": "Newscaster",
+        "profile_path": ""
+      },
+      {
+        "name": "Deborah Reagan",
+        "character": "Harvey's Girlfriend",
+        "profile_path": ""
+      },
+      {
+        "name": "Don McLeod",
+        "character": "Gorilla",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen Stucker",
+        "character": "Stationmaster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/daleFkJe7LCEMzgtHTfq2SDSx78.jpg"
+      },
+      {
+        "name": "Richard Hunt",
+        "character": "Wilson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w2MOwe0wtehG5xewwZrXwRBUtD8.jpg"
+      },
+      {
+        "name": "Paul Austin",
+        "character": "Trader #1",
+        "profile_path": ""
+      },
+      {
+        "name": "John Randolph Jones",
+        "character": "Trader #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Jack Davidson",
+        "character": "Trader #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xmo1MRMfVWyh7YvePAHpdIi2xBj.jpg"
+      },
+      {
+        "name": "Bernie McInerney",
+        "character": "Trader #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q8clbGAiRLiFLjoeotLlg0KZyAB.jpg"
+      },
+      {
+        "name": "Maurice Copeland",
+        "character": "Secretary of Agriculture",
+        "profile_path": ""
+      },
+      {
+        "name": "Ralph Clanton",
+        "character": "Official #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pTwRLszCuLcc2iqO8oPJQUd72dT.jpg"
+      },
+      {
+        "name": "Bryan Clark",
+        "character": "Official #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lxqpfm9KiCixLub1G5VzwuuG1xn.jpg"
+      },
+      {
+        "name": "Gary Klar",
+        "character": "Longshoreman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/evmHi96cDCtPSIcQBrDU7OnksTb.jpg"
+      },
+      {
+        "name": "Afemo Omilami",
+        "character": "Longshoreman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/usW1GHq20ZEX3rpei1HpeXfSpiP.jpg"
+      },
+      {
+        "name": "Shelly Chee Chee Hall",
+        "character": "Monica",
+        "profile_path": ""
+      },
+      {
+        "name": "Donna Palmer",
+        "character": "Gladys",
+        "profile_path": ""
+      },
+      {
+        "name": "Barry Dennen",
+        "character": "Demitri",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zSRROjxzdgbMRSPjpq2Kfpszd4J.jpg"
+      },
+      {
+        "name": "Murray Bandel",
+        "character": "Man at Police Station (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Benjean",
+        "character": "Stray Dog (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Black",
+        "character": "Man Sitting on Couch at Party (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rNdym4RjvG840RxFyGQJyVJdVbe.jpg"
+      },
+      {
+        "name": "John Landis",
+        "character": "Man with Briefcase  (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nXKdxxELgAaGecCpxAWCoj6TV3f.jpg"
+      },
+      {
+        "name": "Shirley Levine",
+        "character": "Bag Lady  (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Pendelton",
+        "character": "Cop  (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eRZWDZYqkqtHRIARvCnGotkCn3h.jpg"
+      },
+      {
+        "name": "Yvonna Russell",
+        "character": "Girl in Park  (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jan Saint",
+        "character": "Man in Police Station (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Arleen Sorkin",
+        "character": "Woman at Party  (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xnDqvoa0ZKPZRVLNyBaGhmwRTp8.jpg"
+      },
+      {
+        "name": "Ronald Sylvers",
+        "character": "Rolls Royce Driver  (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marlene Willoughby",
+        "character": "Woman Passed Out on Couch (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nXK4m7DqzJtDZpJqmzYdBZkiH6g.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "John Landis",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nXKdxxELgAaGecCpxAWCoj6TV3f.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "prostitute",
+    "philadelphia, pennsylvania",
+    "holiday",
+    "butler",
+    "christmas party",
+    "rags to riches",
+    "broker",
+    "beggar",
+    "wager",
+    "stockbroker",
+    "fish out of water",
+    "millionaire",
+    "commodities",
+    "investor",
+    "big shot",
+    "hoodlum",
+    "wrongful arrest",
+    "rich snob",
+    "gorilla costume",
+    "christmas",
+    "riches to rags",
+    "santa claus costume"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A snobbish investor and a wily street con artist find their positions reversed as part of a bet by two callous millionaires.",
+    "Louis Winthorpe is a businessman who works for commodities brokerage firm of Duke and Duke owned by the brothers Mortimer and Randolph Duke. Now they bicker over the most trivial of matters and what they are bickering about is whether it's a person's environment or heredity that determines how well they will do in life. When Winthorpe bumps into Billy Ray Valentine, a street hustler and assumes he is trying to rob him, he has him arrested. Upon seeing how different the two men are, the brothers decide to make a wager as to what would happen if Winthorpe loses his job, his home and is shunned by everyone he knows and if Valentine was given Winthorpe's job. So they proceed to have Winthorpe arrested and to be placed in a compromising position in front of his girlfriend. So all he has to rely on is the hooker who was hired to ruin him.—rcs0411@yahoo.com",
+    "Philadelphia based Louis Winthorpe III was born into and has solely lived a life of privilege. He is Harvard educated, is successful at his job, has a lavish home paid for by his employers, and is wealthy. The children he will probably have with his fiancée Penelope will most likely also know nothing but privilege. But he and his friends, who all have similar backgrounds, are pompous and snobbish. His job is as managing director at Duke & Duke, a commodities brokerage house owned by brothers Randolph and Mortimer Duke. The Duke brothers often disagree with each other and make wagers on the outcome of these disagreements. Their latest wager is about \"nature versus nurture\": the importance environment plays versus one's natural bloodline in determining how one's life will turn out. The guinea pigs in their experiment are Winthorpe, whose life they will attempt to ruin to see how he reacts, and Billy Ray Valentine, a black hustler/crook who the Dukes and Winthorpe encountered in one of his scams. Like Winthorpe, Valentine was born into and has lived the only life he has ever known. They will attempt to place Valentine into every aspect of Winthorpe's life to see how he functions. Without either knowing of anyone else involved, Coleman, Winthorpe's manservant who is officially employed by the Dukes in his day-to-day job, and a streetwise hooker named Ophelia each play a role in the Duke's plan. Also deeply involved in their plan is a private detective the Dukes often use, Clarence Beeks. Beyond the outcome of the Dukes' experiment, can either Winthorpe or Valentine change the course of the new life set out for them by the Dukes, even if they knew what the Dukes were doing? Regardless, this experience will fundamentally change the lives of both Winthorpe and Valentine, but not at without the expense of others as well.—Huggo",
+    "Endowed with inexhaustible wealth, unscrupulous Wall Street brothers Mortimer and Randolph think they know all about human nature. Eager to prove their radical theories, the stuck-up tycoons wager a bet on whether proper surroundings or strong genes define a person's life. With this in mind, they heap a mountain of misfortune on blissfully unsuspecting stockbroker Louis Winthorpe III, forcing him to trade places with Billy Ray Valentine, a streetwise nobody with no future. But as the cold manipulators pit heredity against environment for their perverse pleasure, pressing questions arise. Can Valentine become Winthorpe overnight? Will disgraced Louis turn to crime like a duck takes to water?—Nick Riganas",
+    "Mortimer and Randolph Duke are commodity brokers who enjoy a little wager now and then. For the latest bet, Randolph believes they can take a common criminal and make him a successful businessman in the company. The criminal, Billy Ray, is to be given the job and home of Louis, who in turn is set up for crimes he didn't commit, to see if he resorts to crime once he's lost his rich environment and friends.—Rob Hartill"
+  ],
+  "synopsis": "Duke brothers Randolph (Ralph Bellamy) and Mortimer (Don Ameche) own Duke & Duke, a successful commodities brokerage in Philadelphia. Holding opposing views on the nature versus nurture issue, they make a wager and agree to conduct an experiment switching the lives of two people at opposite sides of the social hierarchy and observing the results. They witness an encounter between their managing director, the well-mannered, cultured and educated Louis Winthorpe III (Dan Aykroyd), engaged to the Dukes' niece Penelope (Kristin Holby) and a poor African-American street hustler named Billy Ray Valentine (Eddie Murphy). Valentine is first seen as a dirt-poor con artist who pretends to be blind and paralyzed from the waist down, rolling around the streets of Philly begging for money, when he has a run-in with Winthorpe outside his office building after being chased out of Fairmont Park by two policemen, who order him to stop panhandling. Valentine gets arrested at the racist Winthorpe's insistence because of a suspected robbery attempt. The Dukes decide to use the two men for their experiment, settling on the \"usual amount\" for their bet. Their plan involves two specific objectives: Valentine must become successful as an employee for the Dukes and Louis must become destitute and be branded a criminal.The next day, Winthorpe attends a meeting at his gentlemen's club. Moments before the meeting, an operative working for the Dukes, Clarence Beeks (Paul Gleeson), slips some money into Winthorpe's coat pocket. At the meeting, he is exposed as a thief when the cash is found on his person. He is fired from his job, his bank accounts are frozen, he is treated roughly during processing at the police precinct. When Penelope shows up to collect him, he is accosted by a prostitute, Ophelia (Jamie Lee Curtis) who was paid to do so by Beeks. He is later denied entry to the Duke-owned townhome where he resides by his long-serving butler, Coleman (Denholm Elliott), who pretends not to recognize Louis and is informed his bank account is frozen and his credit cards will have to be repossessed. He is thrown out of the bank and on to the street. Pleading with Ophelia to help him -- he reminds her that she helped whomever is trying to ruin his life -- she agrees to let him stay with her at her slum apartment until he can pay her back and figure out how to turn his misfortune around. He discovers that Ophelia is a very smart, business-minded woman who has a lot of money invested in several securities, hoping to one day retire comfortably.Ostracized and abandoned by Penelope and his former friends who believe the trumped-up charges against him, Winthorpe turns his attention to Valentine, whom he believes set him up. Meanwhile, claiming to operate an assistance program for the underprivileged, the Dukes bail Valentine out of jail, install him in Winthorpe's position at the company and give him use of Winthorpe's home.Valentine quickly becomes a prized employee of the Dukes; Valentine has the street-savvy attitude that could make them millions while trading stocks on the market. Billy Ray demonstrates his talent by earning the Dukes a hefty amount on his first day at work, giving them advice on how to set the price for pork belly commodities.During the firm's annual Christmas party, Winthorpe, disguised as Santa Claus, is caught planting drugs in Valentine's desk. Winthorpe is caught in the act and flees after brandishing a pistol at Valentine, fulfilling the criminal act the Dukes had as an objective in their scheme. Meanwhile, Valentine hides in a men's room stall to smoke a joint that he took from the drugs that he was tossing into the garbage can. The Dukes enter the washroom and, unaware of his presence, discuss in detail the outcome of their experiment and settle their wager for their agreed-upon amount: $1. Valentine overhears the exchange and seeks out Winthorpe when he hears that the Dukes plan to let Winthorpe become destitute and that they plan to eject Valentine following a plan they have to use his talents to corner the stock market on a specific trade commodity. He runs out of the building, tracking Winthorpe down to Ophelia's apartment.Winthorpe attempts suicide by overdosing on some of the pills he'd planned to frame Billy Ray with. Valentine, Ophelia and Winthorpe's former butler Coleman nurse him back to health and inform him of the Dukes' experiment. After talking Winthorpe out of his plan to hunt the Dukes down and shoot them with one of his shotguns, they learn that Clarence Beeks is transporting a secret report he'd stolen on orange crop forecasts. Winthorpe and Valentine recall large payments made to Beeks by the Dukes and they realize that the Dukes are planning to illegally obtain this report to corner the market on frozen orange juice. The group agrees to disrupt their plan as revenge.Learning of Beeks' New Year's Eve travel plans, the four get aboard his train to switch the report in Beeks' possession with a forgery. Winthorpe, Valentine, Ophelia and Coleman all wear bizarre clothing and disguises to try to swipe his briefcase at a costume party being thrown on the train. Beeks wises up and uncovers their scheme. In chasing them, he attempts to eliminate them. He fails, is subdued, and the group dress him in a gorilla costume and lock him in a cage with a real gorilla. The forged crop report is then successfully delivered to the Dukes.Winthrope and Valentine travel to New York's Wall Street and to the commodities trading floor to execute their plan. Winthorpe and Valentine are able to turn an enormous profit while the Dukes, misled by the false report, commit all their holdings to the venture and incur a loss of $394 million in profits. The Dukes confront Valentine and Winthorpe on the exchange floor who mockingly explain that they made a $1 wager on whether they could get rich while also impoverishing the Dukes. Valentine collects his prize from Winthorpe while Randolph collapses from a heart attack. Showing almost no concern for his ailing brother, Mortimer protests as their seats on the exchange are put up for sale, their assets are seized and their holdings frozen.Meanwhile, Beeks and the gorilla are loaded onto a ship headed to Africa while Valentine, Winthorpe, Ophelia, and Coleman enjoy a luxurious tropical vacation.",
+  "imdb_score": 7.5
+}

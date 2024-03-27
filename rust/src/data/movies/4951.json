@@ -1,0 +1,284 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/yvPbncYhMu9FfTjDhq0N5lgnVkO.jpg",
+  "id": 4951,
+  "title": "10 Things I Hate About You",
+  "poster_path": "https://image.tmdb.org/t/p/w500/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+  "release_date": "1999-03-30",
+  "vote_average": 7.583,
+  "vote_count": 7600,
+  "popularity": 46.37,
+  "overview": "On the first day at his new school, Cameron instantly falls for Bianca, the gorgeous girl of his dreams. The only problem is that Bianca is forbidden to date until her ill-tempered, completely un-dateable older sister Kat goes out, too. In an attempt to solve his problem, Cameron singles out the only guy who could possibly be a match for Kat: a mysterious bad boy with a nasty reputation of his own.",
+  "imdb_id": "tt0147800",
+  "budget": 16000000,
+  "homepage": "",
+  "revenue": 53478166,
+  "runtime": 97,
+  "tagline": "How do I loathe thee? Let me count the ways.",
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Drama"
+  ],
+  "production_companies": [
+    "Mad Chance",
+    "Jaret Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Heath Ledger",
+        "character": "Patrick Verona",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p2z2bURSg7nuMsN9P2s61e2RvNz.jpg"
+      },
+      {
+        "name": "Julia Stiles",
+        "character": "Katarina Stratford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vuXlmsJd8tec6D9ljv9AcpxeaxM.jpg"
+      },
+      {
+        "name": "Joseph Gordon-Levitt",
+        "character": "Cameron James",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z2FA8js799xqtfiFjBTicFYdfk.jpg"
+      },
+      {
+        "name": "Larisa Oleynik",
+        "character": "Bianca Stratford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i3W6ztn8kTKAaZoLS77Tz9GhP7C.jpg"
+      },
+      {
+        "name": "David Krumholtz",
+        "character": "Michael Eckman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6M2kk44Z1DyUhuVGyy2UDbCKZuM.jpg"
+      },
+      {
+        "name": "Andrew Keegan",
+        "character": "Joey Donner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4QWgKVO8tgOiyzxZeGoGfVLJcOo.jpg"
+      },
+      {
+        "name": "Susan May Pratt",
+        "character": "Mandella",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vKbXvIN6iSftS4c6n8xAQFHpJ0z.jpg"
+      },
+      {
+        "name": "Gabrielle Union",
+        "character": "Chastity",
+        "profile_path": "https://image.tmdb.org/t/p/w185/toeSCybsYufRKfgz77AKy4C8axD.jpg"
+      },
+      {
+        "name": "Larry Miller",
+        "character": "Walter Stratford",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ajnXlXG20LJwAwxne8G94ucVj0v.jpg"
+      },
+      {
+        "name": "Daryl Mitchell",
+        "character": "Mr. Morgan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7QGYaK5HrwdEnSYyZmjXPfxwWes.jpg"
+      },
+      {
+        "name": "Allison Janney",
+        "character": "Ms. Perky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg"
+      },
+      {
+        "name": "David Leisure",
+        "character": "Mr. Chapin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/68b4IbVAifraTXVeV53uwfiu4Io.jpg"
+      },
+      {
+        "name": "Greg Jackson",
+        "character": "Scruvy",
+        "profile_path": ""
+      },
+      {
+        "name": "Kyle Cease",
+        "character": "Bogey Lowenstien",
+        "profile_path": ""
+      },
+      {
+        "name": "Terence Heuston",
+        "character": "Derek",
+        "profile_path": ""
+      },
+      {
+        "name": "Cameron Fraser",
+        "character": "Trevor",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Riedmann",
+        "character": "Audio Visual Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kJvnqsXN5zplpRauwaA69EvgXnM.jpg"
+      },
+      {
+        "name": "Quinn Maixner",
+        "character": "Beautiful Jock",
+        "profile_path": ""
+      },
+      {
+        "name": "Demegio Kimbrough",
+        "character": "Coffee Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Todd Butler",
+        "character": "Coffee Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Dennis Mosley",
+        "character": "Cohort",
+        "profile_path": ""
+      },
+      {
+        "name": "Bianca Kajlich",
+        "character": "Coffee Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mJdcpCgnR4nJLcCivk3E4jThuNn.jpg"
+      },
+      {
+        "name": "Nick Vukelic",
+        "character": "Drugged Out Loser",
+        "profile_path": ""
+      },
+      {
+        "name": "Ben Laurance",
+        "character": "Wimpy Loser",
+        "profile_path": ""
+      },
+      {
+        "name": "Aidan Kennedy",
+        "character": "Laughing Loser",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dPMBlHWPzlJiBRf76VXoGluHYbN.jpg"
+      },
+      {
+        "name": "Jelani Quinn",
+        "character": "Crying Loser",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9cD2hvjn7gp7f3UGv18xibhWUqD.jpg"
+      },
+      {
+        "name": "Jesse Dyer",
+        "character": "Screaming Loser",
+        "profile_path": ""
+      },
+      {
+        "name": "Aaron Therol",
+        "character": "Detention Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n4G5lbNnfZ1q9s3ISGeTWNpTTnS.jpg"
+      },
+      {
+        "name": "Carlos Lacámara",
+        "character": "Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1OjIol0aLVtS5TXbMkukvHbZSl5.jpg"
+      },
+      {
+        "name": "Heather Taylor",
+        "character": "Drunken Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Joshua Thorpe",
+        "character": "Jock",
+        "profile_path": ""
+      },
+      {
+        "name": "J.R. Johnson",
+        "character": "MBA Guy at Party",
+        "profile_path": ""
+      },
+      {
+        "name": "Wendy Gottlieb",
+        "character": "Heather",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Hood",
+        "character": "Clem",
+        "profile_path": ""
+      },
+      {
+        "name": "Travis Muller",
+        "character": "Cowboy",
+        "profile_path": ""
+      },
+      {
+        "name": "Ari Karczag",
+        "character": "Kissing Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wowffbhCHOPATKaq07l1OqyNDrr.jpg"
+      },
+      {
+        "name": "Laura Kenny",
+        "character": "Judith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a0U20AjYhaXn3RVq6LfVzZ3NAOz.jpg"
+      },
+      {
+        "name": "Alice Evans",
+        "character": "Perky Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Jesper Inglis",
+        "character": "Buckaroo Bartender",
+        "profile_path": ""
+      },
+      {
+        "name": "Nick Brown",
+        "character": "Biker",
+        "profile_path": ""
+      },
+      {
+        "name": "Monique Powell",
+        "character": "Save Ferris Singer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9js95ve4TqNvcFyXl1L7fPQpIvf.jpg"
+      },
+      {
+        "name": "Brian Mashburn",
+        "character": "Save Ferris Singer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j4KlEFiXb8746G5kLsI7LUIRdC8.jpg"
+      },
+      {
+        "name": "Kay Hanley",
+        "character": "Letters To Cleo Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Eisenstein",
+        "character": "Letters To Cleo Singer",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Gil Junger",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5KNcFU2kyy9v3ytppOZq6NGBkNW.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "high school",
+    "deception",
+    "based on play or musical",
+    "coming of age",
+    "teen movie",
+    "shrew",
+    "valentine's day",
+    "shakespeare in modern dress",
+    "opposites attract",
+    "duringcreditsstinger",
+    "teenage romance",
+    "overprotective father"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A high-school boy, Cameron, cannot date Bianca until her anti-social older sister, Kat, has a boyfriend. So, Cameron pays a mysterious boy, Patrick, to charm Kat.",
+    "Adapted from William Shakespeare's play \"The Taming of the Shrew,\" 10 Things I Hate About You starts off with Cameron, new student at Padua High, sitting in the office of the quirky guidance counselor Ms. Perky. He is then shown around the school by Michael, who will become his best friend. During his tour is when Cameron first sees Bianca Stratford, a beautiful sophomore with one problem: she isn't allowed to date. And neither is her \"shrew\" sister, Katarina, a senior who loves indie rock and feminist prose and hates conformity. But Kat and Bianca's father alters his house rule: now, Bianca can date... as long as Kat has a date, too. Now, in order for Cameron to date Bianca, he has to find someone to date Kat. So Michael helps him enlist the help of pretty-boy/jerk/model Joey Donner, tricking him into thinking that *he* will get to take Bianca out if he pays someone to take out Kat. His choice: Patrick Verona, a bad-boy with a mysterious reputation--some say he ate a live duck once, others that he lit a state trooper on fire, and even more claim that he had a brief porn career. Will Patrick win Kat's heart? Will Cameron win Bianca's? Or will everything hit the fan...?—Erica Baffa",
+    "Meet the Stratford sisters: pretty and popular Bianca, who has never had a date; and Kat, her older sibling, an ill-tempered harridan whose acerbic wit is matched only by her steadfast determination to alienate any guy who might be remotely interested in her. Unfortunately, strict rules in the Stratford household forbid Bianca from having a boyfriend until her odious sister has one of her own-a situation that seems highly improbable considering Kat is a social disaster. Bianca's desperation for romance turns into a convoluted scheme to match Kat with her male equivalent--a guy whose reputation is so infamous, Kat might rise to the challenge and find him worthy of her concealed charms. Mating mayhem ensues when Patrick Verona -- a sullen young man with a mysterious past -- is bribed by Bianca's wannabe boyfriend to woo and win Kat, in order to clear the way for Bianca to begin dating.—Movie Buff;-)",
+    "Popular, pretty Bianca Stratford is in dilemma. A family rule forbids her from dating until her unpopular, rebellious, boy-hating older sister Kat gets a suitor of her own. In an attempt to win Bianca, a potential boyfriend desperately attempts to set Kat up with Patrick Verona, another rebel who may just be able to win Kat's heart.—Emily Brecade <GolfPnkGir@aol.com>"
+  ],
+  "synopsis": "Cameron James (Joseph Gordon-Levitt), a new student at Padua High School in the Seattle area, becomes instantly smitten with popular sophomore Bianca Stratford (Larisa Oleynik) (the younger of the two Stratford sisters, superficial and popular). Geeky Michael Eckman (David Krumholtz) warns him that Bianca is vapid and conceited, and that her overprotective father does not allow Bianca or her older sister, the shrewish Kat (Julia Stiles), to date. Kat, a senior, is accepted to Sarah Lawrence College in New York, but her father, Walter (Larry Miller) (an obstetrician and single parent who is overprotective of his daughters, Kat, and Bianca), wants her to stay close to home. Bianca wishes to date affluent senior Joey Donner (Andrew Keegan), but Walter, an obstetrician worrisome of teenage pregnancy, will not allow his daughters to date until they graduate. Frustrated by Bianca's insistence and Kat's rebelliousness, Walter declares that Bianca may date only when Kat does, knowing that Kat's antisocial attitude makes this unlikely.When Cameron asks Bianca out, she informs him of her father's new rule and, as a pretense for allowing her to date Joey, suggests that Cameron find someone willing to date Kat. Cameron selects \"bad boy\" Patrick Verona (Heath Ledger), but Patrick scares him off. Michael assists by convincing Joey to pay Patrick to take out Kat, under the pretense that this will allow Joey to date Bianca. Patrick agrees to the deal, but Kat rebuffs his first few advances. Michael and Cameron help him by prying Bianca for information on Kat's likes and dislikes. Armed with this knowledge, Patrick begins to win Kat's interest. She goes to a party with him, which enables Bianca to go as well, much to Walter's dismay.At the party, Kat becomes upset when she sees Bianca with Joey, and responds by getting drunk. Patrick attends to her, and Kat starts to open up, expressing her interest in starting a band. However, when she tries to kiss him, Patrick pulls away and Kat leaves, infuriated. Meanwhile, Bianca ignores Cameron in favor of Joey, leaving Cameron dejected. Bianca soon realizes, however, that Joey is shallow and self-absorbed, and asks Cameron for a ride home. Cameron admits his feelings for her and his frustration with how she has treated him. Bianca responds by kissing him.Joey offers to pay Patrick to take Kat to the prom so he can take Bianca. Patrick initially refuses but relents when Joey offers him more money. Kat is still angry with Patrick, but he wins her over by serenading her with the accompaniment of the marching band, and she helps him sneak out of detention. They go on a date which turns romantic, but Kat becomes suspicious and angry when Patrick insists that she go with him to the prom, an event she is adamantly against. Bianca is irritated that Cameron hasn't asked her to the prom, and so accepts Joey's invitation, but Walter won't allow it unless Kat goes too. Kat confesses to Bianca that she dated Joey when they were freshmen and, succumbing to peer pressure, had sex with him. Afterward she regretted it, and Joey dumped her, so she vowed to never again do anything just because everyone else was doing it. Bianca insists that she can make her own choices, so Kat agrees to go to the prom with Patrick, and Bianca decides to go with Cameron instead of Joey.All is going well at the prom until Bianca learns that Joey planned to have sex with her that night. Angry that Bianca has spurned him for Cameron, Joey reveals his arrangement with Patrick, which causes Kat to leave heartbroken. Joey then punches Cameron but is in turn beaten up by Bianca for having hurt her, Kat, and Cameron. Bianca and Cameron share another kiss.The next day, Bianca reconciles with Kat and begins dating Cameron. Walter admits that Kat can take care of herself and gives her permission to attend Sarah Lawrence College. For an assignment in which the students were required to write their own version of William Shakespeare's Sonnet 141, Kat reads aloud a poem titled \"10 Things I Hate About You\", revealing that she still loves Patrick. Patrick surprises her with a guitar bought with the money that Joey paid him and confesses that he has fallen for her. Kat forgives him, and the two reconcile with a kiss.",
+  "imdb_score": 7.3
+}

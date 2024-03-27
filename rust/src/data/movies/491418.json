@@ -1,0 +1,336 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/mLHApYe5zuYb5UE0PWzkkgjMgmG.jpg",
+  "id": 491418,
+  "title": "Instant Family",
+  "poster_path": "https://image.tmdb.org/t/p/w500/xYV1mODz99w7AjKDSQ7h2mzZhVe.jpg",
+  "release_date": "2018-11-16",
+  "vote_average": 7.531,
+  "vote_count": 2765,
+  "popularity": 27.746,
+  "overview": "When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.",
+  "imdb_id": "tt7401588",
+  "budget": 48000000,
+  "homepage": "https://www.instantfamilymovie.com",
+  "revenue": 121000000,
+  "runtime": 118,
+  "tagline": "Just add chaos, laughter, awkwardness, mistakes, love...",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    "Closest to the Hole Productions",
+    "Leverage Entertainment",
+    "Paramount"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Mark Wahlberg",
+        "character": "Pete Wagner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bTEFpaWd7A6AZVWOqKKBWzKEUe8.jpg"
+      },
+      {
+        "name": "Rose Byrne",
+        "character": "Ellie Wagner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4oQWCLK7gd6RNKF0WJipJo7TyFP.jpg"
+      },
+      {
+        "name": "Allyn Rachel",
+        "character": "Kim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1OndNkWkw1Jefq85isKKBLopWgK.jpg"
+      },
+      {
+        "name": "Isabela Merced",
+        "character": "Elizabeth “Lizzy” Viara",
+        "profile_path": "https://image.tmdb.org/t/p/w185/84nQ463zQHtKVXMDlGMVqGgu82a.jpg"
+      },
+      {
+        "name": "Julie Hagerty",
+        "character": "Jan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bQZ0bcFNyE4a3GDNfYMmfO7eWMl.jpg"
+      },
+      {
+        "name": "Tig Notaro",
+        "character": "Sharon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tdZ6XLzIaK0HWWPSM2B5OrOqUC0.jpg"
+      },
+      {
+        "name": "Octavia Spencer",
+        "character": "Karen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zDGydyM1fmvNWzQlTAns9IZjNxT.jpg"
+      },
+      {
+        "name": "Gustavo Escobar",
+        "character": "Juan Viara",
+        "profile_path": "https://image.tmdb.org/t/p/w185/am7uHxPH2VX0uH13oY9vbp6fVR3.jpg"
+      },
+      {
+        "name": "Margo Martindale",
+        "character": "Sandy  Wagner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ANuYnZZJTuQLL4bbt8vH1qDYje.jpg"
+      },
+      {
+        "name": "Julianna Gamiz",
+        "character": "Lita Viara",
+        "profile_path": "https://image.tmdb.org/t/p/w185/njOvkRObymJohX5Dnczgisf7emF.jpg"
+      },
+      {
+        "name": "Tom Segura",
+        "character": "Russ",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pTZX2QXdUeJ1bvEWqKYsCF2HKkS.jpg"
+      },
+      {
+        "name": "Britt Rentschler",
+        "character": "Linda",
+        "profile_path": "https://image.tmdb.org/t/p/w185/LRKttgSk4Ffm3lNPPWWaF7SyOy.jpg"
+      },
+      {
+        "name": "Michael O'Keefe",
+        "character": "Jerry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wQsTL887RWvAJljzLhiPP52kjec.jpg"
+      },
+      {
+        "name": "Jody Thompson",
+        "character": "Jim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qSpaiLA33uRcQPioSXUJnaaEQo5.jpg"
+      },
+      {
+        "name": "Iliza Shlesinger",
+        "character": "October Ross Jennings",
+        "profile_path": "https://image.tmdb.org/t/p/w185/unLgZ3g6hyViIyGlT1suqZzCyRQ.jpg"
+      },
+      {
+        "name": "Gary Weeks",
+        "character": "Dirk McCann",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n4taftpteF6qUTeYRDkdGPHC58.jpg"
+      },
+      {
+        "name": "Joy Jacobson",
+        "character": "Dana McCann",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qg0RJF8zPBybLjm2IWiBxU7K78S.jpg"
+      },
+      {
+        "name": "Hampton Fluker",
+        "character": "Kit",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dMs8OXyAgv0JDzMMOobSeX6gDgS.jpg"
+      },
+      {
+        "name": "Randy Havens",
+        "character": "Michael",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Lh5eGcXZUoPJcTWaUw369R706E.jpg"
+      },
+      {
+        "name": "Andrea Anders",
+        "character": "Jessie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rTRgTbxzZFdYnnmooOCZ2XHk3vC.jpg"
+      },
+      {
+        "name": "Kenneth Israel",
+        "character": "David",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qxXRkPGV5Iyb2hmhDRlvzbe6oJp.jpg"
+      },
+      {
+        "name": "Joan Cusack",
+        "character": "Mrs. Howard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+      },
+      {
+        "name": "Valente Rodriguez",
+        "character": "Judge Rivas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oXgz7Jt6BnixHDr1KDg0HVmkxrI.jpg"
+      },
+      {
+        "name": "Carson Holmes",
+        "character": "Charlie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rVv2VZDjh5PLhiAnFIvsQUBKXDi.jpg"
+      },
+      {
+        "name": "Jaiden Byrd",
+        "character": "Young Brian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hsLne6gD1UXk8oaUJFoHF3XVHHC.jpg"
+      },
+      {
+        "name": "Connor Jones",
+        "character": "Young Pete",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2MtbZkxfz0P0W3c0YUvO0UftbyF.jpg"
+      },
+      {
+        "name": "James Arthur Sims",
+        "character": "Brian's Dad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wRWRJLSIGi6BKUUruKCpP51xsWJ.jpg"
+      },
+      {
+        "name": "Rosemary Dominguez",
+        "character": "Mrs. Fernandez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9GP2sQ7mLI8IMep0UY8wVTUGspF.jpg"
+      },
+      {
+        "name": "Javier Ronceros",
+        "character": "Mr. Fernández",
+        "profile_path": "https://image.tmdb.org/t/p/w185/PW0fWB2sPEhOtPEqxUtOL5crif.jpg"
+      },
+      {
+        "name": "Eve Harlow",
+        "character": "Brenda Fernandez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2rzYY0TBTft16H9HpxYYQ9DRcf8.jpg"
+      },
+      {
+        "name": "Nicholas Logan",
+        "character": "Jacob",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mEXZ8KXCyy67hOuMDuC2AYZvrIu.jpg"
+      },
+      {
+        "name": "Charlie McDermott",
+        "character": "Stewart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7kQgcZkQ88cZOQBpjFzzqheoGT9.jpg"
+      },
+      {
+        "name": "Joselin Reyes",
+        "character": "Carla",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jZYqXbHvmAU1Dfp9RNmA5ztO7xD.jpg"
+      },
+      {
+        "name": "Erika Bierman",
+        "character": "Kylie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wybvA7195Lbn5rhJAsQRfwWRbao.jpg"
+      },
+      {
+        "name": "Sarah Kirkpatrick",
+        "character": "Kimberly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ga0dw4Bh3LkKehZoYc3O0CxRjo.jpg"
+      },
+      {
+        "name": "Maureen Brennan",
+        "character": "Mrs. Muskie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fn6ykyckaIZ0msiHdnV1kZWnZfB.jpg"
+      },
+      {
+        "name": "Kelly Tippens",
+        "character": "Miss Peppers",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tLrCEOD0Zni0wlIBdfkyso1zI2V.jpg"
+      },
+      {
+        "name": "John McConnell",
+        "character": "Mr. Muskie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gAHxNx9PhT2xVqct6ac61tKFabT.jpg"
+      },
+      {
+        "name": "Layla Felder",
+        "character": "Savannah",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6vaqF7lI66Rkh6OMvYhhPtcRoug.jpg"
+      },
+      {
+        "name": "Allen Zwolle",
+        "character": "Principal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gN1NNBKZZQqEQ88caiXyNi7bzFv.jpg"
+      },
+      {
+        "name": "Stella Doyle",
+        "character": "Ms. Franks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gWJ5S7k6qPvSHcOjd1uk5pSr6v4.jpg"
+      },
+      {
+        "name": "Andrene Ward-Hammond",
+        "character": "Sue",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w47gGojio6d18H52DZqamcNA0bL.jpg"
+      },
+      {
+        "name": "Remy Ortiz",
+        "character": "Random Dad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nBEGlUSoS7Pr6meNVMJJ71qMhfv.jpg"
+      },
+      {
+        "name": "William J. Simmons",
+        "character": "Lita's Classmate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v1NxawXXYZB6hCf0a6iTVYraWAP.jpg"
+      },
+      {
+        "name": "Denitra Isler",
+        "character": "Bailiff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gIIubxZEMjZiz9mTtfAlpQETjaw.jpg"
+      },
+      {
+        "name": "Anthony 'Ace' Thomas",
+        "character": "Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dZxlbeSACcPdNfyX4spPXMCktVg.jpg"
+      },
+      {
+        "name": "Candice Daniels",
+        "character": "Nurse",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexis Lord",
+        "character": "Soccer Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Perry Westberry",
+        "character": "Doctor",
+        "profile_path": ""
+      },
+      {
+        "name": "Maegan McCarthy",
+        "character": "Kindergarten Teacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Jerry T. Richerson",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Billie Wilemon",
+        "character": "Emergency Room Nurse",
+        "profile_path": ""
+      },
+      {
+        "name": "Cruze Lynnox Keith",
+        "character": "Lita's Classmate",
+        "profile_path": ""
+      },
+      {
+        "name": "Caleb Pratt",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Kobs",
+        "character": "Roberto C. Fishman Pratt",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Sean Anders",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vWO1FiGZPOL4FdhbxeykOXRfcXJ.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "court case",
+    "social worker",
+    "adoption",
+    "based on true story",
+    "parenting",
+    "foster family",
+    "amusement park",
+    "lgbt",
+    "substance abuse",
+    "family dog"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A couple find themselves in over their heads when they foster three children.",
+    "Feeling a void in their marriage, Pete and Ellie Wanger visit a foster-care center. Two social workers, Karen and Sharon, guide the hopeful parents on the path to becoming adoptive parents.The couples are taken to a fair where they have the chance to go up to kids that they are interested in adopting. Pete and Ellie walk by the teenagers; although Ellie shows hesitance, one teen, Lizzy, informs Ellie that they all now that nobody wants to adopt teenagers. Pete and Ellie talk to Karen and Sharon over potentially taking in Lizzy. The social workers inform the couple that Lizzy's mother is a drug addict who is currently in jail, and she set their house on fire by leaving her crack pipe lit. They also find that Lizzy has two younger siblings, Juan and Lita. Although this seems like more of a challenge for Pete and Ellie, they agree to meet the siblings. Pete and Ellie have Thanksgiving dinner with Ellie's family, who all remark that they have no confidence that the Wagners would be good adoptive parents, until Ellie has enough and decides that they will go through with the foster care to prove that they can be good parents.",
+    "Approaching middle age, Ellie and Pete Wagner, who flip houses for a living, have never felt it was time to have children--until now. For various reasons including their ages, they contemplate adopting an older child, taking that idea one step further by considering adopting a child in the foster care system for what they believe are altruistic reasons, but in reality is probably more to make themselves feel better by doing something they consider a social good, Pete equating it somewhat to taking in a rescue dog. Thus, they are probably not fully prepared for all it entails. Going through the foster-care training under social workers Karen and Sharon with other couples and singles, they, in meeting a number of foster children at a fair, decide on the spur of the moment to take their adoption idea two steps further, first by thinking of adopting a teenager in meeting feisty 15-year-old Lizzy, and second by adopting more than one child when they discover that Lizzy has two younger siblings, adolescent Juan and preschooler Lita. Beyond the racial issue of the children coming from a Hispanic background and the challenges of dealing with a teenager who already has a developed mind of her own, largely in acting as mother to Juan and Lita in the absence of their own incarcerated mother, they discover that adopting Juan and Lita have their own issues in each having their own but different emotional problems. Aside from the views of their respective families who see what they're doing very differently, Ellie and Paul must not only deal with three children at different stages of their lives and directly with the outward issues each brings into their lives, but with the hidden issues, including Lizzy's manipulations, with motivations that don't always match her outward actions.—Huggo"
+  ],
+  "synopsis": "Married couple Pete (Mark Wahlberg) and Ellie Wagner (Rose Byrne), after being taunted by relatives who think they will never have kids, start considering the option of adopting a child. Initially half-serious, they eventually decide to enroll in a foster parents course. Two social workers, Karen (Octavia Spencer) and Sharon (Tig Notaro), guide the hopeful parents on the steps to getting into becoming adoptive parents. The couples are brought to a fair where they have the chance to go up to kids that they are interested in adopting. Pete and Ellie walk by the teenagers, although Ellie shows hesitance over raising a teen, but one of the teens, Lizzy (Isabela Moner), informs Ellie that they all know no one wants to adopt the teens.Impressed with Lizzy's behavior, Pete and Ellie talk to Karen and Sharon over potentially taking her in. The social workers inform the couple that Lizzy's mother is a drug addict who is currently in jail, and she set their home on fire because she left the crack pipe lit. It also turns out that Lizzy has two younger siblings, Juan (Gustavo Quiroz) and Lita (Julianna Gamiz). Although this seems like more of a challenge for Pete and Ellie, they agree to meet the siblings. The first meeting however does not seem to result in an immediate \"bond\", and Pete and Ellie reconsider.Pete and Ellie have Thanksgiving dinner with Ellie's family, where they announce that they intend to walk back on their decision to adopt. Once the rest of the family shows relief, making it clear that nobody really believed that Pete and Ellie could make it, Ellie gets upset and decides that they will go through with the foster care to prove that they can be good parents.Lizzy, Juan, and Lita begin to live with the Wagners. Although it is initially pleasant, it doesn't take long for things to get hectic. Lita refuses to eat anything but potato chips, and Juan reacts sensitively to every instance of trouble. Lizzy is also frequently bratty toward the Wagners, but especially Ellie. The two parents frequently attend support groups with the other couples for insight on what to do with the kids.\nPete's mother Sandy (Margo Martindale) comes to visit to meet the kids, and instantly wins them over by treating the whole family to Six Flags. While there, Lizzy runs off with two friends from school. She doesn't reappear until later, and Pete grounds her for not informing him or Ellie as to her whereabouts.Although Lizzy remains bratty, Juan and Lita start to warm up to the Wagners. Things turn around when Juan drops a nail gun on his foot and Lizzy sees for herself that Pete and Ellie go out of their way to care for him. When the case worker comes for an investigation, Lizzy takes the blame for the accident saying that \"This is the stuff they move foster homes for\" (meaning she wants to stay with the current family). Lita calls Pete \"daddy\" when he fixes her doll, and Ellie gets a \"Good night, mommy\" from Juan after she comforts him from a nightmare. Soon, Lizzy starts to go along with the others as they partake in family activities. Pete even invites her to a fixer-upper houses he is working on so they can wreck things for her to take out her frustrations.\nPete and Ellie later find out that the kids' mother Carla (Joselin Reyes) has been out of prison for a few months and she wants to see the kids. They express their feelings about this during the group therapy, but the social workers tell them that their main goal is to keep families together and that the children might be reunited with the biological mother, after all.After meetings between the kids and their biological mother, the situation in the Wagner family degenerates. The children become more and more unruly and Pete and Ellie feel profoundly demotivated and frustrated. Pete and Ellie seek out the Fernandez (Rosemary Dominguez & Javier Ronceros) family, who had spoken with their adoptive daughter Brenda (Eve Harlow) at the training, for help with Lizzy. They inform the Wagners that Brenda is back in rehab, but Mrs. Fernandez tells them what a process it is to really form a bond and trust with the kids.The couple is horrified when they find Lizzy taking naked selfies to send to a guy at school named Jacob (Nicholas Logan), and he sends her a naked photo of himself. When they take the kids to school the next day, they confront a boy named Charlie (Carson Holmes) since they mistook him for Jacob. They then realize that Jacob is actually the school's 22-year-old janitor, and chase him into the school and assault him. Jacob is arrested, but so are Pete and Ellie, leaving Juan and Lita alone in the car, while Lizzy is humiliated. When Pete and Ellie return home, they are told by Sandy that they need to reassure Lizzy that they love her, because she doesn't feel that she is loved.The Wagners and the kids gather for a court hearing to decide whether or not the kids will go back to Carla or stay with Pete and Ellie. The judge reads a statement written by Lizzy detailing the things that Pete and Ellie have done. Although Ellie tries to read a new statement, the judge won't let her. Carla is then given rights to the kids.\nPete and Ellie sadly start to pack things up for the kids. Juan and Lita do not want to go, but Lizzy is ready. However, Karen and Sharon arrive at the house to inform Lizzy that Carla is not coming to get them, as she failed to show up that morning and appears to have started using drugs again. Heartbroken, Lizzy runs away while Pete and Ellie chase her. They catch up and tell her they love her, and eventually the trio reconcile.\nFour months later, the family goes to a new hearing. The judge finalizes the adoption of Lizzy, Juan and Lita by Pete and Ellie.",
+  "imdb_score": 7.3
+}

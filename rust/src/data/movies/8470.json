@@ -1,0 +1,368 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/22lMuNnRRqZridYj5S9zVg5jNCi.jpg",
+  "id": 8470,
+  "title": "John Q",
+  "poster_path": "https://image.tmdb.org/t/p/w500/xEE91LvXiqgs7Hmdl44LCzHtFf6.jpg",
+  "release_date": "2002-02-15",
+  "vote_average": 7.109,
+  "vote_count": 2253,
+  "popularity": 28.974,
+  "overview": "John Quincy Archibald is a father and husband whose son is diagnosed with an enlarged heart and then finds out he cannot receive a transplant because HMO insurance will not cover it. Therefore, he decides to take a hospital full of patients hostage until the hospital puts his son's name on the donor's list.",
+  "imdb_id": "tt0251160",
+  "budget": 36000000,
+  "homepage": "",
+  "revenue": 102244770,
+  "runtime": 116,
+  "tagline": "Give a father no options and you leave him no choice.",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    "Evolution Entertainment",
+    "New Line Cinema",
+    "Burg/Koules Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Denzel Washington",
+        "character": "John Quincy Archibald",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+      },
+      {
+        "name": "James Woods",
+        "character": "Dr. Raymond Turner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tLH7mpH4KqkWL5VgjueTbewGsfK.jpg"
+      },
+      {
+        "name": "Kimberly Elise",
+        "character": "Denise Archibald",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Z2xlD8i8NXeT6NipPpmQfL6Mki.jpg"
+      },
+      {
+        "name": "Robert Duvall",
+        "character": "Lt. Frank Grimes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
+      },
+      {
+        "name": "Shawn Hatosy",
+        "character": "Mitch Quigley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ck89JiJcY9ovd7hXHatZsKMQvhm.jpg"
+      },
+      {
+        "name": "Eddie Griffin",
+        "character": "Lester Matthews",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m6HerbicIETBfBqLATWILb6jEix.jpg"
+      },
+      {
+        "name": "Kevin Connolly",
+        "character": "Steve Maguire",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1QDmx5t0anO0wkfABfgLtkuLFOy.jpg"
+      },
+      {
+        "name": "Ethan Suplee",
+        "character": "Guard Max Conlin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gGSb8P9nQdDNu0JC65zyAyMUFhS.jpg"
+      },
+      {
+        "name": "Ray Liotta",
+        "character": "Chief Gus Monroe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iXKotiB0Xe9iJLCBbjAedHPLb7p.jpg"
+      },
+      {
+        "name": "Anne Heche",
+        "character": "Rebecca Payne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8ypIeRAZ1qnHAKESUqSwetVKEXy.jpg"
+      },
+      {
+        "name": "Laura Harring",
+        "character": "Gina Palumbo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6g64N2VsADTPRDsKcJDO2ayGQUt.jpg"
+      },
+      {
+        "name": "Heather Wahlquist",
+        "character": "Julie Bird",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qETaVUmGlJwuuWk6SHl2PdehI5e.jpg"
+      },
+      {
+        "name": "Daniel E. Smith",
+        "character": "Mike Archibald",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fVjo7bi1rIDS2PrLMUFrKQbwCHB.jpg"
+      },
+      {
+        "name": "David Thornton",
+        "character": "Jimmy Palumbo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jKlG3icyzBrpOqPoimRmENf3tPf.jpg"
+      },
+      {
+        "name": "Paul Johansson",
+        "character": "Tuck Lampley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/WObwc4GELejtR1lZDCWVN9F9t7.jpg"
+      },
+      {
+        "name": "Obba Babatundé",
+        "character": "Sgt. Moody",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jkvxfhETmwR877VluO5kfbxxNER.jpg"
+      },
+      {
+        "name": "Troy Byer",
+        "character": "Miriam Smith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jf4fviwKUPBqs3cDyBKPR6m6URB.jpg"
+      },
+      {
+        "name": "Troy Winbush",
+        "character": "Steve Smith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aGxjCVonALJublMfkLp3BZBiDg3.jpg"
+      },
+      {
+        "name": "Martha Chaves",
+        "character": "Rosa Gonzales",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nK9fy0ZOWyZFilciSiNGbdPRxNk.jpg"
+      },
+      {
+        "name": "Gabriela Oltean",
+        "character": "Beautiful BMW Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Ron Annabelle",
+        "character": "Tow Truck Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Barry G. King",
+        "character": "Employee Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Larissa Laskin",
+        "character": "Dr. Ellen Klein",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4fGui0UzPGOHhaLbcRRWzbYn6vG.jpg"
+      },
+      {
+        "name": "Vanessa Branch",
+        "character": "Registered Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/leVq44Yks0jtSGDE7vvhIqmgJAe.jpg"
+      },
+      {
+        "name": "Stephanie Moore",
+        "character": "Admitting Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yywrsHi8RTyzK7QiCpfILKkZT63.jpg"
+      },
+      {
+        "name": "James Finnerty",
+        "character": "Nurse Reggie",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Jaye",
+        "character": "Insurance Rep",
+        "profile_path": ""
+      },
+      {
+        "name": "Yanna McIntosh",
+        "character": "State Employee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vlAg1L8i24VVINSpE3hYHPhDlpp.jpg"
+      },
+      {
+        "name": "Linda Massad",
+        "character": "Social Services Rep",
+        "profile_path": ""
+      },
+      {
+        "name": "Lester Mathews",
+        "character": "Human Services Rep",
+        "profile_path": ""
+      },
+      {
+        "name": "Noam Jenkins",
+        "character": "Medicaid Official",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6cGnnTzHgvl4aEpD98gtcQ9DDU7.jpg"
+      },
+      {
+        "name": "Allegra Fulton",
+        "character": "Sick Girl's Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hw5zfA4QVLK4WVgtVUfA1oXYn6N.jpg"
+      },
+      {
+        "name": "Darrin Brown",
+        "character": "TV Buyer",
+        "profile_path": ""
+      },
+      {
+        "name": "Shera Danese",
+        "character": "Wife of Heart Transplant Patient",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vLjYt9HI6IVRkeUcaMVxYrPR59.jpg"
+      },
+      {
+        "name": "Kirsta Teague",
+        "character": "Dr. Turner's Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Rick Sood",
+        "character": "Panicked E.R. Doctor",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Bloom",
+        "character": "Desk Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5IDCB3GPD3Ma5ESUbxXermdIXbG.jpg"
+      },
+      {
+        "name": "Dina Spybey-Waters",
+        "character": "Debby Utley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aBW0vvA5nms1X3LQJYGWAGsxc2s.jpg"
+      },
+      {
+        "name": "Carlos Diaz",
+        "character": "Paramedic #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z8EYRAldkGs4yXfHf4NLCkEFPmN.jpg"
+      },
+      {
+        "name": "Joe Duer",
+        "character": "Paramedic #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Simon Sinn",
+        "character": "Fong",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t2umcoYo4nyMWJCWPjDWCl0cppP.jpg"
+      },
+      {
+        "name": "Jeff Douglas",
+        "character": "Computer Cop",
+        "profile_path": ""
+      },
+      {
+        "name": "Keram Malicki-Sánchez",
+        "character": "Freddy B.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i9jnh8okQoP0YjoQVd3Ie9qny2y.jpg"
+      },
+      {
+        "name": "Philip Williams",
+        "character": "Wally Pitoniak",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fhFasn6OCkNJV3LUpTY9ovbvgg2.jpg"
+      },
+      {
+        "name": "Nigel Shawn Williams",
+        "character": "News Anchor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ukVNUtkMjyu4Zg3HgET8UXZ2u71.jpg"
+      },
+      {
+        "name": "Frank Cassavetes",
+        "character": "Sniper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kC0YCMXdksvN2DtvOWdqc0DX8mr.jpg"
+      },
+      {
+        "name": "Colin Evans",
+        "character": "Videographer",
+        "profile_path": ""
+      },
+      {
+        "name": "Angelo Tsarouchas",
+        "character": "Barricade Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ejAkVaAWZ7J0pDkX38omAfndEMK.jpg"
+      },
+      {
+        "name": "Marcia Johnson",
+        "character": "Medical Transplant #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Vijay Mehta",
+        "character": "Medical Transplant #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gXxUpz2sPHOXWYHmxqm1kNCX0HU.jpg"
+      },
+      {
+        "name": "Andrew Schaff",
+        "character": "U.N.O.S. Official",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4iVFfoTZybtJO6RB3obIHJEbNge.jpg"
+      },
+      {
+        "name": "Malcolm Nefsky",
+        "character": "Nick",
+        "profile_path": ""
+      },
+      {
+        "name": "Jay Leno",
+        "character": "Jay Leno",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cplpY6q2VFtR7c1gMHM50wPzdU3.jpg"
+      },
+      {
+        "name": "Gloria Allred",
+        "character": "Gloria Allred",
+        "profile_path": "https://image.tmdb.org/t/p/w185/21M4KCy4qjYGuVlCx1r4R1H1U7a.jpg"
+      },
+      {
+        "name": "Larry King",
+        "character": "Larry King",
+        "profile_path": "https://image.tmdb.org/t/p/w185/afNrrwBSbeFLrh0dVHvlMRRyont.jpg"
+      },
+      {
+        "name": "Arianna Huffington",
+        "character": "Arianna Huffington",
+        "profile_path": "https://image.tmdb.org/t/p/w185/JnWMCSAFqR0wl5dn8VHSWVAeO0.jpg"
+      },
+      {
+        "name": "Ted Demme",
+        "character": "Ted Demme",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gAzwOACFPvmoSWM87ru8u4vLA9N.jpg"
+      },
+      {
+        "name": "Nas",
+        "character": "Nas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zK3UB7QYI8eJDRKbM7B3ewDKr2V.jpg"
+      },
+      {
+        "name": "Bill Maher",
+        "character": "Bill Maher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sVTF90nhXB3jIw05eJFklbGpnlC.jpg"
+      },
+      {
+        "name": "Claire Rankin",
+        "character": "Public Defender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nwPUWhTEuxcH2ai0NgLEuUkxsUz.jpg"
+      },
+      {
+        "name": "Philip Craig",
+        "character": "Judge K. Ploucha",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kG9GSLHvquQtYY3hirawO6MiRPI.jpg"
+      },
+      {
+        "name": "Gerry Quigley",
+        "character": "Jury Foreman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nfnrdHOtFYhggXrpZvHF4CDAVdH.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Nick Cassavetes",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dJUkVrUyLYJJwG8hRq0kglZ7yyv.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "chicago, illinois",
+    "parent child relationship",
+    "heart attack",
+    "kidnapping",
+    "heart disease",
+    "hostage-taking",
+    "hospital"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "John Quincy Archibald takes a hospital emergency room hostage when his insurance won't cover his son's heart transplant.",
+    "John Quincy Archibald's son Michael collapses while playing baseball as a result of heart failure. John rushes Michael to a hospital emergency room where he is informed that Michael's only hope is a transplant. Unfortunately, John's insurance won't cover his son's transplant. Out of options, John Q. takes the emergency room staff and patients hostage until hospital doctors agree to do the transplant.—Anonymous"
+  ],
+  "synopsis": "",
+  "imdb_score": 7.1
+}

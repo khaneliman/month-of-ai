@@ -1,0 +1,212 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/tfw5LKySp7uEYJ3CUuD4TKx3s8y.jpg",
+  "id": 603692,
+  "title": "John Wick: Chapter 4",
+  "poster_path": "https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+  "release_date": "2023-03-22",
+  "vote_average": 7.8,
+  "vote_count": 5516,
+  "popularity": 338.243,
+  "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+  "imdb_id": "tt10366206",
+  "budget": 90000000,
+  "homepage": "https://johnwick.movie",
+  "revenue": 426978565,
+  "runtime": 170,
+  "tagline": "No way back, one way out.",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    "Thunder Road",
+    "87Eleven",
+    "Summit Entertainment",
+    "Studio Babelsberg"
+  ],
+  "production_countries": [
+    "DE",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Keanu Reeves",
+        "character": "John Wick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4D0PpNI0kmP58hgrwGC3wCjxhnm.jpg"
+      },
+      {
+        "name": "Donnie Yen",
+        "character": "Caine",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg"
+      },
+      {
+        "name": "Bill Skarsgård",
+        "character": "Marquis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6OCBeTRLXrNKqvSz4HIweUWSIn6.jpg"
+      },
+      {
+        "name": "Ian McShane",
+        "character": "Winston",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rteBJYNgD1yGsHg2HGZAIrYHz1t.jpg"
+      },
+      {
+        "name": "Laurence Fishburne",
+        "character": "Bowery King",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iwx7h0AfWMm9K4sMmhru3ShSra.jpg"
+      },
+      {
+        "name": "Lance Reddick",
+        "character": "Charon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg"
+      },
+      {
+        "name": "Clancy Brown",
+        "character": "Harbinger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9RgzFqbmWBLVfq9wvyDo5UW8VT1.jpg"
+      },
+      {
+        "name": "Hiroyuki Sanada",
+        "character": "Shimazu",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x6QHfdTvuuOclypoPqtdqQmlaGW.jpg"
+      },
+      {
+        "name": "Rina Sawayama",
+        "character": "Akira",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yoo4ZcHjF4G51UDBj7omUQrClYI.jpg"
+      },
+      {
+        "name": "Scott Adkins",
+        "character": "Killa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg"
+      },
+      {
+        "name": "Aimée Kwan",
+        "character": "Mia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wMxlStNh1rNdcoMa7mnJD1h15O6.jpg"
+      },
+      {
+        "name": "Marko Zaror",
+        "character": "Chidi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rQ8XFdLmnfXs5x8FsttdOUrFLWa.jpg"
+      },
+      {
+        "name": "Natalia Tena",
+        "character": "Katia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7kN9NpECZoR4NLXb4SlpHOaJx7T.jpg"
+      },
+      {
+        "name": "Shamier Anderson",
+        "character": "Tracker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vUlPZ1owT67BOQwpIn96ZFjBxg2.jpg"
+      },
+      {
+        "name": "George Georgiou",
+        "character": "The Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9NoRfi7L87xsmveXpE7ryycsFQy.jpg"
+      },
+      {
+        "name": "Yoshinori Tashiro",
+        "character": "Sumo #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Hiroki Sumi",
+        "character": "Sumo #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Daiki Suzuki",
+        "character": "Daiki",
+        "profile_path": ""
+      },
+      {
+        "name": "Julia Asuka Riedl",
+        "character": "Operator",
+        "profile_path": ""
+      },
+      {
+        "name": "Milena Rendón",
+        "character": "Operator",
+        "profile_path": ""
+      },
+      {
+        "name": "Ivy Quainoo",
+        "character": "Operator",
+        "profile_path": ""
+      },
+      {
+        "name": "Irina Trifanov",
+        "character": "Operator",
+        "profile_path": ""
+      },
+      {
+        "name": "Iryna Fedorova",
+        "character": "Babushka",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrej Kaminsky",
+        "character": "Priest",
+        "profile_path": ""
+      },
+      {
+        "name": "Sven Marquardt",
+        "character": "Klaus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eDQDiW4xIgcJzxiVo0DU3fLBCbo.jpg"
+      },
+      {
+        "name": "Raicho Vasilev",
+        "character": "German Gangster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fj5lqV9ayJeQg8z7KJmwW4PbHrl.jpg"
+      },
+      {
+        "name": "Marie Pierra Kakoma",
+        "character": "DJ",
+        "profile_path": ""
+      },
+      {
+        "name": "Gina Aponte",
+        "character": "Club Host (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Christoph Hofmann",
+        "character": "Valet (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vnQ6eHhD3CRzpYglFZfUnlfWsAd.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Chad Stahelski",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eRCryGwKDH4XqUlrdkERmeBWPo8.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "martial arts",
+    "hitman",
+    "sequel",
+    "organized crime",
+    "osaka, japan",
+    "blindness",
+    "aftercreditsstinger",
+    "hunted",
+    "consequences",
+    "professional assassin",
+    "neo-noir",
+    "male protagonist",
+    "berlin"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+    "Condemned by the tyrannical High Table to be on the run for the rest of his life, deadly assassin maestro John Wick (2014) embarks on a Sisyphean mission of suicidal fury to decide his fate after the merciless carnage in John Wick: Chapter 3 - Parabellum (2019). At last, John's violent journey, fuelled by vengeance and grief, ultimately leads him to a fateful confrontation with his former employers, the crime masters that forced him into exile. And as the blood-stained vendetta to destroy those who pull the strings continues, old companions face the brutal consequences of friendship, and all-powerful, well-connected adversaries emerge to bring Wick's head on a platter. But talk is cheap--now guns have the final say. Baba Yaga, the grim messiah of death, must make every bullet count in this bloody, once-and-for-all struggle for freedom.—Nick Riganas"
+  ],
+  "synopsis": "In New York City, John Wick (Keanu Reeves) prepares to exact vengeance against the High Table while hiding underground with the Bowery King (Laurence Fishburne). He travels to Morocco and kills the Elder (George Georgiou), the \"one who sits above the Table\". Elder says that killing him would not change John's fate and that John would ever experience peace in death.\nIn response, High Table member Marquis Vincent Bisset De Gramont (Bill SkarsgArd) summons New York Continental hotel manager Winston (Ian McShane) and his concierge Charon (Lance Reddick), where he explains that the High Table has given him unlimited resources to kill John and chastises Winston for previously failing to do so.\nAs punishment, the Marquis strips Winston of his managerial duties, declares him \"Ex-Communicado\", destroys the New York Continental (after giving one hour to evacuate all guests) and executes Charon. Winston knows that Charon has been killed unfairly in his place, so he can endure that pain for as long as he lives.\nThe Marquis then enlists Caine (Donnie Yen) - a blind, retired High Table assassin - to kill his old friend John, threatening to murder Caine's daughter if he refuses to do so.John takes refuge at the Osaka Continental, run by his friend Shimazu Koji (Hiroyuki Sanada). Koji's daughter Akira advises Koji not to shelter John as she knows that the High table will inevitably come. But Koji will not abandon his friend in his hour of need. Koji informs John that killing the Elder was a mistake as they have destroyed the New York Continental, and Osaka might be next.\nKoji wants John to think about where this ends as the table will never stop.The Marquis' second-in-command Chidi (Marko Zaror), backed by High Table assassins and Caine, arrives to investigate the hotel.\nKoji's daughter Akira (Rina Sawayama), the hotel's concierge, evacuates the hotel just before the High Table \"Deconsecrates\" it, igniting a melee. Akira says that John has no right to be at the Osaka, and that many people, including her, could die because he broke the rules.John fights through waves of armored assassins, leading to a showdown against Caine. A bounty hunter named Mr. Nobody (Shamier Anderson) interrupts their fight and allows John to escape after determining the current bounty (declared by the High Table at $20 million) for killing John to be insufficient. Mr. Nobody intends to kill John when the bounty is large enough, and till then he decides to protect John.\nAkira is shot by the table's mercenaries, but she is only wounded. A wounded Koji repeatedly attacks Caine on John's behalf (as Caine wanted to know John's location in the hotel), until Caine reluctantly kills Koji, but spares Akira.\nAkira finds John and vows revenge against Caine. She wants John to kill Caine as retribution for Koji.The Harbinger is the High Table's emissary and tells the Marquis that the bloodshed at the Osaka Continental was unnecessary. But the Marquis is adamant about destroying the idea of John. Marquis summons Mr. Nobody who demands $50 million to kill John. Marquis stabs Mr. Nobody's hand and forces him to agree to find John for $23 million.John returns to New York and meets with a vengeful Winston at Charon's grave-site. John wants to kill the Marquis, but Winston says that the High Table will simply replace him. Winston suggests that John invoke an old High Table tradition to challenge the Marquis to a duel. Winning would free John of all obligations to the High Table, but he can only request a duel on behalf of a crime family. John was once part of a crime family who sat at the High Table, but he was kicked out. Winston tells John to get readmitted to his family. They would challenge the High Table and offer John as a proxy.John travels to the Berlin headquarters of the Ruska Roma crime syndicate, with whom he had severed ties, to request readmission. His adoptive sister Katia (Natalia Tena) stipulates that for readmission, John must kill Killa Harkan (Scott Adkins), a High Table member who murdered her father.\nMr. Nobody tells Marquis that John is in Berlin, but now Marquis wants him to kill John for the $23 million. Mr. Nobody knows that Marquis is stringing him along.Katia delivers John to Killa. Caine and Mr. Nobody were already there as they were tracking John on the orders of the Marquis. Caine and Mr. Nobody both want to kill John, so Kill engages them in a poker game, with the winner deciding what happens next. Killa cheats at the game to produce a 5 of a kind hand and makes it clear that he would kill Caine and Mr. Nobody as well.\nWith the aid of Caine and Mr. Nobody, John manages to kill him and regain his status.\nCaine stops Mr. Nobody from killing John, as he wants to kill John.Winston relays John's challenge to the Marquis, acting as John's 'second' and requests that, should John win, his Excommunicado to be revoked and the New York Continental be rebuilt, fully funded by the High Table; should John lose, however, Winston would also die as the challenger's 'second'.In Paris, John and the Marquis decide on the duel's parameters - dueling pistols at sunrise the following day at Sacré-Coeur - in a meeting moderated by the Harbinger (Clancy Brown), the Table's emissary. The Marquis nominates a reluctant Caine to take his place, while the Harbinger warns that both John and Winston will be executed should either fail to appear on time.\nMarquis tells Caine that if he kills John, he and his daughter will be free of all obligations to the High Table.Marquis is convinced that John Wick is a man without a purpose. He has nothing to live for, to kill for, or to die for. He is a ghost looking for a grave and Marquis will help him to get there.The Bowery King arrives in Paris to give John a pistol (9mm Pit Viper) and a new ballistic suit. The Marquis intends to prevent John from arriving at the duel in time by placing a $26 million bounty on him. Sunrise is at 6:03 AM.\nJohn fights off hordes of assassins on his way to Sacré-Coeur, including Mr. Nobody, who negotiates a bounty increase to $40 million. Mr. Nobody engages John in hand-to-hand combat, during which John gains the upper hand forcing Mr. Nobody to summon his ferocious dog for help.\nDuring their confrontation, John prevents Chidi from killing Mr. Nobody's dog, causing Mr. Nobody to abandon his pursuit of John.John is stopped by Marquis's agents from reaching the summit and has only 3 minutes left to make his deadline. This is when Caine arrives and says that he wants him at the duel at the appointed time.\nAfter Caine and Mr. Nobody assist John in fighting off several assassins - including Chidi, whom Mr. Nobody kills - on the Rue Foyatier, they reach the summit just in time for the duel. Just before entering the duel, Caine stabs John in his right wrist, preventing him using his right hand during the duel.John and Caine wound each other through two rounds of dueling (first round of shot at 30 paces, second round of shot at 20 paces), and the third round (which is at 10 paces from the center) comes to a halt when Caine severely wounds John. Marquis frees Caine and his daughter from all obligations to the High Table.\nDemanding the right to administer the Coup De Grace, the Marquis eagerly swaps places with Caine. Winston chides the Marquis for his arrogance, revealing that John has not yet fired his third bullet. John then promptly executes the Marquis with a head-shot, ending the duel.The Harbinger grants Caine and John their freedom from the High Table and Winston's reinstatement of Hotel Manager of the New York Continental, which will be rebuilt with the High Table's funds. John reflects upon his life and marriage before succumbing to his injuries. Sometime later, back in New York, Winston and the Bowery King bid farewell to John at his grave, located next to that of his wife Helen.In a post-credits scene, Caine returns to Paris to reunite with his daughter but is approached by a vengeful, knife-wielding Akira.",
+  "imdb_score": 7.7
+}

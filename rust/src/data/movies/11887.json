@@ -1,0 +1,584 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/spyZFUG0lR6FEbvMn3YBcxT8vdx.jpg",
+  "id": 11887,
+  "title": "High School Musical 3: Senior Year",
+  "poster_path": "https://image.tmdb.org/t/p/w500/2XJZeToQpxA0phMrC8Ez1mIrvjv.jpg",
+  "release_date": "2008-10-11",
+  "vote_average": 6.566,
+  "vote_count": 3352,
+  "popularity": 25.617,
+  "overview": "It's almost graduation day for high school seniors Troy, Gabriella, Sharpay, Chad, Ryan and Taylor — and the thought of heading off in separate directions after leaving East High has these Wildcats thinking they need to do something they'll remember forever. Together with the rest of the Wildcats, they stage a spring musical reflecting their hopes and fears about the future and their unforgettable experiences growing up together. Will their final show break them apart or bring them together for the greatest moment in Wildcat history?",
+  "imdb_id": "tt0962726",
+  "budget": 11000000,
+  "homepage": "http://disney.go.com/disneypictures/highschoolmusical3",
+  "revenue": 252900000,
+  "runtime": 111,
+  "tagline": "Get ready to celebrate!",
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Drama",
+    "Family",
+    "Music"
+  ],
+  "production_companies": [
+    "Walt Disney Pictures",
+    "Borden & Rosenbush Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Zac Efron",
+        "character": "Troy Bolton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6oXNHv7gAyXXYFpF943pKRsTtqQ.jpg"
+      },
+      {
+        "name": "Vanessa Hudgens",
+        "character": "Gabriella Montez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8S8Nn5m5qkiIrEJ3dzPRjltzrkx.jpg"
+      },
+      {
+        "name": "Ashley Tisdale",
+        "character": "Sharpay Evans",
+        "profile_path": "https://image.tmdb.org/t/p/w185/znzE8om6N3H9wJQ5AUTMxPOnA3s.jpg"
+      },
+      {
+        "name": "Lucas Grabeel",
+        "character": "Ryan Evans",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tyhpSWU7YDKntONxqC83Ifat2w6.jpg"
+      },
+      {
+        "name": "Corbin Bleu",
+        "character": "Chad Danforth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hB4dqxdG84ISRyFHXU7PdQwdJMw.jpg"
+      },
+      {
+        "name": "Monique Coleman",
+        "character": "Taylor McKessie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/MgvDT0pq69f6KzS8qeu0zPpDMl.jpg"
+      },
+      {
+        "name": "Olesya Rulin",
+        "character": "Kelsi Nielson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jkKMcIsluWbcivCNIVbLJsX4ISK.jpg"
+      },
+      {
+        "name": "Chris Warren",
+        "character": "Zeke Baylor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xBVDjsdeJacMJhSX2WkYRIuat1M.jpg"
+      },
+      {
+        "name": "Ryne Sanborn",
+        "character": "Jason Cross",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gf9RsLdVOLMh2AKXHKsDU7obMRq.jpg"
+      },
+      {
+        "name": "Kaycee Stroh",
+        "character": "Martha Cox",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dE3BAp2UZ67ZVEVGFbMq814UHHL.jpg"
+      },
+      {
+        "name": "Bart Johnson",
+        "character": "Coach Jack Bolton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lDRq4ASwF2cehxPVmwZonRYRcBq.jpg"
+      },
+      {
+        "name": "Alyson Reed",
+        "character": "Ms. Darbus",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iSWg3DSnsc0FVWJsDR3eNjkAlqw.jpg"
+      },
+      {
+        "name": "Matt Prokop",
+        "character": "Jimmie \"Rocket Man\" Zara",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dR0iivJAiKYkxK1ugbLlgPqM9Bb.jpg"
+      },
+      {
+        "name": "Justin Martin",
+        "character": "Donny Dion",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Al03iCqhjIogfP7j1VYUvoLvyI.jpg"
+      },
+      {
+        "name": "Jemma McKenzie-Brown",
+        "character": "Tiara Gold",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wFyc2GIiuXUC6PyMjI4azN1zQZZ.jpg"
+      },
+      {
+        "name": "Leslie Wing",
+        "character": "Lucille Bolton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/idxzeGyXOy15BiHVhxnZmuniosv.jpg"
+      },
+      {
+        "name": "Socorro Herrera",
+        "character": "Lisa Montez",
+        "profile_path": ""
+      },
+      {
+        "name": "David Reivers",
+        "character": "Charlie Danforth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3QJQfLKKrEw9F9E5CR6NwQSWLqA.jpg"
+      },
+      {
+        "name": "Yolanda Wood",
+        "character": "Mrs. Danforth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/12jOYy5HivapQb161JHYGPSkwvg.jpg"
+      },
+      {
+        "name": "Robert Curtis Brown",
+        "character": "Vance Evans",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rbMhXK1U9zZXcPHQKAoJ677qeak.jpg"
+      },
+      {
+        "name": "Jessica Tuck",
+        "character": "Darby Evans",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lXpxXSuLtOxSTOLZ6KKqdE8XnK1.jpg"
+      },
+      {
+        "name": "Joey Miyashima",
+        "character": "Principal Dave Matsui",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fTEpfX8jaThOwHA2RyGkNTibCUM.jpg"
+      },
+      {
+        "name": "Stan Ellsworth",
+        "character": "Mr. Riley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/afvU6aehDaQghn6nJA7yvKmxDEK.jpg"
+      },
+      {
+        "name": "Dave Fox",
+        "character": "Coach Kellogg",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeremy Banks",
+        "character": "Stagehand",
+        "profile_path": ""
+      },
+      {
+        "name": "Todd Snyder",
+        "character": "Mr. Juilliard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xlF44f9dcnm8xWiqtMHhzw0byBi.jpg"
+      },
+      {
+        "name": "Tara Starling",
+        "character": "Ms. Juilliard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9KmMvOoedO0kH7wy3pW1kgnq8zI.jpg"
+      },
+      {
+        "name": "Manly \"Little Pickles\" Ortega",
+        "character": "Boi Evans",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bAccs7PHLXbR1im2bJFqlOKEUwy.jpg"
+      },
+      {
+        "name": "Bayli Baker",
+        "character": "Principal Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uibYS9a0d7vMznMaCP8kqXWLCIo.jpg"
+      },
+      {
+        "name": "Shawn Carter",
+        "character": "Principal Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/377mgqgI2U8xaCpnuuuB6mSxWpr.jpg"
+      },
+      {
+        "name": "Katie Cockrell",
+        "character": "Principal Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sxu9sc1xZk4VGuC7tlgMj1YWq3a.jpg"
+      },
+      {
+        "name": "Max Ehrich",
+        "character": "Principal Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6dntL7QQzaYr6ZYnZJVEwxmQNM7.jpg"
+      },
+      {
+        "name": "Italo Elgueta",
+        "character": "Principal Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Christina Glur",
+        "character": "Principal Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jaimie Goodwin",
+        "character": "Principal Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Mollee Gray",
+        "character": "Principal Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x89S7ZCATw3uqxK6d8q79Nuc0ZK.jpg"
+      },
+      {
+        "name": "Charles Klapow",
+        "character": "Principal Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sRXl8vrKEnkJhd3vBuqzZBD37sE.jpg"
+      },
+      {
+        "name": "Kimberly Klapow",
+        "character": "Principal Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nick Lanzisera",
+        "character": "Principal Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Roger Malaga",
+        "character": "Principal Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Doug Penikas",
+        "character": "Principal Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d2fHg5NyhdDAdILniaoKJNPFWcw.jpg"
+      },
+      {
+        "name": "Jameson Perry",
+        "character": "Principal Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zAkmcsMv9IQVRqLf4rFN9lrULjP.jpg"
+      },
+      {
+        "name": "Tia Robinson",
+        "character": "Principal Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Haylee Roderick",
+        "character": "Principal Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hbPYoqLumb3hXzWImDNrZHauzVG.jpg"
+      },
+      {
+        "name": "Britt Stewart",
+        "character": "Principal Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ytJW68HyQOGaGIKLkrSilk453E.jpg"
+      },
+      {
+        "name": "Jason Williams",
+        "character": "Principal Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hQSEX4G6dIgeijPIOZLWZfTN2Hq.jpg"
+      },
+      {
+        "name": "Nikola Clark",
+        "character": "Featured Dancer - Now or Never",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gmOBuI3nxrL67JnPADceIvRlJyt.jpg"
+      },
+      {
+        "name": "Audra Griffis",
+        "character": "Featured Dancer - Now or Never",
+        "profile_path": ""
+      },
+      {
+        "name": "Megan Honore",
+        "character": "Featured Dancer - Now or Never",
+        "profile_path": ""
+      },
+      {
+        "name": "Cara Horibe",
+        "character": "Featured Dancer - Now or Never",
+        "profile_path": ""
+      },
+      {
+        "name": "David Huff",
+        "character": "Featured Dancer - Now or Never",
+        "profile_path": ""
+      },
+      {
+        "name": "Melissa Magleby",
+        "character": "Featured Dancer - Now or Never",
+        "profile_path": ""
+      },
+      {
+        "name": "Allysa Shorte",
+        "character": "Featured Dancer - Now or Never",
+        "profile_path": ""
+      },
+      {
+        "name": "Mercedes Bailey",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Benson",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Christina Bluth",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Nacole Brown",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Erica L. Bryce",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Taylor Cate",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Stacey Clark",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Lacey Derrick",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Mallauri Esquibel",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexander Farnsworth",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Hayley Folsom",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Raquel Goodsell",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Daysha Hannemann",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Adair Hensley",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Bailee Hunsaker",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Kelene Johnson",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Kaelee Jones",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Tiffany Mallari",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Nina Miller",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Seneca Miner",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Taylour Paige",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": "https://image.tmdb.org/t/p/w185/KTX1trmIfVa7MFkZmES1MVjl79.jpg"
+      },
+      {
+        "name": "Amber Snow",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Jessica Snowden",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Kelsey Peterson Tanner",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Tyler Welling",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Chelsea Williams",
+        "character": "Featured Dancer - I Want it All",
+        "profile_path": ""
+      },
+      {
+        "name": "Tadd Gadduang",
+        "character": "Featured Dancer - The Boys Are Back",
+        "profile_path": ""
+      },
+      {
+        "name": "Kaleb Henderson",
+        "character": "Featured Dancer - The Boys Are Back",
+        "profile_path": ""
+      },
+      {
+        "name": "Skyler Johnson",
+        "character": "Featured Dancer - The Boys Are Back",
+        "profile_path": ""
+      },
+      {
+        "name": "Miguel Olague",
+        "character": "Featured Dancer - The Boys Are Back",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Owens",
+        "character": "Featured Dancer - The Boys Are Back",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hT55s8UvUyzqzaf4Y7bXQgbjiY7.jpg"
+      },
+      {
+        "name": "Tui-Niua Tuita",
+        "character": "Featured Dancer - The Boys Are Back",
+        "profile_path": ""
+      },
+      {
+        "name": "Josh Unice",
+        "character": "Featured Dancer - The Boys Are Back",
+        "profile_path": ""
+      },
+      {
+        "name": "Zack Wilson",
+        "character": "Featured Dancer - The Boys Are Back",
+        "profile_path": ""
+      },
+      {
+        "name": "Katie Allred",
+        "character": "Featured Dancer - High School Musical",
+        "profile_path": ""
+      },
+      {
+        "name": "Kelli Baker",
+        "character": "Featured Dancer - High School Musical",
+        "profile_path": ""
+      },
+      {
+        "name": "Chaz Bodily",
+        "character": "Featured Dancer - High School Musical",
+        "profile_path": ""
+      },
+      {
+        "name": "Averie DelGrosso",
+        "character": "Featured Dancer - High School Musical",
+        "profile_path": ""
+      },
+      {
+        "name": "D.J. Guthrie",
+        "character": "Featured Dancer - High School Musical",
+        "profile_path": ""
+      },
+      {
+        "name": "Casey Harward",
+        "character": "Featured Dancer - High School Musical",
+        "profile_path": ""
+      },
+      {
+        "name": "Jaremy Hill",
+        "character": "Featured Dancer - High School Musical",
+        "profile_path": ""
+      },
+      {
+        "name": "Eldon Johnson",
+        "character": "Featured Dancer - High School Musical",
+        "profile_path": ""
+      },
+      {
+        "name": "Noelle Menard",
+        "character": "Featured Dancer - High School Musical",
+        "profile_path": ""
+      },
+      {
+        "name": "Jen Osorio",
+        "character": "Featured Dancer - High School Musical",
+        "profile_path": ""
+      },
+      {
+        "name": "Junar Pasco",
+        "character": "Featured Dancer - High School Musical",
+        "profile_path": ""
+      },
+      {
+        "name": "Brandon Perry",
+        "character": "Featured Dancer - High School Musical",
+        "profile_path": ""
+      },
+      {
+        "name": "Sydney T. Sorenson",
+        "character": "Featured Dancer - High School Musical",
+        "profile_path": ""
+      },
+      {
+        "name": "Jessie Thacker",
+        "character": "Featured Dancer - High School Musical",
+        "profile_path": ""
+      },
+      {
+        "name": "Hefa Leone Tuita",
+        "character": "Featured Dancer - High School Musical",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Whittaker",
+        "character": "Featured Dancer - High School Musical",
+        "profile_path": ""
+      },
+      {
+        "name": "Veronica Yeager",
+        "character": "Featured Dancer - High School Musical",
+        "profile_path": ""
+      },
+      {
+        "name": "Chrysal Saji",
+        "character": "Lasagne Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/abz1dfmrqsGriaCXA6lAp11EvcF.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Kenny Ortega",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cZrsOBr1tp1nNPJ5xj3uao2XQbJ.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "high school",
+    "musical",
+    "coming of age",
+    "high school student",
+    "duringcreditsstinger",
+    "music movie"
+  ],
+  "mpaa": "G",
+  "summaries": [
+    "As seniors in high school, Troy and Gabriella struggle with the idea of being separated from one another as college approaches. Along with the rest of the Wildcats, they stage a spring musical to address their experiences, hopes and fears about their future.",
+    "Troy and the gang of East High School are going through their senior year, facing graduating and going their separate ways. Coming to terms with the reality of it all, Troy wants to attend the nearby University of Albuquerque next year on a basketball scholarship, but Gabriella wants to attend Stanford University in California. Meanwhile, Sharpay, the school's shallow and spoiled rich girl, plots to go all out planning the school's final musical show with the idea to add music to her hopes and fears about the future. While Sharpay takes an up-and-coming British exchange student under her wing, her flamboyant fraternal twin brother, Ryan, has his sights set on something different after school. In addition, Troy's best friend and basketball teammate Chad, and Garbiella's best friend Taylor, all have their sights set on their plans after high school and come to terms with the reality of the real world.—Anonymous",
+    "Troy and Gabriella, high school seniors intend to spend as much time together before they go their separate ways after graduation, but things keep getting in the way, to make it hard for that to happen. With graduation speeding toward them they face many challenges, like Troy going to a College over a thousand miles away from Gabriella and what their parents will think, but for them to spend time together the Spring musical could let them achieve their goal, or will those challenges also interfere with that too?"
+  ],
+  "synopsis": "",
+  "imdb_score": 5
+}

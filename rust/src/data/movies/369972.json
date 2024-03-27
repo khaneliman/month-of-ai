@@ -1,0 +1,532 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/jrudoaXcoLyHRPdolyOGemXgPEs.jpg",
+  "id": 369972,
+  "title": "First Man",
+  "poster_path": "https://image.tmdb.org/t/p/w500/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+  "release_date": "2018-10-10",
+  "vote_average": 7,
+  "vote_count": 4999,
+  "popularity": 28.006,
+  "overview": "A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
+  "imdb_id": "tt1213641",
+  "budget": 70000000,
+  "homepage": "https://www.firstman.com/",
+  "revenue": 105713218,
+  "runtime": 141,
+  "tagline": "One giant leap into the unknown",
+  "genres": [
+    "History",
+    "Drama"
+  ],
+  "production_companies": [
+    "Universal Pictures",
+    "DreamWorks Pictures",
+    "Perfect World Pictures",
+    "Temple Hill Entertainment",
+    "dentsu",
+    "Fuji Television Network"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Ryan Gosling",
+        "character": "Neil Armstrong",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+      },
+      {
+        "name": "Claire Foy",
+        "character": "Janet Shearon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/EiH5rbYpRzhhejGESTZQeT7uYC.jpg"
+      },
+      {
+        "name": "Jason Clarke",
+        "character": "Ed White",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jGMOmi7LxpSO6842gJOZKt1gs9N.jpg"
+      },
+      {
+        "name": "Kyle Chandler",
+        "character": "Deke Slayton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ogmGlJKxRs1nZ8BD2bH4sAP4ws6.jpg"
+      },
+      {
+        "name": "Corey Stoll",
+        "character": "Buzz Aldrin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/etqmosIyf1xePKpi3i6rHJCm9GE.jpg"
+      },
+      {
+        "name": "Patrick Fugit",
+        "character": "Elliot See",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bsONcodcqRKV97p1Oo1jcPkEnDA.jpg"
+      },
+      {
+        "name": "Christopher Abbott",
+        "character": "David Scott",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4uGSSUdRl45HkAyW3CLM77GcK2V.jpg"
+      },
+      {
+        "name": "Ciarán Hinds",
+        "character": "Robert R. Gilruth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+      },
+      {
+        "name": "Olivia Hamilton",
+        "character": "Patricia White",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x8X5zH81hBkV2pF3n1VIcQtre1C.jpg"
+      },
+      {
+        "name": "Pablo Schreiber",
+        "character": "Jim Lovell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wOze8R9lgoZxZoTsPSHID4Nt2Ee.jpg"
+      },
+      {
+        "name": "Shea Whigham",
+        "character": "Gus Grissom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
+      },
+      {
+        "name": "Lukas Haas",
+        "character": "Michael Collins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6LNGu3o2aBiYNTDkbXMDIGyQtBh.jpg"
+      },
+      {
+        "name": "Ethan Embry",
+        "character": "Pete Conrad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oC5m2pfIcfAD6jrPTNhR77Uldm9.jpg"
+      },
+      {
+        "name": "Brian d'Arcy James",
+        "character": "Joseph A. Walker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Gz3b0A20Vrq7aadGfjZekdgGFK.jpg"
+      },
+      {
+        "name": "Cory Michael Smith",
+        "character": "Roger B. Chaffee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hGW4o7oigkjdEZRO2fQJoCPkDsL.jpg"
+      },
+      {
+        "name": "Kris Rey",
+        "character": "Marilyn See",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sbRCYPsXPVXKsXnLXFayZbqSTLF.jpg"
+      },
+      {
+        "name": "Gavin Warren",
+        "character": "Young Rick Armstrong",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4z3kio4NE3TT7FPrgTTPisNeaUY.jpg"
+      },
+      {
+        "name": "Luke Winters",
+        "character": "Older Rick Armstrong",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3MO2lCORi22fAAHokEE4fE3TKbD.jpg"
+      },
+      {
+        "name": "Connor Blodgett",
+        "character": "Mark Armstrong",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucy Stafford",
+        "character": "Karen Armstrong",
+        "profile_path": ""
+      },
+      {
+        "name": "J.D. Evermore",
+        "character": "Christopher C. Kraft Jr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bTLrDTIj9DNnYP8afZXPTo31CJA.jpg"
+      },
+      {
+        "name": "Leon Bridges",
+        "character": "Gil-Scott Heron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sFUn3zM9PM7dorZpCuhowOxIBMa.jpg"
+      },
+      {
+        "name": "Steve Coulter",
+        "character": "Guenter Wendt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qyHhqvKmnriG6wN7tAIUT4Nfrif.jpg"
+      },
+      {
+        "name": "Skyler Bible",
+        "character": "Richard F. Gordon Jr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lJmkLcOhM12H2cvZCwravA5rIt7.jpg"
+      },
+      {
+        "name": "William Gregory Lee",
+        "character": "Gordon Cooper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gjoSZus8Mg568nRbsbXwWxfafQD.jpg"
+      },
+      {
+        "name": "Choppy Guillotte",
+        "character": "John Young",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p77cR4hhXzBgkhHZ4JFAA9uWF9N.jpg"
+      },
+      {
+        "name": "Braydyn Nash Helms",
+        "character": "Young Ed White Jr.",
+        "profile_path": ""
+      },
+      {
+        "name": "Edmund Grant",
+        "character": "Older Ed White Jr.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/of3IR9sRgDmftlPK6CulBRTPNmo.jpg"
+      },
+      {
+        "name": "Callie Brown",
+        "character": "Young Bonnie White",
+        "profile_path": ""
+      },
+      {
+        "name": "Claire Smith",
+        "character": "Older Bonnie White",
+        "profile_path": ""
+      },
+      {
+        "name": "Brady Smith",
+        "character": "Butch Butchart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zshcDf0BN4wUtaFdM46bVYagxY4.jpg"
+      },
+      {
+        "name": "John David Whalen",
+        "character": "John Glenn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pAcPCTs7VLz58tNl1KKLtylrBC1.jpg"
+      },
+      {
+        "name": "Matthew Glave",
+        "character": "Chuck Yeager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eOKxqa7tMNpehJarcLEgen0rwvA.jpg"
+      },
+      {
+        "name": "Rodney J. Hobbs",
+        "character": "X-15 Flight Surgeon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5dDe13QATRxCbJZdAXARgaWAlIx.jpg"
+      },
+      {
+        "name": "Kermit Rolison",
+        "character": "George Mueller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wm0vZ075tT54xikZoUnheJqLLbB.jpg"
+      },
+      {
+        "name": "Willie Repoley",
+        "character": "Jim Fucci",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tCIVdc7sOzNrWObp436l7BFTbhZ.jpg"
+      },
+      {
+        "name": "Ben Owen",
+        "character": "John Hodge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7UTTLsMUFaR1IGrbt9zUWToqVT5.jpg"
+      },
+      {
+        "name": "Jim Stearns",
+        "character": "David Hammock",
+        "profile_path": ""
+      },
+      {
+        "name": "James H. Williams",
+        "character": "Pastor",
+        "profile_path": ""
+      },
+      {
+        "name": "Helen S. Jackson",
+        "character": "Louise Sheron",
+        "profile_path": ""
+      },
+      {
+        "name": "Ambrit Millhouse",
+        "character": "Syringe Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/foDYUBc1mFZZLrz4HTxrNH9qDFr.jpg"
+      },
+      {
+        "name": "Mark Armstrong",
+        "character": "Paul Haney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3vjRU98h6TeGHy14lAi1w8G4kXb.jpg"
+      },
+      {
+        "name": "Kevin Buttimer",
+        "character": "MSC Entrance Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Qjwh4Mjx5ooW44mby7n8wtrTmO.jpg"
+      },
+      {
+        "name": "Dustin Lewis",
+        "character": "Ralph Morse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iNYiHXV3XJS38vGE7SI2QqkoyYL.jpg"
+      },
+      {
+        "name": "Robert Hatch",
+        "character": "Joe Schmitt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/goM43mE1Rylozxig8EpCaOzisng.jpg"
+      },
+      {
+        "name": "Anna Chazelle",
+        "character": "White House Staffer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lSkrk8rqWUHVOZAMVGpknQP7RkU.jpg"
+      },
+      {
+        "name": "Tyner Rushing",
+        "character": "White House Staffer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ieovRA9s1yhMi4rkKpInCbUajUd.jpg"
+      },
+      {
+        "name": "Myra Brown",
+        "character": "White House Attendant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/I2vTulLtB7rY15JC75BIG9jp9p.jpg"
+      },
+      {
+        "name": "Ronald Hicks",
+        "character": "White House Attendee",
+        "profile_path": ""
+      },
+      {
+        "name": "Lawrence Jonasson",
+        "character": "White House Attendee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/edxSSSp8jDF4MqAjN5fSuV64jQE.jpg"
+      },
+      {
+        "name": "Irina Labouz",
+        "character": "White House Attendee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nqYHG7IW7UsVPkWVFHAl2exX1Uj.jpg"
+      },
+      {
+        "name": "Anthony Paolucci",
+        "character": "Jim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yVrULSyAXyol950oHtm7qsMK6zb.jpg"
+      },
+      {
+        "name": "Philip Boyd",
+        "character": "Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/WB07ggvmVswYqghQNyX7rqe9GA.jpg"
+      },
+      {
+        "name": "Stephanie Turner",
+        "character": "Kelsey",
+        "profile_path": ""
+      },
+      {
+        "name": "Timothy Batten",
+        "character": "ABC Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Aurelien Gaya",
+        "character": "Agence France Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9gHUwyzbDnZjXzPL3ATGKwjBE6j.jpg"
+      },
+      {
+        "name": "Todd Truley",
+        "character": "Houston Post Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Kelly",
+        "character": "Reporter - Apollo 11",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mnXgwTVNPGqJyNmLP1neATTsvy2.jpg"
+      },
+      {
+        "name": "Tim Olcott",
+        "character": "Reporter - Apollo 11",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b3oVDPMxu7Zlj72e6rIXhuIvgW1.jpg"
+      },
+      {
+        "name": "Andrea Maria Hintermaier",
+        "character": "Hamburg Press",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6fTpZzsndebGKJkif1BiKsd2Erv.jpg"
+      },
+      {
+        "name": "Jamie Anne Allman",
+        "character": "Times Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mA82QEpjnt9YlNa3ljppfY7pKLd.jpg"
+      },
+      {
+        "name": "Charles Carroll",
+        "character": "Senator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pr30bmAONpQcZDUOBUgI02upncF.jpg"
+      },
+      {
+        "name": "Brian Mahoney",
+        "character": "Fire Inspector",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ExoquFGbjOkkLWJc0u946WVRYH.jpg"
+      },
+      {
+        "name": "Donald Watkins",
+        "character": "Protestor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rMPjEgjxK1NQOmwvkOIIKxhRLk2.jpg"
+      },
+      {
+        "name": "Tess Oakland",
+        "character": "Diner Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Lee Kimel",
+        "character": "Bill Moon",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryan Clay Forbes",
+        "character": "Bill Anders",
+        "profile_path": ""
+      },
+      {
+        "name": "Joshua Powell",
+        "character": "MC Engineer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zW3vDKoOsIhzyW8HoI8jPgCAjNe.jpg"
+      },
+      {
+        "name": "Thomas Clay Strickland",
+        "character": "MC Engineer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6rquwfQtPoArOZyTmHCBASnZVPj.jpg"
+      },
+      {
+        "name": "Brad Kitchen",
+        "character": "Assistant Flight Director",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Harper",
+        "character": "Flight Activities Director",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Armstrong",
+        "character": "Booster Flight Controller",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Johnson",
+        "character": "CSQ Agena Systems",
+        "profile_path": ""
+      },
+      {
+        "name": "Damian Lovello",
+        "character": "CSQ Gemini Systems",
+        "profile_path": ""
+      },
+      {
+        "name": "Nelson Bonilla",
+        "character": "NASA PAO",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cLD3PPFRxqOx2r5PqFk3I4Dpj5q.jpg"
+      },
+      {
+        "name": "Shawn Eric Jones",
+        "character": "Wally Schirra (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Stahl",
+        "character": "Ken Mattingly",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Kirkman",
+        "character": "MCC Fido",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian David McCay",
+        "character": "MCC Retro",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Schlichting",
+        "character": "MCC GNC",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Yurgil",
+        "character": "MCC EECOM",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Buckman",
+        "character": "MCC Guidance",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Sgubin",
+        "character": "MCC Network",
+        "profile_path": ""
+      },
+      {
+        "name": "Greg Puckett",
+        "character": "Charles Berry (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Perry Zulu Jr.",
+        "character": "Robert Lawrence (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yG0YDvhUQFsPwm9sZ5CMa7MGIdH.jpg"
+      },
+      {
+        "name": "Kent Wagner",
+        "character": "Fred Haise (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Katelyn Davis",
+        "character": "Sally See (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "George Linkenback",
+        "character": "Col. Frank Borman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Milton Saul",
+        "character": "Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2hwSDWQd1O1vIPeFxTrhW0gzkjq.jpg"
+      },
+      {
+        "name": "Aaron J. Brooks",
+        "character": "NASA Pilot (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mZW38mcR8eKbZLPRzLNkHQU8bSO.jpg"
+      },
+      {
+        "name": "John F. Kennedy",
+        "character": "Self (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/59L7ESQn3PCui8bVluY7H5Qu9Fv.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Damien Chazelle",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/14kRZ3XxNMyBv717YQSXr3wCucy.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "moon",
+    "based on novel or book",
+    "sacrifice",
+    "nasa",
+    "wife",
+    "obsession",
+    "space travel",
+    "space mission",
+    "biography",
+    "engineer",
+    "based on true story",
+    "moon landing",
+    "space",
+    "cancer",
+    "astronaut",
+    "historical event",
+    "death of daughter",
+    "compromise",
+    "test pilot",
+    "1960s",
+    "apollo program"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
+    "A Biopic on the life of the legendary American Astronaut Neil Armstrong from 1961-1969, on his journey to becoming the first human to walk the moon. Exploring the sacrifices and costs on the Nation and Neil himself, during one of the most dangerous missions in the history of space travel.—Matthew Villella",
+    "In 1961, NASA test pilot Neil Armstrong is flying the X-15 rocket plane when it inadvertently bounces off the atmosphere. Although he manages to land the plane in the Mojave Desert, his colleagues express concern that his recent record of mishaps is due to distraction and he is grounded. His two-and-a-half year old daughter, Karen, is undergoing treatment for a brain tumor. Desperate to save her, Armstrong keeps a detailed log of her symptoms and feverishly tries to find possible treatments, but she dies soon afterwards. Grief-stricken, Armstrong applies for Project Gemini and is accepted to NASA Astronaut Group 2. Armstrong, his wife Janet, and their son Rick move to Houston alongside other astronaut families. Armstrong befriends Elliot See, another civilian test pilot, and Ed White. As Armstrong begins training, Deke Slayton impresses upon the new astronauts the importance of the Gemini program, as the Soviet Union had reached every milestone in the Space Race ahead of the United States. Armstrong and Janet have a second son, Mark. By 1965, the family has settled in Houston, and Armstrong awaits selection for a crew. After the Soviets complete the first extravehicular activity (EVA), Armstrong is informed that he will be the commander of Gemini 8, with David Scott as the pilot..",
+    "In the aftermath of a crushing family tragedy during the pressing Space Race with the Soviet Union, the humble and quiet civilian test pilot, Neil Armstrong, is recruited by the chief of the NASA astronaut office, Deke Slayton, for the ambitious Project Gemini, in the dawn of 1960s. However, eight long years filled with trials, tragedies, but also innovations, will pass before Armstrong--as the commander of the Apollo 11--along with the American astronaut, Buzz Aldrin, manage to land on the Moon the Apollo Lunar Module, Eagle, on July 20, 1969. On the arid and eerie lunar landscape dusted with powdery regolith, Neil takes the first step on the unknown celestial body, some 384,400 kilometres away from the Earth. What is it like to be the first man on the Moon?—Nick Riganas",
+    "A semi-fictional account of the life of Neil Armstrong during his time in the NASA space program throughout the 1960s from 1961 just before being accepted into the Gemini program to the historic Apollo 11 flight to the moon - he the first human ever to step foot on its surface - in 1969 is presented, this presentation largely a character study. This profile is set against the backdrop of the space race between the Americans and Soviets, with the Soviets having beaten the Americans at every step along the way, hence the American push to be first on the moon arguably taking more risks than they may have otherwise to achieve that goal. Armstrong's stoicism is front and center in most situations, he largely displaying little emotion unless by himself, which also means not to his family including his wife, Janet Armstrong. The path to being chosen flight commander for Apollo 11 is shown to have been one of fortunate and unfortunate circumstances both for him and his colleagues, for him where some perceived he making missteps could have just as easily derailed his career.—Huggo"
+  ],
+  "synopsis": "In 1961, NASA test pilot Neil Armstrong is flying the X-15 rocket-powered spaceplane when it inadvertently bounces off the atmosphere. Although he manages to land the plane in the Mojave Desert, his colleagues express concern that his recent record of mishaps is due to distraction, and he is grounded.His 2 1/2-year-old daughter, Karen, is undergoing treatment for a brain tumor. Desperate to save her, Armstrong keeps a detailed log of her symptoms and feverishly tries to find possible treatments, but she dies soon afterwards. Grief-stricken, Armstrong applies for Project Gemini and is accepted to NASA Astronaut Group 2. Armstrong, his wife Janet, and their son Rick move to Houston alongside other astronaut families. Armstrong befriends Elliot See, another civilian test pilot, and Ed White. As Armstrong begins training, Deke Slayton impresses upon the new astronauts the importance of the Gemini program, as the Soviet Union had reached every milestone in the Space Race ahead of the United States. Armstrong and Janet have a second son, Mark.By 1965, the family has settled in Houston, and Armstrong awaits selection for a crew. After the Soviets complete the first extravehicular activity (EVA), Armstrong is informed that he will be the commander of Gemini 8, with David Scott as the pilot. Prior to the mission, See and Charles Bassett are killed in a T-38 crash, deepening Armstrong's grief at the string of recent losses. Armstrong and Scott successfully launch on Gemini 8 and dock with the Agena target vehicle, but soon afterward, the spacecraft begins to roll at a rapid rate. After nearly blacking out, Armstrong activates the RCS thrusters and safely aborts the mission. Armstrong initially faces criticism, but NASA determines the crew is not at fault. Later, White reveals that he has been selected for the Apollo 1 mission, along with Gus Grissom and Roger Chaffee.During a launch rehearsal test on January 27, 1967, a fire kills White and the Apollo 1 crew, and Armstrong hears the news while representing NASA at the White House. The next year, after ejecting from the Lunar Landing Research Vehicle in an accident that could have killed him, Armstrong is selected to command Apollo 11, and Slayton informs him that it will likely be the first lunar landing. As the mission nears, Neil becomes increasingly preoccupied and emotionally distant from his family. Just prior to the launch, Janet confronts Armstrong about the possibility that he won't survive the flight and insists that he should explain the risks of the mission to their young sons. After telling them about the risks he faces, Armstrong says goodbye to his family and departs.Apollo 11 successfully launches and arrives at the Moon four days later. Armstrong and Aldrin undock in the Lunar Module and begin the landing attempt. They realize that they are coming in too fast and are going to overshoot their designated landing site. The new landing site turns out to have much rougher terrain, forcing Armstrong to take manual control of the spacecraft. He lands the lunar module successfully with minimal fuel remaining. After setting foot on the Moon, Armstrong drops Karen's bracelet into Little West crater. With their mission complete, the astronauts return home and are placed in quarantine, where the film of John F. Kennedy's 1962 speech \"We choose to go to the Moon\" is shown, and Armstrong and Janet share a moment of tenderness.",
+  "imdb_score": 7.3
+}

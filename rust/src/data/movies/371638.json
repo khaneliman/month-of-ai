@@ -1,0 +1,596 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/cCIWU5b4izIpLeGQnQNW7iTtIDN.jpg",
+  "id": 371638,
+  "title": "The Disaster Artist",
+  "poster_path": "https://image.tmdb.org/t/p/w500/jj84nF5vYRD0HUTowBKcrKk8hZP.jpg",
+  "release_date": "2017-03-12",
+  "vote_average": 7.112,
+  "vote_count": 3372,
+  "popularity": 22.53,
+  "overview": "An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy Wiseau, the meeting leads the actor down a path nobody could have predicted; creating the worst movie ever made.",
+  "imdb_id": "tt3521126",
+  "budget": 10000000,
+  "homepage": "https://a24films.com/films/the-disaster-artist",
+  "revenue": 29820616,
+  "runtime": 104,
+  "tagline": "Based on the true story of one movie so bad it became infamous.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    "New Line Cinema",
+    "Rabbit Bandini Productions",
+    "Point Grey Pictures",
+    "Good Universe",
+    "RatPac Entertainment",
+    "Ramona Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "James Franco",
+        "character": "Tommy Wiseau",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pgEe68922Ba20vAwPmAFQFm8U0c.jpg"
+      },
+      {
+        "name": "Dave Franco",
+        "character": "Greg Sestero",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j48eRArsXapbfXZfw9Fik7PlJSo.jpg"
+      },
+      {
+        "name": "Seth Rogen",
+        "character": "Sandy Schklair",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2dPFskUtoiG0xafsSEGl9Oz4teA.jpg"
+      },
+      {
+        "name": "Alison Brie",
+        "character": "Amber",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uu16GiwYblS6IJV3o4qFSLWKXOC.jpg"
+      },
+      {
+        "name": "Ari Graynor",
+        "character": "Juliette Danielle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7qJNAda6uPPwIruMBmQ0u2PCkp9.jpg"
+      },
+      {
+        "name": "Jacki Weaver",
+        "character": "Carolyn Minnott",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zalCqZnNQMKseFmwQwOlLrl3w2P.jpg"
+      },
+      {
+        "name": "Josh Hutcherson",
+        "character": "Philip Haldiman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/npowygg8rH7uJ4v7rAoDMsHBhNq.jpg"
+      },
+      {
+        "name": "Zac Efron",
+        "character": "Dan Janjigian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6oXNHv7gAyXXYFpF943pKRsTtqQ.jpg"
+      },
+      {
+        "name": "Paul Scheer",
+        "character": "Raphael Smadja",
+        "profile_path": "https://image.tmdb.org/t/p/w185/76c6ieidSECRslxVX4ZA5WBdz40.jpg"
+      },
+      {
+        "name": "June Diane Raphael",
+        "character": "Robyn Paris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lAwKmADejWaxNCwraNJO6tbfItb.jpg"
+      },
+      {
+        "name": "Megan Mullally",
+        "character": "Mrs. Sestero",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ypdczVeLt9B2zSOeY7e6RO2XWJQ.jpg"
+      },
+      {
+        "name": "Jason Mantzoukas",
+        "character": "Peter Anway",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ogkbSybFX2NrMZk0u0dBt1KZwVW.jpg"
+      },
+      {
+        "name": "Andrew Santino",
+        "character": "Scott Holmes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oMIPMiKGFfWURfgFpBjqoU6T8xA.jpg"
+      },
+      {
+        "name": "Nathan Fielder",
+        "character": "Kyle Vogt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kdPzd18x2LUoTuKiaDSOr6rUA2U.jpg"
+      },
+      {
+        "name": "Joe Mande",
+        "character": "Todd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/onIBAhW2omltRUOOK8LcYddWXwt.jpg"
+      },
+      {
+        "name": "Sharon Stone",
+        "character": "Iris Burton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5lYs0HaAvsXPZJpMcndbSeQdPgT.jpg"
+      },
+      {
+        "name": "John Early",
+        "character": "Chris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qNdjyUpMhWRtfgDzpzC6mt2jWMS.jpg"
+      },
+      {
+        "name": "Melanie Griffith",
+        "character": "Jean Shelton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9NQDvprGlRpmSvxJ1ZmYv6oOXW7.jpg"
+      },
+      {
+        "name": "Hannibal Buress",
+        "character": "Bill Meurer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mcw3Orbg4vbALXTVG4hriZjH1sj.jpg"
+      },
+      {
+        "name": "Charlyne Yi",
+        "character": "Safowa Bright",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h8A0PEz8Ot2gotwZciL3HwyclNS.jpg"
+      },
+      {
+        "name": "Jessie Ennis",
+        "character": "Receptionist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Rx6zznL7EVBuOueSPfsuPlPvun.jpg"
+      },
+      {
+        "name": "Peter Gilroy",
+        "character": "Timothy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2AEsYVmH3lJXvG8aWK2EZNdCklR.jpg"
+      },
+      {
+        "name": "Lauren Ash",
+        "character": "Florist \"Erin\"",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2dfljNBWSw8X58MmuTenomunEEB.jpg"
+      },
+      {
+        "name": "Karen Macarah",
+        "character": "Casting Director",
+        "profile_path": ""
+      },
+      {
+        "name": "Sugar Lyn Beard",
+        "character": "Actress #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8AIFKRJ9bdW91PRXfx3Rx35xZQB.jpg"
+      },
+      {
+        "name": "Bob Odenkirk",
+        "character": "Stanislavsky Teacher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+      },
+      {
+        "name": "Brian Huskey",
+        "character": "Teller \"James\"",
+        "profile_path": "https://image.tmdb.org/t/p/w185/te38JswcD9frbyLuxQPIsBB24yz.jpg"
+      },
+      {
+        "name": "Megan Ferguson",
+        "character": "Jessie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sOMnQseEYw6uQTPjBpYsw93QDOO.jpg"
+      },
+      {
+        "name": "Randall Park",
+        "character": "Male Actor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/GpERQxWcT3TXLHpH8b6hIyUazK.jpg"
+      },
+      {
+        "name": "Steven Liu",
+        "character": "Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Tommy Wiseau",
+        "character": "Henry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mDiPtAoCFOM2NoHI0Jx1Zh2t5rV.jpg"
+      },
+      {
+        "name": "Casey Wilson",
+        "character": "Casting Director #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/byeNihBQQUSWtEUpQMFnnQ0aEOV.jpg"
+      },
+      {
+        "name": "Jerrod Carmichael",
+        "character": "Actor Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v1i5xodXbPw3blXYg4v0HmH3PGK.jpg"
+      },
+      {
+        "name": "Xosha Roquemore",
+        "character": "Actress #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g0CEVYlW5IPqBmouiIOJD7OdC1Y.jpg"
+      },
+      {
+        "name": "Kelly Oxford",
+        "character": "Amy Von Brock",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b7m9L1NWChFLv2sjIil8HykGdXV.jpg"
+      },
+      {
+        "name": "Kether Donohue",
+        "character": "Actress #6",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f1JMAIitNYTOYQCRgNtBGZYgaY1.jpg"
+      },
+      {
+        "name": "Jeffrey C. Goodell",
+        "character": "Todd's Assistant",
+        "profile_path": ""
+      },
+      {
+        "name": "Dree Hemingway",
+        "character": "Female Guest #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6wpawcT39kfnB5YuR4ZbSa0r2Rg.jpg"
+      },
+      {
+        "name": "Angelyne",
+        "character": "Angelyne",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4uv4f9Qw0g7Loj9LUxWlynGoD9S.jpg"
+      },
+      {
+        "name": "Ike Barinholtz",
+        "character": "Ike Barinholtz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pxK1HXsQFfh3zT1KA3t6lEKMiZK.jpg"
+      },
+      {
+        "name": "Tom Franco",
+        "character": "Karl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xLNF1KrRaPRWu9P2W1p7SGwNqyY.jpg"
+      },
+      {
+        "name": "Zoey Deutch",
+        "character": "Bobbi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/csmSAm3vpJj9lB5vb5fTbRqOw9C.jpg"
+      },
+      {
+        "name": "Kevin Smith",
+        "character": "Kevin Smith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uxDQ0NTZMnOuAaPa0tQzMFV9dx4.jpg"
+      },
+      {
+        "name": "Keegan-Michael Key",
+        "character": "Keegan-Michael Key",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg"
+      },
+      {
+        "name": "Adam Scott",
+        "character": "Adam Scott",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+      },
+      {
+        "name": "Danny McBride",
+        "character": "Danny McBride",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sVFPzl2t5QlGudQKWAszIWZCXZv.jpg"
+      },
+      {
+        "name": "Kristen Bell",
+        "character": "Kristen Bell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rP74dJXl7EjinGM0shQtUOlH5s2.jpg"
+      },
+      {
+        "name": "J.J. Abrams",
+        "character": "J.J. Abrams",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k4IWd2RV5kY1kAL2VgKQwFvnCLP.jpg"
+      },
+      {
+        "name": "Lizzy Caplan",
+        "character": "Lizzy Caplan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xOLXlzpSJExsBlKroCyCNGhzQEU.jpg"
+      },
+      {
+        "name": "Bryan Cranston",
+        "character": "Bryan Cranston",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg"
+      },
+      {
+        "name": "Judd Apatow",
+        "character": "Judd Apatow (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7iD2D263nT0ZOF6vuUojQYQ5cbf.jpg"
+      },
+      {
+        "name": "Zach Braff",
+        "character": "Zach Braff (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wUAj6juL6HErqEJ1GtuI63rbVea.jpg"
+      },
+      {
+        "name": "David DeCoteau",
+        "character": "David DeCoteau (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qFHX5E3M54ZXhLw4Bd7NcWGsUte.jpg"
+      },
+      {
+        "name": "Dylan Minnette",
+        "character": "Dylan Minnette (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/acjK192xObchDXIHv17OjE5FkK0.jpg"
+      },
+      {
+        "name": "Kate Upton",
+        "character": "Kate Upton (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Nx5YdcS64pelyHymPHM51DKAU1.jpg"
+      },
+      {
+        "name": "Brett Gelman",
+        "character": "Acting Teacher (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ub2IuMWFNQGYghHTPq0lpmn2Ue0.jpg"
+      },
+      {
+        "name": "Christopher Mintz-Plasse",
+        "character": "Sid (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wIbheZW3KOUiP4oLzhoP5a6hFTu.jpg"
+      },
+      {
+        "name": "Jason Mitchell",
+        "character": "Nate (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lRWLVXSqVFCEtdD4DlAdRnROtH8.jpg"
+      },
+      {
+        "name": "Greg Sestero",
+        "character": "Casting Agent (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ySLUoDUVQB1IjgsaX9ktPaz58Rh.jpg"
+      },
+      {
+        "name": "Eliza Coupe",
+        "character": "Erica Chase (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uscVJ5XW8pA74wPaT29OlIx1Fy5.jpg"
+      },
+      {
+        "name": "Erin Cummings",
+        "character": "Female Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4GpursPJJ6eImqos5XM5RlkDqI8.jpg"
+      },
+      {
+        "name": "Michelle Arthur",
+        "character": "Theatre Participant (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ricky Mabe",
+        "character": "Casting Person (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2PjLEp90D93Ih4uFIEaY6LlpT9t.jpg"
+      },
+      {
+        "name": "Shane Ryan-Reid",
+        "character": "Front Row Premiere Attendee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lKXftwnqis8HJ9ZGucRw5ZuNU2U.jpg"
+      },
+      {
+        "name": "Tamzin Brown",
+        "character": "Tommy's Date at Premier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iv0RL9ARNlRqQ3xqgWIOuPeM46s.jpg"
+      },
+      {
+        "name": "Cate Freedman",
+        "character": "Actress #1 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rs1n8PV5nTkxQmOblGatQNPnLAW.jpg"
+      },
+      {
+        "name": "Amechi Okocha",
+        "character": "Mama's Boy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oTjzVrBS97sc4fVcJ7BYjBPNmZq.jpg"
+      },
+      {
+        "name": "Cameron Brinkman",
+        "character": "Actor at Premier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6bwx3tqBX0xJmTtDWv8HER6IuNg.jpg"
+      },
+      {
+        "name": "Nicole Gordon-Levitt",
+        "character": "Girl in Red Dress (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p4jLpajWROoICqRdfpWA3EFn1ki.jpg"
+      },
+      {
+        "name": "Elizabeth Hirsch-Tauber",
+        "character": "Girl on Phone (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jenna Curtis",
+        "character": "William Morris Agent (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9FRt85ykJMRHXoePJQsTMlU7W8p.jpg"
+      },
+      {
+        "name": "Frederick Keeve",
+        "character": "Bartender (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fOM486OOwFfBoG5ezvUbQ71MDON.jpg"
+      },
+      {
+        "name": "Adwin Brown",
+        "character": "Confused Person (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3UNN7nNwxpomfWdaf3oW16wlwnO.jpg"
+      },
+      {
+        "name": "Slim Khezri",
+        "character": "Actor at Premiere (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x4V4IIBly6X4DKD6tD1PSwOE36S.jpg"
+      },
+      {
+        "name": "Corey Weber",
+        "character": "Door Man / Bouncer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qanEVgAdaoxyUaC7xhZ6YoKAgMO.jpg"
+      },
+      {
+        "name": "Phillip E. Walker",
+        "character": "Homeless Man (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Katherine Neff",
+        "character": "Coco (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zljbU6GLZCqkysTpvndrIyKLbTK.jpg"
+      },
+      {
+        "name": "Taylor DeVoe",
+        "character": "Auditioning Actress (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uJQQEtAQuCoSYRBQBEwWYnOdB6t.jpg"
+      },
+      {
+        "name": "Johnny Meyer",
+        "character": "Guy Driving Alfa Romeo (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g8nHt9ASPAQHX1Mn968wcwHWbHh.jpg"
+      },
+      {
+        "name": "Tearra Oso",
+        "character": "Jarrod's Friend (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Vince Chavez",
+        "character": "Movie Premiere Attendee in Blue Shirt (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Krista West",
+        "character": "Auditioning Actress (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Aidiye Aidarbekov",
+        "character": "Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kara Gibson",
+        "character": "Actor at Premiere (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/37ri5GOIvSbjXhXpeoBX6PzDM8c.jpg"
+      },
+      {
+        "name": "Resit Berker Enhos",
+        "character": "Actor at Premiere (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tudor Munteanu",
+        "character": "Crew Member, Hans (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e8PFloYKfznP9daPn4xNa7ENjkm.jpg"
+      },
+      {
+        "name": "Frank Lui Geo",
+        "character": "Premiere Analyst (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Rojas",
+        "character": "Movie Premiere Actor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Anthony Petrucelli",
+        "character": "Jeff (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Zhubin Rahbar",
+        "character": "Zsolt Magyar (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Javi Sánchez-Blanco Boyer",
+        "character": "Movie Premiere Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jolie Mitnick Salter",
+        "character": "Model Party Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ramona Tibrin",
+        "character": "Trophy Wife (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Frankie Ponce",
+        "character": "Premier Film Critic (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Vincent Marinelli",
+        "character": "Bartender (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Adonis Simmons",
+        "character": "Cast and Crew (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Elena Cristiean",
+        "character": "Auditioning Actress (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Cerra Angela Vallentine",
+        "character": "Movie Premier Guest (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ron Saylor",
+        "character": "Actor at Premiere (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yqgiR2JoLfzkaGpTwFghFtGWtVo.jpg"
+      },
+      {
+        "name": "Danny Finneran",
+        "character": "Blonde at Casting (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eloho Josephine Okujeni",
+        "character": "Hooker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Byelich",
+        "character": "Movie Premier Actor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Cynthia Natera",
+        "character": "Costume Girl (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jordan Daem",
+        "character": "Waiter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Max Valentine",
+        "character": "Romano (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "James Franco",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pgEe68922Ba20vAwPmAFQFm8U0c.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "immigrant",
+    "jealousy",
+    "based on novel or book",
+    "ambition",
+    "biography",
+    "based on true story",
+    "behind the scenes",
+    "disaster",
+    "hollywood",
+    "desire",
+    "wealthy man",
+    "strange behavior",
+    "strange person",
+    "socially awkward",
+    "film production"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "When aspiring actor Greg Sestero meets the weird and mysterious Tommy Wiseau in an acting class, they form a unique friendship and travel to Hollywood to make their dreams come true.",
+    "Aspiring actor Greg Sestero befriends the eccentric Tommy Wiseau. The two travel to L.A., and when Hollywood rejects them, Tommy decides to write, direct, produce and star in their own movie. That movie is, \"The Room,\" which has attained cult status as the \"Citizen Kane\" of bad movies.—rorybobglynn",
+    "In the 1990s, Greg Sestero is an aspiring actor, who meets the strange Tommy Wiseau in an acting class. Together, Tommy inspires Greg to overcome his nervousness in acting so well that Greg agrees to come to Los Angeles with his odd new friend to pursue their dreams. However, their dreams seem to prove hopeless, especially for Tommy whose mysteriously strange accent and personality repels nearly all around him. Out of an inadvertent suggestion from Greg, Tommy is inspired to instead create his own movie, The Room (2003). What follows is a bizarre struggle to create that film, guided by Tommy, a man who has plenty of money, but not a trace of filmmaking education, experience, talent or even common sense. Along the way, Greg's friendship with Tommy is put to the test as this project takes shape that would produce a film that ultimately becomes a bizarre accomplishment of a cult classic nature that no one, including Tommy, can see coming.—Kenneth Chisholm (kchishol@rogers.com)",
+    "Waiting for his big break in late-1990s California, the young hopeful actor, Greg Sestero, is thrilled to unexpectedly discover his soulmate, the eccentric and rather cryptic amateur performer, Tommy Wiseau, in his acting class. With dreams of making it big in Hollywood, the aspiring big movie stars move to sunny Los Angeles, only to realise--one disastrous audition after another--that the world isn't quite ready for their great talent yet. Eventually, in one of those spur-of-the-moment decisions and burning with desire to prove everyone wrong, Tommy and Greg will venture into the uncharted waters of filmmaking to make their own movie; however, they are clearly way out of their element. The final result of their combined efforts is The Room (2003), a monument of courage, perseverance, and above all, passion.—Nick Riganas",
+    "San Francisco, 1998. Aspiring actor Greg Sestero meets Tommy Wiseau in an acting class. Wiseau is off-the-scale weird and hopelessly untalented as an actor but has a stupendous amount of self-confidence. Sestero and Wiseau form a friendship and move to Los Angeles to pursue their dream of making it big in Hollywood. After landing no roles, they decide to make their own movie. Produced, directed and written by Wiseau and with him in the lead role, the resulting movie is regarded as one of the worst movies ever made, if not THE worst - The Room.—grantss"
+  ],
+  "synopsis": "The film starts with a bunch of celebrities (Kristen Bell, Ike Barinholtz, Kevin Smith, Adam Scott, Lizzy Caplan, Keegan-Michael Key, JJ Abrams, and Danny McBride among others) talking about a particular movie that is incomparable, unlike anything they've seen before, and perhaps even a bit amazing. That movie is \"The Room\".San Francisco, July 1998Greg Sestero (Dave Franco) is in an acting class doing a scene from \"Waiting For Godot\", but he's very shy and cannot express his acting talent the way he wants. The teacher, Jean Shelton (Melanie Griffith), criticizes Greg and his partner for not being fearless enough to show the class who they really are. When Jean asks for someone to be fearless, one man in the class responds. His name is Tommy Wiseau (James Franco). He and his partner get up in front of everyone to do the \"STELLA!\" scene from \"A Streetcar Named Desire\", but Tommy just does weird stuff like climbing the wall and yelling incoherently. Nobody is impressed, except for Greg. After class, Greg approaches Tommy and expresses his admiration for Tommy being as bold as he was. He asks Tommy if they can read a scene together, and Tommy agrees.Tommy picks Greg up in his neighborhood. Greg admires Tommy's car, but he firmly tells Greg not to ask him anything about what he does, where he gets his money, or where he comes from. The two then go to a restaurant where Tommy convinces Greg to read a scene. Greg reads it nervously, but Tommy pushes him to give a performance that the whole restaurant hears.Tommy and Greg become very close. Tommy tells Greg about how he wanted to be an actor and went after it despite what others have told him. After watching \"Rebel Without A Cause\", they drive out to the site of the car crash that killed James Dean, with Greg musing that he was so young and talented and was gone so soon. Tommy decides that they should waste no time in making their dreams come true, so they decide to move to Los Angeles and stay in an apartment that Tommy owns.Greg packs up his bags to move out. His mother (Megan Mullally) is concerned for Greg going off with a man he barely knows. Tommy picks Greg up and they head off.Los Angeles, November 1998Greg signs to an agency with Iris Burton (Sharon Stone) as his agent. Meanwhile, Tommy is less lucky, with nobody liking his head shots or auditions. The two go to a nightclub to celebrate Greg getting signed. He hits it off with the bartender, Amber (Alison Brie), which appears to make Tommy a bit jealous. He forces Greg out of the club just as Amber is giving him her number.Greg and Amber start dating regularly. Tommy grows more rude and frustrated as he isn't having any success. One night, he is at a restaurant where he spots a well-known producer (Judd Apatow). Tommy approaches him in the middle of his dinner and tries to do a very loud and over-the-top \"Hamlet\" monologue before security comes to get him. The producer flat-out tells Tommy that he will never make it.Tommy and Greg stand on the rooftop of their place, both feeling dejected with their lack of work. Greg says that Iris hasn't been returning his calls, and he hasn't been nabbing many auditions. Tommy feels as though Hollywood has straight-up rejected him. Greg says he wishes they could make their own movie so they can have their own roles. Tommy thinks it's a great idea.Tommy immediately begins working on his movie script. In 2001, he has completed the script for \"The Room\". He shows the script to Greg and lets him read it at a diner. The dialogue is ridiculous, but Greg tells Tommy he thinks it's good. Tommy tells him he will play the main role of Johnny, and Greg will play his best friend Mark. The two vow to make the film and howl (literally) with excitement.The guys go to Birns and Sawyer to meet with Peter Anway (Jason Mantzoukas) and Bill Meurer (Hannibal Buress) to gather film equipment. Although it's an equipment rental store, Peter and Bill let Tommy purchase all of what he needs. They get a bit apprehensive when he says he wants to shoot on both 35mm film AND digital, but Tommy insists he has the money for it. Peter and Bill agree to it, and they give him the equipment at a reduced price on the condition that he shoots in their studio. Tommy and Greg agree.The next move is to gather other actors and crew members. Tommy and Greg audition a bunch of actresses for the part of Lisa, Johnny's girlfriend. The auditions are ridiculous, and at least one woman is horrified to think she would have to play Tommy's girlfriend. They eventually land on an actress named Juliette Danielle (Ari Graynor). Peter and Bill introduce Tommy to Rafael Smadja (Paul Scheer), the director of photography, and Sandy Schklair (Seth Rogen), the script supervisor, as well as Amy (Kelly Oxford) for makeup and Safoya (Charlyne Yi) for wardrobe.Once the whole cast and crew have been gathered, Tommy gives them a speech as they prepare to make a great movie. They start by shooting a scene with Philip Haldiman (Josh Hutcherson), who plays Denny, and Dan Janjigian (Zac Efron), who plays Chris R. Tommy is impressed with Dan's intensity during the scene where Chris R violently presses Denny for money owed to him.While out at dinner, Greg and Amber tell Tommy that they plan on having him move into her apartment. Tommy goes outside and angrily thrashes newspapers around.Although the production starts off smooth, things quickly start to deteriorate. Of note is when the crew has to film the notorious \"Oh hi Mark\" scene. Tommy forgets his own line (that HE wrote) and forces them to go through over 60 takes. Greg goes to hand him an empty water bottle so that Tommy can be more \"intense\". Tommy does the line in one last take, and the crew bursts into applause.Another rough moment comes when they film a sex scene between Johnny and Lisa. Tommy walks around naked and insists that he \"show his ass\" to sell the movie. He starts to insult Juliette when he notices a pimple on her shoulder and demands that it be covered with makeup for not being sexy enough. Tommy goes too far and pisses off Rafael, who threatens him. Tommy threatens to fire Rafael, but Greg tries to quell the tension, and Juliette is brave enough to continue as is. The scene itself is just awkward from Tommy's positioning, as Sandy notes it looks like Tommy is penetrating Juliette's belly button.On a particularly hot day, the cast and crew are overheated since Tommy refused to pay for air conditioning or water. On top of that, he's four hours late. When he arrives, Sandy and Rafael grill him, and the actress playing Claudette, Carolyn Minnott (Jacki Weaver), faints from heatstroke. The others try to wake her up, but Tommy coldly accuses her of napping on the job. As the arguing grows intense, Tommy brings out someone named Markus that he hired to film the crew when they weren't looking to see what they were saying about him. Tommy knows they don't take him seriously and call him things like Frankenstein and a \"vampire rapist\".During lunch, Greg sits with the rest of the cast. Philip asks Greg just what the hell the movie is about. Robyn Paris (June Diane Raphael), who plays Michelle, muses that the characters are inspired by people Tommy knew, and that Lisa, who betrays Johnny, is the universe as a whole. Greg then asks Carolyn why she continues to do the job even after all she's been put through. She responds that it's because they're actors, and even for them, the worst day on a set is better than most days anywhere else.Greg and Amber are out getting coffee when they see Bryan Cranston. Greg is a fan and Amber knows him from a Pilates class. She introduces them, and when Bryan learns that Greg is an actor, he tells him that they need an actor to play a lumberjack on an upcoming episode of \"Malcolm in the Middle\", and as long as Greg has his beard, he's got the part. Excited, Greg goes to tell Tommy since the next day would call for a scene where Greg gets shaved. Tommy doesn't like the idea since he thinks Greg wants to be committed to something other than his project. When given an ultimatum, Greg doesn't respond, and Amber leaves out of disappointment for him being unable to stand up to Tommy.The crew is now more than 12 days over filming. They shoot a scene where Johnny commits suicide after discovering Lisa's betrayal. Tommy puts the gun in his mouth and then starts writhing around and humping Lisa's dress (which Juliette wanted to keep).On the last day of filming, Tommy takes Greg to the park to film a scene just for him to get real emotions. Tommy also mentions that he let Sandy and Rafael go. Greg gets very real and starts to ask Tommy personal questions he hates, like where he gets his money, how old he is, and where he's really from. Tommy always insisted he's from New Orleans, despite his accent. The two eventually get into a fight, and they split up.Eight months later.Greg and Amber have broken up since she moved to Austin. He has gotten a steady gig at a local stage theater. Greg is driving and talking to his mom when he sees a billboard for \"The Room\" with Tommy's face.Tommy finds Greg after one of his performances. He personally invites him to the upcoming premiere of \"The Room\". Although hesitant, Greg accepts.The two pull up in a limo that is filled with a bunch of \"The Room\" merchandise that Tommy paid for. When they get to the theater, Tommy is surprised that Sandy, Rafael, and the whole cast have shown up.Tommy introduces the film before a packed house. The audience reacts with laughter at the ridiculousness of the film, as well as loud disgust at the sex scene with Tommy's ass in full view. Even Juliette is horrified that the scene is so long. The rest of the film is met with uproarious laughter, and the cast stating how bad most of it is. Tommy becomes visibly upset at the audience's reaction, and Greg notices. Tommy walks out before the end. Greg runs outside to comfort him, with Tommy expressing how he feels everyone hates him. Greg insists that's not the case, as the audience is having a great time. They chant \"Do it! Do it! Do it!\" when Johnny commits suicide, and once the film ends, everyone gives Tommy a standing ovation. He goes to the front and thanks them for liking his \"comedy\", as he claims was always his vision. He credits Greg for helping him, and Greg joins Tommy as they receive another round of applause.The final text states that \"The Room\" was shown in one theater and made $1,800 in its opening weekend. Tommy Wiseau paid for it to stay an extra two weeks in order for it to get a qualifying Oscar run. To this day, nobody knows where Tommy's from, how he got his money, or how old he is. He and Greg Sestero remain friends and continue to write, act, and produce. They will always be best known for \"The Room\".The credits feature side-by-sides of the actual film of \"The Room\" with almost exact shot-for-shot copies from this film. After the credits, we see Tommy approached at a party by a weird stranger named Henry (played the real Tommy Wiseau). Henry invites Tommy to hang out, but he declines.",
+  "imdb_score": 7.3
+}

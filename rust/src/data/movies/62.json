@@ -1,0 +1,385 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+  "id": 62,
+  "title": "2001: A Space Odyssey",
+  "poster_path": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+  "release_date": "1968-04-02",
+  "vote_average": 8.077,
+  "vote_count": 10876,
+  "popularity": 52.833,
+  "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+  "imdb_id": "tt0062622",
+  "budget": 12000000,
+  "homepage": "http://2001spaceodysseymovie.com",
+  "revenue": 71923560,
+  "runtime": 149,
+  "tagline": "The ultimate trip.",
+  "genres": [
+    "Science Fiction",
+    "Mystery",
+    "Adventure"
+  ],
+  "production_companies": [
+    "Stanley Kubrick Productions",
+    "Metro-Goldwyn-Mayer"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Keir Dullea",
+        "character": "Dr. David Bowman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dL9i0nCk2fCgInZNaYVjGck2IBp.jpg"
+      },
+      {
+        "name": "Gary Lockwood",
+        "character": "Dr. Frank Poole",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lQBqZKpMxGslopZRvFanIWL4pSl.jpg"
+      },
+      {
+        "name": "William Sylvester",
+        "character": "Dr. Heywood Floyd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gDzQVVDyzTMLuyK3iSrorDt1Utf.jpg"
+      },
+      {
+        "name": "Douglas Rain",
+        "character": "HAL 9000 (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/blDCxSTUP5U9EdKOmhGtRvhby2c.jpg"
+      },
+      {
+        "name": "Daniel Richter",
+        "character": "Moonwatcher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cq8Fprv33RgYPwu39cGx6fxk5Qp.jpg"
+      },
+      {
+        "name": "Leonard Rossiter",
+        "character": "Dr. Andrei Smyslov",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qXjGUJ2TjO3ltiEYMEJ658VeqkA.jpg"
+      },
+      {
+        "name": "Margaret Tyzack",
+        "character": "Elena",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n7S4qtgp0DA9gtkzEXB7r5tt6jH.jpg"
+      },
+      {
+        "name": "Robert Beatty",
+        "character": "Dr. Ralph Halvorsen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ihB3jLo9i4p6wR6xJXjor9mav7W.jpg"
+      },
+      {
+        "name": "Sean Sullivan",
+        "character": "Dr. Roy Michaels",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Miller",
+        "character": "Mission Controller",
+        "profile_path": ""
+      },
+      {
+        "name": "Ed Bishop",
+        "character": "Aries-1B Lunar Shuttle Captain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uLLoKf4BknxuF1SOSD0EBB4gSmc.jpg"
+      },
+      {
+        "name": "Edwina Carroll",
+        "character": "Aries-1B Stewardess",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1cnJio9ZtRXFUKIB0NiSIpb1lNI.jpg"
+      },
+      {
+        "name": "Heather Downham",
+        "character": "Stewardess",
+        "profile_path": ""
+      },
+      {
+        "name": "Penny Brahms",
+        "character": "Stewardess",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uFjTuQ02DL7fHF4FpazTkA9q0W1.jpg"
+      },
+      {
+        "name": "Maggie London",
+        "character": "Stewardess",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nnKmKldpUAjGsrkm7TFd55UxqrN.jpg"
+      },
+      {
+        "name": "Chela Matthison",
+        "character": "Stewardess",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oFVJX9OnmOhXoMDvLf4V9dQtUxx.jpg"
+      },
+      {
+        "name": "Judy Kiern",
+        "character": "Voiceprint Identification Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Alan Gifford",
+        "character": "Poole's Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bRmH5q90Y5pwrmERHi9aol8WeLp.jpg"
+      },
+      {
+        "name": "Ann Gillis",
+        "character": "Poole's Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vFaBH7EuS8hEOO4R76V5Tm2aRG9.jpg"
+      },
+      {
+        "name": "Vivian Kubrick",
+        "character": "Floyd's daughter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/abkr2zJWKURpfzsBJDGeYZZaAXt.jpg"
+      },
+      {
+        "name": "Kenneth Kendall",
+        "character": "BBC-12 Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d17VpNCQBuwMIdQvpZuA0TLsmJu.jpg"
+      },
+      {
+        "name": "Kevin Scott",
+        "character": "Miller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3ZrUmuJBv8PHoC5AjcpC5zjKjMa.jpg"
+      },
+      {
+        "name": "Martin Amor",
+        "character": "Interviewer Martin Amor",
+        "profile_path": ""
+      },
+      {
+        "name": "Bill Weston",
+        "character": "Astronaut",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mQtWjSvfDlgI42NrE5E3nfICGbE.jpg"
+      },
+      {
+        "name": "Glenn Beck",
+        "character": "Astronaut",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9QeeMaBYTPSQYxm6GlMSuowu3GE.jpg"
+      },
+      {
+        "name": "Mike Lovell",
+        "character": "Astronaut",
+        "profile_path": ""
+      },
+      {
+        "name": "John Ashley",
+        "character": "Ape",
+        "profile_path": ""
+      },
+      {
+        "name": "Jimmy Bell",
+        "character": "Ape",
+        "profile_path": ""
+      },
+      {
+        "name": "David Charkham",
+        "character": "Ape",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9ehZ0SGVmD6JIqpFIlzhlemfBrK.jpg"
+      },
+      {
+        "name": "Simon Davis",
+        "character": "Ape",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Daw",
+        "character": "Ape",
+        "profile_path": ""
+      },
+      {
+        "name": "Péter Delmár",
+        "character": "Ape",
+        "profile_path": ""
+      },
+      {
+        "name": "Terry Duggan",
+        "character": "Ape Attacked by Leopard",
+        "profile_path": ""
+      },
+      {
+        "name": "David Fleetwood",
+        "character": "Ape",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Grover",
+        "character": "Ape",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Hawley",
+        "character": "Ape",
+        "profile_path": ""
+      },
+      {
+        "name": "David Hines",
+        "character": "Ape",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Jackson",
+        "character": "Ape",
+        "profile_path": ""
+      },
+      {
+        "name": "John Jordan",
+        "character": "Ape",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott MacKee",
+        "character": "Ape",
+        "profile_path": ""
+      },
+      {
+        "name": "Laurence Marchant",
+        "character": "Ape",
+        "profile_path": ""
+      },
+      {
+        "name": "Darryl Paes",
+        "character": "Ape",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Refalo",
+        "character": "Ape",
+        "profile_path": ""
+      },
+      {
+        "name": "Andy Wallace",
+        "character": "Ape",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob Wilyman",
+        "character": "Ape",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Woods",
+        "character": "Ape Killed by Moon-Watcher",
+        "profile_path": ""
+      },
+      {
+        "name": "S. Newton Anderson",
+        "character": "Young Man (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sheraton Blount",
+        "character": "(uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ann Bormann",
+        "character": "(uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Julie Croft",
+        "character": "(uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Penny Francis",
+        "character": "(uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marcella Markham",
+        "character": "(uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Irena Marr",
+        "character": "Russian Scientist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Krystyna Marr",
+        "character": "Russian Scientist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kim Neil",
+        "character": "(uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jane Pearl",
+        "character": "(uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Penny Pearl",
+        "character": "(uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Burnell Tucker",
+        "character": "TMA-1 Site Photographer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kSMCUUbt6pplhEKSR3uX8rJDXOy.jpg"
+      },
+      {
+        "name": "John Swindells",
+        "character": "TMA-1 Site Technician #1 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7sxFkYTgtielq4nZclgM2PcTwIl.jpg"
+      },
+      {
+        "name": "John Clifford",
+        "character": "TMA-1 Site Technician #2 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Stanley Kubrick",
+        "character": "(voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg"
+      },
+      {
+        "name": "Anthony Jackson",
+        "character": "Ape",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank W. Miller",
+        "character": "Mission Controller",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Stanley Kubrick",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "man vs machine",
+    "moon",
+    "jupiter",
+    "artificial intelligence (a.i.)",
+    "based on novel or book",
+    "technology",
+    "super computer",
+    "space travel",
+    "space mission",
+    "moon base",
+    "astronaut",
+    "evolution",
+    "monolith",
+    "space station",
+    "space opera",
+    "2000s"
+  ],
+  "mpaa": "G",
+  "summaries": [
+    "After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins: a spacecraft manned by two men and the supercomputer HAL 9000.",
+    "\"2001\" is a story of evolution. Sometime in the distant past, someone or something nudged evolution by placing a monolith on Earth (presumably elsewhere throughout the universe as well). Evolution then enabled humankind to reach the moon's surface, where yet another monolith is found, one that signals the monolith placers that humankind has evolved that far. Now mankind, assisted by artificial intelligence (such as HAL), must dare to encounter the monolith placers. If successful, the next step in evolution--whatever it is--will be achieved.—Larry Cousins",
+    "A black monolith affects on humans, focusing on two specific time periods. The first period is four million years ago, at the dawn of man. After the appearance of the monolith, the ape men begin to display behavior unknown before then. The second period is the near future, in the year 2001. Five astronauts are aboard Discovery One, which is on a mission to Jupiter, but at the beginning, they don't know the reason for it. Three of them are in hibernation at the start, preserve the manpower over its entire course, leaving mission commander Dr. Dave Bowman and Dr. Frank Poole as the two manning the spacecraft. There is another what is often considered \"sixth\" astronaut on board, HAL 9000--referred to simply as Hal--the artificially-intelligent computer which controls all of the craft's functions, including the systems keeping the three hibernating astronauts alive. Hal is made all the more astronaut-like as it is given an artificial voice, Hal and the astronauts often having conversations. A 9000 series computer is considered infallible, any error one has ever made being human caused. Ultimately, Bowman and Poole believe that Hal is malfunctioning, they are unaware that Hal's behavior is due to knowledge of classified information it has about events at Clavius, a lunar outpost, 18 months earlier. However, the issue between the astronauts and Hal becomes a fight for survival. The mission in its entirety has profound consequences for the human race.—Huggo",
+    "Stanley Kubrick's masterpiece traces an expedition to the moon, Jupiter and beyond, and imagines the future evolution of humanity. A group of ape-like creatures - primitive humans - discover the use of bones as weapons in a quarrel over a waterhole. Jump forward 1000s of years, and an American expedition finds a mysterious black monolith--an obvious alien artifact--on the Moon. Another expedition is sent to Jupiter, where a second monolith has been discovered. But during the journey the ship's computer, HAL 9000, develops paranoia.",
+    "This movie is concerned with intelligence as the division between animal and human, then asks a question: what is the next division? Technology is treated as irrelevant to the quest--literally serving as mere vehicles for the human crew and as a shell for the immature HAL entity. The story is told through a montage of impressions, music, and impressive and careful attention to subliminal detail. A very influential film and still a class act.—Robin Kenny <robink@hparc0.aus.hp.com>"
+  ],
+  "synopsis": "The film consists of four major sections, all of which, except the second, are introduced by superimposed titles.The Dawn of Man\nA tribe of herbivorous early humans is foraging for food in the African desert. A leopard kills one member, and another tribe of man-apes drives them from their water hole. Defeated, they sleep overnight in a small, exposed rock crater, and awake to find a black monolith has appeared in front of them. They approach it shrieking and jumping, and eventually touch it cautiously. Soon after, one of the man-apes (Daniel Richter) realizes how to use a bone as both a tool and a weapon, which they later use to kill prey for food. Later they reclaim control of the water hole from the other tribe by killing its leader. Triumphant, the tribe's leader throws his weapon-tool into the air as the scene shifts (via match cut) from the falling bone to an orbital satellite millions of years in the future.TMA-1\nA Pan Am space plane carries Dr. Heywood R. Floyd (William Sylvester) to a space station orbiting Earth for a layover on his trip to Clavius Base, a US outpost on the Moon. After making a videophone call from the station to his daughter (Vivian Kubrick), he encounters his friend Elena (Margaret Tyzack), a Russian scientist, and her colleague Dr. Smyslov (Leonard Rossiter), who ask Floyd about \"odd things\" occurring at Clavius, and the rumor of a mysterious epidemic at the base. The American politely but firmly declines to answer any questions about the epidemic.At Clavius, Floyd heads a meeting of base personnel, apologizing for the epidemic cover story but stressing secrecy. His mission is to investigate a recently found artifact-\"Tycho Magnetic Anomaly One\" (TMA-1)-\"deliberately buried\" four million years ago. Floyd and others ride in a Moonbus to the artifact, a black monolith identical to the one encountered by the apes. The visitors examine the monolith and pose for a photo in front of it. While doing so, they hear a very loud radio signal coming from the monolith.Jupiter Mission\nEighteen months later, the American spaceship Discovery One is bound for Jupiter. On board are mission pilots and scientists Dr. David Bowman (Keir Dullea) and Dr. Frank Poole (Gary Lockwood), and three other scientists who are in cryogenic hibernation. \"Hal\" (voiced by Douglas Rain) is the ship's HAL 9000 computer, which runs most of Discovery's operations. While Bowman and Poole watch Hal and themselves being interviewed in a BBC show about the mission, the computer states that he is \"foolproof and incapable of error.\" Hal also speaks of his enthusiasm for the mission, and how he enjoys working with humans. When asked by the host if Hal has genuine emotions, Bowman replies that he appears to, but that the truth is unknown.Hal asks Bowman about the unusual mystery and secrecy surrounding the mission but interrupts himself to report the imminent failure of a device which controls the ship's main antenna. After retrieving the component with an EVA pod, the astronauts cannot find anything wrong with it. Hal suggests reinstalling the part and letting it fail so the problem can be found. Mission control concurs but advises the astronauts that results from their twin HAL 9000 indicate the ship's HAL is in error predicting the fault. When queried, Hal insists that the problem, like all previous issues with the HAL series, is due to \"human error\". Concerned about Hal's behavior, Bowman and Poole enter one of the EVA pods to talk without the computer overhearing them. They both have a \"bad feeling\" about Hal, despite the HAL series' perfect reliability, but decide to follow his suggestion to replace the unit. As the astronauts agree to deactivate the computer if it is proven to be wrong, they are unaware that Hal is reading their lips through the pod's window.While attempting to replace the unit during a spacewalk, Poole's EVA pod, controlled by Hal, severs his oxygen hose and sets him adrift. Bowman, not realizing the computer is responsible for this, takes another pod to attempt a rescue, leaving his helmet behind. While he is gone, Hal terminates the life functions of the crew in suspended animation. When Bowman returns to the ship with Poole's body, Hal refuses to let him in, stating that the astronaut's plan to deactivate him jeopardizes the mission. Bowman manually opens the ship's emergency airlock and bodily enters the ship risking death from lack of oxygen. After donning a helmet, Bowman proceeds to HAL 9000's memory core intent on disconnecting the computer. Hal first tries to reassure Dave, then pleads with him to stop, and finally begins to express fear-all in a steady monotone voice. Dave ignores him and disconnects each of the computer's memory modules. Hal eventually regresses to his earliest programmed memory, the song \"Daisy Bell\", which he sings for Bowman.When the computer is finally disconnected, a previously recorded video message from Floyd plays. In it, he reveals the existence of the four-million-year-old black monolith on the Moon, \"its origin and purpose still a total mystery\". Floyd adds that it has remained completely inert, except for a single, very powerful radio emission aimed at Jupiter.Jupiter and Beyond the Infinite\nAt Jupiter, Bowman leaves Discovery One in an EVA pod and finds another monolith in orbit around the planet. Approaching it, the pod is suddenly pulled into a tunnel of colored light, and a disoriented and terrified Bowman finds himself racing at great speed across vast distances of space, viewing bizarre cosmological phenomena and strange alien landscapes of unusual colors. He finds himself, middle-aged and still in his spacesuit, standing in a bedroom appointed in the Louis XVI-style. Bowman sees progressively older versions of himself, his point of view switching each time, alternately appearing formally dressed and eating dinner, and finally as a very elderly man lying in a bed. A black monolith appears at the foot of the bed, and as Bowman reaches for it, he is transformed into a fetus-like being enclosed in a transparent orb of light. The new being floats in space beside the Earth, gazing at it.",
+  "imdb_score": 8.3
+}

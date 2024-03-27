@@ -1,0 +1,400 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/lt1rGQSqhk2T2T4lHo6CTQYvoWP.jpg",
+  "id": 187,
+  "title": "Sin City",
+  "poster_path": "https://image.tmdb.org/t/p/w500/i66G50wATMmPrvpP95f0XP6ZdVS.jpg",
+  "release_date": "2005-04-01",
+  "vote_average": 7.451,
+  "vote_count": 7729,
+  "popularity": 26.71,
+  "overview": "Welcome to Sin City. This town beckons to the tough, the corrupt, the brokenhearted. Some call it dark… Hard-boiled. Then there are those who call it home — Crooked cops, sexy dames, desperate vigilantes. Some are seeking revenge, others lust after redemption, and then there are those hoping for a little of both. A universe of unlikely and reluctant heroes still trying to do the right thing in a city that refuses to care.",
+  "imdb_id": "tt0401792",
+  "budget": 40000000,
+  "homepage": "http://www.miramax.com/movie/sin-city/",
+  "revenue": 158700000,
+  "runtime": 124,
+  "tagline": "Walk down the right back alley in Sin City and you can find anything...",
+  "genres": [
+    "Thriller",
+    "Action",
+    "Crime"
+  ],
+  "production_companies": [
+    "Dimension Films",
+    "Troublemaker Studios",
+    "Miramax"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Bruce Willis",
+        "character": "Det. John Hartigan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/caX3KtMU42EP3VLRFFBwqIIrch5.jpg"
+      },
+      {
+        "name": "Jessica Alba",
+        "character": "Nancy Callahan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dbI9AicApGDRtSbNtcEiK4adN6w.jpg"
+      },
+      {
+        "name": "Clive Owen",
+        "character": "Dwight McCarthy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ed0LT4wH1rUCviCFexd4XPZVHE1.jpg"
+      },
+      {
+        "name": "Mickey Rourke",
+        "character": "Marv",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i6vXukUwRsJa7S9yhZgoKt9xLDv.jpg"
+      },
+      {
+        "name": "Rutger Hauer",
+        "character": "Cardinal Patrick Henry Roark",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Lly7qwOrESdFcwyaiEOfPlB76l.jpg"
+      },
+      {
+        "name": "Benicio del Toro",
+        "character": "Det. Lt. Jack \"Jackie Boy\" Rafferty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s1EVFX10YJZTcvkAAq4AcPniS3t.jpg"
+      },
+      {
+        "name": "Alexis Bledel",
+        "character": "Becky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mhkQzBtp2wuYoKhYqJ4IpDtbS3t.jpg"
+      },
+      {
+        "name": "Michael Madsen",
+        "character": "Bob",
+        "profile_path": "https://image.tmdb.org/t/p/w185/69cqjkTNKI1muAfnvorfmWNVgIe.jpg"
+      },
+      {
+        "name": "Powers Boothe",
+        "character": "Senator Roark",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dOwVFE10FgpLXrKhPdEAplpESjR.jpg"
+      },
+      {
+        "name": "Nick Stahl",
+        "character": "Roark Jr. / The Yellow Bastard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qWNe70AHt45hqnxIXh4mgPMIbCI.jpg"
+      },
+      {
+        "name": "Devon Aoki",
+        "character": "Miho",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4ou67wYflxUuZCLUqK3vuKC13t9.jpg"
+      },
+      {
+        "name": "Michael Clarke Duncan",
+        "character": "Manute",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3RX8OBqt3gbvFwKYZqiom4O3Ta6.jpg"
+      },
+      {
+        "name": "Rosario Dawson",
+        "character": "Gail",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1mm7JGHIUX3GRRGXEV9QCzsI0ao.jpg"
+      },
+      {
+        "name": "Carla Gugino",
+        "character": "Lucille",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dAqGOsHSzlP6RhaUURX2NrwITaq.jpg"
+      },
+      {
+        "name": "Josh Hartnett",
+        "character": "The Salesman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dCfu2EN7FjISACcjilaJu7evwEc.jpg"
+      },
+      {
+        "name": "Jaime King",
+        "character": "Goldie / Wendy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xtyG19zqvdg9s9nCbELxVNRFg40.jpg"
+      },
+      {
+        "name": "Brittany Murphy",
+        "character": "Shellie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uLOrqcSk2h5o3ekNfcuGFDzN13W.jpg"
+      },
+      {
+        "name": "Elijah Wood",
+        "character": "Kevin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+      },
+      {
+        "name": "Jude Ciccolella",
+        "character": "Liebowitz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sS506N50Brzyu0wgq18mk3pj4dH.jpg"
+      },
+      {
+        "name": "Jeffrey J. Dashnaw",
+        "character": "Motorcycle Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5Sw0YV4U8Yg7BpN8yVX7vVc8y8x.jpg"
+      },
+      {
+        "name": "Jesse De Luna",
+        "character": "Corporal Rivera",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Douglas",
+        "character": "Hitman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9vvygaziqPt23AafWHJY8TlUK8d.jpg"
+      },
+      {
+        "name": "Tommy Flanagan",
+        "character": "Brian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5OnvT1KpEk3juZavqOCSAEYOtwl.jpg"
+      },
+      {
+        "name": "Rick Gomez",
+        "character": "Douglas Klump",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gmVYPHJgmRVIzhaVYMns4kgBVqm.jpg"
+      },
+      {
+        "name": "David H. Hickey",
+        "character": "Juicer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k9SCi0uQ2Whl9rf4pO6WMKCjnjG.jpg"
+      },
+      {
+        "name": "Greg Ingram",
+        "character": "Bouncer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicky Katt",
+        "character": "Stuka",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4IPdDqsSsDWmv2Uep5skdykJYij.jpg"
+      },
+      {
+        "name": "Helen Kirk",
+        "character": "Maeve",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5Nt1cHA7LA4ufAakOjmInYjWw4J.jpg"
+      },
+      {
+        "name": "John McLeod",
+        "character": "Mercenary",
+        "profile_path": ""
+      },
+      {
+        "name": "Lisa Marie Newmyer",
+        "character": "Tammy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hZYFpnGsGdjaoT7YlaB9sKk83JP.jpg"
+      },
+      {
+        "name": "Tommy Nix",
+        "character": "Weevil",
+        "profile_path": ""
+      },
+      {
+        "name": "Nick Offerman",
+        "character": "Burt Shlubb",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tDzCAAJinH4Xt3lSKsajfiTyRK9.jpg"
+      },
+      {
+        "name": "Marco Perella",
+        "character": "Skinny Dude",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q7vwCX7FBJ05Dl6SvA7MFbt7ULo.jpg"
+      },
+      {
+        "name": "Randal Reeder",
+        "character": "Man w/ Hitman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eJfW7w36Vl8dEnN9T2dnlkUReWG.jpg"
+      },
+      {
+        "name": "Jeff Schwan",
+        "character": "Louie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jUyt2gUaQG8HfqxkJsp1GOXjJBS.jpg"
+      },
+      {
+        "name": "Marley Shelton",
+        "character": "The Customer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6fqY7QzZI5yoCCJZpvX0MceL6kZ.jpg"
+      },
+      {
+        "name": "Frank Miller",
+        "character": "Priest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2eqqLG9Sv4i1ZlM14wY2LTTEbld.jpg"
+      },
+      {
+        "name": "Korey Simeone",
+        "character": "Priest #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul T. Taylor",
+        "character": "Assistant DA",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tqTzRxsmt1LgBxBGMmEAIfKpsKo.jpg"
+      },
+      {
+        "name": "Rico Torres",
+        "character": "Cop #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/emxtmTrFm8pKLjSNQnGRqCVGWr3.jpg"
+      },
+      {
+        "name": "Makenzie Vega",
+        "character": "Nancy (11 Years)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yPJ11EdP5rggFUNorQtSCzIag9d.jpg"
+      },
+      {
+        "name": "Arie Verveen",
+        "character": "Murphy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ghYFpRtdYO7vY8FLTN9HAhrCxoO.jpg"
+      },
+      {
+        "name": "Patricia Vonne",
+        "character": "Dallas",
+        "profile_path": ""
+      },
+      {
+        "name": "Ethan Maniquis",
+        "character": "Bozo #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ceo4ltQwau4ii0yjNKwIpsHLjF9.jpg"
+      },
+      {
+        "name": "Ken Thomas",
+        "character": "Bozo #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iqdbZ2TyLqr05MDNmoGA5RJfJOl.jpg"
+      },
+      {
+        "name": "Chris Warner",
+        "character": "Bozo #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q6GnTJCRC2ZBwXr4pFrxLrknlWY.jpg"
+      },
+      {
+        "name": "Ethan Rains",
+        "character": "Bozo #4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pfg0mBcN3WytEemCc16MXKO9Ycf.jpg"
+      },
+      {
+        "name": "Cara D. Briggs",
+        "character": "Hearing Panel Person",
+        "profile_path": "https://image.tmdb.org/t/p/w185/74ieAA1T0eCGYORMM5TGB3WOp4B.jpg"
+      },
+      {
+        "name": "Christina Frankenfield",
+        "character": "Judge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mEArEtz9hiSptnllYJvhh0mbp35.jpg"
+      },
+      {
+        "name": "Evelyn Hurley",
+        "character": "Josie",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason McDonald",
+        "character": "Ronnie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r55khS7VkcJC6toycyZP88fgN3f.jpg"
+      },
+      {
+        "name": "Clark Middleton",
+        "character": "Schutz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7bIjt9yrJc5Hko3519N738up5Fy.jpg"
+      },
+      {
+        "name": "Charissa Allen",
+        "character": "Old Town Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/NvcLNB070dKaD9gyFBZgxMgn9x.jpg"
+      },
+      {
+        "name": "Jessica Hale",
+        "character": "Good Time Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Samantha Inoue Harte",
+        "character": "Waitress",
+        "profile_path": ""
+      },
+      {
+        "name": "Ashley Moore",
+        "character": "Old Town Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v1W11BV8r5zHhooo5eYzmZyjj83.jpg"
+      },
+      {
+        "name": " Amanda Phillips",
+        "character": "Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Emmy Robbin",
+        "character": "Old Town Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xDAV4NdvE1XBe0Np7U9Ts1QC9AH.jpg"
+      },
+      {
+        "name": "Lauren-Elaine Powell",
+        "character": "Old Town Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Kelley Robins Hicks",
+        "character": "Old Town Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/poutoGBoAz8znML2v16DvF27q4w.jpg"
+      },
+      {
+        "name": "Penny Vital",
+        "character": "Old Town Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qtXgIZDpKy35w9nuAp7fRojbHx2.jpg"
+      },
+      {
+        "name": "Monika Spruch",
+        "character": "Old Town Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cHEOlJrtYvL8y9iPh88QfmtR2DW.jpg"
+      },
+      {
+        "name": "Katherine Willis",
+        "character": "Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5KsTbghOK8P0mIfJAwtyt2UAJw0.jpg"
+      },
+      {
+        "name": "Texas Presley",
+        "character": "Old Town Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Xiyv58feQAA3PmmQ9D75XNhOju.jpg"
+      },
+      {
+        "name": "Robert Rodriguez",
+        "character": "SWAT Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bPqRdLWWwpOT8sBdj9PWOzNgwou.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Robert Rodriguez",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bPqRdLWWwpOT8sBdj9PWOzNgwou.jpg"
+      },
+      {
+        "name": "Quentin Tarantino",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg"
+      },
+      {
+        "name": "Frank Miller",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2eqqLG9Sv4i1ZlM14wY2LTTEbld.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "dystopia",
+    "based on comic",
+    "held captive",
+    "based on graphic novel",
+    "mysterious killer",
+    "doing the right thing",
+    "silhouette",
+    "neo-noir",
+    "short stories"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "An exploration of the dark and miserable Basin City and three of its residents, all of whom are caught up in violent corruption.",
+    "Four tales of crime adapted from Frank Miller's popular comics, focusing around a muscular brute who's looking for the person responsible for the death of his beloved Goldie (Jaime King), a man fed up with Sin City's corrupt law enforcement who takes the law into his own hands after a horrible mistake, a cop who risks his life to protect a girl from a deformed pedophile and a hitman looking to make a little cash.—Tom Benton",
+    "Pivoting around four stories from Frank Miller's Sin City universe, three tainted anti-heroes of Basin City, the cradle of crime and corruption, cross paths in their search of redemption. On the brink of retirement, Detective John Hartigan, the vile city's last honest cop, breaks every rule in the book in his crusade to save the innocent eleven-year-old girl, Nancy Callahan, from the clutches of the well-connected child molester, Roark Junior. Meanwhile, in another part of the town, bearing the deep scars of endless fights, Marv, the hulking ex-convict and grotesque brute with the killer fists, finds himself framed for a crime he didn't commit, hell-bent on revenge and murder. Finally, as a bloody act of justice in the Old Town, the city's red-light district, threatens the already delicate truce between the local prostitute community and the police, the taciturn private eye, Dwight McCarthy, becomes a protector after helping their cause. Can there be justice without sin?—Nick Riganas",
+    "Walk down the right back alley in Sin City, and you can find anything. This lousy town is as black-and-white as the men and women living in it, and they're all the same: true to themselves until the grimy hands of the law try to corrupt their upstanding ways. Leaping from the pages of Frank Miller's comic books, Sin City is film noir like you've never seen it before.—Johnny",
+    "\"Sin City\" is infested with criminals, crooked cops and sexy dames, some searching for vengeance, some for redemption and others, both. This movie incorporates storylines from three of Miller's graphic novels including \"Sin City\", which launched the long-running, critically acclaimed series, as well as \"That Yellow Bastard\" and \"The Big Fat Kill\". Where Hartigan (Bruce Willis), a cop with a bum ticker and a vow to protect stripper Nancy (Jessica Alba). Marv (Mickey Rourke), the outcast misanthrope, is on a mission to avenge the death of his one true love, Goldie). There's also Dwight (Clive Owen), the clandestine love of Shellie (Brittany Murphy), who spends his nights defending Gail (Rosario Dawson) and her Old Towne girls from Jackie Boy (Benicio Del Toro), a dirty cop with a penchant for violence.—Austin4577@aol.com"
+  ],
+  "synopsis": "The Customer Is Always Right (Part 1)\nThe Salesman (Josh Hartnett) walks onto a penthouse balcony where The Customer (Marley Shelton) looks out over Basin City. He offers her a cigarette and says that she looks like someone who is tired of running and that he will save her. The two share a kiss and he shoots her; she dies in his arms. He says he'll never know what she was running from but that he'll cash her check in the morning.That Yellow Bastard (Part 1)\nOn the docks of Sin City, aging police officer John Hartigan (Bruce Willis) tries to stop serial child-killer Roark Junior (Nick Stahl) from sexually assaulting and killing eleven-year-old Nancy Callahan (Makenzie Vega). Junior is the son of Senator Roark (Powers Boothe), who has bribed the police to cover up his son's crimes. Hartigan's partner, Bob (Michael Madsen) tries to convince Hartigan to walk away. Hartigan knocks him out.Hartigan heads into the warehouse where Junior is holding Nancy, fighting off the pain caused by his bad heart, as well as several henchmen. Junior shoots Hartigan in the shoulder and tries to escape. Hartigan catches up and shoots off Junior's ear, hand, and genitals. Bob, now recovered, shoots Hartigan in the back; he has been paid off by Roark Sr. As the sirens approach, Bob leaves and Nancy lies down in Hartigan's lap. Hartigan passes out, reasoning his death is a fair trade for the girl's life.The Hard Goodbye\nAfter a one-night stand, Marv (Mickey Rourke) awakens to find Goldie (Jaime King) has been killed while he slept. He flees the frame-up as the police arrive, vowing to avenge her death. His parole officer, Lucille (Carla Gugino), warns him to give up on this mission. Marv interrogates several informants, working up to a corrupt priest (Frank Miller), who reveals that the Roark family was behind the murder. Marv kills the priest after he insults Goldie but is attacked by a woman who looks like Goldie, which he dismisses as a hallucination.Marv goes to the Roark family farm and is subdued by the silent stalker who killed Goldie. He awakens in the basement to find Lucille has been captured after looking into his story. She tells Marv that the killer is a cannibal, and that Goldie was a prostitute. He learns that the killer's name is Kevin (Elijah Wood) and escapes. Lucille is gunned down by the leader of an arriving squad of cops, who, after the squad is killed, is interrogated by Marv. Marv finds out that Cardinal Patrick Henry Roark (Rutger Hauer) arranged for Goldie's murder.Marv goes to Old Town, Sin City's prostitute-run red-light district, to learn more about Goldie and is captured by her twin sister, Wendy, who had been stalking him and was the attacker Marv previously dismissed as a hallucination. He eventually convinces her that he is not the killer. She and Marv return to the farm where Marv kills Kevin. He confronts Cardinal Roark, who confesses his part in the murders. Kevin was the cardinal's ward; the two men ate the prostitutes to 'consume their souls'. Marv kills the cardinal but is then shot and captured by his guards.\nMarv is taken to a hospital where cops threaten to kill his mother to get him to confess to killing Roark, Kevin, and their victims. He is sentenced to death in the electric chair. Wendy visits him on death row and thanks him for avenging her sister. Marv is executed the next day.The Big Fat Kill\nShellie (Brittany Murphy) is being harassed by her abusive ex-boyfriend Jackie Boy (Benicio Del Toro). Her current boyfriend, Dwight (Clive Owen) violently warns him to leave Shellie alone. Jackie Boy flees to Old Town. Dwight follows and sees them harass Becky (Alexis Bledel), a young prostitute. Gail (Rosario Dawson), the prostitutes' leader and Dwight's on-and-off lover, also witnesses the scene. When Jackie Boy threatens Becky with a gun, Miho (Devon Aoki), a martial arts expert, kills Jackie Boy and his friends. They realize Jackie Boy is actually Detective Lieutenant Jonathan \"Iron Jack\" Rafferty of the Basin City police, considered a \"hero cop\" by the press. If the cops learn how he died, their truce with the prostitutes would end and the mob would be free to wage war on Old Town.Dwight takes the bodies to a tar pit, where he is attacked by an ex-IRA mercenary hired by mob boss Wallenquist. He nearly drowns in the tar before Miho saves him. The mercenary runs away in the sewer with Jackie Boy's severed head, but Dwight and Miho are able to retrieve it and return to Old Town. Meanwhile, the head mercenary, Manute (Michael Clarke Duncan), kidnaps Gail. Becky has been threatened with the death of her mother by the mob and has betrayed the prostitutes. The mob is moving to invade with Manute leading. Dwight trades Jackie Boy's head in exchange for Gail, but activates an explosive he placed inside the head, destroying it before it can be taken to the cops for evidence. The other prostitutes gun down the mercenaries while an injured Becky escapes.That Yellow Bastard (Part 2)\nHartigan is recovering in a hospital when Senator Roark informs him that Junior is in a coma and the Roark legacy is in serious jeopardy. Hartigan will be framed for Junior's crimes; if he tells anyone the truth, they will die. A grateful Nancy promises to write letters every week while he is in prison. Hartigan goes to jail, though he refuses to confess. He receives a weekly letter from Nancy, as promised. After eight years, the letters stop, and he receives a severed finger instead. Hartigan confesses to all charges leading to his parole and searches for an adult Nancy (Jessica Alba), not knowing he is being followed by a deformed, yellow man. He eventually finds her at Kadie's Bar, where she has become an erotic dancer.He realizes he was set up to lead the yellow man to Nancy and the two escape in Nancy's car. Hiding at a hotel, the deformed man returns, revealing himself as Junior Roark, disfigured by years of surgery to regenerate his body parts. Junior attacks Hartigan and takes Nancy to the Roark farm to finish what he started eight years before. Hartigan follows and fakes a heart attack, giving him a chance to kill Junior. Knowing that Senator Roark will never stop hunting them, Hartigan commits suicide to ensure Nancy's safety. Again, he justifies his life for Nancy's as a fair trade.The Customer Is Always Right (Part 2)\nAn injured Becky departs from a hospital, talking on a cell phone with her mother. In the elevator she encounters The Salesman, dressed as a doctor. He offers her a cigarette, calling her by name, as she abruptly ends the call with her mother. Her fate is never revealed.",
+  "imdb_score": 8
+}

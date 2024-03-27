@@ -1,0 +1,328 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
+  "id": 8871,
+  "title": "How the Grinch Stole Christmas",
+  "poster_path": "https://image.tmdb.org/t/p/w500/AmUs3hximCKa90sHuIRr5Bz8ci5.jpg",
+  "release_date": "2000-11-17",
+  "vote_average": 6.771,
+  "vote_count": 7079,
+  "popularity": 59.989,
+  "overview": "The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart...",
+  "imdb_id": "tt0170016",
+  "budget": 123000000,
+  "homepage": "",
+  "revenue": 345800000,
+  "runtime": 104,
+  "tagline": "He puts the mean in green.",
+  "genres": [
+    "Family",
+    "Comedy",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Universal Pictures",
+    "Imagine Entertainment",
+    "Brian Grazer Productions",
+    "LUNI Productions GmbH and Company KG"
+  ],
+  "production_countries": [
+    "DE",
+    "US",
+    "FR"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jim Carrey",
+        "character": "Grinch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kuSlwTPsVlBMW0cvnFmbZce6PaV.jpg"
+      },
+      {
+        "name": "Taylor Momsen",
+        "character": "Cindy Lou Who",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7QrBFCRbpw1m7IIvtYZGiJw17Iy.jpg"
+      },
+      {
+        "name": "Jeffrey Tambor",
+        "character": "Mayor Augustus Maywho",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
+      },
+      {
+        "name": "Christine Baranski",
+        "character": "Martha May Whovier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x6jNFlGrzaM0LwK2GsxBNdCN41N.jpg"
+      },
+      {
+        "name": "Bill Irwin",
+        "character": "Lou Lou Who",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bAV5qsljgiHQkn3QluB5clVYC13.jpg"
+      },
+      {
+        "name": "Molly Shannon",
+        "character": "Betty Lou Who",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aW9X2XoJEe0hYfUtRkRBwQlmTNa.jpg"
+      },
+      {
+        "name": "Clint Howard",
+        "character": "Whobris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6tugb8rz1hj8tYlSaSmUBD741fw.jpg"
+      },
+      {
+        "name": "Josh Ryan Evans",
+        "character": "8-Year-Old Grinch",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4iBcf1cZlXcTTrFTyaHGdat2BN3.jpg"
+      },
+      {
+        "name": "Mindy Sterling",
+        "character": "Clarnella",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hX99KTTCFxB4a2rB1SpDbr8imrK.jpg"
+      },
+      {
+        "name": "Bryce Dallas Howard",
+        "character": "Surprised Who",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p7W0E5J6FpTMODxOOFbwsdxOPml.jpg"
+      },
+      {
+        "name": "Lacey Kohl",
+        "character": "Christina Whoterberry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7H0HXtVkZFla6oHBL7CJ0xLfT8H.jpg"
+      },
+      {
+        "name": "Rachel Winfree",
+        "character": "Rose",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Px79FIOnsIk6Y75cDnfv8IbiBz.jpg"
+      },
+      {
+        "name": "Rance Howard",
+        "character": "Elderly Timekeeper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rYejoZAvgvy0jyRu9fMH9PBKOWM.jpg"
+      },
+      {
+        "name": "Jeremy Howard",
+        "character": "Drew Lou Who",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tkZNfmlNkiH7UZxYDaDqO9z1TuV.jpg"
+      },
+      {
+        "name": "T.J. Thyne",
+        "character": "Stu Lou Who",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wzPGaDjzimfGjIpRg6NjN9eqJxL.jpg"
+      },
+      {
+        "name": "Nadja Pionilla",
+        "character": "Junie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s0qkZRHVgIk0uqnZFJWVj5lewmK.jpg"
+      },
+      {
+        "name": "Jim Meskimen",
+        "character": "Officer Wholihan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/913aYSudoetrtOIA8tZPjOj9dTo.jpg"
+      },
+      {
+        "name": "Michael Dahlen",
+        "character": "Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "David Costabile",
+        "character": "Biker Who",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yUkn29MWWPctB6SyScsn4sdE14O.jpg"
+      },
+      {
+        "name": "Mary Stein",
+        "character": "Miss Rue Who",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vrV6Fqwu8jby0DXzg3ldNL7qCjE.jpg"
+      },
+      {
+        "name": "James Ritz",
+        "character": "Crazy Mose",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sA87bIUW8qEPlPzcS0rBhkegfD0.jpg"
+      },
+      {
+        "name": "Deep Roy",
+        "character": "Post Office Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hXq63dj4WjwcKann7h9Wy7z7Ac7.jpg"
+      },
+      {
+        "name": "Jessica Sara",
+        "character": "Sophie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1lfoUEGUqVpjiwr9LcVAcFUq2KH.jpg"
+      },
+      {
+        "name": "Mason Lucero",
+        "character": "Who Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Ben Bookbinder",
+        "character": "8-Year-Old Augustus Maywho",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k4wBiWHWTw7ynnlDoSITDVfAxwO.jpg"
+      },
+      {
+        "name": "Michaela Gallo",
+        "character": "Who Schoolgirl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Cz5QDDNkYJd0LmCPnkZWu5YbQ8.jpg"
+      },
+      {
+        "name": "Landry Allbright",
+        "character": "8-Year-Old Martha May Whovier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vTjroX0wuJlOtgSjev1mzAjSpGv.jpg"
+      },
+      {
+        "name": "Reid Kirchenbauer",
+        "character": "8-Year-Old Whobris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/houZeBQs6ukfT4Gumc5icXBVDOx.jpg"
+      },
+      {
+        "name": "Rebecca Chace",
+        "character": "Shopper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/inaTAKr0qaH7XNAppnUaTovHzzm.jpg"
+      },
+      {
+        "name": "Suzanne Krull",
+        "character": "Shopper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1hwJ9tzvc1Sfif6nRKXWgcSuinL.jpg"
+      },
+      {
+        "name": "Steve Kehela",
+        "character": "Shopper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fzuwseqyMnsZhHa34yLtKwL79JX.jpg"
+      },
+      {
+        "name": "Lillias White",
+        "character": "Shopper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fIHaqkbqWzdXoiPM9KKwub7icWU.jpg"
+      },
+      {
+        "name": "Rain Pryor",
+        "character": "Shopper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dScJafBzVTk55gzaprCZGbI4fgS.jpg"
+      },
+      {
+        "name": "John Alexander",
+        "character": "Shopper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9YmbNIO0doeR9FoojgGia7VtpJF.jpg"
+      },
+      {
+        "name": "Kevin Isola",
+        "character": "Tree Trimmer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2mGEiPi8gCfYYmAXqNlVkuztjPM.jpg"
+      },
+      {
+        "name": "Gavin Grazer",
+        "character": "Yodeler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/620zzsilxpBwUHu5XiyA31DSfPl.jpg"
+      },
+      {
+        "name": "Walter Franks",
+        "character": "Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2TgA3EJSyZ3HC3wraAdzeijJac.jpg"
+      },
+      {
+        "name": "Verne Troyer",
+        "character": "Band Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iNjzleUvrnhN4PDuuJerF2SCFfn.jpg"
+      },
+      {
+        "name": "Clayton Martinez",
+        "character": "Cook",
+        "profile_path": ""
+      },
+      {
+        "name": "Q'orianka Kilcher",
+        "character": "Little Choir Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uduApOlv4MumUKdc9LtLSBL0bW8.jpg"
+      },
+      {
+        "name": "Caroline Williams",
+        "character": "Tiny Who Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m6FRiLEHlDw1pDkzreBUCd0YJiA.jpg"
+      },
+      {
+        "name": "John Short",
+        "character": "Tiny Who Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eFZBVrCODewMZZP5WoSiGHpY6lI.jpg"
+      },
+      {
+        "name": "Grainger Esch",
+        "character": "Near Miss Who",
+        "profile_path": ""
+      },
+      {
+        "name": "Eva Burkley",
+        "character": "Pudding Chef",
+        "profile_path": ""
+      },
+      {
+        "name": "Rick Baker",
+        "character": "Puppeteer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8thqXBS5CQF0U2zsHAVM9GH7i4I.jpg"
+      },
+      {
+        "name": "Bill Sturgeon",
+        "character": "Puppeteer",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Setrakian",
+        "character": "Puppeteer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hQch2MIiRCVTnsb7evyBJG9nPdM.jpg"
+      },
+      {
+        "name": "Jurgen Heimann",
+        "character": "Puppeteer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Blaney",
+        "character": "Puppeteer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t0KK9MfZTgpLHYWDit18exJlhgW.jpg"
+      },
+      {
+        "name": "Charles Croughwell",
+        "character": "Balloon Who",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b07qb8NrxvKqO62oz0VQA8iYsK4.jpg"
+      },
+      {
+        "name": "Frank Welker",
+        "character": "Max the Dog (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+      },
+      {
+        "name": "Anthony Hopkins",
+        "character": "Narrator (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9ukJS2QWTJ22HcwR1ktMmoJ6RSL.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Ron Howard",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new love",
+    "based on novel or book",
+    "holiday",
+    "christmas party",
+    "village",
+    "santa claus",
+    "surrealism",
+    "thief",
+    "public humiliation",
+    "christmas",
+    "surreal world"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "On the outskirts of Whoville lives a green, revenge-seeking Grinch who plans to ruin Christmas for all of the citizens of the town.",
+    "Inside a snowflake exists the magical land of Whoville, wherein live the Whos, an almost-mutated sort of Munchkin-like people who all love Christmas. Just outside of their beloved town lives the Grinch (Jim Carrey), a nasty creature that hates Christmas and plans to steal it from the Whos, which he equally abhors. Little Cindy Lou Who (Taylor Momsen) decides to befriend the Grinch.—Filmfreak <webmaster@filmfreak.co.za>",
+    "In this live-action adaptation of the beloved children's tale by Dr. Seuss, the reclusive green Grinch (Jim Carrey) decides to ruin Christmas for the cheery citizens of Whoville. Reluctantly joined by his hapless dog Max (Kelley), the Grinch comes down from his mountaintop home and sneaks into town to swipe everything Christmas-related from the Whos. However, the bitter grump finds a hitch in his plans when he encounters the endearing Cindy Lou Who (Taylor Momsen)—Jwelch5742",
+    "In the outskirts of Whoville, a green hermit known as the Grinch has been living in Mount Crumpit with his only friend and pet dog, Max. It is soon discovered the Grinch has put himself in exile, due to his hatred for Christmas and after he was bullied by his former school peers after he tried to impress his childhood crush and only female friend, Martha May Whovier, but that ended in humiliation for the Grinch, after Augustus Maywho (the corrupt mayor of Whoville) has began belittling him even further. However, Cindy Lou Who, the daughter of Lou and Betty, believes that there is good in the Grinch. At the same time, Cindy realizes that Christmas is about being with loved ones and it shouldn't be about materialism. The Grinch devises a plot to ruin Christmas by dressing up as Santa in retaliation for being ridiculed and for the citizens endless greed for gifts.—dawsonpersi",
+    "Rejected by the Whos as a child, and living in spiteful seclusion for most of his life, the Grinch (Jim Carrey) has always hated the citizens of Whoville. That especially goes for Christmas with the Whos' noise, phony sentiment, and wasteful materialism. When little Cindy Lou Who's (Taylor Momsen's) attempt to transcend the festivities' empty commercialism by inviting the Grinch ends with his public humiliation, the Grinch hatches upon on his supreme scheme to ruin Christmas. Cindy Lou Who becomes a great friend to the Grinch and stops the Grinch from destroying a wonderful holiday, and the Grinch is now welcome in Whoville.—Kenneth Chisholm <kchishol@home.com>"
+  ],
+  "synopsis": "On a tiny snowflake floating through the air, exists the town of Who-ville, home of the Whos. The town is joyously preparing for the coming of Christmas.However, of all the Whose, a little girl named Cindy Lou Who is feeling depressed, and not at all in the holiday spirit. When her brother and his friends return from climbing Mt Crumpit and claim they saw the Grinch, Cindy Lou grows curious as to the Grinch, who she learns does not like Christmas. While in the Post Office with her Father, Cindy takes some mail to a backroom, and finds the Grinch trying to cause havoc in the mail room. The Grinch scares her, and causes Cindy to fall into the mail sorting machine. To her surprise, the Grinch rescues her.Cindy then decides to investigate more into the Grinch's past, and interviews several people, including two elderly women who cared for the Grinch, as well as town socialite Margaret May-Who and the Mayor, both of whom were classmates with the Grinch.From the information she collects, the Grinch as a child actually liked Christmas, and even had a crush on Margaret. However, the Mayor as a child, taunted the Grinch about this. The Grinch tries to create a hand-made present for Margaret and shave off his facial hair, but the bad shaving job causes the class to laugh at him, finally causing him to hate Christmas. After that, he ran away to Mt Crumpit.As Christmas approaches, the Mayor announces the upcoming Who-bilation, where the town nominates a Cheer Meister. While the Mayor looks forward to another unanimous vote for himself, Cindy requests that they nominate the Grinch, feeling he deserves it the most.With enough votes, Cindy gets the Grinch a nomination, and climbs up Mt Crumpit to deliver it to him. The Grinch does not believe her at first, but reconsiders when he finds out he'll be receiving an award, and that Margaret May-Who will be attending. The Grinch agonizes over the decision to attend (partly believing this is a trick), before appearing to the Who's.While at first apprehensive, the Grinch appears to be getting into the Christmas spirit, until the Mayor proposes to Martha May-Who, and offers her a car. The ostentatious gift rouses the ire of the Grinch, and he then begins to wreck the celebration, causing mayhem and burning down the Christmas tree. Cindy feels terrible that her plan to make the Grinch feel better has been ruined, and the Grinch returns to Mt Crumpit.The Grinch feeling worse then ever, decides that this year, he'll stop Christmas from coming, by dressing as Santa, and stealing it. Fashioning a sled, he and his dog Max return to Who-Ville, and make off with all the gifts and festive trimmings. Taking everything to the top of Mt Crumpit, he plans to drop it all over the edge.Back in Who-ville, everyone is sad and distraught, with the Mayor blaming the whole thing on Cindy for inviting the Grinch. Cindy's father proclaims that he actually is proud of his daughter, because he's seen that Christmas is not about presents and decorations, but about being together. Soon a number of other Who's join in and begin singing.This sound causes the Grinch to pause, wondering how they can be so cheerful. As he watches, the emotion gets to him, and his once shrivelled heart grows 3 sizes. The Grinch then returns the presents to Who-ville, and apologizes for his misdeed. At the same time, Margaret May-Who tells the Mayor she is rejecting his marriage proposal, and that her heart belongs to the Grinch.In the closing of the film, the town feast is held, with the Grinch carving the Roast Beast.",
+  "imdb_score": 6.3
+}

@@ -1,0 +1,571 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/yvbXGWjg30sj7rohEZvSe90jSJC.jpg",
+  "id": 396371,
+  "title": "Molly's Game",
+  "poster_path": "https://image.tmdb.org/t/p/w500/in43bQ7k0ttr666IPP94IlbQbTR.jpg",
+  "release_date": "2017-12-07",
+  "vote_average": 7.148,
+  "vote_count": 3505,
+  "popularity": 26.511,
+  "overview": "Molly Bloom, a young skier and former Olympic hopeful becomes a successful entrepreneur (and a target of an FBI investigation) when she establishes a high-stakes, international poker game.",
+  "imdb_id": "tt4209788",
+  "budget": 30000000,
+  "homepage": "http://mollysgame.movie/",
+  "revenue": 59284015,
+  "runtime": 140,
+  "tagline": "Deal with her.",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "production_companies": [
+    "Entertainment One",
+    "The Mark Gordon Company",
+    "Pascal Pictures",
+    "STXfilms"
+  ],
+  "production_countries": [
+    "CA",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jessica Chastain",
+        "character": "Molly Bloom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bFjC63gYFmGRcyJ2OF5FOcY7pIn.jpg"
+      },
+      {
+        "name": "Idris Elba",
+        "character": "Charlie Jaffey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+      },
+      {
+        "name": "Kevin Costner",
+        "character": "Larry Bloom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/608blZipRDZkDpzp8VItB64qMaT.jpg"
+      },
+      {
+        "name": "Michael Cera",
+        "character": "Player X",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"
+      },
+      {
+        "name": "Jeremy Strong",
+        "character": "Dean Keith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jcMhXWICSi4QjQttJVhFSiKVvpF.jpg"
+      },
+      {
+        "name": "Chris O'Dowd",
+        "character": "Douglas Downey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xhfgliN8DInDVBliPq7JDeKNCvz.jpg"
+      },
+      {
+        "name": "J.C. MacKenzie",
+        "character": "Harrison Wellstone",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aAy2hzMku50aM2lUYg7yNQYdpMW.jpg"
+      },
+      {
+        "name": "Brian d'Arcy James",
+        "character": "Bad Brad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Gz3b0A20Vrq7aadGfjZekdgGFK.jpg"
+      },
+      {
+        "name": "Bill Camp",
+        "character": "Harlan Eustice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yZFata0EVr7TbIAz8vZFyiDKDts.jpg"
+      },
+      {
+        "name": "Graham Greene",
+        "character": "Judge Foxman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ubX9pwrzQqnR41gAGyY1GoSZr1G.jpg"
+      },
+      {
+        "name": "Justin Kirk",
+        "character": "Jay",
+        "profile_path": "https://image.tmdb.org/t/p/w185/68QWfaIoOYy4QzjnjiXPXxnpT6u.jpg"
+      },
+      {
+        "name": "Angela Gots",
+        "character": "B",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ywwXbwatRm2IJbak3AUroIfAiAl.jpg"
+      },
+      {
+        "name": "Natalie Krill",
+        "character": "Winston",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iXcAX1tDHeWwmD8BI4htTdV3Z2p.jpg"
+      },
+      {
+        "name": "Stephanie Herfield",
+        "character": "Jesse",
+        "profile_path": ""
+      },
+      {
+        "name": "Madison McKinley",
+        "character": "Shelby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Ar3v9nvBrUS4SSWQlmdNEtfLGbP.jpg"
+      },
+      {
+        "name": "Joe Keery",
+        "character": "Trust Fund Cole",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ayIAVLMfZGEGIFwAo3pPnY7p59.jpg"
+      },
+      {
+        "name": "Michael Kostroff",
+        "character": "Louis Butterman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w5kfGOzgGfVGTGB2CB0X8eIplES.jpg"
+      },
+      {
+        "name": "Claire Rankin",
+        "character": "Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nwPUWhTEuxcH2ai0NgLEuUkxsUz.jpg"
+      },
+      {
+        "name": "Victor Serfaty",
+        "character": "Diego",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a83Vmu1hsTQm2QYGtLthgrYaACI.jpg"
+      },
+      {
+        "name": "Whitney Peak",
+        "character": "Stella",
+        "profile_path": "https://image.tmdb.org/t/p/w185/V6d51O4rSLENFSICfoOOcqZiZv.jpg"
+      },
+      {
+        "name": "Jon Bass",
+        "character": "Shelly Habib",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2eo9pMyPhA9mBaSrNlD6UP3Nkyw.jpg"
+      },
+      {
+        "name": "Joseph Brooks",
+        "character": "Eli",
+        "profile_path": "https://image.tmdb.org/t/p/w185/87fpWHCg785NlswOMjjJfxtc3a.jpg"
+      },
+      {
+        "name": "Samantha Isler",
+        "character": "Molly (age 13-15)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8OaSdXsVLp6zOTPYXtYJVEUopvN.jpg"
+      },
+      {
+        "name": "Piper Howell",
+        "character": "Molly (age 7)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lqBIz58dUhx6xYb0H1eCdU423Oq.jpg"
+      },
+      {
+        "name": "Kjartan Hewitt",
+        "character": "Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/PQrGGYNsZsTSjurAEMII3mxXBz.jpg"
+      },
+      {
+        "name": "Khalid Karim",
+        "character": "Neal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hbITlhVxW8Vu6b0ohkyk53MY6lo.jpg"
+      },
+      {
+        "name": "Chris Hoffman",
+        "character": "Derrick",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew D. Matteo",
+        "character": "Bobby",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8o9k2TIkt9HNfrOPsScYqznSG2A.jpg"
+      },
+      {
+        "name": "Jacob Blair",
+        "character": "Jeremy Bloom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rFL3qaFa6vlw6gLDNBEDrqMP6JS.jpg"
+      },
+      {
+        "name": "Chris Boyle",
+        "character": "Jordan Bloom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7eVU1iC2WvtgPCkZia5rFtb8Vf5.jpg"
+      },
+      {
+        "name": "Duane Murray",
+        "character": "Agent Delarosa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hT3xbEShfQ1KPmfwhlY5k0FfmbW.jpg"
+      },
+      {
+        "name": "Jeff Kassel",
+        "character": "Donnie Silverman",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Lett",
+        "character": "David Sagen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/johOG5hLcJTIn47TzYYW9FN6TNp.jpg"
+      },
+      {
+        "name": "Timothy Mooney",
+        "character": "Reggie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uoHo9AUrCRkT9IGkUizCsMcGu3Y.jpg"
+      },
+      {
+        "name": "Moti Yona",
+        "character": "Iliya Gershen",
+        "profile_path": ""
+      },
+      {
+        "name": "Leo Vernik",
+        "character": "Alex Gershen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yglR9oboAUV7LZ570P3JnTlZp2h.jpg"
+      },
+      {
+        "name": "John Nelles",
+        "character": "Ski Coach",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ko1olmJe8HzZcNdILvu1uYNMyyY.jpg"
+      },
+      {
+        "name": "Jason Weinberg",
+        "character": "John G",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yYSgukrdjJJ6rhqaZympciyD7UU.jpg"
+      },
+      {
+        "name": "Rachel Skarsten",
+        "character": "Leah",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bgeqmHfkeFYMXaqr6ReSfN1TWOG.jpg"
+      },
+      {
+        "name": "Linette Doherty",
+        "character": "Court Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lMDJQak9Kuaz2YCguGerArLWuG0.jpg"
+      },
+      {
+        "name": "Robert B. Kennedy",
+        "character": "Alexander Rosenfeld",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cNNmTTdPbBBNVzMdeRdMzbFM22j.jpg"
+      },
+      {
+        "name": "Morgan David Jones",
+        "character": "Brennan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yNAGddCYn2HtOZjxgHFYbRZtlB9.jpg"
+      },
+      {
+        "name": "Elisa Moolecherry",
+        "character": "Bankruptcy Lawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/36FcbxCuMbm9TLSd0Ts9TwrSVbG.jpg"
+      },
+      {
+        "name": "A.C. Peterson",
+        "character": "Stranger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2x3iLlTwxlasDE36R9pmUat1RUw.jpg"
+      },
+      {
+        "name": "Dov Tiefenbach",
+        "character": "Club Customer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m5zltcenHoksNzbNlM1V4S5m5A1.jpg"
+      },
+      {
+        "name": "Bo Martynowska",
+        "character": "Club Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a07prx8IAoBswyOGjycgHTQWiF2.jpg"
+      },
+      {
+        "name": "Amy Rutherford",
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7FL5i0PENIVXM9hi1B5p9dOST67.jpg"
+      },
+      {
+        "name": "Frank Falcone",
+        "character": "Pit Boss",
+        "profile_path": ""
+      },
+      {
+        "name": "Kris Siddiqi",
+        "character": "Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mEJlRZ6flW3aZUqmAIVON8qBSWM.jpg"
+      },
+      {
+        "name": "Jonathan Purdon",
+        "character": "Jonathan Hirsch",
+        "profile_path": ""
+      },
+      {
+        "name": "David Reale",
+        "character": "LA Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Mo33Tpd9Ou7nRjKjZ1iMBc2jq0.jpg"
+      },
+      {
+        "name": "Jake Goldsbie",
+        "character": "LA Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hPezAQ4aSGVVOAr290DyLWVS115.jpg"
+      },
+      {
+        "name": "Todd Thomas Dark",
+        "character": "LA Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Owens",
+        "character": "LA Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hT55s8UvUyzqzaf4Y7bXQgbjiY7.jpg"
+      },
+      {
+        "name": "Gary Brennan",
+        "character": "LA Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ueuS2848ClzI67MDfMjrvZXtoiU.jpg"
+      },
+      {
+        "name": "Tom Black",
+        "character": "LA Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Ken Linton",
+        "character": "LA Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Zachary Goodbaum",
+        "character": "LA Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Stellisano",
+        "character": "LA Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Tommy Julien",
+        "character": "LA Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Jason Pithawalla",
+        "character": "LA Player",
+        "profile_path": ""
+      },
+      {
+        "name": "James Hurlburt",
+        "character": "LA Player",
+        "profile_path": ""
+      },
+      {
+        "name": "John Krpan",
+        "character": "LA Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Shane Harbison",
+        "character": "LA Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Vasilios Pappas",
+        "character": "LA Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Rae Anne Stroeder",
+        "character": "EMT #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Alanna Macaulay",
+        "character": "EMT #2",
+        "profile_path": ""
+      },
+      {
+        "name": "George Tchortov",
+        "character": "Mike Davidoff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lr9LUSGAfdOMq88PjKgkQOEN44R.jpg"
+      },
+      {
+        "name": "Thomas Hauff",
+        "character": "Mr. Sernovitz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/niZqjCMr2ZNxp3IOEqGbQg2R0wm.jpg"
+      },
+      {
+        "name": "Ari Cohen",
+        "character": "NY Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qwflAB8DTO4VzllPNWFu8PLKlb0.jpg"
+      },
+      {
+        "name": "David Lafontaine",
+        "character": "NY Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1jUM0Cj5DXMenTZfb2kMhmthzTK.jpg"
+      },
+      {
+        "name": "David Gingrich",
+        "character": "NY Player",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeffrey Parazzo",
+        "character": "NY Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p9GTNpMK3t7Tr7QVBvJ0Wa3xQOm.jpg"
+      },
+      {
+        "name": "Bruno Verdoni",
+        "character": "Pat",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pxBQJk9Qtc75NiMNC6MfCWDQMOi.jpg"
+      },
+      {
+        "name": "Rico Tudico",
+        "character": "Paul",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary Ashton",
+        "character": "Tracy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xOaNA2tID2zDRgvPU3wceL3WBLy.jpg"
+      },
+      {
+        "name": "Lizzy DeClement",
+        "character": "Skate Rental Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7llveDzaSpvLU5urKKDz62a01mX.jpg"
+      },
+      {
+        "name": "Catherine Burdon",
+        "character": "Female Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Laura Cilevitz",
+        "character": "Jeremy's Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fx4zzV95H8OgxXrVyJuLTfmExaF.jpg"
+      },
+      {
+        "name": "Amy Stewart",
+        "character": "Jordan's Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mY9754G6Z2960tTVSYByBPYvPX.jpg"
+      },
+      {
+        "name": "Steve Brandes",
+        "character": "Court Marshall",
+        "profile_path": ""
+      },
+      {
+        "name": "Phil Primmer",
+        "character": "Ski Patrol Leader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3CNOrIVEsTnCc5pS5wfh7ellMTS.jpg"
+      },
+      {
+        "name": "Gurdeep Ahluwalia",
+        "character": "Commentator #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yMwMmHxRSQgJeEaoRaYVeiooPo.jpg"
+      },
+      {
+        "name": "Dan Duran",
+        "character": "Commentator #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vCWv4gSo1QQfjzpymcub0lLkYgD.jpg"
+      },
+      {
+        "name": "Vladimir Tsyglian",
+        "character": "Arthur Azen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fd1hDiHwkyMVYljVd11ULeboNgK.jpg"
+      },
+      {
+        "name": "Dennis Drummond",
+        "character": "Azen's Lawyer",
+        "profile_path": ""
+      },
+      {
+        "name": "Nicholas Banks",
+        "character": "Sigel's Lawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pplx6r2oGuja73yxI11I4UtSWUg.jpg"
+      },
+      {
+        "name": "Michael Cohen",
+        "character": "Sigel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dHG0y1P3HeoiwLxagXEfD5KWDeP.jpg"
+      },
+      {
+        "name": "Karl Danhoffer",
+        "character": "Habib's Lawyer",
+        "profile_path": ""
+      },
+      {
+        "name": "Daoud Heidami",
+        "character": "Hot Dog Vendor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6NvvrASGyzyRtfbSPH3ngNio8h7.jpg"
+      },
+      {
+        "name": "Maria Lerinman",
+        "character": "Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hBO7CdeCM0ouj8NkByjqgxja0jk.jpg"
+      },
+      {
+        "name": "Alyssa Veniece",
+        "character": "Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/87MXiOzWQWGzvqf0abzV8tf9PsX.jpg"
+      },
+      {
+        "name": "Robin Read",
+        "character": "Frederick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/edtdrmEm4PsypkQz1lfNtTXK9iU.jpg"
+      },
+      {
+        "name": "Randy Noojin",
+        "character": "Plaza Doorman",
+        "profile_path": ""
+      },
+      {
+        "name": "Dave Alaimo",
+        "character": "Poker Player (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Cranstone",
+        "character": "Technician (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gregory Falatek",
+        "character": "Rocker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mariah Owen",
+        "character": "U.S.A. Ski Team Athlete (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5JbFdZIJYustw2I6T88OlULsah1.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Aaron Sorkin",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hGkusztbd1rb23QFAjvpJxKSTAU.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "court",
+    "poker",
+    "gambling",
+    "bratva (russian mafia)",
+    "olympic games",
+    "fbi",
+    "biography",
+    "arrest",
+    "based on true story",
+    "celebrity",
+    "trial",
+    "beating",
+    "lawyer",
+    "female protagonist",
+    "los angeles, california",
+    "courtroom",
+    "ice skating",
+    "snow skiing",
+    "card playing",
+    "employer employee relationship",
+    "courtroom drama",
+    "cleavage",
+    "high stakes",
+    "mob",
+    "father daughter relationship"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "The true story of Molly Bloom, an Olympic-class skier who ran the world's most exclusive high-stakes poker game and became an FBI target.",
+    "Molly Bloom, a beautiful young Olympic-class skier, ran the world's most exclusive high-stakes poker game for a decade before being arrested in the middle of the night by 17 FBI agents wielding automatic weapons. Her players included Hollywood royalty, sports stars, business titans, and finally, unbeknownst to her, the Russian mob. Her only ally was her criminal defense lawyer Charlie Jaffey, who learned that there was much more to Molly than the tabloids led us to believe.—STX Entertainment",
+    "As a catastrophic injury robs her of a promising sports career and a long-coveted Olympic medal, the former competitive skier, Molly Bloom, moves to sunny Los Angeles to start anew, rather than attending law school. However, once there, Molly will soon find the quickest way to success and the closest thing to a profession, running a high-stakes poker game business for deep-pocketed celebrities, well-off businessmen, and the elite. And just like that, the gambling empire of a powerful poker hostess is born; nevertheless, there's always a fine line between triumph and defeat. Now, with her only hope resting in the capable hands of the wary New York lawyer, Charlie Jaffey, a desperate Molly will have to strive for sympathy; but, who would be willing to represent the infamous Poker Princess?—Nick Riganas",
+    "Molly Bloom is a world-class mogul skier with Olympic aspirations, the result of years of enforced training from her overbearing father. In a qualifying event for the 2002 Winter Olympics, she is severely injured, ending her career. Instead of following her original plan of attending law school, Molly decides to take a year off and move to Los Angeles. Once she arrives, she becomes a bottle service waitress at a club, where she meets Dean, an ostentatious but unsuccessful real estate developer. She becomes his office manager, and he soon involves her in running his underground poker games. Many famous and wealthy individuals, such as movie stars, investment bankers, and sports players, are involved in Dean's game. Molly earns large sums of money on tips alone..",
+    "Molly Bloom was a talented skier with Olympic aspirations and potential. Now she has been arrested on a variety of federal charges, all related to her running high stakes poker games. This is how her life moved from the one point to the other.—grantss"
+  ],
+  "synopsis": "Molly Bloom (Jessica Chastain) is world-class moguls skier with Olympic aspirations, the result of years of enforced training from her overbearing father Larry (Kevin Costner). In a qualifying event for the 2002 Winter Olympics, Molly is severely injured; ending her career.\nInstead of her original plan of attending law school, Molly decides to take a year off and move to Los Angeles. Once she arrives, she becomes a bottle-service waitress at a club, where she meets Dean (Jeremy Strong), an ostentatious but unsuccessful real estate developer. She becomes his office manager, and he soon involves her in running his underground poker games. Many famous and wealthy individuals, such as movie stars, investment bankers, and sports players are involved in Dean's game; she earns large sums of money on tips alone.Molly is initially uninformed on poker topics, but quickly learns how to appeal to the players to gain tips. In particular, she hopes to please the most successful player, Player X (Michael Cera) (a composite character of Leonardo DiCaprio, Tobey Maguire, Ben Affleck, and other real-life celebrity poker players), by attracting new players to the game. Dean, upon seeing that Molly is becoming increasingly independent in running the games, attempts to control her, and then fires her. Molly, having gained the contacts through 8 years of running the game in LA, decides to create her own poker games. She rents a penthouse at a hotel, and hires a staff to help her run games. Additionally, she contacts employees at clubs and casinos to try and spread word about her poker games. Player X, along with many other players, decide to leave Dean's games to play for Molly. Molly becomes increasingly successful, gaining more money while being pressured to raise the stakes for her games. Harlan Eustice (Bill Camp), a conservative gambler who becomes increasingly compulsive, joins her game. Despite heavy losses (Harlan continues to make bigger and bigger bets for 48 hrs straight until he is down 1.2 MM USD. Harlan had a reputation for winning, so when the word spread that Harlan is on the tilt, they came from all over LA to beat Harlan and recoup some of their money), Eustice continues to play; Molly finds out that Player X has been funding his losses to keep him in the game. After Molly berates him for his unethical actions, Player X decides to change to Dean's game, where the other players join him; Molly is left without any players for her poker games.Molly moves to New York, with the hope of beginning a new underground poker game. After reaching out to many wealthy New Yorkers, Molly finds enough players for several weekly games. Despite continuous success, she is unable to cover her losses when players cannot pay. Her dealer convinces her to begin taking a percentage of large pots, allowing her to recuperate her potential losses (but which also means that she is in violation of the law by running an illegal casino). One of her Los Angeles players is indicted for running a Ponzi scheme; Molly is investigated and questioned as to who attended her games. At this time, Molly becomes increasingly addicted to drugs as the games have increasingly taken their toll. Her players also begin to include wealthy individuals from the Russian mafia, among others. She is approached by several Italian mafia members, who offer their services to extort money from non-paying players. After she declines, she is attacked in her home, where she is held at gunpoint and her mother's life is threatened. As she is about to return to her poker games, the FBI conducts a raid, a result of Douglas Downey (Chris O'Dowd), one of her players (The one who introduced Molly to the Russian mafia in the first place), acting as an informant. Molly's assets are seized, and she returns home to live with her mother.Two years later, Molly has published a book where she names few individuals that played in her games, and has recently moved out. She is arrested by the FBI, and indicted for involvement in illegal gambling with the mafia. She enlists the help of Charlie Jaffey (Idris Elba), a high-profile and expensive lawyer in New York, who agrees to help after Molly claims she has over $2 million in unclaimed gambling debts. After listening to Molly's full story he is convinced that she had nothing to do with the Russian or Italian mafia and her only crime was to run an illegal gambling joint for 7 months, which she stopped 2 yrs ago. Every penny that she had earned was legit (Even the 4 MM USD that the DoJ confiscated while arresting her). After she gave up gambling, she wrote a book and had a golden shot to earn millions by naming everyone that she was ever associated with, but refused to do so and accepted a meager dollars 35000 as a deposit on her book, in which she names only those 4 individuals that were named in the Harlan investigation by him.While in New York awaiting trial, Molly's father, Larry, seeks her out, and attempts to reconcile with her. He admits that he was overbearing, and that he treated Molly differently than her brothers because she had known about his affairs. Charlie reads Molly's book, and becomes interested in helping her case, as he feels she has not committed serious enough wrongdoing to merit a prison term. Charlie negotiates a deal for Molly to receive no sentence and her money returned in exchange for her hard drives and digital records from gambling. Molly declines this deal, fearing for the information about her players that would be released, and pleads guilty. The judge, arguing that she had committed no serious crimes, sentences her to community service, probation, and a $200,000 fine.",
+  "imdb_score": 7.4
+}

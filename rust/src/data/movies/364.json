@@ -1,0 +1,312 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/3WP0RObZ2t7ShHfqQpKPljF9B22.jpg",
+  "id": 364,
+  "title": "Batman Returns",
+  "poster_path": "https://image.tmdb.org/t/p/w500/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg",
+  "release_date": "1992-06-19",
+  "vote_average": 6.919,
+  "vote_count": 6143,
+  "popularity": 37.856,
+  "overview": "While Batman deals with a deformed man calling himself the Penguin, an employee of a corrupt businessman transforms into the Catwoman.",
+  "imdb_id": "tt0103776",
+  "budget": 80000000,
+  "homepage": "",
+  "revenue": 280000000,
+  "runtime": 126,
+  "tagline": "The Bat, the Cat, the Penguin.",
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "Polygram Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Michael Keaton",
+        "character": "Bruce Wayne / Batman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/baeHNv3qrVsnApuKbZXiJOhqMnw.jpg"
+      },
+      {
+        "name": "Danny DeVito",
+        "character": "Oswald Cobblepot / The Penguin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gNHF2SNXFFCRqwIQ2Xv6r6aV6UD.jpg"
+      },
+      {
+        "name": "Michelle Pfeiffer",
+        "character": "Selina Kyle / Catwoman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oGUmQBU87QXAsnaGleYaAjAXSlj.jpg"
+      },
+      {
+        "name": "Christopher Walken",
+        "character": "Max Shreck",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+      },
+      {
+        "name": "Michael Gough",
+        "character": "Alfred Pennyworth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/owcwnV6dymBd9YIQKDPzVA5EtZX.jpg"
+      },
+      {
+        "name": "Pat Hingle",
+        "character": "Commissioner James Gordon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/QBAxFVZQ0Hu6rxlFavhwUq0zug.jpg"
+      },
+      {
+        "name": "Michael Murphy",
+        "character": "Mayor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3quWjoqh8vKoSXE9Ll3AC7pgsRh.jpg"
+      },
+      {
+        "name": "Cristi Conaway",
+        "character": "Ice Princess",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wxBtTzVzrzm1ybkNMF9OWWXs6KO.jpg"
+      },
+      {
+        "name": "Andrew Bryniarski",
+        "character": "Charles 'Chip' Shreck",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7WecTlVEkck19VMXTcBfSkmshYL.jpg"
+      },
+      {
+        "name": "Vincent Schiavelli",
+        "character": "Organ Grinder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8wq2WF9ohUUZZjfVxEEiUGxLHzp.jpg"
+      },
+      {
+        "name": "Steve Witting",
+        "character": "Josh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xpCi5RVLq2X6xtz4LzOBsVVmevD.jpg"
+      },
+      {
+        "name": "Jan Hooks",
+        "character": "Jen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9GQfBnfGLoJt4NdFTO5HyeJgbAM.jpg"
+      },
+      {
+        "name": "John Strong",
+        "character": "Sword Swallower",
+        "profile_path": ""
+      },
+      {
+        "name": "Rick Zumwalt",
+        "character": "Tattooed Strongman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1qqPlFcp1tZNf3EDeFRlqknPbr5.jpg"
+      },
+      {
+        "name": "Anna Katarina",
+        "character": "Poodle Lady",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hnwiiEA975IPOLRf8QwGE5TPTvV.jpg"
+      },
+      {
+        "name": "Gregory Scott Cummins",
+        "character": "Acrobat Thug One",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7zIPV7Wmyap5uoC1soLFaKCtNJO.jpg"
+      },
+      {
+        "name": "Erika Andersch",
+        "character": "Knifethrower Dame",
+        "profile_path": ""
+      },
+      {
+        "name": "Travis McKenna",
+        "character": "Fat Clown",
+        "profile_path": ""
+      },
+      {
+        "name": "Doug Jones",
+        "character": "Thin Clown",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4C2rJbkgpD3wsdIzJHxk5rcEqTZ.jpg"
+      },
+      {
+        "name": "Branscombe Richmond",
+        "character": "Terrifying Clown 1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4UFwrT68uzusdG1hcPARjxpJUIx.jpg"
+      },
+      {
+        "name": "Paul Reubens",
+        "character": "Penguin's Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9xGL3pGNAiZDtzKTVDQY90Mkyqs.jpg"
+      },
+      {
+        "name": "Diane Salinger",
+        "character": "Penguin's Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7lJocSxXknwdcA76dlrHwtE1eQC.jpg"
+      },
+      {
+        "name": "Stuart Lancaster",
+        "character": "Penguin's Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zdRgmGQfpCIhLRFqeM4izsQV5eW.jpg"
+      },
+      {
+        "name": "Cal Hoffman",
+        "character": "Happy Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Joan Jurige",
+        "character": "Happy Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Rosie O'Connor",
+        "character": "Adorable Little Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Sean Whalen",
+        "character": "Paperboy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nUPHcRagVWhH21mIS4Qdeoclhr5.jpg"
+      },
+      {
+        "name": "Erik Onate",
+        "character": "Aggressive Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Joey DePinto",
+        "character": "Shreck Security Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Steven Brill",
+        "character": "Gothamite 1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bhWId1JKFtFECSJPCYo9DbXeOaS.jpg"
+      },
+      {
+        "name": "Neal Lerner",
+        "character": "Gothamite 2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wPMax27qMb7gtx4pA7tAqP0GXwK.jpg"
+      },
+      {
+        "name": "Ashley Tillman",
+        "character": "Gothamite 3",
+        "profile_path": ""
+      },
+      {
+        "name": "Elizabeth Sanders",
+        "character": "Gothamite 4",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yGhAui0cAIP5ds2ctr6QaWTrN8Q.jpg"
+      },
+      {
+        "name": "Joan Giammarco",
+        "character": "Female Victim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t48mQBRT0LydbZE4dmSlAwQvovZ.jpg"
+      },
+      {
+        "name": "Lisa Guerrero",
+        "character": "Volunteer Bimbo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lboItIjckueMCL6SfQK5qbmSwIJ.jpg"
+      },
+      {
+        "name": "Frank DiElsi",
+        "character": "Security 1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mAa4CF48cFI1ThqOz8sRegaRavt.jpg"
+      },
+      {
+        "name": "Biff Yeager",
+        "character": "Security 2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z74HHf0EsD7Lv5g2LJZrAGDUWiE.jpg"
+      },
+      {
+        "name": "Robert Gossett",
+        "character": "TV Anchorman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gDrlbzqo3JQBOrL6U2dC78gfC4w.jpg"
+      },
+      {
+        "name": "Adam Drescher",
+        "character": "Crowd Member",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4XxvgYMkKdWVwokFW3zt9Wpgsd1.jpg"
+      },
+      {
+        "name": "Bobby Bell",
+        "character": "Emperor Penguin",
+        "profile_path": ""
+      },
+      {
+        "name": "Niki Botelho",
+        "character": "Emperor Penguin / Baby Penguin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mmKd3BBIgOG5ICbw2eIq2NAPWEy.jpg"
+      },
+      {
+        "name": "Susan Rossitto",
+        "character": "Emperor Penguin",
+        "profile_path": ""
+      },
+      {
+        "name": "Margarita Farrell",
+        "character": "Emperor Penguin",
+        "profile_path": ""
+      },
+      {
+        "name": "Denise Killpack",
+        "character": "Emperor Penguin",
+        "profile_path": ""
+      },
+      {
+        "name": "Felix Silla",
+        "character": "Emperor Penguin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bfbGYUWNSNShe582wfKNBNEB313.jpg"
+      },
+      {
+        "name": "Debbie Lee Carrington",
+        "character": "Emperor Penguin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zcNAFlhFIVMaaNQjv2qS9pS112s.jpg"
+      },
+      {
+        "name": "Anthony De Longis",
+        "character": "Terrifying Clown #2 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/diSeADBcychtSiDsXlrpdth5u7f.jpg"
+      },
+      {
+        "name": "Desi Singh",
+        "character": "Clown with Flaming Crossbow (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/emoqKTrp0Jx3WKQtYekN2YvhSK4.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Tim Burton",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oWZDgLRr4zgRiJEsOAtgntPd5bI.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "double life",
+    "corruption",
+    "darkness",
+    "crime fighter",
+    "superhero",
+    "hallucination",
+    "villain",
+    "christmas tree",
+    "based on comic",
+    "revenge",
+    "vigilante",
+    "dark hero",
+    "super power",
+    "super villain",
+    "deformed",
+    "bird cage",
+    "evil circus",
+    "christmas",
+    "good versus evil",
+    "burton"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "While Batman deals with a deformed man calling himself the Penguin wreaking havoc across Gotham with the help of a cruel businessman, a female employee of the latter becomes the Catwoman with her own vendetta.",
+    "In the sewers of Gotham City to the rooftops of the Gotham City, the Penguin (Danny DeVito) wants to know from where he came. Catwoman (Michelle Pfeiffer) plans to kill rich man of Gotham Max Shreck (Christopher Walken) but as he battles with millionaire Bruce Wayne (Michael Keaton) both ladies' men have their own secrets. Bruce Wayne is back as Batman trying to stop the penguin; Max is helping Penguin steal Gotham City while Selina Kyle/Catwoman tries to help Penguin not knowing her man murder target also her murder is helping him but all four men have their goals taking Gotham from crime-winning Gotham City assassination for two men and more money to be Gotham City's number one rich man.—ahmetkozan",
+    "It's time for Bruce Wayne (Michael Keaton) to put on the cape and cowl once again because Max Shreck (Christopher Walken) billionaire is teaming up with a Gotham new criminal that no one knows of and Max Shreck killed his assistant (Michelle Pfeiffer) by pushing her out of a window but she comes back perfect and she comments unbelievably good crimes like Gotham new super-villain the Penguin (Danny DeVito). Batman will stop these three villains like he did with the Joker.—ahmetkozan",
+    "After stopping The Joker's Rampage, Batman (Michael Keaton) finds himself facing the hideously grotesque Penguin (Danny DeVito)--a deformed villain who emerges from the sewers who plans to be respected into Gotham's community. Little does Batman know is that devious businessman Max Shreck (Christopher Walken) is working with the Penguin to becoming Mayor of Gotham. And they also plan to frame Batman from a different perspective. Meanwhile, Max's lowly secretary Selina Kyle (Michelle Pfeiffer) gets thrown out a window from her workplace and transforms herself into the mysterious vigilante called Catwoman. Can Batman defeat two fiendish foes at once and clear his name at the same time?—Blazer346",
+    "Having defeated The Joker, Batman (Michael Keaton) now faces the Penguin (Danny DeVito)--a warped and deformed individual who is intent on being accepted into Gotham society. Crooked businessman Max Schreck (Christopher Walken) is coerced into helping him become Mayor of Gotham and they both attempt to expose Batman in a different light. Earlier however, Selina Kyle (Michelle Pfeiffer), Max's secretary, is thrown from the top of a building and is transformed into Catwoman - a mysterious figure who has the same personality disorder as Batman. Batman must attempt to clear his name, all the time deciding just what must be done with the Catwoman.—Graeme Roy <gsr@cbmamiga.demon.co.uk>"
+  ],
+  "synopsis": "Tucker and Esther Cobblepot, an aristocratic couple, throw their deformed infant child into the sewers, feeling that Gotham's high society would not approve after witnessing their son kill their pet cat. However, a flock of penguins living in the sewers rescue him and raise him. 33 years later, the child becomes the criminal Penguin (Danny Devito). He kidnaps businessman Max Shreck, blackmailing him into helping him become a citizen of Gotham City using evidence of his corporate crimes. Meanwhile, Max finds out his secretary, Selina Kyle, has found out that Max is planning to build a power plant which will drain Gotham City of its electricity. Max pushes her out of a window, ensuring that she will not tell anyone. However, a flock of alley cats lick her corpse, reviving her. She returns home, suffers a mental breakdown and makes a homemade black vinyl catsuit and becomes a costumed vigilante under the name of \"Catwoman\" (Michelle Pfeiffer).Penguin sends one of his costumed henchman to kidnap the mayor's baby while he \"saves\" him, becoming a hero in the eyes of the people. However, billionaire Bruce Wayne (Michael Keaton) is suspicious of the Penguin and finds out that he is the leader of the Red Triangle Circus Gang who commits crimes throughout Gotham. As Batman, Bruce decides to protect Gotham from the gang. After Penguin finds out his parents are dead and his name is Oswald Cobblepot, Max decides to make Penguin the mayor of Gotham City because the current mayor will not approve of Max's power plant. To do this, Penguin has the Red Triangle Circus Gang create a riot, causing the citizens to lose all faith in the mayor, but Batman stops it. During the riot, Catwoman vandalizes Shreck's Department Store to gain revenge on Max. When Batman and Penguin confront each other, she intervenes before the store blows up. Penguin escapes as Catwoman fights Batman. Batman pushes her off a rooftop, but a litter-box on a truck saves her.The next day, Penguin and Catwoman collaborate on a plan to kill Batman. Meanwhile, Bruce and Selina develop a romantic relationship. Penguin and Catwoman kidnap the Ice Princess, an actress chosen to turn on the Gotham City Christmas Tree Lights, framing Batman for it. Batman finds her but Catwoman takes her to a rooftop where Penguin releases a swarm of flying bats which make the Princess retreat backwards, falling off, making her death seem like Batman's fault. Catwoman rejects Penguin's advances, prompting him to make an attempt on her life. Batman enters the Batmobile and finds out that Penguin has control over it, due to a device Penguin's gang installed. Penguin takes it on a devastating rampage but Batman regains control over it, escaping death.Batman, having recorded Penguin's plans during the rampage, plays it during Penguin's election speech, turning the people against him. Enraged, Penguin kidnaps all the first-born sons of Gotham City, including Max Shreck. Batman saves all the babies, forcing Penguin to execute an alternate plan to destroy the entire city with his army of penguins. Batman foils this plan by luring the penguins back to Penguins sewer base, Batman briefly fights with Penguin then pushes him into sewer water. Catwoman tries to kill Max, but Batman stops her and reveals himself as Bruce. Max shoots Batman, knocking him out and Catwoman claims that she has six of her nine lives left although Max shoots her four times, leaving her with two lives. Catwoman kisses Max with an electrical taser between their lips and breaks an electric wire, creating an explosion which kills Max but Batman cannot find Selina's corpse.\nPenguin emerges from the water but chokes on his own blood from internal injuries from the fall and his emperor penguins drag his corpse into the sewer water.Afterwards, Alfred, Bruce's butler, drives Bruce home. Suddenly, Bruce spots Selina's shadow in an alley. He investigates the area, only finding her black cat, Miss Kitty, taking her with him before exchanging Christmas wishes with Alfred. Finally, the Batsignal lights up in the night sky and Catwoman rises up into the foreground and stares at it, confirming that she is alive.",
+  "imdb_score": 7.1
+}

@@ -1,0 +1,424 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/qom1SZSENdmHFNZBXbtJAU0WTlC.jpg",
+  "id": 11036,
+  "title": "The Notebook",
+  "poster_path": "https://image.tmdb.org/t/p/w500/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+  "release_date": "2004-06-25",
+  "vote_average": 7.9,
+  "vote_count": 10904,
+  "popularity": 83.942,
+  "overview": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.",
+  "imdb_id": "tt0332280",
+  "budget": 29000000,
+  "homepage": "http://www.newline.com/properties/notebookthe.html",
+  "revenue": 115600000,
+  "runtime": 123,
+  "tagline": "Behind every great love is a great story.",
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+  "production_companies": [
+    "New Line Cinema",
+    "Avery Pix",
+    "Gran Via Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Rachel McAdams",
+        "character": "Allie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8w2QyvUke00l0JcNXEXBoCJDqCg.jpg"
+      },
+      {
+        "name": "Ryan Gosling",
+        "character": "Noah",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+      },
+      {
+        "name": "Gena Rowlands",
+        "character": "Allie Calhoun",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Hda4UFbmpufKnk48KpBuH7j05j.jpg"
+      },
+      {
+        "name": "James Garner",
+        "character": "Duke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hiPky3VwIOAlmPhJwzRovEsGDrI.jpg"
+      },
+      {
+        "name": "Sam Shepard",
+        "character": "Frank Calhoun",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mVR3Le1rSGIbQmld3Ve42RVFcyI.jpg"
+      },
+      {
+        "name": "Joan Allen",
+        "character": "Anne Hamilton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2w40UhN3WoW9G9EkLzhDcfF3t9W.jpg"
+      },
+      {
+        "name": "James Marsden",
+        "character": "Lon Hammond",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q5IesBSEarW1COJ298pyYa9EPxx.jpg"
+      },
+      {
+        "name": "David Thornton",
+        "character": "John Hamilton",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jKlG3icyzBrpOqPoimRmENf3tPf.jpg"
+      },
+      {
+        "name": "Kevin Connolly",
+        "character": "Fin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1QDmx5t0anO0wkfABfgLtkuLFOy.jpg"
+      },
+      {
+        "name": "Starletta DuPois",
+        "character": "Nurse Esther",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pRa261QaUrK03ERYG26QHYCRP0n.jpg"
+      },
+      {
+        "name": "Ed Grady",
+        "character": "Harry",
+        "profile_path": ""
+      },
+      {
+        "name": "Jennifer Echols",
+        "character": "Nurse Selma",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uZ4cfFk9vSRcIQitRPzsNafoyw4.jpg"
+      },
+      {
+        "name": "Heather Wahlquist",
+        "character": "Sara Tuffington",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qETaVUmGlJwuuWk6SHl2PdehI5e.jpg"
+      },
+      {
+        "name": "Cullen Moss",
+        "character": "Bodee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zjVvER4Bg4mz38u2JQfLgypYrSP.jpg"
+      },
+      {
+        "name": "Traci Dinwiddie",
+        "character": "Veronica",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sliBigUSroHV2Y44I2x3QarHuwb.jpg"
+      },
+      {
+        "name": "James Middleton",
+        "character": "Aaron",
+        "profile_path": ""
+      },
+      {
+        "name": "Peter Rosenfeld",
+        "character": "Professor",
+        "profile_path": ""
+      },
+      {
+        "name": "Obba Babatundé",
+        "character": "Band Leader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jkvxfhETmwR877VluO5kfbxxNER.jpg"
+      },
+      {
+        "name": "Chuck Pacheco",
+        "character": "Bus Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Todd Lewis",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Johnson",
+        "character": "Photographer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gLuXkOQjqB81aHMGJ2OtYzEpHQu.jpg"
+      },
+      {
+        "name": "Robert Fraisse",
+        "character": "Buyer #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2CTKX2yuNBwmAwKA6ACio1D0txM.jpg"
+      },
+      {
+        "name": "Barbara Weetman",
+        "character": "Buyer #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2J7cZigFhedlvmq2ZwfrLRMBq38.jpg"
+      },
+      {
+        "name": "Daniel Chamblin",
+        "character": "Buyer #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Sasha Azevedo",
+        "character": "Wife of Buyer #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Jamie Anne Allman",
+        "character": "Martha Shaw",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mA82QEpjnt9YlNa3ljppfY7pKLd.jpg"
+      },
+      {
+        "name": "Rebecca Koon",
+        "character": "Aunt Georgia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/thC89HTJU0JxerX4s1HMbEsV9mC.jpg"
+      },
+      {
+        "name": "Sandra Elise Williams",
+        "character": "Aunt Jeanette",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e7IYQZ7p12zWbaWvB9rGTP0qBFJ.jpg"
+      },
+      {
+        "name": "Deborah Hobart",
+        "character": "Aunt Kitty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iQEmuqTVO4StL1ePjfW9rZ7vYoT.jpg"
+      },
+      {
+        "name": "Sylvia Jefferies",
+        "character": "Rosemary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hajHcvChIaX7EtVsD5DPr0rnM1i.jpg"
+      },
+      {
+        "name": "Mark Garner",
+        "character": "Lon's Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Ritenour",
+        "character": "Lon's Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Milton Buras",
+        "character": "Lon's Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Elizabeth Bond",
+        "character": "Lon's Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nIJXeZjiPjSuMNjAq5TFYf3Bgc.jpg"
+      },
+      {
+        "name": "Matthew Barry",
+        "character": "Dr. Barnwell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vMkcx9n4OWm03r5IulJhbnU432n.jpg"
+      },
+      {
+        "name": "Nancy De Mayo",
+        "character": "Mary Allen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iqRoS7KswuMfhPr5iKimCfsPZrl.jpg"
+      },
+      {
+        "name": "Renée Amber",
+        "character": "Nurse at Counter",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim O'Brien",
+        "character": "Mr. Tuffington",
+        "profile_path": ""
+      },
+      {
+        "name": "Meredith O'Brien",
+        "character": "Mrs. Tuffington",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4OHDKuaJLiOEy9F0cfDuMn3ft6t.jpg"
+      },
+      {
+        "name": "Geoffrey Knight",
+        "character": "Barker",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Schaff",
+        "character": "Matthew Jamison III",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4iVFfoTZybtJO6RB3obIHJEbNge.jpg"
+      },
+      {
+        "name": "Tim Ivey",
+        "character": "Rower",
+        "profile_path": ""
+      },
+      {
+        "name": "Anthony-Michael Q. Thomas",
+        "character": "Nurse Keith",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Shelly",
+        "character": "Seabrook Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael D. Fuller",
+        "character": "Seabrook Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rndDfZdLztNvYyg6tDbodC5is4t.jpg"
+      },
+      {
+        "name": "Jonathan Parks Jordan",
+        "character": "Seabrook Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sC6oTjgPTZ3IQxd6jnmChffSlEZ.jpg"
+      },
+      {
+        "name": "Leslea Fisher",
+        "character": "Seabrook Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dcVjf8E3cuwAGR8ni6qmMMIuBB2.jpg"
+      },
+      {
+        "name": "Jude Kitchens",
+        "character": "Tommy the Ferris Wheel Operator",
+        "profile_path": ""
+      },
+      {
+        "name": "Pat Leonard",
+        "character": "Lieutenant Davis",
+        "profile_path": ""
+      },
+      {
+        "name": "Kweli Leapart",
+        "character": "Willa",
+        "profile_path": ""
+      },
+      {
+        "name": "Frederick Bingham",
+        "character": "Postman",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Czekalski",
+        "character": "Recruitment Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Bradley D. Capshaw",
+        "character": "Injured Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "James Scott Deaton",
+        "character": "Injured Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "Eve Kagan",
+        "character": "Sarah Lawrence Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephanie Wheeler",
+        "character": "Sarah Lawrence Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Erin Guzowski",
+        "character": "Sarah Lawrence Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "John Cundari",
+        "character": "Maitre D'",
+        "profile_path": ""
+      },
+      {
+        "name": "Hugh Robertson",
+        "character": "Pastor",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Washington",
+        "character": "Elgin",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Ivey",
+        "character": "Dressmaker",
+        "profile_path": ""
+      },
+      {
+        "name": "Sherril M. Turner",
+        "character": "Linda Jean",
+        "profile_path": ""
+      },
+      {
+        "name": "Meredith Zealy",
+        "character": "Maggie",
+        "profile_path": ""
+      },
+      {
+        "name": "Julianne Keller Lewis",
+        "character": "Davanee",
+        "profile_path": ""
+      },
+      {
+        "name": "Madison Wayne Ellis",
+        "character": "Noah, Jr.",
+        "profile_path": ""
+      },
+      {
+        "name": "Riley Novak",
+        "character": "Edmond",
+        "profile_path": ""
+      },
+      {
+        "name": "Ronald Betts",
+        "character": "Male Nurse",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Johansson",
+        "character": "Allie's Mom's Ex Boyfriend (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/WObwc4GELejtR1lZDCWVN9F9t7.jpg"
+      },
+      {
+        "name": "David Abrams",
+        "character": "Recruit (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bruce Williamson",
+        "character": "Carnival Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob Forrest",
+        "character": "Man Having Dinner in Retirement Home (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Taylor Engel",
+        "character": "Guy in Movie Theatre (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Nick Cassavetes",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dJUkVrUyLYJJwG8hRq0kglZ7yyv.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "secret love",
+    "based on novel or book",
+    "love of one's life",
+    "fight",
+    "poem",
+    "river",
+    "sadness",
+    "class",
+    "dementia",
+    "tears",
+    "candle",
+    "mailbox",
+    "valentine's day"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "An elderly man reads to a woman with dementia the story of two young lovers whose romance is threatened by the difference in their respective social classes.",
+    "With almost religious devotion, Duke, a kind octogenarian inmate of a peaceful nursing home, reads daily a captivating story from the worn-out pages of his leather-bound notebook to a fellow female patient. To keep her company, Duke recounts the fascinating love affair between impecunious but poetic country boy Noah and Allie, an affluent city girl. And little by little, Duke unfolds a Southern, lumber-scented summer romance beneath the tall trees of late 1930s North Carolina. Indeed, it seems as if the silent manuscript possesses the unfathomable power to penetrate the opaque clouds that enclose the silver-haired dame; slowly but surely, the enchanted lady becomes immersed in the strangely alluring fairy tale of the young ardent lovers' highs and lows. But nobody knows what tomorrow holds. Are all summer loves doomed to fail?—Nick Riganas",
+    "The movie focuses on an old man reading a story to an old woman in a nursing home. The story he reads follows two young lovers named Allie Hamilton and Noah Calhoun, who meet one evening at a carnival. But they are separated by Allie's parents who disapprove of Noah's unwealthy family, and move Allie away. After waiting for Noah to write her for several years, Allie meets and gets engaged to a handsome young soldier named Lon. Allie, then, with her love for Noah still alive, stops by Noah's 200-year-old home that he restored for her, \"to see if he's okay.\" It is evident that they still have feelings for each other, and Allie has to choose between her fiancé and her first love.—Jessica Cymerman"
+  ],
+  "synopsis": "In a modern-day nursing home, an elderly man named Duke (James Garner) begins to read a love story from his notebook to a female fellow patient (Gena Rowlands).The story begins in 1940. At a carnival in Seabrook Island, South Carolina, local country boy Noah Calhoun (Ryan Gosling) sees seventeen-year-old heiress Allie Hamilton (Rachel McAdams) for the first time and is immediately smitten. She continuously refuses his persistent advances until their well-meaning friends lure them together; they then get to know each other on a midnight walk through empty Seabrook.Noah and Allie spend an idyllic summer together. One night, a week before Allie is to leave town, she and Noah go up to an abandoned house called The Windsor Plantation. Noah tells her that he hopes to buy the house, and Allie makes him promise that the house will be white, with blue shutters, a walk-around porch, and a room that overlooks the creek so she can paint. They intend to make love for the first time, but are interrupted by Noah's friend Fin (Kevin Connolly) with the news that Allie's parents have the police out looking for her. When Allie returns home, her disapproving parents ban her from seeing Noah again. Allie fights with Noah outside and the two decide to break up. Allie immediately regrets the decision but Noah drives away. The next morning, Allie's mother reveals that they are going home that morning. Allie frantically tries to find Noah, but is forced to leave without saying good-bye. The Hamiltons then send Allie to New York, where she begins attending Sarah Lawrence College. Noah, devastated by his separation from Allie, writes her one letter a day for a year, only to get no reply as Allie's mother keeps the letters from her. Noah and Allie have no choice but to move on with their lives. Allie continues to attend school, while Noah and Fin enlist to fight in World War II. Fin is killed in battle.Allie becomes a nurse for wounded soldiers. There, she meets the wealthy Lon Hammond, Jr. (James Marsden), a well-connected young lawyer who is handsome, sophisticated, charming and comes from old Southern money. The two eventually become engaged, to the joy of Allie's parents, although Allie sees Noah's face when Lon asks her to marry him.When Noah returns home, he discovers his father has sold their home so that Noah can go ahead and buy The Windsor Plantation. While visiting Charleston to file some paper work, Noah witnesses Allie and Lon kissing at a restaurant, causing Noah to go a little crazy, convincing himself that if he fixes up the house, Allie will come back to him.While trying on her wedding dress in the 1940s, Allie is startled to read about Noah completing the house in the style section of a Raleigh newspaper and faints. She visits Noah in Seabrook and he invites her to dinner, during which Allie tells Noah about her engagement. Noah questions whether Allie's future husband is a good man and she reassures Noah that he is. Later in the evening, Noah invites Allie to come back tomorrow.In the present, it is made clear that the elderly woman is Allie suffering from dementia, which has stolen her memories and Duke is her husband. Allie does not recognize their grown children and grandchildren, who beg Duke to come home with them. He insists on staying with Allie.The next morning, Allie and Noah go rowing on a nearby lake and begin to reminisce about their summer together. As a rain storm starts Noah rows to shore, where Allie demands to know why Noah never wrote to her. After the revelation that Noah had indeed written to Allie, they share a passionate kiss, before making love into the night.The next day, Allies mother appears on Noah's doorstep, telling Allie that Lon has followed her to Seabrook after Allie's father told him about Noah. Her mother takes Allie out for a drive to show her that there had been a time in her life when she could relate to Allie's present situation. On returning to Noah's, she hands her daughter the bundle of 365 letters that Noah had written to her. When alone, Noah asks Allie what she is going to do; Allie is confused and confesses that she doesn't know. Noah asks her to just stay with him, admitting it is going to be really hard, but he is willing to go through anything because he wants to be with her. Confused as ever, Allie drives off.Allie drives to the hotel and confesses to Lon, who is angry but admits that he still loves her. He tells her that he does not want to convince his fiancée that she should be with him, but Allie tells him he does not have to, because she already knows she should be with him.The film goes back to the elderly couple, and Duke asks Allie whom she chose. She soon realizes the answer herself; young Allie appears at Noah's doorstep, having left Lon at the hotel and chosen Noah. They embrace in reunion.Elderly Allie suddenly remembers her past before she and Noah/Duke joyfully spend a brief intimate moment together; after originally finding out about her illness, she had herself written their story in the notebook with the instructions for Noah to \"Read this to me, and I'll come back to you.\" But soon Allie relapses, losing her memories of Noah yet again. She panics, and has to be sedated by the attending physician. This proves to be too difficult for Noah to watch and he breaks down. The next morning, Noah is found unconscious in bed and he is rushed to the hospital; he later returns to the nursing home's intensive care ward. He goes to Allie's room later that night, and Allie remembers again. The next morning, a nurse finds them in bed together, having both died peacefully holding each other's hands. The last scene shows a flock of birds flying away.",
+  "imdb_score": 7.8
+}

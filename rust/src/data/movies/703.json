@@ -1,0 +1,482 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+  "id": 703,
+  "title": "Annie Hall",
+  "poster_path": "https://image.tmdb.org/t/p/w500/jj46Biz1WYQZoVZfXxeT9u4XRrS.jpg",
+  "release_date": "1977-04-19",
+  "vote_average": 7.755,
+  "vote_count": 3660,
+  "popularity": 20.91,
+  "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+  "imdb_id": "tt0075686",
+  "budget": 4000000,
+  "homepage": "",
+  "revenue": 38288028,
+  "runtime": 93,
+  "tagline": "A nervous romance.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "United Artists",
+    "Rollins-Joffe Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Woody Allen",
+        "character": "Alvy Singer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wcPQgZLDibuej1RwNTy1R2U2ZJw.jpg"
+      },
+      {
+        "name": "Diane Keaton",
+        "character": "Annie Hall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/siSWRRFN9uO6iCN7y9OrHU5IaJ.jpg"
+      },
+      {
+        "name": "Tony Roberts",
+        "character": "Rob",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s77tJx3jt2tA6zNjfikaDKswobW.jpg"
+      },
+      {
+        "name": "Carol Kane",
+        "character": "Allison",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4ZPnxUFgUHND5fv6MshT3YRDLmq.jpg"
+      },
+      {
+        "name": "Paul Simon",
+        "character": "Tony Lacey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vWOVDx7feNDSpgI2njivbCeFvEu.jpg"
+      },
+      {
+        "name": "Shelley Duvall",
+        "character": "Pam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mCNjpLeTDCUMFGLfe9BvHKM2ny7.jpg"
+      },
+      {
+        "name": "Janet Margolin",
+        "character": "Robin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xtaXyIrN1NiIqsOoHNv0yHpVynP.jpg"
+      },
+      {
+        "name": "Colleen Dewhurst",
+        "character": "Mrs. Hall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rGesoW2zy7HctJ7IYclmCRe4EPk.jpg"
+      },
+      {
+        "name": "Christopher Walken",
+        "character": "Duane Hall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+      },
+      {
+        "name": "Donald Symington",
+        "character": "Dad Hall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kykKsFl3Ku2Ng2B6FXpdo5a0vq4.jpg"
+      },
+      {
+        "name": "Helen Ludlam",
+        "character": "Grammy Hall",
+        "profile_path": ""
+      },
+      {
+        "name": "Mordecai Lawner",
+        "character": "Alvy's Dad",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bqqgj2BmntDbFOvY9SzaeB9n1Ub.jpg"
+      },
+      {
+        "name": "Joan Neuman",
+        "character": "Alvy's Mom (as Joan Newman)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jonathan Munk",
+        "character": "Alvy - Age 9",
+        "profile_path": ""
+      },
+      {
+        "name": "Ruth Volner",
+        "character": "Alvy's Aunt",
+        "profile_path": ""
+      },
+      {
+        "name": "Martin Rosenblatt",
+        "character": "Alvy's Uncle",
+        "profile_path": ""
+      },
+      {
+        "name": "Hy Anzell",
+        "character": "Joey Nichols (as Hy Ansel)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2vqIJv4p4cW5g7vpCUCE4WI1KST.jpg"
+      },
+      {
+        "name": "Rashel Novikoff",
+        "character": "Aunt Tessie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ejGmxGgjQoCZXOQlrd5OF0eDvtR.jpg"
+      },
+      {
+        "name": "Russell Horton",
+        "character": "Man in Theatre Line",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zK94uMiTlCnHCAhaIeYmggPOhCj.jpg"
+      },
+      {
+        "name": "Marshall McLuhan",
+        "character": "Marshall McLuhan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sy93bnVnXVVJlFgbAewbF3ixzr5.jpg"
+      },
+      {
+        "name": "Christine Jones",
+        "character": "Dorrie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kr00U0rAD64SZr8krXpphq5koWk.jpg"
+      },
+      {
+        "name": "Mary Boylan",
+        "character": "Miss Reed",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yxPBoTfF0AircwcF3K1dlVTYKYK.jpg"
+      },
+      {
+        "name": "Wendy Girard",
+        "character": "Janet",
+        "profile_path": ""
+      },
+      {
+        "name": "John Doumanian",
+        "character": "Coke Fiend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a29DCpIYuwAC21ErdCMTTPFMsnG.jpg"
+      },
+      {
+        "name": "Bob Maroff",
+        "character": "Man #1 Outside Theatre",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8sbOtt3iGYmdM8fria3xRtOtZpU.jpg"
+      },
+      {
+        "name": "Rick Petrucelli",
+        "character": "Man #2 Outside Theatre",
+        "profile_path": ""
+      },
+      {
+        "name": "Lee Callahan",
+        "character": "Ticket Seller at Theatre",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Gampel",
+        "character": "Doctor",
+        "profile_path": ""
+      },
+      {
+        "name": "Dick Cavett",
+        "character": "Dick Cavett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7g5J47vQY2k4GzGhlJr6KdYm04P.jpg"
+      },
+      {
+        "name": "Mark Lenard",
+        "character": "Navy Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wnQUfhWRDSQ7533hKeLngmJRYDl.jpg"
+      },
+      {
+        "name": "Dan Ruskin",
+        "character": "Comedian at Rally",
+        "profile_path": ""
+      },
+      {
+        "name": "John Glover",
+        "character": "Actor Boy Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aPmq20MXqFALrUxaaJoC2Xonumo.jpg"
+      },
+      {
+        "name": "Bernie Styles",
+        "character": "Comic's Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Johnny Haymer",
+        "character": "Comic",
+        "profile_path": ""
+      },
+      {
+        "name": "Ved Bandhu",
+        "character": "Maharishi",
+        "profile_path": ""
+      },
+      {
+        "name": "John Dennis Johnston",
+        "character": "L.A. Policeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dgwzP54biUoMfQSMeA7M08bLXgx.jpg"
+      },
+      {
+        "name": "Laurie Bird",
+        "character": "Tony Lacey's Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7WEvPfn9dgcT6SM7pOmIpfc37nR.jpg"
+      },
+      {
+        "name": "Jim McKrell",
+        "character": "Lacey Party Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fjy46X3ZITbYZprD2Tem7vvRp8n.jpg"
+      },
+      {
+        "name": "Jeff Goldblum",
+        "character": "Lacey Party Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g3yaQSRPg9Rk6IvbIizoowmXKHJ.jpg"
+      },
+      {
+        "name": "William Callaway",
+        "character": "Lacey Party Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hbKZmeOoZT9okB7ckrgJQ8NBf6C.jpg"
+      },
+      {
+        "name": "Roger Newman",
+        "character": "Lacy Party Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Alan Landers",
+        "character": "Lacey Party Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Jean Sarah Frost",
+        "character": "Lacey Party Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Vince O'Brien",
+        "character": "Hotel Doctor",
+        "profile_path": ""
+      },
+      {
+        "name": "Humphrey Davis",
+        "character": "Alvy's Psychiatrist",
+        "profile_path": ""
+      },
+      {
+        "name": "Veronica Radburn",
+        "character": "Annie's Psychiatrist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/86bhBc5PjVeYmk0wQS1TQxIHPd0.jpg"
+      },
+      {
+        "name": "Robin Mary Paris",
+        "character": "Actress in Rehearsal",
+        "profile_path": ""
+      },
+      {
+        "name": "Charles Levin",
+        "character": "Actor in Rehearsal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vQhQoPthi7R85fqeTfTeyvZCeD.jpg"
+      },
+      {
+        "name": "Wayne Carson",
+        "character": "Rehearsal Stage Manager",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Karm",
+        "character": "Rehearsal Director",
+        "profile_path": ""
+      },
+      {
+        "name": "Petronia Johnson",
+        "character": "Tony's Date at Nightclub",
+        "profile_path": ""
+      },
+      {
+        "name": "Shaun Casey",
+        "character": "Tony's Date at Nightclub",
+        "profile_path": ""
+      },
+      {
+        "name": "Riccardo Bertoni",
+        "character": "Waiter #1 at Nightclub",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Aronin",
+        "character": "Waiter #2 at Nightclub",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7uvy5GYcy58bJYk079gREdQsKRN.jpg"
+      },
+      {
+        "name": "Lou Picetti",
+        "character": "Street Stranger",
+        "profile_path": ""
+      },
+      {
+        "name": "Loretta Tupper",
+        "character": "Street Stranger",
+        "profile_path": ""
+      },
+      {
+        "name": "James Burge",
+        "character": "Street Stranger",
+        "profile_path": ""
+      },
+      {
+        "name": "Shelley Hack",
+        "character": "Street Stranger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r3HYbOAtto526o3GlgVMRLdOmNe.jpg"
+      },
+      {
+        "name": "Albert M. Ottenheimer",
+        "character": "Street Stranger",
+        "profile_path": ""
+      },
+      {
+        "name": "Paula Trueman",
+        "character": "Street Stranger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/38tYhKFOAenjMqQdQYHa12cvGvE.jpg"
+      },
+      {
+        "name": "Beverly D'Angelo",
+        "character": "Actress in Rob's TV Show",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8fYQIA8dAaA4GOTxOFSKIvTqzi.jpg"
+      },
+      {
+        "name": "Tracey Walter",
+        "character": "Actor in Rob's TV Show",
+        "profile_path": "https://image.tmdb.org/t/p/w185/brqhinzxGKzqfAhOq6Npi3GFVWW.jpg"
+      },
+      {
+        "name": "David Wier",
+        "character": "Alvy's Classmate",
+        "profile_path": ""
+      },
+      {
+        "name": "Keith Dentice",
+        "character": "Alvy's Classmate",
+        "profile_path": ""
+      },
+      {
+        "name": "Susan Mellinger",
+        "character": "Alvy's Classmate",
+        "profile_path": ""
+      },
+      {
+        "name": "Hamit Perezic",
+        "character": "Alvy's Classmate",
+        "profile_path": ""
+      },
+      {
+        "name": "James Balter",
+        "character": "Alvy's Classmate",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric Bear",
+        "character": "Alvy's Classmate",
+        "profile_path": ""
+      },
+      {
+        "name": "Amy Levitan",
+        "character": "Alvy's Classmate",
+        "profile_path": ""
+      },
+      {
+        "name": "Gary Allen",
+        "character": "School Teacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Vohs",
+        "character": "School Teacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Sybil Bowan",
+        "character": "School Teacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Margaretta Warwick",
+        "character": "School Teacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucy Lee Flippin",
+        "character": "Waitress at Health Food Restaurant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wihye54ekjzvUfwO3sX6nDwgokQ.jpg"
+      },
+      {
+        "name": "Gary Mule Deer",
+        "character": "Man at Health Food Restaurant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9UY8AbSo6rTUbC89HB4VLwpqMNm.jpg"
+      },
+      {
+        "name": "Sigourney Weaver",
+        "character": "Alvy's Date Outside Theatre",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+      },
+      {
+        "name": "Walter Bernstein",
+        "character": "Annie's Date Outside Theatre",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tM6wByivWWyW7btLLTVufIQaSZK.jpg"
+      },
+      {
+        "name": "Truman Capote",
+        "character": "Truman Capote Look-Alike (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lkBM2Xu5tlGkcMgdlxo1BPJWOiP.jpg"
+      },
+      {
+        "name": "Gregory Doucette",
+        "character": "Usher (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Harrison Ressler",
+        "character": "Restaurant Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Billie Perkins",
+        "character": "Nightclub Customer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dxX4rEkhNYNv0PxZcF9VEccvk5r.jpg"
+      },
+      {
+        "name": "Kathryn Janssen",
+        "character": "Lacey Party Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Juliet Graham",
+        "character": "Blonde Woman in Bookstore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qLwD3bdNyQld6IPOkL5acjWpjdI.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Woody Allen",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wcPQgZLDibuej1RwNTy1R2U2ZJw.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "sports",
+    "tennis",
+    "narration",
+    "job interview",
+    "cocaine",
+    "neurosis",
+    "comedian",
+    "romantic comedy",
+    "love",
+    "singer",
+    "breaking the fourth wall",
+    "volkswagen beetle",
+    "lobster"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "Alvy Singer, a divorced Jewish comedian, reflects on his relationship with ex-lover Annie Hall, an aspiring nightclub singer, which ended abruptly just like his previous marriages.",
+    "Alvy Singer, a forty year old twice divorced, neurotic, intellectual Jewish New York City stand-up comic, reflects on the demise of his latest relationship, to Annie Hall, an insecure, flighty, Midwestern WASP aspiring nightclub singer. Unlike his previous relationships, Alvy believed he may have worked out all the issues in his life through fifteen years of therapy to make this relationship with Annie last, among those issues being not wanting to date any woman that would want to date him, and thus subconsciously pushing those women away. Alvy not only reviews the many ups and many downs of their relationship, but also reviews the many facets of his makeup that led to him starting to date Annie. Those facets include growing up next to Coney Island in Brooklyn, being attracted to the opposite sex for as long as he can remember, and enduring years of Jewish guilt with his constantly arguing parents.—Huggo",
+    "Comedian Alvy Singer examines the rise and fall of his relationship with struggling nightclub singer Annie Hall. Speaking directly to the audience in front of a bare background, Singer reflects briefly on his childhood and his early adult years before settling in to tell the story of how he and Annie met, fell in love, and struggled with the obstacles of modern romance, mixing surreal fantasy sequences with small moments of emotional drama.—Jwelch5742",
+    "The story of comedian Alvy Singer is recounted through a series of flashbacks that examines where his relationship with the titular lady all went wrong. Annie Hall is a aspiring nightclub singer and Alvy is a struggling writer and one day the two meet, hit it off together and eventually fall in love. The trial and tribulations of this modern romance highlights the comedy, emotion and sadness the two go through.—Kyle Perez",
+    "Romantic adventures of neurotic New York City comedian Alvy Singer and his equally neurotic girlfriend Annie Hall. The film traces the course of their relationship from their first meeting, and serves as an interesting historical document about love in the 1970s.—Scott Renshaw <as.idc@forsythe.stanford.edu>"
+  ],
+  "synopsis": "Annie Hall is a film about a comedian, Alvy Singer (Woody Allen), who falls in love with Annie Hall (Diane Keaton). Both of the characters are completely different but both strikingly entertaining and unusual. Alvy is an extreme pessimist that obsesses over the subject of death and has very sarcastic and cynical views about the world and the people around him. Annie is a ditsy and clumsy talented singer and photographer. When Alvy and Annie meet for the first time they are instantly attracted to each other and as a result their conversations are awkward but never the less adorable. The film takes you through the couple's love lives, before and after their relationship. Alvy often comes out of the scene he is in to talk directly to the audience about his views on whatever situation he is in.Alvy Singer is a neurotic comedian who desperately wants to analyze his relationship with his former girlfriend Annie Hall. The beginning is romantic. Then problems arise. He is not too enthusiastic about her idea of moving in with him, and leaving her apartment. He dislikes her habit of smoking weed before having sex and her lack of education. After she enrolls in adult education classes, she soon gets attracted to a professor. Alvy and Annie break up in a fight. He tries to calm down and starts a new relationship but with no success. After a while she calls him and they start again, convinced they will make it this time. Everything looks wonderful. But soon they both reveal to their shrinks that the relationship has gone sour again. After visiting California they break up, peacefully this time.Alvy is proud about their calm transition from relationship to friendship. He tries to date another woman but again with no success. He gets a panic attack and flies to California where Annie is in a happy relationship. She rejects him. He gets so upset that he ends up in jail. After coming back to New York he writes a play about their relationship, but with a happy ending. He meets her again later in New York with some other guy. They go for lunch as friends, remembering their good times. At the end he realizes that although relationships are absurd and irrational, we still need to go through them. We need to believe they are not what they are.",
+  "imdb_score": 8
+}

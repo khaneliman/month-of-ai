@@ -1,0 +1,646 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/fdMZRDhjQDwkNjpKrFN87D9NA8i.jpg",
+  "id": 334,
+  "title": "Magnolia",
+  "poster_path": "https://image.tmdb.org/t/p/w500/uq2u8HgtLFJkjNq2kHb2jvipIPT.jpg",
+  "release_date": "1999-12-10",
+  "vote_average": 7.734,
+  "vote_count": 3339,
+  "popularity": 23.665,
+  "overview": "An epic mosaic of many interrelated characters in search of happiness, forgiveness, and meaning in the San Fernando Valley.",
+  "imdb_id": "tt0175880",
+  "budget": 37000000,
+  "homepage": "https://www.warnerbros.com/magnolia",
+  "revenue": 48500000,
+  "runtime": 189,
+  "tagline": "Things fall down. People look up. And when it rains, it pours.",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Ghoulardi Film Company",
+    "New Line Cinema",
+    "JoAnne Sellar Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jeremy Blackman",
+        "character": "Stanley Spector",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oTqvzUVh7LOHDXgyIirfWsLV1v1.jpg"
+      },
+      {
+        "name": "Tom Cruise",
+        "character": "Frank 'T.J.' Mackey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eOh4ubpOm2Igdg0QH2ghj0mFtC.jpg"
+      },
+      {
+        "name": "Melinda Dillon",
+        "character": "Rose Gator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fefn6cQaU05EuklP25foT4xOc7I.jpg"
+      },
+      {
+        "name": "April Grace",
+        "character": "Gwenovier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nV8nnymN0ClT3xppwhlAtUnjSxa.jpg"
+      },
+      {
+        "name": "Luis Guzmán",
+        "character": "Luis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+      },
+      {
+        "name": "Philip Baker Hall",
+        "character": "Jimmy Gator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mC1wmuGSCyIQ7ABkfRe1jJV1FGV.jpg"
+      },
+      {
+        "name": "Philip Seymour Hoffman",
+        "character": "Phil Parma",
+        "profile_path": "https://image.tmdb.org/t/p/w185/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+      },
+      {
+        "name": "Ricky Jay",
+        "character": "Burt Ramsey / Narrator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xtJvNUSwIOKZ4Z4SDOYjPhvdtIN.jpg"
+      },
+      {
+        "name": "William H. Macy",
+        "character": "Quiz Kid Donnie Smith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r8L4rJlEZXKo91nJjoMXaMHHt0P.jpg"
+      },
+      {
+        "name": "Alfred Molina",
+        "character": "Solomon Solomon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+      },
+      {
+        "name": "Julianne Moore",
+        "character": "Linda Partridge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
+      },
+      {
+        "name": "Michael Murphy",
+        "character": "Alan Kligman Esq.",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3quWjoqh8vKoSXE9Ll3AC7pgsRh.jpg"
+      },
+      {
+        "name": "John C. Reilly",
+        "character": "Officer Jim Kurring",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg"
+      },
+      {
+        "name": "Jason Robards",
+        "character": "Earl Partridge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9y0HAtWWBkB02gVzh8QDdz6UYZH.jpg"
+      },
+      {
+        "name": "Melora Walters",
+        "character": "Claudia Wilson Gator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/FSxiDBekrKgmzow1j3UhmNHOhI.jpg"
+      },
+      {
+        "name": "Michael Bowen",
+        "character": "Rick Spector",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8clG1Q984hsYJSfpOVbnoJAEJb2.jpg"
+      },
+      {
+        "name": "Henry Gibson",
+        "character": "Thurston Howell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Py2ZzFfTobPIHEKRYuWHhxRDqF.jpg"
+      },
+      {
+        "name": "Felicity Huffman",
+        "character": "Cynthia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tr2qJ2yM7fuq4IRetHlQcERmLlX.jpg"
+      },
+      {
+        "name": "Emmanuel Johnson",
+        "character": "Dixon",
+        "profile_path": ""
+      },
+      {
+        "name": "Don McManus",
+        "character": "Dr. Landon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rGdpdQ0DDVDX4FlQzrdFGcOlRGB.jpg"
+      },
+      {
+        "name": "Eileen Ryan",
+        "character": "Mary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fLyoFNUCteI0VgLEH2V44HX0PeF.jpg"
+      },
+      {
+        "name": "Danny Wells",
+        "character": "Dick Jennings",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9zn943PzfmsHtnZwwtwEniYGfV2.jpg"
+      },
+      {
+        "name": "Pat Healy",
+        "character": "Sir Edmund William Godfrey / Young Pharmacy Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gWW97trwxTAi1nkY4CY1jNFMP5z.jpg"
+      },
+      {
+        "name": "Genevieve Zweig",
+        "character": "Mrs. Godfrey",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Flanagan",
+        "character": "Joseph Green",
+        "profile_path": ""
+      },
+      {
+        "name": "Neil Flynn",
+        "character": "Stanley Berry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/17td6SExyUuOf2HYuYvnUnc4Ivy.jpg"
+      },
+      {
+        "name": "Rod McLachlan",
+        "character": "Daniel Hill",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ewLwuiroXH1KclIWDXoR4rvpxtw.jpg"
+      },
+      {
+        "name": "Allan Graf",
+        "character": "Firefighter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lF8WR4XVnfkE55RfX9LDssZxygC.jpg"
+      },
+      {
+        "name": "Patton Oswalt",
+        "character": "Delmer Darion",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
+      },
+      {
+        "name": "Raymond 'Big Guy' Gonzales",
+        "character": "Reno Security Guard",
+        "profile_path": ""
+      },
+      {
+        "name": "Brad Hunt",
+        "character": "Craig Hansen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1nJHdzB0HyFiV26jGsSMqu3YTPu.jpg"
+      },
+      {
+        "name": "Jim Meskimen",
+        "character": "Forensic Scientist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/913aYSudoetrtOIA8tZPjOj9dTo.jpg"
+      },
+      {
+        "name": "Chris O'Hara",
+        "character": "Sydney Barringer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fld3KCrYr9IOTrAiKYPXgybgk1d.jpg"
+      },
+      {
+        "name": "Clement Blake",
+        "character": "Arthur Barringer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ueUSkeygA6qmgfwQRSsPc2yNDZg.jpg"
+      },
+      {
+        "name": "Frank Elmore",
+        "character": "1958 Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "John Kraft Seitz",
+        "character": "1958 Policeman",
+        "profile_path": ""
+      },
+      {
+        "name": "Cory Buck",
+        "character": "Young Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Soronen",
+        "character": "Infomercial Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Ortlieb",
+        "character": "Middle-Aged Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ehQGmHYLxnkZrxVklSgof2KfAvD.jpg"
+      },
+      {
+        "name": "Thomas Jane",
+        "character": "Young Jimmy Gator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kytPt3B4ft2DH7OMNiAsWuXkw4K.jpg"
+      },
+      {
+        "name": "Holly Houston",
+        "character": "Jimmy's Showgirl",
+        "profile_path": ""
+      },
+      {
+        "name": "Benjamin Niedens",
+        "character": "Little Donnie Smith",
+        "profile_path": ""
+      },
+      {
+        "name": "Veronica Hart",
+        "character": "Dentist Nurse #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w3gBvnH0CzJEbUHj808L1qxXvSP.jpg"
+      },
+      {
+        "name": "Missy Spell Tanner",
+        "character": "Dentist Nurse #2",
+        "profile_path": ""
+      },
+      {
+        "name": "James Kiriyama-Lem",
+        "character": "Dr. Lee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/grcdXJOIlCOGI0ydiXuVH1Jkdkg.jpg"
+      },
+      {
+        "name": "Jake Cross",
+        "character": "Pedestrian #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlie Scott",
+        "character": "Pedestrian #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Juan Medrano",
+        "character": "Nurse Juan",
+        "profile_path": ""
+      },
+      {
+        "name": "John Pritchett",
+        "character": "Police Captain",
+        "profile_path": ""
+      },
+      {
+        "name": "Cleo King",
+        "character": "Marcie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/teEPJgvrvPrNEh83FdOroNSLJzO.jpg"
+      },
+      {
+        "name": "Michael Shamus Wiles",
+        "character": "Captain Muffy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/niY4gYqAUjmnU4KRiguxpsKliWA.jpg"
+      },
+      {
+        "name": "Jason Andrews",
+        "character": "Doc",
+        "profile_path": ""
+      },
+      {
+        "name": "John S. Davies",
+        "character": "Cameraman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/octFcOhkHvFmBUOgucW9ChmeCMS.jpg"
+      },
+      {
+        "name": "Kevin Breznahan",
+        "character": "Geoff, Seminar Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4xQvli0Zks7ICEDzYwcljWbfxaT.jpg"
+      },
+      {
+        "name": "Miguel Pérez",
+        "character": "Avi Solomon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/laGQcrfJ6bAHxLmdLjfCghmuRUH.jpg"
+      },
+      {
+        "name": "David Masuda",
+        "character": "Coroner Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Neil Pepe",
+        "character": "Officer #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y5RDWeDZgkpDvraGjDrRbeqyRQS.jpg"
+      },
+      {
+        "name": "Lionel Mark Smith",
+        "character": "Detective",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ejhLI0UrMnLWCWA8Ups80CI05Rd.jpg"
+      },
+      {
+        "name": "Annette Helde",
+        "character": "Coroner Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vmWxvpUXwyPVwoaVUOmQViDOmdv.jpg"
+      },
+      {
+        "name": "Lynne Lerner",
+        "character": "Librarian",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott Burkett",
+        "character": "WDKK Page #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2HBATLuRUH2mLcj1oDlvDPgvYTI.jpg"
+      },
+      {
+        "name": "Bob Brewer",
+        "character": "Richard's Dad",
+        "profile_path": ""
+      },
+      {
+        "name": "Julie Brewer",
+        "character": "Richard's Mom",
+        "profile_path": ""
+      },
+      {
+        "name": "Nancy Marston",
+        "character": "Julia's Mom",
+        "profile_path": ""
+      },
+      {
+        "name": "Maurey Marston",
+        "character": "Julia's Dad",
+        "profile_path": ""
+      },
+      {
+        "name": "Jamala Gaither",
+        "character": "WDKK P.A.",
+        "profile_path": ""
+      },
+      {
+        "name": "Amy Brown",
+        "character": "WDKK Page #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Meagen Fay",
+        "character": "Dr. Diane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/scvzl6Ym40hdIx8yYBOw9TrlXPM.jpg"
+      },
+      {
+        "name": "Patricia Forte",
+        "character": "Mim",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick Warren",
+        "character": "Todd Geronimo",
+        "profile_path": ""
+      },
+      {
+        "name": "Orlando Jones",
+        "character": "Worm",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ypN7IS7lXOAij4rfMd4NlcF7f6R.jpg"
+      },
+      {
+        "name": "Virginia Pereira",
+        "character": "Pink Dot Girl (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Craig Kvinsland",
+        "character": "Brad the Bartender",
+        "profile_path": ""
+      },
+      {
+        "name": "Patricia Scanlon",
+        "character": "Cocktail Waitress",
+        "profile_path": ""
+      },
+      {
+        "name": "Natalie Elizabeth Marston",
+        "character": "Julia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/294KMJ3BxNnx7VTK5mSDswoDQEJ.jpg"
+      },
+      {
+        "name": "Bobby Brewer",
+        "character": "Richard",
+        "profile_path": ""
+      },
+      {
+        "name": "Clark Gregg",
+        "character": "WDKK Floor Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nbxFbr2SaF4Sdc6HdsF193GInvJ.jpg"
+      },
+      {
+        "name": "Art Frankel",
+        "character": "Old Pharmacist",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Gerald",
+        "character": "Officer #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k5iEsYWb1Prho4IO2xGTFaIwKu1.jpg"
+      },
+      {
+        "name": "Guillermo Melgarejo",
+        "character": "Pink Dot Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul F. Tompkins",
+        "character": "Chad (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nWAfT0mY4uTzQpZnPcMxRHnICCy.jpg"
+      },
+      {
+        "name": "Mary Lynn Rajskub",
+        "character": "Janet (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rJxAkgYX3RfY9x2aYo2InbEp1HL.jpg"
+      },
+      {
+        "name": "Jim Beaver",
+        "character": "Smiling Peanut Patron #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c3Cqp1XAdcyeUZKkcrdQsPwb010.jpg"
+      },
+      {
+        "name": "Ezra Buzzington",
+        "character": "Smiling Peanut Patron #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j3kJRKgQdHAMXvJUtPHXJsGGW5X.jpg"
+      },
+      {
+        "name": "Denise Woolfork",
+        "character": "Smiling Peanut Patron #3",
+        "profile_path": ""
+      },
+      {
+        "name": "New World Harmonica Trio",
+        "character": "Harmonica Players",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Downey Sr.",
+        "character": "WDKK Show Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wuyjXJFKZl0A9ZC7NwE5pDIXDKe.jpg"
+      },
+      {
+        "name": "William Mapother",
+        "character": "WDKK Show Director's Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k4TqA37bSoMz1VTyw9wPh3ptGch.jpg"
+      },
+      {
+        "name": "Larry Ballard",
+        "character": "WDKK Medic",
+        "profile_path": ""
+      },
+      {
+        "name": "Brett Higgins",
+        "character": "Mackey Disciple Twin #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Higgins",
+        "character": "Mackey Disciple Twin #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Lee Phillips Jr.",
+        "character": "Mackey Disciple in Middle",
+        "profile_path": ""
+      },
+      {
+        "name": "Lillian Adams",
+        "character": "Donnie's Old Neighbor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g3TfZxwFKxTTy1YquprDuenio7y.jpg"
+      },
+      {
+        "name": "Steven Bush",
+        "character": "Paramedic #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Massa",
+        "character": "Paramedic #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Dale Gibson",
+        "character": "Paramedic #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tSO5Qx3X3HS93odAi9jdQ5YlmWz.jpg"
+      },
+      {
+        "name": "Scott Alan Smith",
+        "character": "E.R. Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e424UmsKRjDGKfCFfW144KUHRel.jpg"
+      },
+      {
+        "name": "Paul Thomas Anderson",
+        "character": "Man Confiscating Sign (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wKAs2LtLYSUzt3ZZ8pnxMwuEWuR.jpg"
+      },
+      {
+        "name": "Bruno Angelico",
+        "character": "Fireman #2 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert Bella",
+        "character": "Detective #2 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kPIsDvr1p331HXoS16CPoz9fBKv.jpg"
+      },
+      {
+        "name": "Greg Bronson",
+        "character": "Waiter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/smF0hrek3d0bVhq0m7ENLPFQpcP.jpg"
+      },
+      {
+        "name": "Douglas Busby",
+        "character": "Extra (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marc Davies",
+        "character": "Seminar Attendee #1 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bruce Gregory",
+        "character": "Randy (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Phil Hawn",
+        "character": "Bob (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7NGVxTRGKjxYRgekHv7NF9kNVzM.jpg"
+      },
+      {
+        "name": "Ted Hollis",
+        "character": "Forensic Scientist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5OC29dvEZiTlNqH9NubRenJEqc4.jpg"
+      },
+      {
+        "name": "Spencer Kayden",
+        "character": "Seminar Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3EqWAlDHy57fHJhshtFZsAw4sL7.jpg"
+      },
+      {
+        "name": "Brian Kehew",
+        "character": "Seminar Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Laren",
+        "character": "Officer Tom 1958 (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Aimee Mann",
+        "character": "Hot Date Infomercial (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8tu8KaykmzXfvqAJ5kUeiPBu2Ln.jpg"
+      },
+      {
+        "name": "Miriam Margolyes",
+        "character": "Faye Barringer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q73xMZveDogt3e5uFknWMExLIyH.jpg"
+      },
+      {
+        "name": "Arnold Montey",
+        "character": "Arresting Police Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Ohmer",
+        "character": "Detective (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pQqLdF1l7NcyR2NotbtDcDfJMKM.jpg"
+      },
+      {
+        "name": "Colleen Pelletier",
+        "character": "Gameshow Audience Member (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Herb Santos Jr.",
+        "character": "21 Dealer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Tangen",
+        "character": "Drunken Dart Player (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Paul Thomas Anderson",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wKAs2LtLYSUzt3ZZ8pnxMwuEWuR.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "dying and death",
+    "daughter",
+    "farewell",
+    "regret",
+    "unsociability",
+    "chance",
+    "becoming an adult",
+    "parent child relationship",
+    "suicide attempt",
+    "loss of loved one",
+    "child prodigy",
+    "reconciliation",
+    "san fernando valley",
+    "multiple storylines",
+    "frog"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "An epic mosaic of interrelated characters in search of love, forgiveness and meaning in the San Fernando Valley.",
+    "24 hours in L.A.; it's raining cats and dogs. Two parallel and intercut stories dramatize men about to die: both are estranged from a grown child, both want to make contact, and neither child wants anything to do with dad. Earl Partridge's son is a charismatic misogynist; Jimmy Gator's daughter is a cokehead and waif. A mild and caring nurse intercedes for Earl, reaching the son; a prayerful and upright beat cop meets the daughter, is attracted to her, and leads her toward a new calm. Meanwhile, guilt consumes Earl's young wife, while two whiz kids, one grown and a loser and the other young and pressured, face their situations. The weather, too, is quirky.—<jhailey@hotmail.com>",
+    "In the style of Ripley's Believe It Or Not, coincidence has played a part in three bizarre deaths during the past century... Jimmy Gator has hosted the popular quiz show \"What Do Kids Know?\" in Los Angeles for over 30 years. Stanley is the brightest of the three kids currently reigning on the show. Jimmy is estranged from his daughter, Claudia. Living in her cheap apartment, Claudia is hooked on cocaine. Donnie Smith had been a famous whiz kid on Jimmy's show decades ago. Since being hit by lightning, he does promotional work for the Solomon Bros. appliance store and dreams of getting an expensive set of braces for his teeth. Frank Mackey is a very successful motivational speaker. His aggressive seminar on dating, \"Seduce and Destroy\", is well attended by frustrated bachelors. Officer Kurring answers a call at a woman's apartment and finds a corpse in her closet. Affluent producer Earl Partridge is bedridden and dying of cancer. His beautiful wife Linda married him for his money... The quiz show kids are close to setting an all-time record; Stanley feels the pressure from his father. Jimmy has learned that he has cancer and only two months to live. Officer Kurring arrives at an apartment where neighbours have complained about the noise; Claudia opens the door. Earl asks Phil, his nurse, to contact his estranged son; the younger Partridge now uses the name Frank Mackey...—David Woodfield",
+    "The film begins with a narrator telling us three separate stories based on the theme of coincidence. From there, we meet 9 characters whose lives are all connected in one way or another. We follow them all over the course of one day and watch their lives change forever.—John Reeler"
+  ],
+  "synopsis": "In the opening prologue, a narrator goes over three events of incredible coincidence:1) Sir Edmund William Godfrey, a resident of Greenberry Hill, London, was killed by three vagrants looking to rob his pharmacy. The surnames of these men were Green, Berry, and Hill.2) Reno blackjack dealer Delmer Darion went scuba diving in a lake and was accidentally picked up by a firefighting plane in order to put out a nearby forest fire. Darion died of a heart attack inside the plane. The plane's pilot, Craig Hansen, had gotten into a fight with Darion two days prior at a casino. The guilt and measure of coincidence eventually prompted him to commit suicide.3) 17-year-old Sydney Barringer attempted suicide by jumping off the roof of his Los Angeles apartment building. Meanwhile, his parents, Faye and Arthur, were arguing inside their apartment. Faye threatened Arthur with a shotgun and accidentally fired at the window just as Sydney passed, killing him. There was a safety net that would have saved Sydney's life had he not been shot. His parents hadn't known the gun was loaded; Sydney had loaded it himself a few days earlier, hoping one would kill the other. Faye was arrested for murder, and Sydney himself noted as an accomplice in his own death.San Fernando Valley, present day:Claudia Wilson Gator, a depressed and seemingly bipolar cocaine addict, meets a man at a bar. They have sex at her apartment. The next morning Claudia's father, game show host Jimmy Gator, pays a visit. He tells Claudia that he has bone cancer and that he's going to die soon. Claudia doesn't seem to care, and furiously yells him out of the house. The man from the bar leaves as well.That same morning, Nurse Phil Parma arrives at a large house to look after Earl Partridge, an elderly television mogul who's dying of brain and lung cancer. Linda Partridge, Earl's much younger trophy wife, leaves to see Earl's doctor, who writes a prescription for a potent morphine painkiller that can diminish Earl's suffering. Meanwhile, Earl tells Phil that he has a son: sex guru Frank 'T.J.' Mackey (born Jack Partridge). Earl wants to see Frank before he dies, and Phil attempts to contact him.Frank is currently leading an enthusiastic seminar for his program \"Seduce and Destroy,\" which can enable men to use women for sex. A reporter named Gwenovier arrives at the studio to interview Frank later.Quiz Kid Donnie Smith, who as a child won a large amount of money on Jimmy Gator's show \"What Do Kids Know?\" (of which Earl Partridge happens to be a producer), now works at an electronics store. However, his bosses fire him since his sales are down. He pleads with them as he needs to pay for dental braces (which he doesn't need; his teeth are straight), but they force Donnie to hand over his keys to the store.Jim Kurring, a religious police officer who is divorced and looking for a relationship, answers a noise complaint and finds a dead body inside a woman's closet. Though he was first on the scene, he is later ignored as his superior questions his fellow officers. Outside he meets a young boy named Dixon, who recites a rap referencing \"the Worm\" and God bringing rain in. Jim dismisses this as nonsense and drives off.Stanley Spector, a child genius and current long-running contestant on \"What Do Kids Know?\", is picked up from school by his avaricious actor father Rick and driven to the game show studio to win some more money. Stanley seems reluctant.Afternoon (it starts raining):\"What Do Kids Know?\" pits a panel of three children against one of three adults through a series of trivia questions. Stanley and his two co-contestants are minor celebrities thanks to their tenure on the show (in actuality, Stanley's co-contestants barely do anything; Stanley himself is the main reason this panel has lasted so long). Jimmy downs several shots of alcohol before the live taping. The show starts at 3:30 PM, and as usual, Stanley expertly answers Jimmy's questions, putting the kids ahead of the adults. During a commercial break, Stanley asks to go to the bathroom, but he is denied this request.Officer Jim answers a noise complaint at Claudia's apartment, where she is playing her music too loudly. After hiding her cocaine, she opens the door, and Jim is immediately smitten with her. He takes a look around and decides not to write her up, but not wanting to leave yet, he makes casual conversation with her.Donnie enters a bar (the same one where Claudia was the previous night), where it is revealed why he wants braces: he is desperate to connect with his crush, Brad the bartender, who wears braces. Donnie drinks heavily after Brad seemingly flirts with another patron named Thurston Howell. He later starts up a conversation with Howell, lamenting on love, as well as the fact that his parents abandoned him after taking all of his game show money.Linda goes to a pharmacy to pick up some medication, including Earl's morphine. The pharmacist tries making idle conversation with her, but she eventually finds his questions too personal and launches into a furious tirade before leaving with the medication.Phil orders some pornographic magazines to find the number of \"Seduce and Destroy.\" He calls and tries to make his way through to Frank. Later one of Earl's dogs eats some medication pills that Phil accidentally spilled.The seminar takes a break as Gwenovier interviews Frank. The interview turns hostile when she questions him about his father Earl, whom he earlier lied was dead. After going over how Earl abandoned his first wife Lily when she became ill and of how a young Frank had to take care of her as she lay on her deathbed, Gwenovier asks Frank why he lied.Late afternoon to nightfall:Linda tells her lawyer that she wants to change Earl's will; she reveals that she has cheated on Earl many times and only started to love him when he was diagnosed with cancer. The lawyer says she can't change the will, but she can renounce it. Linda can't do that, as the money would then go to Frank (Earl has lied to her about his relationship with Frank, blaming his son for the distance between them). Frustrated, she returns home. She attempts suicide in the garage via carbon monoxide, but stops herself to bring the morphine inside.A drunken Donnie confesses his feelings to Brad, and vomits in the bathroom. He later returns home and gathers some secretly-made spare keys to his former employers' store, planning to rob the money for the braces.Realizing that the people around him are using him for money or publicity, Stanley stops answering questions, which lets the adult panel get ahead. He wets his pants during a round, while Jimmy collapses from his deteriorating condition. Jimmy recovers, but Stanley refuses to get up for the final round and instead goes into a rant about how people look at him just because of his age and intelligence. The show is forced to end without a clear winner (though it is implied that the adults win thanks to their accumulated score). Rick is furious. Stanley flees the studio and breaks into his school library, hiding there and perusing books about child geniuses for the rest of the night. Jimmy returns home to his wife Rose.Officer Jim leaves the apartment, but not before arranging a date with Claudia later that night. After he leaves, Claudia puts the cocaine back on her table and turns on the TV to watch \"What Do Kids Know?\", just in time to catch Stanley's rant. As the show ends, Claudia cries for an unclear reason.While driving, Jim spots a suspicious man (known by his criminal nickname \"the Worm\") and takes chase. The Worm shoots at Jim, while Dixon runs in and steals Jim's gun. Both Dixon and the Worm flee, and Jim becomes a laughingstock among his fellow officers for having lost his gun. He returns home to get ready for his date.As Phil gets in touch with Frank's assistant, a cold and indignant Frank stays mostly silent throughout the rest of the interview. Afterwards, Frank deliberates over whether to take Phil's call. Linda enters the house and, upon learning who Phil is calling, violently forces him to hang up. Frank decides not to speak with Phil and hangs up as well. The seminar continues, but Frank's now-troubled mindset causes him to make an error and lose his temper. After the seminar he changes his mind and drives to Earl's house, though he hesitates to go inside.After a tearful apology to Phil, Linda leaves to commit suicide. She parks at another location and takes some medication with alcohol, while Earl laments to Phil about the regret that has tortured him over his son and first wife (Earl was extremely unfaithful to Lily, mirroring Linda). Phil then gives Earl the morphine.What follows is a bizarre, somber sequence where the nine main characters sing along to Aimee Mann's \"Wise Up.\"Night (it stops raining):Claudia and Jim go to a restaurant. The date goes bad when, following a kiss, Claudia's neurotic self-hatred causes her to break down and leave without Jim. She takes a taxi home.Jimmy admits to Rose that he has cheated on her in the past. They later talk about Claudia, and he implies (but never openly admits) that the reason she hates him is that he molested her. Disgusted and outraged, Rose leaves the house, yelling that Jimmy deserves to die alone. Jimmy then takes out a gun and prepares to end his life.Linda's dying body is found by Dixon, who steals her money and calls 911. An ambulance takes her and heads for the hospital, while nearby Dixon counts his cash and recites his rap again.Frank enters the house and speaks to Earl (who is unresponsive because of the morphine) as Phil watches solemnly. Though silently hostile at first, Frank soon breaks down in tears and begs Earl not to go away.Donnie successfully robs the store and leaves, though one of his keys breaks off in the door. The weight of his act later hits him, and he decides to return the money. Since his key is broken, he tries to access another entrance by climbing an adjacent telephone pole.Jim drives by and sees Donnie climbing the phone pole. He turns around to arrest Donnie, but stops when it begins to rain frogs. One frog hits Donnie, who falls off the pole and injures his teeth on the pavement.The frogs start falling as Claudia snorts coke in her apartment. After crashing her car due to the frogs, Rose arrives and comforts her frightened daughter.The frogs cause Linda's ambulance to tip over during the drive, just as it arrives at the hospital.A frog falls through Jimmy's ceiling and lands on his head, causing him to accidentally shoot a TV. He falls, unconscious, as a spark from the gunshot starts a fire...From inside the library, Stanley watches the frog storm, smiles, and calmly comments that \"This is something that happens.\"As Phil gazes at the frogs, Earl wakes up, sees Frank, and struggles to say something. Before he can utter a coherent word, he dies.The next morning:Stanley returns home and wakes Rick, who apparently has not tried very hard to find his son. Stanley tells Rick to be nicer to him, but Rick coldly tells him to go to bed.Earl's body is taken away, along with that of the dog who ate his pills. Phil cries as he makes Earl's now-empty bed. When the hospital calls, Frank heads there to see Linda, who is recovering.Jim gets his gun back when it drops from the sky. After hearing his story, he decides not to arrest Donnie, and the two enter the store and put the money back, though Donnie now does need braces. After helping clean the frogs off of Donnie's car, he refers Donnie to someone who can correct his teeth. After Donnie leaves, Jim sits in his car and monologues about his duty as a policeman and about knowing when to forgive people.Rose goes to answer the door as Claudia sits in bed. Jim soon enters the room and talks to Claudia, making a speech about how he will love and accept her for who she is. During the speech Claudia looks sad and uncertain, but afterward she breaks the fourth wall and smiles at the viewer.",
+  "imdb_score": 8
+}

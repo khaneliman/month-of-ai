@@ -1,0 +1,297 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/t8n5mvmnJUYJkyfOPWYEtvqePuM.jpg",
+  "id": 1788,
+  "title": "Footloose",
+  "poster_path": "https://image.tmdb.org/t/p/w500/9JEDjBCXCx3eKTSkXwispf0UN3O.jpg",
+  "release_date": "1984-02-17",
+  "vote_average": 6.7,
+  "vote_count": 1880,
+  "popularity": 22.122,
+  "overview": "When teenager Ren and his family move from big-city Chicago to a small town in the West, he's in for a real case of culture shock after discovering he's living in a place where music and dancing are illegal.",
+  "imdb_id": "tt0087277",
+  "budget": 8200000,
+  "homepage": "",
+  "revenue": 80035402,
+  "runtime": 107,
+  "tagline": "The music is on his side.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "Paramount",
+    "IndieProd Company Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Kevin Bacon",
+        "character": "Ren McCormack",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
+      },
+      {
+        "name": "Lori Singer",
+        "character": "Ariel Moore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rcp1Gmaf3W0pUQia2mXn92XCZ5s.jpg"
+      },
+      {
+        "name": "John Lithgow",
+        "character": "Reverend Shaw Moore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Y1sjBdnVR483S8PrnAQzlESwhx.jpg"
+      },
+      {
+        "name": "Dianne Wiest",
+        "character": "Vi Moore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p9mfzY68FtEbedOMNB5X4eBShhx.jpg"
+      },
+      {
+        "name": "Chris Penn",
+        "character": "Willard Hewitt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9yvXUh10ZVSapGuem5daebveqR4.jpg"
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "character": "Rusty",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AmW3xHO6nFWoCVWSsU1tQ2s2yw2.jpg"
+      },
+      {
+        "name": "Jim Youngs",
+        "character": "Chuck Cranston",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6AQCIo2cQYxuWgwkRSZ15Y7tPiu.jpg"
+      },
+      {
+        "name": "John Laughlin",
+        "character": "Woody",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4qf0XXBWk53VOMrQkR8yQ7d8O0l.jpg"
+      },
+      {
+        "name": "Elizabeth Gorcey",
+        "character": "Wendy Jo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dtJfdomvik5F5jUuHER9YeTNyXC.jpg"
+      },
+      {
+        "name": "Frances Lee McCain",
+        "character": "Ethel McCormack",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cpG16FA90mQ4xC6xxTsUu1p2yRr.jpg"
+      },
+      {
+        "name": "Douglas Dirkson",
+        "character": "Burlington Cranston",
+        "profile_path": ""
+      },
+      {
+        "name": "Lynne Marta",
+        "character": "Lulu Warnicker",
+        "profile_path": ""
+      },
+      {
+        "name": "Arthur Rosenberg",
+        "character": "Wes Warnicker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t9O9LFof5DJoWLOmDHXQm8bl8e8.jpg"
+      },
+      {
+        "name": "Timothy Scott",
+        "character": "Andy Beamis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1KXqxseXqcbkQTHvybJArdLtdbs.jpg"
+      },
+      {
+        "name": "Alan Haufrect",
+        "character": "Coach Roger Dunbar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3DdtSxU6ho8Cv6niWfNdw10dWzl.jpg"
+      },
+      {
+        "name": "Linda MacEwen",
+        "character": "Eleanor Dunbar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ossLvr2h86yhLWmtUcgoqhGbypc.jpg"
+      },
+      {
+        "name": "Kim Jensen",
+        "character": "Edna",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Telmont",
+        "character": "Travis",
+        "profile_path": ""
+      },
+      {
+        "name": "Leo Geter",
+        "character": "Rich",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7vBLH6fUHVlwLzuJLYTOS1062oc.jpg"
+      },
+      {
+        "name": "Ken Kemp",
+        "character": "Jeff",
+        "profile_path": ""
+      },
+      {
+        "name": "Russ McGinn",
+        "character": "Herb",
+        "profile_path": ""
+      },
+      {
+        "name": "Sam Dalton",
+        "character": "Mr. Gurntz",
+        "profile_path": ""
+      },
+      {
+        "name": "H.E.D. Redford",
+        "character": "Widdoes",
+        "profile_path": ""
+      },
+      {
+        "name": "Jay Bernard",
+        "character": "Harvey",
+        "profile_path": ""
+      },
+      {
+        "name": "David Valenza",
+        "character": "Team Member",
+        "profile_path": ""
+      },
+      {
+        "name": "Meghan Broadhead",
+        "character": "Sarah Warnicker",
+        "profile_path": ""
+      },
+      {
+        "name": "Mimi Broadhead",
+        "character": "Amy Warnicker",
+        "profile_path": ""
+      },
+      {
+        "name": "Gene Pack",
+        "character": "Bernie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dFH6JYE1Q7v19fWr5Gd8lze9efc.jpg"
+      },
+      {
+        "name": "Marcia Dangerfield",
+        "character": "Virginia",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8lL70nU8sSj3cb3Fq5sLP3gpejO.jpg"
+      },
+      {
+        "name": "John Perryman",
+        "character": "Fat cowboy",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary Ethel Gregory",
+        "character": "Mrs. Allyson",
+        "profile_path": ""
+      },
+      {
+        "name": "Oscar Rowland",
+        "character": "Mr. Walsh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r2Nrbfes0mxoYslDOJpA7xHnJLI.jpg"
+      },
+      {
+        "name": "J. Paul Broadhead",
+        "character": "Mayor Dooley",
+        "profile_path": ""
+      },
+      {
+        "name": "John Bishop",
+        "character": "Elvis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mrazonYHhCiK3zMzOfSSkivf9Lm.jpg"
+      },
+      {
+        "name": "Carmen Trevino",
+        "character": "Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Melissa Renee Graehl",
+        "character": "Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Monica M. Da Silva",
+        "character": "Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Terri Gay Ulmer",
+        "character": "Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Brandyn Cross",
+        "character": "Party Kid",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cynkSCF3uIFDTs0ywvQktLCEesT.jpg"
+      },
+      {
+        "name": "Kevin Denson",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Flynn",
+        "character": "Policeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wKrYz7dO9dEbJBIVHTiNdzib8FD.jpg"
+      },
+      {
+        "name": "Deborah Frazier",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrea Hays",
+        "character": "Bar Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rt2tefeNclvV3Nmkzg8t3gHWhbs.jpg"
+      },
+      {
+        "name": "Michele Laurita",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian L. McCarty",
+        "character": "Nerdy DJ",
+        "profile_path": ""
+      },
+      {
+        "name": "Alison Trouse",
+        "character": "Cowgirl Bar Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Brian Wimmer",
+        "character": "Extra",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rgNyMoXYbQHptCgTuvXNimWMeNl.jpg"
+      },
+      {
+        "name": "Peter Tramm",
+        "character": "Stunt Dancer",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Herbert Ross",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zeeqJjMyWhYHDUyjqkwHAJtOMgn.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "dancing",
+    "dance",
+    "dancer",
+    "volkswagen beetle",
+    "dance teacher",
+    "father daughter relationship",
+    "music movie"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "A city teenager moves to a small town where rock music and dancing have been banned, and his rebellious spirit shakes up the populace.",
+    "Big-city teenager Ren relocates from Chicago to the small rural town of Bomont, where its inhabitants have imposed an unjust ban on Rock 'n' Roll and dancing. Feeling trapped and confused, Ren tries to fit in; however, he will soon find himself neck-deep in trouble when beautiful Ariel Moore, the preacher's daughter, catches his eye. Now, to convince the city council to lift the ban on dancing, Ren has no choice but to fight prejudice and the community's fire-and-brimstone preacher through dance. But is Ren fighting a losing battle?—Nick Riganas",
+    "Classic tale of teenage rebellion and repression features a delightful combination of dance choreography and realistic and touching performances. When teenager Ren McCormack and his family move from big-city Chicago to a small Midwestern town, he's in for a real case of culture shock. Though he tries hard to fit in, the streetwise Ren can't quite believe he's living in a place where rock music and dancing are illegal. However, there is one small pleasure: Ariel Moore, a troubled but lovely blonde with a jealous boyfriend. And a Bible-thumping minister, who is responsible for keeping the town dance-free. Ren and his classmates want to do away with this ordinance, especially since the senior prom is around the corner, but only Ren has the courage to initiate a battle to abolish the outmoded ban and revitalize the spirit of the repressed townspeople. Fast-paced drama is filled with such now-famous hit songs as the title track and \"Let's Hear It for the Boy\".—Anonymous"
+  ],
+  "synopsis": "From Wikipedia (2024):Chicago native Ren McCormack and his mother Ethel move to the small town of Bomont to live with Ren's aunt and uncle. While attending church, Ren meets Reverend Shaw Moore, his wife Vi, and their daughter Ariel. Ariel rebels against Shaw's strict religious nature and behaves recklessly.At school, Ren befriends Willard Hewitt. Ren soon learns that the town council has banned dancing and rock music within the town boundary. Ren soon falls for Ariel, angering her boyfriend, Chuck Cranston, who challenges Ren to a game of chicken involving tractors. Ren wins the challenge.Distrusting Ren's influence, Reverend Moore forbids Ariel from seeing him. Ren drives Willard, Ariel, and her friend, Rusty, to a country bar in the neighboring county to go dancing. Willard, unable to dance, becomes jealous and gets into a fight with a man dancing with Rusty. On the drive home, Ariel describes how, five years earlier, her older brother died in a car accident after a night of alcohol and dancing. Reverend Moore then persuaded the town council to enact strict anti-liquor, anti-drug, and anti-dance laws. Ren decides to challenge the anti-dancing and rock music ordinance so that the high school can hold a senior prom.Willard is embarrassed he cannot dance, so Ren teaches him. Chuck confronts Ariel about her feelings towards Ren and the two get into an physical altercation before breaking up. Ren helps Ariel clean herself up before going home, cementing their relationship. Later that night, someone throws a brick with the words, \"Burn in Hell,\" through a window at Ren's house. When his uncle criticizes Ren's outspoken behavior, Ethel tells Ren that though his actions cost her her job, he should stand up for what he believes is right.With Ariel's help, Ren goes before the town council to advocate revoking the anti-dancing law. He reads several Bible verses and cites scriptural significance of dancing as a way to rejoice, exercise, and celebrate. Although Reverend Moore is moved, the council votes against Ren's proposal, but Vi, who supports the movement, tells Moore that he cannot be everyone's father, and that he is hardly being one to Ariel.Despite further discussion with Ren about his own family losses and Ariel telling her father she is not a virgin, Rev. Moore does not change his stance. The next day, Moore sees members of his congregation burning library books that they claim endanger the town's youth. Realizing the situation has become uncontrollable, Moore stops the book-burners, chastises them, and sends them home.The following Sunday, Reverend Moore asks his congregation to pray for the high school students putting on the prom, being held in a grain mill just yards over the county line and beyond Bomont's jurisdiction. On prom night, Moore and Vi listen from outside the mill. Chuck and his friends arrive and attack Willard; Ren arrives in time to even the odds and knocks out Chuck. Ren, Ariel, Willard, and Rusty rejoin the party and happily dance the night away.",
+  "imdb_score": 6.6
+}

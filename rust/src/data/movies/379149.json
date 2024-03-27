@@ -1,0 +1,583 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/sDiGcjWhSu42dCw0jQmBInAkDZ9.jpg",
+  "id": 379149,
+  "title": "The Foreigner",
+  "poster_path": "https://image.tmdb.org/t/p/w500/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg",
+  "release_date": "2017-09-28",
+  "vote_average": 6.965,
+  "vote_count": 2469,
+  "popularity": 38.194,
+  "overview": "Quan is a humble London businessman whose long-buried past erupts in a revenge-fueled vendetta when the only person left for him to love – his teenage daughter – dies in an Irish Republican Army car bombing. His relentless search to find the terrorists leads to a cat-and-mouse conflict with a British government official whose own past may hold the clues to the identities of the elusive killers.",
+  "imdb_id": "tt1615160",
+  "budget": 35000000,
+  "homepage": "http://theforeignermovie.com/",
+  "revenue": 145374099,
+  "runtime": 113,
+  "tagline": "Never push a good man too far",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Sparkle Roll Media",
+    "STXfilms",
+    "Arthur Sarkissian Productions",
+    "The Entertainer Production Company",
+    "Orange Corp",
+    "Wanda Media Co.",
+    "Huayi Brothers Pictures",
+    "Prosperity Pictures"
+  ],
+  "production_countries": [
+    "CN",
+    "IN",
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Pierce Brosnan",
+        "character": "Liam Hennessy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AdFQZh4iGRT0qjwU9hTmTtyQ1xJ.jpg"
+      },
+      {
+        "name": "Jackie Chan",
+        "character": "Quan Ngoc Minh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+      },
+      {
+        "name": "Rory Fleck-Byrne",
+        "character": "Sean Morrison",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iwPrSa41IxD5jy3Fb7IVF0O5DQ2.jpg"
+      },
+      {
+        "name": "Ray Fearon",
+        "character": "Commander Richard Bromley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ou2cqhqdhfQoKVEBpIh0P3sKZti.jpg"
+      },
+      {
+        "name": "Charlie Murphy",
+        "character": "Maggie / Sara McKay",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AaugO5Qq1Opp3Dv6JuH5ESJYmo9.jpg"
+      },
+      {
+        "name": "Orla Brady",
+        "character": "Mary Hennessy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9qgDEuoAzblmIxE8mFdE91wJsNr.jpg"
+      },
+      {
+        "name": "Michael McElhatton",
+        "character": "Jim Kavanagh",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aPjuV6N10zAJMr55lAIvnpdsNgE.jpg"
+      },
+      {
+        "name": "Lia Williams",
+        "character": "Katherine Davies",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d7BIswSeHeAdIobNjsWEFG2uj1H.jpg"
+      },
+      {
+        "name": "Dermot Crowley",
+        "character": "Hugh McGrath",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wQN9dvOXdecRtUAgOx8xSMC1gyh.jpg"
+      },
+      {
+        "name": "Stephen Hogan",
+        "character": "Christy Murphy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wLmVf0LGfYsgH5PNDxRGO7MlzwK.jpg"
+      },
+      {
+        "name": "Liu Tao",
+        "character": "Lam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8OlTZvZoXqT96Powhph4sML805V.jpg"
+      },
+      {
+        "name": "Katie Leung",
+        "character": "Fan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/umKxfBnY4SVl4344of8NniU5MQ0.jpg"
+      },
+      {
+        "name": "Simon Kunz",
+        "character": "Matthew Rice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w7dnmzVxXVYnvCwSCYOygTNBhGr.jpg"
+      },
+      {
+        "name": "Pippa Bennett-Warner",
+        "character": "Marissa Levett",
+        "profile_path": "https://image.tmdb.org/t/p/w185/715ALI0JYSEVZdoHQiRPij5KK5W.jpg"
+      },
+      {
+        "name": "Roberta Taylor",
+        "character": "Mrs. Taylor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/89SuF1eOL3FbLEmJzJvQvY2pXjR.jpg"
+      },
+      {
+        "name": "Rufus Jones",
+        "character": "Ian Wood",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sGgwNVXCvDOC4x9CtJqQAFida8N.jpg"
+      },
+      {
+        "name": "Niall McNamee",
+        "character": "Patrick O'Reilly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ufK1lbnWLWVuyV6cI4KR70h5BP6.jpg"
+      },
+      {
+        "name": "Jorge Leon Martinez",
+        "character": "Forensic Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sogpJVsJqRQYgh9JbomIzUwlgII.jpg"
+      },
+      {
+        "name": "Dilyana Bouklieva",
+        "character": "Paramedic (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lbQBQWnn9hBV1r3tZbRjlGw3IiW.jpg"
+      },
+      {
+        "name": "Mark Tandy",
+        "character": "Simpson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ovpGg9YwdH0Peo4f1wtdHMwbArw.jpg"
+      },
+      {
+        "name": "Paul Terry",
+        "character": "I.R.A. Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dino Fazzani",
+        "character": "Firefighter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w1JLYkc5n8AArRGPGN4Oifvxx9Z.jpg"
+      },
+      {
+        "name": "Lee Nicholas Harris",
+        "character": "Police officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9crQhkCT2HJnLKW8THeteZnTeEJ.jpg"
+      },
+      {
+        "name": "Branwell Donaghey",
+        "character": "Ginge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gC0idonPVZ5LlHCDis7MDuAAbBa.jpg"
+      },
+      {
+        "name": "Dolly Jagdeo",
+        "character": "Teacher (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Glenn Webster",
+        "character": "Police Officer / SO19 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sf0dlJy5GcoIejnOxF641WoqWn9.jpg"
+      },
+      {
+        "name": "James O'Donnell",
+        "character": "Sniper 3 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6Hg9o41zQAA3e0iJkHBbVst40ZF.jpg"
+      },
+      {
+        "name": "Sean Campion",
+        "character": "Byard Cary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a1ttYPaeFuct89ikL1oj5HNB6zh.jpg"
+      },
+      {
+        "name": "Ilan Goodman",
+        "character": "Landesman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z2CXNPaWJwHxzaFCYK4ZeU40r8U.jpg"
+      },
+      {
+        "name": "Ryan Early",
+        "character": "Scotland Yard Receptionist",
+        "profile_path": ""
+      },
+      {
+        "name": "David Annen",
+        "character": "Prime Minister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tqWGKk9PXb4sizfEF0CW4LWGRk4.jpg"
+      },
+      {
+        "name": "Simon Lenagan",
+        "character": "Electrician",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gHX0eakDGXnfgh7GeaKKDN9rn67.jpg"
+      },
+      {
+        "name": "Caolan Byrne",
+        "character": "McCormick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tyeuqPtRqRTV73cLJuoGbwZDwEZ.jpg"
+      },
+      {
+        "name": "Ekran Mustafa",
+        "character": "Pub Punter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Ray",
+        "character": "Businessman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Billington",
+        "character": "MI5 Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r85tBNKXgidQ8K3V83JGP83mTpG.jpg"
+      },
+      {
+        "name": "Rohan Mehra",
+        "character": "News Reporter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrian McGaw",
+        "character": "Jacko (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Glen Stanway",
+        "character": "Hennessy Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Pete Meads",
+        "character": "Traffic Walden (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Gerald Tomkinson",
+        "character": "Airport Passenger (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Groundsell",
+        "character": "Bridge Passerby (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i3Uk2jY4nPGE37nAmfjakfEQqGz.jpg"
+      },
+      {
+        "name": "Billy Totham",
+        "character": "Footballer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jane Thorne",
+        "character": "Mrs. McAllister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wZnyLVOfkIrhEsNQFADSa5bAeBw.jpg"
+      },
+      {
+        "name": "Shaun Lucas",
+        "character": "Dog Walker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Bron James",
+        "character": "Journalist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Edward Scott-Clarke",
+        "character": "Prime Minister's Aide (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Twine",
+        "character": "News Reporting Camera Operator (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Rentell",
+        "character": "Police Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tim Baros",
+        "character": "Passerby (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Windham",
+        "character": "Pub Punter (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Emma Jerrold",
+        "character": "Woman at Airport Bar",
+        "profile_path": ""
+      },
+      {
+        "name": "Alexander Cooper",
+        "character": "Airport passenger (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Pamela Betsy Cooper",
+        "character": "Business Women (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "John Cronin",
+        "character": "Denis Fisher",
+        "profile_path": ""
+      },
+      {
+        "name": "Donna Bernard",
+        "character": "Channel A News Anchor",
+        "profile_path": ""
+      },
+      {
+        "name": "Aaron Monaghan",
+        "character": "Pat Nugent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sLzZAFBiNzlx2BMqGq0383RYbax.jpg"
+      },
+      {
+        "name": "David Pearse",
+        "character": "Billy McMahon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sFwZ5S0dbwfhYIMPOw9MAOYt817.jpg"
+      },
+      {
+        "name": "Scott Sparrow",
+        "character": "Daniel Barrie",
+        "profile_path": ""
+      },
+      {
+        "name": "Seán Gleeson",
+        "character": "Billy Mahre",
+        "profile_path": ""
+      },
+      {
+        "name": "Thusitha Jayasundera",
+        "character": "Mira",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a4cnDMw1ofYsYtf3nBf4cecgQdW.jpg"
+      },
+      {
+        "name": "Jonathan Cullen",
+        "character": "Security Expert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aj4pkMWZz7e3Wfk7mXibZtWFe8N.jpg"
+      },
+      {
+        "name": "Grainne Keenan",
+        "character": "Beth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qnYrRoNtwZcgKIPR7eAAo1m7ucm.jpg"
+      },
+      {
+        "name": "Stuart Graham",
+        "character": "Inspector Donal Greig",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kLmI6avVGCNGXeW7M7o1lT5fAyD.jpg"
+      },
+      {
+        "name": "Julian Druker",
+        "character": "Channel B News Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Robin Oakley",
+        "character": "Channel B News Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Aden Gillett",
+        "character": "Ross",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vAZxWxwFoXSICZ8UreoCZ3X1eg9.jpg"
+      },
+      {
+        "name": "Charlie Bewley",
+        "character": "Joker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vvtZcMbwcex3fF7epYllNNuldDw.jpg"
+      },
+      {
+        "name": "Bill Buckhurst",
+        "character": "Airport Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/du7MlmYR211LaXSzNR7SOm1F7RC.jpg"
+      },
+      {
+        "name": "Neal Beagley",
+        "character": "Hardened IRA (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Roberto Gomez Martin",
+        "character": "TV News Cameraman (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Hudson",
+        "character": "Hennessy Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1OrwAIDUYbwZXOWbF5FZtgGMsCI.jpg"
+      },
+      {
+        "name": "Hugh Irvine",
+        "character": "Belfast Business Man (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Yangmeizi Wang",
+        "character": "Quan's Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qkYTbSTYhCQ10kkm2CvFSYlMiZN.jpg"
+      },
+      {
+        "name": "Yuchen Xie",
+        "character": "Quan's Daughter",
+        "profile_path": ""
+      },
+      {
+        "name": "Liang Hao",
+        "character": "Quan's Daughter",
+        "profile_path": ""
+      },
+      {
+        "name": "Lasco Atkins",
+        "character": "Soundman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q0o1l6ss7ZEENyD9mk4hDPL0g5b.jpg"
+      },
+      {
+        "name": "Lee Paul Atkinson",
+        "character": "Shop Blast Victim Right Arm Amputee (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Battershill",
+        "character": "Police Officer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Roy Beck",
+        "character": "IRA Hit Man (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aUxisX1yyK0W3uTnnxxqLDxlgH8.jpg"
+      },
+      {
+        "name": "David J Biscoe",
+        "character": "Police Sargent (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "David Cromarty",
+        "character": "Hennessy Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tom Dab",
+        "character": "Passerby (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Begoña Fernández Martín",
+        "character": "Airport Passenger (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Melissa Galloway",
+        "character": "Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Caroline Glass",
+        "character": "Journalist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zzW8gDIddN0rD7BrddDm74h6Hnm.jpg"
+      },
+      {
+        "name": "Doug Grant",
+        "character": "IRA Commander (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Philip Harvey",
+        "character": "Detective (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kornelia Horvath",
+        "character": "Passerby (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jaey Howe",
+        "character": "IRA Gang Leader (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Marian Lorencik",
+        "character": "Takeaway Passerby (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xAQrvjx7EI5vIV8I7ebUyGqTAin.jpg"
+      },
+      {
+        "name": "Hamza Malik",
+        "character": "Pedestrian (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Garry Marriott",
+        "character": "Paramedic (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul A Munday",
+        "character": "Construction Worker (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Shina Shihoko Nagai",
+        "character": "Journalist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ella Parsons",
+        "character": "Hockey Player (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lewis Roe",
+        "character": "Journalist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Ryder",
+        "character": "IRA Henchman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aAS2xgcluE7rB7CivaB7z9BIids.jpg"
+      },
+      {
+        "name": "Maurice Sardison",
+        "character": "Business Traveler (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lMZGskZZasQFXgnaDk7BLtZZQhH.jpg"
+      },
+      {
+        "name": "Mark Shrimpton",
+        "character": "MI5 Technician (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlotte Worwood",
+        "character": "Burn Victim (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xNFTj607XZBY0cmQdrTjEPo8vMG.jpg"
+      },
+      {
+        "name": "Roseline Yale",
+        "character": "Passenger (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Watts",
+        "character": "Lout (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Martin Campbell",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4AiUb5lciEXdgOXFWAdebQUhEb9.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "london, england",
+    "based on novel or book",
+    "bomb",
+    "revenge",
+    "terrorism",
+    "ira (irish republican army)",
+    "ireland",
+    "death",
+    "united kingdom"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A humble businessman with a buried past seeks justice when his daughter is killed in an act of terrorism. A cat-and-mouse conflict ensues with a government official, whose past may hold clues to the killers' identities.",
+    "The story of humble London businessman Quan (Chan), whose long-buried past erupts in a revenge-fueled vendetta when the only person left for him to love - his teenage daughter - is taken from him in a senseless act of politically-motivated terrorism. In his relentless search for the identity of the terrorists, Quan is forced into a cat- and-mouse conflict with a Irish government official (Brosnan), whose own past may hold clues to the identities of the elusive killers.—STXfilms",
+    "Minh Quan runs a Chinese restaurant in London with his business partner Lam. When his teenage daughter Fan is killed in a clothing store bombing, he seeks revenge. The bombing is claimed by a group calling itself the \"Authentic IRA\". Failing to get the names of the bombers from Scotland Yard, Quan next focuses on the Northern Ireland deputy First Minister Liam Hennessy, who speaks publicly about his status as a former IRA leader while condemning the bombing. Quan eventually leaves for Belfast and seeks out Hennessy, who claims to have no knowledge of the bombing or its perpetrators. Quan does not believe him and sets off a homemade bomb in Hennessy's office as a threat unless he gets the bombers' names."
+  ],
+  "synopsis": "The film opens in London, England. Vietnam War veteran Ngoc Minh Quan (Jackie Chan) picks up his daughter Fan (Katie Leung) from school. He takes her to a dress shop in Knightsbridge. As Quan tries to move up the street to park his car, a man in a motorcycle parks his bike in front of the shop. Quan hits another driver who backs up. The man gets out to confront Quan when a bomb goes off, destroying the dress shop and throwing Quan off his feet.A news station receives a call from a group calling themselves the Authentic IRA, who are claiming responsibility for the bombing. The head of the station tells his employees to find out more information and to see if any other terrorist groups are behind the bombing. One photographer, Ian Wood (Rufus Jones), goes to the bombing site to take pictures. He stops when he sees Quan inside the store tearfully holding Fan's body.Three IRA members are watching the news from their safe house, stating that they must stay put in order to avoid detection.Irish Deputy Minister Liam Hennessy (Pierce Brosnan) is in bed with his mistress Maggie (Charlie Murphy). He gets a call from his wife Mary (Orla Brady) about the bombing. Hennessy then talks to a British politician, Katherine Davies (Lia Williams) about the same issue. Hennessy goes to his job and angrily confronts his subordinates and ex-IRA colleagues over the bombing, demanding to find out who was responsible for killing civilians.Quan is left inconsolable after the incident. He is visited at his home above the restaurant he owns by two detectives. Quan asks if they will find the bombers and punish them, and they assure him they will. He leaves his friend and co-worker Lam (Tao Liu) behind, despite her pleas to not pursue revenge.Quan meets with Scotland Yard's Commander Bromley (Ray Fearon) in an attempt to bribe him with all the money he has in exchange for the names of the bombers. Bromley declines the bribe and tells Quan they don't have the information they need at the moment. During this meeting, it is learned that Quan had two other daughters who were killed when Thai pirates attacked their ship on the way to London.Quan goes to Belfast to personally meet with Hennessy. After being turned away by his secretary, two security guards pull Quan away after finding a Swiss army knife on his person. Hennessy tells them to let Quan go and he meets with him. Quan brings up Hennessy's history as a leader of the IRA, even showing a newspaper clipping stating Hennessy is proud of his IRA roots. Despite Quan's requests to find the bombers, Hennessy says he knows nothing about them or who they are.Quan leaves Hennessy's office. He goes to the bathroom with matches, cigarettes, and two soda bottles. He creates a makeshift bomb that causes a minor explosion in the bathroom. Hennessy knows it was Quan, especially after Quan calls Hennessy himself. Quan coldly demands the names of the bombers before hanging up.Hennessy calls in his nephew Sean (Rory Fleck Bryne) from New York to come help with the investigation, as well as to try disposing of Quan.Four of Hennessy's IRA goons go after Quan in his rented apartment. They attack him, but Quan fights them off and escapes.Quan continues to keep an eye on Hennessy, going as far as to take pictures of him while he is out with Maggie. Quan also blows up a stable outside Hennessy's country home while hiding out in the woods.Sean visits Mary while she is alone. They engage in an affair until Sean receives a call from Bromley (whom he used to work beside in the British Army) over making a deal with Hennessy over finding the bombers' identities. Mary then tells Sean how she resents her husband as six years earlier, her brother was killed, and Hennessy never tried to bring justice to his killers.Quan sets off another bomb outside the country house, and Hennessy's goons go after him in the woods. They fall to Quan's traps, but one of the men shoots Quan in the shoulder, forcing him to retreat. Quan later cauterizes the wound with a hot knife. As he passes out from the pain, he experiences a flashback to when the Thai pirates attacked his family. He fought them off as well as he could.We see Maggie out in town as she hops on the motorcycle of the same man that bombed Knightsbridge. A double-decker bus explodes over a bridge, killing 16 civilians.Hennessy meets with his enforcer, Hugh McGrath (Dermot Crowley) following the bus bombing. He angrily demands to know who is doing these terrorist acts against civilians. Hennessy shoots McGrath in the leg until he talks. McGrath tells Hennessy that Mary was behind the bombings, acting with the IRA and Maggie (real name Sara McKay) in retribution for what happened to her brother. Hennessy then shoots McGrath dead.Sean tries to go after Quan himself, but Quan catches him in the woods. They fight but both settle their conflict. Sean tells Quan that the bomber that killed Fan is Patrick O'Reilly (Niall McNamee), who was identified by a burn mark on his hand. O'Reilly is apparently responsible for a bomb that killed Sean's family as well.Maggie has just had sex with Ian after meeting him at a pub. While he's in the bathroom, Maggie plants a bomb in his laptop.Quan finds the bombers' hideout and infiltrates it by posing as an gas technician. He quickly begins to beat down the bombers despite them having guns. He manages to shoot dead two of the bombers and dropping a TV on the third one, while Maggie gets wounded by a bullet in the shoulder. He then fights O'Reilly and strangles him with a curtain.Police arrive long after Quan has left. They interrogate Maggie over the whereabouts of the third bomb in Ian's laptop. Maggie taunts the police, but they smack her and press the bullet wound. They torture her with electricity to learn what they want to know. After learning that Ian is an unwitting mule set to board a flight at the airport, police go running to find Ian. They take his laptop and rush to find an isolated area to throw the bomb, where it safely explodes. The investigation is resolved to have no loose ends, so the police shoot Maggie dead. Meanwhile, Hennessy has Sean execute Mary as payback for both of their betrayals. Sean then returns to New York.Hennessy receives a phone call from Davies, who was going to be on the flight Maggie was going to have bombed. Davies thanks Liam for helping save her life, but then reveals that Bromley has positively identified that he was involved with Maggie, and Davies vows to keep her eye on Liam.Quan visits Hennessy for the last time. He shows him the picture he took of him with Maggie at the restaurant, which would implicate him in the terrorist attacks. Hennessy expresses regret over his actions, and candidly tells Quan he never meant to kill his daughter, or any of those people. Quan forces Hennessy to hit \"send\" so that the picture will go viral, and the world will know of his guilt and remorse.Quan returns to his restaurant. An agent maintains surveillance on him under Bromley's orders. After asking if he should move in on Quan, Bromley says no and to let him be. Quan is then found by Lam, who hugs and kisses him.",
+  "imdb_score": 7
+}

@@ -1,0 +1,188 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/7fJAYM0rhzpEhCK6wxbQ412EoYW.jpg",
+  "id": 14574,
+  "title": "The Boy in the Striped Pyjamas",
+  "poster_path": "https://image.tmdb.org/t/p/w500/sLwYSEVVV3r047cjrpRAbGgNsfL.jpg",
+  "release_date": "2008-05-07",
+  "vote_average": 7.847,
+  "vote_count": 6745,
+  "popularity": 61.216,
+  "overview": "When his family moves from their home in Berlin to a strange new house in Poland, young Bruno befriends Shmuel, a boy who lives on the other side of the fence where everyone seems to be wearing striped pajamas. Unaware of Shmuel's fate as a Jewish prisoner or the role his own Nazi father plays in his imprisonment, Bruno embarks on a dangerous journey inside the camp's walls.",
+  "imdb_id": "tt0914798",
+  "budget": 12500000,
+  "homepage": "https://www.miramax.com/movie/the-boy-in-the-striped-pajamas/",
+  "revenue": 20416563,
+  "runtime": 94,
+  "tagline": "Lines may divide us, but hope will unite us.",
+  "genres": [
+    "Drama",
+    "War",
+    "History"
+  ],
+  "production_companies": [
+    "BBC Film",
+    "Miramax",
+    "Heyday Films"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Asa Butterfield",
+        "character": "Bruno Hoess",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hMDIBO0QcOydD0UtfeDjTR7mhi6.jpg"
+      },
+      {
+        "name": "Jack Scanlon",
+        "character": "Shmuel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/64GkCGopxESY1m6uFrrl0j03JOj.jpg"
+      },
+      {
+        "name": "Vera Farmiga",
+        "character": "Elsa Hoess",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+      },
+      {
+        "name": "David Thewlis",
+        "character": "Ralf Hoess",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gJqz8h5AKaVvOLS0hm5Vdvel6JB.jpg"
+      },
+      {
+        "name": "Rupert Friend",
+        "character": "Lieutenant Kurt Kotler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mYgY8LrMkQ4OkGTIOf6MtkbMnnW.jpg"
+      },
+      {
+        "name": "David Hayman",
+        "character": "Pavel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gTwOhUXKzdHn4CEO4VEPyJHleb1.jpg"
+      },
+      {
+        "name": "Sheila Hancock",
+        "character": "Grandma Nathalie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zX7dSYUmnoRonh64Qhl9stIQ0Qq.jpg"
+      },
+      {
+        "name": "Cara Horgan",
+        "character": "Maria",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8J9maL3Zux9Ns9Nzf5ATHiJ0iQ3.jpg"
+      },
+      {
+        "name": "Richard Johnson",
+        "character": "Grandpa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fWxg3ExwdJz6JgfsaoS2jfTDtLG.jpg"
+      },
+      {
+        "name": "Amber Beattie",
+        "character": "Gretel Hoess",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tcr5ODa40xIT6tUNY2GsWQA9feW.jpg"
+      },
+      {
+        "name": "Zac Mattoon O'Brien",
+        "character": "Leon",
+        "profile_path": ""
+      },
+      {
+        "name": "Charlie Baker",
+        "character": "Palm Court Singer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jim Norton",
+        "character": "Mr. Liszt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iC9yNaj8NwoKK7WtzNcGgVxBbbg.jpg"
+      },
+      {
+        "name": "Domonkos Németh",
+        "character": "Martin",
+        "profile_path": ""
+      },
+      {
+        "name": "Henry Kingsmill",
+        "character": "Karl",
+        "profile_path": ""
+      },
+      {
+        "name": "Zsuzsa Holl",
+        "character": "Berlin Cook",
+        "profile_path": ""
+      },
+      {
+        "name": "László Áron",
+        "character": "Lars",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m6ETngrkfOT4dJtouHQVfPIrzhk.jpg"
+      },
+      {
+        "name": "Iván Verebély",
+        "character": "Lieutenant  Meinberg",
+        "profile_path": "https://image.tmdb.org/t/p/w185/t0AG27eAFmXsDcufZjKmEeQvBbr.jpg"
+      },
+      {
+        "name": "Béla Fesztbaum",
+        "character": "Schultz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ijcoKU10fss6ZlouLKl7N56AWda.jpg"
+      },
+      {
+        "name": "Mihály Szabados",
+        "character": "Kapo 2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o0aaewussbvEldNN2jpdJBXc2Y6.jpg"
+      },
+      {
+        "name": "Zsolt Sáfár Kovács",
+        "character": "Kapo 3 Sonderkommando",
+        "profile_path": ""
+      },
+      {
+        "name": "Gábor Harsai",
+        "character": "Elderly Jewish Man (as Gábor Harsay)",
+        "profile_path": ""
+      },
+      {
+        "name": "Julia Papp",
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nvnIqHV8WCGE2Gyk5u5Cyf61GD0.jpg"
+      },
+      {
+        "name": "László Nádasi",
+        "character": "Isaak",
+        "profile_path": ""
+      },
+      {
+        "name": "László Quitt",
+        "character": "Kapo 1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oGDK1fy43Cm8aQQWb5pqERFNzpy.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Mark Herman",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": ""
+      }
+    ]
+  },
+  "keywords": [
+    "based on novel or book",
+    "nazi",
+    "nationalism",
+    "concentration camp",
+    "world war ii",
+    "gas chamber",
+    "concentration camp prisoner",
+    "children in wartime"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Through the innocent eyes of Bruno, the eight-year-old son of the commandant at a German concentration camp, a forbidden friendship with a Jewish boy on the other side of the camp fence has startling and unexpected consequences.",
+    "Bruno an eight-year-old boy from Berlin, Germany is moved with his mother, Elder sister, SS Commander father to a countryside in Europe where his father powers over a concentration camp for Jews. Bruno went \"exploring\" one day and befriended a child his age named Shmuel. Shmuel was a Jew. The boy became good friends until Bruno was scheduled to move to a new location.",
+    "Raised in a loving family in early-1940s Berlin, the wide-eyed eight-year-old boy, Bruno, sees his world turn upside down when his high-ranking Nazi-official father is promoted and accepts an important position as a commander in a strange-looking farm. Now, their new home is surrounded by a high and impenetrable wall; soldiers who are armed to the teeth patrol the perimeter; a dangerous electric fence keeps the intruders away, and, inexplicably, all farmers wear the same striped outfit. However, on the other side of the wire, Shmuel--a shaven-headed Jewish boy of nearly the same age--has so many stories to recount, and he, too, as Bruno, is convinced that the boringly similar uniforms everybody is wearing, are, in fact, pyjamas. Wouldn't it be marvellous if this exciting new friend lived on Bruno's side of the fence?—Nick Riganas",
+    "Spoiler alert: All parents should read before watching with their child (children). Bruno with his family are moved to a home outside a concentration camp. The 8-year-old Bruno is very naïve and does not realize the reality that surrounds him. We watch as the home tutor teaches Bruno and his older sister (aged 12) that all Jews are evil and bad. Bruno maintains his innocence as his sister becomes more embedded in the Nazi culture. Bruno goes exploring and befriends a young boy his own age who lives in the concentration camp. Their friendship evolves and Bruno eventually breaks into the concentration camp to help Shmuel find his father; as they move around the camp, they end up in a hut that is next in line for the gas chamber. Bruno and his friend cannot escape and end up in the chamber. Bruno's father figures it out too late. Extremely emotional. Do not watch this with a child under 16, and even then consider your child's emotional well being.—Diana",
+    "It's sometime during WWII. Naive eight year old Bruno lives a carefree life of privilege in Berlin, he the son of what he only knows as an important \"soldier\". He, his parents, and his twelve year old sister Gretel move to a grand house in the country when his father gets promoted to a new soldiering job in the area. Beyond missing playing with his friends and seeing his paternal grandparents back in Berlin, Bruno is forbidden to wander to the back of their vast property to do one of his favorite activities of exploring, especially toward the \"farm\" he could see from his bedroom window before his parents had that window boarded up. He can see that Pavel, the kitchen servant that came with the house, is wearing striped pajamas underneath his street clothes, striped pajamas like all the other people he could see on the farm. Bruno also notices the rancid smell coming from the farm whenever smoke emanates from its pair of tall smokestacks. Further exacerbating Bruno's boredom, his father hires them a tutor whose teaching curriculum is solely history in relation to the current German order. While Gretel laps up their instruction in wanting to impress Lt. Kotler, their young \"chauffeur\" to who she is attracted, Bruno would still much rather read adventure stories, and have gone to school where he may have met new friends. Eventually, Bruno is able to explore at the back of the property without anyone's knowledge, he making his way to the barbed wire fence of the farm, the fence the barrier between himself and Shmuel, the eight year old boy on the other side he meets and befriends through the wire. Slowly, Bruno's also somewhat naive mother Elsa, Gretel and Bruno come to some realizations about their collective and individual positions within the current German order, Bruno's perspective still with the innocence of a child.—Huggo"
+  ],
+  "synopsis": "The film starts with Bruno (played by Asa Butterfield) who comes to find that his father, a Nazi officer, has been promoted and is in charge of a concentration camp though Bruno does not know it. Bruno also finds out that he, his father (Ralf), mother (Elsa) and sister (Gretel) are required to move from their home in Berlin and they relocate to modern day Poland, the location of the camp. Whilst there Bruno is forbidden from exploring and playing in the garden after his parents become aware that he can see the concentration camp from the garden. Bruno and his sister are also allocated a personal tutor who pushes an antisemitic program of education to the children. As a result Gretel becomes increasingly supportive of the Nazi regime, however, Bruno is not so easily persuaded as the Jews that help from the concentration camp don't fit the characteristics he has been taught to associate with them.One day Bruno disobeys his parents and goes exploring which brings him to the fence of the concentration camp where he meets another boy his own age named Shmuel (played by Jack Scanlon) and it is discovered that they are both unaware of what is going on in the camp. Bruno visits Shmuel regularly often bringing food with him, eventually, Bruno discovers that Shmuel is a Jew and was brought to the camp with his parents.Meanwhile, Lieutenant Kotler reveals to Elsa that the smoke from the camp is from burning the corpses of the Jews, this causes her to confront Ralf. After Kotler violently beats Pavel, one of the Jews who act as servants, and Shmuel is sent as his replacement, upon seeing him Bruno starts to socialize with him and gives him food before being interrupted by Kotler, Kotler then proceeds to shout at Shmeul before asking him where he got the food. Shmuel tells Kotler that Bruno gave him the food but Bruno denies this out of fear for Kotler. When Bruno and Shmuel next meet Shmuel has a black eye but Bruno is forgiven.Later in the story, Ralf tells Bruno and Gretel that they are going with their mother to live with another relative, meanwhile, Shmuel's father goes missing in the concentration camp, Bruno promises Shmuel that he will help look for him. The day that Bruno is due to leave Shmuel gives Bruno a camp uniform and Bruno goes under a loose bit of fence when he reaches the more central part of the camp Bruno starts to discover its true nature.Meanwhile Elsa discovers Bruno is missing and a full search is ordered, sniffer dogs quickly find Bruno's discarded clothes by the fence, meanwhile, Bruno and Shmuel are lead into a gas chamber although they and the other Jews are unaware of it until the Nazi soldier pours the gas in and the prisoners start to panic. Bruno and Schmuel don't understand what's going on but grip each others' hands. Ralf realizes that a gassing is underway and cries out his son's name, with Elsa and Gretel falling to their knees and sobbing in realization of what's happened. Ralf stands in shock, staring ahead. The film then shows a shot of the now silent gas chamber, indicating that they have all died. The film ends with a message about the casualties of the Holocaust.",
+  "imdb_score": 7.7
+}

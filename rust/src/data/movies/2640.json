@@ -1,0 +1,273 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/5pLaYZGbweHYULiNiRehPxYuUnn.jpg",
+  "id": 2640,
+  "title": "Heathers",
+  "poster_path": "https://image.tmdb.org/t/p/w500/dGbVfM4WlM7uvIbyRehfPZUIgp2.jpg",
+  "release_date": "1989-03-31",
+  "vote_average": 7.301,
+  "vote_count": 1563,
+  "popularity": 18.605,
+  "overview": "A girl who halfheartedly tries to be part of the \"in crowd\" of her school meets a rebel who teaches her a more devious way to play social politics: by killing the popular kids.",
+  "imdb_id": "tt0097493",
+  "budget": 3000000,
+  "homepage": "",
+  "revenue": 1100000,
+  "runtime": 103,
+  "tagline": "Best friends, social trends, and occasional murder.",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "production_companies": [
+    "New World Pictures",
+    "Cinemarque Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Winona Ryder",
+        "character": "Veronica Sawyer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fkMfW3rDBmpPccT6uLmAMxVjEra.jpg"
+      },
+      {
+        "name": "Christian Slater",
+        "character": "Jason 'J.D.' Dean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg"
+      },
+      {
+        "name": "Shannen Doherty",
+        "character": "Heather Duke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9yiNYzxiccImGeNKHKVQCR9H3cy.jpg"
+      },
+      {
+        "name": "Lisanne Falk",
+        "character": "Heather McNamara",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pt84JI4xUFqHlf53o515JXjfSW7.jpg"
+      },
+      {
+        "name": "Kim Walker",
+        "character": "Heather Chandler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4r1y8fgOu23nhwEMsJeqmIrvxyh.jpg"
+      },
+      {
+        "name": "Penelope Milford",
+        "character": "Pauline Fleming",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l3kHEv4FpiKDPASb9zcAiFZFAw2.jpg"
+      },
+      {
+        "name": "Glenn Shadix",
+        "character": "Father Ripper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zTu0Fh0ohLIvFnEXiRvhe91T3Wg.jpg"
+      },
+      {
+        "name": "Lance Fenton",
+        "character": "Kurt Kelly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gsiMtMyjsq1s0tyqtFCQRhxOUmS.jpg"
+      },
+      {
+        "name": "Jennifer Rhodes",
+        "character": "Veronica's Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dwEd76KplNjpu1Z6eHVPOpsZ9JG.jpg"
+      },
+      {
+        "name": "Jeremy Applegate",
+        "character": "Peter Dawson",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick Labyorteaux",
+        "character": "Ram Sweeney",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dTuCfBnVH8csjSo8FrOdaOjpegA.jpg"
+      },
+      {
+        "name": "Jon Matthews",
+        "character": "Rodney",
+        "profile_path": ""
+      },
+      {
+        "name": "Carrie Lynn",
+        "character": "Martha Dunnstock / Dumptruck",
+        "profile_path": ""
+      },
+      {
+        "name": "Phill Lewis",
+        "character": "Dennis",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bllEfF540zoHuhZ2NVhwnSGdjUt.jpg"
+      },
+      {
+        "name": "Renée Estevez",
+        "character": "Betty Finn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ogRlJREvJNMe22XNeRO8wICtYpG.jpg"
+      },
+      {
+        "name": "John Zarchen",
+        "character": "Country Club Keith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/knVr86AWdohQBTjGl5Du5W1Bd9S.jpg"
+      },
+      {
+        "name": "William Cort",
+        "character": "Veronica's Dad",
+        "profile_path": ""
+      },
+      {
+        "name": "John Ingle",
+        "character": "Principal Gowan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cFrwER1BE3WnXwfXdlxAI03meCo.jpg"
+      },
+      {
+        "name": "Stuart Mabray",
+        "character": "Counselor Paul Hyde",
+        "profile_path": ""
+      },
+      {
+        "name": "Sherrie Wills",
+        "character": "Country Club Courtney",
+        "profile_path": ""
+      },
+      {
+        "name": "Larry Cox",
+        "character": "David",
+        "profile_path": ""
+      },
+      {
+        "name": "Kent Stoddard",
+        "character": "Brad",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Carlton",
+        "character": "Kurt's Dad",
+        "profile_path": ""
+      },
+      {
+        "name": "Curtiss Marlowe",
+        "character": "Geek",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrew Benne",
+        "character": "Fat Cynic",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Hardesty",
+        "character": "1st Heavy Metaller in Pkg. Lot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hzXOVtFpK6M5z4JC5hSnYW1gRud.jpg"
+      },
+      {
+        "name": "Josh Richman",
+        "character": "2nd Heavy Metaller in Pkg. Lot",
+        "profile_path": "https://image.tmdb.org/t/p/w185/unuGGek4a7AmGsNivCTduFido55.jpg"
+      },
+      {
+        "name": "Bess Meyer",
+        "character": "Female Stoner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3sK6jO36hzl5HDGjMX10XeOQ4JR.jpg"
+      },
+      {
+        "name": "Betty Ramey",
+        "character": "Teacher in Conference Room",
+        "profile_path": ""
+      },
+      {
+        "name": "Aaron Mendelsohn",
+        "character": "Nerd in Pauline's Class",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zhrmftshQWaNYq6kac8Deik6kQr.jpg"
+      },
+      {
+        "name": "Kirk Scott",
+        "character": "Big Bud Dean",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bptdTPicDKBJNHQMYVKeFbpS0wR.jpg"
+      },
+      {
+        "name": "Mark Bringelson",
+        "character": "Officer McCord",
+        "profile_path": "https://image.tmdb.org/t/p/w185/97StE50cs5RpUeN6ThsMq8ePyzg.jpg"
+      },
+      {
+        "name": "Chuck Lafont",
+        "character": "Officer Milner",
+        "profile_path": ""
+      },
+      {
+        "name": "Christie Mellor",
+        "character": "Squealing Girl in Parking Lot",
+        "profile_path": ""
+      },
+      {
+        "name": "James 'Poorman' Trenton",
+        "character": "'Hot Probs' D.J",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrian Drake",
+        "character": "Gruff Teacher",
+        "profile_path": ""
+      },
+      {
+        "name": "Craig Braginsky",
+        "character": "Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hx14DtUBxtN5FQEHhfMmS9UMoep.jpg"
+      },
+      {
+        "name": "Michael Lindström",
+        "character": "Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "David McConnell",
+        "character": "Student in the Gym (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jqmmfgZdQqSMFQcrQtIly6m6pMf.jpg"
+      },
+      {
+        "name": "Mike Pont",
+        "character": "Student in Cafeteria (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sylvia Tobias",
+        "character": "Student (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeffrey Weissman",
+        "character": "Voice Actor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rdxAEWflihoR5Vt1TvsR0XcI6N5.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Michael Lehmann",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jDu6ZiKtVGkhupi6wXv1f4Tpgro.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "high school",
+    "friendship",
+    "adolescence",
+    "suicide",
+    "diary",
+    "dark comedy",
+    "bully",
+    "teen movie",
+    "death",
+    "clique",
+    "bullied"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "At Westerburg High where cliques rule, jocks dominate and all the popular girls are named Heather, it's going to take a Veronica and mysterious new kid to give teen angst a body count.",
+    "A regular girl, Veronica, tries to survive the social jungle of high school by sticking with the three most popular girls at school who are all called Heather. As she meets a new kid named JD, her life spirals into a continuous cycle of hate, indifference, and murder as she exacts revenge on her enemies, also known as her best friends.—Marielle <msaz.movies@gmail.com>",
+    "Like it or not, Heather Chandler's group--a team of three affluent, stylish, and snobbish young divas sharing the same first name--is the most popular and feared clique in all of Westerburg High School. But enough is enough--now hesitant supporter Veronica Sawyer wants out, despising herself for hanging out with the trio of socially sadistic Heathers. Then, mysterious and effortlessly charming newcomer Jason Dean enters the picture, and just like that, Veronica joins forces with him to appease her newfound conscience and teach the pretty tyrants a lesson. However, there's no such thing as a foolproof plan--at first, it's all fun and games until someone loses an eye. And now there's no turning back. What happens if killer passion ruins everything?—Nick Riganas",
+    "Up to her neck in vitriol and sick of it, popular teenager Veronica Sawyer finds herself in a tiresome tide of ins and outs, part of a cruel social clique so wrapped up in their own making that no one else stands a chance. She decides to challenge the malevolent rule of the self-appointed stars of the school scene, the Heathers, and begins a torrid journey of revenge. With the aid of rebellious newcomer Jason Dean, Veronica is set to revolutionize the classroom and turn popular perception upside down.—anonymous",
+    "Welcome to Westerburg High, where Veronica Sawyer is beginning to tire of her membership in the powerful yet cruel clique of 'Heathers' When Veronica falls for the mysterious new kid Jason Dean, their dislike for the Heathers quickly escalates into a savage cycle of revenge and Slushies. Now that her teenage angst has a voice, are Veronica and JD headed for the prom... or hell?—anonymous"
+  ],
+  "synopsis": "Veronica is part of the most popular clique at school, made up of Heather Duke, Heather McNamara and led by Heather Chandler. Tired of the way Heather Chandler bullies and controls everyone Veronica wishes she was dead so that she could free to do as she wants instead of what Heather Chandler wants.Veronica then meets J.D, a dark rebel, who says they should teach Heather Chandler a lesson by making her drink drain cleaner. Heather Chandler does and dies from chemical poisoning instantly. To cover up the murder J.D tells Veronica to write suicide note in Heather Chandler's handwriting.The cruelty and bullying doesn't stop however, as Heather Duke merely replaces Heather Chandler as leader, and her suicide is seen as glamorous and cool. J.D then tricks Veronica into shooting two of the football players, Kurt and Ram, who were harassing her, and covering it up with another suicide note that says they were secretly gay.Veronica becomes scared of J.D realises that he intended to kill them while she just wanted to scare them. His next plan is to kill Heather Duke, but Veronica wants no part of it, so instead he plans to blow up the school, after everyone has sign a \"petition\" which is actually a group suicide note.Veronica shoots J.D forcing him to leave the bomb in the school and go outside where he then straps the bomb to himself. Veronica watches as he blows himself up, and then returns inside to confront Heather Duke. She tells Heather Duke \"there's a new sheriff in town\" and walks off talks to the school nerd, suggesting that she will now be leader of the school.",
+  "imdb_score": 7.2
+}

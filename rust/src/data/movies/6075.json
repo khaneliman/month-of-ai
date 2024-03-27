@@ -1,0 +1,560 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/tqlCsB6AFjQ9dpAOHkd3sEdFS13.jpg",
+  "id": 6075,
+  "title": "Carlito's Way",
+  "poster_path": "https://image.tmdb.org/t/p/w500/g6D7mjQtndu768cusGmoEQY9fTB.jpg",
+  "release_date": "1993-11-10",
+  "vote_average": 7.837,
+  "vote_count": 2948,
+  "popularity": 26.078,
+  "overview": "A Puerto-Rican ex-con, just released from prison, pledges to stay away from drugs and violence despite the pressure around him, and lead a better life outside NYC.",
+  "imdb_id": "tt0106519",
+  "budget": 30000000,
+  "homepage": "",
+  "revenue": 63800000,
+  "runtime": 144,
+  "tagline": "He's got a good future if he can live past next week.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Universal Pictures",
+    "Epic Productions",
+    "Bregman/Baer Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Al Pacino",
+        "character": "Carlito Brigante",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2dGBb1fOcNdZjtQToVPFxXjm4ke.jpg"
+      },
+      {
+        "name": "Sean Penn",
+        "character": "David Kleinfeld",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+      },
+      {
+        "name": "Penelope Ann Miller",
+        "character": "Gail",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iDQCkKWi49Z8KWnUWVeOb6vn8L7.jpg"
+      },
+      {
+        "name": "John Leguizamo",
+        "character": "Benny Blanco",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+      },
+      {
+        "name": "Ingrid Rogers",
+        "character": "Steffie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gIUbqQXbR0KfX4zOUHYBDRQxhrn.jpg"
+      },
+      {
+        "name": "Luis Guzmán",
+        "character": "Pachanga",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+      },
+      {
+        "name": "James Rebhorn",
+        "character": "Norwalk",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jRdR3q28gTPQU6eWRgiIqzGuMKU.jpg"
+      },
+      {
+        "name": "Joseph Siravo",
+        "character": "Vincent Taglialucci",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ttygfcaWZRkhiphvi7scZUF3Kbx.jpg"
+      },
+      {
+        "name": "Viggo Mortensen",
+        "character": "Lalin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+      },
+      {
+        "name": "Richard Foronjy",
+        "character": "Pete Amadesso",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zNerBPOQawN4PxT35WmqwFd9PMu.jpg"
+      },
+      {
+        "name": "Jorge Porcel",
+        "character": "Saso",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yr5Bo1b0bgxDq9nuqMVSNCHJ5kv.jpg"
+      },
+      {
+        "name": "Frank Minucci",
+        "character": "Tony Taglialucci",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dDi7lqoUUn5NXVlC9DuAXYVTIgQ.jpg"
+      },
+      {
+        "name": "Adrian Pasdar",
+        "character": "Frankie Taglialucci",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4KdM69ljovbLumGoVe8ct9s6GJm.jpg"
+      },
+      {
+        "name": "John Ortiz",
+        "character": "Guajiro",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tMDPYhpc9nqIJAK3vtMroEH9qho.jpg"
+      },
+      {
+        "name": "Ángel Salazar",
+        "character": "Walberto",
+        "profile_path": ""
+      },
+      {
+        "name": "Al Israel",
+        "character": "Rolando",
+        "profile_path": "https://image.tmdb.org/t/p/w185/seDaFV7BzxgVNeirCjgnP3H3L7M.jpg"
+      },
+      {
+        "name": "Rick Aviles",
+        "character": "Quisqueya",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5A1GZnGOM9B7BKs1h44sDD4qH3Q.jpg"
+      },
+      {
+        "name": "Jaime Sánchez",
+        "character": "Rudy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jqqdVlOGVNokKXz6NTrlM7cuOOr.jpg"
+      },
+      {
+        "name": "Edmonte Salvato",
+        "character": "Battaglia (Big Guy)",
+        "profile_path": ""
+      },
+      {
+        "name": "Paul Mazursky",
+        "character": "Judge Feinstein",
+        "profile_path": "https://image.tmdb.org/t/p/w185/buV8R7bHO4DATuC9FquUrZjn88I.jpg"
+      },
+      {
+        "name": "Tera Tabrizi",
+        "character": "Club Date",
+        "profile_path": ""
+      },
+      {
+        "name": "Víctor Sierra",
+        "character": "Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Caesar Cordova",
+        "character": "Barber",
+        "profile_path": ""
+      },
+      {
+        "name": "Jon Seda",
+        "character": "Dominican",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4Wwgtvieu2j4f6AHqUMgnDFufa5.jpg"
+      },
+      {
+        "name": "Ruben Rivera",
+        "character": "Dominican",
+        "profile_path": ""
+      },
+      {
+        "name": "Sherie Mambru",
+        "character": "Girlfriend",
+        "profile_path": ""
+      },
+      {
+        "name": "Brenda Hernandez",
+        "character": "Girlfriend",
+        "profile_path": ""
+      },
+      {
+        "name": "Elliot Santiago",
+        "character": "Knifeman",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Ferrara",
+        "character": "Manzanero",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4p3T0p1cYxxKPGDWgOVdN63gxQ3.jpg"
+      },
+      {
+        "name": "John Glenn Hoyt",
+        "character": "Club Bouncer (as John Hoyt)",
+        "profile_path": ""
+      },
+      {
+        "name": "Chuck Zito",
+        "character": "Club Bouncer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rB29MLnNm3edynrGVVMTGcwcMxA.jpg"
+      },
+      {
+        "name": "Stephen Puente",
+        "character": "Club Bouncer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Cucci",
+        "character": "Club Bouncer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dwMQ3f7iJ7XW91NhAm3OKS5ElSI.jpg"
+      },
+      {
+        "name": "Alfred Sauchelli, Jr.",
+        "character": "Bodyguard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1OAMyVPBSkxpWMOz9Om30ZN92e8.jpg"
+      },
+      {
+        "name": "Anthony Catanese",
+        "character": "Bodyguard",
+        "profile_path": ""
+      },
+      {
+        "name": "Sam Weber",
+        "character": "Bodyguard",
+        "profile_path": ""
+      },
+      {
+        "name": "Sonny Zito",
+        "character": "Bodyguard",
+        "profile_path": ""
+      },
+      {
+        "name": "Walter T. Meade",
+        "character": "Jackson Corrections Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Hadge",
+        "character": "Diamond Room Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Richard Council",
+        "character": "Diamond Room Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zihavy80dg9VXb0iQjIHGXccjVA.jpg"
+      },
+      {
+        "name": "Lindsay Lombardi",
+        "character": "Diamond Room Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "James Bulleit",
+        "character": "Louie",
+        "profile_path": ""
+      },
+      {
+        "name": "Crystal Haney",
+        "character": "Estate Party Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "Gregory Mitchell",
+        "character": "Italian at Copa",
+        "profile_path": ""
+      },
+      {
+        "name": "Mel Gorham",
+        "character": "Pachanga's Date",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m1ju0BoV10CWPs0BuGw9rViX1Zj.jpg"
+      },
+      {
+        "name": "Rocco Sisto",
+        "character": "Panama Hatman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nljrL2do1PWBzrc8CRK8loibIXK.jpg"
+      },
+      {
+        "name": "John Finn",
+        "character": "Duncan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tEv7ZUiO4gafQnXEOp43WSEvRfp.jpg"
+      },
+      {
+        "name": "Brian Tarantina",
+        "character": "Speller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1EysTrCLtGQ0rQBg6EqZkOWoamR.jpg"
+      },
+      {
+        "name": "Jamie Tirelli",
+        "character": "Valentin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oePZf7SVIkvlJbI3lK3qqQLS3so.jpg"
+      },
+      {
+        "name": "Owen Hollander",
+        "character": "Cab Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "John Michael Bolger",
+        "character": "Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e7VxhVOTaKgA1ZYcoJd12Ny043b.jpg"
+      },
+      {
+        "name": "Ralph Destino, Jr.",
+        "character": "Cop",
+        "profile_path": ""
+      },
+      {
+        "name": "Vincent Jerman-Jerosa",
+        "character": "Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bKrssxQO7ylGqbr1dUDHT2fP0dM.jpg"
+      },
+      {
+        "name": "Luke Toma",
+        "character": "Cop",
+        "profile_path": ""
+      },
+      {
+        "name": "Frank Pietrangolare",
+        "character": "Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wFohY73v2kG0HuoLWsq0ORgMkph.jpg"
+      },
+      {
+        "name": "Mike Girard Sheehan",
+        "character": "Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3Qt8EZlwxSJD78jfdo3iUm6Qi9C.jpg"
+      },
+      {
+        "name": "Dean Rader Duval",
+        "character": "Med Tech",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pzZcVAnAdY6xRuWZqjv1DHUBxrf.jpg"
+      },
+      {
+        "name": "Gene Canfield",
+        "character": "Train Conductor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/luiINXn3z8m8ABxaqdTSJd8q4vm.jpg"
+      },
+      {
+        "name": "Sharmagne Leland-St. John",
+        "character": "Woman at Grand Central",
+        "profile_path": ""
+      },
+      {
+        "name": "Rene Rivera",
+        "character": "Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fTcjPdSvqW2cvdwNc4It40Umkk3.jpg"
+      },
+      {
+        "name": "Orlando Urdaneta",
+        "character": "Bartender",
+        "profile_path": ""
+      },
+      {
+        "name": "Troy A. Hawes",
+        "character": "Solicitor at Go-Go Club",
+        "profile_path": ""
+      },
+      {
+        "name": "Kim Rideout",
+        "character": "Gail's Friend at Dance Studio",
+        "profile_path": ""
+      },
+      {
+        "name": "Drita Barak",
+        "character": "Club Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Christopher Bregman",
+        "character": "Club Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Natalia Rey",
+        "character": "Club Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Joe Conzo",
+        "character": "Club Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Gaetano Lisi",
+        "character": "Club Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Debra Niewald",
+        "character": "Club Patron",
+        "profile_path": ""
+      },
+      {
+        "name": "Christina Murphy",
+        "character": "Waitress",
+        "profile_path": ""
+      },
+      {
+        "name": "Julieta Ortega",
+        "character": "Waitress",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ht1EOCdVgbJH9tbgGk5KescKfea.jpg"
+      },
+      {
+        "name": "Mary C. Hammett",
+        "character": "Waitress",
+        "profile_path": ""
+      },
+      {
+        "name": "Debbie Benitez",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Roberta Mathes",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Freddy Rios",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Mike Ramos",
+        "character": "Dancer",
+        "profile_path": ""
+      },
+      {
+        "name": "Yelba Osorio",
+        "character": "Blanco's Girlfriend",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mmvLWjW7eKVzUdVubrs5t8OwsiL.jpg"
+      },
+      {
+        "name": "Nelson Vasquez",
+        "character": "Blanco Associate",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eu42g5XCAgO7LOHxDBRd7U2zjJj.jpg"
+      },
+      {
+        "name": "Jason Daryn",
+        "character": "Party Waiter",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Brennan",
+        "character": "Party Guest",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael P. Moran",
+        "character": "Party Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dqQgY3uyzf1ot16iQZwcAWQnnkg.jpg"
+      },
+      {
+        "name": "Vincent Pastore",
+        "character": "Copa Wiseguy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dyRRn8POwLUMHT7lIISujioYOym.jpg"
+      },
+      {
+        "name": "Garry Pastore",
+        "character": "Copa Wiseguy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5Ad2tXuIDbEv9rbpdH3EL0tAW2Z.jpg"
+      },
+      {
+        "name": "Cynthia Lamontagne",
+        "character": "Woman at Elevator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wh3ZG5lXeS6aH68nyIruYJQxdDs.jpg"
+      },
+      {
+        "name": "Bo Dietl",
+        "character": "Casino Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6mG0MPKlyccmmbunnVBw4qr5VB6.jpg"
+      },
+      {
+        "name": "Kato",
+        "character": "Casino Man",
+        "profile_path": ""
+      },
+      {
+        "name": "James V. Miller",
+        "character": "Black Jack Dealer",
+        "profile_path": ""
+      },
+      {
+        "name": "Marc Anthony",
+        "character": "Latin Band at Disco",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mOkqbV5iiusOLEOVPmepQcAGF8K.jpg"
+      },
+      {
+        "name": "Pete Macnamara",
+        "character": "Brazilian Band Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wlDFiHQjLj9nuchuzlMv11m4QKS.jpg"
+      },
+      {
+        "name": "Daniel Margotta",
+        "character": "Monchin (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eiFUHauF5EtM0SnU5j0pCl2Ljx.jpg"
+      },
+      {
+        "name": "Coati Mundi",
+        "character": "Subway Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yEKCYlbLCmd1D856wvmK1ATs6AG.jpg"
+      },
+      {
+        "name": "Ángel Ramírez",
+        "character": "Club Dancer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Cice Rivera",
+        "character": "Waitress (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vDZPzMP5G4Ctt1UggYTS112TIUo.jpg"
+      },
+      {
+        "name": "Saundra Santiago",
+        "character": "Club Patron Dancing with Carlito (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mIzuavbFWhwyT5yysJlwgzgXc0v.jpg"
+      },
+      {
+        "name": "Bill Weeden",
+        "character": "Party Animal (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hYqQ4Gm3ULZghuxiViU3SQOFmyV.jpg"
+      },
+      {
+        "name": "Garlan Green",
+        "character": "On-Air Personality (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Denise Vasquez",
+        "character": "Salsa Dancer / Cocktail Waitress (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kyle Wyatt",
+        "character": "Club Dancer / Street Patron (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Brian De Palma",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4xleWFdhtVC7faer6Ru2eyEgfTv.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "based on novel or book",
+    "gangster",
+    "go-go dancer",
+    "release from prison",
+    "1970s",
+    "puerto rico",
+    "cocaine",
+    "nightclub",
+    "criminal past",
+    "love",
+    "lawyer",
+    "drugs",
+    "disco",
+    "neo-noir"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A Puerto Rican former convict, just released from prison, pledges to stay away from drugs and violence despite the pressure around him and lead on to a better life outside of N.Y.C.",
+    "A Puerto Rican ex-con pledges to stay away from his former drug dealing ways but finds himself being dragged back by his past connections and the naive machinations of his lawyer and best friend. Hoping to raise enough money to get away from New York, Carlito Brigante takes on the job of running a nightclub, renews an affair with a dancer but old associates and old instincts suck him back into a world of violence and mistrust.—Keith Loh <loh@sfu.ca>",
+    "Carlito has just gotten out of prison due to technicalities with the help of his sleazy lawyer. After a life spent trafficking heroin he decides not to pursue the life of the streets. He buys into a night club and begins saving money to move to the Bahamas, but his presence as a known player makes it inevitable that he get sucked back into his violent former life.—Ed Sutton <esutton@mindspring.com>",
+    "Finally released from prison, Carlito Brigante has vowed that he will not go back to the life he once had. His move to a new life isn't easy, as Carlito must resist every taunt and every opportunity back into his old lifestyle. He meets up with his old love, Gail who shows him the person he can be in a happy life, but his good friend and lawyer, David Kleinfeld is having problems of his own and would love the help he could gain from the legend known as Carlito.—FilmFanUk",
+    "Carlito Brigante is released from jail after serving five years of a much longer stretch. He vows to go straight and to live life as a fine, upstanding citizen. He even rekindles a romance with his ex-lover. However, Carlito's associates cannot seem to leave him in peace...his nephew involves him a pool-room gunfight, his lawyer asks him for \"favors\" which spiral out of control, and even an old friend tries to get him into trouble with the law. Carlito decides to make a run for Florida and the promise of a new life, but has one final dramatic escape to make from some hoods who believe (wrongly) that he was behind the murder of their boss.—Jonathon Dabell <barnabyrudge@hotmail.com>"
+  ],
+  "synopsis": "In 1975, after serving 5 years of a 30-year prison sentence, Carlito Brigante is freed on a legal technicality exploited by his lawyer, Dave Kleinfeld. Upon release from prison, Carlito decides to return to his old neighborhood of Spanish Harlem. While in the neighborhood, he reconnects with old associates. Carlito vows to be through with crime but is persuaded to accompany his cousin Guajiro to a drug deal at a bar. Guajiro is betrayed and killed and Carlito is forced to shoot his way out. He takes Guajiro's money and uses it to buy into a nightclub, with the intent of saving $75,000 to retire to the Caribbean.Carlito declines a business partnership with an ambitious young gangster from the Bronx named Benny Blanco. Carlito also rekindles his romance with former girlfriend Gail, a ballet dancer who moonlights as a stripper. An old friend, Lalin, recently released from prison and now confined to a wheelchair, comes to see Carlito, but is caught wearing a wire. Carlito realizes that District Attorney Norwalk is determined to put him back behind bars.Kleinfeld develops a love interest with Benny's girlfriend, Steffie, a waitress at the club. Benny's frustration with being rejected boils over and he confronts Carlito at his table, then manhandles Steffie. Kleinfeld pulls out a gun and threatens to kill Benny, but Carlito intervenes. Despite being threatened, Carlito lets Benny go, which alienates Carlito's bodyguard Pachanga.Kleinfeld, having stolen one million dollars from his Italian mob-boss client, \"Tony T\" Taglialucci, is coerced into providing his yacht to help Tony T break out of the Rikers Island prison barge. Kleinfeld begs for help and Carlito reluctantly agrees. At night, Carlito, Kleinfeld, and Tony T's son, Frankie, sail to a floating buoy outside of the prison barge where Tony T is waiting. As they pull Tony T aboard, Kleinfeld unexpectedly bludgeons him to death, then slits Frankie's throat and dumps both bodies in the East River. The next day, Kleinfeld barely survives a retaliatory assassination attempt.Carlito is apprehended by police and taken to Norwalk's office, where he is played a tape of Kleinfeld cutting a deal and offering to testify to false criminal allegations against Carlito. Norwalk is aware of Carlito being an accomplice to the Taglialucci murders and tries to leverage him into betraying Kleinfeld to save himself. Carlito refuses, but visits the hospital, where Kleinfeld confesses to selling him out. Having noticed a suspicious man dressed in a police uniform, Carlito deftly unloads Kleinfeld's revolver and leaves. The man is Tony T's other son, Vinnie, who sneaks into Kleinfeld's room and executes him.Carlito buys train tickets to Miami for himself and Gail, now pregnant. When he stops by his club to get the stashed money, Carlito is met by a group of mobsters led by Vinnie. The Italians plan on killing Carlito, who slips out through a secret exit. The Italians pursue him throughout the city's subway system and into Grand Central Terminal, where they engage in a gunfight. Carlito kills all of his pursuers except Vinnie, who is shot by police attracted by the gunfire.As Carlito runs to catch the train where Gail and Pachanga are waiting for him, he is ambushed by Benny, who shoots Carlito several times. Pachanga admits to Carlito that he is now working for Benny, only to be shot as well. Carlito hands Gail the money and tells her to escape with their unborn child and start a new life. As he is wheeled away on a gurney, Carlito stares at a billboard of a woman on a Caribbean beach. The billboard comes to life, and the woman, who is clearly Gail, starts dancing as Carlito dies.",
+  "imdb_score": 7.9
+}

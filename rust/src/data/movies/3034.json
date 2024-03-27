@@ -1,0 +1,260 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/hTvCGwbrpSgZ5QCZnYHM12bv7DH.jpg",
+  "id": 3034,
+  "title": "Young Frankenstein",
+  "poster_path": "https://image.tmdb.org/t/p/w500/tQJAWbIjvvqVKLLbIZHtwGw2HTf.jpg",
+  "release_date": "1974-12-15",
+  "vote_average": 7.89,
+  "vote_count": 2974,
+  "popularity": 23.701,
+  "overview": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind.",
+  "imdb_id": "tt0072431",
+  "budget": 2800000,
+  "homepage": "",
+  "revenue": 86273333,
+  "runtime": 106,
+  "tagline": "The scariest comedy of all time!",
+  "genres": [
+    "Comedy"
+  ],
+  "production_companies": [
+    "Crossbow Productions",
+    "Gruskoff/Venture Films",
+    "Jouer Limited",
+    "20th Century Fox"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Gene Wilder",
+        "character": "Frederick Frankenstein",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mwwOSWS2m8ArpiUKnoxVVyT8fND.jpg"
+      },
+      {
+        "name": "Teri Garr",
+        "character": "Inga",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uZxP7WryjLbqq2FZpfkoKNkI0RW.jpg"
+      },
+      {
+        "name": "Marty Feldman",
+        "character": "Igor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bNUinz6ZGp4F2ZVyuhrfD7ricXT.jpg"
+      },
+      {
+        "name": "Peter Boyle",
+        "character": "Frankenstein's Monster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6TapQmC46mPDYrwm67tyJaEM97I.jpg"
+      },
+      {
+        "name": "Cloris Leachman",
+        "character": "Frau Blücher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vsaw9iOVSuluGsOgIGfyGTW9znG.jpg"
+      },
+      {
+        "name": "Madeline Kahn",
+        "character": "Elizabeth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Ae2CI5i91PKAagUfvyIEabVNj4Z.jpg"
+      },
+      {
+        "name": "Kenneth Mars",
+        "character": "Inspector Kemp",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5ueZGenOr87KfMENzffdtGn3AQ9.jpg"
+      },
+      {
+        "name": "Richard Haydn",
+        "character": "Gerhard Falkstein",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zPaYFZhis7PKycFBMnguWiSXgVy.jpg"
+      },
+      {
+        "name": "Liam Dunn",
+        "character": "Mr. Hilltop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/clIjX0wrNp7KyuqNvTG5Bo4O3xH.jpg"
+      },
+      {
+        "name": "Danny Goldman",
+        "character": "Medical Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lmWTlSAxjFxEnsDOU2sQ5IjgqDS.jpg"
+      },
+      {
+        "name": "Oscar Beregi Jr.",
+        "character": "Sadistic Jailor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xHc4CMzB4PpdDtmD9yjlwyOBD7h.jpg"
+      },
+      {
+        "name": "Arthur Malet",
+        "character": "Village Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AbmKxci3EZMG2rBmFLQiUdNsySL.jpg"
+      },
+      {
+        "name": "Richard A. Roth",
+        "character": "Inspector Kemp's Aide",
+        "profile_path": ""
+      },
+      {
+        "name": "Monte Landis",
+        "character": "Gravedigger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lTsPA1axwQIXgyGgU4nYfW9riKb.jpg"
+      },
+      {
+        "name": "Rusty Blitz",
+        "character": "Gravedigger",
+        "profile_path": ""
+      },
+      {
+        "name": "Anne Beesley",
+        "character": "Little Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Gene Hackman",
+        "character": "Blindman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xPmETCv0APDoIK5CvIIJwbTcjPA.jpg"
+      },
+      {
+        "name": "John Madison",
+        "character": "Villager",
+        "profile_path": ""
+      },
+      {
+        "name": "John Dennis",
+        "character": "Orderly in Frankenstein's Class",
+        "profile_path": "https://image.tmdb.org/t/p/w185/78XDuxSpAlTxpxMVbFi1EQpmjPW.jpg"
+      },
+      {
+        "name": "Rick Norman",
+        "character": "Villager",
+        "profile_path": ""
+      },
+      {
+        "name": "Rolfe Sedan",
+        "character": "Train Conductor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ZOlWQ4QziNnYwtzqj2komEvlG5.jpg"
+      },
+      {
+        "name": "Terrence Pushman",
+        "character": "Villager",
+        "profile_path": ""
+      },
+      {
+        "name": "Randolph Dobbs",
+        "character": "Villager",
+        "profile_path": ""
+      },
+      {
+        "name": "Norbert Schiller",
+        "character": "Emcee at Frankenstein's Show",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6eOSrwtsJQvuimU2ceHDDQ5gwPo.jpg"
+      },
+      {
+        "name": "Pat O'Hara",
+        "character": "Villager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rmDlUzQYnuKlcr7HnGih1HGzTWs.jpg"
+      },
+      {
+        "name": "Michael Fox",
+        "character": "Helga's Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cJFNTqW3zEMDTxRRTd1wlXOQ7xW.jpg"
+      },
+      {
+        "name": "Lidia Kristen",
+        "character": "Helga's Mother",
+        "profile_path": ""
+      },
+      {
+        "name": "Berry Kroeger",
+        "character": "First Village Elder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/egarsq9nJe61ligHIhOsrCSnd9d.jpg"
+      },
+      {
+        "name": "Ian Abercrombie",
+        "character": "Second Villager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bu0hfUxtOdhckZOdNcQonuZBucZ.jpg"
+      },
+      {
+        "name": "Mel Brooks",
+        "character": "Werewolf / Cat Hit by Dart / Victor Frankenstein (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c21qNcMJlHnRolfhQhZOVacjtwI.jpg"
+      },
+      {
+        "name": "Lou Cutell",
+        "character": "Frightened Villager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ulwBRPKeaiNAccffIJqCAJcLR32.jpg"
+      },
+      {
+        "name": "Leoda Richards",
+        "character": "Theatre Goer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5zT9bHiLHh7HcHipDqIdA6N3j28.jpg"
+      },
+      {
+        "name": "Clement von Franckenstein",
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3MC0muNTGzt1zVN5EW49M55PFG5.jpg"
+      },
+      {
+        "name": "Jeff Maxwell",
+        "character": "Medical Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lNodMPrVMvQuxAxvcjbGEQmEIO0.jpg"
+      },
+      {
+        "name": "Lars Hensen",
+        "character": "Theatre Goer",
+        "profile_path": ""
+      },
+      {
+        "name": "Johnny Marlin",
+        "character": "Spectator",
+        "profile_path": ""
+      },
+      {
+        "name": "Maida Severn",
+        "character": "Train Passenger",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wDbPrn5fT4892AJXKJkSoNEmUV6.jpg"
+      },
+      {
+        "name": "Arthur Tovey",
+        "character": "Member of Angry Mob",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fXDEmUPlWmIt5mic6fPL2r8eXRJ.jpg"
+      },
+      {
+        "name": "Max Wagner",
+        "character": "Villager",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Mel Brooks",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c21qNcMJlHnRolfhQhZOVacjtwI.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "monster",
+    "experiment",
+    "assistant",
+    "castle",
+    "bride",
+    "parody",
+    "mad scientist",
+    "laboratory",
+    "spoof",
+    "horror spoof",
+    "black and white",
+    "scientist",
+    "frankenstein"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "An American grandson of the infamous scientist, struggling to prove that his grandfather was not as insane as people believe, is invited to Transylvania, where he discovers the process that reanimates a dead body.",
+    "As a respected researcher and physician, Dr. Frederick Frankenstein, the grandson of the more famous Dr. Victor Frankenstein, who did experiments on bringing back the dead, tries to disassociate himself from his more famous relative, even to the point of pronouncing their surname differently. Regardless, Frederick is drawn back to the small Transylvannian town and castle where Victor conducted his experiments, he leaving behind his somewhat standoffish and \"untouchable\" fiancée, Elizabeth, back in the US. He also slowly begins to get drawn into the research that his grandfather conducted, he eventually learns not by accident. As Frederick tries to reanimate his dead subject with the help of his hunchbacked aide Igor and his beautiful assistant Inga, rumors abound in the town of what he is doing, they who have been trying to disassociate themselves from the work of the former Dr. Frankenstein generations ago. Inspector Kemp is tasked with stopping any work if it is indeed happening. All these issues collide as Frederick and team try to hide their work from the Inspector while hitting some technical roadblocks, and as Elizabeth comes to Transylvannia and accidentally gets caught up in the experiment.—Huggo",
+    "Lecturing brain surgeon Dr Frederick Frankenstein (pronounced Fron-kon-shteen) has lived in the shadow of his grandfather and infamous mad scientist Dr Victor Frankenstein for too long. But family is forever. And after inheriting the ancestral castle in Transylvania, Frederick is about to discover that legends never die. When Dr Frederick stumbles upon his ancestor's secret lab, a miracle happens: the deceased visionary's journals inspire him to continue where his grandpa left off. As loyal servant Igor and pretty laboratory assistant Inga help him reanimate the dead, Dr Frederick is on the brink of making history. All that's missing is a mighty bolt of lightning.—Nick Riganas",
+    "When the will of Victor Frankenstein, the famous scientist who attempted to reanimate dead bodies, is opened, his grandson, Frederick, who's become a skilled neurosurgeon and teacher and has cut most ties with his family name due to his grandfather's experiments, is given the castle where all the experiments were made. Upon his arrival, Frederick finds and reads through his grandfather's book about his theories and experiments and discovers that they might in fact work. Assisted by Igor, the grandson of the Igor who assisted Victor Frankenstein, and Inga, an attractive lab assistant, he successfully reanimates a body which soon escapes and creates havoc...—J. Rieper"
+  ],
+  "synopsis": "Dr. Frederick Frankenstein (Gene Wilder) is a lecturing physician at an American medical school and engaged to the tightly wound socialite Elizabeth (Madeline Kahn). He becomes exasperated when anyone brings up the subject of his grandfather Victor Frankenstein, the infamous mad scientist; to dissociate himself from his forebear, Frederick insists that his surname is pronounced: \"fraunk-en-stein\". When a solicitor informs him that he has inherited his family's estate in Transylvania after the death of his great-grandfather, the Baron Beaufort von Frankenstein, Frederick travels to Europe to inspect the property. At the Transylvania train station, he is met by a hunchbacked, bug-eyed servant named Igor (Marty Feldman), and a lovely young personal assistant named Inga (Teri Garr).Upon arrival at the estate, Frederick meets the forbidding housekeeper Frau Blücher (Cloris Leachman), whose name makes the horses of the nearby stables nay and tremble (a running joke used throughout the film). Upon discovering the secret entrance to his grandfather's laboratory and reading his private journals, Frederick is so captivated that he decides to resume his grandfather's experiments in re-animating the dead. He and Igor steal the corpse of a recently executed criminal, and Frederick sets to work experimenting on the large corpse. Matters go awry when Igor is sent to steal the brain of a deceased revered historian, Hans Delbrück; startled by lightning, he drops and ruins Delbrück's brain. Taking a second brain, Igor returns with a brain labeled \"Do Not Use This Brain! Abnormal\", which Frederick unknowingly transplants into the corpse.Soon, Frederick is ready to re-animate his creature (Peter Boyle), who is eventually brought to life by electrical charges during a lightning storm. The creature makes its first halting steps, but, frightened by Igor lighting a match, he attacks Frederick and must be sedated. Meanwhile, the townspeople are uneasy at the possibility of Frederick continuing his grandfather's work, unaware of the creature's existence; most concerned is Inspector Kemp (Kenneth Mars), a one-eyed police official with a prosthetic arm and a thick German accent. Kemp visits the doctor and subsequently demands assurance that he will not create another monster. Upon returning to the lab, Frederick discovers Blücher setting the creature free. After she reveals the monster's love of violin music and her own romantic relationship with Frederick's grandfather, the creature is enraged by sparks from a thrown switch and escapes from the Frankenstein castle.While roaming the countryside, the monster has frustrating encounters with a young girl and a blind hermit (Gene Hackman). Frederick recaptures the monster and locks the two of them in a room, where he calms the monster's homicidal tendencies with flattery and fully acknowledges his own heritage, shouting out emphatically, \"My name is Frankenstein!\". Frederick offers the sight of \"The Creature\" following simple commands to a theater full of illustrious guests. The demonstration continues with Frederick and the monster launching into the musical number \"Puttin' On the Ritz\". However, the routine ends disastrously when a stage light explodes and frightens the monster, who becomes enraged and charges into the audience, where he is captured and chained by police. Back in the laboratory, Inga attempts to comfort Frederick and the two wind-up sleeping together on the suspended reanimation table.The monster escapes when Frederick's fiancee Elizabeth arrives unexpectedly for a visit, taking Elizabeth captive as he flees. Elizabeth falls in love with the creature due to his inhuman stamina and his enormous penis (referred to as Schwanstücker or Schwanzstück). The townspeople hunt for the monster. Desperate to get the creature back, Frederick plays the violin to lure his creation back to the castle and recaptures him. Just as the Kemp-led mob storms the laboratory, Frankenstein transfers some of his stabilizing intellect to the creature who, as a result, is able to speak for the first time and reason with and placate the mob. Elizabeth marries the now erudite and sophisticated monster with her hair styled identically to that of the female creature from the Bride of Frankenstein, while Inga joyfully learns what her new husband Frederick got in return during the transfer procedure the monster's Schwanzstücker.",
+  "imdb_score": 8
+}

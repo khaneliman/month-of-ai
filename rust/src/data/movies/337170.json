@@ -1,0 +1,353 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/thBankgTBZAM3YkdeeF7fuDvkcD.jpg",
+  "id": 337170,
+  "title": "American Made",
+  "poster_path": "https://image.tmdb.org/t/p/w500/23ILgoPSO5ShKcTZOuiTVfqFAUB.jpg",
+  "release_date": "2017-08-18",
+  "vote_average": 6.874,
+  "vote_count": 4247,
+  "popularity": 35.174,
+  "overview": "The true story of pilot Barry Seal, who transported contraband for the CIA and the Medellin cartel in the 1980s.",
+  "imdb_id": "tt3532216",
+  "budget": 50000000,
+  "homepage": "http://www.americanmademovie.net/",
+  "revenue": 133511855,
+  "runtime": 115,
+  "tagline": "It's not a felony if you're doing it for the good guys.",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    "Universal Pictures",
+    "Cross Creek Pictures",
+    "Imagine Entertainment",
+    "Vendian Entertainment",
+    "Quadrant Pictures",
+    "Hercules Film Fund"
+  ],
+  "production_countries": [
+    "LU",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Cruise",
+        "character": "Barry Seal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eOh4ubpOm2Igdg0QH2ghj0mFtC.jpg"
+      },
+      {
+        "name": "Sarah Wright",
+        "character": "Lucy Seal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kdD4FLJdoe0qpQPSOJCYhfUW72x.jpg"
+      },
+      {
+        "name": "Domhnall Gleeson",
+        "character": "Monty Schafer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uDbwncuKlqL0fAuucXSvgakJDrc.jpg"
+      },
+      {
+        "name": "Alejandro Edda",
+        "character": "Jorge Ochoa",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zqCvFCY9kWd3AkVv5Brwi7pZJ9W.jpg"
+      },
+      {
+        "name": "Jesse Plemons",
+        "character": "Sheriff Downing",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bXkAPGVnf4j8fbCZ7DrWGkYOc5S.jpg"
+      },
+      {
+        "name": "Connor Trinneer",
+        "character": "George W. Bush",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tccLxyVboqzeK3Wf2daq1BavVmB.jpg"
+      },
+      {
+        "name": "Mauricio Mejía",
+        "character": "Pablo Escobar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tIe830ZAo81lKJy7MRtqHQnHkW.jpg"
+      },
+      {
+        "name": "Jayma Mays",
+        "character": "Dana Sibota",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n8tY5eVXje0vXTws66YAdEeHMy5.jpg"
+      },
+      {
+        "name": "Lola Kirke",
+        "character": "Judy Downing",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xXEBb9OoET7SgtkSmh1XtMs5YKC.jpg"
+      },
+      {
+        "name": "April Billingsley",
+        "character": "Jenny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l1mjOVk43USZ3pBrLtUX0WWEFAQ.jpg"
+      },
+      {
+        "name": "Jayson Warner Smith",
+        "character": "Bill Cooper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ilGnY7Alf1WG5yBi2IHvnlI40At.jpg"
+      },
+      {
+        "name": "William Mark McCullough",
+        "character": "Pete Dubois",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jBoThkxZvQQ2HHaukJuvCyHMERv.jpg"
+      },
+      {
+        "name": "Lara Grice",
+        "character": "Female Reporter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kDJ5sBQPoMqhSPpLXa0IaQ8Gc0e.jpg"
+      },
+      {
+        "name": "Frank Licari",
+        "character": "ATF Special Agent Franks",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m7fKjjlP85cZjplttLvTPxmz0En.jpg"
+      },
+      {
+        "name": "Jed Rees",
+        "character": "Louis Finkle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/o1ivnaWK3AXxPI6O9UmykTz2kcY.jpg"
+      },
+      {
+        "name": "Caleb Landry Jones",
+        "character": "JB",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8M5lPHrERwAIfWK56RkH30FOjhV.jpg"
+      },
+      {
+        "name": "Benito Martinez",
+        "character": "James Rangel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3lPxnrPCs31lnliBNEssgxw7Qxg.jpg"
+      },
+      {
+        "name": "Justice Leak",
+        "character": "Agent Winter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/55Fc5iVquRcyZVqmBHdu76nkmq.jpg"
+      },
+      {
+        "name": "Sharon Conley",
+        "character": "DEA Agent Grace (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aWRhym8s65teBaxsJKO5KO0JWp8.jpg"
+      },
+      {
+        "name": "Mike Pniewski",
+        "character": "Willie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aQz8I1lPjTFsxsrITaJQJH8P6zW.jpg"
+      },
+      {
+        "name": "Robert Pralgo",
+        "character": "Gary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lF2UcQemojihJM4XlLGkWEEsJuJ.jpg"
+      },
+      {
+        "name": "E. Roger Mitchell",
+        "character": "Agent Craig McCall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qdcwrdA1IYvuRe0A2abSvzVLZVS.jpg"
+      },
+      {
+        "name": "Morgan Hinkleman",
+        "character": "Christina Seal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dcBDNhGa7RkhdqfKxxZagILF3Td.jpg"
+      },
+      {
+        "name": "Courtney Lakin",
+        "character": "Stewardess",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g0SMfpMDOxbRTFlQkvvdyjUipwS.jpg"
+      },
+      {
+        "name": "Chris Gann",
+        "character": "Donor #2 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jX73lEGi5TNjordeEEZRKjqGL9x.jpg"
+      },
+      {
+        "name": "Fredy Yate",
+        "character": "Carlos Lehder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6rChpHWaOeIU7937MdcGwDxTQec.jpg"
+      },
+      {
+        "name": "Robert Farrior",
+        "character": "Oliver North",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e6oe7eswcUTYfeq2otaIgAtfzor.jpg"
+      },
+      {
+        "name": "Alberto Ospino",
+        "character": "Manuel Noriega",
+        "profile_path": ""
+      },
+      {
+        "name": "Felipe Bernedette",
+        "character": "Translator",
+        "profile_path": ""
+      },
+      {
+        "name": "Daniel Lugo",
+        "character": "Adolfo Calero",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nCsVTzLZ0hj4jQQH0dmyrjgpCdl.jpg"
+      },
+      {
+        "name": "Lauren Boyd",
+        "character": "Secretary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iYtUySKJF6qZ7B1zsPFUPJHsENb.jpg"
+      },
+      {
+        "name": "Nancy Davis Reagan",
+        "character": "Herself (archive footage)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eqQwZhkI9RXpeIBQh8eOGoiUQBy.jpg"
+      },
+      {
+        "name": "Lauren Revard",
+        "character": "Teller",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9sQ1BF1pBaSat8FsX4Z4TCL7Gvk.jpg"
+      },
+      {
+        "name": "Marcus Hester",
+        "character": "Parka",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kKI5yoVZeruhOXx5fiFhW4WSLQ2.jpg"
+      },
+      {
+        "name": "Alex Collins",
+        "character": "ATF #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/67yfMC8qGhV23qbCMPXJzc09kCd.jpg"
+      },
+      {
+        "name": "Scott Poythress",
+        "character": "ATF #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tVJSL1ifn0EUmdTZRtFfiRalWhv.jpg"
+      },
+      {
+        "name": "Alpha Trivette",
+        "character": "Judge Linkletter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wKddPBmkXNE6g4GxTRzZVzTqNos.jpg"
+      },
+      {
+        "name": "Kevin L. Johnson",
+        "character": "Agent Horace Wainwright",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8YnbMp7uvZipkTIhVypp6RPj5Rn.jpg"
+      },
+      {
+        "name": "DeVere Jehl",
+        "character": "Plain Clothed Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Emilio Sierra",
+        "character": "Héctor (Colombian Driver)",
+        "profile_path": ""
+      },
+      {
+        "name": "Leon Lamar",
+        "character": "Elderly Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dN1V8MZOkaBXibTwExaleb7ZTid.jpg"
+      },
+      {
+        "name": "Maria Howell",
+        "character": "NSC Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yVTrDlQqHNfgXRRL9abOqr1eZi8.jpg"
+      },
+      {
+        "name": "Darla Delgado",
+        "character": "Customs Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5BZyQGMxVQ0DIwjsZuvB6YWCQdh.jpg"
+      },
+      {
+        "name": "Mickey Sumner",
+        "character": "North's Aide Fawn Hall",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gNxtYfg8xXgeQ4YC7Pl3HNRAjol.jpg"
+      },
+      {
+        "name": "Daniel Thomas May",
+        "character": "CIA Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vrdEpOCM1VtcjClCsYe9abpf54i.jpg"
+      },
+      {
+        "name": "Chloe Swan Sparwath",
+        "character": "LeAnn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ulTMGglfaOQP4oerCTa3tlfPiJR.jpg"
+      },
+      {
+        "name": "Alex Quarles",
+        "character": "Aaron",
+        "profile_path": ""
+      },
+      {
+        "name": "Trip McCarthy",
+        "character": "Dean",
+        "profile_path": ""
+      },
+      {
+        "name": "Zachary Powell",
+        "character": "Dean",
+        "profile_path": ""
+      },
+      {
+        "name": "Jairo Ordóñez",
+        "character": "Scar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fozkafjHkHO9bm0IIwp6g0E9qRq.jpg"
+      },
+      {
+        "name": "Matt Mercurio",
+        "character": "FBI Analyst",
+        "profile_path": "https://image.tmdb.org/t/p/w185/GgvUolaiAFTnTxj6YnbSFPT45b.jpg"
+      },
+      {
+        "name": "Johnny Otto",
+        "character": "Protester",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i5LOfr6GLH6hvBdCoMyKY457IQZ.jpg"
+      },
+      {
+        "name": "Ronald Reagan",
+        "character": "Himself (archive footage)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zqpgunkttKWkBFTTdL2Oj86uklx.jpg"
+      },
+      {
+        "name": "Kayla Perkins",
+        "character": "Waitress (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jFOBdEts6nI4dwgtFHF8bONSQE5.jpg"
+      },
+      {
+        "name": "Michael Mercaldi",
+        "character": "Sandinista (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Southworth",
+        "character": "Agent Winters (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2DKM8LkytmWkiQjhq2QGO8n2P5H.jpg"
+      },
+      {
+        "name": "Bill Billions",
+        "character": "Radar Op. #1 (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Doug Liman",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kIT7NE6MDaiIrjPEbObXk4COFVa.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "cia",
+    "drug smuggling",
+    "money laundering",
+    "pilot",
+    "based on true story",
+    "drug cartel",
+    "illegal drugs",
+    "dea agent",
+    "1980s",
+    "pablo escobar"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "The story of Barry Seal, an American pilot who became a drug-runner for the CIA in the 1980s in a clandestine operation that would be exposed as the Iran-Contra Affair.",
+    "Barry Seal was just an ordinary pilot who worked for TWA before he was recruited by the CIA in 1978. His work in South America eventually caught the eye of the Medellín Cartel, associated with Pablo Escobar, who needed a man with his skill set. Barry became a drug trafficker, gun smuggler and money launderer. Soon acquiring the title, 'The gringo that always delivers'.—Viir khubchandani",
+    "In 1978, the skilled and ambitious TWA pilot Barry Seal smuggles Cuban cigars to increase his income. Out of the blue, he is contacted by the CIA agent Monty Schafer, who asks him to work for the CIA photographing facilities over Central America using a state-of-art small plane. Soon Barry contacts General Noriega as a courier for the CIA and is contacted by the Medellin Cartel that wants him to transport drugs to the USA. Then Schafer asks Barry to carry weapons for the Contras in Nicaragua. Barry invites pilots that are his friends and plots routes to smuggle drugs for the cartel. The CIA closes eyes to the scheme and Barry becomes richer and richer. He uses the Arkansas town Mena to launder his money. But the DEA and the FBI are tracking him down. When the CIA shuts down the scheme, Barry is left alone and arrested by the agencies. What will happen to his family and him?—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "1978. Barry Seal, an airline pilot, is recruited by the CIA to fly special transport missions in Central America. Initially it is a matter of information-for-supplies but ultimately he ends up being a drug transporter for Pablo Escobar and the Medellin Cartel and supplying anti-Communist groups, including the Nicaraguan Contras, with weapons.—grantss",
+    "Knowing that he smuggles Cuban cigars into the United States as a profitable side hustle, CIA agent, Monty Schafer, recruits the daredevil TWA pilot, Barry Seal, to take aerial photographs of Sandinista bases in 1978. Before long, with Barry acting as a liaison, delivering money to General Manuel Noriega in exchange for information, Pablo Escobar's infamous Medellín Cartel enters the picture, with its co-founders, Jorge Ochoa and Carlos Lehder, wanting to have a piece of the action. Now, Seal finds himself leading a peril-laden, cocaine-dusted triple life, and Schafer, as greedy as ever, keeps assigning increasingly dangerous tasks to his thrill-seeking go-getter, including flying guns to the Nicaraguan Contras, leading to the late 1980s Iran/Contra scandal, during the second term of the Ronald Reagan Administration.—Nick Riganas"
+  ],
+  "synopsis": "Set in the year 1978, Barry Seal (Tom Cruise) works as a pilot for Trans World Airlines. He is married to Lucy (Sarah Wright) and has two children with her, with a third on the way.While at a bar one night, Barry is found by a man saying his name is Monty Schafer (Domhnall Gleeson). He is familiar with Barry's work as a pilot, but Schafer offers him a chance to make better money by taking on reconnaissance missions for the CIA in a smaller plane with cameras just south of the border. Schafer convinces Barry that he would be working for the good guys, but it would have to be kept completely secret, even from his own family. He then lets Barry take the plane out for a ride.As he begins his new job, Barry starts making tapes documenting his travels and exploits. He flies over countries like Guatemala, El Salvador, and Honduras. Schafer is so impressed with the photos that Barry brings back to him, that he assigns Barry a new task of being a bag man between the CIA and General Manuel Noriega (Alberto Ospino) in Panama.On his mission, Barry meets the Medellin Cartel - Jorge Ochoa (Alejandro Edda), Carlos Lehder (Fredy Yate Escobar), and Pablo Escobar (Mauricio Mejia). They want to get their drugs into the United States, but the runway for the planes is too risky for most pilots. Barry takes his plane for a ride and almost crashes into the trees but manages to pull up and continue his flight with ease and get back to the U.S. without getting in trouble.Barry now has the trust of the cartel. However, the DEA raid one of their compounds, and Barry is arrested. Schafer finds him in his cell and tells him that his house will get raided, and Lucy will most likely be brought in for questioning and be kept overnight. When Barry gets out, he goes home and urges Lucy and the kids to pack up their things so they can move. Despite Lucy's questioning, Barry insists he cannot tell her a thing, leading her to lose trust in him.The Seals move to Mena, AR. Barry is then given the assignment to move guns for the Contras, even being allowed to own his own airport and planes for the job. His first flight to meet with the Contras ends with them robbing his stuff instead of taking his guns. Barry calls Schafer to let him know that the Contras aren't interested in the guns. On his second trip, he meets with a cartel leader to negotiate sending the guns to the cartel instead. Barry brings guns to the cartel and ships their drugs to the U.S. and the Contras while trying his hardest to avoid being detected by the law.Barry gets four other men to help him on his trips when he realizes the workload is too much for one guy to pull off. They fly separate planes on their missions.Schafer then asks Barry to bring back some of the Contras to the U.S. for the CIA's newly-established training base. Upon arrival, however, some of the men run away.As Barry's business grows, he starts to contribute to the community and provide even more for his family while also shamelessly indulging in his wealth and setting up fronts to hide all the money. Eventually, the Seals are visited by Lucy's freeloading brother JB (Caleb Landry Jones), whom Barry is not fond of. When Lucy tells JB to get a job, Barry sets him up working at the airport. JB ends up taking some money that Barry was hiding in the hangar, using it to buy himself a new car and to pick up an underage girl.The DEA starts to go after the pilots. On one mission, Barry crash-lands and loses a significant portion of the drugs. Meanwhile, the cartel runs into trouble when Escobar declares war on the government, and the cartel gets kicked out of Colombia. Barry must meet with them to sort out the issues. At the same time, JB gets arrested by the sheriff after he is caught carrying a suitcase full of money.After bailing JB out, Barry drives him to a separate car so that he can leave and never return. JB curses Barry and drives away, only to be blown up by a car bomb. Barry gets rid of the car by dumping it in the woods.Barry and Schafer meet to discuss what's been going on. Schafer says the Contras left since they just weren't fighting. The CIA then starts to get rid of anything involving Barry. Barry attempts to move the stash of products out of the airport, but he is found by FBI, DEA, and other law enforcement agents, and he is arrested.Barry meets with a prosecutor, Dana Sibota (Jayma Mays), who is hellbent on getting Barry locked up. As he waits outside while she speaks to a lawyer on the phone, Barry tries to bribe the agents with caddies while also insisting he will walk away scot-free. Sibota comes out and confirms that Barry is free to go.Barry is given a task under Ronald Reagan's administration to gather dirt on the Sandinistas, all of whom are believed to be drug traffickers. They set up cameras in a plane for Barry to get photos as proof.Barry returns to meet with Ochoa and the rest of the Medellin Cartel. As he still has their trust, Barry engages in business with them, moving products into the plane where the photos are taken. The White House later releases the photos as propaganda, and Barry is seen in the photos. He is told that they were not supposed to be released to the public until after the cartel members were caught. The DEA go through Barry's house looking for evidence. Lucy takes the kids to Baton Rouge.Barry is convicted and is sentenced to 1,000 hours of community service. He moves from hotel to hotel each night. On one such night, he is approached in his car by hit-men sent by Escobar, and he is subsequently murdered.The final text states that \"Schafer\" got promoted after suggesting they get the Iranians to arm the Contras. One of Barry's guys went on to become a pastor in Alabama after he was set free. The rest of the pilots weren't seen after that. The CIA continued to use Barry's plane to arm the Contras until one of the planes was shot down over Nicaragua. The ensuing scandal was known as the Iran-Contra Affair. Lucy returned to Louisiana with the kids. The last thing we see is her working as a cashier at a coffee shop, still wearing a bracelet that Barry gave her.",
+  "imdb_score": 7.1
+}

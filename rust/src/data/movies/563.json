@@ -1,0 +1,523 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/9qokUngA9fAgBy7skSyZj2irOfR.jpg",
+  "id": 563,
+  "title": "Starship Troopers",
+  "poster_path": "https://image.tmdb.org/t/p/w500/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+  "release_date": "1997-11-07",
+  "vote_average": 7.044,
+  "vote_count": 4547,
+  "popularity": 41.666,
+  "overview": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs\".",
+  "imdb_id": "tt0120201",
+  "budget": 105000000,
+  "homepage": "",
+  "revenue": 121214377,
+  "runtime": 129,
+  "tagline": "A new kind of enemy. A new kind of war.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "TriStar Pictures",
+    "Touchstone Pictures",
+    "Jon Davison Productions",
+    "Big Bug Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Casper Van Dien",
+        "character": "Johnny D. Rico",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gHnDUOCuckdZf60tKrfL9VkJD8M.jpg"
+      },
+      {
+        "name": "Dina Meyer",
+        "character": "Dizzy Flores",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bKte4cIXI1aQat8JLVNONZE4Y2.jpg"
+      },
+      {
+        "name": "Denise Richards",
+        "character": "Carmen Ibañez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mKRJ10xsz9dgDlEHCfqD7vD7zh.jpg"
+      },
+      {
+        "name": "Jake Busey",
+        "character": "Private Ace Levy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3WknfRePAvwFJfrbYVvfYXTQCh9.jpg"
+      },
+      {
+        "name": "Neil Patrick Harris",
+        "character": "Colonel Carl Jenkins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lZpyUk4savnwZylvrCPM0MvMXiY.jpg"
+      },
+      {
+        "name": "Clancy Brown",
+        "character": "Career Sergeant Zim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9RgzFqbmWBLVfq9wvyDo5UW8VT1.jpg"
+      },
+      {
+        "name": "Michael Ironside",
+        "character": "Lieutenant Jean Rasczak",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mzHmxtKcMJjDqWxKd67mKQJFW1B.jpg"
+      },
+      {
+        "name": "Patrick Muldoon",
+        "character": "Zander Barcalow",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nuqKElpRossYTwh9BIymHLA5G6e.jpg"
+      },
+      {
+        "name": "Seth Gilliam",
+        "character": "Private Sugar Watkins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9CiWZNBysr4IiyERAYQFONqyTAQ.jpg"
+      },
+      {
+        "name": "Rue McClanahan",
+        "character": "Biology Teacher",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n8fHeOBqTwPmo8nSxWqHRnregHq.jpg"
+      },
+      {
+        "name": "Blake Lindsley",
+        "character": "Katrina McIntire",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1sZKoLMvK1idRLzO7TYeB3cGaOj.jpg"
+      },
+      {
+        "name": "Steven Ford",
+        "character": "Lieutenant Willy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lszRdjY2fTVYcsQBbziRnc9X1Ar.jpg"
+      },
+      {
+        "name": "Ungela Brockman",
+        "character": "Corporal Birdie",
+        "profile_path": ""
+      },
+      {
+        "name": "Bruce Gray",
+        "character": "Sky Marshal Dienes",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u2MDhVpGtLoWhr7HoX927xhLsaj.jpg"
+      },
+      {
+        "name": "Denise Dowse",
+        "character": "Sky Marshal Tehat Meru",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Ap7nK94rFEjaQcduKBsLhetmPy.jpg"
+      },
+      {
+        "name": "Amy Smart",
+        "character": "Cadet Lumbreiser",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cGbVgcBDYeSqNWUrwCUKZZbVMje.jpg"
+      },
+      {
+        "name": "Tami-Adrian George",
+        "character": "Djana'D",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rzXB3ST3urxKUxyjlRt7JI2RyhD.jpg"
+      },
+      {
+        "name": "Julianna McCarthy",
+        "character": "Expert",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vNQRuYWIde8vUgs66S6MD1Y8FJP.jpg"
+      },
+      {
+        "name": "Dale Dye",
+        "character": "General",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bkMcK2hvB1wRJT1YFgNTl7ivlF2.jpg"
+      },
+      {
+        "name": "Dean Norris",
+        "character": "Commanding Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rHQqo9toD7fgE6HvfJ7oymdY6YO.jpg"
+      },
+      {
+        "name": "Marshall Bell",
+        "character": "General Owen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8pZ12nmxnaB1EIxDxcp9znrubNM.jpg"
+      },
+      {
+        "name": "Eric Bruskotter",
+        "character": "Breckinridge",
+        "profile_path": "https://image.tmdb.org/t/p/w185/70SWj82kx9KQGdybGPvShDXJ8Er.jpg"
+      },
+      {
+        "name": "Matt Levin",
+        "character": "Kitten Smith",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tqlNtLMiIwFp59EpCnGeTCV4xiS.jpg"
+      },
+      {
+        "name": "Anthony Ruivivar",
+        "character": "Shujimi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pGyKViGHdi5BxQM2jo7yja4wVmf.jpg"
+      },
+      {
+        "name": "Brenda Strong",
+        "character": "Captain Deladier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jMfkFmQT2zgTojkcmn67Fju3HU.jpg"
+      },
+      {
+        "name": "Christopher Curry",
+        "character": "Mr. Bill Rico",
+        "profile_path": "https://image.tmdb.org/t/p/w185/afWbFCCDysdG0yY7xqzfp8XVZIE.jpg"
+      },
+      {
+        "name": "Lenore Kasdorf",
+        "character": "Mrs. Rico",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zyU2cEF8RUC8Zx11SmVBYIPQ62a.jpg"
+      },
+      {
+        "name": "Teo",
+        "character": "Corporal Bronski",
+        "profile_path": ""
+      },
+      {
+        "name": "Curnal Achilles Aulisio",
+        "character": "Sgt. Gillespie",
+        "profile_path": ""
+      },
+      {
+        "name": "Greg Travis",
+        "character": "Net Correspondent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pi97ja6RBe8PEKKPs6OEb5uxyuQ.jpg"
+      },
+      {
+        "name": "John Cunningham",
+        "character": "Fed Net Announcer (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hXBlmWKvD342CcHzYbOeucslaJU.jpg"
+      },
+      {
+        "name": "Timothy McNeil",
+        "character": "Expert",
+        "profile_path": ""
+      },
+      {
+        "name": "Robert David Hall",
+        "character": "Recruiting Sergeant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/myVVloDAXZgmSXI0dxAPg8RN0JF.jpg"
+      },
+      {
+        "name": "Brad Kane",
+        "character": "Lanny",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5kH9BzRX1osFjvWsh9vmjwTyE7h.jpg"
+      },
+      {
+        "name": "Timothy Omundson",
+        "character": "Psychic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fPhLMiodU7mVegOYvJ8aoj84ZHJ.jpg"
+      },
+      {
+        "name": "Patrick Bishop",
+        "character": "Engineering Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Hunter Bodine",
+        "character": "Young Cap Trooper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9kj4bZemBa4jrxZhdzi5Dxrd5S7.jpg"
+      },
+      {
+        "name": "Travis Lowen",
+        "character": "Little Boy Trooper",
+        "profile_path": ""
+      },
+      {
+        "name": "Patrick Wolff",
+        "character": "Late Cadet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ktP50JYdbM2OA2kv7drNrmshdJT.jpg"
+      },
+      {
+        "name": "Mara Duronslet",
+        "character": "Communications Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tyrone Tann",
+        "character": "Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Matt Entriken",
+        "character": "Marco",
+        "profile_path": ""
+      },
+      {
+        "name": "Eric DaRe",
+        "character": "Medic",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ojiPJzK4TcI5pSApOHP9CRqvbMc.jpg"
+      },
+      {
+        "name": "Ronald L. Botchan",
+        "character": "Jumpball Referee",
+        "profile_path": ""
+      },
+      {
+        "name": "Walter Adrian",
+        "character": "Judge",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephanie Erb",
+        "character": "Young Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3eTrorUzs0BCqOy0dnAMUjFaERb.jpg"
+      },
+      {
+        "name": "Alexi Lakatos",
+        "character": "Stomping Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Nathaniel Marshall",
+        "character": "Stomping Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Austin Sanderford",
+        "character": "Stomping Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Rhiannon Vigil",
+        "character": "Stomping Kid",
+        "profile_path": ""
+      },
+      {
+        "name": "Mylin Brooks",
+        "character": "Female Trooper",
+        "profile_path": ""
+      },
+      {
+        "name": "Julie Pinson",
+        "character": "Female Trooper",
+        "profile_path": ""
+      },
+      {
+        "name": "Armand Darrius",
+        "character": "Male Trooper",
+        "profile_path": ""
+      },
+      {
+        "name": "Kai Lennox",
+        "character": "Male Trooper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bpwqiHG7FXsUmHyyFlQopQSpJIg.jpg"
+      },
+      {
+        "name": "Brooke Morales",
+        "character": "Cheerleader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/culeCUfNZtU3hH2rypuQiRdDY8z.jpg"
+      },
+      {
+        "name": "Mike Stokey",
+        "character": "Officer with Morita",
+        "profile_path": ""
+      },
+      {
+        "name": "Mary Ann Schmidt",
+        "character": "Female Trooper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/98ruWk76ixY5CyskK5AtuSByCid.jpg"
+      },
+      {
+        "name": "Aaron Stielstra",
+        "character": "Trooper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y87E6AwNzXAqqyr6T3cFKdOg3d7.jpg"
+      },
+      {
+        "name": "Edward Neumeier",
+        "character": "Defendant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sBkGYHLdTDs3c1OShy9EyB93PCn.jpg"
+      },
+      {
+        "name": "Michael Papajohn",
+        "character": "Dead Trooper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hdTJBfIXfvRdlD1p8y6rra207UP.jpg"
+      },
+      {
+        "name": "Michael A. Valenzano",
+        "character": "Trooper (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Mo Faisal",
+        "character": "Trooper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a7Dmvb8L8QcGTVVmgWO1r8U28ME.jpg"
+      },
+      {
+        "name": "R. Lee Ermey",
+        "character": "Voice heard on speaker (uncredited) (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aXFJlEGHlQT7bwxkKwq6Sx7PeEp.jpg"
+      },
+      {
+        "name": "Matt Duggan",
+        "character": "Wounded Soldier on Gurney (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/97GFIzloFAXHPNo8ERuTtrroZtO.jpg"
+      },
+      {
+        "name": "Whitney Hall",
+        "character": "Judge (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Betty Hankins",
+        "character": "Sky Marshal (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Kaius Harrison",
+        "character": "Cpl. Allen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tLsOIsHlkuS19iOengXPi1wQA6U.jpg"
+      },
+      {
+        "name": "Bruce Holman",
+        "character": "Jump Ball Referee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1xhSV69K8wiXFECYZQ6HHtKU6qB.jpg"
+      },
+      {
+        "name": "Michael Gerald",
+        "character": "Football Quarterback (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lIpE3R4GhVqh4hrXWzRKiSDVD6Z.jpg"
+      },
+      {
+        "name": "Jon Davison",
+        "character": "Buenos Aires Survivor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dawn E. Anderson",
+        "character": "Female Trooper (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Tony Nichols",
+        "character": "Cadet 'Flipper' (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dan Olivo",
+        "character": "Academy Soilder (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Zoë Poledouris",
+        "character": "School Prom Lead Singer (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ashley Prendergast",
+        "character": "Hot Female Trooper (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ray Quiroga",
+        "character": "Male Trooper Leader (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "David Rey",
+        "character": "Trooper (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Dennis Collins",
+        "character": "Soldier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Farnaz Samiinia",
+        "character": "Female Trooper (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Joleen Sanders",
+        "character": "Female Trooper (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Julia Self",
+        "character": "Female Trooper (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Claude Stuart",
+        "character": "Student / Male Trooper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yInn1XeEz60xnI013CJckLvk7en.jpg"
+      },
+      {
+        "name": "Parry Shen",
+        "character": "Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5DSwc0rUJ4vrkjyiHLsIOD4PUCu.jpg"
+      },
+      {
+        "name": "Cari Vega",
+        "character": "Student / Female Trooper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2k3mnNzD1peTwABTIPtlwTOUAUG.jpg"
+      },
+      {
+        "name": "Jim Temple",
+        "character": "Male Trooper (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Justin Ward",
+        "character": "Medic (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Sam P. Whitehead",
+        "character": "Trooper (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Melissa J. Ward",
+        "character": "Trooper (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Johnny Mansbach",
+        "character": "Marine (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "David Beckett",
+        "character": "Businessman",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Paul Verhoeven",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wxkroRBtM6NKZdx9sYLFfFSGnaR.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "spacecraft",
+    "space marine",
+    "army",
+    "moon",
+    "based on novel or book",
+    "asteroid",
+    "intelligence",
+    "dystopia",
+    "buenos aires, argentina",
+    "space battle",
+    "satire",
+    "giant insect",
+    "creature",
+    "soldier",
+    "drill instructor",
+    "military",
+    "bugs"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Humans in a fascist, militaristic future wage war with giant alien bugs.",
+    "In a not-so-distant future, with the Earth governed by the militaristic United Citizen Federation and multitudes of highly evolved Klendathu Arachnids threatening the safety of our solar system, high-school athlete Johnny Rico and three of his hometown friends join up to do their part. And to ensure humankind's future, an all-out invasion has begun; however, in this far-off exoplanet hostile to life as we know it, brute force alone and conventional strategies won't cut it. Now, the unstoppable Bug Army is at the gates. Will Rico and his fellow Starship Troopers end up serving as cannon fodder?—Nick Riganas",
+    "In the distant future high school kids are encouraged to become citizens by joining the military. What they don't know is that they'll soon be engaged in a full scale war against a planet of alien insects. The fight is on to ensure the safety of humanity.—Christopher Van Pelt",
+    "The time is the future. Johnny Rico joins the military after graduation to become a citizen and for the love of his high school sweetheart. In the war against the bug aliens of Klendathu, the military is a very dangerous place to be. Johnny works his way through several battles and with the help of his friends and comrades, helps turn the tide of the war, and save the human race.—<maninamask@aol.com>",
+    "Set on the future earth, Johnny rico is a young student dating a girl named Carmen. When Carmen decides to join the military in order to become a class citizen (citizenship is only achieved through serving your country), Johnny follows and joins as well. He soon realizes that he joined for the wrong reasons but just as he is about to quit, an asteroid that originated from the orbit of planet \"klendathu\" hits Buenos Aires (his home town) and kills his family. Johnny and his fellow troopers set out to destroy the planet's inhabitants: a type of deadly and very large scaled space bugs. Through a seemingly ordinary action flick, director paul verhoeven creates a subtle anti-war theme, that shows us a fascist and military world far more frightening than WW2's Germany, Italy or Russia, the kind of world that is actually functioning.—guyshemi"
+  ],
+  "synopsis": "In the distant future, several hundred years after a revolution by Galactic War Veterans overthrew the world's governments and imposed a militaristic regime called 'The Global Federation of Earth', humanity is at tense diplomatic relations with an alien race, the Arachnids, or \"Bugs\" as they are called on Earth. The Arachnid homeworld is the planet Klendathu (one of many planets inhabited by these creatures located on the other side of the Milky Way Galaxy). John 'Johnny' D. Rico (Casper Van Dien), his A-student girlfriend Carmen (Denise Richards), and best friend Carl (Neil Patrick Harris), who possesses psychic abilities, graduate from high school in Buenos Aires. Johnny's history class consists of lessons in the ultimate failure of democracy on Earth and the veterans' efforts to create a new, stable society, however militarily-based it is.Carmen and Carl enlist in the military to become citizens, a status that grants greater privilege than being an ordinary civilian. Wanting to follow his girlfriend and friend, Johnny opposes his parents' desires and also enlists. But he finds that his grades are too low to join Carmen in Flight School and is assigned to the Mobile Infantry while Carl joins Military Intelligence.Johnny and the rest of the new recruits are drilled by the brutal Career Sergeant Zim (Clancy Brown). His former high school classmate, \"Dizzy\" Flores (Dina Meyer), arrives, having requested transfer to Johnny's unit ostensibly because the unit is the toughest but mainly because she's infatuated with Johnny. Johnny, with Dizzy's help, shows himself to be an outstanding strategist and commander, earning him a promotion to squad leader. Over the next few weeks in boot camp, Johnny learns that Carmen is happy with her training and is working with his high school rival, Zander (Patrick Muldoon). Her decision to make the Fleet her career dashes Johnny's dreams as well as any relationship with her.Following a training incident in which one of his squad members is killed, Johnny is demoted from squad leader and publicly flogged in accordance with military law. His friend Ace Levy (Jake Busey) is given command of Johnny's squad. Feeling humiliated, Johnny quits, signing a form discharging him from the Infantry. As he tells his parents via videophone that he want to leave the Infantry the transmission is interrupted. The 'Bugs' have directed an asteroid at Earth, destroying Buenos Aires, killing his parents and most of the population of that city. As a result of this sneak attack, Earth declares war on the 'Bugs' and Johnny, after conferring with Zim and their commanding officer, is permitted to rejoin the Infantry when Zim tears up Johnny's discharge paperwork.The Federation's forces mount a large-scale invasion of Klendathu, which becomes an unmitigated disaster due to underestimation of their foes combat abilities and sheer numbers. 'Bug plasma' energy discharges from the surface by huge 'Tanker Bugs' thought to be flame-spewing battle tanks on the surface now turn out to be giant artillery pieces capable of surface-to-space barrages creating massive damage to the Fleet in space, including Carmen's ship, the Rodger Young.With much of the Fleet in space destroyed or badly damaged, the Mobile Infantry on the surface is cut off from air support and overcome by swarms of thousands of 'Bug' warriors. During their initial encounter with the bugs, Levy fails to give orders to his squad. Johnny takes command and they attack, but their effort is futile: over 100,000 troops are killed before an effective retreat can be ordered and several of Johnny's fellow recruits are killed, Johnny himself being severely wounded.Later at the Ticonderoga Battle Station, where the remains of the Fleet dock, Carmen looks up Johnny Rico's name on a computer screen, (it shows 308,563 casualties from the one-day battle, most of them being \"killed in action\" (KIA) or \"missing in action\" (MIA)). Johnny's squad is almost wiped out and Carmen, due to an error in the casualty list, believes he is dead. In truth, Johnny is in the care of the medical squad and is having the gaping wound in his leg repaired.Federation scientists are baffled by the Bugs' use of military tactics and postulate that there must be a caste of 'Brain Bugs' that serve as generals for the Arachnids. The current Sky Marshal resigns, accepting responsibility for the failed operation and a new Sky Marshal revises the campaign, using strikes on other planets in the Klendathu system to learn more about the Arachnids' tactics.After a few days' relief, Johnny, Dizzy, and Levy are re-assigned to the 'Roughnecks', a special unit of Mobile Infantry which is led by Johnny & Dizzy's old high-school teacher, Lieutenant Jean Rasczak (Michael Ironside), a veteran of the First Bug War several years earlier who has been brought out of retirement to lead the group. After aerial napalm strikes on the outlying planets of the bugs' star system, Lt. Rasczak's squad lands on Planet 'P' to lead a ground assault. Johnny's leadership and his skill in combat while destroying a tanker bug earn him a field promotion to Corporal. That night, Lt. Raszcak grants the unit rest and relaxation, during which Johnny and Dizzy wind up in bed.Not long after, the Roughnecks are assigned to investigate an outpost on Planet P. While marching to the outpost through a rough and rocky canyon, Rasczak's communications sergeant is carried off by a winged flier bug and tortured for a few moments before Rasczak uses a sniper rifle carried by Sugar Watkins (Seth Gilliam) to shoot his sergeant dead. He announces that he'd expect anyone in the unit to mercifully kill him in a similar situation. Rico gets another field promotion to sergeant and he leads the squad to the outpost.Once there, they find the garrison killed and learn that the Bugs have sucked out the brains of some of the dead. They find the cowardly Commanding Officer General Owen (Marshall Bell) still alive, rambling about the existence of some kind of leader bug responsible for the massacre. Suddenly, the outpost is ambushed by tens of thousands of warrior bugs, with some tanker and flier bugs in support. Most of the squad is killed, including General Owen, and Lt. Rasczak, who is ambushed from beneath the deck by a tanker bug that chews off his legs. Rasczak orders Johnny to kill him and Johnny shoots him dead. Johnny takes command and requests an evacuation ship, which happens to be flown by Carmen and Zander. Dizzy, after destroying a tanker bug with a well-thrown grenade, is fatally stabbed by a warrior bug and dies in Johnny's arms. Johnny demands that Zander and Carmen alert the fleet to bombard Planet P but the order is denied.After Dizzy's funeral aboard a starship, Johnny and Carmen are joined by Carl, now a high-ranking colonel in military intelligence. Carl admits that the Roughnecks had been used as bait to test a theory, which angers Johnny, but the theory has proven correct; the existence of 'Brain Bugs' that control much of the Arachnid behaviour. Carl assigns the Roughnecks to search for a 'brain bug' back on Planet P. Carl gives Johnny a promotion to Lieutenant and command of the Roughnecks, accepting the fact that the Mobile Infantry is always ready to die for the cause.As the Roughnecks explore the surface of the planet, the Fleet in space is again fired upon by hundreds of planetary tanker bugs. During the attack the 'Rodger Young' is hit by Arachnid plasma fire. Cutting the ship in two, Carmen and Zander evacuate in an escape pod that crashes deep inside a Bug nest several meters underground. Johnny learns of Carmen's situation and tells the rest of the squad to keep scouring the system of caves they've been patrolling, while he, Ace, and search for Carmen in the tunnels, a violation of their standing orders. Carl, who has telepathic powers, is able to provide Johnny some guidance through his mind. Eventually they discover Carmen and Zander just as Zander's brain is sucked out by the brain bug leader. Carmen saves herself by injuring the bug with a knife that Zander handed her earlier. Watkins, mortally injured in the skirmish, sacrifices himself to wipe out the bug nest with a small nuclear warhead. Johnny, Ace and Carmen arrive on the surface and learn that the brain bug has been caught by the Mobile Infantry, led by former Sergeant Zim, who has been demoted to Private in order to take part in combat. Carl's commanding officer has Carl use his telepathy to read the brain bug's mind, which signals it's afraid of his captors. As everyone celebrates, Carl joins Johnny and Carmen, explaining that they will be able to learn how the Bugs think and can turn the tide of the war.Concluding with another propaganda News Reel, it is shown that Johnny, Ace, and Carmen continue their service in the military as heroes, prime examples to incoming recruits with Johnny as leader of the 'Roughnecks' and Carmen as captain of her own ship as the war against the bugs continues.",
+  "imdb_score": 7.3
+}

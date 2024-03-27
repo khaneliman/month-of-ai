@@ -1,0 +1,298 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/xXBnM6uSTk6qqCf0SRZKXcga9Ba.jpg",
+  "id": 516486,
+  "title": "Greyhound",
+  "poster_path": "https://image.tmdb.org/t/p/w500/kjMbDciooTbJPofVXgAoFjfX8Of.jpg",
+  "release_date": "2020-07-10",
+  "vote_average": 7.413,
+  "vote_count": 2659,
+  "popularity": 43.271,
+  "overview": "A first-time captain leads a convoy of allied ships carrying thousands of soldiers across the treacherous waters of the “Black Pit” to the front lines of WW2. With no air cover protection for 5 days, the captain and his convoy must battle the surrounding enemy Nazi U-boats in order to give the allies a chance to win the war.",
+  "imdb_id": "tt6048922",
+  "budget": 50300000,
+  "homepage": "https://tv.apple.com/movie/greyhound/umc.cmc.o5z5ztufuu3uv8lx7m0jcega",
+  "revenue": 0,
+  "runtime": 91,
+  "tagline": "The only thing more dangerous than the front lines was the fight to get there.",
+  "genres": [
+    "War",
+    "Action",
+    "Drama"
+  ],
+  "production_companies": [
+    "Playtone",
+    "Bron Studios",
+    "FilmNation Entertainment",
+    "Sycamore Pictures",
+    "Zhengfu Pictures",
+    "Sony Pictures",
+    "Stage 6 Films"
+  ],
+  "production_countries": [
+    "CA",
+    "CN",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Commander Krause",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg"
+      },
+      {
+        "name": "Stephen Graham",
+        "character": "Charlie Cole",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wjDQ7MzciEsRwWDFbemcM1hS0aq.jpg"
+      },
+      {
+        "name": "Rob Morgan",
+        "character": "Cleveland",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ps6wR3JZnk6MY9tbtOLORgadqs6.jpg"
+      },
+      {
+        "name": "Josh Wiggins",
+        "character": "Talker #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8ibSjOrx62IRfcBVssu6q3lzlQp.jpg"
+      },
+      {
+        "name": "Tom Brittney",
+        "character": "Lt. Watson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qSe3SuZHVPR5AMOuOAGxLdD6kYv.jpg"
+      },
+      {
+        "name": "Elisabeth Shue",
+        "character": "Evelyn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1pmjDSLvOuqKW1P2KRPlpFMeUFe.jpg"
+      },
+      {
+        "name": "Will Pullen",
+        "character": "Talker #3",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gffTjtaQbPNabhArPkd90HbkZlZ.jpg"
+      },
+      {
+        "name": "Manuel Garcia-Rulfo",
+        "character": "Lopez",
+        "profile_path": "https://image.tmdb.org/t/p/w185/54Rk1hKfNdNKGHQMnONDGmNtUv3.jpg"
+      },
+      {
+        "name": "Karl Glusman",
+        "character": "Eppstein",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5IM5WICx22z7V7jCfyFIKqsiAZx.jpg"
+      },
+      {
+        "name": "Chet Hanks",
+        "character": "Bushnell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rk4WtugPbBHtx9FtsC4spM89kMY.jpg"
+      },
+      {
+        "name": "Jimi Stanton",
+        "character": "Lt. Harbutt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2Ii5fMBs4saPCrVsDTQe3piLFYK.jpg"
+      },
+      {
+        "name": "Matt Helm",
+        "character": "Lt. Nystrom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aUTzIyqTRs0BSpsnIQF6f5OkoBD.jpg"
+      },
+      {
+        "name": "Devin Druid",
+        "character": "Wallace",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nX5sYqPUNEpLTy2N3ndzKlCwnlD.jpg"
+      },
+      {
+        "name": "Craig Tate",
+        "character": "Pitts",
+        "profile_path": "https://image.tmdb.org/t/p/w185/509fvrZgzAcXrJ3zKSIvwb7J3Ck.jpg"
+      },
+      {
+        "name": "Travis Quentin",
+        "character": "Ipsen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bHwgOuBWRRuXY44vKmlJDCH7JkN.jpg"
+      },
+      {
+        "name": "Jeff Burkes",
+        "character": "Shannon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/z38b9C6yXw1pbv9iTA6ipxcFLtn.jpg"
+      },
+      {
+        "name": "Matthew Zuk",
+        "character": "Flusser",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jifQz74EU8qsigSgNZR2u2SDhek.jpg"
+      },
+      {
+        "name": "Joseph Poliquin",
+        "character": "Lee Helmsman #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eZEDVgLFZirrCpoK1znP8rir5Ut.jpg"
+      },
+      {
+        "name": "Casey Bond",
+        "character": "Helmsman #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3KyE5lCtGy87wDL76awMuSpEG94.jpg"
+      },
+      {
+        "name": "Michael Benz",
+        "character": "Carling",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qb3oEBOpc11maO2CeM7SgbfWQEq.jpg"
+      },
+      {
+        "name": "Grayson Russell",
+        "character": "Signalman #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j0CYCvlIA73rrgYbY2dvyMSFsgZ.jpg"
+      },
+      {
+        "name": "Ian James Corlett",
+        "character": "Dicky",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8oBYy558j01kb1Go4ULgqiY1zZt.jpg"
+      },
+      {
+        "name": "Maximilian Osinski",
+        "character": "Eagle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wMRtFsZSR9FvYj1wzsziKQqpZ0C.jpg"
+      },
+      {
+        "name": "Dominic Keating",
+        "character": "Harry",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eRe4BJz9fTztlRKikDRHhmss6ee.jpg"
+      },
+      {
+        "name": "Dave Davis",
+        "character": "Boatswain's Mate #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9cPhpNYacn5Lc8bUIWX44Lj5K0z.jpg"
+      },
+      {
+        "name": "Parker Wierling",
+        "character": "Messenger #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kbJ8rcklqWbg8ZcKJvycMS9ZLn2.jpg"
+      },
+      {
+        "name": "Ian Pala",
+        "character": "Radarman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6zILOwtY9vL58PMKZmaOii9xbHL.jpg"
+      },
+      {
+        "name": "Travis Przybylski",
+        "character": "Dawson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rjlcsfXpMBKgzU0bUst3jimUgZA.jpg"
+      },
+      {
+        "name": "Cade Burk",
+        "character": "Starboard Lookout",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gj0L1nwe49phQb8SXYGIC2OSTJ5.jpg"
+      },
+      {
+        "name": "Jesse Gallegos",
+        "character": "Signalman #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pnxXfd84MwKojGsRf6vWtPA9qo5.jpg"
+      },
+      {
+        "name": "Alex Kramer",
+        "character": "Talker #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qL0Sw6jbfgPYaTpbH99i60OYyei.jpg"
+      },
+      {
+        "name": "Lee Norris",
+        "character": "Messenger #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vzKVmeY5wbt8u4Davz6z50tFPCa.jpg"
+      },
+      {
+        "name": "Adam Aalderks",
+        "character": "Helmsman #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aSlWbM7hebFWr6RpElosedCogCR.jpg"
+      },
+      {
+        "name": "Keon Motakhaveri",
+        "character": "Lee Helmsman #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zTF73VJ0WCrOp7gpsMsHfs7yOLC.jpg"
+      },
+      {
+        "name": "Jake Ventimiglia",
+        "character": "Fippler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xbK5QHlWEBl3SK2SQWzcD1RePqn.jpg"
+      },
+      {
+        "name": "Michael Carollo",
+        "character": "Forward Lookout",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mtOsL5pD5eMMForTnNA34ZTmA4W.jpg"
+      },
+      {
+        "name": "Caleb J. Thaggard",
+        "character": "Port Lookout",
+        "profile_path": "https://image.tmdb.org/t/p/w185/y9vjlmJ8YRzED4ZPQxtUjZ2rdK6.jpg"
+      },
+      {
+        "name": "John Frederick",
+        "character": "Chief Quartermaster Frederick",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4wjJUQP6Ox74uHvlr4WSKNDeRHX.jpg"
+      },
+      {
+        "name": "Jeff Adler",
+        "character": "Rudel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ou0r4pAZNbRImonfLNhCKfHBD8p.jpg"
+      },
+      {
+        "name": "Brandon Holubar",
+        "character": "Bridge Lookout #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Joel Newsom",
+        "character": "Bridge Lookout #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Thomas Kretschmann",
+        "character": "Grey Wolf (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kBnPu1KREhckuPpnAUppm24kkVX.jpg"
+      },
+      {
+        "name": "David Maldonado",
+        "character": "Dr. Temme",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uF6uk6YtCRWAfsGZM2GG7aaHWwO.jpg"
+      },
+      {
+        "name": "Jeremy Madden",
+        "character": "Farnsworth",
+        "profile_path": ""
+      },
+      {
+        "name": "Jon Donahue",
+        "character": "Al",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fX2ydOdOVb2g4awWvU4VPFiwh37.jpg"
+      },
+      {
+        "name": "Cameron Stout",
+        "character": "Navy Crewman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6pt9NFHDIvuOQ84mTyHQSyeIfn5.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Aaron Schneider",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q2smVJcz3XnTs0guc2nGbvcCWR4.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "submarine",
+    "allies",
+    "atlantic ocean",
+    "world war ii",
+    "based on true story",
+    "convoy",
+    "battleship",
+    "naval warfare",
+    "naval battleship"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Several months after the U.S. entry into World War II, an inexperienced U.S. Navy commander must lead an Allied convoy being stalked by a German submarine wolf pack.",
+    "Based upon the novel \"The Good Shepherd\" by C S Forester, this is the thrilling story of an Allied convoy crossing the North Atlantic in 1942 as it faces relentless attack by a German submarine wolf pack. The leader of the convoy's destroyer screen is a US Navy commander making his first Atlantic crossing. The story focuses on his command responsibility as he fights the cold, the relentless night, the brutal sea, and his deep fatigue as he chases down the attacking submarines in the deadly game of cat and mouse. The exciting story, a thrilling ride-along with the beleaguered captain, so deeply portrays the elements of battle command that for a long period of time the book was used as a text at the US Naval Academy.—Nlappos",
+    "A first-time captain leads the escort contingent of a convoy of Allied ships carrying thousands of soldiers and tons of supplies across the treacherous waters of the \"Black Pit\" to Great Britain. With no air cover protection for four days, the commander and his convoy must battle the surrounding enemy submarines in order to help the Allies win the war.—yusufpiskin",
+    "During the early days of U.S. involvement in World War II, an international convoy of 37 multinational Allied merchant ships, crammed with goods and provisions, crossed the freezing waters of the Atlantic Ocean while being chased by stealthy German U-boats. Commander-in-Chief Ernest Krause, a career officer and captain of the Fletcher-class destroyer USS Keeling, code-named Greyhound, is assigned to lead the vulnerable Allied convoy across the dangerous Mid-Atlantic gap known as the \"Black Pit\". But, to bring the ships to safe waters, Krause, making his first Atlantic crossing, will have to face his inner demons and doubts in what would come to be known as the most prolonged and most complex military campaign in the Naval history of World War II: The Battle of the Atlantic.—Nick Riganas"
+  ],
+  "synopsis": "Feb 1942.\nDuring the Battle of the Atlantic, convoy HX-25, consisting of 37 Allied ships, is making its way to Liverpool. The convoy's escort consists of the Fletcher-class destroyer USS Keeling DD-548, radio call sign \"Greyhound\", captained by Commander Ernest Krause (Tom Hanks) of the United States Navy; the British Tribal-class destroyer HMS James (Captain (Dominic Keating)), call sign \"Harry\"; the Polish Grom-class destroyer ORP Viktor (captain (Maximilian Osinski)), call sign \"Eagle\"; and the Canadian Flower-class corvette, HMCS Dodge K136 (Captain (Ian James Corlett)), call sign \"Dicky\" . Krause is overall commander of the escort ships, but despite his seniority and extensive naval education, it is his first wartime command.\nJust 2 months ago, Ernest is dating Evelyn Frechette (Elisabeth Shue) in NYC, exchanging Christmas gifts. She gives him news of his first command. She wants to wait till they are back together, before they get married.\nErnest's crew includes Lieutenant Commander Charlie Cole (Stephen Graham), Krause's executive officer. George Cleveland (Rob Morgan), Mess Attendant 2nd Class. Lieutenant Watson (Tom Brittney). Sonar man Red Eppstein (Karl Glusman). Officer of the deck, Lieutenant J. Edgar Nystrom (Matt Helm). Fire controller Melvin Lopez (Manuel Garcia-Rulfo). Depth charges expert Harry Fippler (Jake Ventimiglia).The convoy enters the \"Black Pit\"-the Mid-Atlantic gap where they will be out of range of protective air cover. They are 50 hrs away from regaining air cover on the other side. High-frequency direction finding from the convoy flagship intercepts several German transmissions, indicating the presence of U-boats. Greyhound identifies a surfaced sub heading towards the convoy and moves to attack. The submarine tries to slip under Greyhound, but Krause maneuvers his ship (he activates his sonar to locate the sub and positions the ship towards it) above the U-boat and sinks it with a full pattern of depth charges.The crew's jubilation is cut short as they soon receive reports of distress rockets at the rear of the convoy. A Greek merchant ship was attacked by another U-boat and is quickly sinking. Krause moves Greyhound to assist, evading torpedoes fired at his ship with careful maneuvering. The surviving Greek sailors are rescued, and Greyhound returns to the convoy just as the bridge receives multiple messages from the other escorts: a wolf-pack consisting of six U-boats is staying just out of firing range of the convoy; Krause suspects they are waiting for nightfall, when the escorts will have no visibility. 5 U-boats are at the front of convoy and 1 at the rear. 36 hrs to air cover.One U-boat torpedoes an oil tanker and escapes Greyhound by using an underwater decoy, tricking the crew into wasting most of their remaining depth charges. Krause chooses to rescue survivors from the burning oil tanker rather than go to the aid of the other ships first.\nThe attack commences from the front pack that evening with five merchant ships being torpedoed and sunk. There is respite in the morning. Ernest takes a call to abandon the Zig-Zag route and take a direct course, which will put them in range for air cover in 24 hrs.The next day, the wolf pack targets Greyhound. The captain of the lead submarine (Thomas Kretschmann) taunts the convoy and its escorts via radio transmission. Krause learns that Greyhound is down to just six depth charges. The U-boats launch multiple torpedo runs, which Greyhound is barely able to evade. Greyhound and Dicky combine to sink one of the U-boats in an exchange of surface broadsides. Dicky receives minor damage due to the close range of the engagement and Greyhound is hit on the port side by one of the U-boat's deck guns, which kills Krause's mess attendant, George Cleveland, and two sailors.\nDuring the funeral service, Eagle is attacked and eventually sinks. The night arrives, 14 hrs to air cover. Krause, aware that doing so might expose the shoddy state of the escort fleet, elects to break radio silence by transmitting a single word, \"help\", to the Admiralty. They are given a modified rendezvous point, which is only 4 hrs away, and they will have air cover from them on.With the convoy close to reaching air cover (3 hrs to air cover), the remaining U-boats mount an all-out assault on the destroyers. After heavy fighting, Greyhound sinks the lead U-boat with a full broadside. Air support deployed from British RAF Coastal Command arrives and Greyhound fires to mark the last visible U-boat, allowing a PBY Catalina bomber to sink the sub. The rest of the pack quickly flees before they can be discovered.While assessing damage, Krause receives radio contact from the head of the relief escorts, HMS Diamond, that his relief has arrived and Greyhound is due for repair and refitting in Derry alongside his two surviving companion vessels. The crew receives a \"job well done\" on their four U-boat kills. While setting the new course, passengers and crew of the remaining convoy ships cheer to salute Greyhound's crew while Krause retires to his cabin to rest.",
+  "imdb_score": 7
+}

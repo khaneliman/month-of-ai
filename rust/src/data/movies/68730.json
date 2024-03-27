@@ -1,0 +1,399 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/2tE0A6WjLowwQOUY8se1Xlf3O6U.jpg",
+  "id": 68730,
+  "title": "Silence",
+  "poster_path": "https://image.tmdb.org/t/p/w500/x5T0cQDYws0xRBVG4Q3wpcrcmax.jpg",
+  "release_date": "2016-12-22",
+  "vote_average": 7.124,
+  "vote_count": 2903,
+  "popularity": 19.251,
+  "overview": "Two Jesuit priests travel to seventeenth century Japan which has, under the Tokugawa shogunate, banned Catholicism and almost all foreign contact.",
+  "imdb_id": "tt0490215",
+  "budget": 46000000,
+  "homepage": "http://www.silencemovie.com/",
+  "revenue": 23700000,
+  "runtime": 161,
+  "tagline": "Sometimes silence is the deadliest sound.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    "Waypoint Entertainment",
+    "Cappa Defina Productions",
+    "CatchPlay",
+    "Fábrica de Cine",
+    "SharpSword Films",
+    "Sikelia Productions",
+    "EFO Films"
+  ],
+  "production_countries": [
+    "MX",
+    "TW",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Andrew Garfield",
+        "character": "Rodrigues",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+      },
+      {
+        "name": "Adam Driver",
+        "character": "Garupe",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mG2vwd6hJHTiCh8zIxPFND3ibAj.jpg"
+      },
+      {
+        "name": "Liam Neeson",
+        "character": "Ferreira",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bboldwqSC6tdw2iL6631c98l2Mn.jpg"
+      },
+      {
+        "name": "Tadanobu Asano",
+        "character": "Interpreter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wDw1z9Pk9dEzopzlZQ4X8wTbj1t.jpg"
+      },
+      {
+        "name": "Ciarán Hinds",
+        "character": "Father Valignano",
+        "profile_path": "https://image.tmdb.org/t/p/w185/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+      },
+      {
+        "name": "Issey Ogata",
+        "character": "Old Samurai / Inoue",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dQ5X5nSobSgRFKK7lo8j41jtw5c.jpg"
+      },
+      {
+        "name": "Shinya Tsukamoto",
+        "character": "Mokichi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lHt4zpGcyI7QVdFrmzJ2WqEJ5kt.jpg"
+      },
+      {
+        "name": "Yoshi Oida",
+        "character": "Ichizo",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A1ow9mQH5lbOaha9XCn27LAB2s9.jpg"
+      },
+      {
+        "name": "Yosuke Kubozuka",
+        "character": "Kichijiro",
+        "profile_path": "https://image.tmdb.org/t/p/w185/w7BWTUqaZRBlR9DOB4ygcRNasj2.jpg"
+      },
+      {
+        "name": "Kaoru Endô",
+        "character": "Unzen Samurai (Uneme)",
+        "profile_path": ""
+      },
+      {
+        "name": "Diego Calderón",
+        "character": "Prisoner Augustinian Friar #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Rafael Kading",
+        "character": "Prisoner Augustinian Friar #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Matthew Blake",
+        "character": "Prisoner Franciscan Friar",
+        "profile_path": ""
+      },
+      {
+        "name": "Benoit Masse",
+        "character": "Prisoner Augustinian Friar #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Tetsuya Igawa",
+        "character": "Prisoner Japanese Jesuit",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hi0zNIh3UEMkq7cgYqTIy8LOL4Y.jpg"
+      },
+      {
+        "name": "Shi Liang",
+        "character": "Chinese Businessman (Mr. Chun)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5ovYsFxAV4Uw5lw2Bx4KJo2DdDZ.jpg"
+      },
+      {
+        "name": "Panta",
+        "character": "Tomogi Villager #1 (Yohei)",
+        "profile_path": ""
+      },
+      {
+        "name": "Takuya Matsunaga",
+        "character": "Tomogi Villager #2 (Toukichi)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Q4TbANHXBZhbmYWlwQz1RNUv6i.jpg"
+      },
+      {
+        "name": "Miho Harita",
+        "character": "Ichizo's Wife (Tomi)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6p02ez3jxjBP7QuLHPKQJzYljAZ.jpg"
+      },
+      {
+        "name": "Hairi Katagiri",
+        "character": "Tomogi Woman (Tsune)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lkjjI2IxaKC1UngsJqxMHi8XKbx.jpg"
+      },
+      {
+        "name": "Masayuki Yamada",
+        "character": "Tomogi Husband (Kasuke)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michié",
+        "character": "Tomogi Wife (Mitsu)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v51ckLb1x4vv8Fy15gritzxJ9Tk.jpg"
+      },
+      {
+        "name": "Hiroko Isayama",
+        "character": "Tomogi Village Woman (Hiro)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mWupx2bifYZBTkqLCJore4oFnXR.jpg"
+      },
+      {
+        "name": "Yutaka Mishima",
+        "character": "Goto Man #1 (Kuro)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uFdu1Uffo6x88HkerQdkZs3u7cR.jpg"
+      },
+      {
+        "name": "Yasunari Takeshima",
+        "character": "Goto Man #2 (Haku)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eRgcIYgj4cdAKpteB43zK2awCDh.jpg"
+      },
+      {
+        "name": "Yuri Ishizaka",
+        "character": "Kichijiro Sister at Stake (Tae)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gYgzK5EVLcHJrmQZI48XiGLEcj1.jpg"
+      },
+      {
+        "name": "Ryo Sato",
+        "character": "Kichijiro Sister #2 (Hisa)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mA7UgHpW28QoeJLDxD6kT8kBE92.jpg"
+      },
+      {
+        "name": "Ruo Satô",
+        "character": "Kichijiro Father (Kichizo)",
+        "profile_path": ""
+      },
+      {
+        "name": "Yoriko Doguchi",
+        "character": "Kichijiro Mother (Naka)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9b5id7aCE8AoMuoTNjQwjKH1if0.jpg"
+      },
+      {
+        "name": "Kisetsu Fujiwara",
+        "character": "Kichijiro Brother #2 (Kichita)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/prxUmwYEdyHYfs5Ig5gU0LcrLUq.jpg"
+      },
+      {
+        "name": "Yasushi Takahashi",
+        "character": "Tomogi Villager",
+        "profile_path": ""
+      },
+      {
+        "name": "Sanjuro Kobayashi",
+        "character": "Tomogi Villager",
+        "profile_path": ""
+      },
+      {
+        "name": "Mangorô Satô",
+        "character": "Tomogi Villager",
+        "profile_path": ""
+      },
+      {
+        "name": "Keiko Morikawa",
+        "character": "Tomogi Villager",
+        "profile_path": ""
+      },
+      {
+        "name": "Jin Maki",
+        "character": "Boatman",
+        "profile_path": ""
+      },
+      {
+        "name": "Naoto Yokouchi",
+        "character": "Goto Swimming Man",
+        "profile_path": ""
+      },
+      {
+        "name": "Kansai Eto",
+        "character": "Old Goto Man (Mosuke)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1vRIvwzHqZVTMVom61g51E5XGX9.jpg"
+      },
+      {
+        "name": "Shun Sugata",
+        "character": "Samurai Commander",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iBy21Xet3OF6ULl9iQnT4s70FHT.jpg"
+      },
+      {
+        "name": "Kazuhiko Ozaki",
+        "character": "Tomogi Hostage #3 (Yahachi)",
+        "profile_path": ""
+      },
+      {
+        "name": "Nana Komatsu",
+        "character": "Monica (Haru)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/74WvpjdZkE5kYSEHwG9E4f0gVKk.jpg"
+      },
+      {
+        "name": "Ryo Kase",
+        "character": "Juan (Chokichi)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Iq3R0mnMUDMyG6LyfTZfKr3nS5.jpg"
+      },
+      {
+        "name": "Fumitaka Terai",
+        "character": "Christian Prisoner (Tobei)",
+        "profile_path": ""
+      },
+      {
+        "name": "Hako Ohshima",
+        "character": "Christian Prisoner (Kiku)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hT26b96rE3ecXgJNx7jumiIvNUB.jpg"
+      },
+      {
+        "name": "Hideki Nishioka",
+        "character": "Christian Prisoner (Mataichi)",
+        "profile_path": ""
+      },
+      {
+        "name": "Takahiro Fujita",
+        "character": "Inoue's Attendant",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eRsPHufW0mDeghd5L3aAp1q0Y3U.jpg"
+      },
+      {
+        "name": "Senmaru",
+        "character": "Nagasaki Juggler",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryô Fujiwara",
+        "character": "Nagasaki Child",
+        "profile_path": ""
+      },
+      {
+        "name": "Nobuaki Fukuda",
+        "character": "Jeering Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/e9hPaaWAgvzThEcvRR3YamNKdrh.jpg"
+      },
+      {
+        "name": "Munetaka Aoki",
+        "character": "Prison Guard #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l5GdFPBBz717Kiimyqp5ieaglVo.jpg"
+      },
+      {
+        "name": "SABU",
+        "character": "Samurai #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qNjgqL33xBtkEJfW51G2Cc08pu6.jpg"
+      },
+      {
+        "name": "Tetsu Watanabe",
+        "character": "Prison Guard #2",
+        "profile_path": "https://image.tmdb.org/t/p/w185/it0WL3g31uIE7ZntjVVOwFzfn0R.jpg"
+      },
+      {
+        "name": "Exile Akira",
+        "character": "Prison Official",
+        "profile_path": ""
+      },
+      {
+        "name": "Shunya Tajima",
+        "character": "Samurai at Beach #1",
+        "profile_path": ""
+      },
+      {
+        "name": "Ryuki Kitaoka",
+        "character": "Samurai at Beach #2",
+        "profile_path": ""
+      },
+      {
+        "name": "Hiroki Noguchi",
+        "character": "Samurai in Boat",
+        "profile_path": ""
+      },
+      {
+        "name": "Katsuo Nakamura",
+        "character": "Old Buddhist Priest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wWRFSaZQTl1XeEdkbwW4HP23VS6.jpg"
+      },
+      {
+        "name": "Yoshihiro Takayama",
+        "character": "Large Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gHpbEUiN12oBbyNrD3jC9q6MUBW.jpg"
+      },
+      {
+        "name": "Shoji Miyata",
+        "character": "Vendor's Cries (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Noriwo Mitsuda",
+        "character": "Vendor's Cries (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ayumu Saito",
+        "character": "Prison Guard #3",
+        "profile_path": ""
+      },
+      {
+        "name": "Béla Baptiste",
+        "character": "Dieter Albrecht",
+        "profile_path": ""
+      },
+      {
+        "name": "Asuka Kurosawa",
+        "character": "Rodrigues' Wife",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oJHqQxOXkWyUAlidwcylMV26rPn.jpg"
+      },
+      {
+        "name": "Motokatsu Suzuki",
+        "character": "Edo Guard (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Yasushi Takada",
+        "character": "Doshin (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ten Miyazawa",
+        "character": "Carpenter (uncredited)",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Martin Scorsese",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "japan",
+    "based on novel or book",
+    "christianity",
+    "missionary",
+    "remake",
+    "betrayal",
+    "torture",
+    "martyrdom",
+    "crisis of faith",
+    "portuguese",
+    "jesuits (society of jesus)",
+    "17th century",
+    "shogunate",
+    "religious persecution",
+    "religious icon",
+    "apostasy"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "In the 17th century, two Portuguese Jesuit priests travel to Japan in an attempt to locate their mentor, who is rumored to have committed apostasy, and to propagate Catholicism.",
+    "Intent on investigating the truth behind Father Cristovão Ferreira's abrupt end of correspondence, the devout Portuguese Catholic priests, Sebastião Rodrigues and Francisco Garupe, set off to Japan, in 1633. In great disbelief, as the rumours of Ferreira's apostasy still echo in their minds, the zealous Jesuit missionaries try to locate their mentor, amid the bloodshed of the violent anti-Christian purges. Under those circumstances, the two men and the Japanese guide, Kichijiro, arrive in Japan, only to witness firsthand the unbearable burden of those who have a different belief in a land founded on tradition. Now--as the powerful Grand Inquisitor, Inoue, performs hideous tortures on the brave Japanese Christians--Father Rodrigues will soon have to put his faith to the ultimate test: renounce it in exchange for the prisoners' lives. There, in the ends of the world, a subtle change has begun; however, why is God's silence so deafening?—Nick Riganas",
+    "In the seventeenth century, in Portugal, the Portuguese Jesuit priests Sebastião Rodrigues and Francisco Garupe ask permission to Father Alessandro Valignano to travel to Japan to investigate the rumors that their mentor Father Cristóvão Ferreira had committed apostasy abandoning his Catholic faith after being tortured by the shogunate. They meet the alcoholic fisherman Kichijiro that agrees to guide them to Japan. When they arrive at a small village, they learn that the Christians residents live hidden in caves since the Inquisitor kills any villager suspect to be Christian. Along the days, Rodrigues and Garupel propagate Catholicism among the villagers and try to find a lead to Ferreira. But when the Inquisitor arrives in the village with his men, the lives of the residents and the priests will change.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "The young Portuguese Jesuit priest Cristóvão Ferreira witnesses the mortal torture of five missionaries. The priest is helpless in the presence of Japanese authorities conducting the torture to try to assist his colleagues in any way. A few years later, at St. Paul's College, Macau, an Italian Jesuit priest, Alessandro Valignano, receives news that Ferreira renounced his faith in Japan after being tortured. In disbelief, Ferreira's Portuguese pupils, Jesuit priests Sebastião Rodrigues and Francisco Garupe, set off to find him. Kichijiro, an alcoholic fisherman who fled Japan to save himself, agrees to guide them."
+  ],
+  "synopsis": "The film begins in 1633 with a prologue of the young Portuguese Jesuit priest Cristóvão Ferreira (Liam Neeson) witnessing the mortal torture of Japanese converts he has been trying to bring to the Christian faith. The priest appears to be helpless in the presence of Japanese authorities conducting the torture to try to assist his converts in any way.A few years later, at St. Paul's College, Macau, an Italian Jesuit priest, Alessandro Valignano (Ciarán Hinds), receives news that Ferreira renounced his faith (apostasy) in Japan after being tortured. In disbelief, Ferreira's Portuguese pupils, Jesuit priests Sebastião Rodrigues (Andrew Garfield) and Francisco Garupe (Adam Driver), set off to find him. Kichijiro (Yosuke Kubozuka), an alcoholic fisherman who fled Japan to save himself, agrees to guide them.Arriving in Japan at the village of Tomogi, the priests are dismayed to find local Christian populations driven underground. Both priests are then shocked when a samurai searching for suspected Christians, whom the villagers refer to as the \"Inquisitor\", straps some of the villagers to wooden crosses by the ocean shore, where the tide eventually drowns them. The bodies are then cremated on a funeral pyre which the priests understand is done to prevent a Christian burial.Garupe leaves for Hirado Island, believing that their presence forces the shogunate to terrorize the village. Rodrigues goes to Goto Island, the last place Ferreira lived, and finds it destroyed. Wandering around Goto, he struggles over whether it is self-centered to refuse to recant when doing so will end others' suffering. He eventually reunites with Kichijiro, who betrays him into the hands of the samurai. An old samurai, who had earlier accompanied the \"Inquisitor\" to Tomogi, tells Rodrigues that other captured Christians will suffer unless he renounces his faith.Rodrigues is taken to Nagasaki, where he is imprisoned with many Japanese converts. At a tribunal, he is told Catholic doctrine is anathema to Japan. Rodrigues demands to see Governor Inoue Masashige (Issey Ogata), who he learns, to his dismay, is the old man seated before him in charge of the proceedings. Rodrigues is returned to prison, and Kichijiro soon arrives to be imprisoned as well. He explains to Rodrigues that court officials threatened him in order that he betray Rodrigues. Kichijiro then says he is a Christian and asks to be absolved of his betrayal through a confession, which Rodrigues reluctantly grants him. He later is released after being told to step on a Fumi-e (a crudely carved crucifix), an act symbolizing rejection of the faith.Later, Rodrigues is brought under guard to the shoreline to await someone. In the far distance, he witnesses an emaciated Garupe and three other prisoners approaching on the shoreline under separate guard. Still in the distance, the three other prisoners are taken offshore on a small boat and are about to be drowned from the boat one-by-one as an inducement to get Garupe to renounce his faith. Rodrigues is restrained by guards on shore as he watches Garupe refuse to apostatize. He then sees the desperate Garupe drowned next to the other three prisoners when he attempts to swim offshore trying to rescue the last prisoner from being drowned.After some time, Rodrigues is eventually taken to meet an older Ferreira. Ferreira says he committed apostasy while being tortured, and states that after 15 years in the country and a year in the temple, he believes Christianity is futile in Japan. Rodrigues repudiates him, but Ferreira is implacable. That night in his prison cell, Rodrigues hears five Christians being tortured. Ferreira tells him that they have already apostatized; it is his apostasy the Japanese demand. As Rodrigues looks upon a Fumi-e, he hears an inner voice of Christ giving him permission to step on it, and he does.Years later, after Ferreira has died, Kichijiro asks Rodrigues to absolve him again, but Rodrigues refuses, saying he is no longer a priest. Kichijiro later is caught with a pouch he claims to have won while gambling containing a religious amulet which he disclaims as being his own. He is taken away and never heard from again. Many years later, Rodrigues dies. He is placed in a large round wooden casket, and his body is cremated. In his hand is the tiny crudely made crucifix that was given to him when he first came to Japan.",
+  "imdb_score": 7.2
+}

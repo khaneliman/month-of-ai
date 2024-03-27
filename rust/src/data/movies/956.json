@@ -1,0 +1,356 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/mOyF7rHVLF6uLbyb18FWTmcrjJe.jpg",
+  "id": 956,
+  "title": "Mission: Impossible III",
+  "poster_path": "https://image.tmdb.org/t/p/w500/zje0121z523lqe8ic163ck1BYcY.jpg",
+  "release_date": "2006-04-25",
+  "vote_average": 6.73,
+  "vote_count": 6393,
+  "popularity": 44.754,
+  "overview": "Retired from active duty, and training recruits for the Impossible Mission Force, agent Ethan Hunt faces the toughest foe of his career: Owen Davian, an international broker of arms and information, who is as cunning as he is ruthless. Davian emerges to threaten Hunt and all that he holds dear -- including the woman Hunt loves.",
+  "imdb_id": "tt0317919",
+  "budget": 150000000,
+  "homepage": "",
+  "revenue": 398500000,
+  "runtime": 126,
+  "tagline": "The mission begins 05:05:06.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Paramount",
+    "Cruise/Wagner Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Cruise",
+        "character": "Ethan Hunt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eOh4ubpOm2Igdg0QH2ghj0mFtC.jpg"
+      },
+      {
+        "name": "Philip Seymour Hoffman",
+        "character": "Owen Davian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/50rqDkmvXwjwVhFH7q6ph2Rkw7S.jpg"
+      },
+      {
+        "name": "Ving Rhames",
+        "character": "Luther Stickell",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ohAOsD8E4tu35PI2buzZORpn9Ef.jpg"
+      },
+      {
+        "name": "Billy Crudup",
+        "character": "John Musgrave",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pYblSarjmmIUggmOafanD2yk0Zj.jpg"
+      },
+      {
+        "name": "Michelle Monaghan",
+        "character": "Julia Meade",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jB47BoGdudHELszn9ZAZqnnUy8N.jpg"
+      },
+      {
+        "name": "Jonathan Rhys Meyers",
+        "character": "Declan Gormley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3MvT0B15nt5JLp1dUcxmbqmjHUc.jpg"
+      },
+      {
+        "name": "Keri Russell",
+        "character": "Lindsey Farris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/u81mC6vZwliDRfnX1DpdGmmex61.jpg"
+      },
+      {
+        "name": "Maggie Q",
+        "character": "Zhen Lei",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1Z0A8axunWqZrskGkfANv6W5qCl.jpg"
+      },
+      {
+        "name": "Simon Pegg",
+        "character": "Benjamin 'Benji' Dunn",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kIMnWkZciXXHYyD8GxMYvDLD29x.jpg"
+      },
+      {
+        "name": "Eddie Marsan",
+        "character": "Brownway",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9atfOgIxhfOKvv2be8HEp6SzOct.jpg"
+      },
+      {
+        "name": "Laurence Fishburne",
+        "character": "Theodore Brassel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iwx7h0AfWMm9K4sMmhru3ShSra.jpg"
+      },
+      {
+        "name": "Bahar Soomekh",
+        "character": "Davian's Translator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pexK8WSgJFunUFizBlvGEz8ez9U.jpg"
+      },
+      {
+        "name": "Jeff Chase",
+        "character": "Davian's Bodyguard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/Ahj74X5BioIUDRhdWD8i43j0pXM.jpg"
+      },
+      {
+        "name": "Michael Berry Jr.",
+        "character": "Julia's Kidnapper",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zBztnwkcw1EVxUfsvK8ieeqUXRV.jpg"
+      },
+      {
+        "name": "Carla Gallo",
+        "character": "Beth",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fCB2Fn3yECtpxHuvQG4eR5D2pU3.jpg"
+      },
+      {
+        "name": "Bellamy Young",
+        "character": "Rachael",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tTGC9qsuSaBD9OlphwIqK3TLtmh.jpg"
+      },
+      {
+        "name": "Paul Keeley",
+        "character": "Ken",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7XnaFTVLEKvFQtBX2slPW9AERCU.jpg"
+      },
+      {
+        "name": "Jane Daly",
+        "character": "Julia's Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2CIjLiZD5cb4q3iBIcCDzmWb9SS.jpg"
+      },
+      {
+        "name": "Greg Grunberg",
+        "character": "Kevin",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ir2QunLf6aTaowpEygbIcjiZLDB.jpg"
+      },
+      {
+        "name": "Sabra Williams",
+        "character": "Annie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/epgLhy6OxQm3G9ZidPse1gfhApO.jpg"
+      },
+      {
+        "name": "Rose Rollins",
+        "character": "Ellie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aSrjDLt3zYTg7Pn9btUdOoeRYLL.jpg"
+      },
+      {
+        "name": "Sasha Alexander",
+        "character": "Melissa Meade",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xHsZhwVA8hOKEVEMwoSanqoblBo.jpg"
+      },
+      {
+        "name": "Tracy Middendorf",
+        "character": "Ashley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/afoRivgnNmoKhfM6zaBIVCdSxB7.jpg"
+      },
+      {
+        "name": "Aaron Paul",
+        "character": "Rick Meade",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
+      },
+      {
+        "name": "Kathryn Fiore",
+        "character": "Party Goer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zdsCMvO7Euytw13Fveo7Dk4jtoT.jpg"
+      },
+      {
+        "name": "Colleen Crozier",
+        "character": "Party Goer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1x1EFLPldMLKw7bcPcfsgYRxMo5.jpg"
+      },
+      {
+        "name": "Sean O'Bryan",
+        "character": "Party Goer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nS6ZEJvn6O7FCNcDSeIFfbwpW03.jpg"
+      },
+      {
+        "name": "Bruce French",
+        "character": "Minister",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hYIPqnO532yoliLgPEO5keUjZeE.jpg"
+      },
+      {
+        "name": "Ellen Bry",
+        "character": "Lindsey's Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hXay7n5gTLFep5JcfpnIYyGmwMk.jpg"
+      },
+      {
+        "name": "Patrick Pankhurst",
+        "character": "Lindsey's Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yRSMURHidtknScqM21f53PfDEmu.jpg"
+      },
+      {
+        "name": "Tony Guma",
+        "character": "Jim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6cK30dYzU9NCYbq7u1Ja7EjRBSZ.jpg"
+      },
+      {
+        "name": "James Shanklin",
+        "character": "Hospital Chaplain",
+        "profile_path": "https://image.tmdb.org/t/p/w185/teMNAV8dp4KmR8AriT5IJPztPEu.jpg"
+      },
+      {
+        "name": "Anne Betancourt",
+        "character": "Nurse Sally",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zBYo89ECF8L8Yi09Fot64pCp8qf.jpg"
+      },
+      {
+        "name": "Antonietta De Lorenzo",
+        "character": "Roadblock Driver",
+        "profile_path": ""
+      },
+      {
+        "name": "Andrea Sartoretti",
+        "character": "Roadblock Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tplFukX2W4pBIZNs13TSzLFNm35.jpg"
+      },
+      {
+        "name": "Antonio Del Prete",
+        "character": "Vatican Video Room Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5n3WssK8MD1EtekC06xcSn78Eua.jpg"
+      },
+      {
+        "name": "Francesco De Vito",
+        "character": "Greeting Priest",
+        "profile_path": "https://image.tmdb.org/t/p/w185/s8uOepBCIS6dpZ0OnLjnjXjE6z2.jpg"
+      },
+      {
+        "name": "Giorgio Marchesi",
+        "character": "Vatican Gate Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/NKlrZnQ7Kw3tWcYEj1S8Ms00xv.jpg"
+      },
+      {
+        "name": "Niccolò Senni",
+        "character": "Vatican Gate Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uaMIXYdpbnQtgda5BSWxxpJLKhI.jpg"
+      },
+      {
+        "name": "Paolo Bonacelli",
+        "character": "Monsignore",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7h2EJQ19m9pZCfyGEoXb8aEFIF2.jpg"
+      },
+      {
+        "name": "David Waters",
+        "character": "IMF Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael G. Kehoe",
+        "character": "Hospital Employee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wXBDNBZKjVb29hGP8JllaBT9wEm.jpg"
+      },
+      {
+        "name": "Timothy Omundson",
+        "character": "IMF Agent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fPhLMiodU7mVegOYvJ8aoj84ZHJ.jpg"
+      },
+      {
+        "name": "José Zúñiga",
+        "character": "IMF Agent Pete",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r6nFkJkMHP9tFDohwfav9Bf2rCR.jpg"
+      },
+      {
+        "name": "William Francis McGuire",
+        "character": "IMF Head of Security",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r9qhrv7gYIWqhXX3aco3GTHkaSn.jpg"
+      },
+      {
+        "name": "Michelle Arthur",
+        "character": "Airline Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cC6R8hK8FUH007zbZnMjypu8C2T.jpg"
+      },
+      {
+        "name": "Barney Cheng",
+        "character": "Janitor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/f7AT18OUAJUowTdhHiaXuzN4fYT.jpg"
+      },
+      {
+        "name": "George Cheung",
+        "character": "Shanghai Game Player (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oqVIeE1acnBzPboiP4UqGSIPWB0.jpg"
+      },
+      {
+        "name": "Brandon Molale",
+        "character": "Torturer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vdmlsB7caZMJs57RT38oJa5s0U.jpg"
+      },
+      {
+        "name": "Simon Rhee",
+        "character": "Chinese Guard at Hengshan Lu Building (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ffic6wucnGrVdq884RguSQCCXeW.jpg"
+      },
+      {
+        "name": "Marcus Young",
+        "character": "Chinese Guard (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/txBvkZc6W5uTDbFeiMJ9sOPyUof.jpg"
+      },
+      {
+        "name": "Jerry Trimble",
+        "character": "Davian's Thug (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oDK7NCnz2z2BFV8YquEpj8PBwed.jpg"
+      },
+      {
+        "name": "Alex Kurtzman",
+        "character": "Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uDZxuaV19OYMhN7vuuVg1bSlqUM.jpg"
+      },
+      {
+        "name": "Roberto Orci",
+        "character": "Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mkc51BZ6dYg843frBA9flomxFda.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "J.J. Abrams",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/k4IWd2RV5kY1kAL2VgKQwFvnCLP.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "mask",
+    "mission",
+    "berlin, germany",
+    "cia",
+    "computer",
+    "the white house",
+    "shanghai, china",
+    "funeral",
+    "explosive",
+    "secret mission",
+    "spy",
+    "vatican",
+    "secret identity",
+    "traitor",
+    "map",
+    "honeymoon",
+    "pretended murder",
+    "letter",
+    "covered investigation",
+    "secret agent",
+    "stamp",
+    "hard drive",
+    "e-mail",
+    "decipherment",
+    "suitcase",
+    "revenge",
+    "murder",
+    "hospital",
+    "duel",
+    "disguise",
+    "celebration",
+    "research laboratory",
+    "blast"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "IMF agent Ethan Hunt comes into conflict with a dangerous and sadistic arms dealer who threatens his life and his fiancée in response.",
+    "A man named Owen Davian kills an IMF agent that was sent undercover by the legendary Ethan Hunt, who has retired from combat missions. Hunt now has a fiancé, Julia, who believes that he works for the traffic department when he really trains younger IMF agents to go into combat. He is assigned to his last mission. His mission, should he choose to accept it is to capture Davian, who is selling a toxic weapon called the rabbits foot. But Davian is reckless, cruel, and deadly. He promises Hunt that he will find Julia, hurt her, and Ethan will be too dead to help her. The mission is no more different to others, its dangerous, smart, and impossible; but now it's personal.",
+    "The third entry in Tom Cruise's Mission: Impossible film series involves super Impossible Mission Forces (IMF) agent Ethan Hunt (Cruise) being forced back into the field just when he was planning on marrying his girlfriend, Julia (Michelle Monaghan). The agency asks Hunt to save an operative (Keri Russell) he trained after weapons dealer Owen Davian (Philip Seymour Hoffman) kidnaps her. With the help of his field team -- played by Ving Rhames, Jonathan Rhys-Meyers, and Maggie Q -- Hunt achieves his goal, but becomes involved in a web of double-crosses that leave him wondering if he can trust his superiors (Billy Crudup and Laurence Fishburne). Eventually Davian threatens Julia's life in order to get away with his evil plan.",
+    "Super-spy Ethan Hunt has retired from active duty to train new IMF agents. But he is called back into action to confront the toughest villain he's ever faced - Owen Davian, an international weapons and information provider with no remorse and no conscience. Hunt assembles his team: his old friend Luther Strickell, transportation expert Declan, and background operative Zhen. They are to rescue one of his very own trainees, Lindsey who was kidnapped while on a surveillance detail of Davian. It soon becomes evident that Davian is well-protected, well-connected, and downright malicious. This forces Hunt to extend his journey back into the field in order to rescue his fiance, Julia, and uncover IMF double agents in the process.",
+    "While in his engagement party with doctor Julia, the IMF agent, Ethan Hunt, is invited to a rescue mission of his former protégée. Agent Lindsey Farris was trained by him but has been kidnapped by the evil dealer, Owen Davian. Ethan accepts the assignment and rescues Lindsey with his team, but she is killed by a bomb that has been implanted in her head. Ethan finds that Owen will be in the Vatican and he joins his group to abduct him. They succeeded in their mission, but back in USA they are betrayed, Owen is released by his team and he abducts Julia, bringing her to Shanghai. Owen contacts Ethan and forces him to steal a powerful weapon in order to save the life of Julia.—Claudio Carvalho, Rio de Janeiro, Brazil"
+  ],
+  "synopsis": "Ethan Hunt (Tom Cruise) has retired from being an IMF team leader, instead opting for a quiet life with his fiancée Julia (Michelle Monaghan), a hospital nurse (who was the captive in the opening sequence). During their engagement party, Ethan is contacted by IMF Operations Director Musgrave (Billy Crudup) who provides him with a disposable camera. After viewing a video hidden in the camera, he finds out Musgrave wants him to rescue Agent Lindsey Farris (Keri Russell), Ethan's protégé, who has been captured in Berlin by Owen Davian (Philip Seymour Hoffman), a prominent dealer in the international black market (the captor from the opening). He reluctantly agrees to participate in the mission and meets the team which has been selected for him, consisting of Declan Gormley (Jonathan Rhys-Meyers), Zhen (Maggie Q), and his old partner, Luther Stickel (Ving Rhames).The team assaults an enemy stronghold in Berlin and extracts Agent Farris successfully, but she dies during their escape when an explosive capsule placed inside her head detonates. After Lindsey's funeral, Ethan is notified of a \"package\" sent to him by Lindsey, and discovers that it is a microdot hidden under the stamp in a blank postcard. Ethan discusses its possible importance with Luther and both decide to keep its existence a secret.Using information recovered from a laptop in the Berlin mission, Ethan then decides to go after Davian himself, targeting him at a meeting in Vatican City, where a lucrative transaction involving a mysterious object, codenamed \"The Rabbit's Foot\", is apparently taking place. Neither of Ethan's superiors, directors Brassel (Laurence Fishburne) or Musgrave, has authorized the mission. Before leaving, Ethan reassures Julia of their relationship, and promptly marries her at the hospital in a small ceremony. The team then arrives in Rome and sets off their elaborate plan to abduct Davian, barely avoiding disaster in the process. The operation succeeds nonetheless. Ethan interrogates Davian on the flight home. However he is angered by Davian's quiet but confident threats of killing his wife, and attempts to throw him off the plane before being talked out of it by Stickel.While transporting Davian across the Chesapeake Bay Bridge-Tunnel in a convoy, Luther hands Ethan a laptop computer and plays the video message from the decoded microdot: Lindsey had discovered that Director Brassel is a mole, who has been leaking information to Davian about IMF operations. Suddenly, Ethan and his team are attacked by foreign mercenaries who, using a UAV drone, manage to extract Davian. Remembering Davian's threats to kill his wife, Ethan immediately rushes to the hospital where Julia works. He arrives barely moments too late and finds that Julia has already been abducted. At that moment of despair, Ethan receives a call from Davian with a proposition; he must retrieve the \"Rabbit's Foot\" from a facility in Shanghai within 48 hours, or his wife will be killed. Ethan, anxious to begin his mission to rescue his wife is abruptly taken into custody by the IMF and accused of masterminding the ambush. However, he manages to escape with help from Musgrave, who intercepted Ethan's call from Davian, and instructs Ethan to go to Shanghai.In Shanghai, Ethan reunites with his team once more and manages to infiltrate the heavily guarded building containing the Rabbit's Foot and steals it. Ethan then goes to the established meeting place where Davian is waiting. Told to \"ask no questions\", he is made to drink a substance which knocks him out. He awakes in a seedy room where Davian injects an explosive charge like the one that killed Lindsey into his head. The scene shown in the prologue then ensues: Julia and Ethan are bound to chairs and Davian threatens to kill Julia if he is not told the location of the Rabbit's Foot. Ethan, in panic, insists that he has delivered it. However, after counting to ten, Davian executes Julia.After Davian leaves, Musgrave enters, revealing himself as the traitor and explains the situation to a stunned Ethan; Davian will sell the Rabbit's Foot to known Middle Eastern enemies of the United States, the resulting attack being anticipated and controlled to generate only 'acceptable losses' - the concept of a \"false flag\" attack taken to the next level. This will then justify a massive retaliation that would result in an internationally supported hostile takeover of the region. He shows Ethan that the dead \"Julia\" was actually one of Davian's incompetent personnel wearing a mask, used to make sure that Ethan had brought the real Rabbit's Foot; Julia is still alive. Ethan escapes by biting Musgrave's arm before attacking him and taking his phone, which is used to track down Julia's location. Instrumental in this is the assistance of Benji (Simon Pegg), an IMF laboratory technician.After a furious run through the neighborhood, Ethan finally finds Julia, but before he can free her Davian activates the bomb in Ethan's head. The result is a splitting noise in Ethan's head which renders him incapable of thinking properly and defending himself. Davian then begins to savagely beat Ethan, but just as Davian prepares to kill Julia, Ethan manages to make an impressive comeback and hurls Davian out of the window. Davian is killed when a truck runs over him and Ethan during the scuffle--Ethan, on the bottom, is clear of the truck. Unable to find a defibrillator, Ethan loosens power cables to be able to put electricity on his body, to deactivate the bomb in his head, and quickly teaches Julia how to shoot his Beretta pistol. Julia turns on the power which seemingly kills Ethan, after which Musgrave attacks her. After killing Musgrave, she successfully resuscitates Ethan with CPR, and the two walk out with the Rabbit's Foot as Ethan proceeds to tell Julia the truth about his secret life.Back at headquarters, Ethan is congratulated for his heroic actions, and then leaves for his honeymoon with Julia, with the blessing of his applauding teammates and promises for another mission which the White House is keen to contact him about.",
+  "imdb_score": 6.9
+}

@@ -1,0 +1,430 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/7cW7zHpDdl9fgaRXI5qAglV247P.jpg",
+  "id": 9693,
+  "title": "Children of Men",
+  "poster_path": "https://image.tmdb.org/t/p/w500/k9IAS4TehZFcKi4HVByxZNPfqex.jpg",
+  "release_date": "2006-09-22",
+  "vote_average": 7.612,
+  "vote_count": 6692,
+  "popularity": 32.041,
+  "overview": "In 2027, in a chaotic world in which humans can no longer procreate, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea, where her child's birth may help scientists save the future of humankind.",
+  "imdb_id": "tt0206634",
+  "budget": 76000000,
+  "homepage": "http://www.universalstudiosentertainment.com/children-of-men/",
+  "revenue": 70595464,
+  "runtime": 109,
+  "tagline": "The future's a thing of the past.",
+  "genres": [
+    "Drama",
+    "Action",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Universal Pictures",
+    "Strike Entertainment",
+    "Hit & Run Productions"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Clive Owen",
+        "character": "Theo Faron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ed0LT4wH1rUCviCFexd4XPZVHE1.jpg"
+      },
+      {
+        "name": "Clare-Hope Ashitey",
+        "character": "Kee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iBCCOZSvZZs1M2YQSa41I2AJ8GS.jpg"
+      },
+      {
+        "name": "Pam Ferris",
+        "character": "Miriam",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aVvdYkgolh22FYqqCJhVO8jd7To.jpg"
+      },
+      {
+        "name": "Chiwetel Ejiofor",
+        "character": "Luke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+      },
+      {
+        "name": "Julianne Moore",
+        "character": "Julian Taylor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
+      },
+      {
+        "name": "Michael Caine",
+        "character": "Jasper Palmer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hZruclwEPCKw3e83rnFSIH5sRFZ.jpg"
+      },
+      {
+        "name": "Oana Pellea",
+        "character": "Marichka",
+        "profile_path": "https://image.tmdb.org/t/p/w185/x9QglnA7Qv3Wfd8nNsp0cThbS4c.jpg"
+      },
+      {
+        "name": "Charlie Hunnam",
+        "character": "Patric",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nw9LsDNsDkPwotG7YpxRNBXmaCQ.jpg"
+      },
+      {
+        "name": "Danny Huston",
+        "character": "Nigel",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iiVgafHitV0IbJYbaSNtHcWHF7P.jpg"
+      },
+      {
+        "name": "Peter Mullan",
+        "character": "Syd",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Y6oHcv719kfYxpWcYAE7wXzE7C.jpg"
+      },
+      {
+        "name": "Jacek Koman",
+        "character": "Tomasz",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fajWa6UPn9eLne6TjT8zs4VOd7c.jpg"
+      },
+      {
+        "name": "Phaldut Sharma",
+        "character": "Ian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iJKcwRJXEcZngnvseylidVHCg6j.jpg"
+      },
+      {
+        "name": "Juan Gabriel Yacuzzi",
+        "character": "Baby Diego",
+        "profile_path": ""
+      },
+      {
+        "name": "Mishal Husain",
+        "character": "Newsreader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9tywPaRdKcWKIJ6TXPQlaW2kelJ.jpg"
+      },
+      {
+        "name": "Rob Curling",
+        "character": "Newsreader",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ir5SJncmOBMY3H4Yslmv110xvnA.jpg"
+      },
+      {
+        "name": "Maria McErlane",
+        "character": "Shirley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zzYleepEcq4v1RyIVVwwnVL4b41.jpg"
+      },
+      {
+        "name": "Michael Haughey",
+        "character": "Mr. Griffiths",
+        "profile_path": ""
+      },
+      {
+        "name": "Tehmina Sunny",
+        "character": "Zara",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7VJetNzz5Sx5j2EDEjHqWHTUIdV.jpg"
+      },
+      {
+        "name": "Michael Klesic",
+        "character": "Rado",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cW12rjwr9Tmu1doNUNLOBInMOmM.jpg"
+      },
+      {
+        "name": "Ilario Bisi-Pedro",
+        "character": "Cigar Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lUcO4I8M9r1s9fbnWCZmSM0fozW.jpg"
+      },
+      {
+        "name": "Caroline Lena Olsson",
+        "character": "Caroline",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qf4mfnk0KBYvE1jqoCgY1OMwlxd.jpg"
+      },
+      {
+        "name": "Dhafer L'Abidine",
+        "character": "Dhafer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6K3vk8NdRBO9JvJX0PFUyD3ZAbM.jpg"
+      },
+      {
+        "name": "Jon Chevalier",
+        "character": "Café Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "Rita Davies",
+        "character": "Café Customer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1QCmTGgCljHCKRq4pfxponth6Hb.jpg"
+      },
+      {
+        "name": "Kim Fenton",
+        "character": "Café Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Gilbert",
+        "character": "Café Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "Phoebe Hawthorne",
+        "character": "Café Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "Rebecca Howard",
+        "character": "Cafe Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "Atalanta White",
+        "character": "Café Customer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ytXQD2HUSkxIlW5KORl44AGqzvl.jpg"
+      },
+      {
+        "name": "Laurence Woodbridge",
+        "character": "Café Customer",
+        "profile_path": ""
+      },
+      {
+        "name": "Miriam Karlin",
+        "character": "Caged German Grandmother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uCQHjnB0FrAbTAUat5RRIQDu4kB.jpg"
+      },
+      {
+        "name": "Philippa Urquhart",
+        "character": "Janice",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fmrgIAITYvcWPXE6xoPHjRFMiDq.jpg"
+      },
+      {
+        "name": "Jody Halse",
+        "character": "Immigration Policeman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bhrF8chiAzOEZnoVV0qCyJ3e0Vn.jpg"
+      },
+      {
+        "name": "Martina Messing",
+        "character": "Birgit",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mhOf0AJrXd7WVNFY4JL4Ov64e23.jpg"
+      },
+      {
+        "name": "Simon Poland",
+        "character": "Preacher Trafalgar Square",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eOnBcqGKynCg3rBd31vRvlzNIBq.jpg"
+      },
+      {
+        "name": "Barnaby Edwards",
+        "character": "Ministry Official",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ylW7dGQhsasr8hvjxjGFxm6eTJP.jpg"
+      },
+      {
+        "name": "Ed Westwick",
+        "character": "Alex",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1IfkKI3zxASJSrlMpnlEPpofacD.jpg"
+      },
+      {
+        "name": "Valerie Griffiths",
+        "character": "Dog Track Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dTMQTd55q4l5bneXvbkT03s6TjG.jpg"
+      },
+      {
+        "name": "Billy Cook",
+        "character": "Bookmaker",
+        "profile_path": ""
+      },
+      {
+        "name": "Gary Hoptrough",
+        "character": "Simon",
+        "profile_path": "https://image.tmdb.org/t/p/w185/npTgssCH08YgT6kl27W5zNTBCnI.jpg"
+      },
+      {
+        "name": "Rob Inch",
+        "character": "Road Traffic Police",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ihuAlrMLqovvyoNq42MJ4ZauvJz.jpg"
+      },
+      {
+        "name": "Jamie Kenna",
+        "character": "Road Traffic Police",
+        "profile_path": "https://image.tmdb.org/t/p/w185/khJSd1pa4HNuCa7FH9teBYa3khU.jpg"
+      },
+      {
+        "name": "Maurice Lee",
+        "character": "Samir",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1YMpYFzwjTW8p2fBf1xCbGxARMj.jpg"
+      },
+      {
+        "name": "Bruno Ouvrard",
+        "character": "Bruno",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ftll7VcxuG0TEwWcKeAf5hQACwz.jpg"
+      },
+      {
+        "name": "Denise Mack",
+        "character": "Emily",
+        "profile_path": "https://image.tmdb.org/t/p/w185/maC04YQMXBmVhXpL8hdfnqmzkL0.jpg"
+      },
+      {
+        "name": "Joy Richardson",
+        "character": "Joy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g1FaacHAdWcXZNPMmxEpgxFokI.jpg"
+      },
+      {
+        "name": "Milenka James",
+        "character": "Milenka",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cdCc7nsRVYnFH3DLW3LEa4Yo0xo.jpg"
+      },
+      {
+        "name": "Somi De Souza",
+        "character": "Somi",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wcsKm1jKY6KoDFZ9JRmAm8zdWuQ.jpg"
+      },
+      {
+        "name": "Francisco Labbe",
+        "character": "Francisco",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dj02MFKKuPeSJhCiBxbDx8ZgmAa.jpg"
+      },
+      {
+        "name": "Thorston Manderlay",
+        "character": "Thorston",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2VHGWiwsWtV3st16pj088KVtDzS.jpg"
+      },
+      {
+        "name": "Georgia Goodman",
+        "character": "Georgette",
+        "profile_path": "https://image.tmdb.org/t/p/w185/igrVZq0JVIkFW1TbgaOG9ESd9pR.jpg"
+      },
+      {
+        "name": "Dorothy Grumbar",
+        "character": "German Bus Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Barry Martin",
+        "character": "German Bus Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Keith Dunphy",
+        "character": "Bexhill Immigration Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/moLqTrSMwXCs3omxaSN2SCfEFjl.jpg"
+      },
+      {
+        "name": "Raymond Trickitt",
+        "character": "Bexhill Immigration Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a7rhiHmmQwcTSsgxuYfXrT0sPmN.jpg"
+      },
+      {
+        "name": "Nabil Shaban",
+        "character": "Bexhill Market Hustler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aLo38XCvyVxEr944ujUqiQSzT52.jpg"
+      },
+      {
+        "name": "Goran Kostić",
+        "character": "Bexhill Market Hustler",
+        "profile_path": "https://image.tmdb.org/t/p/w185/m6CEa5UjqhPzLRbUNHku9GpvCmQ.jpg"
+      },
+      {
+        "name": "Faruk Pruti",
+        "character": "Sirdjan",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uSV0IzuMfvLTSSZt2i30IbzdiHv.jpg"
+      },
+      {
+        "name": "Yolanda Vazquez",
+        "character": "Spanish Woman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zR6789BnCi4Q9MC98556kVkUl6Z.jpg"
+      },
+      {
+        "name": "Andrew Brooke",
+        "character": "Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5Uw338KnJTSs8ttFgFDVjk6e6A6.jpg"
+      },
+      {
+        "name": "Andy Callaghan",
+        "character": "Riot Policeman / Soldier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Forbes KB",
+        "character": "Elite Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fI5cGk3DmSX8T6ieNITvvv5Ts2L.jpg"
+      },
+      {
+        "name": "P.D. James",
+        "character": "Café Customer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tfk4cmvC9J3x2hpVKmWThUPgChk.jpg"
+      },
+      {
+        "name": "Jamie Lengyel",
+        "character": "First Human Project Professor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "João Costa Menezes",
+        "character": "Terrorist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c6c38XQz3SjX5sF5jWHnm7dWh4E.jpg"
+      },
+      {
+        "name": "Vidal Sancho",
+        "character": "Basque Rebel (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pEPX14B7p1uLtEOEgpa6fd5Liij.jpg"
+      },
+      {
+        "name": "John Warman",
+        "character": "Taxi Driver (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vn9yprak8rarcy99iRB1Kfn7DA8.jpg"
+      },
+      {
+        "name": "Paul Warren",
+        "character": "Injured Refugee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gc7LjQxymaLtr8neHQ0Yy7bdFk6.jpg"
+      },
+      {
+        "name": "Yana Yanezic",
+        "character": "Woman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9688mS35LAR3ypJT9vkOI4kvjtC.jpg"
+      },
+      {
+        "name": "Michael Snelders",
+        "character": "Newsreader (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hYvVO7Vt0Gkt2MaFrLIghegP7Yy.jpg"
+      },
+      {
+        "name": "Steve Murphy",
+        "character": "Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kWRUF0tPaIUYLYpswTQBcGXwLWr.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Alfonso Cuarón",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eoCHiXaQzGgx9RiwXnt3k239FLc.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "future",
+    "government",
+    "police state",
+    "based on novel or book",
+    "hippie",
+    "england",
+    "faith",
+    "chaos",
+    "refugee camp",
+    "rebel",
+    "dystopia",
+    "miracle",
+    "childlessness",
+    "survival",
+    "birth",
+    "alcoholic",
+    "bombing",
+    "dying",
+    "fertility"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "In 2027, in a chaotic world in which women have somehow become infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea.",
+    "In the dystopian world of 2027 London, humans have been incapable of reproducing for 18 year for an unknown reason, meaning the imminent extinction of the species. Britain is the one remaining civilized society on the planet, which has resulted in people wanting to migrate there, so it has become a police state to handle the immigrants, who are placed into refugee camps. Lowly government bureaucrat Theo Faron, once an activist, is approached by the Fishes, deemed a terrorist group, led by his ex-wife Julian Taylor, whom he hasn't seen in almost 20 years, since their marriage disintegrated after their infant son Dylan's death during the 2008 flu pandemic. Although the Fishes did use terrorist means in their on-going revolution against the state in the fight for immigrant rights, Julian vows that they now garner support solely by speaking to the people, and she wants Theo to use his connections to get transit papers for a young immigrant woman named Kee who needs to get to the coast. Although initially reluctant to do it because of the difficulty, Theo is able to grant Julian this favor, however with the change that he now needs to accompany Kee on her journey. As Theo and Kee progress on that journey, Theo learns more and more about what's going on, including the reason that Kee needs to get to the coast, the fact that no one in the group knows if their end destination even exists, and that his and Kee's lives are in greater danger than he believed when they started the journey. But Theo's sole mission becomes to help Kee at any cost for the survival of the species.—Huggo",
+    "This sci-fi epic from Alfonso Cuaron imagines a future world that has fallen into anarchy on the heels of an infertility defect in the population that has made humankind face the likelihood of its own extinction. Set against a backdrop of London torn apart by violence, the film follows an unlikely champion of Earth's survival: Theo (Owen), a disillusioned ex-activist turned bureaucrat, who is forced to face his own demons and protect the planet's last remaining hope for a future generation.",
+    "The world's youngest citizen has just died at age 18, and humankind is facing the likelihood of its own extinction. Set in and around a dystopian London fractious with violence and warring nationalistic sects, this movie follows the unexpected discovery of a lone pregnant woman and the desperate journey to deliver her to safety and restore faith for a future beyond those presently on Earth.—Production",
+    "Set in 2027, when no child has been born for 18 years and science is at loss to explain the reason, African and East European societies collapse and their dwindling populations migrate to England and other wealthy nations. In a climate of nationalistic violence, London peace-activist-turned-bureaucrat Theo Faron joins forces with his revolutionary ex-wife Julian in order to save mankind by protecting a woman who has mysteriously became pregnant.—Ryan Devlin"
+  ],
+  "synopsis": "In 2027, worldwide female infertility has led to the collapse of society. The United Kingdom, the last known stable nation, is deluged by asylum seekers. In response it has become a militarized police state as British forces round up and detain immigrants. Kidnapped by an immigrants rights group known as \"The Fishes\", former activist turned cynical bureaucrat Theo Faron (Clive Owen) is brought to its leader, his estranged wife Julian Taylor (Julianne Moore). They parted ways after their son died from a flu pandemic in 2008.Julian offers Theo money to acquire transit papers for a young black female refugee named Kee (Clare-Hope Ashitey), which Theo obtains from his cousin Nigel (Danny Huston), a government minister. However, the bearer must be accompanied, so Theo agrees to escort Kee in exchange for a larger sum. Luke (Chiwetel Ejiofor), a Fishes member, drives them and former midwife Miriam (Pam Ferris) towards the coast to a boat. They are ambushed by an armed gang and Julian is fatally shot. Luke kills two police officers who stop their car and they escape to a safe house.Kee reveals to Theo that she is pregnant and that Julian told her to only trust him. Julian had intended to hand Kee to the \"Human Project\", a supposed scientific group in the Azores dedicated to curing infertility. However, Luke persuades Kee to stay. That night, Theo eavesdrops on a meeting of Luke and other members and discovers that Julian's death was orchestrated so the group could use the baby as a political tool to support the coming revolution. Theo wakes Kee and Miriam and they steal a car, escaping to the secluded hideaway of Theo's aging hippie friend Jasper Palmer (Michael Caine), a former editorial cartoonist.A plan is formulated to board the Human Project ship Tomorrow which will arrive offshore from the Bexhill refugee camp and Jasper proposes getting camp guard Syd (Peter Mullan) to smuggle them in, as he's had dealings with him in the past. The Fishes trail the group and Jasper stays behind to stall them, giving the government-issued suicide drug Quietus to his catatonic wife. A horrified Theo witnesses the Fishes kill him before escaping with Miriam and Kee. Later they meet Syd, who transports them to Bexhill as prisoners. When Kee begins having contractions on a bus, Miriam distracts a suspicious guard with mania and is taken away.At the camp Theo and Kee meet Marichka (Oana Pellea), who provides a room where Kee gives birth to a girl. The next day Syd informs Theo and Kee that a war between the army and the refugees, including the Fishes, has begun. After seeing the baby Syd threatens to turn them in but they attack him and escape. Amidst the fighting between refugees and British troops, the Fishes capture Kee. Theo tracks her and her baby to an apartment which is under heavy fire from the military and escorts her out. Awed by the presence of a baby, all the combatants stop fighting momentarily, enabling them to escape. Marichka leads them to a boat in a sewer, but refuses to join them. As Theo rows away, he reveals to Kee that he had been shot during the gunfire. As they witness the aerial bombing of Bexhill by the Royal Air Force, Kee tells Theo she will name her baby Dylan after Theo's son. Theo loses consciousness and Kee begins to sing a lullaby as the Tomorrow approaches through the fog.",
+  "imdb_score": 7.9
+}

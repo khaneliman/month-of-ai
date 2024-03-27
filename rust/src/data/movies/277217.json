@@ -1,0 +1,389 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/wy3ItrIw4DmLFxvFK5LM6FPwdQw.jpg",
+  "id": 277217,
+  "title": "Descendants",
+  "poster_path": "https://image.tmdb.org/t/p/w500/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg",
+  "release_date": "2015-07-31",
+  "vote_average": 7.1,
+  "vote_count": 2199,
+  "popularity": 36.996,
+  "overview": "A present-day idyllic kingdom where the benevolent teenage son of King Adam and Queen Belle offers a chance of redemption for the troublemaking offspring of Disney's classic villains: Cruella De Vil (Carlos), Maleficent (Mal), the Evil Queen (Evie) and Jafar (Jay).",
+  "imdb_id": "tt3440298",
+  "budget": 0,
+  "homepage": "",
+  "revenue": 0,
+  "runtime": 112,
+  "tagline": "They're not bad. They're just born that way.",
+  "genres": [
+    "Family",
+    "Music",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "TV Movie"
+  ],
+  "production_companies": [
+    "Bad Angels Productions, Ltd.",
+    "5678 Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Dove Cameron",
+        "character": "Mal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/83KaVcWWTzk6TdUf2tE0Q3cuGTy.jpg"
+      },
+      {
+        "name": "Cameron Boyce",
+        "character": "Carlos",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dtONrW7kQ9DFyduL0W1YPawkGYs.jpg"
+      },
+      {
+        "name": "Booboo Stewart",
+        "character": "Jay",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xldPsFq9oVT7rH3Bs6LvlA8N5cn.jpg"
+      },
+      {
+        "name": "Sofia Carson",
+        "character": "Evie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/v6N7ZrwG7C7fII2hOzfzPFNMtK.jpg"
+      },
+      {
+        "name": "Mitchell Hope",
+        "character": "Ben",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oENPvMMblZYzEd4tGJ6VGaxsg6q.jpg"
+      },
+      {
+        "name": "Melanie Paxson",
+        "character": "Fairy Godmother",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8jwzVaD3ezjAjYkOcSUQo2rpURS.jpg"
+      },
+      {
+        "name": "Brenna D'Amico",
+        "character": "Jane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2sKU6P5RsAg2YocLXOtcQUiDFp4.jpg"
+      },
+      {
+        "name": "Sarah Jeffery",
+        "character": "Audrey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i7twvEdyPCVdgVqMlxbyQ3twJ18.jpg"
+      },
+      {
+        "name": "Zachary Gibson",
+        "character": "Doug",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mu5EhKIEPW4KVMWn826YOmEdQcy.jpg"
+      },
+      {
+        "name": "Jedidiah Goodacre",
+        "character": "Chad Charming",
+        "profile_path": "https://image.tmdb.org/t/p/w185/c7XLTdVJwjnwaHdkWxN3Ykg7uOM.jpg"
+      },
+      {
+        "name": "Dianne Doan",
+        "character": "Lonnie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1qOHNQerubLL28fkAX2swY9bAIz.jpg"
+      },
+      {
+        "name": "Dan Payne",
+        "character": "Beast",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oaKJV67XtJNQLtSGlO1YVveGqly.jpg"
+      },
+      {
+        "name": "Keegan Connor Tracy",
+        "character": "Belle",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lP5rlqK8YIqobtFghURPbNdN5zw.jpg"
+      },
+      {
+        "name": "Wendy Raquel Robinson",
+        "character": "Cruella de Vil",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3yaBYcN0BtlX9rTaatBQJxXOVPx.jpg"
+      },
+      {
+        "name": "Maz Jobrani",
+        "character": "Jafar",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vyAvi8bmwMUPKnIDijx9KXrjySJ.jpg"
+      },
+      {
+        "name": "Kathy Najimy",
+        "character": "Evil Queen",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg"
+      },
+      {
+        "name": "Kristin Chenoweth",
+        "character": "Maleficent",
+        "profile_path": "https://image.tmdb.org/t/p/w185/q3ENDu5n23FARhyij4FVRaTkSg4.jpg"
+      },
+      {
+        "name": "Shaughnessy Redden",
+        "character": "Limo Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hVyew9kSmcZpOWK4DBY3vUP5BHo.jpg"
+      },
+      {
+        "name": "Reese Alexander",
+        "character": "Coach Jenkins",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5HXo2nv3MZxJzScZBuBL6dYILvX.jpg"
+      },
+      {
+        "name": "James Hibbard",
+        "character": "Museum Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a3HcAZNIbmerj7A8WXiJII4VQTu.jpg"
+      },
+      {
+        "name": "Wesley Salter",
+        "character": "Photographer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/joh7flzW6bmMnw1EEUS8fCWe4Ef.jpg"
+      },
+      {
+        "name": "Judith Maxie",
+        "character": "Queen Leah",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zIc0D2UMBxn2R6O4SJL8WSMZ6x5.jpg"
+      },
+      {
+        "name": "Ken Lawson",
+        "character": "Royal Tailor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ewtIfsp0MI6mVp4jHHcLdHLF728.jpg"
+      },
+      {
+        "name": "Stephanie Bennett",
+        "character": "Snow White",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qOrtOLOtkOyIJNmT7B5E8w4kPmU.jpg"
+      },
+      {
+        "name": "Jonathan Holmes",
+        "character": "Mr. Deley",
+        "profile_path": "https://image.tmdb.org/t/p/w185/giErOv0CzwiNfW8YKwiiDKA7cma.jpg"
+      },
+      {
+        "name": "Peter Schaad",
+        "character": "Tourney Announcer",
+        "profile_path": ""
+      },
+      {
+        "name": "Christian Lagasse",
+        "character": "Footman #1",
+        "profile_path": "https://image.tmdb.org/t/p/w185/bzZhgWoF9veiXdcmvCBGaTL9QXf.jpg"
+      },
+      {
+        "name": "Paisley",
+        "character": "Dude the Dog",
+        "profile_path": ""
+      },
+      {
+        "name": "Addy Chan",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/48j25Ss0bbSPk7Owzqq1OPYX2He.jpg"
+      },
+      {
+        "name": "Danny De Matos",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Devin Jameson",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "J.P. Dubé",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Shane Simpson",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Tyler Layton-Olson",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3G91qeWlV3RWCQeZuWzXop3Pkhr.jpg"
+      },
+      {
+        "name": "Tony Giroux",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jUmPyQSYKnqt5NElRTtOiSPXmuc.jpg"
+      },
+      {
+        "name": "Aglaë Kounkou",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nu2fPCBYaprPJsbRkgJTMBFJ5Nj.jpg"
+      },
+      {
+        "name": "Jeff Mortensen",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/b3Sn0TfvOKFZbF8gfKkdU36fv0M.jpg"
+      },
+      {
+        "name": "Kayla Wallace",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dvc9yIdCxJMmmaJF1ul4rZkPt1Z.jpg"
+      },
+      {
+        "name": "Kiara Gudgeon",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cy2vjyzRbwCU5YhmBNpF7HaUmpR.jpg"
+      },
+      {
+        "name": "Louise Hradsky",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Megan Serena Trainer",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zcbXgZLpqatenya4LdG1lej6ISZ.jpg"
+      },
+      {
+        "name": "Mark Samuels",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uq8YCg4BSfIcqEAFoXfJIKuK3xR.jpg"
+      },
+      {
+        "name": "Jennifer Oleksiuk",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7LtzgBtJU0nR6BZSqPVVMGpMYes.jpg"
+      },
+      {
+        "name": "Kelly Konno",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ocM4XoluOnvAsl7lYKNhzjW5gG1.jpg"
+      },
+      {
+        "name": "Tatiana Parker",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Taylor James",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sMMCf0O7GcbJZoxmyWAbU6CsN6B.jpg"
+      },
+      {
+        "name": "Michael Riccio",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Navid Charkhi",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sr5BmpuyWFQLDQUwCSeM3rxaZuK.jpg"
+      },
+      {
+        "name": "Dwayne Gulston",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Marlyse Joe",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Jesse Devlin",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n9DrLQ7BgBkUpWE8Z4gtxEYxGK7.jpg"
+      },
+      {
+        "name": "Morgan Tanner",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lue0MqKFGEycTVqa09QHEoI8R6d.jpg"
+      },
+      {
+        "name": "Brittany Gumundson",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Michelle Dawley",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Diedre Barnes",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Winnie Chang",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Desirée Manning",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5zb5hrzXMf6PxUs4mQ1GxMzinsw.jpg"
+      },
+      {
+        "name": "Kyal Legend",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yczCfZE3pjodc6uk0Sogha80bAc.jpg"
+      },
+      {
+        "name": "Audessa Parafina",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/QtLTqa2SkEITkI2TLwYaypL7Gt.jpg"
+      },
+      {
+        "name": "Ralph Escamillan",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nkc3tAazIsKMr8bOUSTMJ2u19HS.jpg"
+      },
+      {
+        "name": "Mike Ward",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": ""
+      },
+      {
+        "name": "Mackenzie Green",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/mHJvAXuNGlkuc9HMPl4PsmaFMBh.jpg"
+      },
+      {
+        "name": "Benjamin Ritter",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7Bm0tP8H2ujBgD20QBDyZ4UEx45.jpg"
+      },
+      {
+        "name": "Castle Rock",
+        "character": "Dancer and Chorus Performer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6zHhz99FqGuKlfyWuu0hoczLE3Z.jpg"
+      },
+      {
+        "name": "Ben Stillwell",
+        "character": "Happy Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i7edLItnAkpYcqRNwyRfnNzDVgq.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Kenny Ortega",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cZrsOBr1tp1nNPJ5xj3uao2XQbJ.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "witch",
+    "high school",
+    "magic",
+    "fairy tale",
+    "villain",
+    "teen movie",
+    "fairy godmother",
+    "teenage protagonist",
+    "maleficent"
+  ],
+  "mpaa": "G",
+  "summaries": [
+    "The teenage son of the king and queen of Auradon offers the trouble-making children of villains a chance to attend prep school in the kingdom.",
+    "Ben, son of Belle and the once selfish Beast, is poised to become next on the throne, however he is not ready and allows the villain kids from the Isle of the Lost to attend Auradon Prep. From there, things go way down hill.",
+    "Twenty years after Belle and Beast marry and become king and queen, they establish the United States of Auradon, creating a prosperous new nation from the surrounding kingdoms, and banish the villains to the Isle of the Lost, a slum surrounded by a barrier where magic is suspended. Their son, Ben, announces that his first proclamation is to give four selected children from the Isle of the Lost the chance to live in Auradon, away from the influence of their villainous parents: Carlos, son of Cruella DE Vil; Jay, son of Jafar; Evie, daughter of the Evil Queen; and Mal, daughter of Maleficent. On the island, Maleficent instructs the quartet to steal the Fairy Godmother's magic wand to release the barrier so she can take over Auradon..",
+    "Soon-to-be King Ben, son of Beauty and the Beast, lives in Auradon, a place where the fairy tale heroes live. He decides to allow four Villain Kids from the Isle of The Lost, a run down place where fairy tale villains were banished, come to Auradon. They are: Mal, daughter of Maleficent, Carlos, son of Cruella De'Vil, Jay, son of Jafar, and Evie, daughter of the Evil Queen. Their parents want them to steal Fairy Godmother's wand so they can break the Isles barrier. But will they succeed?"
+  ],
+  "synopsis": "Twenty years after Belle and Beast marry and become king and queen, they establish the United States of Auradon, creating a prosperous new nation from the surrounding kingdoms, and banish the villains to the Isle of the Lost, a slum surrounded by a barrier where magic is suspended. Their son, Ben, announces that his first proclamation is to give four selected children from the Isle of the Lost the chance to live in Auradon, away from the influence of their villainous parents: Carlos, son of Cruella De Vil; Jay, son of Jafar; Evie, daughter of the Evil Queen; and Mal, daughter of Maleficent. On the island, Maleficent instructs the quartet to steal the Fairy Godmother's magic wand to release the barrier so she can take over Auradon.Traveling to Auradon Prep, the four meet Ben and his self-proclaimed girlfriend Audrey, daughter of Princess Aurora and Prince Phillip. They also meet the Fairy Godmother, the school's headmistress. Evie uses her mother's pocket-sized magic mirror to locate the wand in a nearby museum, and Mal uses her mother's spinning wheel from the museum to put the security guard to sleep, but they fail to steal the wand due to a barrier around it. After learning that the Fairy Godmother will use the wand at Ben's coronation, the four wait it out by attending classes, but start to fit in with the students. Jay is recruited into the school's \"tourney\" team (a sport similar to field hockey and lacrosse), while Carlos overcomes his fear of dogs by befriending the school's dog, Dude. Evie, though intelligent, acts vain to impress Chad, Cinderella's son, but ends up doing his homework for him. Dopey's son, Doug, encourages her not to pander to others and be herself.Mal becomes popular, using Maleficent's spell book to improve the looks of Jane and Lonnie, the daughters of the Fairy Godmother and Mulan, respectively. Learning that Ben's \"girlfriend\" will be seated close to the wand during the coronation, which is used during the ceremony, Mal bakes a cookie laced with a love potion and gives it to Ben, who falls madly in love with her, much to his friends' shock. On a date with Ben, Mal becomes conflicted with her inner goodness and desire to please her mother, unsure of how to react to Ben's feelings towards her. During the school's family day, the villains' children are ostracized after an encounter with Audrey's grandmother, Queen Leah, saying that Maleficent's curse was the reason she missed Aurora's childhood, prompting an argument that drives Mal to end the beauty spell she used on Jane. Though Ben, Lonnie and Doug remain friendly towards the quartet, they are forced to distance themselves from them.At Ben's coronation, Mal gives him a brownie containing the love spell's antidote, believing it is unnecessary to keep him under the spell. However, Ben reveals he was already freed of the spell since their date when he went swimming in the Enchanted Lake, believing that Mal only did it because she really liked him. During Ben's crowning, a disillusioned Jane grabs the wand from her mother, wanting to improve her beauty, only for her to accidentally destroy the Isle's barrier. Mal takes the wand from Jane, but torn over what to do, is encouraged by Ben to make her own choice rather than follow Maleficent's path. Mal recognizes that she and her friends found happiness in Auradon, and they choose to be good.Maleficent crashes the ceremony, freezing everyone except herself and the four children. When they defy her, Maleficent transforms into a dragon. Mal and her friends use a counter spell, turning Maleficent into a lizard based on the amount of love in her heart. Mal returns the Fairy Godmother her wand as she unfreezes everyone and tells her not to be hard on Jane. While the villains watch the celebration from afar, Auradon Prep's students party through the night. Mal's eyes turn green as she addresses the audience, telling them the story is not over yet.",
+  "imdb_score": 6.3
+}

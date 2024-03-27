@@ -1,0 +1,432 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/8qLen3NLCVSu1I9aqGWbTUIoBLQ.jpg",
+  "id": 2123,
+  "title": "Me, Myself & Irene",
+  "poster_path": "https://image.tmdb.org/t/p/w500/rvRrcbLbpn7UJGRH1JupgHOeJFq.jpg",
+  "release_date": "2000-06-22",
+  "vote_average": 6.598,
+  "vote_count": 3611,
+  "popularity": 35.4,
+  "overview": "Rhode Island State Trooper Charlie Baileygates has a multiple personality disorder. One personality is crazy and aggressive, while the other is more friendly and laid back. Both of these personalities fall in love with the same woman named Irene after Charlie loses his medication.",
+  "imdb_id": "tt0183505",
+  "budget": 51000000,
+  "homepage": "",
+  "revenue": 149270999,
+  "runtime": 116,
+  "tagline": "From gentle to mental.",
+  "genres": [
+    "Comedy"
+  ],
+  "production_companies": [
+    "Conundrum Entertainment",
+    "20th Century Fox"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jim Carrey",
+        "character": "Off. Charlie Baileygates / Hank Evans",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kuSlwTPsVlBMW0cvnFmbZce6PaV.jpg"
+      },
+      {
+        "name": "Renée Zellweger",
+        "character": "Irene P. Waters",
+        "profile_path": "https://image.tmdb.org/t/p/w185/l4YzuDddOE2sTuscXukR5z0qmCU.jpg"
+      },
+      {
+        "name": "Anthony Anderson",
+        "character": "Jamaal Baileygates",
+        "profile_path": "https://image.tmdb.org/t/p/w185/reO1OjwFdtXmiO4LMDaBj6eatzK.jpg"
+      },
+      {
+        "name": "Robert Forster",
+        "character": "Colonel Partington",
+        "profile_path": "https://image.tmdb.org/t/p/w185/8OiwipCStS3HyfIm7h7qwEEqIaF.jpg"
+      },
+      {
+        "name": "Richard Jenkins",
+        "character": "Agent Boshane",
+        "profile_path": "https://image.tmdb.org/t/p/w185/muT3RZG9hiKaKojD751RcQ5tGEy.jpg"
+      },
+      {
+        "name": "Zen Gesner",
+        "character": "Agent Peterson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gaUpc3SDYQAmFei8NFllxtJGs3A.jpg"
+      },
+      {
+        "name": "Mongo Brownlee",
+        "character": "Lee Harvey Baileygates",
+        "profile_path": "https://image.tmdb.org/t/p/w185/chHO4vrhTtngLPrU01ngN7MP5v9.jpg"
+      },
+      {
+        "name": "Jerod Mixon",
+        "character": "Shante Jr. Bailreygates",
+        "profile_path": ""
+      },
+      {
+        "name": "Chris Cooper",
+        "character": "Lieutenant Gerke",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j0sQDzaDlnNAdaYhy6HRRAFi22.jpg"
+      },
+      {
+        "name": "Cam Neely",
+        "character": "Trooper Sea Bass",
+        "profile_path": "https://image.tmdb.org/t/p/w185/taV14NTyS2LTrJtkIZqpW9l99I7.jpg"
+      },
+      {
+        "name": "Shannon Whirry",
+        "character": "Beautiful Mom",
+        "profile_path": "https://image.tmdb.org/t/p/w185/a8oYQTamvnpikgEwVqcSeGvtmem.jpg"
+      },
+      {
+        "name": "Traylor Howard",
+        "character": "Layla",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ymB8T4c0ech3oL1G0EhdlEWWg3m.jpg"
+      },
+      {
+        "name": "Tony Cox",
+        "character": "Shonte",
+        "profile_path": "https://image.tmdb.org/t/p/w185/sbZS0gxvRsAIgHxIEL8STINpn7u.jpg"
+      },
+      {
+        "name": "Rob Moran",
+        "character": "Trooper Finneran",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lwGI1FIdRpwvKnZlD3dKhntP4i4.jpg"
+      },
+      {
+        "name": "Nikki Tyler-Flynn",
+        "character": "Trooper Maryann",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5nuxQPb8U34qhQKrOXST0lZLLpK.jpg"
+      },
+      {
+        "name": "Steve Tyler",
+        "character": "Maternity Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yMtJolHi5ZNAE8pgtZPAuFDhYne.jpg"
+      },
+      {
+        "name": "Richard Tyson",
+        "character": "Gun Shop Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2VqDaBqbCTnz0qZKXLtuUa9MO7R.jpg"
+      },
+      {
+        "name": "Michael Bowman",
+        "character": "Whitey",
+        "profile_path": "https://image.tmdb.org/t/p/w185/miNmKZg9Oim0yn0vksOOXqY6b9y.jpg"
+      },
+      {
+        "name": "Mike Cerrone",
+        "character": "Officer Stubie",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fHGgN0FMz3mV2iyhMgpqpdtyUMg.jpg"
+      },
+      {
+        "name": "Daniel Greene",
+        "character": "Dickie Thurman",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fQFvA1ksyWXiBBmSuKkgbBGvqZv.jpg"
+      },
+      {
+        "name": "Andrew Phillips",
+        "character": "Lee Harvey - Age 9",
+        "profile_path": ""
+      },
+      {
+        "name": "Jeremy Maleek Leggett",
+        "character": "Jamaal - Age 9",
+        "profile_path": ""
+      },
+      {
+        "name": "Justin Chandler",
+        "character": "Shonté Jr. - Age 9",
+        "profile_path": ""
+      },
+      {
+        "name": "Steve Sweeney",
+        "character": "Neighbor Ed",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4AfIG5KraFzzrg939Ynh8XJvPHX.jpg"
+      },
+      {
+        "name": "Lenny Clarke",
+        "character": "Barber Shop Car Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xu9vUYi7Eubb6cWyVmTdrRDRqdO.jpg"
+      },
+      {
+        "name": "Herbie Flynn",
+        "character": "Herb the Barber",
+        "profile_path": ""
+      },
+      {
+        "name": "Heather Hodder",
+        "character": "Jump Rope Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Tracey Abbott",
+        "character": "Grocery Store Mom",
+        "profile_path": ""
+      },
+      {
+        "name": "Jackie Flynn",
+        "character": "Trooper Pritchard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/p2fOu4nz1NWvPkLUmDGIv194Eh2.jpg"
+      },
+      {
+        "name": "Googy Gress",
+        "character": "Guy on the Street",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kOF6l7A7OaxrbSX2zfZ0Qst2iFz.jpg"
+      },
+      {
+        "name": "Joey McGilberry",
+        "character": "Helicopter Agent",
+        "profile_path": ""
+      },
+      {
+        "name": "Sean Gildea",
+        "character": "Kid's Father",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A7wNQ9vHph4tmVMkNHLW0gemL9I.jpg"
+      },
+      {
+        "name": "Anna Kournikova",
+        "character": "Motel Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nb3bcTHz5nZQCcD4WVOqT7uELs1.jpg"
+      },
+      {
+        "name": "Bob Mone",
+        "character": "Officer Delicato",
+        "profile_path": ""
+      },
+      {
+        "name": "Danny Murphy",
+        "character": "Agent Steve Parfitt",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1UkjedIqmRFmiZNLtMaVLZE9kK4.jpg"
+      },
+      {
+        "name": "Brian Hayes Currie",
+        "character": "Soda Machine Man",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fZ7wnZvxVKIoYCsHYUIgmkfQwk.jpg"
+      },
+      {
+        "name": "Mark Leahy",
+        "character": "Vermont Police Officer",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin J. Flynn",
+        "character": "Barber Shop Wiseguy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n9ByqrohPOPfDM6V2MFhzPrelUz.jpg"
+      },
+      {
+        "name": "Conrad Goode",
+        "character": "Softball Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wcGtpT5FR5PPh9OqfS44hSyUNZT.jpg"
+      },
+      {
+        "name": "John Mark Andrade",
+        "character": "Handsome Barber Shop Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Scott T. Neely",
+        "character": "Trooper Neely",
+        "profile_path": ""
+      },
+      {
+        "name": "Jerry Parker",
+        "character": "Paramedic",
+        "profile_path": ""
+      },
+      {
+        "name": "Heather Dyson",
+        "character": "Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Christine DiCarlo",
+        "character": "TV Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Mark Levine",
+        "character": "Golfer",
+        "profile_path": ""
+      },
+      {
+        "name": "John-Eliot Jordan",
+        "character": "Pizza Boy",
+        "profile_path": ""
+      },
+      {
+        "name": "Bob Weeks",
+        "character": "Train Conductor",
+        "profile_path": ""
+      },
+      {
+        "name": "Ezra Buzzington",
+        "character": "Disabled Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j3kJRKgQdHAMXvJUtPHXJsGGW5X.jpg"
+      },
+      {
+        "name": "Will Coogan",
+        "character": "Disabled Guy's Aide",
+        "profile_path": ""
+      },
+      {
+        "name": "Rex Allen Jr.",
+        "character": "Narrator (voice)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lin Shaye",
+        "character": "Mrs. Caleron",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aL87Za52elH81zMiXQn5C7AXAeg.jpg"
+      },
+      {
+        "name": "Leslie Munroe",
+        "character": "Dreadlocks Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Harley Brown Sr.",
+        "character": "Farmer",
+        "profile_path": ""
+      },
+      {
+        "name": "Ray 'Rocket' Valliere",
+        "character": "Mrs. Caleron's Son",
+        "profile_path": ""
+      },
+      {
+        "name": "Nancy Byers",
+        "character": "Maternity Nurse",
+        "profile_path": ""
+      },
+      {
+        "name": "Melinda Farrelly",
+        "character": "Maternity Nurse",
+        "profile_path": ""
+      },
+      {
+        "name": "Christal Handy",
+        "character": "Girl in Wheelchair",
+        "profile_path": ""
+      },
+      {
+        "name": "Rudy Cheeks",
+        "character": "Farmer",
+        "profile_path": ""
+      },
+      {
+        "name": "Preston Thomas",
+        "character": "Farmer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/enASgU4ypid4bu3Mpm5xuejrz11.jpg"
+      },
+      {
+        "name": "Libby Langdon",
+        "character": "Executive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tar86bzpswsBwcOIySIhSABu6d4.jpg"
+      },
+      {
+        "name": "Gigi Moran",
+        "character": "Executive",
+        "profile_path": ""
+      },
+      {
+        "name": "Pete Peterson",
+        "character": "Executive",
+        "profile_path": ""
+      },
+      {
+        "name": "J.B. Rogers",
+        "character": "Golfer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3XO63aCsKGwKpXB9aeyPquWmSWi.jpg"
+      },
+      {
+        "name": "Kate Forster",
+        "character": "Receptionist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uVqUdpfDwFyphq3RqkmgewNwh4v.jpg"
+      },
+      {
+        "name": "Scott Rosenberg",
+        "character": "Softball Player",
+        "profile_path": "https://image.tmdb.org/t/p/w185/uHqU0H8MSFieo1RTS3Erl6CYaH2.jpg"
+      },
+      {
+        "name": "Mark Ciardi",
+        "character": "Softball Player",
+        "profile_path": ""
+      },
+      {
+        "name": "A.B. Cassidy",
+        "character": "Crying Little Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zXpkKupbssBbqdadRoxFVglk4Nc.jpg"
+      },
+      {
+        "name": "Carolyn Molloy",
+        "character": "Woman in Grocery Store",
+        "profile_path": ""
+      },
+      {
+        "name": "Natassia Malthe",
+        "character": "Bikini Girl",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4Vrhj8JMYaVQTlxdGaBzHhLW0kE.jpg"
+      },
+      {
+        "name": "Jeanne Basone",
+        "character": "Bikini Girl",
+        "profile_path": ""
+      },
+      {
+        "name": "Brendan Shanahan",
+        "character": "State Trooper",
+        "profile_path": ""
+      },
+      {
+        "name": "Kevin Biegel",
+        "character": "Spectator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/n0ll1kvPRJpxhlwsMDV27rMlxfP.jpg"
+      },
+      {
+        "name": "Matt Irwin",
+        "character": "Slate Guy",
+        "profile_path": ""
+      },
+      {
+        "name": "Ernie Malik",
+        "character": "Background Motel Guest",
+        "profile_path": ""
+      }
+    ],
+    "crew": [
+      {
+        "name": "Bobby Farrelly",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/i5mt42m2MjMpFVrVYlYmp5ylLDy.jpg"
+      },
+      {
+        "name": "Peter Farrelly",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3PDYOFfk5NLmNcEz6SFZmdmqVZr.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "schizophrenia",
+    "road trip",
+    "ex-cop",
+    "aftercreditsstinger",
+    "duringcreditsstinger"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A nice-guy cop with Dissociative Identity Disorder must protect a woman on the run from a corrupt ex-boyfriend and his associates.",
+    "Charlie (Jim Carrey) is a Rhode Island state trooper with multiple profiles. He is otherwise mild-mannered and non-confrontational until somebody or something pushes him a little too far. That's when his maniacal alter-ego Hank takes over. Charlie is assigned to a routine mission to return alleged fugitive Irene (Renée Zellweger) to upstate New York, but they wind up on the run from corrupt policemen.—<jgp3553@excite.com>",
+    "It all started when a patrol officer named Charlie Baileygates (Jim Carrey) was married. Unfortunately, his wife left him for the short Black guy who was their limousine driver (Tony Cox). Charlie is single again and taking care of three children. A series of misfortunes for Charlie developed an alter ego, Hank Evans, who is mean and short-tempered. Luckily, Charlie told his doctor about this other personality, and his doctor prescribed medicine to suppress Hank. One day, Charlie was assigned to personally escort a woman named Irene Waters (Renée Zellweger) to a prison in upstate New York, but on their way they run into a group of corrupt cops and Irene's abusive ex-boyfriend Dickie Thurman (Daniel Greene)--and Charlie loses his medication and fears that Hank will present himself and make the situation worse. Charlie and Irene start to fall for each other--and Hank falls for Irene. Can Charlie and Irene stop the dirty cops and Dickie and stay one step ahead of Hank?—John Wiggins",
+    "This is the story of a sweet-natured fellow named Charlie Baileygates (Jim Carrey), a trooper in the Rhode Island State Police. He is mild-mannered and non-confrontational until somebody or something pushes him too far. That's when his maniacal alter-ego, Hank Evans, takes over. Colonel Partington (Robert Forster) forces Charlie to escort Miss Irene Waters (Renée Zellweger), a woman wanted by the police in upstate New York, back to her hometown, but when he discovers she's really being set up for murder, he helps her flee to the safety of his own jurisdiction. It's up to Charlie to keep Irene safe from her corrupt ex-boyfriend Dickie Thurman (Daniel Greene), and his associates, who are planning to kill her because they think she knows everything they've been doing.—Anthony Pereyra {hypersonic91@yahoo.com}",
+    "Jim Carrey plays a Rhode Island state trooper named Charlie Baileygates who has Dissociative Identity Disorder. One personality is crazy and aggressive, while the other is more friendly and laid-back. Both of these personalities fall in love with the same woman, Irene Waters (Renée Zellweger), after Charlie loses his stabilizing medication.—Michael S. Hatch <KingMixer909@hotmail.com>"
+  ],
+  "synopsis": "Charlie Baileygates (Jim Carrey), is an 18-year veteran of the Rhode Island State Police trooper who has been taken advantage of by people throughout his life. Immediately after his marriage, his shrewd wife, Layla (Traylor Howard), cheats on him with a violatle dwarf limosine driver, named Shonté (Tony Cox), who, like Layla, is a member of Mensa. Although Charlie's friends try informing him of his wife's infidelity, he still denies the possibility. Layla eventually runs off with Shonté; leaving Charlie to raise three black sons that are the products of Layla's adulterous affair with the limo driver. Charlie never sees his wife ever again. His wife affair and abandonment leaves Charlie so emotionally damaged to such the extent that he lets himself be verbaly and physically abused by others. Despite him being a police officer, all his neighbors and other citizens reject his authority with open scorn because they see him as a pushover as well as a weak and ineffective person.Flashing forward 15 years, Charlie continues to raise and spoil his three illigimate African-American sons Jamal (Anthony Anderson), Lee Harvey (Mongo Brownlee) and Shonté Jr. (Jerod Mixon), all of whom have become overweight from poor and unbalanced diets as well as use vulger and profane language from being allowed to watch foul-mouthed stand-up comedien movies from Richard Pryor to Chris Rock. Yet, all people in town continue to treat Charlie with scorn and abuse; his own neighbor steals his newspaper and allows his pet dog to deficate on the front lawn of his house; a little girl curses and insults him; a mutual friend continues to illegaly park his car and tear up parking tickets that Charlie gives him. Every townsperson on the street that Charlie interacts with takes advantage of his kind personality to further abuse him. After all the continous abuse and disrespect, Charlie's anger builds up, but he continues to keep it repressed until suddenly after a shrewd \"soccer mom\" delibrately cuts in front of him at a supermarket line, Charlie suddenly developes a rude, foul-mouthed, violent split personality named Hank. Within minutes, \"Hank\" gets revenge against all the people that have done \"Charlie\" wrong until he gets arrested by his own police co-workers. At the urging of his boss Colonel Partington (Robert Forester), Charlie visits a psychiatrist who tells him that his alter-ego Hank was created by decades of repressed anger and frustration, stemming from his wife's abandonment to his friends and neighbors scorning him, which has led to \"advanced delusionary schizophrenia with involuntary narcissistic rage.\"The psychiatrist prescribes him a medicine to keep his double personality suppressed. Believing that Charlie needs a vacation, Col. Partington tells him to escort a woman named Irene Waters (Renée Zellweger) to Massena, New York because it was reported that she committed a hit and run that was actually committed by Dickie (Daniel Greene), Irene's partner. When some hit men arrive with a contract on Irene's life, Charlie agrees to help her escape, while two United States Environmental Protection Agency (EPA) agents are killed by the hit men. Charlie leaves his medicine behind, causing his alter ego, Hank, to surface any time he wants.Two FBI agents, Agent Boshane (Richard Jenkins) and Agent Peterson (Zen Gesner), suspect that Charlie is responsible for the assassination of the two EPA agents. While pretending to work with the police to find their father, Charlie's three sons throw the police off their father's trail, and they proceed to steal a police helicopter to get to Charlie before the police.Meanwhile, Dickie orders some corrupt agents to kill both Charlie and Irene to prevent them from testifying against the EPA where Irene used to work for on dirty dealings. After they fail, Dickie decides to settle the matter himself. During the confrontation with Dickie, Charlie manages to eliminate the alternate personality, Hank. Eventually, he manages to stop Dickie, and put an end to the corruption. With Hank gone, and all the members of the conspiracy behind bars, the film ends Irene's departure. Charlie, however, makes a road block and arrests her in order to surprise her with a marriage proposal, which she accepts.After the credits roll, there is an additional scene in which Charlie, Irene, the boys and waiter Whitey try to find Charlie's severed thumb which was blasted into a river earlier, but to no avail.",
+  "imdb_score": 6.6
+}

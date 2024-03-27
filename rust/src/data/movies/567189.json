@@ -1,0 +1,211 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/fPGeS6jgdLovQAKunNHX8l0avCy.jpg",
+  "id": 567189,
+  "title": "Tom Clancy's Without Remorse",
+  "poster_path": "https://image.tmdb.org/t/p/w500/6GCOpT8QcNzup09TAMmvvk22LTR.jpg",
+  "release_date": "2021-04-29",
+  "vote_average": 7.013,
+  "vote_count": 2306,
+  "popularity": 33.023,
+  "overview": "An elite Navy SEAL uncovers an international conspiracy while seeking justice for the murder of his pregnant wife.",
+  "imdb_id": "tt0499097",
+  "budget": 0,
+  "homepage": "https://www.amazon.com/dp/B08VFD1Y3B",
+  "revenue": 0,
+  "runtime": 109,
+  "tagline": "From the author of Rainbow Six.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Thriller",
+    "War"
+  ],
+  "production_companies": [
+    "Weed Road Pictures",
+    "Outlier Society",
+    "The Saw Mill",
+    "Paramount",
+    "New Republic Pictures",
+    "Skydance Media"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Michael B. Jordan",
+        "character": "John Kelly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3EhMq9KKngojas9shTRjdCAqpav.jpg"
+      },
+      {
+        "name": "Jamie Bell",
+        "character": "Robert Ritter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg"
+      },
+      {
+        "name": "Guy Pearce",
+        "character": "Thomas Clay",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
+      },
+      {
+        "name": "Jodie Turner-Smith",
+        "character": "Karen Greer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9qKXva8dCdTNu7FPnI8e6eK8hvV.jpg"
+      },
+      {
+        "name": "Lauren London",
+        "character": "Pam Kelly",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vfUJtwfux3nwEGWIbrC20LyH8fn.jpg"
+      },
+      {
+        "name": "Brett Gelman",
+        "character": "Victor Rykov",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ub2IuMWFNQGYghHTPq0lpmn2Ue0.jpg"
+      },
+      {
+        "name": "Jacob Scipio",
+        "character": "Hatchet",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gcZSJy9LZ8DUDP480Q2K1OhL1Ct.jpg"
+      },
+      {
+        "name": "Jack Kesy",
+        "character": "Thunder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lQ8nUYK6InbCFk2TWNnXjjvG9IY.jpg"
+      },
+      {
+        "name": "Colman Domingo",
+        "character": "Pastor West",
+        "profile_path": "https://image.tmdb.org/t/p/w185/2tu6T9ugnf82qIMGVKWSb0dvvq5.jpg"
+      },
+      {
+        "name": "Todd Lasance",
+        "character": "Dallas",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dEkGdehSdAZJbGnBn0QKFeLB5Su.jpg"
+      },
+      {
+        "name": "Cam Gigandet",
+        "character": "Keith Webb",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg"
+      },
+      {
+        "name": "Luke Mitchell",
+        "character": "Rowdy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gwG06fukGZ5BT7YoRQc0GT0CJeM.jpg"
+      },
+      {
+        "name": "Stephanie McIntyre",
+        "character": "Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Adrian Rawlins",
+        "character": "Chief of Staff",
+        "profile_path": "https://image.tmdb.org/t/p/w185/G0PGZqTjenuVTAQiib4ScU7vAI.jpg"
+      },
+      {
+        "name": "Lucy Russell",
+        "character": "CIA Director Dillard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6aNWltms1Imbl9J4aXWk4p2KRZX.jpg"
+      },
+      {
+        "name": "Robert Maaser",
+        "character": "Russian SWAT",
+        "profile_path": "https://image.tmdb.org/t/p/w185/A1YhyTwttU94AsaA2zktcEeDMmz.jpg"
+      },
+      {
+        "name": "Gina Jun",
+        "character": "Pedestrian",
+        "profile_path": "https://image.tmdb.org/t/p/w185/kIbJ3TTGdYVShC7K8tE5OueZ1wQ.jpg"
+      },
+      {
+        "name": "Rae Lim",
+        "character": "First Sergeant Tran",
+        "profile_path": ""
+      },
+      {
+        "name": "Merab Ninidze",
+        "character": "Andrej Vaseliev",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jnJ4lQULt6Ga3lXkIqAhMR7xYdE.jpg"
+      },
+      {
+        "name": "George Asprey",
+        "character": "Denis Stewart",
+        "profile_path": "https://image.tmdb.org/t/p/w185/g3jb3oF2DbXBY4n7VNviuxWgMbu.jpg"
+      },
+      {
+        "name": "Mel Fair",
+        "character": "Hawkish Analyst",
+        "profile_path": "https://image.tmdb.org/t/p/w185/9Q9sIiikHS5HvDO89KscfnruZrb.jpg"
+      },
+      {
+        "name": "Reza Brojerdi",
+        "character": "Aleppo Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w185/oimN6FyXti8HU3qkxNGTiRol4UB.jpg"
+      },
+      {
+        "name": "Tom Colley",
+        "character": "Pentagon Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cbLcj1pxXGxZpSe4ztAmpGvyI90.jpg"
+      },
+      {
+        "name": "Rich Graff",
+        "character": "Detective Hue",
+        "profile_path": "https://image.tmdb.org/t/p/w185/nVac8YhokONsXdLNYk9pwGj0npm.jpg"
+      },
+      {
+        "name": "Artjom Gilz",
+        "character": "Artem",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6tCa08v503Hu1s1SOkSrtrRwP6i.jpg"
+      },
+      {
+        "name": "Pedro Paulo D'Elia",
+        "character": "Train Station Passenger",
+        "profile_path": ""
+      },
+      {
+        "name": "Alec Rosenthal",
+        "character": "Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3TZwf6wYs4qEpCFzgCu31rOkQ13.jpg"
+      },
+      {
+        "name": "Rauand Taleb",
+        "character": "Dalil",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gDKW7d9eX8knyxoCqClHISYFNzs.jpg"
+      },
+      {
+        "name": "David Burnell IV",
+        "character": "US Marshal",
+        "profile_path": "https://image.tmdb.org/t/p/w185/jl5MsfUxXw1UwSlLKIQiKZyJl5Q.jpg"
+      },
+      {
+        "name": "Kazy Tauginas",
+        "character": "Vaseliev's Bodyguard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xjyyAgBORgnsBzC4yq4v0hGCdlz.jpg"
+      },
+      {
+        "name": "Alexander Mercury",
+        "character": "Oleksiy",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pz3zmiT79qnvGyPUsR6iZkBVf6W.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Stefano Sollima",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rBzkokpZQS0XwgtMuskY07RByHu.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "duringcreditsstinger"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "An elite Navy SEAL goes on a path to avenge his wife's murder only to find himself inside of a larger conspiracy.",
+    "An elite Navy SEAL uncovers an international conspiracy while seeking justice for the murder of his pregnant wife in Tom Clancy's Without Remorse, the explosive origin story of action hero John Clark - one of the most popular characters in author Tom Clancy's Jack Ryan universe. When a squad of Russian soldiers kills his family in retaliation for his role in a top-secret op, Sr. Chief John Kelly (Michael B. Jordan) pursues the assassins at all costs. Joining forces with a fellow SEAL (Jodie Turner-Smith) and a shadowy CIA agent (Jamie Bell), Kelly's mission unwittingly exposes a covert plot that threatens to engulf the U.S. and Russia in an all-out war. Torn between personal honor and loyalty to his country, Kelly must fight his enemies without remorse if he hopes to avert disaster and reveal the powerful figures behind the conspiracy."
+  ],
+  "synopsis": "In Aleppo, a team of US Navy SEALs, including Senior Chief John Kelly, rescue a CIA operative taken hostage by a suspected pro-Assad paramilitary group. The situation escalates as the SEALs discover that the captors are actually Russian military. Three months later, in apparent retaliation for their role in the mission, several members of the team are covertly killed by Russian FSB operatives. Kelly's pregnant wife Pam is murdered when the Russians break into their house. Kelly kills all but one of the attackers before being rushed to the hospital with near-fatal wounds.Meanwhile, in Washington, D.C., Kelly's SEAL team leader and friend, Lt. Commander Karen Greer, meets with CIA officer Robert Ritter and Secretary of Defense Thomas Clay to discuss how the FSB discovered the SEALs' identities and review their response options. Leaked news of Russia's unprecedented attack on American soil has caused the already-strained relationship between the two nations to sour further, possibly causing a new cold war. The CIA refuses to conduct an investigation into the murders, motivating Greer to pass confidential information to Kelly.Healed from his injuries, Kelly tracks down the Russian diplomat, who issued the passports to the FSB operatives, and forces him to give up the name of the surviving assassin before killing him. Sent to prison for murder, Kelly bargains his way out by revealing the escaped operative is Victor Rykov, an ex-Spetznaz officer who is hiding in Murmansk, Russia. Greer recommends against letting Kelly participate in Rykov's capture, Clay overrules her on the condition that Kelly serves his sentence after the mission.Kelly flies to Murmansk with Greer and a CIA black ops team, planning to Halo jump into Russia. Attacked by a Russian fighter, their plane crashes into the Barents Sea. Kelly dives into the wreckage to recover essential equipment, including a zodiac boat. The team arrives in Murmansk and finds Ritter, who Kelly suspects is to blame for the intelligence leaks. Ritter swears he is not responsible and leads the team to Rykov. Kelly goes off mission to confront Rykov, who he finds wearing a suicide vest and claiming that he is a deep cover CIA asset. Rykov detonates the vest, killing himself as the team becomes pinned down by sniper fire. As police arrive, the team realizes that the mission was a set up to have American soldiers killed on Russian soil to start a war.Kelly volunteers to cover the team's escape; since he is a convicted murderer, his death could be plausibly denied. Kelly buys the team time to reach safety but is badly injured. He then uses an explosion as cover to steal a police uniform and hijacks an ambulance to escape. Kelly and the surviving team members leave the country by boat. Ritter officially reports Kelly as dead, allowing him to hunt for the traitor.Back in D.C., Kelly confronts Clay and forces him into his car. After Kelly threatens Clay's family, he confesses to being behind the intelligence leaks and orchestrating the conflict between the U.S. and Russia. Clay wanted to start a war with Russia to boost the economy and unite the American people against a common enemy.Kelly drives the car over a bridge and lets it sink to the bottom of the Potomac River, drowning Clay. Kelly escapes with a recording of the confession, with the help of Greer, who was waiting in the river with diving gear. At Washington Union Station, Greer gives Kelly a new identity provided by Ritter, he leaves to begin his new life as \"John Clark\".One year later, Clark meets with a newly promoted Deputy Director Ritter and proposes the creation of a multinational counter-terrorism team, codename: Rainbow.",
+  "imdb_score": 5.8
+}

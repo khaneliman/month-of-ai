@@ -1,0 +1,591 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/x8PmjDi2mkAKznApIz78C9v3tvt.jpg",
+  "id": 387426,
+  "title": "Okja",
+  "poster_path": "https://image.tmdb.org/t/p/w500/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg",
+  "release_date": "2017-06-28",
+  "vote_average": 7.381,
+  "vote_count": 4079,
+  "popularity": 23.813,
+  "overview": "A young girl named Mija risks everything to prevent a powerful, multi-national company from kidnapping her best friend - a massive animal named Okja.",
+  "imdb_id": "tt3967856",
+  "budget": 50000000,
+  "homepage": "http://www.netflix.com/title/80091936",
+  "revenue": 0,
+  "runtime": 122,
+  "tagline": "",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Kate Street Picture Company",
+    "Plan B Entertainment",
+    "Lewis Pictures",
+    "Next Entertainment World"
+  ],
+  "production_countries": [
+    "KR",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tilda Swinton",
+        "character": "Lucy Mirando / Nancy Mirando",
+        "profile_path": "https://image.tmdb.org/t/p/w185/gWbX3a7V2MgRMRzekfITNcb27xV.jpg"
+      },
+      {
+        "name": "Ahn Seo-hyun",
+        "character": "Mija",
+        "profile_path": "https://image.tmdb.org/t/p/w185/xy9E6V8nDg5WLp8HxCRPUSdvDMe.jpg"
+      },
+      {
+        "name": "Paul Dano",
+        "character": "Jay",
+        "profile_path": "https://image.tmdb.org/t/p/w185/as6rmmWKgSrpHs0suNRSbQT8Raw.jpg"
+      },
+      {
+        "name": "Jake Gyllenhaal",
+        "character": "Dr. Johnny Wilcox",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rJdYHYNhlcOBwbPvDZVvt1xw7bi.jpg"
+      },
+      {
+        "name": "Lily Collins",
+        "character": "Red",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aFSZkMNjmDR07JtkvhcbLAbDAMx.jpg"
+      },
+      {
+        "name": "Steven Yeun",
+        "character": "K",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5XU0L0drBa7JlGrLg2w3LhAgjG0.jpg"
+      },
+      {
+        "name": "Giancarlo Esposito",
+        "character": "Frank Dawson",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lBvDQZjxhIGMbH61iHnqerpbqHc.jpg"
+      },
+      {
+        "name": "Devon Bostick",
+        "character": "Silver",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zAdSA85Plp7NzhQeM2w8heHWgEd.jpg"
+      },
+      {
+        "name": "Byun Hee-bong",
+        "character": "Ju Hee-bong",
+        "profile_path": "https://image.tmdb.org/t/p/w185/fV8BtRziGqUsBozd1G6lEwmW2b5.jpg"
+      },
+      {
+        "name": "Yoon Je-moon",
+        "character": "Mundo Park",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ay4bL3m71dEPterBKxWzCmPpLNS.jpg"
+      },
+      {
+        "name": "Shirley Henderson",
+        "character": "Jennifer",
+        "profile_path": "https://image.tmdb.org/t/p/w185/rWE3okN5EUvCT8DVjK0xobKStfQ.jpg"
+      },
+      {
+        "name": "Daniel Henshall",
+        "character": "Blond",
+        "profile_path": "https://image.tmdb.org/t/p/w185/spfdesJvIoPTmZWMe5ncyMbnOV5.jpg"
+      },
+      {
+        "name": "Choi Woo-shik",
+        "character": "Kim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/6ORYWOw0BZuTwZptins0fJO6bKL.jpg"
+      },
+      {
+        "name": "Sheena Kamal",
+        "character": "Stylist 2007 / 2017",
+        "profile_path": ""
+      },
+      {
+        "name": "Michael Mitton",
+        "character": "Make-Up Artist 2007",
+        "profile_path": ""
+      },
+      {
+        "name": "Colm Hill",
+        "character": "Sarcastic British Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Kathryn Kirkpatrick",
+        "character": "Epicurean Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/vpFfJiPoAghivmLCC6BORfTqZDq.jpg"
+      },
+      {
+        "name": "Jose Carias",
+        "character": "Señor Villacorta",
+        "profile_path": ""
+      },
+      {
+        "name": "Nancy Amelia Bell",
+        "character": "Elderly Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Lee Jung-eun",
+        "character": "Okja (voice) / Woman In Wheelchair",
+        "profile_path": "https://image.tmdb.org/t/p/w185/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
+      },
+      {
+        "name": "Kim Jae-in",
+        "character": "Young Mija",
+        "profile_path": ""
+      },
+      {
+        "name": "Choi Hee-seo",
+        "character": "Choi Female Interpreter",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7IXoF4A7hhUgKCtXf1V4Ro4WytV.jpg"
+      },
+      {
+        "name": "Jang Ji-woong",
+        "character": "Chang Cameraman",
+        "profile_path": ""
+      },
+      {
+        "name": "Lee Bong-ryeon",
+        "character": "Receptionist",
+        "profile_path": "https://image.tmdb.org/t/p/w185/AkpzrUGpT0JvRY9Zk6qceKm937l.jpg"
+      },
+      {
+        "name": "Park Ki-seon",
+        "character": "Elderly Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/w185/aVVyYDhayBgD0D6Ps7UbaF6WQMn.jpg"
+      },
+      {
+        "name": "Yoon Kyung-ho",
+        "character": "Mirando Employee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/217cVZqyvJypi4OR1uvxoaJxvLm.jpg"
+      },
+      {
+        "name": "Cho Wan-ki",
+        "character": "Mirando Employee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/acNbJ3xgJkg8pFXS80FcR4HCMcK.jpg"
+      },
+      {
+        "name": "Kyul Hwi",
+        "character": "Mirando Employee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1vLUHl8rU1ME4twPBRBbwLxMxTI.jpg"
+      },
+      {
+        "name": "Kwak Jin-seok",
+        "character": "Mirando Employee",
+        "profile_path": "https://image.tmdb.org/t/p/w185/zjWpIbXK5zH5lvp0dWCkwPH7bqE.jpg"
+      },
+      {
+        "name": "Park Ji-hoon",
+        "character": "6th ALF",
+        "profile_path": "https://image.tmdb.org/t/p/w185/5JUoEXIzVgHWEIgpW0GdQt68w4k.jpg"
+      },
+      {
+        "name": "Lee Jae-hyeok",
+        "character": "Spectator With Camera",
+        "profile_path": ""
+      },
+      {
+        "name": "Clayton Elliot Jones",
+        "character": "U.S. Soldier",
+        "profile_path": ""
+      },
+      {
+        "name": "Seoyoung Lim",
+        "character": "Pink Pig - Part Time Student",
+        "profile_path": ""
+      },
+      {
+        "name": "Jungsook Park",
+        "character": "Old Lady Pushing Wheelchair",
+        "profile_path": ""
+      },
+      {
+        "name": "Jooman Hong",
+        "character": "Underpass Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Kyungwook Lim",
+        "character": "Underpass Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Seungchang Lee",
+        "character": "Underpass Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Byeonghee Lee",
+        "character": "Underpass Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Hyunwoo Choi",
+        "character": "Underpass Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Kim Moon-hak",
+        "character": "Riverside Expressway Police",
+        "profile_path": "https://image.tmdb.org/t/p/w185/pC1FCMWa4oC6O15jSWhza9KFNd4.jpg"
+      },
+      {
+        "name": "Park Keun-rok",
+        "character": "Riverside Expressway Police",
+        "profile_path": "https://image.tmdb.org/t/p/w185/j3AEOJskfSm7nhR8RnDm6njRN3W.jpg"
+      },
+      {
+        "name": "Daehyun Kim",
+        "character": "Bulk Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Gwangjae Woo",
+        "character": "Bulk Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Wonjin Jang",
+        "character": "Bulk Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Hyunzun Yu",
+        "character": "Bulk Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Yangwon Kim",
+        "character": "Bulk Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Yonghee Kim",
+        "character": "Bulk Employee",
+        "profile_path": ""
+      },
+      {
+        "name": "Dylan Ratigan",
+        "character": "American News Anchor",
+        "profile_path": ""
+      },
+      {
+        "name": "Milo Shandel",
+        "character": "Mirando Executive",
+        "profile_path": "https://image.tmdb.org/t/p/w185/63dmhzZrsF6TeOFIqcbQrJ2P3Hn.jpg"
+      },
+      {
+        "name": "Mikaela Kingsbury",
+        "character": "TV Reporter",
+        "profile_path": ""
+      },
+      {
+        "name": "Sangyoon Lee",
+        "character": "CNN Cameraman Korea",
+        "profile_path": ""
+      },
+      {
+        "name": "Bae Young-ran",
+        "character": "Female Police",
+        "profile_path": ""
+      },
+      {
+        "name": "Park Jeong-gi",
+        "character": "Reporter Jee",
+        "profile_path": ""
+      },
+      {
+        "name": "Yoon Jung-ro",
+        "character": "Reporter Yoon",
+        "profile_path": ""
+      },
+      {
+        "name": "Kim Woo-hyeon",
+        "character": "Reporter Kim",
+        "profile_path": "https://image.tmdb.org/t/p/w185/cNnpctbQzNDquaHKAXNSToZBbc9.jpg"
+      },
+      {
+        "name": "Kim Chul-moo",
+        "character": "Fat Detective",
+        "profile_path": ""
+      },
+      {
+        "name": "Seo Woo-sik",
+        "character": "Mirando Branch President",
+        "profile_path": ""
+      },
+      {
+        "name": "Yerin Shin",
+        "character": "Cabin Attendant",
+        "profile_path": ""
+      },
+      {
+        "name": "Erik De Boer",
+        "character": "Banana Guy in JFK",
+        "profile_path": ""
+      },
+      {
+        "name": "Stephen Clee",
+        "character": "Man Who Spanks Okja in JFK",
+        "profile_path": ""
+      },
+      {
+        "name": "Pavel Hajek",
+        "character": "Okja Transport",
+        "profile_path": ""
+      },
+      {
+        "name": "David Congourdeau Nicolas",
+        "character": "Okja Transport",
+        "profile_path": ""
+      },
+      {
+        "name": "Lucas Körmer",
+        "character": "Laboratory Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Ahn Seong-bong",
+        "character": "Alfonso Transport",
+        "profile_path": "https://image.tmdb.org/t/p/w185/iDnwRIPELK41iaYT32G5UpiIPFx.jpg"
+      },
+      {
+        "name": "Timmo Polajev",
+        "character": "Alfonso Transport",
+        "profile_path": ""
+      },
+      {
+        "name": "Steven Garr",
+        "character": "Man in White Gown",
+        "profile_path": ""
+      },
+      {
+        "name": "David Bloom",
+        "character": "Middle-Aged Man Taster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/7f556pMunvhsaD2lpm3bLZG5X7t.jpg"
+      },
+      {
+        "name": "Cory Gruter-Andrew",
+        "character": "Teenage Taster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/ue6roHiaRgs5AVz1kbXw5LGL67G.jpg"
+      },
+      {
+        "name": "Barbara Wallace",
+        "character": "Middle-Aged Woman Taster",
+        "profile_path": "https://image.tmdb.org/t/p/w185/eBXpiV5eYtPYln9Wa2badsNu78u.jpg"
+      },
+      {
+        "name": "Frans Weterrings IV",
+        "character": "Boy Eating Jerky",
+        "profile_path": ""
+      },
+      {
+        "name": "Boyd Ferguson",
+        "character": "Translator",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3m9yCprHhyXFPaG32bZ9iuwFSSb.jpg"
+      },
+      {
+        "name": "Niall Cunningham",
+        "character": "ALF High School Student",
+        "profile_path": "https://image.tmdb.org/t/p/w185/qgFZCDLAeuiFMfDWvx6P7ILOc4i.jpg"
+      },
+      {
+        "name": "Marian Volk",
+        "character": "ALF Woman in 20s",
+        "profile_path": ""
+      },
+      {
+        "name": "Conor Reeves",
+        "character": "Employee Next to Silver",
+        "profile_path": ""
+      },
+      {
+        "name": "Adam Auslander",
+        "character": "Balloon Pig Holder",
+        "profile_path": "https://image.tmdb.org/t/p/w185/wxe6vv9dVOSq6G9vaVTNYZMlRo4.jpg"
+      },
+      {
+        "name": "Waris Ahluwalia",
+        "character": "Waris",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3vZYvthY4xqkr5MroOmZn0YwIdA.jpg"
+      },
+      {
+        "name": "T. Sahara Meer",
+        "character": "ALF Middle-aged Woman",
+        "profile_path": ""
+      },
+      {
+        "name": "J.C. Williams",
+        "character": "Black Chalk Mercenary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/1CZODOEfmrLBwl5DIg8qt7yHXg0.jpg"
+      },
+      {
+        "name": "Hye-Jo Yu",
+        "character": "Female Japanese-American Nurse",
+        "profile_path": ""
+      },
+      {
+        "name": "Lorne Edward Oliver",
+        "character": "Old Security Guard at Feedyard",
+        "profile_path": ""
+      },
+      {
+        "name": "Alex Kabel",
+        "character": "Feedyard Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Amir Ardalan Latifi",
+        "character": "Feedyard Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Jose Vargas",
+        "character": "Slaughterhouse Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Elizabeth Urrea",
+        "character": "Slaughterhouse Worker",
+        "profile_path": ""
+      },
+      {
+        "name": "Luis Javier",
+        "character": "Slaughterhouse Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w185/h7kuQn3CnwG03vdg6OxMxJvDkGq.jpg"
+      },
+      {
+        "name": "Phillip Garcia",
+        "character": "Diego Alejandro",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hXOnEMXGpW2H8j6kf9q1gf6bXzS.jpg"
+      },
+      {
+        "name": "Andreas Fronk",
+        "character": "Black Chalk Mercenary",
+        "profile_path": "https://image.tmdb.org/t/p/w185/lFPWRxiqquHNfLT9Mb0EUMwJ0z5.jpg"
+      },
+      {
+        "name": "Jack Lyons",
+        "character": "Black Chalk Mercenary",
+        "profile_path": ""
+      },
+      {
+        "name": "Bettina Skye",
+        "character": "Pig Balloon Handler (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/dySDFW9SNkPBn89xCAB8gQqvMko.jpg"
+      },
+      {
+        "name": "Kristoffe Brodeur",
+        "character": "NYPD (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Myles Humphus",
+        "character": "Black Chalk Mercenary (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lena Avgust",
+        "character": "Parade Goer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/yLWAYpfPvpNcw9qbzPEW2XFPXw4.jpg"
+      },
+      {
+        "name": "Jamar Greene",
+        "character": "Commanding Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/r1dhuNDEP9Ic1mHGBfRelgk54oc.jpg"
+      },
+      {
+        "name": "Michael D. Joseph",
+        "character": "Protestor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Eha Urbsalu",
+        "character": "Lucy Mirando Double (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/hczbzbHAvGW3gOTDRfT2oyHvzsG.jpg"
+      },
+      {
+        "name": "Rebecca Husain",
+        "character": "Jennifer's Assistant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/siahBFDBWYKwb32BnG5uZEIwTeb.jpg"
+      },
+      {
+        "name": "Carl Montoya",
+        "character": "Blond Double (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/teFmeOJHYvKNbCCS9aO2hv3eyot.jpg"
+      },
+      {
+        "name": "Martin Lo Rimorin",
+        "character": "ALF Soldier (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Amber Snow",
+        "character": "Nancy Mirando's Personal Stylist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Ann Evans",
+        "character": "Nancy Mirando's Personal Hair Stylist (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Rickland Powell",
+        "character": "Pig Balloon Handler (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Michelle Clarke-Brown",
+        "character": "Supervisor (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Justin McGriff",
+        "character": "Parade Patron (uncredited)",
+        "profile_path": ""
+      },
+      {
+        "name": "Lynn Marocola",
+        "character": "NYPD Police Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/EUCiWK7SMchKLqeVZYobZTw3qL.jpg"
+      },
+      {
+        "name": "Jason Scott Nelson",
+        "character": "Translator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w185/3gzP9ln4T3BtRZng4jMMX4T4m9c.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Bong Joon-ho",
+        "department": "Directing",
+        "job": "Director",
+        "profile_path": "https://image.tmdb.org/t/p/w185/tKLJBqbdH6HFj2QxLA5o8Zk7IVs.jpg"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "monster",
+    "slaughterhouse",
+    "east asian lead",
+    "twins",
+    "environmentalist",
+    "aftercreditsstinger",
+    "animal liberation",
+    "live action and animation",
+    "zoologist",
+    "korean",
+    "seoul, south korea"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A young girl risks everything to prevent a powerful, multinational company from kidnapping her best friend - a fascinating beast named Okja.",
+    "For 10 idyllic years, young Mija (An Seo Hyun) has been caretaker and constant companion to Okja-a massive animal and an even bigger friend-at her home in the mountains of South Korea. But that changes when a family-owned multinational conglomerate Mirando Corporation takes Okja for themselves and transports her to New York, where image obsessed and self-promoting CEO Lucy Mirando (Tilda Swinton) has big plans for Mija's dearest friend. With no particular plan but single-minded in intent, Mija sets out on a rescue mission, but her already daunting journey quickly becomes more complicated when she crosses paths with disparate groups of capitalists, demonstrators and consumers, each battling to control the fate of Okja...while all Mija wants to do is bring her friend home. Deftly blending genres, humor, poignancy and drama, Bong Joon Ho (Snowpiercer, The Host) begins with the gentlest of premises-the bond between man and animal-and ultimately creates a distinct and layered vision of the world that addresses the animal inside us all. Okja is a Plan B Entertainment, Lewis Pictures and Kate Street Picture Company production in association with Netflix.—Netflix",
+    "In 2007, self-styled 'environmentalist' Lucy Mirando becomes CEO of the Mirando Corporation, succeeding her twin sister Nancy. She announces that they have been breeding a special kind of \"super pig\". The twenty-six produced specimens are sent to farmers in different locations around the world, and ten years later, one of them will be crowned the winner of a competition to breed the best pig. In 2017, a young girl named Mija lives in South Korea with her grandfather and their super pig, Okja. They are visited by Mirando spokesperson and zoologist Dr. Johnny Wilcox, who declares Okja the best super pig and announces they will take her to New York City. Mija's grandfather presents her with a gold pig and explains to her that he saved up money to buy the solid gold item to replace Okja when she was taken away. Devastated, Mija runs away to Seoul to find Okja, where she sees her as she is being loaded onto a truck. Mija chases down the truck but it is intercepted by the Animal Liberation Front (ALF). In the resulting chaos, Mija and Okja run away but are eventually saved by the ALF, led by Jay. Jay uses another ALF member, K, as a translator to tell Mija that they plan to put a recording device in Okja's ear and let her be re-captured by the Mirando corporation to show how they mistreat their animals. Mija tells them to return her to the mountains but K tells the group that Mija is in agreement with their plan. They abandon her, and Okja is recaptured.."
+  ],
+  "synopsis": "In 2007, Lucy Mirando (Tilda Swinton) becomes CEO of the Mirando Corporation, succeeding her controversial grandfather, her father and her cruel twin sister Nancy. She announces that they have been breeding a special kind of super pig. Twenty-six of the best pigs will be sent to locations around the world, and ten years later, one will be crowned the winner.In 2017, a young girl named Mija (Ahn Seo-Hyun) lives happily in the countryside of South Korea with her grandfather (Byun Hee-Bong) and her super pig, Okja. They are visited by Mirando spokesperson and zoologist Dr. Johnny Wilcox (Jake Gyllenhaal), who declares Okja the best super pig and announces they will take her to New York City. Mija's grandfather takes her to visit the graves of her parents where he presents her with a gold pig and explains to her that rather than buy Okja, which was not allowed, he saved up the money for Okja and bought the solid gold item. Devastated, Mija runs away to Seoul to find Okja, where she sees her as she is being loaded onto a truck. Mija manages to chase down the truck, which is eventually intercepted by another truck, run by the Animal Liberation Front (ALF). In the resulting chaos Mija and Okja run away causing havoc though they are eventually saved by the ALF.Jay, leader of ALF tells Mija that Okja is a genetically mutated animal created by Mirando corporation in a lab. Mirando is hiding the fact that Okja & other super pigs are part of an illegal genetic experiment with live animals, which they now plan to introduce back into the food chain. Recognizing that Mija is Okja's owner, they tell her that their plan is to put a video recording device in Okja's ear and let her be re-captured by the Mirando corporation to show how brutally they treat their animals. They need the live video from inside Mirando's labs to prove their case to the world.Mija tells them to return her to the mountains but their translator, K (Steven Yeun), deliberately lies, causing the group to believe Mija went along with their plan. They abandon her, and Okja is recaptured.Meanwhile, footage of Okja and Mija running through the streets of Seoul has gone viral. In order to do damage control, Lucy pays for Mija to come to New York to be reunited onstage with her pig. Okja is taken to the laboratory where she is forcibly bred with another super pig and bits of meat are extracted from her flesh for a taste test by a drunk Wilcox. Members of the ALF overhear the recording through the device they placed in Okja's ear. Jay (Paul Dano) vows to help Okja and Mija and use the recording to expose the Mirando corporation's animal abuse.In New York City, Mija spends her time learning bits of English and being forced to agree to the wishes of the Mirando corporation. Jay, the leader of ALF, slips into her room and tells her that they still plan to rescue Okja while on stage. A huge parade is put on by the Mirando Corporation who give out free meat in the street. Mija is reunited with Okja who, blinded and battered does not recognize her and attacks her. In the resulting chaos, Jay tries to hurt Okja, but Mija prevents him from doing so, calming Okja down so that she recognizes Mija. A video of Wilcox's treatment of Okja is screened by the ALF to the public, who quickly turn on him and Lucy. Mija and the ALF attempt to escape with Okja, but Nancy arrives back and quickly takes over the Mirando Corporation, recapturing Okja and having the ALF members beaten and arrested.Escaping, Jay and K take Mija to find Okja in a mass killing plant. The group search for Okja but are unable to find her until Mija sees her going up the ramp to the slaughterhouse. In order to save Okja she runs through the killing plant and sees many dead super pigs. Mija sees Okja as she is about to be slaughtered and shows the Mirando employee a photograph of herself with a baby Okja. The man seems moved, but Nancy arrives and tells Mija and the man that Okja must be slaughtered. Mija offers the golden pig to Nancy in exchange for Okja's life. Nancy agrees to the deal whilst subsequently arresting Jay and K. As Mija and Okja are leaving, they see many more pigs being led to slaughter. A pair of super pigs manages to push their newborn through the fence, and Okja hides it within her mouth to take it away.Back in the countryside, Mija resumes her life with her grandfather, Okja, and the new piglet. In a post-credits scene, Jay is released from prison and gets on board a bus with K and the other members of the organization, who reveals that ALF will be attending a major meeting involving all of the Mirando shareholders.",
+  "imdb_score": 7.3
+}
