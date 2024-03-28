@@ -1,6 +1,7 @@
 use crate::model::config::Config;
 use actix_web::http::header::ContentType;
 use actix_web::{get, web, HttpResponse, Result};
+use log::{debug, error, info, warn};
 use openai_api_rs::v1::api::Client;
 use openai_api_rs::v1::common::TEXT_EMBEDDING_3_LARGE;
 use openai_api_rs::v1::embedding::EmbeddingRequest;
@@ -19,6 +20,8 @@ async fn embed_movie_json(
         config_data.open_ai.url.to_string(),
         config_data.open_ai.key.to_string(),
     );
+    debug!("api-key: {}", config_data.open_ai.key);
+    debug!("api-url: {}", config_data.open_ai.url);
 
     // TODO: fetch movie json from data folder
 
@@ -33,6 +36,7 @@ async fn embed_movie_json(
 
     // Serialize the EmbeddingResponse into a JSON string
     let json_str = serde_json::to_string(&result)?;
+    debug!("json_str: {}", json_str);
 
     // Write the JSON data to a file named embeddings.json
     // Check if the file exists

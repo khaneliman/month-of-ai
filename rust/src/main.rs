@@ -1,12 +1,12 @@
 mod api;
 mod model;
 
-use std::{fs::File, io::Read};
-
 use actix_cors::Cors;
 use actix_web::{http::header, middleware::Logger, web, App, HttpServer};
 use api::movies::{ask_question, get_movie_criteria};
 use api::scraper::embed_movie_json;
+use log::debug;
+use std::{fs::File, io::Read};
 
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
@@ -22,7 +22,7 @@ async fn main() -> std::io::Result<()> {
     let config: crate::model::config::Config =
         serde_yaml::from_str(&config_str).expect("error getting config");
 
-    println!("{:?}", config);
+    debug!("{:?}", config);
 
     HttpServer::new(move || {
         let cors = Cors::default()

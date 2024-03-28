@@ -6,6 +6,7 @@ use crate::model::open_ai_response::OAIResponse;
 use crate::model::query::{InputObject, QuestionObject};
 use actix_web::http::header::ContentType;
 use actix_web::{get, web, HttpResponse, Result};
+use log::{debug, error, info, warn};
 use serde_json::{from_str, to_string};
 use spinners::{Spinner, Spinners};
 
@@ -35,9 +36,9 @@ async fn ask_question(
     query_object: web::Query<QuestionObject>, // Extract question from query string
     config: web::Data<Config>,
 ) -> Result<HttpResponse, Box<dyn std::error::Error>> {
-    // println!("Movie ID: {}", movie_id);
-    // println!("Question: {}", query_object.question);
-    // println!("Parsed config: {:?}", config);
+    debug!("Movie ID: {}", movie_id);
+    debug!("Question: {}", query_object.question);
+    debug!("Parsed config: {:?}", config);
 
     let config_data = config.clone();
 
@@ -46,7 +47,7 @@ async fn ask_question(
     let mut sp = Spinner::new(Spinners::Dots9, "\t\tOpenAI is thinking...".into());
 
     let movie = fetch_movie_details(&movie_id).await?;
-    // println!("{:?}", movie);
+    debug!("{:?}", movie);
 
     let system_message = Message::builder()
         .role(String::from("system"))
@@ -69,7 +70,7 @@ async fn ask_question(
         .build();
 
     let body = to_string(&oai_request).unwrap();
-    // println!("{}", body);
+    debug!("{}", body);
 
     // Call API with prompt and parse response
     let prompt_response = client
@@ -86,12 +87,12 @@ async fn ask_question(
     sp.stop();
 
     let response_body = prompt_response.text().await?;
-    // println!("{}", response_body);
+    debug!("{}", response_body);
 
     let json: OAIResponse = from_str(&response_body)?;
 
     let message = json.choices[0].message.content.to_string();
-    println!("{}", message);
+    debug!("{}", message);
 
     // Return the response as plain text
     let response = HttpResponse::Ok()
@@ -106,7 +107,8 @@ async fn get_movie_criteria(
     input_object: web::Query<InputObject>, // Extract question from query string
     config: web::Data<Config>,
 ) -> Result<String, Box<dyn std::error::Error>> {
-    // println!("Question: {}", input_object.input);
+    debug!("Question: {}", input_object.input);
+
     let config_data = config.clone();
 
     let client = reqwest::Client::new();
@@ -143,7 +145,7 @@ async fn get_movie_criteria(
         .build();
 
     let body = to_string(&oai_request).unwrap();
-    // println!("Movie Criteria Request: {}", body);
+    debug!("Movie Criteria Request: {}", body);
 
     let prompt_response = client
         .post(format!(
@@ -159,13 +161,13 @@ async fn get_movie_criteria(
     sp.stop();
 
     let response_body = prompt_response.text().await?;
-    // println!("{}", response_body);
+    debug!("{}", response_body);
 
     let json: OAIResponse = from_str(&response_body)?;
 
     let movie_criteria_response: MovieCriteria =
         from_str(&json.choices[0].message.content.to_string())?;
-    println!("{:?}", movie_criteria_response);
+    debug!("{:?}", movie_criteria_response);
 
     let message = json.choices[0].message.content.to_string();
 
