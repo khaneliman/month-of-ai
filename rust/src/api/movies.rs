@@ -10,17 +10,20 @@ use log::{debug, error, info, warn};
 use serde_json::{from_str, to_string};
 use spinners::{Spinner, Spinners};
 
-async fn fetch_movie_details(movie_id: &str) -> Result<Movie, Box<dyn std::error::Error>> {
+async fn fetch_movie_details(
+    movie_id: &str,
+    config: web::Data<Config>,
+) -> Result<Movie, Box<dyn std::error::Error>> {
     let client = reqwest::Client::new();
 
     // Fetch movie details for movie_id
     let movie_details_response = client
         .get(format!(
-            "https://srch-ai-demo.search.windows.net/indexes/idx-movies/docs/{}?api-version=2023-11-01",
-            movie_id
+            "{}indexes/idx-movies/docs/{}?api-version={}",
+            config.azure_search.url, movie_id, config.azure_search.api_version
         ))
         .header("Content-Type", "application/json")
-        .header("api-key", "***REMOVED***")
+        .header("api-key", config.azure_search.key.clone())
         .send()
         .await?;
 
@@ -46,7 +49,7 @@ async fn ask_question(
 
     let mut sp = Spinner::new(Spinners::Dots9, "\t\tOpenAI is thinking...".into());
 
-    let movie = fetch_movie_details(&movie_id).await?;
+    let movie = fetch_movie_details(&movie_id, config_data.clone()).await?;
     debug!("{:?}", movie);
 
     let system_message = Message::builder()
