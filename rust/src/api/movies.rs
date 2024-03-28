@@ -1,8 +1,9 @@
+use crate::model::chat_completion_request::{
+    ChatCompletionRequest, Message, ResponseFormat, ResponseType::JsonObject,
+};
+use crate::model::chat_completion_response::ChatCompletionResponse;
 use crate::model::config::Config;
 use crate::model::movie::{Movie, MovieCriteria};
-use crate::model::open_ai_request::ResponseType::JsonObject;
-use crate::model::open_ai_request::{Message, OAIRequest, ResponseFormat};
-use crate::model::open_ai_response::OAIResponse;
 use crate::model::query::{InputObject, QuestionObject};
 use actix_web::http::header::ContentType;
 use actix_web::{get, web, HttpResponse, Result};
@@ -66,7 +67,7 @@ async fn ask_question(
         .content(format!("{}", query_object.question))
         .build();
 
-    let oai_request = OAIRequest::builder()
+    let oai_request = ChatCompletionRequest::builder()
         .model(String::from(config_data.open_ai.model.clone()))
         .message(system_message)
         .message(user_message)
@@ -92,7 +93,7 @@ async fn ask_question(
     let response_body = prompt_response.text().await?;
     debug!("{}", response_body);
 
-    let json: OAIResponse = from_str(&response_body)?;
+    let json: ChatCompletionResponse = from_str(&response_body)?;
 
     let message = json.choices[0].message.content.to_string();
     debug!("{}", message);
@@ -140,7 +141,7 @@ async fn get_movie_criteria(
         .content(format!("{}", input_object.input))
         .build();
 
-    let oai_request = OAIRequest::builder()
+    let oai_request = ChatCompletionRequest::builder()
         .model(String::from(config_data.open_ai.model.clone()))
         .message(system_message)
         .message(user_message)
@@ -166,7 +167,7 @@ async fn get_movie_criteria(
     let response_body = prompt_response.text().await?;
     debug!("{}", response_body);
 
-    let json: OAIResponse = from_str(&response_body)?;
+    let json: ChatCompletionResponse = from_str(&response_body)?;
 
     let movie_criteria_response: MovieCriteria =
         from_str(&json.choices[0].message.content.to_string())?;

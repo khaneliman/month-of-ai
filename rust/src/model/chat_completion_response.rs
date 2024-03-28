@@ -1,4 +1,4 @@
-use super::open_ai_request::Message;
+use super::chat_completion_request::Message;
 use serde::{Deserialize, Serialize};
 
 #[derive(Deserialize, Debug)]
@@ -10,7 +10,7 @@ pub struct OAIChoices {
 }
 
 #[derive(Deserialize, Debug)]
-pub struct OAIResponse {
+pub struct ChatCompletionResponse {
     pub id: Option<String>,
     pub object: Option<String>,
     pub created: Option<u64>,

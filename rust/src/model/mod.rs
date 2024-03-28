@@ -1,5 +1,5 @@
+pub mod chat_completion_request;
+pub mod chat_completion_response;
 pub mod config;
 pub mod movie;
-pub mod open_ai_request;
-pub mod open_ai_response;
 pub mod query;

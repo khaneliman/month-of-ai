@@ -57,27 +57,27 @@ pub struct ResponseFormat {
 }
 
 #[derive(Serialize, Deserialize, Debug)]
-pub struct OAIRequest {
+pub struct ChatCompletionRequest {
     pub model: Option<String>,
     pub messages: Vec<Message>,
     pub response_format: Option<ResponseFormat>,
 }
 
-impl OAIRequest {
-    pub fn builder() -> OAIRequestBuilder {
-        OAIRequestBuilder::new()
+impl ChatCompletionRequest {
+    pub fn builder() -> ChatCompletionRequestBuilder {
+        ChatCompletionRequestBuilder::new()
     }
 }
 
-pub struct OAIRequestBuilder {
+pub struct ChatCompletionRequestBuilder {
     model: Option<String>,
     messages: Vec<Message>,
     response_format: Option<ResponseFormat>,
 }
 
-impl OAIRequestBuilder {
+impl ChatCompletionRequestBuilder {
     pub fn new() -> Self {
-        OAIRequestBuilder {
+        ChatCompletionRequestBuilder {
             model: None,
             messages: Vec::new(),
             response_format: None,
@@ -98,8 +98,8 @@ impl OAIRequestBuilder {
         self
     }
 
-    pub fn build(self) -> OAIRequest {
-        OAIRequest {
+    pub fn build(self) -> ChatCompletionRequest {
+        ChatCompletionRequest {
             model: self.model,
             messages: self.messages,
             response_format: self.response_format,
