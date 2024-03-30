@@ -34,15 +34,11 @@ async fn embed_movie_json(
 
         let movie = read_movie_json(&movie_json_path)?;
 
+        let input: Vec<String> = generate_inputs(movie)?;
+        debug!("input: {:?}", input);
+
         let embedding_request = EmbeddingRequestBody::builder()
-            .input(vec![
-                movie.overview.unwrap_or("".to_string()),
-                movie.tagline.unwrap_or("".to_string()),
-                movie.genres.join(","),
-                movie.keywords.unwrap_or_default().join(","),
-                movie.summaries.unwrap_or_default().join(","),
-                movie.synopsis.unwrap_or("".to_string()),
-            ])
+            .input(input)
             .model(Some("text-embedding-3-large".to_string()))
             .dimensions(Some(1024))
             .user(Some("ah-scraper".to_string()))
@@ -50,6 +46,7 @@ async fn embed_movie_json(
         debug!("embedding_request: {:?}", embedding_request);
 
         let body = serde_json::to_string(&embedding_request).unwrap();
+        debug!("body: {}", body);
 
         let mut sp = Spinner::new(Spinners::Dots9, "\t\tOpenAI is thinking...".into());
 
@@ -64,12 +61,12 @@ async fn embed_movie_json(
             .body(body)
             .send()
             .await?;
-        debug!("result: {:?}", result);
+        // debug!("result: {:?}", result);
 
         sp.stop();
 
         let response_body = result.text().await?;
-        debug!("Response Body: {}", response_body);
+        // debug!("Response Body: {}", response_body);
 
         // Serialize the EmbeddingResponse into a JSON string
         let embedding_data: EmbeddingResponse = serde_json::from_str(&response_body)?;
@@ -181,4 +178,38 @@ fn write_json_to_file(json: serde_json::Value) -> Result<(), Box<dyn std::error:
     writeln!(file, "]")?; // Ensure a closing bracket at the end
 
     Ok(())
+}
+
+fn generate_inputs(movie: TopRatedMovie) -> Result<Vec<String>> {
+    let mut input: Vec<String> = Vec::new();
+
+    if let Some(overview) = movie.overview.clone().filter(|s| !s.is_empty()) {
+        input.push(overview);
+    }
+
+    if let Some(tagline) = movie.tagline.clone().filter(|s| !s.is_empty()) {
+        input.push(tagline);
+    }
+
+    if !movie.genres.is_empty() {
+        input.push(movie.genres.join(","));
+    }
+
+    if let Some(keywords) = movie.keywords.clone() {
+        if !keywords.is_empty() {
+            input.push(keywords.join(","));
+        }
+    }
+
+    if let Some(summaries) = movie.summaries.clone() {
+        if !summaries.is_empty() {
+            input.push(summaries.join(","));
+        }
+    }
+
+    if let Some(synopsis) = movie.synopsis.clone().filter(|s| !s.is_empty()) {
+        input.push(synopsis);
+    }
+
+    Ok(input)
 }
