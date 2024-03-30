@@ -1,3 +1,4 @@
+use crate::model::cache::Cache;
 use crate::model::chat_completion_request::{
     ChatCompletionRequest, Message, ResponseFormat, ResponseType::JsonObject,
 };
@@ -16,6 +17,7 @@ use serde_json::{from_str, to_string};
 use spinners::{Spinner, Spinners};
 use std::fs;
 use std::path::Path;
+use std::sync::Mutex;
 
 async fn fetch_movie_details(
     movie_id: &str,
@@ -187,6 +189,7 @@ async fn get_movie_criteria(
 #[get("/api/movies/{movie_id}/similar")]
 async fn similar_movies(
     movie_id: web::Path<String>, // Extract movieID from path
+    cache: web::Data<Mutex<Cache>>,
 ) -> Result<String, Box<dyn std::error::Error>> {
     debug!("Movie ID: {}", movie_id);
 
@@ -199,22 +202,36 @@ async fn similar_movies(
     let top_movies_path = current_directory.join("src/data/topRatedMovies.json");
 
     if Path::new(&movie_embeddings_path).exists() && Path::new(&top_movies_path).exists() {
-        let movie_embeddings_json_content = fs::read_to_string(&movie_embeddings_path).unwrap();
-        let movie_embeddings: Vec<MovieEmbedding> =
-            serde_json::from_str(&movie_embeddings_json_content).unwrap();
+        // Load data using the cache
+        debug!("Loading data from cache or disk...");
+        let cache_lock = cache.lock().unwrap();
+        let mut movie_embeddings_lock = cache_lock.movie_embeddings.lock().unwrap();
+        if movie_embeddings_lock.is_empty() {
+            let movie_embeddings_json_content = fs::read_to_string(&movie_embeddings_path).unwrap();
+            let data: Vec<MovieEmbedding> =
+                serde_json::from_str(&movie_embeddings_json_content).unwrap();
+            *movie_embeddings_lock = data;
+        }
 
-        let top_movies_json_content = fs::read_to_string(&top_movies_path).unwrap();
-        let top_movies: Vec<TopRatedMovie> =
-            serde_json::from_str(&top_movies_json_content).unwrap();
+        let mut top_movies_lock = cache_lock.top_movies.lock().unwrap();
+        if top_movies_lock.is_empty() {
+            let top_movies_json_content = fs::read_to_string(&top_movies_path).unwrap();
+            let data: Vec<TopRatedMovie> = serde_json::from_str(&top_movies_json_content).unwrap();
+            *top_movies_lock = data;
+        }
 
-        let movie_embedding_for_comparison = movie_embeddings
+        // Rest of your code remains the same
+        debug!("Loaded data from cache or disk");
+
+        let movie_embedding_for_comparison = movie_embeddings_lock
             .iter()
             .find(|x| x.movie_id.to_string() == *movie_id)
             .unwrap();
 
         let mut cosine_similarities = vec![];
 
-        for movie_embedding in &movie_embeddings {
+        for movie_embedding in movie_embeddings_lock.iter() {
+            // Your existing code logic inside the loop remains the same
             if movie_embedding.movie_id != movie_embedding_for_comparison.movie_id {
                 let result = VectorMathHelper::cosine_similarity(
                     &movie_embedding_for_comparison
@@ -238,7 +255,7 @@ async fn similar_movies(
             .iter()
             .take(10)
             .map(|similarity| {
-                let movie = top_movies
+                let movie = top_movies_lock
                     .iter()
                     .find(|x| x.id == similarity.movie_id)
                     .unwrap();
