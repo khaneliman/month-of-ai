@@ -35,7 +35,7 @@ async fn embed_movie_json(
         let movie = read_movie_json(&movie_json_path)?;
 
         let input: Vec<String> = generate_inputs(movie)?;
-        debug!("input: {:?}", input);
+        // debug!("input: {:?}", input);
 
         let embedding_request = EmbeddingRequestBody::builder()
             .input(input)
@@ -46,7 +46,7 @@ async fn embed_movie_json(
         debug!("embedding_request: {:?}", embedding_request);
 
         let body = serde_json::to_string(&embedding_request).unwrap();
-        debug!("body: {}", body);
+        // debug!("body: {}", body);
 
         let mut sp = Spinner::new(Spinners::Dots9, "\t\tOpenAI is thinking...".into());
 
@@ -66,7 +66,7 @@ async fn embed_movie_json(
         sp.stop();
 
         let response_body = result.text().await?;
-        // debug!("Response Body: {}", response_body);
+        debug!("Response Body: {}", response_body);
 
         // Serialize the EmbeddingResponse into a JSON string
         let embedding_data: EmbeddingResponse = serde_json::from_str(&response_body)?;
@@ -207,9 +207,9 @@ fn generate_inputs(movie: TopRatedMovie) -> Result<Vec<String>> {
         }
     }
 
-    if let Some(synopsis) = movie.synopsis.clone().filter(|s| !s.is_empty()) {
-        input.push(synopsis);
-    }
+    // if let Some(synopsis) = movie.synopsis.clone().filter(|s| !s.is_empty()) {
+    //     input.push(synopsis);
+    // }
 
     Ok(input)
 }
