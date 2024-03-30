@@ -1,6 +1,6 @@
-use serde::Deserialize;
+use serde::{Deserialize, Serialize};
 
-#[derive(Deserialize, Debug)]
+#[derive(Deserialize, Serialize, Debug)]
 pub struct Movie {
     #[allow(dead_code)]
     backdrop_path: String,
@@ -48,7 +48,7 @@ pub struct Movie {
     imdb_score: f64,
 }
 
-#[derive(Deserialize, Debug)]
+#[derive(Deserialize, Serialize, Clone, Debug)]
 pub struct TopRatedMovie {
     #[allow(dead_code)]
     backdrop_path: String,
@@ -96,7 +96,7 @@ pub struct TopRatedMovie {
     imdb_score: f64,
 }
 
-#[derive(Deserialize, Debug)]
+#[derive(Deserialize, Serialize, Clone, Debug)]
 struct Cast {
     #[allow(dead_code)]
     name: String,
