@@ -1,5 +1,6 @@
 mod api;
 mod model;
+mod util;
 
 use actix_cors::Cors;
 use actix_web::{http::header, middleware::Logger, web, App, HttpServer};
