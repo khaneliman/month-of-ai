@@ -3,7 +3,7 @@ use crate::model::chat_completion_request::{
 };
 use crate::model::chat_completion_response::ChatCompletionResponse;
 use crate::model::config::Config;
-use crate::model::movie::{Movie, MovieCriteria};
+use crate::model::movies::{movie::Movie, movie_criteria::MovieCriteria};
 use crate::model::query::{InputObject, QuestionObject};
 use actix_web::http::header::ContentType;
 use actix_web::{get, web, HttpResponse, Result};
