@@ -3,7 +3,7 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct MovieEmbedding {
-    pub movie_id: Option<i32>,
+    pub movie_id: i32,
     pub embeddings: Option<EmbeddingResponse>,
 }
 
@@ -38,7 +38,7 @@ impl MovieEmbeddingBuilder {
 
     pub fn build(self) -> MovieEmbedding {
         MovieEmbedding {
-            movie_id: self.movie_id,
+            movie_id: self.movie_id.unwrap(),
             embeddings: self.embeddings,
         }
     }
