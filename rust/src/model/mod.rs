@@ -1,3 +1,4 @@
+pub mod cache;
 pub mod chat_completion_request;
 pub mod chat_completion_response;
 pub mod config;

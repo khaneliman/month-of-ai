@@ -3,11 +3,15 @@ mod model;
 mod util;
 
 use actix_cors::Cors;
+use actix_web::web::Data;
 use actix_web::{http::header, middleware::Logger, web, App, HttpServer};
 use api::movies::{ask_question, get_movie_criteria, similar_movies};
 use api::scraper::embed_movie_json;
 use log::debug;
+use std::sync::Mutex;
 use std::{fs::File, io::Read};
+
+use crate::model::cache::Cache;
 
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
@@ -22,6 +26,12 @@ async fn main() -> std::io::Result<()> {
 
     let config: crate::model::config::Config =
         serde_yaml::from_str(&config_str).expect("error getting config");
+
+    // Initialize the cache
+    let cache = Data::new(Mutex::new(Cache {
+        movie_embeddings: Mutex::new(Vec::new()), // You can initialize this with actual data if available
+        top_movies: Mutex::new(Vec::new()), // You can initialize this with actual data if available
+    }));
 
     debug!("{:?}", config);
 
@@ -41,7 +51,8 @@ async fn main() -> std::io::Result<()> {
             .wrap(logger)
             .wrap(cors)
             .app_data(web::JsonConfig::default().limit(4096)) // <- limit size of the payload (global configuration)
-            .app_data(web::Data::new(config.clone()))
+            .app_data(Data::new(config.clone()))
+            .app_data(Data::clone(&cache))
             .service(ask_question)
             .service(get_movie_criteria)
             .service(embed_movie_json)
