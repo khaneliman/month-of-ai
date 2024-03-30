@@ -8,7 +8,7 @@ impl VectorMathHelper {
      * @param vecB - The second vector to be validated.
      * @throws Will throw an error if either vector is empty or if the vectors are not of equal length.
      */
-    pub fn validate_vectors(vec_a: &[f64], vec_b: &[f64]) {
+    pub fn validate_vectors(vec_a: &[f32], vec_b: &[f32]) {
         if vec_a.is_empty() || vec_b.is_empty() {
             panic!("Both vectors must be non-empty");
         }
@@ -25,7 +25,7 @@ impl VectorMathHelper {
      * @returns The cosine similarity between vectorA and vectorB.
      * @throws Will throw an error if either vector is a zero vector or if vectors are not the same lenth.
      */
-    pub fn cosine_similarity(vector_a: &[f64], vector_b: &[f64]) -> f64 {
+    pub fn cosine_similarity(vector_a: &[f32], vector_b: &[f32]) -> f32 {
         Self::validate_vectors(vector_a, vector_b);
 
         let mut dot_product = 0.0;
