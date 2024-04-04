@@ -1,4 +1,4 @@
-use crate::model::cache::Cache;
+use crate::model::cache::{can_load_data, Cache};
 use crate::model::chat_completion_request::{
     ChatCompletionRequest, Message, ResponseFormat, ResponseType::JsonObject,
 };
@@ -193,36 +193,10 @@ async fn similar_movies(
 ) -> Result<String, Box<dyn std::error::Error>> {
     debug!("Movie ID: {}", movie_id);
 
-    let current_directory = std::env::current_dir().unwrap();
-
-    // Load movieEmbeddings.json into memory
-    let movie_embeddings_path = current_directory.join("src/data/embeddings.json");
-
-    // Load topRatedMovies.json into memory
-    let top_movies_path = current_directory.join("src/data/topRatedMovies.json");
-
-    if Path::new(&movie_embeddings_path).exists() && Path::new(&top_movies_path).exists() {
-        // Load data using the cache
-        debug!("Loading data from cache or disk...");
+    if can_load_data(cache.get_ref()) {
         let cache_lock = cache.lock().unwrap();
+
         let mut movie_embeddings_lock = cache_lock.movie_embeddings.lock().unwrap();
-        if movie_embeddings_lock.is_empty() {
-            let movie_embeddings_json_content = fs::read_to_string(&movie_embeddings_path).unwrap();
-            let data: Vec<MovieEmbedding> =
-                serde_json::from_str(&movie_embeddings_json_content).unwrap();
-            *movie_embeddings_lock = data;
-        }
-
-        let mut top_movies_lock = cache_lock.top_movies.lock().unwrap();
-        if top_movies_lock.is_empty() {
-            let top_movies_json_content = fs::read_to_string(&top_movies_path).unwrap();
-            let data: Vec<TopRatedMovie> = serde_json::from_str(&top_movies_json_content).unwrap();
-            *top_movies_lock = data;
-        }
-
-        // Rest of your code remains the same
-        debug!("Loaded data from cache or disk");
-
         let movie_embedding_for_comparison = movie_embeddings_lock
             .iter()
             .find(|x| x.movie_id.to_string() == *movie_id)
@@ -251,6 +225,7 @@ async fn similar_movies(
 
         cosine_similarities.sort_by(|a, b| b.similarity.partial_cmp(&a.similarity).unwrap());
 
+        let mut top_movies_lock = cache_lock.top_movies.lock().unwrap();
         let similar_movies: Vec<TopRatedMovie> = cosine_similarities
             .iter()
             .take(10)
