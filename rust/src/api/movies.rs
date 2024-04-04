@@ -274,7 +274,7 @@ async fn similar_movies(
 
 #[post("/api/movie-chat")]
 async fn movie_chat(
-    chat_messages: web::Json<ChatCompletionRequest>, // Extract question from query string
+    chat_messages: web::Json<ChatCompletionRequest>, // conversation from the app
     config: web::Data<Config>,
 ) -> Result<HttpResponse, Box<dyn std::error::Error>> {
     debug!("Chat Messages: {:?}", chat_messages);
@@ -287,11 +287,31 @@ async fn movie_chat(
 
     // TODO: get movie criteria from the last question
 
-    // let oai_request = ChatCompletionRequest::builder()
-    //     .model(String::from(config_data.open_ai.model.clone()))
-    //     .build();
+    let system_message = Message::builder()
+        .role(String::from("system"))
+        .content(format!(
+            r#"You are an expert movie critic. You will be tasked with providing movie recommendations to someone based on criteria they provide.
+            You will need to phish for more information until you think you are ready to answer the question using the movie criteria.
+            "#,
+        ))
+        .build();
 
-    let body = to_string(&chat_messages).unwrap();
+    // Extract the chat_messages from web::Json<ChatCompletionRequest>
+    let chat_messages_inner = chat_messages.into_inner();
+
+    // Iterate over each message in the messages vector and add a .message(message) call for each one
+    let mut oai_request_builder = ChatCompletionRequest::builder()
+        .model(config_data.open_ai.model.clone())
+        .message(system_message); // Start with the system message
+
+    for message in chat_messages_inner.messages {
+        oai_request_builder = oai_request_builder.message(message);
+    }
+
+    // Add any additional fields like response_format if needed
+    let oai_request = oai_request_builder.build();
+
+    let body = to_string(&oai_request).unwrap();
     debug!("{}", body);
 
     // Call API with prompt and parse response
