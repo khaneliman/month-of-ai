@@ -11,7 +11,7 @@ use crate::model::movies::{movie::Movie, movie_criteria::MovieCriteria};
 use crate::model::query::{InputObject, QuestionObject};
 use crate::util::vector_math_helper::VectorMathHelper;
 use actix_web::http::header::ContentType;
-use actix_web::{get, web, HttpResponse, Result};
+use actix_web::{get, post, web, HttpResponse, Result};
 use log::{debug, error, info, warn};
 use serde_json::{from_str, to_string};
 use spinners::{Spinner, Spinners};
@@ -270,4 +270,56 @@ async fn similar_movies(
             "JSON files not found.".to_string(),
         ))
     }
+}
+
+#[post("/api/movie-chat")]
+async fn movie_chat(
+    chat_messages: web::Json<ChatCompletionRequest>, // Extract question from query string
+    config: web::Data<Config>,
+) -> Result<HttpResponse, Box<dyn std::error::Error>> {
+    debug!("Chat Messages: {:?}", chat_messages);
+
+    let config_data = config.clone();
+
+    let client = reqwest::Client::new();
+
+    let mut sp = Spinner::new(Spinners::Dots9, "\t\tOpenAI is thinking...".into());
+
+    // TODO: get movie criteria from the last question
+
+    // let oai_request = ChatCompletionRequest::builder()
+    //     .model(String::from(config_data.open_ai.model.clone()))
+    //     .build();
+
+    let body = to_string(&chat_messages).unwrap();
+    debug!("{}", body);
+
+    // Call API with prompt and parse response
+    let prompt_response = client
+        .post(format!(
+            "{}openai/deployments/{}/chat/completions?api-version={}",
+            config_data.open_ai.url, config_data.open_ai.model, config_data.open_ai.api_version
+        ))
+        .header("Content-Type", "application/json")
+        .header("api-key", config_data.open_ai.key.clone())
+        .body(body)
+        .send()
+        .await?;
+
+    sp.stop();
+
+    let response_body = prompt_response.text().await?;
+    debug!("{}", response_body);
+
+    let json: ChatCompletionResponse = from_str(&response_body)?;
+
+    let message = json.choices[0].message.content.to_string();
+    debug!("{}", message);
+
+    // Return the response as plain text
+    let response = HttpResponse::Ok()
+        .insert_header(ContentType(mime::TEXT_PLAIN))
+        .body(message);
+
+    return Ok(response);
 }

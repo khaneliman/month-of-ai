@@ -5,7 +5,7 @@ mod util;
 use actix_cors::Cors;
 use actix_web::web::Data;
 use actix_web::{http::header, middleware::Logger, web, App, HttpServer};
-use api::movies::{ask_question, get_movie_criteria, similar_movies};
+use api::movies::{ask_question, get_movie_criteria, movie_chat, similar_movies};
 use api::scraper::embed_movie_json;
 use log::debug;
 use std::sync::Mutex;
@@ -57,6 +57,7 @@ async fn main() -> std::io::Result<()> {
             .service(get_movie_criteria)
             .service(embed_movie_json)
             .service(similar_movies)
+            .service(movie_chat)
     })
     .bind(("127.0.0.1", 8080))?
     .run()
