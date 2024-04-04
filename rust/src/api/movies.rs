@@ -193,39 +193,15 @@ async fn similar_movies(
 ) -> Result<String, Box<dyn std::error::Error>> {
     debug!("Movie ID: {}", movie_id);
 
-    if can_load_data(cache.get_ref()) {
-        let cache_lock = cache.lock().unwrap();
+    let mut cosine_similarities = find_similar_movies(&movie_id, &cache);
 
-        let mut movie_embeddings_lock = cache_lock.movie_embeddings.lock().unwrap();
-        let movie_embedding_for_comparison = movie_embeddings_lock
-            .iter()
-            .find(|x| x.movie_id.to_string() == *movie_id)
-            .unwrap();
-
-        let mut cosine_similarities = vec![];
-
-        for movie_embedding in movie_embeddings_lock.iter() {
-            // Your existing code logic inside the loop remains the same
-            if movie_embedding.movie_id != movie_embedding_for_comparison.movie_id {
-                let result = VectorMathHelper::cosine_similarity(
-                    &movie_embedding_for_comparison
-                        .embeddings
-                        .as_ref()
-                        .unwrap()
-                        .data[0]
-                        .embedding,
-                    &movie_embedding.embeddings.as_ref().unwrap().data[0].embedding,
-                );
-                cosine_similarities.push(CosineSimilarity {
-                    movie_id: movie_embedding.movie_id,
-                    similarity: result,
-                });
-            }
-        }
-
+    if cosine_similarities.len() > 0 {
         cosine_similarities.sort_by(|a, b| b.similarity.partial_cmp(&a.similarity).unwrap());
 
-        let mut top_movies_lock = cache_lock.top_movies.lock().unwrap();
+        let cache_lock = cache.lock().unwrap();
+
+        let top_movies_lock = cache_lock.top_movies.lock().unwrap();
+
         let similar_movies: Vec<TopRatedMovie> = cosine_similarities
             .iter()
             .take(10)
@@ -234,7 +210,6 @@ async fn similar_movies(
                     .iter()
                     .find(|x| x.id == similarity.movie_id)
                     .unwrap();
-                // Assuming you want to clone the movie here
                 movie.clone()
             })
             .collect();
@@ -251,6 +226,7 @@ async fn similar_movies(
 async fn movie_chat(
     chat_messages: web::Json<ChatCompletionRequest>, // conversation from the app
     config: web::Data<Config>,
+    cache: web::Data<Mutex<Cache>>,
 ) -> Result<HttpResponse, Box<dyn std::error::Error>> {
     debug!("Chat Messages: {:?}", chat_messages);
 
@@ -261,7 +237,6 @@ async fn movie_chat(
     let mut sp = Spinner::new(Spinners::Dots9, "\t\tOpenAI is thinking...".into());
 
     // TODO: get movie criteria from the last question
-
     let system_message = Message::builder()
         .role(String::from("system"))
         .content(format!(
@@ -317,4 +292,41 @@ async fn movie_chat(
         .body(message);
 
     return Ok(response);
+}
+
+fn find_similar_movies(movie_id: &str, cache: &Mutex<Cache>) -> Vec<CosineSimilarity> {
+    if can_load_data(&cache) {
+        let cache_lock = cache.lock().unwrap();
+
+        let movie_embeddings_lock = cache_lock.movie_embeddings.lock().unwrap();
+        let movie_embedding_for_comparison = movie_embeddings_lock
+            .iter()
+            .find(|x| x.movie_id.to_string() == *movie_id)
+            .unwrap();
+
+        let mut cosine_similarities = vec![];
+
+        for movie_embedding in movie_embeddings_lock.iter() {
+            // Your existing code logic inside the loop remains the same
+            if movie_embedding.movie_id != movie_embedding_for_comparison.movie_id {
+                let result = VectorMathHelper::cosine_similarity(
+                    &movie_embedding_for_comparison
+                        .embeddings
+                        .as_ref()
+                        .unwrap()
+                        .data[0]
+                        .embedding,
+                    &movie_embedding.embeddings.as_ref().unwrap().data[0].embedding,
+                );
+                cosine_similarities.push(CosineSimilarity {
+                    movie_id: movie_embedding.movie_id,
+                    similarity: result,
+                });
+            }
+        }
+
+        cosine_similarities
+    } else {
+        vec![]
+    }
 }
