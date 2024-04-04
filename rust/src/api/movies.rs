@@ -1,22 +1,18 @@
-use crate::model::cache::{can_load_data, Cache};
+use crate::model::cache::Cache;
 use crate::model::chat_completion_request::{
     ChatCompletionRequest, Message, ResponseFormat, ResponseType::JsonObject,
 };
 use crate::model::chat_completion_response::ChatCompletionResponse;
 use crate::model::config::Config;
-use crate::model::cosine_similarity::CosineSimilarity;
 use crate::model::movies::movie::TopRatedMovie;
-use crate::model::movies::movie_embedding::MovieEmbedding;
 use crate::model::movies::{movie::Movie, movie_criteria::MovieCriteria};
 use crate::model::query::{InputObject, QuestionObject};
-use crate::util::vector_math_helper::VectorMathHelper;
+use crate::util::movie_helper::find_similar_movies;
 use actix_web::http::header::ContentType;
 use actix_web::{get, post, web, HttpResponse, Result};
 use log::{debug, error, info, warn};
 use serde_json::{from_str, to_string};
 use spinners::{Spinner, Spinners};
-use std::fs;
-use std::path::Path;
 use std::sync::Mutex;
 
 async fn fetch_movie_details(
@@ -292,41 +288,4 @@ async fn movie_chat(
         .body(message);
 
     return Ok(response);
-}
-
-fn find_similar_movies(movie_id: &str, cache: &Mutex<Cache>) -> Vec<CosineSimilarity> {
-    if can_load_data(&cache) {
-        let cache_lock = cache.lock().unwrap();
-
-        let movie_embeddings_lock = cache_lock.movie_embeddings.lock().unwrap();
-        let movie_embedding_for_comparison = movie_embeddings_lock
-            .iter()
-            .find(|x| x.movie_id.to_string() == *movie_id)
-            .unwrap();
-
-        let mut cosine_similarities = vec![];
-
-        for movie_embedding in movie_embeddings_lock.iter() {
-            // Your existing code logic inside the loop remains the same
-            if movie_embedding.movie_id != movie_embedding_for_comparison.movie_id {
-                let result = VectorMathHelper::cosine_similarity(
-                    &movie_embedding_for_comparison
-                        .embeddings
-                        .as_ref()
-                        .unwrap()
-                        .data[0]
-                        .embedding,
-                    &movie_embedding.embeddings.as_ref().unwrap().data[0].embedding,
-                );
-                cosine_similarities.push(CosineSimilarity {
-                    movie_id: movie_embedding.movie_id,
-                    similarity: result,
-                });
-            }
-        }
-
-        cosine_similarities
-    } else {
-        vec![]
-    }
 }
