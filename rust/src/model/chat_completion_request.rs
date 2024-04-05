@@ -74,7 +74,7 @@ pub struct ChatCompletionRequestBuilder {
     model: Option<String>,
     messages: Vec<Message>,
     response_format: Option<ResponseFormat>,
-    tools: Vec<RequestTool>,
+    tools: Option<Vec<RequestTool>>,
 }
 
 impl ChatCompletionRequestBuilder {
@@ -83,7 +83,7 @@ impl ChatCompletionRequestBuilder {
             model: None,
             messages: Vec::new(),
             response_format: None,
-            tools: Vec::new(),
+            tools: None,
         }
     }
     pub fn model(mut self, model: String) -> Self {
@@ -102,7 +102,12 @@ impl ChatCompletionRequestBuilder {
     }
 
     pub fn tool(mut self, request_tool: RequestTool) -> Self {
-        self.tools.push(request_tool);
+        if self.tools.is_none() {
+            self.tools = Some(Vec::new());
+        }
+        if let Some(ref mut tools) = self.tools {
+            tools.push(request_tool);
+        }
         self
     }
 
@@ -111,7 +116,7 @@ impl ChatCompletionRequestBuilder {
             model: self.model,
             messages: self.messages,
             response_format: self.response_format,
-            tools: Some(self.tools),
+            tools: self.tools,
         }
     }
 }
