@@ -3,12 +3,14 @@ use crate::model::chat_completion_request::{
     ChatCompletionRequest, Message, RequestTool, ResponseFormat, ResponseType::JsonObject,
     ResponseType::Text, ToolFunction,
 };
-use crate::model::chat_completion_response::ChatCompletionResponse;
+use crate::model::chat_completion_response::{ChatCompletionChoice, ChatCompletionResponse};
 use crate::model::config::Config;
 use crate::model::movies::movie::TopRatedMovie;
 use crate::model::movies::{movie::Movie, movie_criteria::MovieCriteria};
 use crate::model::query::{InputObject, QuestionObject};
-use crate::util::movie_helper::{can_load_data, find_similar_movies};
+use crate::util::movie_helper::{can_load_data, filter_movies, find_similar_movies};
+use crate::util::response_helper::extract_message;
+use crate::util::tool_helper::return_filter_tool;
 use actix_web::http::header::ContentType;
 use actix_web::{get, post, web, HttpResponse, Result};
 use log::{debug, error, info, warn};
@@ -255,80 +257,19 @@ async fn movie_chat(
         ))
         .build();
 
-    // Extract the chat_messages from web::Json<ChatCompletionRequest>
-    let chat_messages_inner = chat_messages.into_inner();
-
-    let tool_function = ToolFunction::builder()
-    .name("filter_movies".to_string())
-    .description("Filters movies based on the movie criteria. Requires both movie_criteria and top_rated_movies to filter down.".to_string())
-    .parameters(serde_json::json!({
-        "type": "object",
-        "properties": {
-            "movie_criteria": {
-                "type": "object",
-                "properties": {
-                    "search": { "type": "string" },
-                    "genre": { "type": "string" },
-                    "mpaa": { "type": "string" },
-                    "release_date_min": { "type": "string" },
-                    "release_date_max": { "type": "string" },
-                    "score_min": { "type": "number" },
-                    "score_max": { "type": "number" },
-                    "natural_language": { "type": "string" }
-                },
-                "required": ["search"]
-            },
-            "top_rated_movies": {
-                "type": "array",
-                "items": {
-                    "type": "object",
-                    "properties": {
-                        "backdrop_path": { "type": "string" },
-                        "id": { "type": "integer" },
-                        "title": { "type": "string" },
-                        "poster_path": { "type": "string" },
-                        "release_date": { "type": "string" },
-                        "vote_average": { "type": "number" },
-                        "vote_count": { "type": "integer" },
-                        "popularity": { "type": "number" },
-                        "overview": { "type": "string" },
-                        "imdb_id": { "type": "string" },
-                        "budget": { "type": "integer" },
-                        "homepage": { "type": "string" },
-                        "revenue": { "type": "integer" },
-                        "runtime": { "type": "integer" },
-                        "tagline": { "type": "string" },
-                        "genres": { "type": "array", "items": { "type": "string" } },
-                        "cast": { "type": "array", "items": { "type": "object" } },
-                        "keywords": { "type": "array", "items": { "type": "string" } },
-                        "mpaa": { "type": "string" },
-                        "summaries": { "type": "array", "items": { "type": "string" } },
-                        "synopsis": { "type": "string" },
-                        "imdb_score": { "type": "number" }
-                    },
-                    "required": ["backdrop_path", "id", "title", "poster_path", "release_date", "vote_average", "vote_count", "popularity", "mpaa", "imdb_score"]
-                }
-            }
-        },
-        "required": ["movie_criteria", "top_rated_movies"]
-    }))
-    .build();
-
-    let filter_tool = RequestTool::builder().function(tool_function).build();
-    debug!("filter_tool: {:?}", filter_tool);
-
-    // Iterate over each message in the messages vector and add a .message(message) call for each one
     let mut oai_request_builder = ChatCompletionRequest::builder()
         .model(config_data.open_ai.model.clone())
-        .tool(filter_tool)
+        .tool(return_filter_tool())
         .response_format(ResponseFormat { type_: Text })
-        .message(system_message); // Start with the system message
+        .message(system_message);
 
+    // Add existing chat history
+    let chat_messages_inner = chat_messages.into_inner();
     for message in chat_messages_inner.messages {
         oai_request_builder = oai_request_builder.message(message);
     }
 
-    // Add any additional fields like response_format if needed
+    // build final request
     let oai_request = oai_request_builder.build();
 
     let body = to_string(&oai_request).unwrap();
@@ -352,10 +293,30 @@ async fn movie_chat(
     debug!("Response body: {}", response_body);
 
     let json: ChatCompletionResponse = from_str(&response_body)?;
+    debug!("JSON: {:?}", json);
 
-    // let message = json.choices[0].message.content.to_string();
+    // parse response to see what actions to take
     let message = extract_message(&json);
     debug!("Message: {}", message);
+
+    // Try converting the extracted message to a MovieCriteria object
+    // We will filter out any movies that dont meet the filter
+    if let Ok(movie_criteria) = serde_json::from_str::<MovieCriteria>(&message) {
+        if can_load_data(&cache) {
+            let mut possible_movies = cache.lock().unwrap().top_movies.lock().unwrap().to_vec();
+            // Call a function with the MovieCriteria object
+            let possible_movies: Vec<TopRatedMovie> =
+                filter_movies(movie_criteria, possible_movies).await;
+
+            let tst: Vec<TopRatedMovie> = possible_movies.iter().take(10).cloned().collect();
+
+            let response = HttpResponse::Ok()
+                .insert_header(ContentType(mime::TEXT_PLAIN))
+                .json(tst);
+
+            return Ok(response);
+        }
+    }
 
     // Return the response as plain text
     let response = HttpResponse::Ok()
@@ -363,33 +324,4 @@ async fn movie_chat(
         .body(message);
 
     return Ok(response);
-}
-
-fn extract_message(json: &ChatCompletionResponse) -> String {
-    match &json.choices {
-        choices if !choices.is_empty() => {
-            debug!("{:?}", choices);
-
-            if let Some(first_choice) = choices.get(0) {
-                debug!("{:?}", first_choice);
-
-                if let Some(content) = first_choice.message.content.as_ref() {
-                    return content.to_string();
-                } else if let Some(tool_call) = &first_choice.message.tool_calls {
-                    // Deserialize the tool_call into a ToolCall struct
-                    // Handle the tool call data as needed
-                    return format!("Tool call: {:#?}", tool_call);
-                } else {
-                    debug!("No content or tool call found in the first choice");
-                }
-            } else {
-                debug!("No first choice found in choices");
-            }
-        }
-        _ => {
-            debug!("No choices found in JSON");
-        }
-    }
-
-    "Couldn't parse a message".to_string()
 }

@@ -89,16 +89,21 @@ pub async fn filter_movies(
     top_movies: Vec<TopRatedMovie>,
 ) -> Vec<TopRatedMovie> {
     let mut filtered_movies = top_movies;
-    debug!("Filtering movies");
+    debug!("Filtering {} movies", filtered_movies.len());
+    debug!("MovieCriteria {:?}", criteria);
 
     if let Some(genre) = criteria.genre {
         let target_genres: Vec<&str> = genre.split(",").map(|g| g.trim()).collect();
+        debug!("target_genres: {:?}", target_genres);
         filtered_movies = filtered_movies
             .iter()
             .filter(|m| {
+                let lowercase_genres: Vec<String> =
+                    m.genres.iter().map(|g| g.to_lowercase()).collect();
+
                 target_genres
                     .iter()
-                    .any(|g| m.genres.contains(&g.to_string()))
+                    .any(|g| lowercase_genres.contains(&g.to_lowercase()))
             })
             .cloned()
             .collect();
@@ -118,10 +123,27 @@ pub async fn filter_movies(
         filtered_movies = filtered_movies
             .iter()
             .filter(|m| {
-                Utc.datetime_from_str(&m.release_date, "%Y-%m-%d").unwrap()
-                    >= Utc
-                        .datetime_from_str(&release_date_min, "%Y-%m-%d")
-                        .unwrap()
+                // debug!("Release Date String: {}", m.release_date);
+
+                if let Ok(parsed_date) = Utc.datetime_from_str(&m.release_date, "%Y-%m-%d") {
+                    debug!("Parsed Date: {:?}", parsed_date);
+
+                    if let Ok(min_date) = Utc.datetime_from_str(&release_date_min, "%Y-%m-%d") {
+                        debug!("Min Date: {:?}", min_date);
+
+                        let result = parsed_date >= min_date;
+
+                        debug!("Result of Comparison: {}", result);
+
+                        return result;
+                    }
+                } else {
+                    debug!(
+                        "Error parsing date: {:?}",
+                        Utc.datetime_from_str(&m.release_date, "%Y-%m-%d")
+                    );
+                }
+                false
             })
             .cloned()
             .collect();
@@ -134,12 +156,18 @@ pub async fn filter_movies(
     if let Some(release_date_max) = criteria.release_date_max {
         filtered_movies = filtered_movies
             .iter()
-            .filter(|m| {
-                Utc.datetime_from_str(&m.release_date, "%Y-%m-%d").unwrap()
-                    <= Utc
-                        .datetime_from_str(&release_date_max, "%Y-%m-%d")
-                        .unwrap()
-            })
+            .filter(
+                |m| match Utc.datetime_from_str(&m.release_date, "%Y-%m-%d") {
+                    Ok(parsed_date) => {
+                        if let Ok(max_date) = Utc.datetime_from_str(&release_date_max, "%Y-%m-%d") {
+                            parsed_date >= max_date
+                        } else {
+                            false
+                        }
+                    }
+                    Err(_) => false,
+                },
+            )
             .cloned()
             .collect();
     }
