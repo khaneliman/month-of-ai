@@ -1,18 +1,15 @@
-use std::{fs, path::Path, sync::Mutex};
-
 use crate::model::cosine_similarity::CosineSimilarity;
 use crate::model::{
     cache::Cache,
     movies::{
-        movie::{Movie, TopRatedMovie},
-        movie_criteria::MovieCriteria,
-        movie_embedding::MovieEmbedding,
+        movie::TopRatedMovie, movie_criteria::MovieCriteria, movie_embedding::MovieEmbedding,
     },
 };
 use crate::util::vector_math_helper::VectorMathHelper;
 use chrono::prelude::*;
 use log::debug;
 use spinners::{Spinner, Spinners};
+use std::{fs, path::Path, sync::Mutex};
 
 pub fn can_load_data(cache: &Mutex<Cache>) -> bool {
     let current_directory = std::env::current_dir().unwrap();
@@ -84,6 +81,90 @@ pub fn find_similar_movies(movie_id: &str, cache: &Mutex<Cache>) -> Vec<CosineSi
         }
 
         cosine_similarities
+    } else {
+        vec![]
+    }
+}
+
+pub async fn filter_movies(criteria: MovieCriteria, cache: &Mutex<Cache>) -> Vec<TopRatedMovie> {
+    if can_load_data(&cache) {
+        let cache_lock = cache.lock().unwrap();
+
+        let all_movies = cache_lock.top_movies.lock().unwrap();
+        let mut filtered_movies = all_movies;
+
+        if let Some(genre) = criteria.genre {
+            let target_genres: Vec<&str> = genre.split(",").map(|g| g.trim()).collect();
+            *filtered_movies = filtered_movies
+                .iter()
+                .filter(|m| {
+                    target_genres
+                        .iter()
+                        .any(|g| m.genres.contains(&g.to_string()))
+                })
+                .cloned()
+                .collect();
+        }
+        if let Some(mpaa) = criteria.mpaa {
+            *filtered_movies = filtered_movies
+                .iter()
+                .filter(|m| m.mpaa == mpaa)
+                .cloned()
+                .collect();
+        }
+        if let Some(release_date_min) = criteria.release_date_min {
+            *filtered_movies = filtered_movies
+                .iter()
+                .filter(|m| {
+                    Utc.datetime_from_str(&m.release_date, "%Y-%m-%d").unwrap()
+                        >= Utc
+                            .datetime_from_str(&release_date_min, "%Y-%m-%d")
+                            .unwrap()
+                })
+                .cloned()
+                .collect();
+        }
+        if let Some(release_date_max) = criteria.release_date_max {
+            *filtered_movies = filtered_movies
+                .iter()
+                .filter(|m| {
+                    Utc.datetime_from_str(&m.release_date, "%Y-%m-%d").unwrap()
+                        <= Utc
+                            .datetime_from_str(&release_date_max, "%Y-%m-%d")
+                            .unwrap()
+                })
+                .cloned()
+                .collect();
+        }
+        // if let Some(runtime_min) = criteria.runtime_min {
+        //     filtered_movies = *filtered_movies
+        //         .into_iter()
+        //         .filter(|m| m.runtime >= runtime_min)
+        //         .collect();
+        // }
+        // if let Some(runtime_max) = criteria.runtime_max {
+        //     filtered_movies = *filtered_movies
+        //         .into_iter()
+        //         .filter(|m| m.runtime <= runtime_max)
+        //         .collect();
+        // }
+        if let Some(score_min) = criteria.score_min {
+            *filtered_movies = filtered_movies
+                .iter()
+                .filter(|m| m.imdb_score >= score_min.into())
+                .cloned()
+                .collect();
+        }
+
+        if let Some(score_max) = criteria.score_max {
+            *filtered_movies = filtered_movies
+                .iter()
+                .filter(|m| m.imdb_score <= score_max.into())
+                .cloned()
+                .collect();
+        }
+
+        filtered_movies.to_vec()
     } else {
         vec![]
     }

@@ -55,11 +55,11 @@ pub struct TopRatedMovie {
     #[allow(dead_code)]
     pub id: i32,
     #[allow(dead_code)]
-    title: String,
+    pub title: String,
     #[allow(dead_code)]
     poster_path: String,
     #[allow(dead_code)]
-    release_date: String,
+    pub release_date: String,
     #[allow(dead_code)]
     vote_average: f64,
     #[allow(dead_code)]
@@ -77,7 +77,7 @@ pub struct TopRatedMovie {
     #[allow(dead_code)]
     revenue: Option<u32>,
     #[allow(dead_code)]
-    runtime: u32,
+    pub runtime: u32,
     #[allow(dead_code)]
     pub tagline: Option<String>,
     #[allow(dead_code)]
@@ -87,13 +87,13 @@ pub struct TopRatedMovie {
     #[allow(dead_code)]
     pub keywords: Option<Vec<String>>,
     #[allow(dead_code)]
-    mpaa: String,
+    pub mpaa: String,
     #[allow(dead_code)]
     pub summaries: Option<Vec<String>>,
     #[allow(dead_code)]
     pub synopsis: Option<String>,
     #[allow(dead_code)]
-    imdb_score: f64,
+    pub imdb_score: f64,
 }
 
 #[derive(Deserialize, Serialize, Clone, Debug)]
