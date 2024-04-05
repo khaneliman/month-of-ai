@@ -260,7 +260,7 @@ async fn movie_chat(
 
     let tool_function = ToolFunction::builder()
     .name("filter_movies".to_string())
-    .description("Filters movies based on the movie criteria".to_string())
+    .description("Filters movies based on the movie criteria. Requires both movie_criteria and top_rated_movies to filter down.".to_string())
     .parameters(serde_json::json!({
         "type": "object",
         "properties": {
@@ -310,11 +310,12 @@ async fn movie_chat(
                 }
             }
         },
-        "required": ["movie_criteria"]
+        "required": ["movie_criteria", "top_rated_movies"]
     }))
     .build();
 
     let filter_tool = RequestTool::builder().function(tool_function).build();
+    debug!("filter_tool: {:?}", filter_tool);
 
     // Iterate over each message in the messages vector and add a .message(message) call for each one
     let mut oai_request_builder = ChatCompletionRequest::builder()
@@ -331,7 +332,7 @@ async fn movie_chat(
     let oai_request = oai_request_builder.build();
 
     let body = to_string(&oai_request).unwrap();
-    debug!("{}", body);
+    debug!("Body: {}", body);
 
     // Call API with prompt and parse response
     let prompt_response = client
@@ -348,13 +349,13 @@ async fn movie_chat(
     sp.stop();
 
     let response_body = prompt_response.text().await?;
-    debug!("{}", response_body);
+    debug!("Response body: {}", response_body);
 
     let json: ChatCompletionResponse = from_str(&response_body)?;
 
     // let message = json.choices[0].message.content.to_string();
     let message = extract_message(&json);
-    debug!("{}", message);
+    debug!("Message: {}", message);
 
     // Return the response as plain text
     let response = HttpResponse::Ok()
@@ -366,14 +367,29 @@ async fn movie_chat(
 
 fn extract_message(json: &ChatCompletionResponse) -> String {
     match &json.choices {
-        Some(choices) => {
+        choices if !choices.is_empty() => {
+            debug!("{:?}", choices);
+
             if let Some(first_choice) = choices.get(0) {
-                return first_choice.message.content.to_string();
+                debug!("{:?}", first_choice);
+
+                if let Some(content) = first_choice.message.content.as_ref() {
+                    return content.to_string();
+                } else if let Some(tool_call) = &first_choice.message.tool_calls {
+                    // Deserialize the tool_call into a ToolCall struct
+                    // Handle the tool call data as needed
+                    return format!("Tool call: {:#?}", tool_call);
+                } else {
+                    debug!("No content or tool call found in the first choice");
+                }
+            } else {
+                debug!("No first choice found in choices");
             }
         }
-        None => {}
+        _ => {
+            debug!("No choices found in JSON");
+        }
     }
 
-    // Return a default message if choices is None or the first choice is missing
-    "Default Message".to_string()
+    "Couldn't parse a message".to_string()
 }

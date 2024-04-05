@@ -1,9 +1,30 @@
 use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Debug)]
+pub struct ToolCall {
+    pub id: String,
+    #[serde(rename = "type")]
+    pub _type: String,
+    pub function: ToolCallFunction,
+}
+
+#[derive(Serialize, Deserialize, Debug)]
+pub struct ToolCallFunction {
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub name: Option<String>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub arguments: Option<String>,
+}
+
+#[derive(Serialize, Deserialize, Debug)]
 pub struct Message {
     pub role: String,
-    pub content: String,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub content: Option<String>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub name: Option<String>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub tool_calls: Option<Vec<ToolCall>>,
 }
 
 impl Message {
@@ -15,6 +36,8 @@ impl Message {
 pub struct MessageBuilder {
     role: Option<String>,
     content: Option<String>,
+    name: Option<String>,
+    tool_calls: Option<Vec<ToolCall>>,
 }
 
 impl MessageBuilder {
@@ -22,6 +45,8 @@ impl MessageBuilder {
         MessageBuilder {
             role: None,
             content: None,
+            name: None,
+            tool_calls: None,
         }
     }
 
@@ -35,10 +60,17 @@ impl MessageBuilder {
         self
     }
 
+    pub fn name(mut self, name: String) -> Self {
+        self.name = Some(name);
+        self
+    }
+
     pub fn build(self) -> Message {
         Message {
             role: self.role.expect("Role is required for UserMessage"),
-            content: self.content.expect("Content is required for UserMessage"),
+            content: self.content,
+            name: self.name,
+            tool_calls: self.tool_calls,
         }
     }
 }
@@ -58,9 +90,12 @@ pub struct ResponseFormat {
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct ChatCompletionRequest {
+    #[serde(skip_serializing_if = "Option::is_none")]
     pub model: Option<String>,
     pub messages: Vec<Message>,
+    #[serde(skip_serializing_if = "Option::is_none")]
     pub response_format: Option<ResponseFormat>,
+    #[serde(skip_serializing_if = "Option::is_none")]
     pub tools: Option<Vec<RequestTool>>,
 }
 
