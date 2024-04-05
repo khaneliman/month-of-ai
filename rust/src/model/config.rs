@@ -1,5 +1,3 @@
-use std::sync::Arc;
-
 use serde::Deserialize;
 
 #[derive(Deserialize, Debug, Clone)]

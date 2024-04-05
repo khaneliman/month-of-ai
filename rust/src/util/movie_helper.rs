@@ -61,7 +61,6 @@ pub fn find_similar_movies(
     let mut cosine_similarities = vec![];
 
     for movie_embedding in movie_embeddings.iter() {
-        // Your existing code logic inside the loop remains the same
         if movie_embedding.movie_id != movie_embedding_for_comparison.movie_id {
             let result = VectorMathHelper::cosine_similarity(
                 &movie_embedding_for_comparison
