@@ -7,7 +7,7 @@ use crate::model::config::Config;
 use crate::model::movies::movie::TopRatedMovie;
 use crate::model::movies::{movie::Movie, movie_criteria::MovieCriteria};
 use crate::model::query::{InputObject, QuestionObject};
-use crate::util::movie_helper::find_similar_movies;
+use crate::util::movie_helper::{can_load_data, find_similar_movies};
 use actix_web::http::header::ContentType;
 use actix_web::{get, post, web, HttpResponse, Result};
 use log::{debug, error, info, warn};
@@ -189,28 +189,37 @@ async fn similar_movies(
 ) -> Result<String, Box<dyn std::error::Error>> {
     debug!("Movie ID: {}", movie_id);
 
-    let mut cosine_similarities = find_similar_movies(&movie_id, &cache);
+    if can_load_data(&cache) {
+        let mut cosine_similarities = find_similar_movies(
+            &movie_id,
+            &cache.lock().unwrap().movie_embeddings.lock().unwrap(),
+        );
 
-    if cosine_similarities.len() > 0 {
-        cosine_similarities.sort_by(|a, b| b.similarity.partial_cmp(&a.similarity).unwrap());
+        if cosine_similarities.len() > 0 {
+            cosine_similarities.sort_by(|a, b| b.similarity.partial_cmp(&a.similarity).unwrap());
 
-        let cache_lock = cache.lock().unwrap();
+            let cache_lock = cache.lock().unwrap();
 
-        let top_movies_lock = cache_lock.top_movies.lock().unwrap();
+            let top_movies_lock = cache_lock.top_movies.lock().unwrap();
 
-        let similar_movies: Vec<TopRatedMovie> = cosine_similarities
-            .iter()
-            .take(10)
-            .map(|similarity| {
-                let movie = top_movies_lock
-                    .iter()
-                    .find(|x| x.id == similarity.movie_id)
-                    .unwrap();
-                movie.clone()
-            })
-            .collect();
+            let similar_movies: Vec<TopRatedMovie> = cosine_similarities
+                .iter()
+                .take(10)
+                .map(|similarity| {
+                    let movie = top_movies_lock
+                        .iter()
+                        .find(|x| x.id == similarity.movie_id)
+                        .unwrap();
+                    movie.clone()
+                })
+                .collect();
 
-        Ok(serde_json::to_string(&similar_movies).unwrap())
+            Ok(serde_json::to_string(&similar_movies).unwrap())
+        } else {
+            Err(Box::<dyn std::error::Error>::from(
+                "No similar movies found.".to_string(),
+            ))
+        }
     } else {
         Err(Box::<dyn std::error::Error>::from(
             "JSON files not found.".to_string(),

@@ -49,123 +49,115 @@ pub fn can_load_data(cache: &Mutex<Cache>) -> bool {
     }
 }
 
-pub fn find_similar_movies(movie_id: &str, cache: &Mutex<Cache>) -> Vec<CosineSimilarity> {
-    if can_load_data(&cache) {
-        let cache_lock = cache.lock().unwrap();
+pub fn find_similar_movies(
+    movie_id: &str,
+    movie_embeddings: &Vec<MovieEmbedding>,
+) -> Vec<CosineSimilarity> {
+    let movie_embedding_for_comparison = movie_embeddings
+        .iter()
+        .find(|x| x.movie_id.to_string() == *movie_id)
+        .unwrap();
 
-        let movie_embeddings_lock = cache_lock.movie_embeddings.lock().unwrap();
-        let movie_embedding_for_comparison = movie_embeddings_lock
-            .iter()
-            .find(|x| x.movie_id.to_string() == *movie_id)
-            .unwrap();
+    let mut cosine_similarities = vec![];
 
-        let mut cosine_similarities = vec![];
-
-        for movie_embedding in movie_embeddings_lock.iter() {
-            // Your existing code logic inside the loop remains the same
-            if movie_embedding.movie_id != movie_embedding_for_comparison.movie_id {
-                let result = VectorMathHelper::cosine_similarity(
-                    &movie_embedding_for_comparison
-                        .embeddings
-                        .as_ref()
-                        .unwrap()
-                        .data[0]
-                        .embedding,
-                    &movie_embedding.embeddings.as_ref().unwrap().data[0].embedding,
-                );
-                cosine_similarities.push(CosineSimilarity {
-                    movie_id: movie_embedding.movie_id,
-                    similarity: result,
-                });
-            }
+    for movie_embedding in movie_embeddings.iter() {
+        // Your existing code logic inside the loop remains the same
+        if movie_embedding.movie_id != movie_embedding_for_comparison.movie_id {
+            let result = VectorMathHelper::cosine_similarity(
+                &movie_embedding_for_comparison
+                    .embeddings
+                    .as_ref()
+                    .unwrap()
+                    .data[0]
+                    .embedding,
+                &movie_embedding.embeddings.as_ref().unwrap().data[0].embedding,
+            );
+            cosine_similarities.push(CosineSimilarity {
+                movie_id: movie_embedding.movie_id,
+                similarity: result,
+            });
         }
-
-        cosine_similarities
-    } else {
-        vec![]
     }
+
+    cosine_similarities
 }
 
-pub async fn filter_movies(criteria: MovieCriteria, cache: &Mutex<Cache>) -> Vec<TopRatedMovie> {
-    if can_load_data(&cache) {
-        let cache_lock = cache.lock().unwrap();
+pub async fn filter_movies(
+    criteria: MovieCriteria,
+    top_movies: Vec<TopRatedMovie>,
+) -> Vec<TopRatedMovie> {
+    let mut filtered_movies = top_movies;
 
-        let all_movies = cache_lock.top_movies.lock().unwrap();
-        let mut filtered_movies = all_movies;
-
-        if let Some(genre) = criteria.genre {
-            let target_genres: Vec<&str> = genre.split(",").map(|g| g.trim()).collect();
-            *filtered_movies = filtered_movies
-                .iter()
-                .filter(|m| {
-                    target_genres
-                        .iter()
-                        .any(|g| m.genres.contains(&g.to_string()))
-                })
-                .cloned()
-                .collect();
-        }
-        if let Some(mpaa) = criteria.mpaa {
-            *filtered_movies = filtered_movies
-                .iter()
-                .filter(|m| m.mpaa == mpaa)
-                .cloned()
-                .collect();
-        }
-        if let Some(release_date_min) = criteria.release_date_min {
-            *filtered_movies = filtered_movies
-                .iter()
-                .filter(|m| {
-                    Utc.datetime_from_str(&m.release_date, "%Y-%m-%d").unwrap()
-                        >= Utc
-                            .datetime_from_str(&release_date_min, "%Y-%m-%d")
-                            .unwrap()
-                })
-                .cloned()
-                .collect();
-        }
-        if let Some(release_date_max) = criteria.release_date_max {
-            *filtered_movies = filtered_movies
-                .iter()
-                .filter(|m| {
-                    Utc.datetime_from_str(&m.release_date, "%Y-%m-%d").unwrap()
-                        <= Utc
-                            .datetime_from_str(&release_date_max, "%Y-%m-%d")
-                            .unwrap()
-                })
-                .cloned()
-                .collect();
-        }
-        // if let Some(runtime_min) = criteria.runtime_min {
-        //     filtered_movies = *filtered_movies
-        //         .into_iter()
-        //         .filter(|m| m.runtime >= runtime_min)
-        //         .collect();
-        // }
-        // if let Some(runtime_max) = criteria.runtime_max {
-        //     filtered_movies = *filtered_movies
-        //         .into_iter()
-        //         .filter(|m| m.runtime <= runtime_max)
-        //         .collect();
-        // }
-        if let Some(score_min) = criteria.score_min {
-            *filtered_movies = filtered_movies
-                .iter()
-                .filter(|m| m.imdb_score >= score_min.into())
-                .cloned()
-                .collect();
-        }
-
-        if let Some(score_max) = criteria.score_max {
-            *filtered_movies = filtered_movies
-                .iter()
-                .filter(|m| m.imdb_score <= score_max.into())
-                .cloned()
-                .collect();
-        }
-
-        filtered_movies.to_vec()
-    } else {
-        vec![]
+    if let Some(genre) = criteria.genre {
+        let target_genres: Vec<&str> = genre.split(",").map(|g| g.trim()).collect();
+        filtered_movies = filtered_movies
+            .iter()
+            .filter(|m| {
+                target_genres
+                    .iter()
+                    .any(|g| m.genres.contains(&g.to_string()))
+            })
+            .cloned()
+            .collect();
     }
+    if let Some(mpaa) = criteria.mpaa {
+        filtered_movies = filtered_movies
+            .iter()
+            .filter(|m| m.mpaa == mpaa)
+            .cloned()
+            .collect();
+    }
+    if let Some(release_date_min) = criteria.release_date_min {
+        filtered_movies = filtered_movies
+            .iter()
+            .filter(|m| {
+                Utc.datetime_from_str(&m.release_date, "%Y-%m-%d").unwrap()
+                    >= Utc
+                        .datetime_from_str(&release_date_min, "%Y-%m-%d")
+                        .unwrap()
+            })
+            .cloned()
+            .collect();
+    }
+    if let Some(release_date_max) = criteria.release_date_max {
+        filtered_movies = filtered_movies
+            .iter()
+            .filter(|m| {
+                Utc.datetime_from_str(&m.release_date, "%Y-%m-%d").unwrap()
+                    <= Utc
+                        .datetime_from_str(&release_date_max, "%Y-%m-%d")
+                        .unwrap()
+            })
+            .cloned()
+            .collect();
+    }
+    // if let Some(runtime_min) = criteria.runtime_min {
+    //     filtered_movies = *filtered_movies
+    //         .into_iter()
+    //         .filter(|m| m.runtime >= runtime_min)
+    //         .collect();
+    // }
+    // if let Some(runtime_max) = criteria.runtime_max {
+    //     filtered_movies = *filtered_movies
+    //         .into_iter()
+    //         .filter(|m| m.runtime <= runtime_max)
+    //         .collect();
+    // }
+    if let Some(score_min) = criteria.score_min {
+        filtered_movies = filtered_movies
+            .iter()
+            .filter(|m| m.imdb_score >= score_min.into())
+            .cloned()
+            .collect();
+    }
+
+    if let Some(score_max) = criteria.score_max {
+        filtered_movies = filtered_movies
+            .iter()
+            .filter(|m| m.imdb_score <= score_max.into())
+            .cloned()
+            .collect();
+    }
+
+    filtered_movies.to_vec()
 }
