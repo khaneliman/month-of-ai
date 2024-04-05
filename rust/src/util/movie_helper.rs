@@ -32,6 +32,7 @@ pub fn can_load_data(cache: &Mutex<Cache>) -> bool {
                 serde_json::from_str(&movie_embeddings_json_content).unwrap();
             *movie_embeddings_lock = data;
         }
+        debug!("Loaded movie embeddings");
 
         let mut top_movies_lock = cache_lock.top_movies.lock().unwrap();
         if top_movies_lock.is_empty() {
@@ -39,6 +40,7 @@ pub fn can_load_data(cache: &Mutex<Cache>) -> bool {
             let data: Vec<TopRatedMovie> = serde_json::from_str(&top_movies_json_content).unwrap();
             *top_movies_lock = data;
         }
+        debug!("Loaded top rated movies");
 
         debug!("Loaded data from cache or disk");
         sp.stop();
@@ -77,6 +79,7 @@ pub fn find_similar_movies(
             });
         }
     }
+    debug!("Found {} similar movies", cosine_similarities.len());
 
     cosine_similarities
 }
@@ -86,6 +89,7 @@ pub async fn filter_movies(
     top_movies: Vec<TopRatedMovie>,
 ) -> Vec<TopRatedMovie> {
     let mut filtered_movies = top_movies;
+    debug!("Filtering movies");
 
     if let Some(genre) = criteria.genre {
         let target_genres: Vec<&str> = genre.split(",").map(|g| g.trim()).collect();
@@ -99,6 +103,8 @@ pub async fn filter_movies(
             .cloned()
             .collect();
     }
+    debug!("{} movies left after genre filter", filtered_movies.len());
+
     if let Some(mpaa) = criteria.mpaa {
         filtered_movies = filtered_movies
             .iter()
@@ -106,6 +112,8 @@ pub async fn filter_movies(
             .cloned()
             .collect();
     }
+    debug!("{} movies left after mpaa filter", filtered_movies.len());
+
     if let Some(release_date_min) = criteria.release_date_min {
         filtered_movies = filtered_movies
             .iter()
@@ -118,6 +126,11 @@ pub async fn filter_movies(
             .cloned()
             .collect();
     }
+    debug!(
+        "{} movies left after min release date filter",
+        filtered_movies.len()
+    );
+
     if let Some(release_date_max) = criteria.release_date_max {
         filtered_movies = filtered_movies
             .iter()
@@ -130,6 +143,11 @@ pub async fn filter_movies(
             .cloned()
             .collect();
     }
+    debug!(
+        "{} movies left after max release date filter",
+        filtered_movies.len()
+    );
+
     // if let Some(runtime_min) = criteria.runtime_min {
     //     filtered_movies = *filtered_movies
     //         .into_iter()
@@ -149,6 +167,10 @@ pub async fn filter_movies(
             .cloned()
             .collect();
     }
+    debug!(
+        "{} movies left after min score filter",
+        filtered_movies.len()
+    );
 
     if let Some(score_max) = criteria.score_max {
         filtered_movies = filtered_movies
@@ -157,6 +179,10 @@ pub async fn filter_movies(
             .cloned()
             .collect();
     }
+    debug!(
+        "{} movies left after max score filter",
+        filtered_movies.len()
+    );
 
     filtered_movies.to_vec()
 }

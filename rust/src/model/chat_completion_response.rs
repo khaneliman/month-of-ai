@@ -15,7 +15,7 @@ pub struct ChatCompletionResponse {
     pub object: Option<String>,
     pub created: Option<u64>,
     pub model: Option<String>,
-    pub choices: Vec<OAIChoiceResponse>,
+    pub choices: Option<Vec<OAIChoiceResponse>>,
 }
 
 #[derive(Serialize, Deserialize, Debug)]

@@ -1,6 +1,7 @@
 use crate::model::cache::Cache;
 use crate::model::chat_completion_request::{
-    ChatCompletionRequest, Message, ResponseFormat, ResponseType::JsonObject,
+    ChatCompletionRequest, Message, RequestTool, ResponseFormat, ResponseType::JsonObject,
+    ResponseType::Text, ToolFunction,
 };
 use crate::model::chat_completion_response::ChatCompletionResponse;
 use crate::model::config::Config;
@@ -99,7 +100,9 @@ async fn ask_question(
 
     let json: ChatCompletionResponse = from_str(&response_body)?;
 
-    let message = json.choices[0].message.content.to_string();
+    // let message = json.choices[0].message.content.to_string();
+    let message = extract_message(&json);
+
     debug!("{}", message);
 
     // Return the response as plain text
@@ -174,10 +177,12 @@ async fn get_movie_criteria(
     let json: ChatCompletionResponse = from_str(&response_body)?;
 
     let movie_criteria_response: MovieCriteria =
-        from_str(&json.choices[0].message.content.to_string())?;
+        // from_str(&json.choices[0].message.content.to_string())?;
+      from_str(&extract_message(&json))?;
     debug!("{:?}", movie_criteria_response);
 
-    let message = json.choices[0].message.content.to_string();
+    // let message = json.choices[0].message.content.to_string();
+    let message = extract_message(&json);
 
     return Ok(message);
 }
@@ -241,7 +246,6 @@ async fn movie_chat(
 
     let mut sp = Spinner::new(Spinners::Dots9, "\t\tOpenAI is thinking...".into());
 
-    // TODO: get movie criteria from the last question
     let system_message = Message::builder()
         .role(String::from("system"))
         .content(format!(
@@ -254,9 +258,69 @@ async fn movie_chat(
     // Extract the chat_messages from web::Json<ChatCompletionRequest>
     let chat_messages_inner = chat_messages.into_inner();
 
+    let tool_function = ToolFunction::builder()
+    .name("filter_movies".to_string())
+    .description("Filters movies based on the movie criteria".to_string())
+    .parameters(serde_json::json!({
+        "type": "object",
+        "properties": {
+            "movie_criteria": {
+                "type": "object",
+                "properties": {
+                    "search": { "type": "string" },
+                    "genre": { "type": "string" },
+                    "mpaa": { "type": "string" },
+                    "release_date_min": { "type": "string" },
+                    "release_date_max": { "type": "string" },
+                    "score_min": { "type": "number" },
+                    "score_max": { "type": "number" },
+                    "natural_language": { "type": "string" }
+                },
+                "required": ["search"]
+            },
+            "top_rated_movies": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "backdrop_path": { "type": "string" },
+                        "id": { "type": "integer" },
+                        "title": { "type": "string" },
+                        "poster_path": { "type": "string" },
+                        "release_date": { "type": "string" },
+                        "vote_average": { "type": "number" },
+                        "vote_count": { "type": "integer" },
+                        "popularity": { "type": "number" },
+                        "overview": { "type": "string" },
+                        "imdb_id": { "type": "string" },
+                        "budget": { "type": "integer" },
+                        "homepage": { "type": "string" },
+                        "revenue": { "type": "integer" },
+                        "runtime": { "type": "integer" },
+                        "tagline": { "type": "string" },
+                        "genres": { "type": "array", "items": { "type": "string" } },
+                        "cast": { "type": "array", "items": { "type": "object" } },
+                        "keywords": { "type": "array", "items": { "type": "string" } },
+                        "mpaa": { "type": "string" },
+                        "summaries": { "type": "array", "items": { "type": "string" } },
+                        "synopsis": { "type": "string" },
+                        "imdb_score": { "type": "number" }
+                    },
+                    "required": ["backdrop_path", "id", "title", "poster_path", "release_date", "vote_average", "vote_count", "popularity", "mpaa", "imdb_score"]
+                }
+            }
+        },
+        "required": ["movie_criteria"]
+    }))
+    .build();
+
+    let filter_tool = RequestTool::builder().function(tool_function).build();
+
     // Iterate over each message in the messages vector and add a .message(message) call for each one
     let mut oai_request_builder = ChatCompletionRequest::builder()
         .model(config_data.open_ai.model.clone())
+        .tool(filter_tool)
+        .response_format(ResponseFormat { type_: Text })
         .message(system_message); // Start with the system message
 
     for message in chat_messages_inner.messages {
@@ -288,7 +352,8 @@ async fn movie_chat(
 
     let json: ChatCompletionResponse = from_str(&response_body)?;
 
-    let message = json.choices[0].message.content.to_string();
+    // let message = json.choices[0].message.content.to_string();
+    let message = extract_message(&json);
     debug!("{}", message);
 
     // Return the response as plain text
@@ -297,4 +362,18 @@ async fn movie_chat(
         .body(message);
 
     return Ok(response);
+}
+
+fn extract_message(json: &ChatCompletionResponse) -> String {
+    match &json.choices {
+        Some(choices) => {
+            if let Some(first_choice) = choices.get(0) {
+                return first_choice.message.content.to_string();
+            }
+        }
+        None => {}
+    }
+
+    // Return a default message if choices is None or the first choice is missing
+    "Default Message".to_string()
 }
