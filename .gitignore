@@ -362,6 +362,6 @@ MigrationBackup/
 FodyWeavers.xsd
 
 **/.direnv
-rust/target
-rust/src/data/embeddings.json
-rust/config.toml
+target
+src/data/embeddings.json
+config.yaml
