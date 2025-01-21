@@ -5,8 +5,15 @@
     rust-overlay.url = "github:oxalica/rust-overlay";
   };
 
-  outputs = { self, nixpkgs, rust-overlay, flake-utils, ... }:
-    flake-utils.lib.eachDefaultSystem (system:
+  outputs =
+    {
+      nixpkgs,
+      rust-overlay,
+      flake-utils,
+      ...
+    }:
+    flake-utils.lib.eachDefaultSystem (
+      system:
       let
         overlays = [ (import rust-overlay) ];
         pkgs = import nixpkgs {
@@ -24,17 +31,12 @@
             rustfmt
             clippy
             openssl
-          ]
-          ++ lib.optionals stdenv.isDarwin
-            (with pkgs.darwin.apple_sdk.frameworks;
-            [
-              SystemConfiguration
-            ]);
+          ];
 
-          nativeBuildInputs = with pkgs;
-            [
-              pkg-config
-            ];
+          nativeBuildInputs = with pkgs; [
+            pkg-config
+          ];
         };
-      });
+      }
+    );
 }
